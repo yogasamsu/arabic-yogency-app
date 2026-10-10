@@ -1,0 +1,2688 @@
+{
+  "unit": 16,
+  "book": "1b",
+  "title_ar": "العُطْلَةُ وَالأَعْيادُ",
+  "title_id": "Liburan dan hari raya",
+  "notes": "Unit terakhir jilid 1: akhir tahun pertama, libur Lebaran. Dialog 1: Rizki–Budi berkemas mudik di asrama (Rizki ke Bandung lalu sekeluarga ke Makassar; Budi ke Surabaya; Yusuf yang sudah pulang ke Turki hanya muncul lewat pesan). Dialog 2: Siti–Aisyah membandingkan Hari Raya di Malaysia dan Lebaran di Indonesia. Dialog 3: pagi 1 Syawal di rumah Nenek Aminah di Makassar (Nur, Nenek Aminah, Kakek Umar, Pak Ahmad): zakat fitrah, tanggal Iduladha, dua hari raya, ketupat. Pola: أَيْنَ سَتَقْضُونَ…؟ / سَنَقْضِي، نُسافِرُ إِلَى … بِـ، مَتَى يَكُونُ…؟ + tanggal Hijriah (ذُو → ذِي), كُلّ (setiap/seluruh), khabar muqaddam + mubtada' mutsanna (فِي السَّنَةِ عِيدانِ، لَنا يَوْمانِ، عِنْدَ رِزْقِي أُخْتانِ). 12 bulan Hijriah. Bunyi: alif lam syamsiyah/qamariyah. Kalam: ucapan hari raya + cerita gambar Iduladha di masjid kompleks (kurban digambarkan tanpa darah/penyembelihan; Pak Wayan menerima daging sebagai tetangga). Bacaan: tulisan Rizki tentang Lebaran di Makassar (halalbihalal) dan kartu data jadwal perjalanan Siti ke Danau Toba. Menulis: kartu ucapan untuk Ustazah Zainab + imla' beraudio. Kata Indonesia كِتُوباتْ (ketupat) ditulis tanpa i'rab seperti nama Indonesia. أَقارِب tidak diberi tanda serapan (kata Indonesia 'kerabat' berasal dari قَرابَة, bukan أَقارِب). Ditulis dari nol tanpa membuka teks ABY; cek kemiripan dengan halaman ABY 1/16 belum dilakukan. Pemeriksaan independen (2026-10-04): harakat dan i'rab diperiksa baris demi baris (أَقارِبُ/يُوسُفَ/آمِنَةَ/زَيْنَبَ ghairu munsarif benar; خَمْسَةُ خِرافٍ، خَمْسُ ساعاتٍ benar); 12 bulan Hijriah benar ejaan dan harakatnya (رَبِيعٌ الأَوَّلُ bentuk sifat; bentuk idafah رَبِيعُ الأَوَّلِ juga lazim). كِتُوباتْ dan باراباتْ tidak diawali sukun (ك berkasrah, ب + alif), jadi dipertahankan. Tanda serapan dicabut dari مِنَ العائِدِينَ وَالفائِزِينَ (frasa, bukan lema KBBI); صِيام/siam, زِيارَة/ziarah, قُرْبان/kurban tetap; أَقارِب tetap tanpa tanda. Emoji 🚆 dibuang dari soal 'Rizki naik apa' (membocorkan jawaban). Klaim libur Lebaran Indonesia 'kira-kira seminggu' wajar (libur nasional + cuti bersama); Malaysia 2 hari libur nasional, benar. Cek kemiripan ABY 1/16 (hlm. PDF 212–219, visual; cek_kemiripan.py tidak mencakup 1B): dialog 1 ABY (anak bertanya kepada ayah: ada berapa hari raya, kapan Idulfitri, zakat fitrah, salat Id lalu mengunjungi keluarga, kapan Iduladha = 10 Zulhijah). Dialog 3 kita memuat 4 baris berurutan yang hampir sama isinya (مَتَى يَكُونُ عِيدُ الأَضْحَى ← فِي العاشِرِ مِنْ ذِي الحِجَّةِ، هَلْ لِلْمُسْلِمِينَ عِيدانِ ← عِيدُ الفِطْرِ وَعِيدُ الأَضْحَى): ditulis ulang menjadi rencana Kakek–Nenek berkunjung ke Bandung saat Iduladha (± dua bulan lagi); soal jumlah-id dan susun-lilmuslimin diganti (kakek-ke-bandung, susun-tazurunana), kapan-iduladha disesuaikan. Dialog 2 kita (ماذا تَفْعَلُونَ فِي العِيدِ ← نُصَلِّي صَلاةَ العِيدِ، ثُمَّ نَزُورُ الأَقارِبَ) mirip ABY (ماذا نَعْمَلُ… ← نُصَلِّي صَلاةَ العِيدِ، وَنَزُورُ الأَهْلَ): ditulis ulang menjadi كَيْفَ العِيدُ فِي مالِيزِيا؟ ← مِثْلُ العِيدِ هُنا… رَنْدانْغ; soal madza-tafalun-arti dan dengar-nushalli diganti (kaifa-id-arti, dengar-nazuru-rendang). Latihan bulan ABY (urutkan, قَبْلَ/بَعْدَ termasuk رَجَب–شَعْبان, bulan pertama/terakhir): soal sesudah-rajab diganti sesudah-dzulhijjah, lat-bulan-terakhir diganti lat-bulan-11. Dialog 2–3 ABY (keluarga ke Mesir; guru bertanya أَيْنَ سَتَقْضُونَ عُطْلَةَ الصَّيْفِ) hanya berbagi pola dari kerangka (أَيْنَ سَتَقْضُونَ، سَأَقْضِي، نُسافِرُ بِـ), tidak ada kalimat berurutan yang sama. Cek susun kalimat (arrange) satu urutan: عِيدُ الأَضْحَى فِي العاشِرِ مِنْ ذِي الحِجَّةِ (jar-majrur bisa di depan) → فِي العاشِرِ مِنْ ذِي الحِجَّةِ; نُسافِرُ إِلَى بانْدُونْغ بِالقِطارِ (dua jar-majrur bisa ditukar) → نُسافِرُ بِقِطارِ الصَّباحِ; نَزُورُ جَدَّتِي كُلَّ سَنَةٍ (كُلَّ سَنَةٍ bisa di depan) → لِكُلِّ طالِبٍ عُطْلَةٌ (mubtada' nakirah tidak bisa didahulukan). Kunci tetap. Atas permintaan koordinator: contoh khabar muqaddam فِي السَّنَةِ عِيدانِ (mirip ABY فِي الإِسْلامِ عِيدانِ) diganti فِي بَيْتِ جَدَّتِي غُرْفَتانِ; soal lengkapi-idani diganti lengkapi-ghurfatani.",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Mudik ke mana?",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Akhir Ramadan, hari terakhir sebelum libur. Di kamar asrama, Rizki berkemas untuk mudik.",
+          "rows": [
+            {
+              "who": "budi",
+              "ar": "يا رِزْقِي، مَتَى تُسافِرُ إِلَى بانْدُونْغ؟",
+              "id": "Rizki, kapan kamu berangkat ke Bandung?"
+            },
+            {
+              "who": "rizki",
+              "ar": "غَدًا إِنْ شاءَ اللّٰهُ، بِالقِطارِ.",
+              "id": "Besok insyaallah, naik kereta."
+            },
+            {
+              "who": "budi",
+              "ar": "أَيْنَ سَتَقْضُونَ العِيدَ؟ فِي بانْدُونْغ؟",
+              "id": "Kalian akan berlebaran di mana? Di Bandung?"
+            },
+            {
+              "who": "rizki",
+              "ar": "لا، نُسافِرُ كُلُّنا إِلَى جَدَّتِي فِي ماكاسار.",
+              "id": "Tidak, kami semua pergi ke nenek saya di Makassar."
+            },
+            {
+              "who": "rizki",
+              "ar": "وَأَنْتُمْ؟ أَيْنَ سَتَقْضُونَ العِيدَ؟",
+              "id": "Kalau kalian? Kalian akan berlebaran di mana?"
+            },
+            {
+              "who": "budi",
+              "ar": "فِي سُورابايا. عِنْدِي أَقارِبُ كَثِيرُونَ هُناكَ.",
+              "id": "Di Surabaya. Saya punya banyak kerabat di sana."
+            },
+            {
+              "who": "budi",
+              "ar": "وَهٰذِهِ رِسالَةٌ مِنْ يُوسُفَ فِي تُرْكِيا.",
+              "id": "Dan ini pesan dari Yusuf di Turki."
+            },
+            {
+              "who": "rizki",
+              "ar": "ما شاءَ اللّٰهُ! ماذا كَتَبَ؟",
+              "id": "Masyaallah! Dia menulis apa?"
+            },
+            {
+              "who": "budi",
+              "ar": "كَتَبَ: عِيدٌ مُبارَكٌ، تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ.",
+              "id": "Dia menulis: Selamat Hari Raya, semoga Allah menerima (amal) kami dan kalian."
+            }
+          ],
+          "img": "u16-mudik-asrama",
+          "scene": "Late Ramadan evening in a simple dormitory room in Yogyakarta: Rizki packs clothes into a travel bag on his bed, while Budi sits on the opposite bed holding up his phone to show Rizki a message; a small box of dates and a folded prayer mat on the desk."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "عِيدٌ",
+              "id": "hari raya",
+              "emoji": "🎉",
+              "serapan": "Id (salat Id)"
+            },
+            {
+              "ar": "قَضَى – يَقْضِي",
+              "id": "melewatkan, menghabiskan (waktu)",
+              "emoji": "🗓️"
+            },
+            {
+              "ar": "سَتَقْضُونَ",
+              "id": "kalian akan melewatkan",
+              "emoji": "👨‍👩‍👦"
+            },
+            {
+              "ar": "نُسافِرُ",
+              "id": "kami bepergian / berangkat",
+              "emoji": "🧳"
+            },
+            {
+              "ar": "كُلُّنا",
+              "id": "kami semua",
+              "emoji": "👪"
+            },
+            {
+              "ar": "أَقارِبُ",
+              "id": "kerabat, sanak saudara",
+              "emoji": "👨‍👩‍👧‍👦"
+            },
+            {
+              "ar": "عِيدٌ مُبارَكٌ",
+              "id": "selamat hari raya",
+              "emoji": "🌙"
+            },
+            {
+              "ar": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ",
+              "id": "semoga Allah menerima (amal) kami dan kalian",
+              "emoji": "🤲"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "aina-taqdhun-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَيْنَ سَتَقْضُونَ العِيدَ؟"
+          },
+          "answer": "Kalian akan berlebaran di mana?",
+          "options": [
+            "Kalian akan berlebaran di mana?",
+            "Kapan kalian berangkat?",
+            "Kalian naik apa?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "rizki-lebaran-di",
+          "instruction": "Menurut dialog, keluarga Rizki berlebaran di mana?",
+          "prompt": {
+            "ar": "أُسْرَةُ رِزْقِي فِي …",
+            "emoji": "🏝️"
+          },
+          "answer": "Makassar",
+          "options": [
+            "Makassar",
+            "Bandung",
+            "Surabaya"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-ghadan-qitar",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "غَدًا إِنْ شاءَ اللّٰهُ، بِالقِطارِ."
+          },
+          "answer": "Besok insyaallah, naik kereta.",
+          "options": [
+            "Besok insyaallah, naik kereta.",
+            "Besok insyaallah, naik pesawat.",
+            "Hari ini insyaallah, naik bus."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-id-mubarak",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "عِيدٌ مُبارَكٌ!"
+          },
+          "answer": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ.",
+          "options": [
+            "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ.",
+            "وَعَلَيْكُمُ السَّلامُ.",
+            "صَباحَ النُّورِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "yusuf-pesan-dari",
+          "instruction": "Menurut dialog, Yusuf mengirim pesan dari mana?",
+          "prompt": {
+            "ar": "رِسالَةٌ مِنْ يُوسُفَ فِي …",
+            "emoji": "📱"
+          },
+          "answer": "Turki",
+          "options": [
+            "Turki",
+            "Malaysia",
+            "Mesir"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "aqarib-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَقارِبُ"
+          },
+          "answer": "kerabat",
+          "options": [
+            "kerabat",
+            "hari raya",
+            "pesan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-nusafir-makassar",
+          "prompt": {
+            "id": "Kami pergi ke Makassar."
+          },
+          "answer": "نُسافِرُ إِلَى ماكاسار",
+          "extra": [
+            "سَتَقْضُونَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-aina-taqdhun",
+          "prompt": {
+            "id": "Kalian akan berlebaran di mana?"
+          },
+          "answer": "أَيْنَ سَتَقْضُونَ العِيدَ",
+          "extra": [
+            "مَتَى"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-id-mubarak",
+          "who": "budi",
+          "ar": "عِيدٌ مُبارَكٌ!",
+          "id": "Selamat hari raya!"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-kulluna-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "نُسافِرُ كُلُّنا."
+          },
+          "answer": "Kami semua bepergian.",
+          "options": [
+            "Kami semua bepergian.",
+            "Kalian semua bepergian.",
+            "Kami bepergian setiap hari."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-taqabbal",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ."
+          },
+          "answer": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ.",
+          "options": [
+            "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ.",
+            "عِيدٌ مُبارَكٌ.",
+            "جَزاكَ اللّٰهُ خَيْرًا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-budi-lebaran",
+          "instruction": "Menurut dialog, Budi berlebaran di mana?",
+          "prompt": {
+            "ar": "بُودِي فِي …"
+          },
+          "answer": "Surabaya",
+          "options": [
+            "Surabaya",
+            "Makassar",
+            "Yogyakarta"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-sanaqdhi",
+          "prompt": {
+            "id": "Kami akan berlebaran di Surabaya."
+          },
+          "answer": "سَنَقْضِي العِيدَ فِي سُورابايا",
+          "extra": [
+            "سَتَقْضُونَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-rizki-naik",
+          "instruction": "Menurut dialog, Rizki ke Bandung naik apa?",
+          "prompt": {
+            "ar": "بِالقِطارِ"
+          },
+          "answer": "Kereta",
+          "options": [
+            "Kereta",
+            "Pesawat",
+            "Bus"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Hari Raya di Malaysia",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Di asrama putri. Aisyah akan pulang ke Malaysia untuk Hari Raya. Siti bertanya tentang Lebaran di sana.",
+          "rows": [
+            {
+              "who": "siti",
+              "ar": "يا عائِشَةُ، مَتَى تُسافِرِينَ إِلَى مالِيزِيا؟",
+              "id": "Aisyah, kapan kamu berangkat ke Malaysia?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "بَعْدَ غَدٍ إِنْ شاءَ اللّٰهُ. سَأَقْضِي العِيدَ مَعَ أُسْرَتِي.",
+              "id": "Lusa insyaallah. Saya akan berlebaran bersama keluarga saya."
+            },
+            {
+              "who": "siti",
+              "ar": "كَيْفَ العِيدُ فِي مالِيزِيا؟",
+              "id": "Bagaimana Hari Raya di Malaysia?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "مِثْلُ العِيدِ هُنا. نَزُورُ الأَقارِبَ وَنَأْكُلُ رَنْدانْغ.",
+              "id": "Sama seperti di sini. Kami mengunjungi kerabat dan makan rendang."
+            },
+            {
+              "who": "siti",
+              "ar": "كَمْ يَوْمًا عُطْلَةُ العِيدِ عِنْدَكُمْ؟",
+              "id": "Libur Hari Raya di negaramu berapa hari?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "لَنا يَوْمانِ فَقَطْ. وَعِنْدَكُمْ؟",
+              "id": "Kami punya dua hari saja. Kalau di negaramu?"
+            },
+            {
+              "who": "siti",
+              "ar": "عِنْدَنا أُسْبُوعٌ تَقْرِيبًا.",
+              "id": "Kami punya kira-kira satu minggu."
+            },
+            {
+              "who": "aisyah",
+              "ar": "عِيدٌ مُبارَكٌ يا سِيتِي!",
+              "id": "Selamat Hari Raya, Siti!"
+            },
+            {
+              "who": "siti",
+              "ar": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ.",
+              "id": "Semoga Allah menerima (amal) kami dan kalian."
+            }
+          ],
+          "img": "u16-hari-raya-malaysia",
+          "scene": "Siti and Aisyah in their dormitory room in Yogyakarta folding clothes into a suitcase; Aisyah shows Siti a photo on her phone of a Malaysian family in matching festive clothes visiting relatives; a woven palm-leaf ketupat decoration hangs by the window."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "تُسافِرِينَ",
+              "id": "kamu (pr) bepergian / berangkat",
+              "emoji": "🧳"
+            },
+            {
+              "ar": "بَعْدَ غَدٍ",
+              "id": "lusa",
+              "emoji": "📅"
+            },
+            {
+              "ar": "مِثْلُ",
+              "id": "seperti, sama dengan",
+              "emoji": "🟰"
+            },
+            {
+              "ar": "نَزُورُ",
+              "id": "kami mengunjungi",
+              "emoji": "🏡"
+            },
+            {
+              "ar": "عِنْدَكُمْ",
+              "id": "di tempat kalian / kalian punya",
+              "emoji": "👉"
+            },
+            {
+              "ar": "يَوْمانِ",
+              "id": "dua hari",
+              "emoji": "2️⃣"
+            },
+            {
+              "ar": "تَقْرِيبًا",
+              "id": "kira-kira",
+              "emoji": "≈"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "kaifa-id-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "كَيْفَ العِيدُ فِي مالِيزِيا؟"
+          },
+          "answer": "Bagaimana Hari Raya di Malaysia?",
+          "options": [
+            "Bagaimana Hari Raya di Malaysia?",
+            "Kapan Hari Raya di Malaysia?",
+            "Di mana kamu berlebaran?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "libur-malaysia",
+          "instruction": "Menurut dialog, libur Hari Raya di Malaysia berapa hari?",
+          "prompt": {
+            "ar": "لَنا … فَقَطْ",
+            "emoji": "🗓️"
+          },
+          "answer": "Dua hari",
+          "options": [
+            "Dua hari",
+            "Satu minggu",
+            "Tiga hari"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-nazuru-rendang",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "نَزُورُ الأَقارِبَ وَنَأْكُلُ رَنْدانْغ."
+          },
+          "answer": "Kami mengunjungi kerabat dan makan rendang.",
+          "options": [
+            "Kami mengunjungi kerabat dan makan rendang.",
+            "Kami mengunjungi kerabat dan makan ketupat.",
+            "Kami salat Id, lalu makan rendang."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "aisyah-berangkat",
+          "instruction": "Menurut dialog, kapan Aisyah berangkat?",
+          "prompt": {
+            "ar": "بَعْدَ غَدٍ"
+          },
+          "answer": "Lusa",
+          "options": [
+            "Lusa",
+            "Besok",
+            "Satu minggu lagi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "tanya-aisyah-mata",
+          "instruction": "Kamu bertanya kepada Aisyah kapan dia berangkat. Kamu berkata …",
+          "prompt": {
+            "id": "Kapan kamu berangkat? (pr)",
+            "emoji": "🧕"
+          },
+          "answer": "مَتَى تُسافِرِينَ؟",
+          "options": [
+            "مَتَى تُسافِرِينَ؟",
+            "مَتَى تُسافِرُ؟",
+            "مَتَى نُسافِرُ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-lana-yaumani",
+          "prompt": {
+            "id": "Kami punya dua hari saja."
+          },
+          "answer": "لَنا يَوْمانِ فَقَطْ",
+          "extra": [
+            "يَوْمًا"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-saaqdhi",
+          "prompt": {
+            "id": "Saya akan berlebaran bersama keluarga saya."
+          },
+          "answer": "سَأَقْضِي العِيدَ مَعَ أُسْرَتِي",
+          "extra": [
+            "سَتَقْضُونَ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-taqabbal",
+          "who": "aisyah",
+          "ar": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ.",
+          "id": "Semoga Allah menerima (amal) kami dan kalian."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-taqriban-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "تَقْرِيبًا"
+          },
+          "answer": "kira-kira",
+          "options": [
+            "kira-kira",
+            "lusa",
+            "saja"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-bada-ghad-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "بَعْدَ غَدٍ"
+          },
+          "answer": "lusa",
+          "options": [
+            "lusa",
+            "besok",
+            "sesudah hari raya"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-lana",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "لَنا يَوْمانِ فَقَطْ."
+          },
+          "answer": "لَنا يَوْمانِ فَقَطْ.",
+          "options": [
+            "لَنا يَوْمانِ فَقَطْ.",
+            "عِنْدَنا أُسْبُوعٌ تَقْرِيبًا.",
+            "نَحْنُ أَيْضًا!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-libur-indonesia",
+          "instruction": "Menurut Siti, libur Lebaran di Indonesia kira-kira …",
+          "prompt": {
+            "ar": "عِنْدَنا أُسْبُوعٌ تَقْرِيبًا."
+          },
+          "answer": "satu minggu",
+          "options": [
+            "satu minggu",
+            "dua hari",
+            "satu bulan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-nazuru",
+          "prompt": {
+            "id": "Kami mengunjungi kerabat."
+          },
+          "answer": "نَزُورُ الأَقارِبَ",
+          "extra": [
+            "نُصَلِّي"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Lebaran di rumah Nenek",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Pagi 1 Syawal di rumah Nenek Aminah di Makassar. Keluarga Ahmad baru pulang dari salat Id.",
+          "rows": [
+            {
+              "who": "nur",
+              "ar": "عِيدٌ مُبارَكٌ يا جَدَّتِي!",
+              "id": "Selamat Lebaran, Nek!"
+            },
+            {
+              "who": "nenek_aminah",
+              "ar": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ يا نُور.",
+              "id": "Semoga Allah menerima (amal) kami dan kalian, Nur."
+            },
+            {
+              "who": "kakek_umar",
+              "ar": "يا أَحْمَدُ، هَلْ دَفَعْتُمْ زَكاةَ الفِطْرِ؟",
+              "id": "Ahmad, apakah kalian sudah membayar zakat fitrah?"
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "نَعَمْ، دَفَعْناها فِي المَسْجِدِ قَبْلَ صَلاةِ العِيدِ.",
+              "id": "Ya, kami membayarnya di masjid sebelum salat Id."
+            },
+            {
+              "who": "nur",
+              "ar": "يا جَدِّي، هَلْ تَزُورُونَنا فِي بانْدُونْغ؟",
+              "id": "Kek, apakah Kakek dan Nenek akan mengunjungi kami di Bandung?"
+            },
+            {
+              "who": "kakek_umar",
+              "ar": "نَعَمْ إِنْ شاءَ اللّٰهُ، فِي عِيدِ الأَضْحَى.",
+              "id": "Ya, insyaallah, saat Iduladha."
+            },
+            {
+              "who": "nur",
+              "ar": "مَتَى يَكُونُ عِيدُ الأَضْحَى يا أَبِي؟",
+              "id": "Ayah, kapan Iduladha?"
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "فِي ذِي الحِجَّةِ، بَعْدَ شَهْرَيْنِ تَقْرِيبًا.",
+              "id": "Pada bulan Zulhijah, kira-kira dua bulan lagi."
+            },
+            {
+              "who": "nenek_aminah",
+              "ar": "هَيّا إِلَى الطَّعامِ! عِنْدَنا كِتُوباتْ وَدَجاجٌ.",
+              "id": "Ayo makan! Kita punya ketupat dan ayam."
+            }
+          ],
+          "img": "u16-lebaran-makassar",
+          "scene": "Eid al-Fitr morning in Nenek Aminah's simple house in Makassar: Nur in a new festive dress kisses Nenek Aminah's hand, Kakek Umar sits in a rattan chair talking with Pak Ahmad, and a low table holds ketupat woven from palm leaves and a pot of chicken curry."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "دَفَعَ – يَدْفَعُ",
+              "id": "membayar",
+              "emoji": "💵"
+            },
+            {
+              "ar": "زَكاةُ الفِطْرِ",
+              "id": "zakat fitrah",
+              "emoji": "🌾",
+              "serapan": "zakat fitrah"
+            },
+            {
+              "ar": "قَبْلَ",
+              "id": "sebelum",
+              "emoji": "⏮️"
+            },
+            {
+              "ar": "صَلاةُ العِيدِ",
+              "id": "salat Id",
+              "emoji": "🕌",
+              "serapan": "salat Id"
+            },
+            {
+              "ar": "عِيدُ الفِطْرِ",
+              "id": "Idulfitri",
+              "emoji": "🌙",
+              "serapan": "Idulfitri"
+            },
+            {
+              "ar": "عِيدُ الأَضْحَى",
+              "id": "Iduladha",
+              "emoji": "🐄",
+              "serapan": "Iduladha"
+            },
+            {
+              "ar": "ذُو الحِجَّةِ",
+              "id": "Zulhijah (bulan ke-12)",
+              "emoji": "📅",
+              "serapan": "Zulhijah"
+            },
+            {
+              "ar": "تَزُورُونَنا",
+              "id": "kalian mengunjungi kami",
+              "emoji": "🏠"
+            },
+            {
+              "ar": "بَعْدَ شَهْرَيْنِ",
+              "id": "dua bulan lagi",
+              "emoji": "🗓️"
+            },
+            {
+              "ar": "كِتُوباتْ",
+              "id": "ketupat",
+              "emoji": "🍙"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "kapan-iduladha",
+          "instruction": "Menurut dialog, Iduladha jatuh pada bulan apa?",
+          "prompt": {
+            "ar": "عِيدُ الأَضْحَى فِي …",
+            "emoji": "📅"
+          },
+          "answer": "Zulhijah",
+          "options": [
+            "Zulhijah",
+            "Syawal",
+            "Ramadan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "zakat-di-mana",
+          "instruction": "Menurut dialog, di mana keluarga Ahmad membayar zakat fitrah?",
+          "prompt": {
+            "ar": "دَفَعْناها فِي …"
+          },
+          "answer": "Di masjid",
+          "options": [
+            "Di masjid",
+            "Di rumah Nenek",
+            "Di pasar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-mata-yakun",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "مَتَى يَكُونُ عِيدُ الأَضْحَى؟"
+          },
+          "answer": "Kapan Iduladha?",
+          "options": [
+            "Kapan Iduladha?",
+            "Kapan Idulfitri?",
+            "Di mana salat Iduladha?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "qabla-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "قَبْلَ صَلاةِ العِيدِ"
+          },
+          "answer": "sebelum salat Id",
+          "options": [
+            "sebelum salat Id",
+            "sesudah salat Id",
+            "pada hari raya"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kakek-ke-bandung",
+          "instruction": "Menurut dialog, kapan Kakek dan Nenek akan mengunjungi keluarga Nur di Bandung?",
+          "prompt": {
+            "ar": "نَعَمْ إِنْ شاءَ اللّٰهُ، فِي عِيدِ الأَضْحَى."
+          },
+          "answer": "Saat Iduladha",
+          "options": [
+            "Saat Iduladha",
+            "Besok pagi",
+            "Bulan Ramadan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-dafatum",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "هَلْ دَفَعْتُمْ زَكاةَ الفِطْرِ؟"
+          },
+          "answer": "نَعَمْ، دَفَعْناها.",
+          "options": [
+            "نَعَمْ، دَفَعْناها.",
+            "نَعَمْ، أَكَلْناها.",
+            "لا، نُسافِرُ غَدًا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-adha-dzilhijjah",
+          "prompt": {
+            "id": "Pada tanggal sepuluh Zulhijah."
+          },
+          "answer": "فِي العاشِرِ مِنْ ذِي الحِجَّةِ",
+          "extra": [
+            "ذُو"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-tazurunana",
+          "prompt": {
+            "id": "Apakah kalian akan mengunjungi kami di Bandung?"
+          },
+          "answer": "هَلْ تَزُورُونَنا فِي بانْدُونْغ",
+          "extra": [
+            "نَزُورُ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-fitr-adha",
+          "who": "kakek_umar",
+          "ar": "عِيدُ الفِطْرِ وَعِيدُ الأَضْحَى",
+          "id": "Idulfitri dan Iduladha"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dafa-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "دَفَعَ"
+          },
+          "answer": "dia (lk) membayar",
+          "options": [
+            "dia (lk) membayar",
+            "dia (lk) mengunjungi",
+            "dia (lk) bepergian"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dzulhijjah-ar",
+          "instruction": "Bahasa Arabnya \"Zulhijah\" adalah …",
+          "prompt": {
+            "id": "Zulhijah",
+            "emoji": "📅"
+          },
+          "answer": "ذُو الحِجَّةِ",
+          "options": [
+            "ذُو الحِجَّةِ",
+            "ذُو القَعْدَةِ",
+            "شَوّالٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-dafana",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "دَفَعْناها فِي المَسْجِدِ."
+          },
+          "answer": "Kami membayarnya di masjid.",
+          "options": [
+            "Kami membayarnya di masjid.",
+            "Kami salat di masjid.",
+            "Kami bertemu di masjid."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-makanan-nenek",
+          "instruction": "Menurut dialog, Nenek menyiapkan apa?",
+          "prompt": {
+            "ar": "عِنْدَنا كِتُوباتْ وَدَجاجٌ."
+          },
+          "answer": "Ketupat dan ayam",
+          "options": [
+            "Ketupat dan ayam",
+            "Nasi goreng dan ikan",
+            "Roti dan teh"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-mata-yakun",
+          "prompt": {
+            "id": "Kapan hari raya?"
+          },
+          "answer": "مَتَى يَكُونُ العِيدُ",
+          "extra": [
+            "أَيْنَ"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & bulan Hijriah",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Hari raya",
+          "rows": [
+            {
+              "ar": "عِيدٌ",
+              "id": "hari raya",
+              "emoji": "🎉",
+              "serapan": "Id"
+            },
+            {
+              "ar": "عِيدُ الفِطْرِ",
+              "id": "Idulfitri",
+              "emoji": "🌙",
+              "serapan": "Idulfitri"
+            },
+            {
+              "ar": "عِيدُ الأَضْحَى",
+              "id": "Iduladha",
+              "emoji": "🐄",
+              "serapan": "Iduladha"
+            },
+            {
+              "ar": "صَلاةُ العِيدِ",
+              "id": "salat Id",
+              "emoji": "🕌",
+              "serapan": "salat Id"
+            },
+            {
+              "ar": "تَكْبِيرٌ",
+              "id": "takbir (takbiran)",
+              "emoji": "📢",
+              "serapan": "takbir"
+            },
+            {
+              "ar": "زَكاةُ الفِطْرِ",
+              "id": "zakat fitrah",
+              "emoji": "🌾",
+              "serapan": "zakat fitrah"
+            },
+            {
+              "ar": "صِيامٌ",
+              "id": "puasa",
+              "emoji": "🌅",
+              "serapan": "siam"
+            },
+            {
+              "ar": "قُرْبانٌ",
+              "id": "kurban",
+              "emoji": "🐐",
+              "serapan": "kurban"
+            },
+            {
+              "ar": "أُضْحِيَّةٌ",
+              "id": "hewan kurban (Iduladha)",
+              "emoji": "🐑"
+            },
+            {
+              "ar": "زِيارَةٌ",
+              "id": "kunjungan",
+              "emoji": "🏡",
+              "serapan": "ziarah"
+            },
+            {
+              "ar": "أَقارِبُ",
+              "id": "kerabat, sanak saudara",
+              "emoji": "👨‍👩‍👧‍👦"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Liburan",
+          "rows": [
+            {
+              "ar": "عُطْلَةٌ",
+              "id": "libur, liburan",
+              "emoji": "🏖️"
+            },
+            {
+              "ar": "شاطِئٌ",
+              "id": "pantai",
+              "emoji": "🏝️"
+            },
+            {
+              "ar": "بُحَيْرَةٌ",
+              "id": "danau",
+              "emoji": "🏞️"
+            },
+            {
+              "ar": "سَنَةٌ",
+              "id": "tahun",
+              "emoji": "📆"
+            },
+            {
+              "ar": "عامٌ",
+              "id": "tahun",
+              "emoji": "📆"
+            },
+            {
+              "ar": "كُلَّ سَنَةٍ",
+              "id": "setiap tahun",
+              "emoji": "🔁"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Bulan Hijriah",
+          "note_id": "Semua nama bulan ini sudah dipakai dalam bahasa Indonesia. Perhatikan: شَعْبانُ dan رَمَضانُ tidak bertanwin.",
+          "rows": [
+            {
+              "ar": "مُحَرَّمٌ",
+              "id": "bulan ke-1",
+              "serapan": "Muharam"
+            },
+            {
+              "ar": "صَفَرٌ",
+              "id": "bulan ke-2",
+              "serapan": "Safar"
+            },
+            {
+              "ar": "رَبِيعٌ الأَوَّلُ",
+              "id": "bulan ke-3",
+              "serapan": "Rabiulawal"
+            },
+            {
+              "ar": "رَبِيعٌ الآخِرُ",
+              "id": "bulan ke-4",
+              "serapan": "Rabiulakhir"
+            },
+            {
+              "ar": "جُمادَى الأُولَى",
+              "id": "bulan ke-5",
+              "serapan": "Jumadilawal"
+            },
+            {
+              "ar": "جُمادَى الآخِرَةُ",
+              "id": "bulan ke-6",
+              "serapan": "Jumadilakhir"
+            },
+            {
+              "ar": "رَجَبٌ",
+              "id": "bulan ke-7",
+              "serapan": "Rajab"
+            },
+            {
+              "ar": "شَعْبانُ",
+              "id": "bulan ke-8",
+              "serapan": "Syakban"
+            },
+            {
+              "ar": "رَمَضانُ",
+              "id": "bulan ke-9 (bulan puasa)",
+              "serapan": "Ramadan"
+            },
+            {
+              "ar": "شَوّالٌ",
+              "id": "bulan ke-10 (Idulfitri)",
+              "serapan": "Syawal"
+            },
+            {
+              "ar": "ذُو القَعْدَةِ",
+              "id": "bulan ke-11",
+              "serapan": "Zulkaidah"
+            },
+            {
+              "ar": "ذُو الحِجَّةِ",
+              "id": "bulan ke-12 (haji, Iduladha)",
+              "serapan": "Zulhijah"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "gambar-shati",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🏝️"
+          },
+          "answer": "شاطِئٌ",
+          "options": [
+            "شاطِئٌ",
+            "بُحَيْرَةٌ",
+            "جَبَلٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-buhairah",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "بُحَيْرَةٌ"
+          },
+          "answer": "danau",
+          "options": [
+            "danau",
+            "pantai",
+            "sungai"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "bulan-puasa",
+          "instruction": "Bulan puasa adalah …",
+          "prompt": {
+            "id": "bulan puasa",
+            "emoji": "🌅"
+          },
+          "answer": "رَمَضانُ",
+          "options": [
+            "رَمَضانُ",
+            "شَعْبانُ",
+            "شَوّالٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "bulan-fitri",
+          "instruction": "Idulfitri jatuh pada bulan …",
+          "prompt": {
+            "id": "Idulfitri",
+            "emoji": "🌙"
+          },
+          "answer": "شَوّالٌ",
+          "options": [
+            "شَوّالٌ",
+            "رَمَضانُ",
+            "ذُو الحِجَّةِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "bulan-pertama",
+          "instruction": "Bulan pertama tahun Hijriah adalah …",
+          "prompt": {
+            "id": "bulan ke-1"
+          },
+          "answer": "مُحَرَّمٌ",
+          "options": [
+            "مُحَرَّمٌ",
+            "صَفَرٌ",
+            "رَجَبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "sesudah-dzulhijjah",
+          "instruction": "Bulan sesudah ذُو الحِجَّةِ (awal tahun baru Hijriah) adalah …",
+          "prompt": {
+            "ar": "ذُو الحِجَّةِ ← ؟"
+          },
+          "answer": "مُحَرَّمٌ",
+          "options": [
+            "مُحَرَّمٌ",
+            "ذُو القَعْدَةِ",
+            "صَفَرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "qurban-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أُضْحِيَّةٌ"
+          },
+          "answer": "hewan kurban",
+          "options": [
+            "hewan kurban",
+            "zakat fitrah",
+            "salat Id"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-qadah",
+          "instruction": "Dengarkan. Bulan apa?",
+          "prompt": {
+            "listen": "ذُو القَعْدَةِ"
+          },
+          "answer": "Zulkaidah",
+          "options": [
+            "Zulkaidah",
+            "Zulhijah",
+            "Jumadilakhir"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "bulan-ketiga",
+          "instruction": "Bulan ke-3 tahun Hijriah adalah …",
+          "prompt": {
+            "id": "bulan ke-3"
+          },
+          "answer": "رَبِيعٌ الأَوَّلُ",
+          "options": [
+            "رَبِيعٌ الأَوَّلُ",
+            "رَبِيعٌ الآخِرُ",
+            "جُمادَى الأُولَى"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-bulan-kedua",
+          "instruction": "Bulan ke-2 tahun Hijriah adalah …",
+          "prompt": {
+            "id": "bulan ke-2"
+          },
+          "answer": "صَفَرٌ",
+          "options": [
+            "صَفَرٌ",
+            "مُحَرَّمٌ",
+            "رَجَبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-shiyam-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "صِيامٌ"
+          },
+          "answer": "puasa",
+          "options": [
+            "puasa",
+            "kunjungan",
+            "takbir"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-syawwal",
+          "instruction": "Dengarkan. Bulan apa?",
+          "prompt": {
+            "listen": "شَوّالٌ"
+          },
+          "answer": "Syawal",
+          "options": [
+            "Syawal",
+            "Syakban",
+            "Safar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-bulan-11",
+          "instruction": "Bulan ke-11 tahun Hijriah adalah …",
+          "prompt": {
+            "id": "bulan ke-11"
+          },
+          "answer": "ذُو القَعْدَةِ",
+          "options": [
+            "ذُو القَعْدَةِ",
+            "ذُو الحِجَّةِ",
+            "شَوّالٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-utlah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "عُطْلَةٌ"
+          },
+          "answer": "libur, liburan",
+          "options": [
+            "libur, liburan",
+            "pantai",
+            "tahun"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-gambar-buhairah",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🏞️",
+            "id": "danau"
+          },
+          "answer": "بُحَيْرَةٌ",
+          "options": [
+            "بُحَيْرَةٌ",
+            "شاطِئٌ",
+            "بَحْرٌ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Kalian, kami, dan rencana libur",
+          "groups": [
+            {
+              "title_ar": "أَيْنَ سَتَقْضُونَ …؟ ← سَنَقْضِي …",
+              "note_id": "تَـ…ـُونَ = kalian. نَـ… = kami. سَـ di depan = akan. قَضَى – يَقْضِي = melewatkan (waktu).",
+              "rows": [
+                {
+                  "ar": "أَقْضِي العُطْلَةَ فِي البَيْتِ.",
+                  "id": "Saya melewatkan liburan di rumah."
+                },
+                {
+                  "ar": "أَيْنَ تَقْضِينَ العُطْلَةَ؟",
+                  "id": "Di mana kamu (pr) melewatkan liburan?"
+                },
+                {
+                  "ar": "أَيْنَ سَتَقْضُونَ العِيدَ؟",
+                  "id": "Di mana kalian akan berlebaran?"
+                },
+                {
+                  "ar": "سَنَقْضِي العِيدَ فِي ماكاسار.",
+                  "id": "Kami akan berlebaran di Makassar."
+                }
+              ]
+            },
+            {
+              "title_ar": "نُسافِرُ إِلَى … بِـ …",
+              "note_id": "Tujuan memakai إِلَى, kendaraan memakai بِـ. Untuk kalian: تُسافِرُونَ.",
+              "rows": [
+                {
+                  "ar": "نُسافِرُ إِلَى بانْدُونْغ بِالقِطارِ.",
+                  "id": "Kami pergi ke Bandung naik kereta."
+                },
+                {
+                  "ar": "هَلْ تُسافِرُونَ بِالطّائِرَةِ؟",
+                  "id": "Apakah kalian pergi naik pesawat?"
+                },
+                {
+                  "ar": "نَعَمْ، نُسافِرُ بِالطّائِرَةِ.",
+                  "id": "Ya, kami pergi naik pesawat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Tanggal, كُلّ, dan bentuk dua",
+          "groups": [
+            {
+              "title_ar": "مَتَى يَكُونُ …؟",
+              "note_id": "يَكُونُ di sini berarti \"jatuh / berlangsung\". Tanggal = bilangan urutan + مِنْ + nama bulan. ذُو berubah menjadi ذِي sesudah مِنْ atau فِي.",
+              "rows": [
+                {
+                  "ar": "مَتَى يَكُونُ عِيدُ الفِطْرِ؟",
+                  "id": "Kapan Idulfitri?"
+                },
+                {
+                  "ar": "يَكُونُ فِي الأَوَّلِ مِنْ شَوّالٍ.",
+                  "id": "Jatuh pada tanggal satu Syawal."
+                },
+                {
+                  "ar": "عِيدُ الأَضْحَى فِي العاشِرِ مِنْ ذِي الحِجَّةِ.",
+                  "id": "Iduladha pada tanggal sepuluh Zulhijah."
+                }
+              ]
+            },
+            {
+              "title_ar": "كُلَّ سَنَةٍ · كُلُّ الأُسْرَةِ · كُلُّنا",
+              "note_id": "كُلّ + benda tunggal tanpa الـ = setiap. كُلّ + benda ber-الـ atau akhiran = seluruh / semua.",
+              "rows": [
+                {
+                  "ar": "نَزُورُ جَدَّتِي كُلَّ سَنَةٍ.",
+                  "id": "Kami mengunjungi nenek setiap tahun."
+                },
+                {
+                  "ar": "كُلُّ الأُسْرَةِ فِي ماكاسار.",
+                  "id": "Seluruh keluarga ada di Makassar."
+                },
+                {
+                  "ar": "نُسافِرُ كُلُّنا.",
+                  "id": "Kami semua bepergian."
+                }
+              ]
+            },
+            {
+              "title_ar": "فِي بَيْتِ جَدَّتِي غُرْفَتانِ",
+              "note_id": "Kalimat boleh diawali keterangan (فِي، لِـ، عِنْدَ), lalu benda yang dibicarakan di akhir. Bentuk dua berakhiran ـانِ.",
+              "rows": [
+                {
+                  "ar": "فِي بَيْتِ جَدَّتِي غُرْفَتانِ.",
+                  "id": "Di rumah nenek saya ada dua kamar."
+                },
+                {
+                  "ar": "لَنا يَوْمانِ.",
+                  "id": "Kami punya dua hari."
+                },
+                {
+                  "ar": "عِنْدَ رِزْقِي أُخْتانِ.",
+                  "id": "Rizki punya dua saudara perempuan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-taqdhun",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "أَيْنَ … العُطْلَةَ يا أَوْلادُ؟",
+            "id": "Di mana kalian akan melewatkan liburan, anak-anak?"
+          },
+          "answer": "سَتَقْضُونَ",
+          "options": [
+            "سَتَقْضُونَ",
+            "سَتَقْضِينَ",
+            "سَنَقْضِي"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jawab-aina-taqdhun",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "أَيْنَ سَتَقْضُونَ العِيدَ؟"
+          },
+          "answer": "سَنَقْضِي العِيدَ فِي بانْدُونْغ.",
+          "options": [
+            "سَنَقْضِي العِيدَ فِي بانْدُونْغ.",
+            "سَتَقْضُونَ العِيدَ فِي بانْدُونْغ.",
+            "يَكُونُ العِيدُ فِي شَوّالٍ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-dzi",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "عِيدُ الأَضْحَى فِي العاشِرِ مِنْ … الحِجَّةِ."
+          },
+          "answer": "ذِي",
+          "options": [
+            "ذِي",
+            "ذُو",
+            "ذَا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-ghurfatani",
+          "instruction": "Lengkapi: di rumah nenek saya ada dua kamar",
+          "prompt": {
+            "ar": "فِي بَيْتِ جَدَّتِي …"
+          },
+          "answer": "غُرْفَتانِ",
+          "options": [
+            "غُرْفَتانِ",
+            "غُرْفَتَيْنِ",
+            "غُرْفَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "arti-kulla-sanah",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "نَزُورُ جَدَّتِي كُلَّ سَنَةٍ."
+          },
+          "answer": "Kami mengunjungi nenek setiap tahun.",
+          "options": [
+            "Kami mengunjungi nenek setiap tahun.",
+            "Seluruh keluarga mengunjungi nenek.",
+            "Kami mengunjungi nenek tahun ini."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "arti-kullu-usrah",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "كُلُّ الأُسْرَةِ"
+          },
+          "answer": "seluruh keluarga",
+          "options": [
+            "seluruh keluarga",
+            "setiap keluarga",
+            "keluarga kami"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-nusafir-qitar",
+          "prompt": {
+            "id": "Kami berangkat naik kereta pagi."
+          },
+          "answer": "نُسافِرُ بِقِطارِ الصَّباحِ",
+          "extra": [
+            "تُسافِرُونَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-mata-fitr",
+          "prompt": {
+            "id": "Kapan Idulfitri?"
+          },
+          "answer": "مَتَى يَكُونُ عِيدُ الفِطْرِ",
+          "extra": [
+            "أَيْنَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-ukhtani",
+          "prompt": {
+            "id": "Rizki punya dua saudara perempuan."
+          },
+          "answer": "عِنْدَ رِزْقِي أُخْتانِ",
+          "extra": [
+            "أُخْتٌ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tusafirun",
+          "instruction": "Bahasa Arabnya \"kalian bepergian\" adalah …",
+          "prompt": {
+            "id": "kalian bepergian"
+          },
+          "answer": "تُسافِرُونَ",
+          "options": [
+            "تُسافِرُونَ",
+            "نُسافِرُ",
+            "تُسافِرِينَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-yaumani",
+          "instruction": "Lengkapi: kami punya dua hari saja",
+          "prompt": {
+            "ar": "لَنا … فَقَطْ."
+          },
+          "answer": "يَوْمانِ",
+          "options": [
+            "يَوْمانِ",
+            "يَوْمَيْنِ",
+            "يَوْمٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-kulla-sanah",
+          "prompt": {
+            "id": "Setiap pelajar punya libur."
+          },
+          "answer": "لِكُلِّ طالِبٍ عُطْلَةٌ",
+          "extra": [
+            "طالِبًا"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-lengkapi-syawwal",
+          "instruction": "Lengkapi: Idulfitri pada tanggal satu Syawal",
+          "prompt": {
+            "ar": "عِيدُ الفِطْرِ فِي الأَوَّلِ مِنْ …"
+          },
+          "answer": "شَوّالٍ",
+          "options": [
+            "شَوّالٍ",
+            "شَوّالٌ",
+            "رَمَضانَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-sanaqdhi-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "سَنَقْضِي العُطْلَةَ فِي البَيْتِ."
+          },
+          "answer": "Kami akan melewatkan liburan di rumah.",
+          "options": [
+            "Kami akan melewatkan liburan di rumah.",
+            "Kalian akan melewatkan liburan di rumah.",
+            "Saya melewatkan liburan di rumah."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Alif lam syamsiyah dan qamariyah",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Syamsiyah dan qamariyah",
+          "note_id": "Kata pertama tiap pasangan memakai alif lam syamsiyah: huruf لـ tidak dibaca dan huruf sesudahnya dibaca rangkap (bertanda syaddah): asy-syamsu, ash-shiyamu. Kata kedua memakai alif lam qamariyah: huruf لـ dibaca jelas: al-qamaru, al-'idu. Huruf syamsiyah: ت ث د ذ ر ز س ش ص ض ط ظ ل ن. Ketuk tiap kotak dan bandingkan.",
+          "pairs": [
+            [
+              "الشَّمْسُ",
+              "القَمَرُ"
+            ],
+            [
+              "الصِّيامُ",
+              "العِيدُ"
+            ],
+            [
+              "التَّكْبِيرُ",
+              "الفِطْرُ"
+            ],
+            [
+              "الزِّيارَةُ",
+              "الأَقارِبُ"
+            ],
+            [
+              "الشّاطِئُ",
+              "البُحَيْرَةُ"
+            ],
+            [
+              "السَّفَرُ",
+              "القِطارُ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-syams",
+          "instruction": "Dengarkan. Bagaimana kata ini dibaca?",
+          "prompt": {
+            "listen": "الشَّمْسُ"
+          },
+          "answer": "asy-syamsu",
+          "options": [
+            "asy-syamsu",
+            "al-syamsu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-qamar",
+          "instruction": "Dengarkan. Bagaimana kata ini dibaca?",
+          "prompt": {
+            "listen": "القَمَرُ"
+          },
+          "answer": "al-qamaru",
+          "options": [
+            "al-qamaru",
+            "aq-qamaru"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "pilih-syamsiyah",
+          "instruction": "Kata mana yang alif lam-nya syamsiyah (لـ tidak dibaca)?",
+          "prompt": {
+            "id": "Cari syaddah sesudah الـ"
+          },
+          "answer": "الصِّيامُ",
+          "options": [
+            "الصِّيامُ",
+            "العِيدُ",
+            "الفِطْرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "pilih-qamariyah",
+          "instruction": "Kata mana yang alif lam-nya qamariyah (لـ dibaca)?",
+          "prompt": {
+            "id": "Cari الـ tanpa syaddah sesudahnya"
+          },
+          "answer": "البُحَيْرَةُ",
+          "options": [
+            "البُحَيْرَةُ",
+            "الشّاطِئُ",
+            "الزِّيارَةُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-takbir",
+          "instruction": "Dengarkan. Bagaimana kata ini dibaca?",
+          "prompt": {
+            "listen": "التَّكْبِيرُ"
+          },
+          "answer": "at-takbiru",
+          "options": [
+            "at-takbiru",
+            "al-takbiru"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-idul-fitr",
+          "ar": "عِيدُ الفِطْرِ",
+          "id": "Idulfitri"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-syams-qamar",
+          "ar": "الشَّمْسُ وَالقَمَرُ",
+          "id": "matahari dan bulan"
+        },
+        {
+          "q": "choice",
+          "k": "simak-tanggal-fitr",
+          "instruction": "Dengarkan. Kapan Idulfitri?",
+          "prompt": {
+            "listen": "عِيدُ الفِطْرِ فِي الأَوَّلِ مِنْ شَوّالٍ."
+          },
+          "answer": "1 Syawal",
+          "options": [
+            "1 Syawal",
+            "10 Zulhijah",
+            "1 Ramadan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-pantai",
+          "instruction": "Dengarkan. Ke mana mereka pergi sesudah hari raya?",
+          "prompt": {
+            "listen": "نُسافِرُ إِلَى الشّاطِئِ بَعْدَ العِيدِ."
+          },
+          "answer": "Ke pantai",
+          "options": [
+            "Ke pantai",
+            "Ke danau",
+            "Ke rumah nenek"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-jam-salat",
+          "instruction": "Dengarkan. Jam berapa salat Id?",
+          "prompt": {
+            "listen": "صَلاةُ العِيدِ فِي السّاعَةِ السّابِعَةِ."
+          },
+          "answer": "Jam 7",
+          "options": [
+            "Jam 7",
+            "Jam 6",
+            "Jam 9"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-shiyam",
+          "instruction": "Dengarkan. Bagaimana kata ini dibaca?",
+          "prompt": {
+            "listen": "الصِّيامُ"
+          },
+          "answer": "ash-shiyamu",
+          "options": [
+            "ash-shiyamu",
+            "al-shiyamu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-qamariyah-utlah",
+          "instruction": "Kata mana yang alif lam-nya qamariyah (لـ dibaca)?",
+          "prompt": {
+            "id": "Pilih satu"
+          },
+          "answer": "العُطْلَةُ",
+          "options": [
+            "العُطْلَةُ",
+            "الشَّمْسُ",
+            "السَّفَرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-syamsiyah-nur",
+          "instruction": "Kata mana yang alif lam-nya syamsiyah (لـ tidak dibaca)?",
+          "prompt": {
+            "id": "Pilih satu"
+          },
+          "answer": "النُّورُ",
+          "options": [
+            "النُّورُ",
+            "القَمَرُ",
+            "الكِتابُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-toba",
+          "instruction": "Dengarkan. Ke mana mereka akan pergi?",
+          "prompt": {
+            "listen": "سَنَزُورُ بُحَيْرَةَ تُوبا."
+          },
+          "answer": "Danau Toba",
+          "options": [
+            "Danau Toba",
+            "Pantai di Medan",
+            "Rumah nenek"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-adha",
+          "instruction": "Dengarkan. Bagaimana kata ini dibaca?",
+          "prompt": {
+            "listen": "الأَضْحَى"
+          },
+          "answer": "al-adha",
+          "options": [
+            "al-adha",
+            "ad-dha"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Ucapan hari raya dan rencana libur",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Ucapan hari raya",
+          "rows": [
+            {
+              "ar": "عِيدٌ مُبارَكٌ",
+              "id": "selamat hari raya",
+              "emoji": "🌙"
+            },
+            {
+              "ar": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ",
+              "id": "semoga Allah menerima (amal) kami dan kalian",
+              "emoji": "🤲"
+            },
+            {
+              "ar": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ",
+              "id": "semoga kalian selalu baik setiap tahun",
+              "emoji": "💐"
+            },
+            {
+              "ar": "وَأَنْتُمْ بِخَيْرٍ",
+              "id": "kalian juga (balasan)",
+              "emoji": "🙂"
+            },
+            {
+              "ar": "مِنَ العائِدِينَ وَالفائِزِينَ",
+              "id": "(semoga kita) termasuk orang yang kembali (fitri) dan menang",
+              "emoji": "✨"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "ucap-ke-ustazah",
+          "instruction": "Ucapkan selamat hari raya kepada gurumu",
+          "prompt": {
+            "id": "Pakai dua ucapan di atas."
+          },
+          "model": [
+            {
+              "who": "siti",
+              "ar": "عِيدٌ مُبارَكٌ يا أُسْتاذَةُ.",
+              "id": "Selamat hari raya, Ustazah."
+            },
+            {
+              "who": "siti",
+              "ar": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ.",
+              "id": "Semoga Ustazah sekeluarga selalu baik setiap tahun."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-kulla-am",
+          "who": "rizki",
+          "ar": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ.",
+          "id": "Semoga kalian selalu baik setiap tahun."
+        },
+        {
+          "q": "choice",
+          "k": "tanya-keluarga-budi",
+          "instruction": "Kamu bertanya kepada Budi tentang keluarganya: di mana kalian akan berlebaran?",
+          "prompt": {
+            "id": "Di mana kalian akan berlebaran?",
+            "emoji": "👨‍👩‍👦"
+          },
+          "answer": "أَيْنَ سَتَقْضُونَ العِيدَ؟",
+          "options": [
+            "أَيْنَ سَتَقْضُونَ العِيدَ؟",
+            "أَيْنَ سَتَقْضِينَ العِيدَ؟",
+            "أَيْنَ سَنَقْضِي العِيدَ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "rencana-libur",
+          "instruction": "Ceritakan rencana liburanmu",
+          "prompt": {
+            "id": "Ke mana, naik apa, dan mengunjungi siapa."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "سَأَقْضِي العُطْلَةَ فِي ماكاسار.",
+              "id": "Saya akan melewatkan liburan di Makassar."
+            },
+            {
+              "who": "rizki",
+              "ar": "نُسافِرُ بِالطّائِرَةِ.",
+              "id": "Kami pergi naik pesawat."
+            },
+            {
+              "who": "rizki",
+              "ar": "نَزُورُ جَدَّتِي وَجَدِّي.",
+              "id": "Kami mengunjungi nenek dan kakek saya."
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata untuk gambar",
+          "rows": [
+            {
+              "ar": "بَقَرَةٌ ← بَقَرَتانِ",
+              "id": "sapi → dua sapi",
+              "emoji": "🐄"
+            },
+            {
+              "ar": "خَرُوفٌ ← خِرافٌ",
+              "id": "domba → domba-domba",
+              "emoji": "🐑"
+            },
+            {
+              "ar": "يُعْطِي",
+              "id": "dia (lk) memberi",
+              "emoji": "🤝"
+            },
+            {
+              "ar": "جارٌ",
+              "id": "tetangga",
+              "emoji": "🏘️"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "cerita-kurban",
+          "instruction": "Ceritakan gambar ini: Iduladha di masjid kompleks rumah Nur",
+          "prompt": {
+            "id": "Sebut hari apa, hewan apa saja, dan apa yang dilakukan ayah Nur.",
+            "img": "u16-kurban-kompleks",
+            "scene": "Eid al-Adha morning in the courtyard of a small mosque in a Bandung housing complex: two calm cows and several sheep stand in a shaded pen with hay; Nur in a yellow hijab watches happily, while Pak Ahmad hands a plastic bag of packed meat to Pak Wayan, the friendly Balinese neighbor. No blood, no slaughter shown."
+          },
+          "model": [
+            {
+              "who": "nur",
+              "ar": "اليَوْمَ عِيدُ الأَضْحَى.",
+              "id": "Hari ini Iduladha."
+            },
+            {
+              "who": "nur",
+              "ar": "عِنْدَ المَسْجِدِ بَقَرَتانِ وَخَمْسَةُ خِرافٍ.",
+              "id": "Di masjid ada dua sapi dan lima domba."
+            },
+            {
+              "who": "nur",
+              "ar": "أَبِي يُعْطِي اللَّحْمَ لِجارِنا وايان.",
+              "id": "Ayah saya memberi daging kepada tetangga kami, Pak Wayan."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-yaum-adha",
+          "who": "nur",
+          "ar": "اليَوْمَ عِيدُ الأَضْحَى.",
+          "id": "Hari ini Iduladha."
+        },
+        {
+          "q": "choice",
+          "k": "berapa-sapi",
+          "instruction": "Nur berkata begini. Ada berapa sapi?",
+          "prompt": {
+            "ar": "عِنْدَ المَسْجِدِ بَقَرَتانِ."
+          },
+          "answer": "Dua",
+          "options": [
+            "Dua",
+            "Satu",
+            "Lima"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kulla-am-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ."
+          },
+          "answer": "Semoga kalian selalu baik setiap tahun.",
+          "options": [
+            "Semoga kalian selalu baik setiap tahun.",
+            "Selamat tahun baru.",
+            "Setiap tahun kami mudik."
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-minal-aidin",
+          "instruction": "Ucapan \"minal aidin wal faizin\" dalam bahasa Arab adalah …",
+          "prompt": {
+            "id": "minal aidin wal faizin",
+            "emoji": "✨"
+          },
+          "answer": "مِنَ العائِدِينَ وَالفائِزِينَ",
+          "options": [
+            "مِنَ العائِدِينَ وَالفائِزِينَ",
+            "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ",
+            "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-balas-kulla-am",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ!"
+          },
+          "answer": "وَأَنْتُمْ بِخَيْرٍ.",
+          "options": [
+            "وَأَنْتُمْ بِخَيْرٍ.",
+            "صَباحَ النُّورِ.",
+            "عَفْوًا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baqaratani",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "بَقَرَتانِ"
+          },
+          "answer": "dua sapi",
+          "options": [
+            "dua sapi",
+            "dua domba",
+            "lima domba"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jar-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "جارٌ"
+          },
+          "answer": "tetangga",
+          "options": [
+            "tetangga",
+            "kerabat",
+            "teman sekamar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-yuti-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَبِي يُعْطِي اللَّحْمَ لِجارِنا."
+          },
+          "answer": "Ayah saya memberi daging kepada tetangga kami.",
+          "options": [
+            "Ayah saya memberi daging kepada tetangga kami.",
+            "Ayah saya membeli daging di pasar.",
+            "Tetangga kami memberi daging kepada ayah saya."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Lebaran kami di Makassar",
+          "instruction_id": "Tulisan Rizki untuk majalah dinding ma'had. Baca pelan-pelan.",
+          "rows": [
+            {
+              "ar": "سافَرْتُ مِنْ يُوغْياكَرْتا إِلَى بانْدُونْغ بِالقِطارِ.",
+              "id": "Saya pergi dari Yogyakarta ke Bandung naik kereta.",
+              "emoji": "🚆"
+            },
+            {
+              "ar": "ثُمَّ سافَرْنا كُلُّنا إِلَى ماكاسار بِالطّائِرَةِ.",
+              "id": "Lalu kami semua pergi ke Makassar naik pesawat.",
+              "emoji": "✈️"
+            },
+            {
+              "ar": "بَيْتُ جَدَّتِي آمِنَةَ قَرِيبٌ مِنَ البَحْرِ.",
+              "id": "Rumah nenek saya, Aminah, dekat dengan laut.",
+              "emoji": "🌊"
+            },
+            {
+              "ar": "فِي لَيْلَةِ العِيدِ سَمِعْنا التَّكْبِيرَ مِنَ المَسْجِدِ.",
+              "id": "Pada malam hari raya kami mendengar takbir dari masjid.",
+              "emoji": "📢"
+            },
+            {
+              "ar": "وَفِي الصَّباحِ دَفَعَ أَبِي زَكاةَ الفِطْرِ.",
+              "id": "Pagi harinya ayah saya membayar zakat fitrah."
+            },
+            {
+              "ar": "ثُمَّ صَلَّيْنا صَلاةَ العِيدِ فِي السّاحَةِ.",
+              "id": "Lalu kami salat Id di lapangan.",
+              "emoji": "🕌"
+            },
+            {
+              "ar": "وَبَعْدَ الصَّلاةِ جاءَ الأَقارِبُ إِلَى بَيْتِ جَدَّتِي.",
+              "id": "Sesudah salat, para kerabat datang ke rumah nenek saya (halalbihalal)."
+            },
+            {
+              "ar": "أَكَلْنا كِتُوباتْ وَقُلْنا: مِنَ العائِدِينَ وَالفائِزِينَ.",
+              "id": "Kami makan ketupat dan berkata: minal aidin wal faizin.",
+              "emoji": "🍙"
+            }
+          ],
+          "img": "u16-baca-lebaran",
+          "scene": "Eid al-Fitr morning in Makassar: the Ahmad family (Pak Ahmad, Bu Fatimah, Rizki, Ayu, Nur) walk home with Kakek Umar and Nenek Aminah from an open-field Eid prayer, carrying rolled prayer mats; simple houses and the sea in the background."
+        },
+        {
+          "q": "choice",
+          "k": "baca-rizki-pesawat",
+          "instruction": "Benar atau salah? \"Rizki pergi ke Bandung naik pesawat.\"",
+          "prompt": {
+            "ar": "سافَرَ رِزْقِي إِلَى بانْدُونْغ بِالطّائِرَةِ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-rumah-nenek",
+          "instruction": "Rumah Nenek Aminah dekat dengan …",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "🏠"
+          },
+          "answer": "laut",
+          "options": [
+            "laut",
+            "danau",
+            "stasiun"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-kapan-takbir",
+          "instruction": "Kapan mereka mendengar takbir?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Pada malam hari raya",
+          "options": [
+            "Pada malam hari raya",
+            "Pada pagi hari raya",
+            "Sesudah salat Id"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-salat-di",
+          "instruction": "Di mana mereka salat Id?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Di lapangan",
+          "options": [
+            "Di lapangan",
+            "Di rumah nenek",
+            "Di stasiun"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-zakat-pagi",
+          "instruction": "Benar atau salah? \"Ayah Rizki membayar zakat fitrah pada pagi hari.\"",
+          "prompt": {
+            "ar": "دَفَعَ أَبُو رِزْقِي زَكاةَ الفِطْرِ فِي الصَّباحِ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Jadwal perjalanan Siti",
+          "instruction_id": "Ini catatan perjalanan Siti ke Danau Toba sesudah Lebaran. Baca datanya.",
+          "rows": [
+            {
+              "ar": "رِحْلَةُ سِيتِي إِلَى بُحَيْرَةِ تُوبا",
+              "id": "Perjalanan Siti ke Danau Toba",
+              "emoji": "🏞️"
+            },
+            {
+              "ar": "مِنْ مِيدان إِلَى باراباتْ",
+              "id": "Dari Medan ke Parapat"
+            },
+            {
+              "ar": "التّارِيخُ: الخامِسُ مِنْ شَوّالٍ",
+              "id": "Tanggal: 5 Syawal",
+              "emoji": "📅"
+            },
+            {
+              "ar": "السّاعَةُ: السّابِعَةُ صَباحًا",
+              "id": "Jam: tujuh pagi",
+              "emoji": "🕖"
+            },
+            {
+              "ar": "بِالسَّيّارَةِ: خَمْسُ ساعاتٍ",
+              "id": "Naik mobil: lima jam",
+              "emoji": "🚗"
+            },
+            {
+              "ar": "المُسافِرُونَ: سِيتِي وَأُمُّها وَأَخُوها",
+              "id": "Yang bepergian: Siti, ibunya, dan saudara laki-lakinya",
+              "emoji": "👨‍👩‍👦"
+            },
+            {
+              "ar": "فِي الفُنْدُقِ: لَيْلَتانِ",
+              "id": "Di hotel: dua malam",
+              "emoji": "🏨"
+            },
+            {
+              "ar": "البَرْنامَجُ: سِباحَةٌ وَزِيارَةُ جَزِيرَةِ سامُوسِير",
+              "id": "Acara: berenang dan berkunjung ke Pulau Samosir",
+              "emoji": "🏊"
+            }
+          ],
+          "img": "u16-baca-toba",
+          "scene": "Siti with her mother and her older brother standing at a hilltop viewpoint above Lake Toba in North Sumatra, green hills around the wide blue lake and Samosir Island in the distance, a small travel bag beside them."
+        },
+        {
+          "q": "choice",
+          "k": "baca-siti-tanggal",
+          "instruction": "Kapan Siti berangkat?",
+          "prompt": {
+            "id": "Menurut bacaan 2",
+            "emoji": "📅"
+          },
+          "answer": "5 Syawal",
+          "options": [
+            "5 Syawal",
+            "1 Syawal",
+            "10 Zulhijah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-lama-mobil",
+          "instruction": "Berapa lama perjalanan naik mobil?",
+          "prompt": {
+            "id": "Menurut bacaan 2",
+            "emoji": "🚗"
+          },
+          "answer": "Lima jam",
+          "options": [
+            "Lima jam",
+            "Dua jam",
+            "Lima hari"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-malam-hotel",
+          "instruction": "Berapa malam mereka di hotel?",
+          "prompt": {
+            "id": "Menurut bacaan 2",
+            "emoji": "🏨"
+          },
+          "answer": "Dua malam",
+          "options": [
+            "Dua malam",
+            "Satu malam",
+            "Lima malam"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-samosir",
+          "instruction": "Benar atau salah? \"Siti akan berkunjung ke Pulau Samosir.\"",
+          "prompt": {
+            "ar": "سَتَزُورُ سِيتِي جَزِيرَةَ سامُوسِير."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-pesawat",
+          "instruction": "Dari Bandung ke Makassar, keluarga Rizki naik apa?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "🧳"
+          },
+          "answer": "Pesawat",
+          "options": [
+            "Pesawat",
+            "Kereta",
+            "Kapal"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-ketupat",
+          "instruction": "Benar atau salah? \"Mereka makan ketupat.\"",
+          "prompt": {
+            "ar": "أَكَلُوا كِتُوباتْ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-jam-berangkat",
+          "instruction": "Jam berapa Siti berangkat?",
+          "prompt": {
+            "id": "Menurut bacaan 2",
+            "emoji": "🕖"
+          },
+          "answer": "Jam 7 pagi",
+          "options": [
+            "Jam 7 pagi",
+            "Jam 5 pagi",
+            "Jam 7 malam"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-samina",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "سَمِعْنا التَّكْبِيرَ مِنَ المَسْجِدِ."
+          },
+          "answer": "Kami mendengar takbir dari masjid.",
+          "options": [
+            "Kami mendengar takbir dari masjid.",
+            "Kami bertakbir di masjid.",
+            "Kami pergi ke masjid untuk takbir."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-siapa-datang",
+          "instruction": "Siapa yang datang ke rumah nenek sesudah salat?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Para kerabat",
+          "options": [
+            "Para kerabat",
+            "Teman-teman ma'had",
+            "Ustaz Mahmud"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Kartu ucapan dan imla'",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Kartu ucapan Siti",
+          "instruction_id": "Siti menulis kartu ucapan untuk Ustazah Zainab. Salin dengan harakatnya.",
+          "rows": [
+            {
+              "ar": "إِلَى الأُسْتاذَةِ زَيْنَبَ",
+              "id": "Kepada Ustazah Zainab"
+            },
+            {
+              "ar": "عِيدٌ مُبارَكٌ!",
+              "id": "Selamat Hari Raya!"
+            },
+            {
+              "ar": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ.",
+              "id": "Semoga Allah menerima (amal) kami dan kalian."
+            },
+            {
+              "ar": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ.",
+              "id": "Semoga Ustazah sekeluarga selalu baik setiap tahun."
+            },
+            {
+              "ar": "مِنْ: سِيتِي",
+              "id": "Dari: Siti"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "imla-id",
+          "instruction": "Dengarkan. Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "عِيدٌ"
+          },
+          "answer": "عِيدٌ",
+          "options": [
+            "عِيدٌ",
+            "عِيذٌ",
+            "إِيدٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-ramadhan",
+          "instruction": "Dengarkan. Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "رَمَضانُ"
+          },
+          "answer": "رَمَضانُ",
+          "options": [
+            "رَمَضانُ",
+            "رَمَدانُ",
+            "رَمَظانُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-takbir",
+          "instruction": "Dengarkan. Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "التَّكْبِيرُ"
+          },
+          "answer": "التَّكْبِيرُ",
+          "options": [
+            "التَّكْبِيرُ",
+            "الطَّكْبِيرُ",
+            "التَّقْبِيرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-dzulhijjah",
+          "instruction": "Dengarkan. Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "ذُو الحِجَّةِ"
+          },
+          "answer": "ذُو الحِجَّةِ",
+          "options": [
+            "ذُو الحِجَّةِ",
+            "زُو الحِجَّةِ",
+            "ذُو الهِجَّةِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "imla-susun-mubarak",
+          "instruction": "Dengarkan, lalu susun kalimatnya",
+          "prompt": {
+            "listen": "عِيدٌ مُبارَكٌ"
+          },
+          "answer": "عِيدٌ مُبارَكٌ",
+          "extra": [
+            "عِيدُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-susun-taqabbal",
+          "instruction": "Dengarkan, lalu susun kalimatnya",
+          "prompt": {
+            "listen": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ"
+          },
+          "answer": "تَقَبَّلَ اللّٰهُ مِنّا وَمِنْكُمْ",
+          "extra": [
+            "مِنْكَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-susun-kulla-am",
+          "instruction": "Dengarkan, lalu susun kalimatnya",
+          "prompt": {
+            "listen": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ"
+          },
+          "answer": "كُلُّ عامٍ وَأَنْتُمْ بِخَيْرٍ",
+          "extra": [
+            "كُلَّ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "eja-syawwal",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "شَوّالٌ (Syawal)"
+          },
+          "answer": "ش و ا ل",
+          "extra": [
+            "س"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "kartu-mubarak",
+          "instruction": "Lengkapi kartu ucapan",
+          "prompt": {
+            "ar": "عِيدٌ …!"
+          },
+          "answer": "مُبارَكٌ",
+          "options": [
+            "مُبارَكٌ",
+            "مُبارَكَةٌ",
+            "مُبارَكًا"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-imla-shati",
+          "instruction": "Dengarkan. Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "شاطِئٌ"
+          },
+          "answer": "شاطِئٌ",
+          "options": [
+            "شاطِئٌ",
+            "شاتِئٌ",
+            "ساطِئٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-imla-buhairah",
+          "instruction": "Dengarkan. Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "بُحَيْرَةٌ"
+          },
+          "answer": "بُحَيْرَةٌ",
+          "options": [
+            "بُحَيْرَةٌ",
+            "بُهَيْرَةٌ",
+            "بُخَيْرَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-imla-zakat",
+          "instruction": "Dengarkan. Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "زَكاةُ الفِطْرِ"
+          },
+          "answer": "زَكاةُ الفِطْرِ",
+          "options": [
+            "زَكاةُ الفِطْرِ",
+            "ذَكاةُ الفِطْرِ",
+            "زَكاةُ الفِتْرِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-imla-nusafir",
+          "instruction": "Dengarkan, lalu susun kalimatnya",
+          "prompt": {
+            "listen": "نُسافِرُ إِلَى ماكاسار"
+          },
+          "answer": "نُسافِرُ إِلَى ماكاسار",
+          "extra": [
+            "تُسافِرُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-eja-id",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "عِيدٌ (hari raya)"
+          },
+          "answer": "ع ي د",
+          "extra": [
+            "أ"
+          ]
+        }
+      ]
+    }
+  ]
+}

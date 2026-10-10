@@ -1,0 +1,4562 @@
+{
+ "id": "j1u8",
+ "book": "1a",
+ "number": 8,
+ "title_ar": "العَمَلُ",
+ "title_id": "Pekerjaan",
+ "lessons": [
+  {
+   "id": "j1u8-d1",
+   "dars": 1,
+   "title_id": "Ayah Budi nelayan",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا بُودِي، ماذا يَعْمَلُ أَبُوكَ؟",
+        "id": "Budi, apa pekerjaan ayahmu?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/4801326d06ee8a02.mp3"
+        }
+       },
+       {
+        "ar": "أَبِي صَيّادٌ فِي سُورابايا.",
+        "id": "Ayah saya nelayan di Surabaya.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/4df8fa4eae870804.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ يَذْهَبُ إِلَى البَحْرِ كُلَّ يَوْمٍ؟",
+        "id": "Apakah dia pergi ke laut setiap hari?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/3187cd255dee1242.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، يَذْهَبُ فِي المَساءِ وَيَرْجِعُ صَباحًا.",
+        "id": "Ya, dia berangkat sore hari dan pulang pagi hari.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/1933bf2fe813d1d0.mp3"
+        }
+       },
+       {
+        "ar": "وَأَبُوكَ؟ ماذا يَعْمَلُ؟",
+        "id": "Kalau ayahmu? Apa pekerjaannya?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/14a62f6d3b6909c0.mp3"
+        }
+       },
+       {
+        "ar": "أَبِي مُهَنْدِسٌ فِي شَرِكَةِ الماءِ.",
+        "id": "Ayah saya insinyur di perusahaan air minum.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/5e38b3dd37dbb795.mp3"
+        }
+       },
+       {
+        "ar": "وَأُمُّكَ؟ هَلْ تَعْمَلُ أَيْضًا؟",
+        "id": "Kalau ibumu? Apakah dia bekerja juga?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/2ce197a2d8534a2f.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، هِيَ طَبِيبَةٌ فِي مَرْكَزٍ صِحِّيٍّ.",
+        "id": "Ya, dia dokter di puskesmas.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/a5bd79a68d05dc91.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u8-ayah-budi.webp"
+      ],
+      "instruction_id": "Ustazah Zainab memberi tugas: tulis pekerjaan orang tuamu. Di kamar asrama, Rizki dan Budi saling bertanya."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "عَمَلٌ",
+        "id": "pekerjaan · ★ amal",
+        "emoji": "💼",
+        "audio": {
+         "src": "/audio/o/ff477f6e5f83bc68.mp3"
+        }
+       },
+       {
+        "ar": "يَعْمَلُ",
+        "id": "dia (lk) bekerja",
+        "emoji": "🛠️",
+        "audio": {
+         "src": "/audio/o/47fc19bf0a7df319.mp3"
+        }
+       },
+       {
+        "ar": "صَيّادٌ",
+        "id": "nelayan",
+        "emoji": "🎣",
+        "audio": {
+         "src": "/audio/o/635d199fbcc8ddca.mp3"
+        }
+       },
+       {
+        "ar": "بَحْرٌ",
+        "id": "laut",
+        "emoji": "🌊",
+        "audio": {
+         "src": "/audio/o/d194d7f0f453ae89.mp3"
+        }
+       },
+       {
+        "ar": "كُلَّ يَوْمٍ",
+        "id": "setiap hari",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/a0383b385ba558dd.mp3"
+        }
+       },
+       {
+        "ar": "شَرِكَةٌ",
+        "id": "perusahaan",
+        "emoji": "🏢",
+        "audio": {
+         "src": "/audio/o/f0e45228c86c3636.mp3"
+        }
+       },
+       {
+        "ar": "أَيْضًا",
+        "id": "juga",
+        "emoji": "➕",
+        "audio": {
+         "src": "/audio/o/14128162c91622d8.mp3"
+        }
+       },
+       {
+        "ar": "مَرْكَزٌ صِحِّيٌّ",
+        "id": "puskesmas (pusat kesehatan)",
+        "emoji": "🏥",
+        "audio": {
+         "src": "/audio/o/e4577dcb92b3fe3c.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d1-madza-yamal-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "ماذا يَعْمَلُ أَبُوكَ؟",
+       "audio": {
+        "src": "/audio/o/198f9193cd36b750.mp3"
+       }
+      },
+      "answer": "Apa pekerjaan ayahmu? (lk)",
+      "options": [
+       "Apa pekerjaan ayahmu? (lk)",
+       "Di mana ayahmu? (lk)",
+       "Siapa nama ayahmu? (lk)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d1-budi-ayah-kerja",
+      "instruction": "Menurut dialog, apa pekerjaan ayah Budi?",
+      "prompt": {
+       "ar": "أَبُو بُودِي …",
+       "audio": {
+        "src": "/audio/o/6d9c020e36eae0d7.mp3"
+       },
+       "emoji": "👨"
+      },
+      "answer": "Nelayan",
+      "options": [
+       "Nelayan",
+       "Insinyur",
+       "Dokter"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d1-dengar-kulla-yaum",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "هَلْ يَذْهَبُ إِلَى البَحْرِ كُلَّ يَوْمٍ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/d08aa462889b1824.mp3"
+       }
+      },
+      "answer": "Apakah dia (lk) pergi ke laut setiap hari?",
+      "options": [
+       "Apakah dia (lk) pergi ke laut setiap hari?",
+       "Apakah dia (lk) pulang dari laut setiap pagi?",
+       "Apakah kamu (lk) pergi ke laut setiap hari?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d1-ibu-rizki-tempat",
+      "instruction": "Menurut dialog, di mana ibu Rizki bekerja?",
+      "prompt": {
+       "ar": "أُمُّ رِزْقِي طَبِيبَةٌ فِي …",
+       "audio": {
+        "src": "/audio/o/dd206adbdec26e54.mp3"
+       }
+      },
+      "answer": "Di puskesmas",
+      "options": [
+       "Di puskesmas",
+       "Di pasar",
+       "Di perusahaan air minum"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d1-sayyad-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "صَيّادٌ",
+       "audio": {
+        "src": "/audio/o/635d199fbcc8ddca.mp3"
+       }
+      },
+      "answer": "nelayan",
+      "options": [
+       "nelayan",
+       "laut",
+       "insinyur"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d1-balas-madza-yamal",
+      "instruction": "Pilih jawaban yang tepat",
+      "prompt": {
+       "ar": "ماذا يَعْمَلُ أَبُوكَ؟",
+       "audio": {
+        "src": "/audio/o/198f9193cd36b750.mp3"
+       }
+      },
+      "answer": "أَبِي مُهَنْدِسٌ.",
+      "options": [
+       "أَبِي مُهَنْدِسٌ.",
+       "أَبِي فِي البَيْتِ.",
+       "أَنا مِنْ بانْدُونْغ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَبِي مُهَنْدِسٌ.": {
+        "src": "/audio/o/9d2532fccece19f9.mp3"
+       },
+       "أَبِي فِي البَيْتِ.": {
+        "src": "/audio/o/6aa9ccecfcfa494c.mp3"
+       },
+       "أَنا مِنْ بانْدُونْغ.": {
+        "src": "/audio/o/2294a5799e9e7c3d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d1-susun-abi-sayyad",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ayah saya nelayan di Surabaya."
+      },
+      "answer": "أَبِي صَيّادٌ فِي سُورابايا",
+      "tokens": [
+       "أَبِي",
+       "صَيّادٌ",
+       "فِي",
+       "سُورابايا",
+       "أَبُوكَ"
+      ],
+      "audioMap": {
+       "أَبِي": {
+        "src": "/audio/o/21fd285adcc5f188.mp3"
+       },
+       "صَيّادٌ": {
+        "src": "/audio/o/635d199fbcc8ddca.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "سُورابايا": {
+        "src": "/audio/o/72a14dc016ec1f48.mp3"
+       },
+       "أَبُوكَ": {
+        "src": "/audio/o/5c2b453c6ff6e76c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d1-susun-hal-tamal-aidan",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Apakah dia (pr) bekerja juga?"
+      },
+      "answer": "هَلْ تَعْمَلُ أَيْضًا",
+      "tokens": [
+       "هَلْ",
+       "تَعْمَلُ",
+       "أَيْضًا",
+       "يَعْمَلُ"
+      ],
+      "audioMap": {
+       "هَلْ": {
+        "src": "/audio/o/88964434a18c7513.mp3"
+       },
+       "تَعْمَلُ": {
+        "src": "/audio/o/eb5f65bea23a4226.mp3"
+       },
+       "أَيْضًا": {
+        "src": "/audio/o/14128162c91622d8.mp3"
+       },
+       "يَعْمَلُ": {
+        "src": "/audio/o/47fc19bf0a7df319.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u8-d1-ucap-abi-sayyad",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَبِي صَيّادٌ.",
+       "id": "Ayah saya nelayan.",
+       "audio": {
+        "src": "/audio/o/43e663d73f70ee17.mp3"
+       }
+      },
+      "target": "أَبِي صَيّادٌ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u8-d1-lat-aidan-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أَيْضًا",
+      "audio": {
+       "src": "/audio/o/14128162c91622d8.mp3"
+      }
+     },
+     "answer": "juga",
+     "options": [
+      "juga",
+      "setiap hari",
+      "laut"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d1-lat-dengar-abi-muhandis",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "أَبِي مُهَنْدِسٌ فِي شَرِكَةِ الماءِ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/eae9027a6f499184.mp3"
+      }
+     },
+     "answer": "Ayah saya insinyur di perusahaan air minum.",
+     "options": [
+      "Ayah saya insinyur di perusahaan air minum.",
+      "Ayah saya nelayan di Surabaya.",
+      "Ibu saya dokter di puskesmas."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d1-lat-kapan-ayah-budi",
+     "instruction": "Menurut dialog, kapan ayah Budi berangkat ke laut?",
+     "prompt": {
+      "ar": "يَذْهَبُ فِي المَساءِ.",
+      "audio": {
+       "src": "/audio/o/269e695779cdd67a.mp3"
+      }
+     },
+     "answer": "Sore hari",
+     "options": [
+      "Sore hari",
+      "Pagi hari",
+      "Setiap Jumat"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u8-d1-lat-susun-madza-yamal",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Apa pekerjaan ayahmu? (lk)"
+     },
+     "answer": "ماذا يَعْمَلُ أَبُوكَ",
+     "tokens": [
+      "ماذا",
+      "يَعْمَلُ",
+      "أَبُوكَ",
+      "أَبِي"
+     ],
+     "audioMap": {
+      "ماذا": {
+       "src": "/audio/o/44ee50a006bc44b5.mp3"
+      },
+      "يَعْمَلُ": {
+       "src": "/audio/o/47fc19bf0a7df319.mp3"
+      },
+      "أَبُوكَ": {
+       "src": "/audio/o/5c2b453c6ff6e76c.mp3"
+      },
+      "أَبِي": {
+       "src": "/audio/o/21fd285adcc5f188.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d1-lat-syarikah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "شَرِكَةٌ",
+      "audio": {
+       "src": "/audio/o/f0e45228c86c3636.mp3"
+      }
+     },
+     "answer": "perusahaan",
+     "options": [
+      "perusahaan",
+      "puskesmas",
+      "laut"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u8-d2",
+   "dars": 2,
+   "title_id": "Ibu Siti pedagang kain",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا سِيتِي، ماذا تَعْمَلُ أُمُّكِ؟",
+        "id": "Siti, apa pekerjaan ibumu?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/77a2aba5bcc24a82.mp3"
+        }
+       },
+       {
+        "ar": "أُمِّي تاجِرَةٌ، تَبِيعُ القُماشَ فِي السُّوقِ.",
+        "id": "Ibu saya pedagang. Dia menjual kain di pasar.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/1b33734ca3253d22.mp3"
+        }
+       },
+       {
+        "ar": "ما شاءَ اللّٰهُ! وَأَبُوكِ؟",
+        "id": "Masyaallah! Kalau ayahmu?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/69a86811d8c6684b.mp3"
+        }
+       },
+       {
+        "ar": "أَبِي مُدَرِّسٌ. وَأُمُّكِ يا عائِشَةُ؟",
+        "id": "Ayah saya guru. Kalau ibumu, Aisyah?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/7e8f7b2c381b73bf.mp3"
+        }
+       },
+       {
+        "ar": "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى.",
+        "id": "Ibu saya perawat di rumah sakit.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/43caae3c13036614.mp3"
+        }
+       },
+       {
+        "ar": "كَمْ أَخًا لَكِ؟",
+        "id": "Kamu punya berapa saudara laki-laki? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/84b3cb871a8dbbfe.mp3"
+        }
+       },
+       {
+        "ar": "لِي أَخٌ واحِدٌ. وَأَنْتِ؟",
+        "id": "Saya punya satu saudara laki-laki. Kalau kamu?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/5b1191a8ff77c719.mp3"
+        }
+       },
+       {
+        "ar": "لِي أَخٌ واحِدٌ وَأُخْتانِ.",
+        "id": "Saya punya satu saudara laki-laki dan dua saudara perempuan.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/c4d30674dcf4e6c8.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u8-ibu-siti.webp"
+      ],
+      "instruction_id": "Di asrama putri, Siti dan Aisyah mengerjakan tugas yang sama: pekerjaan orang tua."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "تاجِرَةٌ",
+        "id": "pedagang (pr)",
+        "emoji": "🛍️",
+        "audio": {
+         "src": "/audio/o/892af2aceac9d700.mp3"
+        }
+       },
+       {
+        "ar": "تَبِيعُ",
+        "id": "dia (pr) menjual",
+        "emoji": "🏷️",
+        "audio": {
+         "src": "/audio/o/fcb92acfe51b7ae4.mp3"
+        }
+       },
+       {
+        "ar": "قُماشٌ",
+        "id": "kain",
+        "emoji": "🧵",
+        "audio": {
+         "src": "/audio/o/61c8a8fc69548129.mp3"
+        }
+       },
+       {
+        "ar": "سُوقٌ",
+        "id": "pasar",
+        "emoji": "🏪",
+        "audio": {
+         "src": "/audio/o/5bc8636d0b6ed92e.mp3"
+        }
+       },
+       {
+        "ar": "مُدَرِّسٌ",
+        "id": "guru (lk)",
+        "emoji": "👨‍🏫",
+        "audio": {
+         "src": "/audio/o/2eab7fb2764c06d0.mp3"
+        }
+       },
+       {
+        "ar": "مُمَرِّضَةٌ",
+        "id": "perawat (pr)",
+        "emoji": "👩‍⚕️",
+        "audio": {
+         "src": "/audio/o/d357ea2b2c71a87c.mp3"
+        }
+       },
+       {
+        "ar": "المُسْتَشْفَى",
+        "id": "rumah sakit",
+        "emoji": "🏥",
+        "audio": {
+         "src": "/audio/o/d44afd57be193c51.mp3"
+        }
+       },
+       {
+        "ar": "كَمْ أَخًا لَكِ؟",
+        "id": "kamu (pr) punya berapa saudara laki-laki?",
+        "emoji": "🔢",
+        "audio": {
+         "src": "/audio/o/3dbaab97de6da79d.mp3"
+        }
+       },
+       {
+        "ar": "لِي",
+        "id": "saya punya",
+        "emoji": "🙋",
+        "audio": {
+         "src": "/audio/o/567ab29274d02d05.mp3"
+        }
+       },
+       {
+        "ar": "ما شاءَ اللّٰهُ",
+        "id": "masyaallah (ungkapan kagum) · ★ masyaallah",
+        "emoji": "✨",
+        "audio": {
+         "src": "/audio/o/5ddff8022855a323.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d2-tajirah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "تاجِرَةٌ",
+       "audio": {
+        "src": "/audio/o/892af2aceac9d700.mp3"
+       }
+      },
+      "answer": "pedagang (pr)",
+      "options": [
+       "pedagang (pr)",
+       "perawat (pr)",
+       "guru (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d2-ibu-siti-jual",
+      "instruction": "Menurut dialog, apa yang dijual ibu Siti?",
+      "prompt": {
+       "ar": "تَبِيعُ …",
+       "audio": {
+        "src": "/audio/o/6450f07242ccf50c.mp3"
+       },
+       "emoji": "🏪"
+      },
+      "answer": "Kain",
+      "options": [
+       "Kain",
+       "Ikan",
+       "Buku"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d2-dengar-ummi-mumarridah",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/0ea12314d36225c2.mp3"
+       }
+      },
+      "answer": "Ibu saya perawat di rumah sakit.",
+      "options": [
+       "Ibu saya perawat di rumah sakit.",
+       "Ibu saya dokter di rumah sakit.",
+       "Ibu saya pedagang di pasar."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d2-balas-kam-akhan",
+      "instruction": "Pilih jawaban yang tepat",
+      "prompt": {
+       "ar": "كَمْ أَخًا لَكِ؟",
+       "audio": {
+        "src": "/audio/o/3dbaab97de6da79d.mp3"
+       }
+      },
+      "answer": "لِي أَخٌ واحِدٌ.",
+      "options": [
+       "لِي أَخٌ واحِدٌ.",
+       "أُمِّي تاجِرَةٌ.",
+       "أَنا مِنْ مِيدان."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لِي أَخٌ واحِدٌ.": {
+        "src": "/audio/o/5f9657b044bb68f4.mp3"
+       },
+       "أُمِّي تاجِرَةٌ.": {
+        "src": "/audio/o/168ffc9f635fc800.mp3"
+       },
+       "أَنا مِنْ مِيدان.": {
+        "src": "/audio/o/363d41766f35f4c2.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d2-ayah-siti-kerja",
+      "instruction": "Menurut dialog, apa pekerjaan ayah Siti?",
+      "prompt": {
+       "ar": "أَبُو سِيتِي …",
+       "audio": {
+        "src": "/audio/o/b3b27afb9ccd2dc1.mp3"
+       },
+       "emoji": "👨"
+      },
+      "answer": "Guru",
+      "options": [
+       "Guru",
+       "Pedagang",
+       "Perawat"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d2-saudara-siti",
+      "instruction": "Menurut dialog, Siti punya berapa saudara?",
+      "prompt": {
+       "ar": "لِي أَخٌ واحِدٌ وَأُخْتانِ.",
+       "audio": {
+        "src": "/audio/o/5d533b2a937a1703.mp3"
+       }
+      },
+      "answer": "1 saudara laki-laki dan 2 saudara perempuan",
+      "options": [
+       "1 saudara laki-laki dan 2 saudara perempuan",
+       "2 saudara laki-laki dan 1 saudara perempuan",
+       "1 saudara laki-laki saja"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d2-susun-ummi-tajirah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ibu saya pedagang di pasar."
+      },
+      "answer": "أُمِّي تاجِرَةٌ فِي السُّوقِ",
+      "tokens": [
+       "أُمِّي",
+       "تاجِرَةٌ",
+       "فِي",
+       "السُّوقِ",
+       "تاجِرٌ"
+      ],
+      "audioMap": {
+       "أُمِّي": {
+        "src": "/audio/o/c82062ed6beb1b12.mp3"
+       },
+       "تاجِرَةٌ": {
+        "src": "/audio/o/892af2aceac9d700.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "السُّوقِ": {
+        "src": "/audio/o/cb22721819e461aa.mp3"
+       },
+       "تاجِرٌ": {
+        "src": "/audio/o/13d23a27aceeff7d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d2-susun-li-akh",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya punya satu saudara laki-laki."
+      },
+      "answer": "لِي أَخٌ واحِدٌ",
+      "tokens": [
+       "لِي",
+       "أَخٌ",
+       "واحِدٌ",
+       "واحِدَةٌ"
+      ],
+      "audioMap": {
+       "لِي": {
+        "src": "/audio/o/567ab29274d02d05.mp3"
+       },
+       "أَخٌ": {
+        "src": "/audio/o/49c821aa8cfd91f7.mp3"
+       },
+       "واحِدٌ": {
+        "src": "/audio/o/fa47e478299fa1a1.mp3"
+       },
+       "واحِدَةٌ": {
+        "src": "/audio/o/eaf3ae22a3fb69f9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u8-d2-ucap-li-akh-ukhtani",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "لِي أَخٌ واحِدٌ وَأُخْتانِ.",
+       "id": "Saya punya satu saudara laki-laki dan dua saudara perempuan.",
+       "audio": {
+        "src": "/audio/o/c4d30674dcf4e6c8.mp3"
+       }
+      },
+      "target": "لِي أَخٌ واحِدٌ وَأُخْتانِ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u8-d2-lat-mumarridah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مُمَرِّضَةٌ",
+      "audio": {
+       "src": "/audio/o/d357ea2b2c71a87c.mp3"
+      }
+     },
+     "answer": "perawat (pr)",
+     "options": [
+      "perawat (pr)",
+      "dokter (pr)",
+      "pedagang (pr)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d2-lat-qumasy-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "قُماشٌ",
+      "audio": {
+       "src": "/audio/o/61c8a8fc69548129.mp3"
+      }
+     },
+     "answer": "kain",
+     "options": [
+      "kain",
+      "pasar",
+      "ikan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d2-lat-tanya-ibu-pr",
+     "instruction": "Kamu ingin tahu pekerjaan ibu Aisyah. Kamu bertanya …",
+     "prompt": {
+      "id": "Apa pekerjaan ibumu? (pr)",
+      "emoji": "👩"
+     },
+     "answer": "ماذا تَعْمَلُ أُمُّكِ؟",
+     "options": [
+      "ماذا تَعْمَلُ أُمُّكِ؟",
+      "ماذا تَعْمَلُ أُمُّكَ؟",
+      "أَيْنَ أُمُّكِ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ماذا تَعْمَلُ أُمُّكِ؟": {
+       "src": "/audio/o/ee900a0bc3ac4579.mp3"
+      },
+      "ماذا تَعْمَلُ أُمُّكَ؟": {
+       "src": "/audio/o/12ab0550686b941e.mp3"
+      },
+      "أَيْنَ أُمُّكِ؟": {
+       "src": "/audio/o/99207e4860e066bb.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d2-lat-dengar-ummi-tajirah",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "أُمِّي تاجِرَةٌ، تَبِيعُ القُماشَ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/e8fa0ce4ec411c83.mp3"
+      }
+     },
+     "answer": "أُمِّي تاجِرَةٌ، تَبِيعُ القُماشَ.",
+     "options": [
+      "أُمِّي تاجِرَةٌ، تَبِيعُ القُماشَ.",
+      "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى.",
+      "أَبِي مُدَرِّسٌ فِي مَدْرَسَةٍ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أُمِّي تاجِرَةٌ، تَبِيعُ القُماشَ.": {
+       "src": "/audio/o/e8fa0ce4ec411c83.mp3"
+      },
+      "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى.": {
+       "src": "/audio/o/0ea12314d36225c2.mp3"
+      },
+      "أَبِي مُدَرِّسٌ فِي مَدْرَسَةٍ.": {
+       "src": "/audio/o/a8d74a55b43e9cf2.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u8-d2-lat-susun-kam-akhan",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kamu punya berapa saudara laki-laki? (pr)"
+     },
+     "answer": "كَمْ أَخًا لَكِ",
+     "tokens": [
+      "كَمْ",
+      "أَخًا",
+      "لَكِ",
+      "لَكَ"
+     ],
+     "audioMap": {
+      "كَمْ": {
+       "src": "/audio/o/b18788d2d9555e30.mp3"
+      },
+      "أَخًا": {
+       "src": "/audio/o/f410bf0ec091d007.mp3"
+      },
+      "لَكِ": {
+       "src": "/audio/o/99858362f58ea6fa.mp3"
+      },
+      "لَكَ": {
+       "src": "/audio/o/859948935818ccd8.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u8-d3",
+   "dars": 3,
+   "title_id": "Jam kerja ayah",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا أَبِي، كَمْ ساعَةً تَعْمَلُ كُلَّ يَوْمٍ؟",
+        "id": "Ayah, berapa jam Ayah bekerja setiap hari?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/88a4b4a9d53417f0.mp3"
+        }
+       },
+       {
+        "ar": "أَعْمَلُ تِسْعَ ساعاتٍ، مِنَ السّابِعَةِ إِلَى الرّابِعَةِ.",
+        "id": "Ayah bekerja sembilan jam, dari jam tujuh sampai jam empat.",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/7e85f52a5a14dd95.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ تَعْمَلُ يَوْمَ السَّبْتِ أَيْضًا؟",
+        "id": "Apakah Ayah bekerja pada hari Sabtu juga?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/c9bbf10ad9856a2e.mp3"
+        }
+       },
+       {
+        "ar": "لا، يَوْمُ السَّبْتِ عُطْلَةٌ.",
+        "id": "Tidak, hari Sabtu libur.",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/8ff68904bace8329.mp3"
+        }
+       },
+       {
+        "ar": "يا رِزْقِي، أَنا أُحِبُّ الطّائِراتِ!",
+        "id": "Kak Rizki, aku suka pesawat!",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/33e20c925570e78d.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ تُرِيدِينَ أَنْ تَكُونِي طَيّارَةً؟",
+        "id": "Apakah kamu ingin menjadi pilot? (pr)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/e3c286d3348e53b7.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، سَأَكُونُ طَيّارَةً إِنْ شاءَ اللّٰهُ!",
+        "id": "Ya, aku akan menjadi pilot, insyaallah!",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/df5351a96a36453e.mp3"
+        }
+       },
+       {
+        "ar": "وَرِزْقِي يُحِبُّ التَّرْجَمَةَ.",
+        "id": "Dan Rizki suka menerjemah.",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/73c752a6b7fbf89a.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، سَأَكُونُ مُتَرْجِمًا إِنْ شاءَ اللّٰهُ.",
+        "id": "Ya, saya akan menjadi penerjemah, insyaallah.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/b3e25aedc3464d34.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u8-video-call.webp"
+      ],
+      "instruction_id": "Malam hari, Rizki melakukan panggilan video ke rumah di Bandung. Dia perlu tahu jam kerja ayahnya untuk tugas kelas. Nur ikut bicara."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "كَمْ ساعَةً؟",
+        "id": "berapa jam? (lamanya)",
+        "emoji": "⏳",
+        "audio": {
+         "src": "/audio/o/94491d5591f0b901.mp3"
+        }
+       },
+       {
+        "ar": "ساعاتٌ",
+        "id": "jam-jam (bentuk jamak ساعَةٌ)",
+        "emoji": "🕘",
+        "audio": {
+         "src": "/audio/o/3c721ca8bba7781a.mp3"
+        }
+       },
+       {
+        "ar": "أُحِبُّ",
+        "id": "saya suka",
+        "emoji": "❤️",
+        "audio": {
+         "src": "/audio/o/10a5d03903e7b7c3.mp3"
+        }
+       },
+       {
+        "ar": "طائِرَةٌ ← طائِراتٌ",
+        "id": "pesawat → pesawat-pesawat",
+        "emoji": "✈️",
+        "audio": {
+         "src": "/audio/o/25b76170aa5d4597.mp3"
+        }
+       },
+       {
+        "ar": "طَيّارٌ · طَيّارَةٌ",
+        "id": "pilot (lk · pr)",
+        "emoji": "🧑‍✈️",
+        "audio": {
+         "src": "/audio/o/b941b2301104832b.mp3"
+        }
+       },
+       {
+        "ar": "تُرِيدِينَ أَنْ تَكُونِي …",
+        "id": "kamu (pr) ingin menjadi …",
+        "emoji": "💭",
+        "audio": {
+         "src": "/audio/o/7b77dc086c945e61.mp3"
+        }
+       },
+       {
+        "ar": "سَأَكُونُ …",
+        "id": "saya akan menjadi …",
+        "emoji": "🚀",
+        "audio": {
+         "src": "/audio/o/f0e22ffb8c058633.mp3"
+        }
+       },
+       {
+        "ar": "تَرْجَمَةٌ",
+        "id": "terjemahan, menerjemah · ★ terjemah",
+        "emoji": "📝",
+        "audio": {
+         "src": "/audio/o/0f7498414b7d3258.mp3"
+        }
+       },
+       {
+        "ar": "مُتَرْجِمٌ",
+        "id": "penerjemah (lk)",
+        "emoji": "🗣️",
+        "audio": {
+         "src": "/audio/o/824478454ee190cf.mp3"
+        }
+       },
+       {
+        "ar": "عُطْلَةٌ",
+        "id": "libur",
+        "emoji": "🏖️",
+        "audio": {
+         "src": "/audio/o/d9d07e1a2ce9220a.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d3-kam-saah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "كَمْ ساعَةً تَعْمَلُ؟",
+       "audio": {
+        "src": "/audio/o/ec81561bd08721c2.mp3"
+       }
+      },
+      "answer": "Berapa jam kamu (lk) bekerja?",
+      "options": [
+       "Berapa jam kamu (lk) bekerja?",
+       "Jam berapa kamu (lk) bekerja?",
+       "Di mana kamu (lk) bekerja?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d3-ayah-jumlah-jam",
+      "instruction": "Menurut dialog, berapa jam Pak Ahmad bekerja setiap hari?",
+      "prompt": {
+       "id": "Pak Ahmad bekerja … setiap hari",
+       "emoji": "⏳"
+      },
+      "answer": "9 jam",
+      "options": [
+       "9 jam",
+       "7 jam",
+       "4 jam"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d3-ayah-sabtu",
+      "instruction": "Benar atau salah? \"Pak Ahmad bekerja pada hari Sabtu.\"",
+      "prompt": {
+       "ar": "أَحْمَدُ يَعْمَلُ يَوْمَ السَّبْتِ.",
+       "audio": {
+        "src": "/audio/o/356320ee439a406f.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d3-dengar-nur-pilot",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "سَأَكُونُ طَيّارَةً إِنْ شاءَ اللّٰهُ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/709d8f111316eefa.mp3"
+       }
+      },
+      "answer": "Aku akan menjadi pilot (pr), insyaallah.",
+      "options": [
+       "Aku akan menjadi pilot (pr), insyaallah.",
+       "Aku suka pesawat.",
+       "Aku akan menjadi penerjemah (lk), insyaallah."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d3-rizki-cita",
+      "instruction": "Menurut dialog, apa cita-cita Rizki?",
+      "prompt": {
+       "ar": "رِزْقِي: سَأَكُونُ …",
+       "audio": {
+        "src": "/audio/o/c9a4e9213ff7c3bd.mp3"
+       },
+       "emoji": "💭"
+      },
+      "answer": "Penerjemah",
+      "options": [
+       "Penerjemah",
+       "Pilot",
+       "Insinyur"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d3-pilot-pr-ar",
+      "instruction": "Bahasa Arabnya \"pilot (pr)\" adalah …",
+      "prompt": {
+       "id": "pilot (pr)",
+       "emoji": "🧑‍✈️"
+      },
+      "answer": "طَيّارَةٌ",
+      "options": [
+       "طَيّارَةٌ",
+       "طَيّارٌ",
+       "طائِرَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "طَيّارَةٌ": {
+        "src": "/audio/o/711f3680521ec98d.mp3"
+       },
+       "طَيّارٌ": {
+        "src": "/audio/o/50943376da4bd833.mp3"
+       },
+       "طائِرَةٌ": {
+        "src": "/audio/o/1784772c7b1ce74b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d3-balas-turidina",
+      "instruction": "Rizki bertanya kepada Nur. Pilih jawaban yang tepat",
+      "prompt": {
+       "ar": "هَلْ تُرِيدِينَ أَنْ تَكُونِي طَيّارَةً؟",
+       "audio": {
+        "src": "/audio/o/0fd1d72f71eda8b3.mp3"
+       }
+      },
+      "answer": "نَعَمْ، سَأَكُونُ طَيّارَةً.",
+      "options": [
+       "نَعَمْ، سَأَكُونُ طَيّارَةً.",
+       "نَعَمْ، سَأَكُونُ طَيّارًا.",
+       "لا، يَوْمُ السَّبْتِ عُطْلَةٌ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَعَمْ، سَأَكُونُ طَيّارَةً.": {
+        "src": "/audio/o/399529077ed235bf.mp3"
+       },
+       "نَعَمْ، سَأَكُونُ طَيّارًا.": {
+        "src": "/audio/o/92cc6c75ca241e23.mp3"
+       },
+       "لا، يَوْمُ السَّبْتِ عُطْلَةٌ.": {
+        "src": "/audio/o/1e05ccfcba5f4f4a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d3-susun-uhibbu-tairat",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Aku suka pesawat."
+      },
+      "answer": "أَنا أُحِبُّ الطّائِراتِ",
+      "tokens": [
+       "أَنا",
+       "أُحِبُّ",
+       "الطّائِراتِ",
+       "يُحِبُّ"
+      ],
+      "audioMap": {
+       "أَنا": {
+        "src": "/audio/o/9eee807a139555c1.mp3"
+       },
+       "أُحِبُّ": {
+        "src": "/audio/o/10a5d03903e7b7c3.mp3"
+       },
+       "الطّائِراتِ": {
+        "src": "/audio/o/98ae2d2e224037c5.mp3"
+       },
+       "يُحِبُّ": {
+        "src": "/audio/o/191bf3b2b4156f21.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d3-susun-yuhibbu-tarjamah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Dia (lk) suka menerjemah."
+      },
+      "answer": "هُوَ يُحِبُّ التَّرْجَمَةَ",
+      "tokens": [
+       "هُوَ",
+       "يُحِبُّ",
+       "التَّرْجَمَةَ",
+       "أُحِبُّ"
+      ],
+      "audioMap": {
+       "هُوَ": {
+        "src": "/audio/o/692a1459dcefda08.mp3"
+       },
+       "يُحِبُّ": {
+        "src": "/audio/o/191bf3b2b4156f21.mp3"
+       },
+       "التَّرْجَمَةَ": {
+        "src": "/audio/o/f06ccbccaab8719d.mp3"
+       },
+       "أُحِبُّ": {
+        "src": "/audio/o/10a5d03903e7b7c3.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u8-d3-ucap-kam-saah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "كَمْ ساعَةً تَعْمَلُ؟",
+       "id": "Berapa jam kamu (lk) bekerja?",
+       "audio": {
+        "src": "/audio/o/22612c1c830d623c.mp3"
+       }
+      },
+      "target": "كَمْ ساعَةً تَعْمَلُ؟"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u8-d3-lat-sabtu-utlah",
+     "instruction": "Menurut dialog, hari Sabtu bagi Pak Ahmad adalah …",
+     "prompt": {
+      "ar": "يَوْمُ السَّبْتِ …",
+      "audio": {
+       "src": "/audio/o/e7b6c5aec2517cd2.mp3"
+      }
+     },
+     "answer": "hari libur",
+     "options": [
+      "hari libur",
+      "hari kerja",
+      "hari ujian"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d3-lat-mutarjim-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مُتَرْجِمٌ",
+      "audio": {
+       "src": "/audio/o/824478454ee190cf.mp3"
+      }
+     },
+     "answer": "penerjemah (lk)",
+     "options": [
+      "penerjemah (lk)",
+      "pilot (lk)",
+      "insinyur"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d3-lat-dengar-tisa-saat",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "أَعْمَلُ تِسْعَ ساعاتٍ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/49cb46f36e1b48cf.mp3"
+      }
+     },
+     "answer": "Saya bekerja sembilan jam.",
+     "options": [
+      "Saya bekerja sembilan jam.",
+      "Saya bekerja pada jam sembilan.",
+      "Saya bekerja dua jam."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u8-d3-lat-susun-kam-saah",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Berapa jam kamu (lk) bekerja setiap hari?"
+     },
+     "answer": "كَمْ ساعَةً تَعْمَلُ كُلَّ يَوْمٍ",
+     "tokens": [
+      "كَمْ",
+      "ساعَةً",
+      "تَعْمَلُ",
+      "كُلَّ",
+      "يَوْمٍ",
+      "ساعاتٍ"
+     ],
+     "audioMap": {
+      "كَمْ": {
+       "src": "/audio/o/b18788d2d9555e30.mp3"
+      },
+      "ساعَةً": {
+       "src": "/audio/o/12665e799473a167.mp3"
+      },
+      "تَعْمَلُ": {
+       "src": "/audio/o/eb5f65bea23a4226.mp3"
+      },
+      "كُلَّ": {
+       "src": "/audio/o/54a3c7091ddb024b.mp3"
+      },
+      "يَوْمٍ": {
+       "src": "/audio/o/e3367ded1e5d15f1.mp3"
+      },
+      "ساعاتٍ": {
+       "src": "/audio/o/198a00db56bac807.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u8-d4",
+   "dars": 4,
+   "title_id": "Kosakata & jam",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "طَبِيبٌ",
+        "id": "dokter (lk) · ★ tabib",
+        "emoji": "👨‍⚕️",
+        "audio": {
+         "src": "/audio/o/26603c887576502d.mp3"
+        }
+       },
+       {
+        "ar": "مُمَرِّضَةٌ",
+        "id": "perawat (pr)",
+        "emoji": "👩‍⚕️",
+        "audio": {
+         "src": "/audio/o/d357ea2b2c71a87c.mp3"
+        }
+       },
+       {
+        "ar": "مُدَرِّسٌ",
+        "id": "guru (lk)",
+        "emoji": "👨‍🏫",
+        "audio": {
+         "src": "/audio/o/2eab7fb2764c06d0.mp3"
+        }
+       },
+       {
+        "ar": "مُهَنْدِسٌ",
+        "id": "insinyur",
+        "emoji": "👷",
+        "audio": {
+         "src": "/audio/o/5dc136931a394b91.mp3"
+        }
+       },
+       {
+        "ar": "فَلّاحٌ",
+        "id": "petani",
+        "emoji": "🧑‍🌾",
+        "audio": {
+         "src": "/audio/o/6f3575c5efe3fc06.mp3"
+        }
+       },
+       {
+        "ar": "صَيّادٌ",
+        "id": "nelayan",
+        "emoji": "🎣",
+        "audio": {
+         "src": "/audio/o/635d199fbcc8ddca.mp3"
+        }
+       },
+       {
+        "ar": "تاجِرٌ",
+        "id": "pedagang",
+        "emoji": "🛍️",
+        "audio": {
+         "src": "/audio/o/13d23a27aceeff7d.mp3"
+        }
+       },
+       {
+        "ar": "سائِقٌ",
+        "id": "sopir",
+        "emoji": "🚌",
+        "audio": {
+         "src": "/audio/o/dc2320f6c6c9fc77.mp3"
+        }
+       },
+       {
+        "ar": "طَيّارٌ",
+        "id": "pilot",
+        "emoji": "🧑‍✈️",
+        "audio": {
+         "src": "/audio/o/50943376da4bd833.mp3"
+        }
+       },
+       {
+        "ar": "مُوَظَّفٌ",
+        "id": "pegawai",
+        "emoji": "🧑‍💼",
+        "audio": {
+         "src": "/audio/o/a690004fb3586d61.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Profesi"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مُسْتَشْفًى",
+        "id": "rumah sakit",
+        "emoji": "🏥",
+        "audio": {
+         "src": "/audio/o/884df137a01bbf76.mp3"
+        }
+       },
+       {
+        "ar": "مَكْتَبٌ",
+        "id": "kantor (juga: meja tulis)",
+        "emoji": "🏢",
+        "audio": {
+         "src": "/audio/o/95e96058341d07b7.mp3"
+        }
+       },
+       {
+        "ar": "سُوقٌ",
+        "id": "pasar",
+        "emoji": "🏪",
+        "audio": {
+         "src": "/audio/o/5bc8636d0b6ed92e.mp3"
+        }
+       },
+       {
+        "ar": "مَدْرَسَةٌ",
+        "id": "sekolah · ★ madrasah",
+        "emoji": "🏫",
+        "audio": {
+         "src": "/audio/o/0931909e67065620.mp3"
+        }
+       },
+       {
+        "ar": "طِفْلٌ",
+        "id": "anak kecil",
+        "emoji": "🧒",
+        "audio": {
+         "src": "/audio/o/42849c9fb104b54c.mp3"
+        }
+       },
+       {
+        "ar": "أَطْفالٌ",
+        "id": "anak-anak",
+        "emoji": "👧👦",
+        "audio": {
+         "src": "/audio/o/0e47e9e12e98c43e.mp3"
+        }
+       },
+       {
+        "ar": "وَلَدٌ ← أَوْلادٌ",
+        "id": "anak → anak-anak (putra-putri seseorang, segala usia)",
+        "emoji": "👨‍👩‍👧‍👦",
+        "audio": {
+         "src": "/audio/o/565c0b79cd2ac596.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Tempat kerja dan anak"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "السّاعَةُ الواحِدَةُ",
+        "id": "jam satu",
+        "emoji": "🕐",
+        "audio": {
+         "src": "/audio/o/08eb42cccd5bd6c9.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ الثّانِيَةُ",
+        "id": "jam dua",
+        "emoji": "🕑",
+        "audio": {
+         "src": "/audio/o/f52d117c4ca10af3.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ الثّالِثَةُ",
+        "id": "jam tiga",
+        "emoji": "🕒",
+        "audio": {
+         "src": "/audio/o/2a5578c058fae15d.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ الرّابِعَةُ",
+        "id": "jam empat",
+        "emoji": "🕓",
+        "audio": {
+         "src": "/audio/o/57f5983f9343d276.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ الخامِسَةُ",
+        "id": "jam lima",
+        "emoji": "🕔",
+        "audio": {
+         "src": "/audio/o/7a72ddbf217936ee.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ السّادِسَةُ",
+        "id": "jam enam",
+        "emoji": "🕕",
+        "audio": {
+         "src": "/audio/o/99dc2a1d10e977a4.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ السّابِعَةُ",
+        "id": "jam tujuh",
+        "emoji": "🕖",
+        "audio": {
+         "src": "/audio/o/481b0f107df3b79f.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ الثّامِنَةُ",
+        "id": "jam delapan",
+        "emoji": "🕗",
+        "audio": {
+         "src": "/audio/o/c7afde56c9a4464d.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ التّاسِعَةُ",
+        "id": "jam sembilan",
+        "emoji": "🕘",
+        "audio": {
+         "src": "/audio/o/02d5945d42ce6e7f.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ العاشِرَةُ",
+        "id": "jam sepuluh",
+        "emoji": "🕙",
+        "audio": {
+         "src": "/audio/o/6a5dc85109175998.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Jam"
+      },
+      "note_id": "Untuk menyebut jam, pakai angka urutan bentuk perempuan, karena السّاعَةُ kata perempuan. Pengecualian: jam satu = السّاعَةُ الواحِدَةُ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d4-gambar-dokter",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "👨‍⚕️"
+      },
+      "answer": "طَبِيبٌ",
+      "options": [
+       "طَبِيبٌ",
+       "طَيّارٌ",
+       "فَلّاحٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "طَبِيبٌ": {
+        "src": "/audio/o/26603c887576502d.mp3"
+       },
+       "طَيّارٌ": {
+        "src": "/audio/o/50943376da4bd833.mp3"
+       },
+       "فَلّاحٌ": {
+        "src": "/audio/o/6f3575c5efe3fc06.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d4-gambar-petani",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🧑‍🌾"
+      },
+      "answer": "فَلّاحٌ",
+      "options": [
+       "فَلّاحٌ",
+       "صَيّادٌ",
+       "سائِقٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فَلّاحٌ": {
+        "src": "/audio/o/6f3575c5efe3fc06.mp3"
+       },
+       "صَيّادٌ": {
+        "src": "/audio/o/635d199fbcc8ddca.mp3"
+       },
+       "سائِقٌ": {
+        "src": "/audio/o/dc2320f6c6c9fc77.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d4-saiq-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "سائِقٌ",
+       "audio": {
+        "src": "/audio/o/dc2320f6c6c9fc77.mp3"
+       }
+      },
+      "answer": "sopir",
+      "options": [
+       "sopir",
+       "pilot",
+       "pegawai"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d4-dengar-muwazzaf",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "مُوَظَّفٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a690004fb3586d61.mp3"
+       }
+      },
+      "answer": "pegawai",
+      "options": [
+       "pegawai",
+       "guru (lk)",
+       "pedagang"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d4-tempat-tajir",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "التّاجِرُ يَعْمَلُ فِي …",
+       "audio": {
+        "src": "/audio/o/48c0b5321859e822.mp3"
+       },
+       "id": "Pedagang bekerja di …"
+      },
+      "answer": "السُّوقِ",
+      "options": [
+       "السُّوقِ",
+       "المُسْتَشْفَى",
+       "البَحْرِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "السُّوقِ": {
+        "src": "/audio/o/cb22721819e461aa.mp3"
+       },
+       "المُسْتَشْفَى": {
+        "src": "/audio/o/d44afd57be193c51.mp3"
+       },
+       "البَحْرِ": {
+        "src": "/audio/o/28d47ab685fbed7c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d4-tempat-mumarridah",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "المُمَرِّضَةُ تَعْمَلُ فِي …",
+       "audio": {
+        "src": "/audio/o/ada4e5004e69448d.mp3"
+       },
+       "id": "Perawat bekerja di …"
+      },
+      "answer": "المُسْتَشْفَى",
+      "options": [
+       "المُسْتَشْفَى",
+       "السُّوقِ",
+       "البَحْرِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "المُسْتَشْفَى": {
+        "src": "/audio/o/d44afd57be193c51.mp3"
+       },
+       "السُّوقِ": {
+        "src": "/audio/o/cb22721819e461aa.mp3"
+       },
+       "البَحْرِ": {
+        "src": "/audio/o/28d47ab685fbed7c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d4-jam-tiga",
+      "instruction": "Jam berapa ini?",
+      "prompt": {
+       "emoji": "🕒"
+      },
+      "answer": "السّاعَةُ الثّالِثَةُ",
+      "options": [
+       "السّاعَةُ الثّالِثَةُ",
+       "السّاعَةُ الثّامِنَةُ",
+       "السّاعَةُ الثّانِيَةُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "السّاعَةُ الثّالِثَةُ": {
+        "src": "/audio/o/2a5578c058fae15d.mp3"
+       },
+       "السّاعَةُ الثّامِنَةُ": {
+        "src": "/audio/o/c7afde56c9a4464d.mp3"
+       },
+       "السّاعَةُ الثّانِيَةُ": {
+        "src": "/audio/o/f52d117c4ca10af3.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d4-dengar-jam-tujuh",
+      "instruction": "Dengarkan. Jam berapa?",
+      "prompt": {
+       "tts": "السّاعَةُ السّابِعَةُ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/481b0f107df3b79f.mp3"
+       }
+      },
+      "answer": "Jam 7",
+      "options": [
+       "Jam 7",
+       "Jam 9",
+       "Jam 6"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d4-jamak-tifl",
+      "instruction": "Bentuk jamak dari طِفْلٌ adalah …",
+      "prompt": {
+       "ar": "طِفْلٌ",
+       "audio": {
+        "src": "/audio/o/42849c9fb104b54c.mp3"
+       },
+       "emoji": "🧒"
+      },
+      "answer": "أَطْفالٌ",
+      "options": [
+       "أَطْفالٌ",
+       "طِفْلَةٌ",
+       "طائِراتٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَطْفالٌ": {
+        "src": "/audio/o/0e47e9e12e98c43e.mp3"
+       },
+       "طِفْلَةٌ": {
+        "src": "/audio/o/7f01f3ca009d1a6d.mp3"
+       },
+       "طائِراتٌ": {
+        "src": "/audio/o/d825874321371dad.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u8-d4-lat-gambar-pilot",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "🧑‍✈️"
+     },
+     "answer": "طَيّارٌ",
+     "options": [
+      "طَيّارٌ",
+      "طَبِيبٌ",
+      "تاجِرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "طَيّارٌ": {
+       "src": "/audio/o/50943376da4bd833.mp3"
+      },
+      "طَبِيبٌ": {
+       "src": "/audio/o/26603c887576502d.mp3"
+      },
+      "تاجِرٌ": {
+       "src": "/audio/o/13d23a27aceeff7d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d4-lat-mudarris-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مُدَرِّسٌ",
+      "audio": {
+       "src": "/audio/o/2eab7fb2764c06d0.mp3"
+      }
+     },
+     "answer": "guru (lk)",
+     "options": [
+      "guru (lk)",
+      "dokter (lk)",
+      "sopir"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d4-lat-dengar-jam-sepuluh",
+     "instruction": "Dengarkan. Jam berapa?",
+     "prompt": {
+      "tts": "السّاعَةُ العاشِرَةُ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/6a5dc85109175998.mp3"
+      }
+     },
+     "answer": "Jam 10",
+     "options": [
+      "Jam 10",
+      "Jam 1",
+      "Jam 2"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d4-lat-jam-lima",
+     "instruction": "Jam berapa ini?",
+     "prompt": {
+      "emoji": "🕔"
+     },
+     "answer": "السّاعَةُ الخامِسَةُ",
+     "options": [
+      "السّاعَةُ الخامِسَةُ",
+      "السّاعَةُ الرّابِعَةُ",
+      "السّاعَةُ السّادِسَةُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "السّاعَةُ الخامِسَةُ": {
+       "src": "/audio/o/7a72ddbf217936ee.mp3"
+      },
+      "السّاعَةُ الرّابِعَةُ": {
+       "src": "/audio/o/57f5983f9343d276.mp3"
+      },
+      "السّاعَةُ السّادِسَةُ": {
+       "src": "/audio/o/99dc2a1d10e977a4.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d4-lat-maktab-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مُوَظَّفٌ فِي مَكْتَبٍ",
+      "audio": {
+       "src": "/audio/o/d8b93a4f12711482.mp3"
+      }
+     },
+     "answer": "pegawai di kantor",
+     "options": [
+      "pegawai di kantor",
+      "pegawai di pasar",
+      "pegawai di rumah sakit"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u8-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Bertanya dengan هَلْ dan menambah أَيْضًا"
+      },
+      "groups": [
+       {
+        "title_ar": "هَلْ تَعْمَلُ؟ · هَلْ تَعْمَلِينَ؟",
+        "note_id": "Setelah هَلْ boleh langsung kata kerja. تَـ…ـُ untuk kamu (lk), تَـ…ـِينَ untuk kamu (pr). Jawabannya memakai أَ…ـُ (saya).",
+        "rows": [
+         {
+          "ar": "هَلْ تَعْمَلُ فِي مَكْتَبٍ؟",
+          "id": "Apakah kamu (lk) bekerja di kantor?",
+          "audio": {
+           "src": "/audio/o/deb591bc317ee707.mp3"
+          }
+         },
+         {
+          "ar": "هَلْ تَعْمَلِينَ فِي المُسْتَشْفَى؟",
+          "id": "Apakah kamu (pr) bekerja di rumah sakit?",
+          "audio": {
+           "src": "/audio/o/99bcabc413f6f7a2.mp3"
+          }
+         },
+         {
+          "ar": "نَعَمْ، أَعْمَلُ فِي المُسْتَشْفَى.",
+          "id": "Ya, saya bekerja di rumah sakit.",
+          "audio": {
+           "src": "/audio/o/d544292cc6617101.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "… أَيْضًا",
+        "note_id": "أَيْضًا (juga) biasanya diletakkan di akhir kalimat.",
+        "rows": [
+         {
+          "ar": "أَبِي مُدَرِّسٌ، وَأُمِّي مُدَرِّسَةٌ أَيْضًا.",
+          "id": "Ayah saya guru, dan ibu saya juga guru.",
+          "audio": {
+           "src": "/audio/o/dec8e827d4749265.mp3"
+          }
+         },
+         {
+          "ar": "أَنا طالِبٌ، وَأَخِي طالِبٌ أَيْضًا.",
+          "id": "Saya pelajar, dan saudara laki-laki saya juga pelajar.",
+          "audio": {
+           "src": "/audio/o/1e0b76dd8083b4d0.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Menyebut dan menanyakan jumlah"
+      },
+      "groups": [
+       {
+        "title_ar": "لِي · عِنْدِي + jumlah",
+        "note_id": "لِي dan عِنْدِي sama-sama berarti \"saya punya\". Satu: benda + واحِدٌ/واحِدَةٌ. Dua: cukup bentuk dua (ـانِ). Tiga sampai sepuluh: angka + benda jamak; bentuk angkanya berlawanan jenis dengan bendanya (طِفْلٌ laki-laki → ثَلاثَةُ).",
+        "rows": [
+         {
+          "ar": "لِي أَخٌ واحِدٌ.",
+          "id": "Saya punya satu saudara laki-laki.",
+          "audio": {
+           "src": "/audio/o/5f9657b044bb68f4.mp3"
+          }
+         },
+         {
+          "ar": "لِي أُخْتانِ.",
+          "id": "Saya punya dua saudara perempuan.",
+          "audio": {
+           "src": "/audio/o/6aa54eb9684d747a.mp3"
+          }
+         },
+         {
+          "ar": "عِنْدِي ثَلاثَةُ أَطْفالٍ.",
+          "id": "Saya punya tiga anak.",
+          "audio": {
+           "src": "/audio/o/3f97e90488a3ed82.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "كَمْ + benda tunggal berakhiran -an",
+        "note_id": "Setelah كَمْ, bendanya tunggal dan berakhiran -an (ـًا).",
+        "rows": [
+         {
+          "ar": "كَمْ أَخًا لَكَ؟",
+          "id": "Kamu (lk) punya berapa saudara laki-laki?",
+          "audio": {
+           "src": "/audio/o/068cb41fdd228672.mp3"
+          }
+         },
+         {
+          "ar": "كَمْ طِفْلًا عِنْدَكِ؟",
+          "id": "Kamu (pr) punya berapa anak?",
+          "audio": {
+           "src": "/audio/o/22307d9d42b888bf.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Jam dan kesukaan"
+      },
+      "groups": [
+       {
+        "title_ar": "كَمِ السّاعَةُ؟ · كَمْ ساعَةً؟",
+        "note_id": "كَمِ السّاعَةُ؟ = jam berapa? كَمْ ساعَةً؟ = berapa jam (lamanya)? Setelah فِي, السّاعَةُ menjadi السّاعَةِ.",
+        "rows": [
+         {
+          "ar": "كَمِ السّاعَةُ الآنَ؟",
+          "id": "Jam berapa sekarang?",
+          "audio": {
+           "src": "/audio/o/ae3c1204eca6519b.mp3"
+          }
+         },
+         {
+          "ar": "السّاعَةُ الثّالِثَةُ.",
+          "id": "Jam tiga.",
+          "audio": {
+           "src": "/audio/o/3268cc381e06767a.mp3"
+          }
+         },
+         {
+          "ar": "أَرْجِعُ فِي السّاعَةِ الرّابِعَةِ.",
+          "id": "Saya pulang pada jam empat.",
+          "audio": {
+           "src": "/audio/o/f268af2d0f8b2752.mp3"
+          }
+         },
+         {
+          "ar": "كَمْ ساعَةً تَدْرُسُ؟",
+          "id": "Berapa jam kamu (lk) belajar?",
+          "audio": {
+           "src": "/audio/o/913219b4af4c1fb5.mp3"
+          }
+         },
+         {
+          "ar": "أَدْرُسُ ساعَتَيْنِ.",
+          "id": "Saya belajar dua jam.",
+          "audio": {
+           "src": "/audio/o/c8c3b9302de5685c.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "يُحِبُّ · تُحِبُّ · أُحِبُّ + kata benda",
+        "note_id": "Yang disukai boleh benda atau kegiatan (kata kerja yang dibendakan), dan berakhiran -a.",
+        "rows": [
+         {
+          "ar": "نُور تُحِبُّ الطّائِراتِ.",
+          "id": "Nur suka pesawat.",
+          "audio": {
+           "src": "/audio/o/e39f6a92f71f4664.mp3"
+          }
+         },
+         {
+          "ar": "أُمِّي تُحِبُّ الطَّبْخَ.",
+          "id": "Ibu saya suka memasak.",
+          "audio": {
+           "src": "/audio/o/9a3aa7d528f93adf.mp3"
+          }
+         },
+         {
+          "ar": "أَبِي يُحِبُّ القِراءَةَ.",
+          "id": "Ayah saya suka membaca.",
+          "audio": {
+           "src": "/audio/o/e7a9eb11b0ba5b75.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d5-pilih-tamalina",
+      "instruction": "Kamu bertanya langsung kepada Bu Fatimah. Pilih kalimatnya",
+      "prompt": {
+       "id": "Apakah Ibu bekerja di rumah sakit?",
+       "emoji": "👩‍⚕️"
+      },
+      "answer": "هَلْ تَعْمَلِينَ فِي المُسْتَشْفَى؟",
+      "options": [
+       "هَلْ تَعْمَلِينَ فِي المُسْتَشْفَى؟",
+       "هَلْ تَعْمَلُ فِي المُسْتَشْفَى؟",
+       "هَلْ يَعْمَلُ فِي المُسْتَشْفَى؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هَلْ تَعْمَلِينَ فِي المُسْتَشْفَى؟": {
+        "src": "/audio/o/99bcabc413f6f7a2.mp3"
+       },
+       "هَلْ تَعْمَلُ فِي المُسْتَشْفَى؟": {
+        "src": "/audio/o/7cdafa5d25cb7505.mp3"
+       },
+       "هَلْ يَعْمَلُ فِي المُسْتَشْفَى؟": {
+        "src": "/audio/o/0bb03f520046e203.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d5-jawab-hal-tamal",
+      "instruction": "Pak Ahmad ditanya. Jawaban yang benar?",
+      "prompt": {
+       "ar": "هَلْ تَعْمَلُ يَوْمَ الجُمُعَةِ؟",
+       "audio": {
+        "src": "/audio/o/6c950fc5f950be93.mp3"
+       }
+      },
+      "answer": "نَعَمْ، أَعْمَلُ يَوْمَ الجُمُعَةِ.",
+      "options": [
+       "نَعَمْ، أَعْمَلُ يَوْمَ الجُمُعَةِ.",
+       "نَعَمْ، يَعْمَلُ يَوْمَ الجُمُعَةِ.",
+       "نَعَمْ، تَعْمَلِينَ يَوْمَ الجُمُعَةِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَعَمْ، أَعْمَلُ يَوْمَ الجُمُعَةِ.": {
+        "src": "/audio/o/56403592c5c23973.mp3"
+       },
+       "نَعَمْ، يَعْمَلُ يَوْمَ الجُمُعَةِ.": {
+        "src": "/audio/o/96123efa0c8c8c9d.mp3"
+       },
+       "نَعَمْ، تَعْمَلِينَ يَوْمَ الجُمُعَةِ.": {
+        "src": "/audio/o/99d964956c51f062.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d5-lengkapi-aidan",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "أَبِي مُدَرِّسٌ، وَأُمِّي مُدَرِّسَةٌ …",
+       "audio": {
+        "src": "/audio/o/6f8e8cd67f72b1ef.mp3"
+       },
+       "id": "Ayah saya guru, dan ibu saya juga guru."
+      },
+      "answer": "أَيْضًا",
+      "options": [
+       "أَيْضًا",
+       "الآنَ",
+       "صَباحًا"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَيْضًا": {
+        "src": "/audio/o/14128162c91622d8.mp3"
+       },
+       "الآنَ": {
+        "src": "/audio/o/56455fa13b43b5ab.mp3"
+       },
+       "صَباحًا": {
+        "src": "/audio/o/547f72430e4552a0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d5-kam-akhan-tamyiz",
+      "instruction": "Lengkapi: كَمْ … لَكَ؟",
+      "prompt": {
+       "ar": "كَمْ … لَكَ؟",
+       "audio": {
+        "src": "/audio/o/0031406317be8d10.mp3"
+       },
+       "id": "Kamu (lk) punya berapa saudara laki-laki?"
+      },
+      "answer": "أَخًا",
+      "options": [
+       "أَخًا",
+       "أَخٌ",
+       "أَخٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَخًا": {
+        "src": "/audio/o/f410bf0ec091d007.mp3"
+       },
+       "أَخٌ": {
+        "src": "/audio/o/49c821aa8cfd91f7.mp3"
+       },
+       "أَخٍ": {
+        "src": "/audio/o/baadf8fcde2018ad.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d5-kam-saah-bukan-mata",
+      "instruction": "Pilih kalimat yang artinya \"Berapa jam kamu (lk) belajar?\"",
+      "prompt": {
+       "id": "Berapa jam kamu (lk) belajar?",
+       "emoji": "⏳"
+      },
+      "answer": "كَمْ ساعَةً تَدْرُسُ؟",
+      "options": [
+       "كَمْ ساعَةً تَدْرُسُ؟",
+       "كَمِ السّاعَةُ؟",
+       "مَتَى تَدْرُسُ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كَمْ ساعَةً تَدْرُسُ؟": {
+        "src": "/audio/o/913219b4af4c1fb5.mp3"
+       },
+       "كَمِ السّاعَةُ؟": {
+        "src": "/audio/o/6a4e3c4d23e4f9d2.mp3"
+       },
+       "مَتَى تَدْرُسُ؟": {
+        "src": "/audio/o/111d1390590d2937.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d5-fi-saah-rabiah",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "أَرْجِعُ فِي … الرّابِعَةِ.",
+       "audio": {
+        "src": "/audio/o/9b698c4fa33e5995.mp3"
+       },
+       "id": "Saya pulang pada jam empat."
+      },
+      "answer": "السّاعَةِ",
+      "options": [
+       "السّاعَةِ",
+       "السّاعَةُ",
+       "ساعَةً"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "السّاعَةِ": {
+        "src": "/audio/o/69a05783b10e091c.mp3"
+       },
+       "السّاعَةُ": {
+        "src": "/audio/o/d52ebb196932b3c7.mp3"
+       },
+       "ساعَةً": {
+        "src": "/audio/o/12665e799473a167.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d5-tuhibbu-tabkh",
+      "instruction": "Pilih kalimat yang benar",
+      "prompt": {
+       "id": "Ibu saya suka memasak.",
+       "emoji": "🍳"
+      },
+      "answer": "أُمِّي تُحِبُّ الطَّبْخَ.",
+      "options": [
+       "أُمِّي تُحِبُّ الطَّبْخَ.",
+       "أُمِّي يُحِبُّ الطَّبْخَ.",
+       "أُمِّي أُحِبُّ الطَّبْخَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أُمِّي تُحِبُّ الطَّبْخَ.": {
+        "src": "/audio/o/9a3aa7d528f93adf.mp3"
+       },
+       "أُمِّي يُحِبُّ الطَّبْخَ.": {
+        "src": "/audio/o/ff9140ec4f27270d.mp3"
+       },
+       "أُمِّي أُحِبُّ الطَّبْخَ.": {
+        "src": "/audio/o/030166fe839ccbeb.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d5-susun-indi-tsalatsah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya punya tiga anak."
+      },
+      "answer": "عِنْدِي ثَلاثَةُ أَطْفالٍ",
+      "tokens": [
+       "عِنْدِي",
+       "ثَلاثَةُ",
+       "أَطْفالٍ",
+       "طِفْلًا"
+      ],
+      "audioMap": {
+       "عِنْدِي": {
+        "src": "/audio/o/6c11f3803db2c85a.mp3"
+       },
+       "ثَلاثَةُ": {
+        "src": "/audio/o/bb15054f870dc7d0.mp3"
+       },
+       "أَطْفالٍ": {
+        "src": "/audio/o/09c1ced01ed324b1.mp3"
+       },
+       "طِفْلًا": {
+        "src": "/audio/o/cf0ba3c6840e261b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d5-susun-arjiu-rabiah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya pulang pada jam empat."
+      },
+      "answer": "أَرْجِعُ فِي السّاعَةِ الرّابِعَةِ",
+      "tokens": [
+       "أَرْجِعُ",
+       "فِي",
+       "السّاعَةِ",
+       "الرّابِعَةِ",
+       "السّاعَةُ"
+      ],
+      "audioMap": {
+       "أَرْجِعُ": {
+        "src": "/audio/o/3f495f3bfb2675f2.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "السّاعَةِ": {
+        "src": "/audio/o/69a05783b10e091c.mp3"
+       },
+       "الرّابِعَةِ": {
+        "src": "/audio/o/ad99cbc177d60e0e.mp3"
+       },
+       "السّاعَةُ": {
+        "src": "/audio/o/d52ebb196932b3c7.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u8-d5-lat-li-ukhtani",
+     "instruction": "Pilih kalimat yang benar",
+     "prompt": {
+      "id": "Saya punya dua saudara perempuan."
+     },
+     "answer": "لِي أُخْتانِ.",
+     "options": [
+      "لِي أُخْتانِ.",
+      "لِي أُخْتٌ.",
+      "لِي أَخَوانِ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "لِي أُخْتانِ.": {
+       "src": "/audio/o/6aa54eb9684d747a.mp3"
+      },
+      "لِي أُخْتٌ.": {
+       "src": "/audio/o/58bf72d39f6582c1.mp3"
+      },
+      "لِي أَخَوانِ.": {
+       "src": "/audio/o/ab5f4bf5f9baeb79.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u8-d5-lat-susun-tamalina",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Apakah kamu (pr) bekerja juga?"
+     },
+     "answer": "هَلْ تَعْمَلِينَ أَيْضًا",
+     "tokens": [
+      "هَلْ",
+      "تَعْمَلِينَ",
+      "أَيْضًا",
+      "تَعْمَلُ"
+     ],
+     "audioMap": {
+      "هَلْ": {
+       "src": "/audio/o/88964434a18c7513.mp3"
+      },
+      "تَعْمَلِينَ": {
+       "src": "/audio/o/810f9389ada3f0aa.mp3"
+      },
+      "أَيْضًا": {
+       "src": "/audio/o/14128162c91622d8.mp3"
+      },
+      "تَعْمَلُ": {
+       "src": "/audio/o/eb5f65bea23a4226.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d5-lat-kam-tiflan",
+     "instruction": "Lengkapi: كَمْ … عِنْدَكِ؟",
+     "prompt": {
+      "ar": "كَمْ … عِنْدَكِ؟",
+      "audio": {
+       "src": "/audio/o/2cb7dc632ab8a338.mp3"
+      },
+      "id": "Kamu (pr) punya berapa anak?"
+     },
+     "answer": "طِفْلًا",
+     "options": [
+      "طِفْلًا",
+      "أَطْفالٍ",
+      "طِفْلٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "طِفْلًا": {
+       "src": "/audio/o/cf0ba3c6840e261b.mp3"
+      },
+      "أَطْفالٍ": {
+       "src": "/audio/o/09c1ced01ed324b1.mp3"
+      },
+      "طِفْلٌ": {
+       "src": "/audio/o/42849c9fb104b54c.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d5-lat-yuhibbu-qiraah",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أَبِي يُحِبُّ القِراءَةَ.",
+      "audio": {
+       "src": "/audio/o/e7a9eb11b0ba5b75.mp3"
+      }
+     },
+     "answer": "Ayah saya suka membaca.",
+     "options": [
+      "Ayah saya suka membaca.",
+      "Ayah saya suka menulis.",
+      "Ayah saya suka memasak."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d5-lat-dengar-kamis-saah",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "كَمِ السّاعَةُ الآنَ؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/ae3c1204eca6519b.mp3"
+      }
+     },
+     "answer": "Jam berapa sekarang?",
+     "options": [
+      "Jam berapa sekarang?",
+      "Berapa jam kamu (lk) bekerja?",
+      "Kapan kamu (lk) pulang?"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u8-d6",
+   "dars": 6,
+   "title_id": "Bunyi ض dan د, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "ضَ",
+        "audio": {
+         "src": "/audio/o/c4acdf47da99bfa0.mp3"
+        },
+        "pair_ar": "دَ"
+       },
+       {
+        "ar": "دَ",
+        "audio": {
+         "src": "/audio/o/58046689e0e7b7be.mp3"
+        },
+        "pair_ar": "ضَ"
+       },
+       {
+        "ar": "ضُ",
+        "audio": {
+         "src": "/audio/o/b518f098fe76474a.mp3"
+        },
+        "pair_ar": "دُ"
+       },
+       {
+        "ar": "دُ",
+        "audio": {
+         "src": "/audio/o/8b99fb37fff596d1.mp3"
+        },
+        "pair_ar": "ضُ"
+       },
+       {
+        "ar": "ضِ",
+        "audio": {
+         "src": "/audio/o/83d8d1b18c79f025.mp3"
+        },
+        "pair_ar": "دِ"
+       },
+       {
+        "ar": "دِ",
+        "audio": {
+         "src": "/audio/o/2892ba1321f6d52f.mp3"
+        },
+        "pair_ar": "ضِ"
+       },
+       {
+        "ar": "ضَرْبٌ",
+        "audio": {
+         "src": "/audio/o/a1d8263ea2651911.mp3"
+        },
+        "pair_ar": "دَرْبٌ"
+       },
+       {
+        "ar": "دَرْبٌ",
+        "audio": {
+         "src": "/audio/o/b433daf36e2d5686.mp3"
+        },
+        "pair_ar": "ضَرْبٌ"
+       },
+       {
+        "ar": "ضَلَّ",
+        "audio": {
+         "src": "/audio/o/ae6ab32a9d3c831b.mp3"
+        },
+        "pair_ar": "دَلَّ"
+       },
+       {
+        "ar": "دَلَّ",
+        "audio": {
+         "src": "/audio/o/2c7f746fb4d3ed4e.mp3"
+        },
+        "pair_ar": "ضَلَّ"
+       },
+       {
+        "ar": "ضالٌّ",
+        "audio": {
+         "src": "/audio/o/b9de7e7f17e28472.mp3"
+        },
+        "pair_ar": "دالٌّ"
+       },
+       {
+        "ar": "دالٌّ",
+        "audio": {
+         "src": "/audio/o/f63a3c6db25f8e8a.mp3"
+        },
+        "pair_ar": "ضالٌّ"
+       },
+       {
+        "ar": "مَرِيضٌ",
+        "audio": {
+         "src": "/audio/o/bc8aa4de3731758d.mp3"
+        },
+        "pair_ar": "مَرِيدٌ"
+       },
+       {
+        "ar": "مَرِيدٌ",
+        "audio": {
+         "src": "/audio/o/41af38742b35aae8.mp3"
+        },
+        "pair_ar": "مَرِيضٌ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi ض dan د"
+      },
+      "note_id": "د (dal) seperti \"d\" Indonesia. ض (dhad) lebih tebal dan berat: pangkal lidah ditarik ke belakang, rongga mulut terasa penuh, dan vokal sesudahnya terdengar agak \"o\". Jangan ucapkan ض sebagai \"dl\" atau \"d\" biasa. Ketuk tiap kotak dan bandingkan."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d6-dengar-darb",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "دَرْبٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/b433daf36e2d5686.mp3"
+       }
+      },
+      "answer": "دَرْبٌ",
+      "options": [
+       "دَرْبٌ",
+       "ضَرْبٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "دَرْبٌ": {
+        "src": "/audio/o/b433daf36e2d5686.mp3"
+       },
+       "ضَرْبٌ": {
+        "src": "/audio/o/a1d8263ea2651911.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d6-dengar-dhalla",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "ضَلَّ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/ae6ab32a9d3c831b.mp3"
+       }
+      },
+      "answer": "ضَلَّ",
+      "options": [
+       "ضَلَّ",
+       "دَلَّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ضَلَّ": {
+        "src": "/audio/o/ae6ab32a9d3c831b.mp3"
+       },
+       "دَلَّ": {
+        "src": "/audio/o/2c7f746fb4d3ed4e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d6-dengar-dall",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "دالٌّ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/f63a3c6db25f8e8a.mp3"
+       }
+      },
+      "answer": "دالٌّ",
+      "options": [
+       "دالٌّ",
+       "ضالٌّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "دالٌّ": {
+        "src": "/audio/o/f63a3c6db25f8e8a.mp3"
+       },
+       "ضالٌّ": {
+        "src": "/audio/o/b9de7e7f17e28472.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d6-dengar-maridh",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "مَرِيضٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/bc8aa4de3731758d.mp3"
+       }
+      },
+      "answer": "مَرِيضٌ",
+      "options": [
+       "مَرِيضٌ",
+       "مَرِيدٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَرِيضٌ": {
+        "src": "/audio/o/bc8aa4de3731758d.mp3"
+       },
+       "مَرِيدٌ": {
+        "src": "/audio/o/41af38742b35aae8.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d6-cari-dhad",
+      "instruction": "Kata mana yang mengandung huruf ض?",
+      "prompt": {
+       "id": "Cari huruf dhad (ض)"
+      },
+      "answer": "مُمَرِّضَةٌ",
+      "options": [
+       "مُمَرِّضَةٌ",
+       "مُدَرِّسٌ",
+       "مُهَنْدِسٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مُمَرِّضَةٌ": {
+        "src": "/audio/o/d357ea2b2c71a87c.mp3"
+       },
+       "مُدَرِّسٌ": {
+        "src": "/audio/o/2eab7fb2764c06d0.mp3"
+       },
+       "مُهَنْدِسٌ": {
+        "src": "/audio/o/5dc136931a394b91.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u8-d6-ucap-mumarridah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "مُمَرِّضَةٌ",
+       "id": "perawat (pr)",
+       "audio": {
+        "src": "/audio/o/d357ea2b2c71a87c.mp3"
+       }
+      },
+      "target": "مُمَرِّضَةٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u8-d6-ucap-min-fadhlik",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "مِنْ فَضْلِكَ.",
+       "id": "Tolong. (kepada lk)",
+       "audio": {
+        "src": "/audio/o/22c96e1f002c26ec.mp3"
+       }
+      },
+      "target": "مِنْ فَضْلِكَ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d6-simak-ibu-perawat",
+      "instruction": "Dengarkan. Di mana ibunya bekerja?",
+      "prompt": {
+       "tts": "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/0ea12314d36225c2.mp3"
+       }
+      },
+      "answer": "Di rumah sakit",
+      "options": [
+       "Di rumah sakit",
+       "Di pasar",
+       "Di kantor"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d6-simak-sopir-bus",
+      "instruction": "Dengarkan. Apa pekerjaan ayahnya?",
+      "prompt": {
+       "tts": "أَبِي سائِقُ حافِلَةٍ فِي جاكَرْتا.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/e356e5b33aa5163c.mp3"
+       }
+      },
+      "answer": "Sopir bus",
+      "options": [
+       "Sopir bus",
+       "Pilot",
+       "Pegawai kantor"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d6-simak-pulang-jam",
+      "instruction": "Dengarkan. Jam berapa dia pulang?",
+      "prompt": {
+       "tts": "أَرْجِعُ إِلَى البَيْتِ فِي السّاعَةِ الخامِسَةِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/7a891a4a1e405d34.mp3"
+       }
+      },
+      "answer": "Jam 5",
+      "options": [
+       "Jam 5",
+       "Jam 3",
+       "Jam 7"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u8-d6-lat-dengar-dharb",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "ضَرْبٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/a1d8263ea2651911.mp3"
+      }
+     },
+     "answer": "ضَرْبٌ",
+     "options": [
+      "ضَرْبٌ",
+      "دَرْبٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ضَرْبٌ": {
+       "src": "/audio/o/a1d8263ea2651911.mp3"
+      },
+      "دَرْبٌ": {
+       "src": "/audio/o/b433daf36e2d5686.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d6-lat-dengar-dalla",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "دَلَّ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/2c7f746fb4d3ed4e.mp3"
+      }
+     },
+     "answer": "دَلَّ",
+     "options": [
+      "دَلَّ",
+      "ضَلَّ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "دَلَّ": {
+       "src": "/audio/o/2c7f746fb4d3ed4e.mp3"
+      },
+      "ضَلَّ": {
+       "src": "/audio/o/ae6ab32a9d3c831b.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d6-lat-dengar-dhall",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "ضالٌّ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/b9de7e7f17e28472.mp3"
+      }
+     },
+     "answer": "ضالٌّ",
+     "options": [
+      "ضالٌّ",
+      "دالٌّ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ضالٌّ": {
+       "src": "/audio/o/b9de7e7f17e28472.mp3"
+      },
+      "دالٌّ": {
+       "src": "/audio/o/f63a3c6db25f8e8a.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d6-lat-dengar-murid",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "مَرِيدٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/41af38742b35aae8.mp3"
+      }
+     },
+     "answer": "مَرِيدٌ",
+     "options": [
+      "مَرِيدٌ",
+      "مَرِيضٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "مَرِيدٌ": {
+       "src": "/audio/o/41af38742b35aae8.mp3"
+      },
+      "مَرِيضٌ": {
+       "src": "/audio/o/bc8aa4de3731758d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d6-lat-simak-tajir",
+     "instruction": "Dengarkan. Apa pekerjaan ayahnya?",
+     "prompt": {
+      "tts": "أَبِي تاجِرٌ فِي السُّوقِ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/746aa30027a9a491.mp3"
+      }
+     },
+     "answer": "Pedagang",
+     "options": [
+      "Pedagang",
+      "Petani",
+      "Nelayan"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u8-d7",
+   "dars": 7,
+   "title_id": "Berbicara",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "أُرِيدُ أَنْ أَكُونَ …",
+        "id": "saya ingin menjadi …",
+        "emoji": "💭",
+        "audio": {
+         "src": "/audio/o/ba46627e067d9338.mp3"
+        }
+       },
+       {
+        "ar": "سَأَكُونُ …",
+        "id": "saya akan menjadi …",
+        "emoji": "🚀",
+        "audio": {
+         "src": "/audio/o/f0e22ffb8c058633.mp3"
+        }
+       },
+       {
+        "ar": "أُرِيدُ أَنْ أَكُونَ طَبِيبًا.",
+        "id": "Saya ingin menjadi dokter. (lk)",
+        "emoji": "👨‍⚕️",
+        "audio": {
+         "src": "/audio/o/640692abb186dee6.mp3"
+        }
+       },
+       {
+        "ar": "سَأَكُونُ مُدَرِّسَةً.",
+        "id": "Saya akan menjadi guru. (pr)",
+        "emoji": "👩‍🏫",
+        "audio": {
+         "src": "/audio/o/21f315c3d893dd94.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bercerita tentang cita-cita"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u8-d7-cerita-ortu",
+      "instruction": "Ceritakan pekerjaan ayah dan ibumu",
+      "prompt": {
+       "id": "Sebut pekerjaan dan tempat kerjanya."
+      },
+      "model": [
+       {
+        "ar": "أَبِي مُهَنْدِسٌ فِي شَرِكَةِ الماءِ.",
+        "id": "Ayah saya insinyur di perusahaan air minum.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/5e38b3dd37dbb795.mp3"
+        }
+       },
+       {
+        "ar": "أُمِّي طَبِيبَةٌ فِي مَرْكَزٍ صِحِّيٍّ.",
+        "id": "Ibu saya dokter di puskesmas.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/456a822bac93075a.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u8-d7-ucap-abi-muhandis",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَبِي مُهَنْدِسٌ.",
+       "id": "Ayah saya insinyur.",
+       "audio": {
+        "src": "/audio/o/0b9f9f89db7c297a.mp3"
+       }
+      },
+      "target": "أَبِي مُهَنْدِسٌ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u8-d7-ucap-saah-tsalitsah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "السّاعَةُ الثّالِثَةُ.",
+       "id": "Jam tiga.",
+       "audio": {
+        "src": "/audio/o/4b3e9500f815e2d9.mp3"
+       }
+      },
+      "target": "السّاعَةُ الثّالِثَةُ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d7-tanya-cita-pr",
+      "instruction": "Kamu ingin tahu apakah Ayu ingin menjadi dokter. Kamu bertanya …",
+      "prompt": {
+       "id": "Apakah kamu ingin menjadi dokter? (pr)",
+       "emoji": "👩‍⚕️"
+      },
+      "answer": "هَلْ تُرِيدِينَ أَنْ تَكُونِي طَبِيبَةً؟",
+      "options": [
+       "هَلْ تُرِيدِينَ أَنْ تَكُونِي طَبِيبَةً؟",
+       "هَلْ تُرِيدُ أَنْ تَكُونَ طَبِيبًا؟",
+       "هَلْ أُمُّكِ طَبِيبَةٌ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هَلْ تُرِيدِينَ أَنْ تَكُونِي طَبِيبَةً؟": {
+        "src": "/audio/o/2c92f9904ab4fd89.mp3"
+       },
+       "هَلْ تُرِيدُ أَنْ تَكُونَ طَبِيبًا؟": {
+        "src": "/audio/o/108366876df6ad61.mp3"
+       },
+       "هَلْ أُمُّكِ طَبِيبَةٌ؟": {
+        "src": "/audio/o/e847250d989953e7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u8-d7-cita-citamu",
+      "instruction": "Apa cita-citamu? Jawab dengan سَأَكُونُ … atau أُرِيدُ أَنْ أَكُونَ …",
+      "prompt": {
+       "id": "Ingat: profesi untuk perempuan berakhiran ـَةً."
+      },
+      "model": [
+       {
+        "ar": "سَأَكُونُ طَيّارَةً.",
+        "id": "Aku akan menjadi pilot. (pr)",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/0264a4e1545fa33a.mp3"
+        }
+       },
+       {
+        "ar": "أُرِيدُ أَنْ أَكُونَ مُتَرْجِمًا.",
+        "id": "Saya ingin menjadi penerjemah. (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/f1c0007305b6255d.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d7-jawab-kam-ukhtan",
+      "instruction": "Rizki punya dua saudara perempuan: Ayu dan Nur. Rizki ditanya كَمْ أُخْتًا لَكَ؟ Jawabannya …",
+      "prompt": {
+       "ar": "كَمْ أُخْتًا لَكَ؟",
+       "audio": {
+        "src": "/audio/o/15dc85bf0c4408f7.mp3"
+       }
+      },
+      "answer": "لِي أُخْتانِ.",
+      "options": [
+       "لِي أُخْتانِ.",
+       "لِي أُخْتٌ واحِدَةٌ.",
+       "لِي أَخَوانِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لِي أُخْتانِ.": {
+        "src": "/audio/o/6aa54eb9684d747a.mp3"
+       },
+       "لِي أُخْتٌ واحِدَةٌ.": {
+        "src": "/audio/o/f560847634415d60.mp3"
+       },
+       "لِي أَخَوانِ.": {
+        "src": "/audio/o/ab5f4bf5f9baeb79.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u8-d7-jumlah-saudara",
+      "instruction": "Kamu punya berapa saudara? Jawab dengan لِي …",
+      "prompt": {
+       "id": "Pakai angka 1 atau 2: أَخٌ واحِدٌ، أُخْتانِ, dan seterusnya."
+      },
+      "model": [
+       {
+        "ar": "لِي أَخٌ واحِدٌ وَأُخْتانِ.",
+        "id": "Saya punya satu saudara laki-laki dan dua saudara perempuan.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/c4d30674dcf4e6c8.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u8-d7-ucap-uhibbu-tairat",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَنا أُحِبُّ الطّائِراتِ.",
+       "id": "Aku suka pesawat.",
+       "audio": {
+        "src": "/audio/o/f8258ec8dbe7dd08.mp3"
+       }
+      },
+      "target": "أَنا أُحِبُّ الطّائِراتِ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d7-tanya-jam-belajar",
+      "instruction": "Kamu ingin tahu berapa jam Budi belajar setiap hari. Kamu bertanya …",
+      "prompt": {
+       "id": "Berapa jam kamu (lk) belajar setiap hari?",
+       "emoji": "📚"
+      },
+      "answer": "كَمْ ساعَةً تَدْرُسُ كُلَّ يَوْمٍ؟",
+      "options": [
+       "كَمْ ساعَةً تَدْرُسُ كُلَّ يَوْمٍ؟",
+       "كَمِ السّاعَةُ الآنَ؟",
+       "مَتَى تَدْرُسُ كُلَّ يَوْمٍ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كَمْ ساعَةً تَدْرُسُ كُلَّ يَوْمٍ؟": {
+        "src": "/audio/o/b31b269fe993282c.mp3"
+       },
+       "كَمِ السّاعَةُ الآنَ؟": {
+        "src": "/audio/o/ae3c1204eca6519b.mp3"
+       },
+       "مَتَى تَدْرُسُ كُلَّ يَوْمٍ؟": {
+        "src": "/audio/o/891726090bf8e96e.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u8-d7-lat-jawab-kam-saah",
+     "instruction": "Pilih jawaban yang tepat",
+     "prompt": {
+      "ar": "كَمْ ساعَةً تَدْرُسُ؟",
+      "audio": {
+       "src": "/audio/o/913219b4af4c1fb5.mp3"
+      }
+     },
+     "answer": "أَدْرُسُ ساعَتَيْنِ.",
+     "options": [
+      "أَدْرُسُ ساعَتَيْنِ.",
+      "السّاعَةُ الثّانِيَةُ.",
+      "أَدْرُسُ فِي الفَصْلِ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَدْرُسُ ساعَتَيْنِ.": {
+       "src": "/audio/o/c8c3b9302de5685c.mp3"
+      },
+      "السّاعَةُ الثّانِيَةُ.": {
+       "src": "/audio/o/8cec833298a93d3d.mp3"
+      },
+      "أَدْرُسُ فِي الفَصْلِ.": {
+       "src": "/audio/o/d8573b0769f13933.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d7-lat-jawab-abuki",
+     "instruction": "Siti ditanya. Pilih jawaban yang tepat",
+     "prompt": {
+      "ar": "ماذا يَعْمَلُ أَبُوكِ؟",
+      "audio": {
+       "src": "/audio/o/85640d26d2727e1b.mp3"
+      }
+     },
+     "answer": "أَبِي مُدَرِّسٌ.",
+     "options": [
+      "أَبِي مُدَرِّسٌ.",
+      "أَبِي مُدَرِّسَةٌ.",
+      "أُمِّي تاجِرَةٌ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَبِي مُدَرِّسٌ.": {
+       "src": "/audio/o/7368c5f7a7a3403b.mp3"
+      },
+      "أَبِي مُدَرِّسَةٌ.": {
+       "src": "/audio/o/353b51e25b31797d.mp3"
+      },
+      "أُمِّي تاجِرَةٌ.": {
+       "src": "/audio/o/168ffc9f635fc800.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d7-lat-cita-pilot-lk",
+     "instruction": "Pilih kalimat yang benar",
+     "prompt": {
+      "id": "Saya ingin menjadi pilot. (lk)",
+      "emoji": "🧑‍✈️"
+     },
+     "answer": "أُرِيدُ أَنْ أَكُونَ طَيّارًا.",
+     "options": [
+      "أُرِيدُ أَنْ أَكُونَ طَيّارًا.",
+      "أُرِيدُ أَنْ أَكُونَ طَيّارَةً.",
+      "أُحِبُّ الطّائِراتِ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أُرِيدُ أَنْ أَكُونَ طَيّارًا.": {
+       "src": "/audio/o/d2041cfbfffeb691.mp3"
+      },
+      "أُرِيدُ أَنْ أَكُونَ طَيّارَةً.": {
+       "src": "/audio/o/6dbfd00bc5e4c744.mp3"
+      },
+      "أُحِبُّ الطّائِراتِ.": {
+       "src": "/audio/o/788d3dc65d918eac.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d7-lat-tanya-jam-sekarang",
+     "instruction": "Kamu ingin tahu jam berapa sekarang. Kamu bertanya …",
+     "prompt": {
+      "id": "Jam berapa sekarang?",
+      "emoji": "🕰️"
+     },
+     "answer": "كَمِ السّاعَةُ الآنَ؟",
+     "options": [
+      "كَمِ السّاعَةُ الآنَ؟",
+      "كَمْ ساعَةً تَعْمَلُ؟",
+      "مَتَى تَرْجِعُ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كَمِ السّاعَةُ الآنَ؟": {
+       "src": "/audio/o/ae3c1204eca6519b.mp3"
+      },
+      "كَمْ ساعَةً تَعْمَلُ؟": {
+       "src": "/audio/o/ec81561bd08721c2.mp3"
+      },
+      "مَتَى تَرْجِعُ؟": {
+       "src": "/audio/o/be7bc5edab8853b5.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u8-d8",
+   "dars": 8,
+   "title_id": "Membaca",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "هٰذِهِ أُسْرَةُ أَحْمَدَ فِي بانْدُونْغ.",
+        "id": "Ini keluarga Ahmad di Bandung.",
+        "emoji": "🏠",
+        "audio": {
+         "src": "/audio/o/63b40cad368b307c.mp3"
+        }
+       },
+       {
+        "ar": "أَحْمَدُ مُهَنْدِسٌ فِي شَرِكَةِ الماءِ.",
+        "id": "Ahmad insinyur di perusahaan air minum.",
+        "emoji": "👷",
+        "audio": {
+         "src": "/audio/o/7e4b616a4d29b669.mp3"
+        }
+       },
+       {
+        "ar": "يَعْمَلُ مِنَ السّابِعَةِ إِلَى الرّابِعَةِ.",
+        "id": "Dia bekerja dari jam tujuh sampai jam empat.",
+        "audio": {
+         "src": "/audio/o/62b809c0d82402da.mp3"
+        }
+       },
+       {
+        "ar": "فاطِمَةُ طَبِيبَةٌ فِي مَرْكَزٍ صِحِّيٍّ.",
+        "id": "Fatimah dokter di puskesmas.",
+        "emoji": "👩‍⚕️",
+        "audio": {
+         "src": "/audio/o/ab7d3a6c3c23591d.mp3"
+        }
+       },
+       {
+        "ar": "هِيَ تُحِبُّ الطَّبْخَ أَيْضًا.",
+        "id": "Dia juga suka memasak.",
+        "audio": {
+         "src": "/audio/o/651ab69396bd276a.mp3"
+        }
+       },
+       {
+        "ar": "فِي الأُسْرَةِ ثَلاثَةُ أَوْلادٍ.",
+        "id": "Di keluarga itu ada tiga anak.",
+        "audio": {
+         "src": "/audio/o/d956e8c0d6d5e7cc.mp3"
+        }
+       },
+       {
+        "ar": "رِزْقِي طالِبٌ فِي يُوغْياكَرْتا.",
+        "id": "Rizki pelajar di Yogyakarta.",
+        "audio": {
+         "src": "/audio/o/918c4a4e181ea3a8.mp3"
+        }
+       },
+       {
+        "ar": "وَأَيُو طالِبَةٌ فِي غارُوت.",
+        "id": "Ayu pelajar (pr) di Garut.",
+        "audio": {
+         "src": "/audio/o/ea372eae9e5fc3d0.mp3"
+        }
+       },
+       {
+        "ar": "نُور تُحِبُّ الطّائِراتِ، وَتُرِيدُ أَنْ تَكُونَ طَيّارَةً.",
+        "id": "Nur suka pesawat, dan dia ingin menjadi pilot.",
+        "emoji": "✈️",
+        "audio": {
+         "src": "/audio/o/a83a8c4c48825bd0.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Keluarga Ahmad"
+      },
+      "imgs": [
+       "/img/o/u8-baca-keluarga.webp"
+      ],
+      "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d8-baca-ahmad-tabib",
+      "instruction": "Benar atau salah? \"Ahmad seorang dokter.\"",
+      "prompt": {
+       "ar": "أَحْمَدُ طَبِيبٌ.",
+       "audio": {
+        "src": "/audio/o/0394cad8d646f562.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d8-baca-fatimah-tabkh",
+      "instruction": "Benar atau salah? \"Fatimah suka memasak.\"",
+      "prompt": {
+       "ar": "فاطِمَةُ تُحِبُّ الطَّبْخَ.",
+       "audio": {
+        "src": "/audio/o/c240bfe30825177d.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d8-baca-jumlah-anak",
+      "instruction": "Ada berapa anak di keluarga Ahmad?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "Tiga",
+      "options": [
+       "Tiga",
+       "Dua",
+       "Empat"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d8-baca-ayu-tempat",
+      "instruction": "Di mana Ayu belajar?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "Garut",
+      "options": [
+       "Garut",
+       "Yogyakarta",
+       "Bandung"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d8-baca-ahmad-sampai",
+      "instruction": "Pak Ahmad bekerja sampai jam berapa?",
+      "prompt": {
+       "id": "Menurut bacaan 1",
+       "emoji": "🕓"
+      },
+      "answer": "Jam 4",
+      "options": [
+       "Jam 4",
+       "Jam 7",
+       "Jam 3"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "أَبُو بُودِي صَيّادٌ فِي سُورابايا.",
+        "id": "Ayah Budi nelayan di Surabaya.",
+        "emoji": "🎣",
+        "audio": {
+         "src": "/audio/o/81850376e500168a.mp3"
+        }
+       },
+       {
+        "ar": "يَذْهَبُ إِلَى البَحْرِ فِي المَساءِ.",
+        "id": "Dia pergi ke laut pada sore hari.",
+        "emoji": "🌊",
+        "audio": {
+         "src": "/audio/o/a0bd765b4c133fef.mp3"
+        }
+       },
+       {
+        "ar": "وَيَرْجِعُ فِي السّاعَةِ السّادِسَةِ صَباحًا.",
+        "id": "Dan dia pulang pada jam enam pagi.",
+        "audio": {
+         "src": "/audio/o/c21353fc5db662e7.mp3"
+        }
+       },
+       {
+        "ar": "أُمُّ بُودِي تَبِيعُ السَّمَكَ فِي السُّوقِ.",
+        "id": "Ibu Budi menjual ikan di pasar.",
+        "emoji": "🐟",
+        "audio": {
+         "src": "/audio/o/20f41632354dbd23.mp3"
+        }
+       },
+       {
+        "ar": "بُودِي يُحِبُّ السَّمَكَ كَثِيرًا!",
+        "id": "Budi sangat suka ikan!",
+        "audio": {
+         "src": "/audio/o/818e24ec90e225f8.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Ayah Budi"
+      },
+      "imgs": [
+       "/img/o/u8-baca-ayah-budi.webp"
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d8-baca-budi-ayah-pulang",
+      "instruction": "Jam berapa ayah Budi pulang?",
+      "prompt": {
+       "id": "Menurut bacaan 2"
+      },
+      "answer": "Jam 6 pagi",
+      "options": [
+       "Jam 6 pagi",
+       "Jam 6 sore",
+       "Jam 7 pagi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d8-baca-ibu-budi-qumasy",
+      "instruction": "Benar atau salah? \"Ibu Budi menjual kain.\"",
+      "prompt": {
+       "ar": "أُمُّ بُودِي تَبِيعُ القُماشَ.",
+       "audio": {
+        "src": "/audio/o/4795b0ea239461aa.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d8-baca-gambar-nelayan",
+      "instruction": "Pilih kata yang cocok untuk ayah Budi",
+      "prompt": {
+       "emoji": "🎣"
+      },
+      "answer": "صَيّادٌ",
+      "options": [
+       "صَيّادٌ",
+       "فَلّاحٌ",
+       "طَيّارٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صَيّادٌ": {
+        "src": "/audio/o/635d199fbcc8ddca.mp3"
+       },
+       "فَلّاحٌ": {
+        "src": "/audio/o/6f3575c5efe3fc06.mp3"
+       },
+       "طَيّارٌ": {
+        "src": "/audio/o/50943376da4bd833.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u8-d8-lat-baca-nur-cita",
+     "instruction": "Apa cita-cita Nur?",
+     "prompt": {
+      "id": "Menurut bacaan 1",
+      "emoji": "💭"
+     },
+     "answer": "Pilot",
+     "options": [
+      "Pilot",
+      "Dokter",
+      "Penerjemah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d8-lat-baca-ahmad-tempat",
+     "instruction": "Di mana Ahmad bekerja?",
+     "prompt": {
+      "id": "Menurut bacaan 1"
+     },
+     "answer": "Di perusahaan air minum",
+     "options": [
+      "Di perusahaan air minum",
+      "Di puskesmas",
+      "Di pasar"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d8-lat-baca-budi-samak",
+     "instruction": "Benar atau salah? \"Budi suka ikan.\"",
+     "prompt": {
+      "ar": "بُودِي يُحِبُّ السَّمَكَ.",
+      "audio": {
+       "src": "/audio/o/19abf99d51f39786.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d8-lat-baca-arti-yadzhab",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "يَذْهَبُ إِلَى البَحْرِ فِي المَساءِ.",
+      "audio": {
+       "src": "/audio/o/a0bd765b4c133fef.mp3"
+      }
+     },
+     "answer": "Dia (lk) pergi ke laut pada sore hari.",
+     "options": [
+      "Dia (lk) pergi ke laut pada sore hari.",
+      "Dia (lk) pulang dari laut pada pagi hari.",
+      "Dia (pr) pergi ke pasar pada sore hari."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u8-d9",
+   "dars": 9,
+   "title_id": "Huruf → kata → kalimat",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "عَمَلٌ",
+        "id": "ع + م + ل → pekerjaan",
+        "audio": {
+         "src": "/audio/o/ff477f6e5f83bc68.mp3"
+        }
+       },
+       {
+        "ar": "مَكْتَبٌ",
+        "id": "م + ك + ت + ب → kantor",
+        "audio": {
+         "src": "/audio/o/95e96058341d07b7.mp3"
+        }
+       },
+       {
+        "ar": "سُوقٌ",
+        "id": "س + و + ق → pasar",
+        "audio": {
+         "src": "/audio/o/5bc8636d0b6ed92e.mp3"
+        }
+       },
+       {
+        "ar": "تاجِرٌ",
+        "id": "ت + ا + ج + ر → pedagang",
+        "audio": {
+         "src": "/audio/o/13d23a27aceeff7d.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf menjadi kata"
+      },
+      "instruction_id": "Sambungkan huruf-hurufnya menjadi satu kata. Ingat: ا د ذ ر ز و tidak menyambung ke huruf sesudahnya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d9-sambung-amal",
+      "instruction": "Huruf ع + م + ل disambung menjadi …",
+      "prompt": {
+       "id": "ع + م + ل"
+      },
+      "answer": "عَمَلٌ",
+      "options": [
+       "عَمَلٌ",
+       "عَلَمٌ",
+       "عِلْمٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَمَلٌ": {
+        "src": "/audio/o/ff477f6e5f83bc68.mp3"
+       },
+       "عَلَمٌ": {
+        "src": "/audio/o/a15c1c4188eab63f.mp3"
+       },
+       "عِلْمٌ": {
+        "src": "/audio/o/7cbaf80a36bd4074.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d9-eja-tajir",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "تاجِرٌ (pedagang)"
+      },
+      "answer": "ت ا ج ر",
+      "tokens": [
+       "ت",
+       "ا",
+       "ج",
+       "ر",
+       "د"
+      ],
+      "audioMap": {
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       },
+       "ا": {
+        "src": "/audio/o/4fc340bfb295d42f.mp3"
+       },
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       },
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d9-eja-maktab",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "مَكْتَبٌ (kantor)"
+      },
+      "answer": "م ك ت ب",
+      "tokens": [
+       "م",
+       "ك",
+       "ت",
+       "ب",
+       "ن"
+      ],
+      "audioMap": {
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "ك": {
+        "src": "/audio/o/58fba7de9c43a599.mp3"
+       },
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       },
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       },
+       "ن": {
+        "src": "/audio/o/ce5720365c20c36e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d9-eja-suq",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "سُوقٌ (pasar)"
+      },
+      "answer": "س و ق",
+      "tokens": [
+       "س",
+       "و",
+       "ق",
+       "ك"
+      ],
+      "audioMap": {
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       },
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       },
+       "ق": {
+        "src": "/audio/o/f9b42c3c2a464bde.mp3"
+       },
+       "ك": {
+        "src": "/audio/o/58fba7de9c43a599.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d9-tulis-sayyad",
+      "instruction": "Mana tulisan \"nelayan\" yang benar?",
+      "prompt": {
+       "id": "nelayan",
+       "emoji": "🎣"
+      },
+      "answer": "صَيّادٌ",
+      "options": [
+       "صَيّادٌ",
+       "سَيّادٌ",
+       "صَيّاضٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صَيّادٌ": {
+        "src": "/audio/o/635d199fbcc8ddca.mp3"
+       },
+       "سَيّادٌ": {
+        "src": "/audio/o/dff51e83f1994266.mp3"
+       },
+       "صَيّاضٌ": {
+        "src": "/audio/o/82355d581a17d7d3.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u8-d9-tulis-mumarridah",
+      "instruction": "Mana tulisan \"perawat (pr)\" yang benar?",
+      "prompt": {
+       "id": "perawat (pr)",
+       "emoji": "👩‍⚕️"
+      },
+      "answer": "مُمَرِّضَةٌ",
+      "options": [
+       "مُمَرِّضَةٌ",
+       "مُمَرِّدَةٌ",
+       "مُمَرِّظَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مُمَرِّضَةٌ": {
+        "src": "/audio/o/d357ea2b2c71a87c.mp3"
+       },
+       "مُمَرِّدَةٌ": {
+        "src": "/audio/o/be64aa84cd10942a.mp3"
+       },
+       "مُمَرِّظَةٌ": {
+        "src": "/audio/o/b8936304502910cc.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "أَبِي مُهَنْدِسٌ.",
+        "id": "Ayah saya insinyur.",
+        "audio": {
+         "src": "/audio/o/9d2532fccece19f9.mp3"
+        }
+       },
+       {
+        "ar": "أُمِّي تاجِرَةٌ فِي السُّوقِ.",
+        "id": "Ibu saya pedagang di pasar.",
+        "audio": {
+         "src": "/audio/o/00b4b4c58bf6fd9e.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata menjadi kalimat"
+      },
+      "instruction_id": "Salin kalimat ini lengkap dengan harakatnya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d9-kalimat-abi-muwazzaf",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ayah saya pegawai di kantor."
+      },
+      "answer": "أَبِي مُوَظَّفٌ فِي مَكْتَبٍ",
+      "tokens": [
+       "أَبِي",
+       "مُوَظَّفٌ",
+       "فِي",
+       "مَكْتَبٍ",
+       "مُوَظَّفَةٌ"
+      ],
+      "audioMap": {
+       "أَبِي": {
+        "src": "/audio/o/21fd285adcc5f188.mp3"
+       },
+       "مُوَظَّفٌ": {
+        "src": "/audio/o/a690004fb3586d61.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "مَكْتَبٍ": {
+        "src": "/audio/o/3921caa21835bf15.mp3"
+       },
+       "مُوَظَّفَةٌ": {
+        "src": "/audio/o/e9ae3939fee38803.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d9-kalimat-nur-tairat",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Dia (pr) suka pesawat."
+      },
+      "answer": "هِيَ تُحِبُّ الطّائِراتِ",
+      "tokens": [
+       "هِيَ",
+       "تُحِبُّ",
+       "الطّائِراتِ",
+       "يُحِبُّ"
+      ],
+      "audioMap": {
+       "هِيَ": {
+        "src": "/audio/o/517ed049354d7a62.mp3"
+       },
+       "تُحِبُّ": {
+        "src": "/audio/o/bd6fad438e829321.mp3"
+       },
+       "الطّائِراتِ": {
+        "src": "/audio/o/98ae2d2e224037c5.mp3"
+       },
+       "يُحِبُّ": {
+        "src": "/audio/o/191bf3b2b4156f21.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u8-d9-kalimat-amal-sabiah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya bekerja dari jam tujuh."
+      },
+      "answer": "أَعْمَلُ مِنَ السّاعَةِ السّابِعَةِ",
+      "tokens": [
+       "أَعْمَلُ",
+       "مِنَ",
+       "السّاعَةِ",
+       "السّابِعَةِ",
+       "السّاعَةُ"
+      ],
+      "audioMap": {
+       "أَعْمَلُ": {
+        "src": "/audio/o/f9092fe4d7314cba.mp3"
+       },
+       "مِنَ": {
+        "src": "/audio/o/a9618378ac85cbfc.mp3"
+       },
+       "السّاعَةِ": {
+        "src": "/audio/o/69a05783b10e091c.mp3"
+       },
+       "السّابِعَةِ": {
+        "src": "/audio/o/14facc92f20192fa.mp3"
+       },
+       "السّاعَةُ": {
+        "src": "/audio/o/d52ebb196932b3c7.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "arrange",
+     "key": "j1u8-d9-lat-eja-amal",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "عَمَلٌ (pekerjaan)"
+     },
+     "answer": "ع م ل",
+     "tokens": [
+      "ع",
+      "م",
+      "ل",
+      "أ"
+     ],
+     "audioMap": {
+      "ع": {
+       "src": "/audio/o/3bd72853336f59da.mp3"
+      },
+      "م": {
+       "src": "/audio/o/a6354d34017cd6cb.mp3"
+      },
+      "ل": {
+       "src": "/audio/o/b3939d4bc0e14fc9.mp3"
+      },
+      "أ": {
+       "src": "/audio/o/16dfbde94d5f6724.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d9-lat-tulis-tabib",
+     "instruction": "Mana tulisan \"dokter (lk)\" yang benar?",
+     "prompt": {
+      "id": "dokter (lk)",
+      "emoji": "👨‍⚕️"
+     },
+     "answer": "طَبِيبٌ",
+     "options": [
+      "طَبِيبٌ",
+      "تَبِيبٌ",
+      "طَبِيدٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "طَبِيبٌ": {
+       "src": "/audio/o/26603c887576502d.mp3"
+      },
+      "تَبِيبٌ": {
+       "src": "/audio/o/229383783b66712f.mp3"
+      },
+      "طَبِيدٌ": {
+       "src": "/audio/o/4a64bd45838a289f.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u8-d9-lat-kalimat-ummi",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Ibu saya perawat di rumah sakit."
+     },
+     "answer": "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى",
+     "tokens": [
+      "أُمِّي",
+      "مُمَرِّضَةٌ",
+      "فِي",
+      "المُسْتَشْفَى",
+      "أَبِي"
+     ],
+     "audioMap": {
+      "أُمِّي": {
+       "src": "/audio/o/c82062ed6beb1b12.mp3"
+      },
+      "مُمَرِّضَةٌ": {
+       "src": "/audio/o/d357ea2b2c71a87c.mp3"
+      },
+      "فِي": {
+       "src": "/audio/o/795f40ec05f82a8d.mp3"
+      },
+      "المُسْتَشْفَى": {
+       "src": "/audio/o/d44afd57be193c51.mp3"
+      },
+      "أَبِي": {
+       "src": "/audio/o/21fd285adcc5f188.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u8-d9-lat-sambung-suq",
+     "instruction": "Huruf س + و + ق disambung menjadi …",
+     "prompt": {
+      "id": "س + و + ق"
+     },
+     "answer": "سُوقٌ",
+     "options": [
+      "سُوقٌ",
+      "سُوكٌ",
+      "صُوقٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سُوقٌ": {
+       "src": "/audio/o/5bc8636d0b6ed92e.mp3"
+      },
+      "سُوكٌ": {
+       "src": "/audio/o/d307aed322e78422.mp3"
+      },
+      "صُوقٌ": {
+       "src": "/audio/o/3bb61ecd5bbee3f1.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

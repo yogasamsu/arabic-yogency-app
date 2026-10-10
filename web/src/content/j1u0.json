@@ -1,0 +1,5040 @@
+{
+ "id": "j1u0",
+ "book": "1a",
+ "number": 0,
+ "title_ar": "الحُرُوفُ الهِجائِيَّةُ",
+ "title_id": "Mengenal huruf hijaiah",
+ "lessons": [
+  {
+   "id": "j1u0-d1",
+   "dars": 1,
+   "title_id": "Huruf ا ب ت ث",
+   "skill": "Huruf",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ا",
+        "id": "alif · a (di awal kata ditulis أَ)",
+        "audio": {
+         "src": "/audio/o/4fc340bfb295d42f.mp3"
+        }
+       },
+       {
+        "ar": "ب",
+        "id": "ba · b",
+        "audio": {
+         "src": "/audio/o/c554598df79c3302.mp3"
+        }
+       },
+       {
+        "ar": "ت",
+        "id": "ta · t",
+        "audio": {
+         "src": "/audio/o/0524363a6f53e9de.mp3"
+        }
+       },
+       {
+        "ar": "ث",
+        "id": "tsa · ts, seperti th pada kata Inggris \"think\"",
+        "audio": {
+         "src": "/audio/o/72023a7517b88474.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Empat huruf pertama"
+      },
+      "instruction_id": "Huruf Arab dibaca dari kanan ke kiri. Perhatikan titiknya: ب satu titik di bawah, ت dua titik di atas, ث tiga titik di atas. Telusuri bentuknya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d1-huruf-ba",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "ب",
+       "audio": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       }
+      },
+      "answer": "ba",
+      "options": [
+       "ba",
+       "ta",
+       "tsa"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d1-huruf-tsa",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "ث",
+       "audio": {
+        "src": "/audio/o/72023a7517b88474.mp3"
+       }
+      },
+      "answer": "tsa",
+      "options": [
+       "tsa",
+       "ta",
+       "ba"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "بَ",
+        "audio": {
+         "src": "/audio/o/8cccc8ac808ef11d.mp3"
+        },
+        "pair_ar": "تَ"
+       },
+       {
+        "ar": "تَ",
+        "audio": {
+         "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+        },
+        "pair_ar": "بَ"
+       },
+       {
+        "ar": "تَ",
+        "audio": {
+         "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+        },
+        "pair_ar": "ثَ"
+       },
+       {
+        "ar": "ثَ",
+        "audio": {
+         "src": "/audio/o/686e39be90685b8a.mp3"
+        },
+        "pair_ar": "تَ"
+       },
+       {
+        "ar": "أَ",
+        "audio": {
+         "src": "/audio/o/d218e2d3807fe682.mp3"
+        },
+        "pair_ar": "بَ"
+       },
+       {
+        "ar": "بَ",
+        "audio": {
+         "src": "/audio/o/8cccc8ac808ef11d.mp3"
+        },
+        "pair_ar": "أَ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi dengan fathah"
+      },
+      "note_id": "Garis miring kecil di atas huruf disebut fathah. Bunyinya \"a\": بَ = ba, تَ = ta, ثَ = tsa, أَ = a. Ketuk tiap kotak dan bandingkan."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d1-dengar-ba",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "بَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/8cccc8ac808ef11d.mp3"
+       }
+      },
+      "answer": "بَ",
+      "options": [
+       "بَ",
+       "تَ",
+       "ثَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بَ": {
+        "src": "/audio/o/8cccc8ac808ef11d.mp3"
+       },
+       "تَ": {
+        "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+       },
+       "ثَ": {
+        "src": "/audio/o/686e39be90685b8a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d1-dengar-tsa",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "ثَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/686e39be90685b8a.mp3"
+       }
+      },
+      "answer": "ثَ",
+      "options": [
+       "ثَ",
+       "تَ",
+       "بَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ثَ": {
+        "src": "/audio/o/686e39be90685b8a.mp3"
+       },
+       "تَ": {
+        "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+       },
+       "بَ": {
+        "src": "/audio/o/8cccc8ac808ef11d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d1-titik-ta",
+      "instruction": "Huruf mana yang bertitik dua di atas?",
+      "prompt": {
+       "id": "Dua titik di atas"
+      },
+      "answer": "ت",
+      "options": [
+       "ت",
+       "ث",
+       "ب"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       },
+       "ث": {
+        "src": "/audio/o/72023a7517b88474.mp3"
+       },
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "بابٌ",
+        "id": "pintu · ★ bab",
+        "emoji": "🚪",
+        "audio": {
+         "src": "/audio/o/d00fd54d114483df.mp3"
+        }
+       },
+       {
+        "ar": "تابَ",
+        "id": "dia (lk) bertobat · ★ tobat",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/b96883ba762afa4e.mp3"
+        }
+       },
+       {
+        "ar": "أَبٌ",
+        "id": "ayah",
+        "emoji": "👨",
+        "audio": {
+         "src": "/audio/o/5a9ebe6f6c57585c.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata yang sudah kamu kenal"
+      },
+      "note_id": "Huruf ث sering menjadi \"s\" dalam bahasa Indonesia. Contohnya, Selasa berasal dari kata Arab ثُلاثاءُ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d1-awal-bab",
+      "instruction": "Kata بابٌ (pintu) diawali huruf …",
+      "prompt": {
+       "ar": "بابٌ",
+       "audio": {
+        "src": "/audio/o/d00fd54d114483df.mp3"
+       }
+      },
+      "answer": "ب",
+      "options": [
+       "ب",
+       "ت",
+       "ث"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       },
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       },
+       "ث": {
+        "src": "/audio/o/72023a7517b88474.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d1-awal-taba",
+      "instruction": "Kata تابَ (bertobat) diawali huruf …",
+      "prompt": {
+       "ar": "تابَ",
+       "audio": {
+        "src": "/audio/o/b96883ba762afa4e.mp3"
+       }
+      },
+      "answer": "ت",
+      "options": [
+       "ت",
+       "ث",
+       "ب"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       },
+       "ث": {
+        "src": "/audio/o/72023a7517b88474.mp3"
+       },
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u0-d1-ucap-ba-ta-tsa",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "بَ تَ ثَ",
+       "id": "ba – ta – tsa",
+       "audio": {
+        "src": "/audio/o/e013ce6b9fcbfaa2.mp3"
+       }
+      },
+      "target": "بَ تَ ثَ"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u0-d1-lat-huruf-ta",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "ت",
+      "audio": {
+       "src": "/audio/o/0524363a6f53e9de.mp3"
+      }
+     },
+     "answer": "ta",
+     "options": [
+      "ta",
+      "tsa",
+      "ba"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d1-lat-dengar-ta",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "تَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+      }
+     },
+     "answer": "تَ",
+     "options": [
+      "تَ",
+      "ثَ",
+      "بَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "تَ": {
+       "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+      },
+      "ثَ": {
+       "src": "/audio/o/686e39be90685b8a.mp3"
+      },
+      "بَ": {
+       "src": "/audio/o/8cccc8ac808ef11d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d1-lat-titik-ba",
+     "instruction": "Huruf mana yang bertitik satu di bawah?",
+     "prompt": {
+      "id": "Satu titik di bawah"
+     },
+     "answer": "ب",
+     "options": [
+      "ب",
+      "ت",
+      "ث"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ب": {
+       "src": "/audio/o/c554598df79c3302.mp3"
+      },
+      "ت": {
+       "src": "/audio/o/0524363a6f53e9de.mp3"
+      },
+      "ث": {
+       "src": "/audio/o/72023a7517b88474.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d1-lat-dengar-a",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "أَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/d218e2d3807fe682.mp3"
+      }
+     },
+     "answer": "أَ",
+     "options": [
+      "أَ",
+      "بَ",
+      "تَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَ": {
+       "src": "/audio/o/d218e2d3807fe682.mp3"
+      },
+      "بَ": {
+       "src": "/audio/o/8cccc8ac808ef11d.mp3"
+      },
+      "تَ": {
+       "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u0-d2",
+   "dars": 2,
+   "title_id": "Huruf ج ح خ د ذ ر ز",
+   "skill": "Huruf",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ج",
+        "id": "jim · j",
+        "audio": {
+         "src": "/audio/o/019a195a0b3c1c91.mp3"
+        }
+       },
+       {
+        "ar": "ح",
+        "id": "ha · h tebal, diembuskan dari tengah tenggorokan",
+        "audio": {
+         "src": "/audio/o/0b4f3f2b87369a81.mp3"
+        }
+       },
+       {
+        "ar": "خ",
+        "id": "kha · kh, serak dari pangkal lidah, seperti kh pada \"akhir\"",
+        "audio": {
+         "src": "/audio/o/fc5d4f118da77e38.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Tiga saudara: ج ح خ"
+      },
+      "instruction_id": "Bentuk ketiganya sama. Yang membedakan hanya titik: ج bertitik di bawah, ح tanpa titik, خ bertitik di atas."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d2-huruf-kha",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "خ",
+       "audio": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       }
+      },
+      "answer": "kha",
+      "options": [
+       "kha",
+       "ha",
+       "jim"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d2-tanpa-titik-ha",
+      "instruction": "Huruf mana yang tidak bertitik?",
+      "prompt": {
+       "id": "Bentuk seperti ج, tetapi tanpa titik"
+      },
+      "answer": "ح",
+      "options": [
+       "ج",
+       "ح",
+       "خ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       },
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       },
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "د",
+        "id": "dal · d",
+        "audio": {
+         "src": "/audio/o/9ba327e9c6126f72.mp3"
+        }
+       },
+       {
+        "ar": "ذ",
+        "id": "dzal · dz, seperti th pada kata Inggris \"this\"",
+        "audio": {
+         "src": "/audio/o/7de722a78c253663.mp3"
+        }
+       },
+       {
+        "ar": "ر",
+        "id": "ra · r",
+        "audio": {
+         "src": "/audio/o/097dcac864b3884d.mp3"
+        }
+       },
+       {
+        "ar": "ز",
+        "id": "zai · z",
+        "audio": {
+         "src": "/audio/o/10b1ff5b59354266.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dua pasang: د ذ dan ر ز"
+      },
+      "instruction_id": "Huruf kedua dari tiap pasang bertitik satu di atas."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d2-dengar-ja",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "جَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/328a50e7a7969604.mp3"
+       }
+      },
+      "answer": "جَ",
+      "options": [
+       "جَ",
+       "حَ",
+       "خَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "جَ": {
+        "src": "/audio/o/328a50e7a7969604.mp3"
+       },
+       "حَ": {
+        "src": "/audio/o/2ad0c16ed4478808.mp3"
+       },
+       "خَ": {
+        "src": "/audio/o/9908a33369dfebb2.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d2-dengar-kha",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "خَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/9908a33369dfebb2.mp3"
+       }
+      },
+      "answer": "خَ",
+      "options": [
+       "خَ",
+       "حَ",
+       "جَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خَ": {
+        "src": "/audio/o/9908a33369dfebb2.mp3"
+       },
+       "حَ": {
+        "src": "/audio/o/2ad0c16ed4478808.mp3"
+       },
+       "جَ": {
+        "src": "/audio/o/328a50e7a7969604.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d2-dengar-dza",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "ذَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/f1c97b63c3be6b8b.mp3"
+       }
+      },
+      "answer": "ذَ",
+      "options": [
+       "ذَ",
+       "دَ",
+       "زَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ذَ": {
+        "src": "/audio/o/f1c97b63c3be6b8b.mp3"
+       },
+       "دَ": {
+        "src": "/audio/o/58046689e0e7b7be.mp3"
+       },
+       "زَ": {
+        "src": "/audio/o/bcb9bd4ab2661995.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d2-dengar-ra",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "رَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/e61c44cfaa9d6aae.mp3"
+       }
+      },
+      "answer": "رَ",
+      "options": [
+       "رَ",
+       "زَ",
+       "دَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "رَ": {
+        "src": "/audio/o/e61c44cfaa9d6aae.mp3"
+       },
+       "زَ": {
+        "src": "/audio/o/bcb9bd4ab2661995.mp3"
+       },
+       "دَ": {
+        "src": "/audio/o/58046689e0e7b7be.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "حَجٌّ",
+        "id": "ibadah haji · ★ haji",
+        "emoji": "🕋",
+        "audio": {
+         "src": "/audio/o/6aa9724c1820fd91.mp3"
+        }
+       },
+       {
+        "ar": "خَبَرٌ",
+        "id": "berita · ★ kabar",
+        "emoji": "📰",
+        "audio": {
+         "src": "/audio/o/9184902abaf006ce.mp3"
+        }
+       },
+       {
+        "ar": "دَرَجَةٌ",
+        "id": "tingkat · ★ derajat",
+        "emoji": "🪜",
+        "audio": {
+         "src": "/audio/o/ed937e7b6b22f22e.mp3"
+        }
+       },
+       {
+        "ar": "ذِكْرٌ",
+        "id": "mengingat Allah · ★ zikir",
+        "emoji": "📿",
+        "audio": {
+         "src": "/audio/o/0f6d617e2a738fad.mp3"
+        }
+       },
+       {
+        "ar": "رِزْقٌ",
+        "id": "karunia, rezeki · ★ rezeki",
+        "emoji": "🍚",
+        "audio": {
+         "src": "/audio/o/03bf0f44a8b19a2a.mp3"
+        }
+       },
+       {
+        "ar": "زَكاةٌ",
+        "id": "zakat · ★ zakat",
+        "emoji": "💰",
+        "audio": {
+         "src": "/audio/o/2b209d2256c913bd.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata yang sudah kamu kenal"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d2-awal-hajj",
+      "instruction": "Kata حَجٌّ (haji) diawali huruf …",
+      "prompt": {
+       "ar": "حَجٌّ",
+       "audio": {
+        "src": "/audio/o/6aa9724c1820fd91.mp3"
+       }
+      },
+      "answer": "ح",
+      "options": [
+       "ح",
+       "ج",
+       "خ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       },
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       },
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d2-awal-dzikr",
+      "instruction": "Kata ذِكْرٌ (zikir) diawali huruf …",
+      "prompt": {
+       "ar": "ذِكْرٌ",
+       "audio": {
+        "src": "/audio/o/0f6d617e2a738fad.mp3"
+       },
+       "id": "Hati-hati: dalam bahasa Indonesia ditulis dengan z"
+      },
+      "answer": "ذ",
+      "options": [
+       "ذ",
+       "ز",
+       "د"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ذ": {
+        "src": "/audio/o/7de722a78c253663.mp3"
+       },
+       "ز": {
+        "src": "/audio/o/10b1ff5b59354266.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d2-titik-dzal",
+      "instruction": "Huruf mana yang bentuknya seperti د tetapi bertitik satu di atas?",
+      "prompt": {
+       "id": "dal + titik = …"
+      },
+      "answer": "ذ",
+      "options": [
+       "ذ",
+       "د",
+       "ز"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ذ": {
+        "src": "/audio/o/7de722a78c253663.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "ز": {
+        "src": "/audio/o/10b1ff5b59354266.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u0-d2-lat-huruf-jim",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "ج",
+      "audio": {
+       "src": "/audio/o/019a195a0b3c1c91.mp3"
+      }
+     },
+     "answer": "jim",
+     "options": [
+      "jim",
+      "ha",
+      "kha"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d2-lat-huruf-zai",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "ز",
+      "audio": {
+       "src": "/audio/o/10b1ff5b59354266.mp3"
+      }
+     },
+     "answer": "zai",
+     "options": [
+      "zai",
+      "ra",
+      "dzal"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d2-lat-dengar-ha",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "حَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/2ad0c16ed4478808.mp3"
+      }
+     },
+     "answer": "حَ",
+     "options": [
+      "حَ",
+      "خَ",
+      "جَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "حَ": {
+       "src": "/audio/o/2ad0c16ed4478808.mp3"
+      },
+      "خَ": {
+       "src": "/audio/o/9908a33369dfebb2.mp3"
+      },
+      "جَ": {
+       "src": "/audio/o/328a50e7a7969604.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d2-lat-awal-rizq",
+     "instruction": "Kata رِزْقٌ (rezeki) diawali huruf …",
+     "prompt": {
+      "ar": "رِزْقٌ",
+      "audio": {
+       "src": "/audio/o/03bf0f44a8b19a2a.mp3"
+      }
+     },
+     "answer": "ر",
+     "options": [
+      "ر",
+      "ز",
+      "د"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ر": {
+       "src": "/audio/o/097dcac864b3884d.mp3"
+      },
+      "ز": {
+       "src": "/audio/o/10b1ff5b59354266.mp3"
+      },
+      "د": {
+       "src": "/audio/o/9ba327e9c6126f72.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d2-lat-dengar-da",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "دَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/58046689e0e7b7be.mp3"
+      }
+     },
+     "answer": "دَ",
+     "options": [
+      "دَ",
+      "ذَ",
+      "زَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "دَ": {
+       "src": "/audio/o/58046689e0e7b7be.mp3"
+      },
+      "ذَ": {
+       "src": "/audio/o/f1c97b63c3be6b8b.mp3"
+      },
+      "زَ": {
+       "src": "/audio/o/bcb9bd4ab2661995.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u0-d3",
+   "dars": 3,
+   "title_id": "Huruf س ش ص ض ط ظ",
+   "skill": "Huruf",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "س",
+        "id": "sin · s",
+        "audio": {
+         "src": "/audio/o/36a5144d01eaf081.mp3"
+        }
+       },
+       {
+        "ar": "ش",
+        "id": "syin · sy",
+        "audio": {
+         "src": "/audio/o/b797d01357f7f304.mp3"
+        }
+       },
+       {
+        "ar": "ص",
+        "id": "shad · s tebal",
+        "audio": {
+         "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+        }
+       },
+       {
+        "ar": "ض",
+        "id": "dhad · d tebal",
+        "audio": {
+         "src": "/audio/o/d730f95bb68e351d.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf bergigi: س ش ص ض"
+      },
+      "instruction_id": "س dan ش sama bentuknya; ش bertitik tiga di atas. ص dan ض sama bentuknya; ض bertitik satu di atas."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d3-huruf-syin",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "ش",
+       "audio": {
+        "src": "/audio/o/b797d01357f7f304.mp3"
+       }
+      },
+      "answer": "syin",
+      "options": [
+       "syin",
+       "sin",
+       "shad"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ط",
+        "id": "tha · t tebal",
+        "audio": {
+         "src": "/audio/o/e6f7a7ac909c7eb8.mp3"
+        }
+       },
+       {
+        "ar": "ظ",
+        "id": "zha · dz tebal",
+        "audio": {
+         "src": "/audio/o/279b29546dabd528.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf bertiang: ط ظ"
+      },
+      "instruction_id": "ط dan ظ sama bentuknya; ظ bertitik satu di atas."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "سَ",
+        "audio": {
+         "src": "/audio/o/c773a74e12d8a664.mp3"
+        },
+        "pair_ar": "صَ"
+       },
+       {
+        "ar": "صَ",
+        "audio": {
+         "src": "/audio/o/e82e692d5f8978fe.mp3"
+        },
+        "pair_ar": "سَ"
+       },
+       {
+        "ar": "دَ",
+        "audio": {
+         "src": "/audio/o/58046689e0e7b7be.mp3"
+        },
+        "pair_ar": "ضَ"
+       },
+       {
+        "ar": "ضَ",
+        "audio": {
+         "src": "/audio/o/c4acdf47da99bfa0.mp3"
+        },
+        "pair_ar": "دَ"
+       },
+       {
+        "ar": "تَ",
+        "audio": {
+         "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+        },
+        "pair_ar": "طَ"
+       },
+       {
+        "ar": "طَ",
+        "audio": {
+         "src": "/audio/o/e64b12ffc6cbe211.mp3"
+        },
+        "pair_ar": "تَ"
+       },
+       {
+        "ar": "ذَ",
+        "audio": {
+         "src": "/audio/o/f1c97b63c3be6b8b.mp3"
+        },
+        "pair_ar": "ظَ"
+       },
+       {
+        "ar": "ظَ",
+        "audio": {
+         "src": "/audio/o/0710a438ecedc768.mp3"
+        },
+        "pair_ar": "ذَ"
+       }
+      ],
+      "section": {
+       "id": "Huruf tipis dan huruf tebal"
+      },
+      "note_id": "Huruf tebal (ص ض ط ظ) diucapkan dengan pangkal lidah terangkat dan mulut agak membulat, sehingga bunyinya lebih berat, mendekati \"o\". Bandingkan pasangan ini."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d3-dengar-sha",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "صَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/e82e692d5f8978fe.mp3"
+       }
+      },
+      "answer": "صَ",
+      "options": [
+       "صَ",
+       "سَ",
+       "شَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صَ": {
+        "src": "/audio/o/e82e692d5f8978fe.mp3"
+       },
+       "سَ": {
+        "src": "/audio/o/c773a74e12d8a664.mp3"
+       },
+       "شَ": {
+        "src": "/audio/o/2c9247640989b686.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d3-dengar-tha",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "طَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/e64b12ffc6cbe211.mp3"
+       }
+      },
+      "answer": "طَ",
+      "options": [
+       "طَ",
+       "تَ",
+       "ظَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "طَ": {
+        "src": "/audio/o/e64b12ffc6cbe211.mp3"
+       },
+       "تَ": {
+        "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+       },
+       "ظَ": {
+        "src": "/audio/o/0710a438ecedc768.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d3-dengar-sya",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "شَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/2c9247640989b686.mp3"
+       }
+      },
+      "answer": "شَ",
+      "options": [
+       "شَ",
+       "سَ",
+       "صَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شَ": {
+        "src": "/audio/o/2c9247640989b686.mp3"
+       },
+       "سَ": {
+        "src": "/audio/o/c773a74e12d8a664.mp3"
+       },
+       "صَ": {
+        "src": "/audio/o/e82e692d5f8978fe.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d3-titik-dhad",
+      "instruction": "Huruf mana yang bentuknya seperti ص tetapi bertitik satu di atas?",
+      "prompt": {
+       "id": "shad + titik = …"
+      },
+      "answer": "ض",
+      "options": [
+       "ض",
+       "ص",
+       "ظ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ض": {
+        "src": "/audio/o/d730f95bb68e351d.mp3"
+       },
+       "ص": {
+        "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+       },
+       "ظ": {
+        "src": "/audio/o/279b29546dabd528.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "سَلامٌ",
+        "id": "damai, keselamatan · ★ salam",
+        "emoji": "🕊️",
+        "audio": {
+         "src": "/audio/o/2606214104f4a285.mp3"
+        }
+       },
+       {
+        "ar": "شُكْرٌ",
+        "id": "rasa terima kasih · ★ syukur",
+        "emoji": "🙏",
+        "audio": {
+         "src": "/audio/o/0bed9db4bd0af29b.mp3"
+        }
+       },
+       {
+        "ar": "صَبْرٌ",
+        "id": "tabah, menahan diri · ★ sabar",
+        "emoji": "🧘",
+        "audio": {
+         "src": "/audio/o/1810cba40179da4d.mp3"
+        }
+       },
+       {
+        "ar": "ضَرُورَةٌ",
+        "id": "keadaan terpaksa · ★ darurat",
+        "emoji": "🚨",
+        "audio": {
+         "src": "/audio/o/127abf7df203e459.mp3"
+        }
+       },
+       {
+        "ar": "طَبِيبٌ",
+        "id": "dokter · ★ tabib",
+        "emoji": "🩺",
+        "audio": {
+         "src": "/audio/o/26603c887576502d.mp3"
+        }
+       },
+       {
+        "ar": "ظُهْرٌ",
+        "id": "tengah hari · ★ zuhur",
+        "emoji": "🕛",
+        "audio": {
+         "src": "/audio/o/db842fd489727d0a.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata yang sudah kamu kenal"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d3-awal-sabr",
+      "instruction": "Kata صَبْرٌ (sabar) diawali huruf …",
+      "prompt": {
+       "ar": "صَبْرٌ",
+       "audio": {
+        "src": "/audio/o/1810cba40179da4d.mp3"
+       }
+      },
+      "answer": "ص",
+      "options": [
+       "ص",
+       "س",
+       "ض"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ص": {
+        "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+       },
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       },
+       "ض": {
+        "src": "/audio/o/d730f95bb68e351d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d3-awal-salam",
+      "instruction": "Kata سَلامٌ (salam) diawali huruf …",
+      "prompt": {
+       "ar": "سَلامٌ",
+       "audio": {
+        "src": "/audio/o/2606214104f4a285.mp3"
+       }
+      },
+      "answer": "س",
+      "options": [
+       "س",
+       "ص",
+       "ش"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       },
+       "ص": {
+        "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+       },
+       "ش": {
+        "src": "/audio/o/b797d01357f7f304.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d3-awal-zhuhr",
+      "instruction": "Kata ظُهْرٌ (zuhur) diawali huruf …",
+      "prompt": {
+       "ar": "ظُهْرٌ",
+       "audio": {
+        "src": "/audio/o/db842fd489727d0a.mp3"
+       }
+      },
+      "answer": "ظ",
+      "options": [
+       "ظ",
+       "ز",
+       "ذ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ظ": {
+        "src": "/audio/o/279b29546dabd528.mp3"
+       },
+       "ز": {
+        "src": "/audio/o/10b1ff5b59354266.mp3"
+       },
+       "ذ": {
+        "src": "/audio/o/7de722a78c253663.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u0-d3-lat-huruf-tha",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "ط",
+      "audio": {
+       "src": "/audio/o/e6f7a7ac909c7eb8.mp3"
+      }
+     },
+     "answer": "tha",
+     "options": [
+      "tha",
+      "zha",
+      "shad"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d3-lat-dengar-sa",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "سَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/c773a74e12d8a664.mp3"
+      }
+     },
+     "answer": "سَ",
+     "options": [
+      "سَ",
+      "صَ",
+      "شَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سَ": {
+       "src": "/audio/o/c773a74e12d8a664.mp3"
+      },
+      "صَ": {
+       "src": "/audio/o/e82e692d5f8978fe.mp3"
+      },
+      "شَ": {
+       "src": "/audio/o/2c9247640989b686.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d3-lat-dengar-dha",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "ضَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/c4acdf47da99bfa0.mp3"
+      }
+     },
+     "answer": "ضَ",
+     "options": [
+      "ضَ",
+      "دَ",
+      "ظَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ضَ": {
+       "src": "/audio/o/c4acdf47da99bfa0.mp3"
+      },
+      "دَ": {
+       "src": "/audio/o/58046689e0e7b7be.mp3"
+      },
+      "ظَ": {
+       "src": "/audio/o/0710a438ecedc768.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d3-lat-tanpa-titik",
+     "instruction": "Huruf mana yang tidak bertitik?",
+     "prompt": {
+      "id": "Pilih satu"
+     },
+     "answer": "س",
+     "options": [
+      "س",
+      "ش",
+      "ض"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      },
+      "ش": {
+       "src": "/audio/o/b797d01357f7f304.mp3"
+      },
+      "ض": {
+       "src": "/audio/o/d730f95bb68e351d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d3-lat-awal-syukr",
+     "instruction": "Kata شُكْرٌ (syukur) diawali huruf …",
+     "prompt": {
+      "ar": "شُكْرٌ",
+      "audio": {
+       "src": "/audio/o/0bed9db4bd0af29b.mp3"
+      }
+     },
+     "answer": "ش",
+     "options": [
+      "ش",
+      "س",
+      "ص"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ش": {
+       "src": "/audio/o/b797d01357f7f304.mp3"
+      },
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      },
+      "ص": {
+       "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u0-d4",
+   "dars": 4,
+   "title_id": "Huruf ع غ ف ق ك ل",
+   "skill": "Huruf",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ع",
+        "id": "'ain · ditekan dari tengah tenggorokan",
+        "audio": {
+         "src": "/audio/o/3bd72853336f59da.mp3"
+        }
+       },
+       {
+        "ar": "غ",
+        "id": "ghain · gh, seperti r yang digetarkan di tenggorokan",
+        "audio": {
+         "src": "/audio/o/3cdd5eebff7806a0.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "ع dan غ"
+      },
+      "instruction_id": "Bentuk keduanya sama; غ bertitik satu di atas."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ف",
+        "id": "fa · f",
+        "audio": {
+         "src": "/audio/o/da15928288f0c438.mp3"
+        }
+       },
+       {
+        "ar": "ق",
+        "id": "qaf · q, k berat dari pangkal lidah",
+        "audio": {
+         "src": "/audio/o/f9b42c3c2a464bde.mp3"
+        }
+       },
+       {
+        "ar": "ك",
+        "id": "kaf · k",
+        "audio": {
+         "src": "/audio/o/58fba7de9c43a599.mp3"
+        }
+       },
+       {
+        "ar": "ل",
+        "id": "lam · l",
+        "audio": {
+         "src": "/audio/o/b3939d4bc0e14fc9.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "ف ق ك ل"
+      },
+      "instruction_id": "ف bertitik satu di atas. ق bertitik dua di atas, dan lengkungnya lebih dalam ke bawah."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d4-huruf-qaf",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "ق",
+       "audio": {
+        "src": "/audio/o/f9b42c3c2a464bde.mp3"
+       }
+      },
+      "answer": "qaf",
+      "options": [
+       "qaf",
+       "fa",
+       "kaf"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d4-huruf-ghain",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "غ",
+       "audio": {
+        "src": "/audio/o/3cdd5eebff7806a0.mp3"
+       }
+      },
+      "answer": "ghain",
+      "options": [
+       "ghain",
+       "'ain",
+       "fa"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d4-dengar-ain",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "عَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/74713c2aad5dcc2e.mp3"
+       }
+      },
+      "answer": "عَ",
+      "options": [
+       "عَ",
+       "غَ",
+       "أَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَ": {
+        "src": "/audio/o/74713c2aad5dcc2e.mp3"
+       },
+       "غَ": {
+        "src": "/audio/o/9978fbd85b9a3b71.mp3"
+       },
+       "أَ": {
+        "src": "/audio/o/d218e2d3807fe682.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d4-dengar-fa",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "فَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a09dfaf3e6119a30.mp3"
+       }
+      },
+      "answer": "فَ",
+      "options": [
+       "فَ",
+       "قَ",
+       "بَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فَ": {
+        "src": "/audio/o/a09dfaf3e6119a30.mp3"
+       },
+       "قَ": {
+        "src": "/audio/o/5f102b00753f27ca.mp3"
+       },
+       "بَ": {
+        "src": "/audio/o/8cccc8ac808ef11d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d4-dengar-qa",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "قَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/5f102b00753f27ca.mp3"
+       }
+      },
+      "answer": "قَ",
+      "options": [
+       "قَ",
+       "كَ",
+       "غَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَ": {
+        "src": "/audio/o/5f102b00753f27ca.mp3"
+       },
+       "كَ": {
+        "src": "/audio/o/8cc9c2ea635064ab.mp3"
+       },
+       "غَ": {
+        "src": "/audio/o/9978fbd85b9a3b71.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "عِلْمٌ",
+        "id": "pengetahuan · ★ ilmu",
+        "emoji": "📚",
+        "audio": {
+         "src": "/audio/o/7cbaf80a36bd4074.mp3"
+        }
+       },
+       {
+        "ar": "غَيْبٌ",
+        "id": "yang tidak terlihat · ★ gaib",
+        "emoji": "🌫️",
+        "audio": {
+         "src": "/audio/o/cd56ee3c11d7a8b2.mp3"
+        }
+       },
+       {
+        "ar": "فَجْرٌ",
+        "id": "waktu subuh · ★ fajar",
+        "emoji": "🌄",
+        "audio": {
+         "src": "/audio/o/e9855e99a91efa5b.mp3"
+        }
+       },
+       {
+        "ar": "قَلْبٌ",
+        "id": "hati · ★ kalbu",
+        "emoji": "❤️",
+        "audio": {
+         "src": "/audio/o/6cd2fd5310abd181.mp3"
+        }
+       },
+       {
+        "ar": "كِتابٌ",
+        "id": "buku · ★ kitab",
+        "emoji": "📖",
+        "img": "/img/o/u0-kitab.webp",
+        "audio": {
+         "src": "/audio/o/9ab46029409a862b.mp3"
+        }
+       },
+       {
+        "ar": "لَفْظٌ",
+        "id": "ucapan · ★ lafal",
+        "emoji": "🗣️",
+        "audio": {
+         "src": "/audio/o/59928352c5951057.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata yang sudah kamu kenal"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d4-awal-qalb",
+      "instruction": "Kata قَلْبٌ (kalbu) diawali huruf …",
+      "prompt": {
+       "ar": "قَلْبٌ",
+       "audio": {
+        "src": "/audio/o/6cd2fd5310abd181.mp3"
+       }
+      },
+      "answer": "ق",
+      "options": [
+       "ق",
+       "ك",
+       "ف"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ق": {
+        "src": "/audio/o/f9b42c3c2a464bde.mp3"
+       },
+       "ك": {
+        "src": "/audio/o/58fba7de9c43a599.mp3"
+       },
+       "ف": {
+        "src": "/audio/o/da15928288f0c438.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d4-awal-ilm",
+      "instruction": "Kata عِلْمٌ (ilmu) diawali huruf …",
+      "prompt": {
+       "ar": "عِلْمٌ",
+       "audio": {
+        "src": "/audio/o/7cbaf80a36bd4074.mp3"
+       }
+      },
+      "answer": "ع",
+      "options": [
+       "ع",
+       "غ",
+       "أ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ع": {
+        "src": "/audio/o/3bd72853336f59da.mp3"
+       },
+       "غ": {
+        "src": "/audio/o/3cdd5eebff7806a0.mp3"
+       },
+       "أ": {
+        "src": "/audio/o/16dfbde94d5f6724.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d4-pilih-fa",
+      "instruction": "Mana huruf fa?",
+      "prompt": {
+       "id": "fa (f)"
+      },
+      "answer": "ف",
+      "options": [
+       "ف",
+       "ق",
+       "غ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ف": {
+        "src": "/audio/o/da15928288f0c438.mp3"
+       },
+       "ق": {
+        "src": "/audio/o/f9b42c3c2a464bde.mp3"
+       },
+       "غ": {
+        "src": "/audio/o/3cdd5eebff7806a0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u0-d4-eja-kitab",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "كِتابٌ (kitab)"
+      },
+      "answer": "ك ت ا ب",
+      "tokens": [
+       "ك",
+       "ت",
+       "ا",
+       "ب",
+       "ق"
+      ],
+      "audioMap": {
+       "ك": {
+        "src": "/audio/o/58fba7de9c43a599.mp3"
+       },
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       },
+       "ا": {
+        "src": "/audio/o/4fc340bfb295d42f.mp3"
+       },
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       },
+       "ق": {
+        "src": "/audio/o/f9b42c3c2a464bde.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u0-d4-lat-huruf-lam",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "ل",
+      "audio": {
+       "src": "/audio/o/b3939d4bc0e14fc9.mp3"
+      }
+     },
+     "answer": "lam",
+     "options": [
+      "lam",
+      "kaf",
+      "alif"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d4-lat-dengar-ka",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "كَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/8cc9c2ea635064ab.mp3"
+      }
+     },
+     "answer": "كَ",
+     "options": [
+      "كَ",
+      "قَ",
+      "تَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كَ": {
+       "src": "/audio/o/8cc9c2ea635064ab.mp3"
+      },
+      "قَ": {
+       "src": "/audio/o/5f102b00753f27ca.mp3"
+      },
+      "تَ": {
+       "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d4-lat-dengar-gha",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "غَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/9978fbd85b9a3b71.mp3"
+      }
+     },
+     "answer": "غَ",
+     "options": [
+      "غَ",
+      "عَ",
+      "خَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "غَ": {
+       "src": "/audio/o/9978fbd85b9a3b71.mp3"
+      },
+      "عَ": {
+       "src": "/audio/o/74713c2aad5dcc2e.mp3"
+      },
+      "خَ": {
+       "src": "/audio/o/9908a33369dfebb2.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d4-lat-awal-fajr",
+     "instruction": "Kata فَجْرٌ (fajar) diawali huruf …",
+     "prompt": {
+      "ar": "فَجْرٌ",
+      "audio": {
+       "src": "/audio/o/e9855e99a91efa5b.mp3"
+      }
+     },
+     "answer": "ف",
+     "options": [
+      "ف",
+      "ب",
+      "ق"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ف": {
+       "src": "/audio/o/da15928288f0c438.mp3"
+      },
+      "ب": {
+       "src": "/audio/o/c554598df79c3302.mp3"
+      },
+      "ق": {
+       "src": "/audio/o/f9b42c3c2a464bde.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d4-lat-awal-kitab",
+     "instruction": "Kata كِتابٌ (kitab) diawali huruf …",
+     "prompt": {
+      "ar": "كِتابٌ",
+      "audio": {
+       "src": "/audio/o/9ab46029409a862b.mp3"
+      }
+     },
+     "answer": "ك",
+     "options": [
+      "ك",
+      "ق",
+      "ت"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ك": {
+       "src": "/audio/o/58fba7de9c43a599.mp3"
+      },
+      "ق": {
+       "src": "/audio/o/f9b42c3c2a464bde.mp3"
+      },
+      "ت": {
+       "src": "/audio/o/0524363a6f53e9de.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u0-d5",
+   "dars": 5,
+   "title_id": "Huruf م ن ه و ي, lalu ء ة ى",
+   "skill": "Huruf",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "م",
+        "id": "mim · m",
+        "audio": {
+         "src": "/audio/o/a6354d34017cd6cb.mp3"
+        }
+       },
+       {
+        "ar": "ن",
+        "id": "nun · n",
+        "audio": {
+         "src": "/audio/o/ce5720365c20c36e.mp3"
+        }
+       },
+       {
+        "ar": "ه",
+        "id": "ha ringan · h",
+        "audio": {
+         "src": "/audio/o/d27a692ab7245db0.mp3"
+        }
+       },
+       {
+        "ar": "و",
+        "id": "wau · w",
+        "audio": {
+         "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+        }
+       },
+       {
+        "ar": "ي",
+        "id": "ya · y",
+        "audio": {
+         "src": "/audio/o/51f9dfe25dac5366.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Lima huruf terakhir"
+      },
+      "instruction_id": "ه adalah ha ringan, seperti h biasa. Bedakan dengan ح yang tebal."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d5-huruf-nun",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "ن",
+       "audio": {
+        "src": "/audio/o/ce5720365c20c36e.mp3"
+       }
+      },
+      "answer": "nun",
+      "options": [
+       "nun",
+       "ba",
+       "ta"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d5-huruf-ya",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "ي",
+       "audio": {
+        "src": "/audio/o/51f9dfe25dac5366.mp3"
+       }
+      },
+      "answer": "ya",
+      "options": [
+       "ya",
+       "ta",
+       "nun"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d5-dengar-ha-ringan",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "هَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/37ac1ada4ef474c5.mp3"
+       }
+      },
+      "answer": "هَ",
+      "options": [
+       "هَ",
+       "حَ",
+       "خَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هَ": {
+        "src": "/audio/o/37ac1ada4ef474c5.mp3"
+       },
+       "حَ": {
+        "src": "/audio/o/2ad0c16ed4478808.mp3"
+       },
+       "خَ": {
+        "src": "/audio/o/9908a33369dfebb2.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d5-dengar-na",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "نَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/ef2d93126949ce00.mp3"
+       }
+      },
+      "answer": "نَ",
+      "options": [
+       "نَ",
+       "مَ",
+       "لَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَ": {
+        "src": "/audio/o/ef2d93126949ce00.mp3"
+       },
+       "مَ": {
+        "src": "/audio/o/457716702b0e71eb.mp3"
+       },
+       "لَ": {
+        "src": "/audio/o/d30dc57b07751f3f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مَسْجِدٌ",
+        "id": "tempat salat · ★ masjid",
+        "emoji": "🕌",
+        "img": "/img/o/u0-masjid.webp",
+        "audio": {
+         "src": "/audio/o/974fe20fbdf19425.mp3"
+        }
+       },
+       {
+        "ar": "نُورٌ",
+        "id": "cahaya · ★ nur",
+        "emoji": "💡",
+        "audio": {
+         "src": "/audio/o/1ed284f08c610e7d.mp3"
+        }
+       },
+       {
+        "ar": "هِدايَةٌ",
+        "id": "petunjuk · ★ hidayah",
+        "emoji": "🧭",
+        "audio": {
+         "src": "/audio/o/df0a79914d3e983e.mp3"
+        }
+       },
+       {
+        "ar": "وَقْتٌ",
+        "id": "waktu · ★ waktu",
+        "emoji": "⏰",
+        "audio": {
+         "src": "/audio/o/68e8626e9186f63d.mp3"
+        }
+       },
+       {
+        "ar": "يَقِينٌ",
+        "id": "keyakinan · ★ yakin",
+        "emoji": "✊",
+        "audio": {
+         "src": "/audio/o/fddb18d2f8057653.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata yang sudah kamu kenal"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ء",
+        "id": "hamzah · hentakan singkat, seperti awal kata \"apa\"",
+        "audio": {
+         "src": "/audio/o/52e9982f7d450c2b.mp3"
+        }
+       },
+       {
+        "ar": "ة",
+        "id": "ta marbuthah · t (dibaca h bila berhenti)",
+        "audio": {
+         "src": "/audio/o/c82585cd69de5894.mp3"
+        }
+       },
+       {
+        "ar": "ى",
+        "id": "alif maqshurah · a panjang",
+        "audio": {
+         "src": "/audio/o/7bf8728b2d16abe2.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Tiga tanda tambahan"
+      },
+      "instruction_id": "ة dan ى hanya ada di akhir kata. ة bentuknya seperti ه dengan dua titik. ى bentuknya seperti ي tanpa titik."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "دُعاءٌ",
+        "id": "permohonan kepada Allah · ★ doa",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/44edb4f8b8ad1dc5.mp3"
+        }
+       },
+       {
+        "ar": "رَحْمَةٌ",
+        "id": "kasih sayang · ★ rahmat",
+        "emoji": "💗",
+        "audio": {
+         "src": "/audio/o/951a6eec43df1b82.mp3"
+        }
+       },
+       {
+        "ar": "تَقْوَى",
+        "id": "taat kepada Allah · ★ takwa",
+        "emoji": "🌿",
+        "audio": {
+         "src": "/audio/o/63c37765482a18de.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Lihat huruf terakhirnya"
+      },
+      "note_id": "دُعاءٌ berakhir dengan ء, رَحْمَةٌ dengan ة, dan تَقْوَى dengan ى."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d5-mana-marbuthah",
+      "instruction": "Kata mana yang berakhir dengan ta marbuthah (ة)?",
+      "prompt": {
+       "id": "Cari ة di akhir kata"
+      },
+      "answer": "رَحْمَةٌ",
+      "options": [
+       "رَحْمَةٌ",
+       "دُعاءٌ",
+       "تَقْوَى"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "رَحْمَةٌ": {
+        "src": "/audio/o/951a6eec43df1b82.mp3"
+       },
+       "دُعاءٌ": {
+        "src": "/audio/o/44edb4f8b8ad1dc5.mp3"
+       },
+       "تَقْوَى": {
+        "src": "/audio/o/63c37765482a18de.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d5-huruf-marbuthah",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "ة",
+       "audio": {
+        "src": "/audio/o/c82585cd69de5894.mp3"
+       }
+      },
+      "answer": "ta marbuthah",
+      "options": [
+       "ta marbuthah",
+       "ha ringan",
+       "ta"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d5-awal-masjid",
+      "instruction": "Kata مَسْجِدٌ (masjid) diawali huruf …",
+      "prompt": {
+       "ar": "مَسْجِدٌ",
+       "audio": {
+        "src": "/audio/o/974fe20fbdf19425.mp3"
+       }
+      },
+      "answer": "م",
+      "options": [
+       "م",
+       "ن",
+       "و"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "ن": {
+        "src": "/audio/o/ce5720365c20c36e.mp3"
+       },
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d5-akhir-taqwa",
+      "instruction": "Huruf terakhir kata تَقْوَى (takwa) adalah …",
+      "prompt": {
+       "ar": "تَقْوَى",
+       "audio": {
+        "src": "/audio/o/63c37765482a18de.mp3"
+       }
+      },
+      "answer": "ى",
+      "options": [
+       "ى",
+       "ي",
+       "ة"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ى": {
+        "src": "/audio/o/7bf8728b2d16abe2.mp3"
+       },
+       "ي": {
+        "src": "/audio/o/51f9dfe25dac5366.mp3"
+       },
+       "ة": {
+        "src": "/audio/o/c82585cd69de5894.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u0-d5-eja-nur",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "نُورٌ (cahaya)"
+      },
+      "answer": "ن و ر",
+      "tokens": [
+       "ن",
+       "و",
+       "ر",
+       "ز"
+      ],
+      "audioMap": {
+       "ن": {
+        "src": "/audio/o/ce5720365c20c36e.mp3"
+       },
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       },
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "ز": {
+        "src": "/audio/o/10b1ff5b59354266.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u0-d5-lat-huruf-mim",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "م",
+      "audio": {
+       "src": "/audio/o/a6354d34017cd6cb.mp3"
+      }
+     },
+     "answer": "mim",
+     "options": [
+      "mim",
+      "wau",
+      "fa"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d5-lat-dengar-wa",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "وَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/c617331fe4275a8a.mp3"
+      }
+     },
+     "answer": "وَ",
+     "options": [
+      "وَ",
+      "يَ",
+      "هَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "وَ": {
+       "src": "/audio/o/c617331fe4275a8a.mp3"
+      },
+      "يَ": {
+       "src": "/audio/o/5b3b166c50cba813.mp3"
+      },
+      "هَ": {
+       "src": "/audio/o/37ac1ada4ef474c5.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d5-lat-akhir-dua",
+     "instruction": "Huruf terakhir kata دُعاءٌ (doa) adalah …",
+     "prompt": {
+      "ar": "دُعاءٌ",
+      "audio": {
+       "src": "/audio/o/44edb4f8b8ad1dc5.mp3"
+      }
+     },
+     "answer": "ء",
+     "options": [
+      "ء",
+      "ة",
+      "ى"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ء": {
+       "src": "/audio/o/52e9982f7d450c2b.mp3"
+      },
+      "ة": {
+       "src": "/audio/o/c82585cd69de5894.mp3"
+      },
+      "ى": {
+       "src": "/audio/o/7bf8728b2d16abe2.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d5-lat-awal-yaqin",
+     "instruction": "Kata يَقِينٌ (yakin) diawali huruf …",
+     "prompt": {
+      "ar": "يَقِينٌ",
+      "audio": {
+       "src": "/audio/o/fddb18d2f8057653.mp3"
+      }
+     },
+     "answer": "ي",
+     "options": [
+      "ي",
+      "ب",
+      "ن"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ي": {
+       "src": "/audio/o/51f9dfe25dac5366.mp3"
+      },
+      "ب": {
+       "src": "/audio/o/c554598df79c3302.mp3"
+      },
+      "ن": {
+       "src": "/audio/o/ce5720365c20c36e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d5-lat-ha-ringan",
+     "instruction": "Mana huruf ha ringan?",
+     "prompt": {
+      "id": "ha ringan (h biasa)"
+     },
+     "answer": "ه",
+     "options": [
+      "ه",
+      "ح",
+      "خ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ه": {
+       "src": "/audio/o/d27a692ab7245db0.mp3"
+      },
+      "ح": {
+       "src": "/audio/o/0b4f3f2b87369a81.mp3"
+      },
+      "خ": {
+       "src": "/audio/o/fc5d4f118da77e38.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u0-d6",
+   "dars": 6,
+   "title_id": "Harakat dan tanwin",
+   "skill": "Huruf",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Tanda baca (harakat)"
+      },
+      "instruction_id": "Ketuk tiap baris untuk mendengar.",
+      "groups": [
+       {
+        "note_id": "Harakat pendek: fathah (garis di atas) = a, kasrah (garis di bawah) = i, dhammah (wau kecil di atas) = u.",
+        "rows": [
+         {
+          "ar": "بَ",
+          "id": "fathah · ba",
+          "audio": {
+           "src": "/audio/o/8cccc8ac808ef11d.mp3"
+          }
+         },
+         {
+          "ar": "بِ",
+          "id": "kasrah · bi",
+          "audio": {
+           "src": "/audio/o/5b59e9ff38ae0217.mp3"
+          }
+         },
+         {
+          "ar": "بُ",
+          "id": "dhammah · bu",
+          "audio": {
+           "src": "/audio/o/7f080c6d789190b8.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "note_id": "Sukun (lingkaran kecil di atas) = huruf mati, tanpa vokal.",
+        "rows": [
+         {
+          "ar": "مِنْ",
+          "id": "min · dari (ن bersukun)",
+          "audio": {
+           "src": "/audio/o/b112ec2cecfd09bc.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "note_id": "Tanwin (harakat dobel) = tambahan bunyi n di akhir kata.",
+        "rows": [
+         {
+          "ar": "قَلَمٌ",
+          "id": "qalamun · pena",
+          "audio": {
+           "src": "/audio/o/b32c56a7a03592e5.mp3"
+          }
+         },
+         {
+          "ar": "قَلَمًا",
+          "id": "qalaman",
+          "audio": {
+           "src": "/audio/o/5c2771a8312c3332.mp3"
+          }
+         },
+         {
+          "ar": "قَلَمٍ",
+          "id": "qalamin",
+          "audio": {
+           "src": "/audio/o/973e7181ad801c5b.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d6-harakat-kasrah",
+      "instruction": "Bagaimana membaca ini?",
+      "prompt": {
+       "ar": "بِ",
+       "audio": {
+        "src": "/audio/o/5b59e9ff38ae0217.mp3"
+       }
+      },
+      "answer": "bi",
+      "options": [
+       "ba",
+       "bi",
+       "bu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d6-harakat-dhammah",
+      "instruction": "Bagaimana membaca ini?",
+      "prompt": {
+       "ar": "تُ",
+       "audio": {
+        "src": "/audio/o/fcdb704c29464da8.mp3"
+       }
+      },
+      "answer": "tu",
+      "options": [
+       "ta",
+       "ti",
+       "tu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d6-dengar-ji",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "جِ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/cae35058e3220e5e.mp3"
+       }
+      },
+      "answer": "جِ",
+      "options": [
+       "جِ",
+       "جَ",
+       "جُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "جِ": {
+        "src": "/audio/o/cae35058e3220e5e.mp3"
+       },
+       "جَ": {
+        "src": "/audio/o/328a50e7a7969604.mp3"
+       },
+       "جُ": {
+        "src": "/audio/o/f8eccbcf528472c1.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d6-dengar-tsu",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "ثُ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/685f7ba5343750f3.mp3"
+       }
+      },
+      "answer": "ثُ",
+      "options": [
+       "ثُ",
+       "ثَ",
+       "ثِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ثُ": {
+        "src": "/audio/o/685f7ba5343750f3.mp3"
+       },
+       "ثَ": {
+        "src": "/audio/o/686e39be90685b8a.mp3"
+       },
+       "ثِ": {
+        "src": "/audio/o/de6175e24353c5a6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d6-nama-sukun",
+      "instruction": "Tanda bulat kecil di atas ن pada kata ini disebut …",
+      "prompt": {
+       "ar": "مِنْ",
+       "audio": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       }
+      },
+      "answer": "sukun",
+      "options": [
+       "sukun",
+       "fathah",
+       "dhammah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "سَبَبٌ",
+        "id": "alasan · ★ sebab",
+        "emoji": "❓",
+        "audio": {
+         "src": "/audio/o/68d32f0b743941b5.mp3"
+        }
+       },
+       {
+        "ar": "مِنْبَرٌ",
+        "id": "tempat khatib berdiri · ★ mimbar",
+        "emoji": "🎤",
+        "audio": {
+         "src": "/audio/o/95a20eae5b2cac88.mp3"
+        }
+       },
+       {
+        "ar": "حُكْمٌ",
+        "id": "keputusan, aturan · ★ hukum",
+        "emoji": "⚖️",
+        "audio": {
+         "src": "/audio/o/c0a67ad4fcc84443.mp3"
+        }
+       },
+       {
+        "ar": "قَبْرٌ",
+        "id": "makam · ★ kubur",
+        "emoji": "🪦",
+        "audio": {
+         "src": "/audio/o/7d42483f397c601a.mp3"
+        }
+       },
+       {
+        "ar": "قَلَمٌ",
+        "id": "pena · ★ kalam",
+        "emoji": "🖊️",
+        "audio": {
+         "src": "/audio/o/b32c56a7a03592e5.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata yang sudah kamu kenal"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d6-baca-sabab",
+      "instruction": "Bagaimana membaca ini?",
+      "prompt": {
+       "ar": "سَبَبٌ",
+       "audio": {
+        "src": "/audio/o/68d32f0b743941b5.mp3"
+       }
+      },
+      "answer": "sababun",
+      "options": [
+       "sababun",
+       "sabibun",
+       "sububun"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d6-baca-hukm",
+      "instruction": "Bagaimana membaca ini?",
+      "prompt": {
+       "ar": "حُكْمٌ",
+       "audio": {
+        "src": "/audio/o/c0a67ad4fcc84443.mp3"
+       }
+      },
+      "answer": "hukmun",
+      "options": [
+       "hukmun",
+       "hakmun",
+       "hukumun"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d6-tanwin-an",
+      "instruction": "Bagaimana membaca ini?",
+      "prompt": {
+       "ar": "قَلَمًا",
+       "audio": {
+        "src": "/audio/o/5c2771a8312c3332.mp3"
+       }
+      },
+      "answer": "qalaman",
+      "options": [
+       "qalamun",
+       "qalaman",
+       "qalamin"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u0-d6-ucap-ba-bi-bu",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "بَ بِ بُ",
+       "id": "ba – bi – bu",
+       "audio": {
+        "src": "/audio/o/03dfabf73525f66a.mp3"
+       }
+      },
+      "target": "بَ بِ بُ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u0-d6-ucap-qalamun",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "قَلَمٌ",
+       "id": "pena (qalamun)",
+       "audio": {
+        "src": "/audio/o/b32c56a7a03592e5.mp3"
+       }
+      },
+      "target": "قَلَمٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d6-dengar-qalamin",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "قَلَمٍ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/973e7181ad801c5b.mp3"
+       }
+      },
+      "answer": "قَلَمٍ",
+      "options": [
+       "قَلَمٌ",
+       "قَلَمًا",
+       "قَلَمٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَلَمٌ": {
+        "src": "/audio/o/b32c56a7a03592e5.mp3"
+       },
+       "قَلَمًا": {
+        "src": "/audio/o/5c2771a8312c3332.mp3"
+       },
+       "قَلَمٍ": {
+        "src": "/audio/o/973e7181ad801c5b.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u0-d6-lat-baca-mi",
+     "instruction": "Bagaimana membaca ini?",
+     "prompt": {
+      "ar": "مِ",
+      "audio": {
+       "src": "/audio/o/a8f8c2ffc5b8b47e.mp3"
+      }
+     },
+     "answer": "mi",
+     "options": [
+      "ma",
+      "mi",
+      "mu"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d6-lat-dengar-ku",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "كُ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/c3d51d18af33b24c.mp3"
+      }
+     },
+     "answer": "كُ",
+     "options": [
+      "كُ",
+      "كِ",
+      "كَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كُ": {
+       "src": "/audio/o/c3d51d18af33b24c.mp3"
+      },
+      "كِ": {
+       "src": "/audio/o/f32f577af74bfc6a.mp3"
+      },
+      "كَ": {
+       "src": "/audio/o/8cc9c2ea635064ab.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d6-lat-tanwin-un",
+     "instruction": "Bagaimana membaca ini?",
+     "prompt": {
+      "ar": "قَلَمٌ",
+      "audio": {
+       "src": "/audio/o/b32c56a7a03592e5.mp3"
+      }
+     },
+     "answer": "qalamun",
+     "options": [
+      "qalamun",
+      "qalaman",
+      "qalamin"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d6-lat-dengar-sabab",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "سَبَبًا",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/6f9cf202ac120562.mp3"
+      }
+     },
+     "answer": "سَبَبًا",
+     "options": [
+      "سَبَبٌ",
+      "سَبَبًا",
+      "سَبَبٍ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سَبَبٌ": {
+       "src": "/audio/o/68d32f0b743941b5.mp3"
+      },
+      "سَبَبًا": {
+       "src": "/audio/o/6f9cf202ac120562.mp3"
+      },
+      "سَبَبٍ": {
+       "src": "/audio/o/532fb4ae7e9d2d7f.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d6-lat-baca-min",
+     "instruction": "Bagaimana membaca ini?",
+     "prompt": {
+      "ar": "مِنْ",
+      "audio": {
+       "src": "/audio/o/b112ec2cecfd09bc.mp3"
+      }
+     },
+     "answer": "min",
+     "options": [
+      "min",
+      "mina",
+      "minu"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u0-d7",
+   "dars": 7,
+   "title_id": "Mad, syaddah, dan alif lam",
+   "skill": "Huruf",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Bacaan panjang (mad)"
+      },
+      "groups": [
+       {
+        "note_id": "Huruf ا، ي، و yang tidak berharakat memanjangkan bunyi sebelumnya kira-kira dua ketukan.",
+        "rows": [
+         {
+          "ar": "بَا",
+          "id": "baa · a panjang (fathah + alif)",
+          "audio": {
+           "src": "/audio/o/74bae8b04d6e7f3b.mp3"
+          }
+         },
+         {
+          "ar": "بِي",
+          "id": "bii · i panjang (kasrah + ya)",
+          "audio": {
+           "src": "/audio/o/2e59bc6f1245e939.mp3"
+          }
+         },
+         {
+          "ar": "بُو",
+          "id": "buu · u panjang (dhammah + wau)",
+          "audio": {
+           "src": "/audio/o/09f8734d7e6b2d26.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "بَ",
+        "audio": {
+         "src": "/audio/o/8cccc8ac808ef11d.mp3"
+        },
+        "pair_ar": "بَا"
+       },
+       {
+        "ar": "بَا",
+        "audio": {
+         "src": "/audio/o/74bae8b04d6e7f3b.mp3"
+        },
+        "pair_ar": "بَ"
+       },
+       {
+        "ar": "تِ",
+        "audio": {
+         "src": "/audio/o/718775af5c250062.mp3"
+        },
+        "pair_ar": "تِي"
+       },
+       {
+        "ar": "تِي",
+        "audio": {
+         "src": "/audio/o/71a6d06f62cc339f.mp3"
+        },
+        "pair_ar": "تِ"
+       },
+       {
+        "ar": "نُ",
+        "audio": {
+         "src": "/audio/o/31fc3085bdafdb07.mp3"
+        },
+        "pair_ar": "نُو"
+       },
+       {
+        "ar": "نُو",
+        "audio": {
+         "src": "/audio/o/6f14765790bdbabe.mp3"
+        },
+        "pair_ar": "نُ"
+       },
+       {
+        "ar": "كَتَبَ",
+        "audio": {
+         "src": "/audio/o/228e0940801c60e1.mp3"
+        },
+        "pair_ar": "كاتَبَ"
+       },
+       {
+        "ar": "كاتَبَ",
+        "audio": {
+         "src": "/audio/o/d8a41637a07c2f2c.mp3"
+        },
+        "pair_ar": "كَتَبَ"
+       }
+      ],
+      "section": {
+       "id": "Pendek atau panjang?"
+      },
+      "note_id": "Ketuk tiap kotak. Bunyi panjang ditahan lebih lama. كَتَبَ = dia (lk) menulis, كاتَبَ = dia (lk) berkirim surat."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d7-panjang-baa",
+      "instruction": "Dengarkan. Pendek atau panjang? Pilih yang kamu dengar.",
+      "prompt": {
+       "tts": "بَا",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/74bae8b04d6e7f3b.mp3"
+       }
+      },
+      "answer": "بَا",
+      "options": [
+       "بَا",
+       "بَ",
+       "بُو"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بَا": {
+        "src": "/audio/o/74bae8b04d6e7f3b.mp3"
+       },
+       "بَ": {
+        "src": "/audio/o/8cccc8ac808ef11d.mp3"
+       },
+       "بُو": {
+        "src": "/audio/o/09f8734d7e6b2d26.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d7-dengar-nii",
+      "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "نِي",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/97a13477c0cfe198.mp3"
+       }
+      },
+      "answer": "نِي",
+      "options": [
+       "نِي",
+       "نِ",
+       "نُو"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نِي": {
+        "src": "/audio/o/97a13477c0cfe198.mp3"
+       },
+       "نِ": {
+        "src": "/audio/o/f5078e13a5d4a115.mp3"
+       },
+       "نُو": {
+        "src": "/audio/o/6f14765790bdbabe.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d7-baca-salat",
+      "instruction": "Bagaimana membaca ini?",
+      "prompt": {
+       "ar": "صَلاةٌ",
+       "audio": {
+        "src": "/audio/o/5e939faf87a199c9.mp3"
+       }
+      },
+      "answer": "shalaatun",
+      "options": [
+       "shalaatun",
+       "shalatun",
+       "shulaatun"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "صَلاةٌ",
+        "id": "ibadah salat · ★ salat",
+        "emoji": "🧎",
+        "audio": {
+         "src": "/audio/o/5e939faf87a199c9.mp3"
+        }
+       },
+       {
+        "ar": "سُورَةٌ",
+        "id": "bagian Al-Qur'an · ★ surah",
+        "emoji": "📜",
+        "audio": {
+         "src": "/audio/o/1fa09b229e035983.mp3"
+        }
+       },
+       {
+        "ar": "أُمَّةٌ",
+        "id": "kelompok manusia · ★ umat",
+        "emoji": "👥",
+        "audio": {
+         "src": "/audio/o/6f297aaed816447c.mp3"
+        }
+       },
+       {
+        "ar": "سُنَّةٌ",
+        "id": "kebiasaan Nabi · ★ sunah",
+        "emoji": "✨",
+        "audio": {
+         "src": "/audio/o/245a24a8d1326e41.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata yang sudah kamu kenal"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Syaddah dan alif lam"
+      },
+      "groups": [
+       {
+        "note_id": "Syaddah ( ـّ ) = huruf dibaca dua kali: sekali mati, sekali hidup.",
+        "rows": [
+         {
+          "ar": "أُمَّةٌ",
+          "id": "um-ma-tun",
+          "audio": {
+           "src": "/audio/o/6f297aaed816447c.mp3"
+          }
+         },
+         {
+          "ar": "سُنَّةٌ",
+          "id": "sun-na-tun",
+          "audio": {
+           "src": "/audio/o/245a24a8d1326e41.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "note_id": "ال dibaca \"al\" dan berarti \"si/sang\" (kata tertentu). Di depan sebagian huruf, lam tidak dibaca dan huruf sesudahnya bersyaddah.",
+        "rows": [
+         {
+          "ar": "الكِتابُ",
+          "id": "al-kitaabu · kitab itu",
+          "audio": {
+           "src": "/audio/o/bc6db3938f30eb57.mp3"
+          }
+         },
+         {
+          "ar": "القَلَمُ",
+          "id": "al-qalamu · pena itu",
+          "audio": {
+           "src": "/audio/o/856d76173cb2b4d5.mp3"
+          }
+         },
+         {
+          "ar": "الشَّمْسُ",
+          "id": "asy-syamsu · matahari (lam tidak dibaca)",
+          "audio": {
+           "src": "/audio/o/9347ec888ec363ed.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d7-baca-ummah",
+      "instruction": "Bagaimana membaca ini?",
+      "prompt": {
+       "ar": "أُمَّةٌ",
+       "audio": {
+        "src": "/audio/o/6f297aaed816447c.mp3"
+       }
+      },
+      "answer": "ummatun",
+      "options": [
+       "ummatun",
+       "umatun",
+       "ammatun"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d7-dengar-kataba",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "كاتَبَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/d8a41637a07c2f2c.mp3"
+       }
+      },
+      "answer": "كاتَبَ",
+      "options": [
+       "كاتَبَ",
+       "كَتَبَ",
+       "كُتِبَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كاتَبَ": {
+        "src": "/audio/o/d8a41637a07c2f2c.mp3"
+       },
+       "كَتَبَ": {
+        "src": "/audio/o/228e0940801c60e1.mp3"
+       },
+       "كُتِبَ": {
+        "src": "/audio/o/7abf2055c389f9af.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d7-tanda-syaddah",
+      "instruction": "Tanda di atas ن pada kata ini membuat ن dibaca dua kali. Namanya …",
+      "prompt": {
+       "ar": "سُنَّةٌ",
+       "audio": {
+        "src": "/audio/o/245a24a8d1326e41.mp3"
+       }
+      },
+      "answer": "syaddah",
+      "options": [
+       "syaddah",
+       "sukun",
+       "tanwin"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d7-baca-syams",
+      "instruction": "Bagaimana membaca ini?",
+      "prompt": {
+       "ar": "الشَّمْسُ",
+       "audio": {
+        "src": "/audio/o/9347ec888ec363ed.mp3"
+       }
+      },
+      "answer": "asy-syamsu",
+      "options": [
+       "asy-syamsu",
+       "al-syamsu",
+       "as-samsu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u0-d7-ucap-salat",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "صَلاةٌ",
+       "id": "salat (shalaatun)",
+       "audio": {
+        "src": "/audio/o/5e939faf87a199c9.mp3"
+       }
+      },
+      "target": "صَلاةٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u0-d7-ucap-al-kitab",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "الكِتابُ",
+       "id": "kitab itu (al-kitaabu)",
+       "audio": {
+        "src": "/audio/o/bc6db3938f30eb57.mp3"
+       }
+      },
+      "target": "الكِتابُ"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u0-d7-lat-panjang-tuu",
+     "instruction": "Dengarkan. Suku kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "تُو",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/16ad5025d4f91558.mp3"
+      }
+     },
+     "answer": "تُو",
+     "options": [
+      "تُو",
+      "تُ",
+      "تِي"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "تُو": {
+       "src": "/audio/o/16ad5025d4f91558.mp3"
+      },
+      "تُ": {
+       "src": "/audio/o/fcdb704c29464da8.mp3"
+      },
+      "تِي": {
+       "src": "/audio/o/71a6d06f62cc339f.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d7-lat-baca-surah",
+     "instruction": "Bagaimana membaca ini?",
+     "prompt": {
+      "ar": "سُورَةٌ",
+      "audio": {
+       "src": "/audio/o/1fa09b229e035983.mp3"
+      }
+     },
+     "answer": "suuratun",
+     "options": [
+      "suuratun",
+      "suratun",
+      "sauratun"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d7-lat-dengar-al-qalam",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "القَلَمُ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/856d76173cb2b4d5.mp3"
+      }
+     },
+     "answer": "القَلَمُ",
+     "options": [
+      "القَلَمُ",
+      "قَلَمٌ",
+      "قَلَمًا"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "القَلَمُ": {
+       "src": "/audio/o/856d76173cb2b4d5.mp3"
+      },
+      "قَلَمٌ": {
+       "src": "/audio/o/b32c56a7a03592e5.mp3"
+      },
+      "قَلَمًا": {
+       "src": "/audio/o/5c2771a8312c3332.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d7-lat-tanda-mad",
+     "instruction": "Huruf mana yang membuat bunyi u menjadi panjang pada kata ini?",
+     "prompt": {
+      "ar": "نُورٌ",
+      "audio": {
+       "src": "/audio/o/1ed284f08c610e7d.mp3"
+      }
+     },
+     "answer": "و",
+     "options": [
+      "و",
+      "ي",
+      "ا"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "و": {
+       "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+      },
+      "ي": {
+       "src": "/audio/o/51f9dfe25dac5366.mp3"
+      },
+      "ا": {
+       "src": "/audio/o/4fc340bfb295d42f.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u0-d8",
+   "dars": 8,
+   "title_id": "Bentuk huruf dalam kata",
+   "skill": "Huruf",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "بـ",
+        "id": "ba di awal kata",
+        "audio": {
+         "src": "/audio/o/b7c758b117417395.mp3"
+        }
+       },
+       {
+        "ar": "ـبـ",
+        "id": "ba di tengah kata",
+        "audio": {
+         "src": "/audio/o/29576f956c8b51cd.mp3"
+        }
+       },
+       {
+        "ar": "ـب",
+        "id": "ba di akhir kata",
+        "audio": {
+         "src": "/audio/o/da84b1e07f29e073.mp3"
+        }
+       },
+       {
+        "ar": "عـ",
+        "id": "'ain di awal kata",
+        "audio": {
+         "src": "/audio/o/d63d1bcda2399c6c.mp3"
+        }
+       },
+       {
+        "ar": "ـعـ",
+        "id": "'ain di tengah kata",
+        "audio": {
+         "src": "/audio/o/96acfeec92e107ed.mp3"
+        }
+       },
+       {
+        "ar": "ـع",
+        "id": "'ain di akhir kata",
+        "audio": {
+         "src": "/audio/o/868957a900ad6cc5.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Satu huruf, beberapa bentuk"
+      },
+      "instruction_id": "Huruf berubah bentuk menurut letaknya: di awal, di tengah, atau di akhir kata. Telusuri bentuk ب dan ع."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d8-bentuk-awal",
+      "instruction": "Mana bentuk ba di awal kata?",
+      "prompt": {
+       "id": "ba di awal kata"
+      },
+      "answer": "بـ",
+      "options": [
+       "بـ",
+       "ـب",
+       "ـبـ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بـ": {
+        "src": "/audio/o/b7c758b117417395.mp3"
+       },
+       "ـب": {
+        "src": "/audio/o/da84b1e07f29e073.mp3"
+       },
+       "ـبـ": {
+        "src": "/audio/o/29576f956c8b51cd.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d8-bentuk-ain-tengah",
+      "instruction": "Bentuk ini adalah huruf …",
+      "prompt": {
+       "ar": "ـعـ",
+       "audio": {
+        "src": "/audio/o/96acfeec92e107ed.mp3"
+       }
+      },
+      "answer": "'ain",
+      "options": [
+       "'ain",
+       "ghain",
+       "fa"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ا",
+        "id": "alif",
+        "audio": {
+         "src": "/audio/o/4fc340bfb295d42f.mp3"
+        }
+       },
+       {
+        "ar": "د",
+        "id": "dal",
+        "audio": {
+         "src": "/audio/o/9ba327e9c6126f72.mp3"
+        }
+       },
+       {
+        "ar": "ذ",
+        "id": "dzal",
+        "audio": {
+         "src": "/audio/o/7de722a78c253663.mp3"
+        }
+       },
+       {
+        "ar": "ر",
+        "id": "ra",
+        "audio": {
+         "src": "/audio/o/097dcac864b3884d.mp3"
+        }
+       },
+       {
+        "ar": "ز",
+        "id": "zai",
+        "audio": {
+         "src": "/audio/o/10b1ff5b59354266.mp3"
+        }
+       },
+       {
+        "ar": "و",
+        "id": "wau",
+        "audio": {
+         "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf yang tidak menyambung ke kiri"
+      },
+      "instruction_id": "Enam huruf ini menyambung ke huruf sebelumnya, tetapi tidak ke huruf sesudahnya. Setelah huruf ini, kata seolah terputus."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d8-tidak-sambung",
+      "instruction": "Huruf mana yang TIDAK menyambung ke huruf sesudahnya?",
+      "prompt": {
+       "id": "Pilih satu"
+      },
+      "answer": "ر",
+      "options": [
+       "ر",
+       "ب",
+       "ن"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       },
+       "ن": {
+        "src": "/audio/o/ce5720365c20c36e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مَدْرَسَةٌ",
+        "id": "sekolah · ★ madrasah",
+        "emoji": "🏫",
+        "img": "/img/o/u0-madrasah.webp",
+        "audio": {
+         "src": "/audio/o/0931909e67065620.mp3"
+        }
+       },
+       {
+        "ar": "جَدْوَلٌ",
+        "id": "tabel, daftar waktu · ★ jadwal",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/958787b2ed5625c3.mp3"
+        }
+       },
+       {
+        "ar": "دَفْتَرٌ",
+        "id": "buku tulis · ★ daftar",
+        "emoji": "📒",
+        "audio": {
+         "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+        }
+       },
+       {
+        "ar": "بَيْتٌ",
+        "id": "rumah · ★ bait (Baitullah)",
+        "emoji": "🏠",
+        "audio": {
+         "src": "/audio/o/5dacfcf2f030a26c.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata yang sudah kamu kenal"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u0-d8-eja-bait",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "بَيْتٌ (rumah)"
+      },
+      "answer": "ب ي ت",
+      "tokens": [
+       "ب",
+       "ي",
+       "ت",
+       "ن"
+      ],
+      "audioMap": {
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       },
+       "ي": {
+        "src": "/audio/o/51f9dfe25dac5366.mp3"
+       },
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       },
+       "ن": {
+        "src": "/audio/o/ce5720365c20c36e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u0-d8-eja-daftar",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "دَفْتَرٌ (buku tulis)"
+      },
+      "answer": "د ف ت ر",
+      "tokens": [
+       "د",
+       "ف",
+       "ت",
+       "ر",
+       "ق"
+      ],
+      "audioMap": {
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "ف": {
+        "src": "/audio/o/da15928288f0c438.mp3"
+       },
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       },
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "ق": {
+        "src": "/audio/o/f9b42c3c2a464bde.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u0-d8-eja-jadwal",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "جَدْوَلٌ (jadwal)"
+      },
+      "answer": "ج د و ل",
+      "tokens": [
+       "ج",
+       "د",
+       "و",
+       "ل",
+       "ح"
+      ],
+      "audioMap": {
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       },
+       "ل": {
+        "src": "/audio/o/b3939d4bc0e14fc9.mp3"
+       },
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d8-potongan-madrasah",
+      "instruction": "Kata مَدْرَسَةٌ terputus menjadi berapa potongan?",
+      "prompt": {
+       "ar": "مَدْرَسَةٌ",
+       "audio": {
+        "src": "/audio/o/0931909e67065620.mp3"
+       },
+       "id": "Ingat: د dan ر tidak menyambung ke kiri"
+      },
+      "answer": "3",
+      "options": [
+       "2",
+       "3",
+       "5"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d8-bentuk-akhir",
+      "instruction": "Mana bentuk ba di akhir kata?",
+      "prompt": {
+       "id": "ba di akhir kata"
+      },
+      "answer": "ـب",
+      "options": [
+       "ـب",
+       "بـ",
+       "ـبـ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ـب": {
+        "src": "/audio/o/da84b1e07f29e073.mp3"
+       },
+       "بـ": {
+        "src": "/audio/o/b7c758b117417395.mp3"
+       },
+       "ـبـ": {
+        "src": "/audio/o/29576f956c8b51cd.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d8-letak-ya-bait",
+      "instruction": "Pada kata بَيْتٌ, huruf ي ditulis dalam bentuk …",
+      "prompt": {
+       "ar": "بَيْتٌ",
+       "audio": {
+        "src": "/audio/o/5dacfcf2f030a26c.mp3"
+       }
+      },
+      "answer": "bentuk tengah",
+      "options": [
+       "bentuk awal",
+       "bentuk tengah",
+       "bentuk akhir"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "arrange",
+     "key": "j1u0-d8-lat-eja-masjid",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "مَسْجِدٌ (masjid)"
+     },
+     "answer": "م س ج د",
+     "tokens": [
+      "م",
+      "س",
+      "ج",
+      "د",
+      "ح"
+     ],
+     "audioMap": {
+      "م": {
+       "src": "/audio/o/a6354d34017cd6cb.mp3"
+      },
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      },
+      "ج": {
+       "src": "/audio/o/019a195a0b3c1c91.mp3"
+      },
+      "د": {
+       "src": "/audio/o/9ba327e9c6126f72.mp3"
+      },
+      "ح": {
+       "src": "/audio/o/0b4f3f2b87369a81.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d8-lat-bentuk-tengah",
+     "instruction": "Mana bentuk ba di tengah kata?",
+     "prompt": {
+      "id": "ba di tengah kata"
+     },
+     "answer": "ـبـ",
+     "options": [
+      "ـبـ",
+      "بـ",
+      "ـب"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ـبـ": {
+       "src": "/audio/o/29576f956c8b51cd.mp3"
+      },
+      "بـ": {
+       "src": "/audio/o/b7c758b117417395.mp3"
+      },
+      "ـب": {
+       "src": "/audio/o/da84b1e07f29e073.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d8-lat-potongan-daftar",
+     "instruction": "Kata دَفْتَرٌ terputus menjadi berapa potongan?",
+     "prompt": {
+      "ar": "دَفْتَرٌ",
+      "audio": {
+       "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+      }
+     },
+     "answer": "2",
+     "options": [
+      "2",
+      "3",
+      "4"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d8-lat-tidak-sambung",
+     "instruction": "Huruf mana yang TIDAK menyambung ke huruf sesudahnya?",
+     "prompt": {
+      "id": "Pilih satu"
+     },
+     "answer": "و",
+     "options": [
+      "و",
+      "م",
+      "ي"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "و": {
+       "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+      },
+      "م": {
+       "src": "/audio/o/a6354d34017cd6cb.mp3"
+      },
+      "ي": {
+       "src": "/audio/o/51f9dfe25dac5366.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u0-d8-lat-eja-qalb",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "قَلْبٌ (kalbu)"
+     },
+     "answer": "ق ل ب",
+     "tokens": [
+      "ق",
+      "ل",
+      "ب",
+      "ك"
+     ],
+     "audioMap": {
+      "ق": {
+       "src": "/audio/o/f9b42c3c2a464bde.mp3"
+      },
+      "ل": {
+       "src": "/audio/o/b3939d4bc0e14fc9.mp3"
+      },
+      "ب": {
+       "src": "/audio/o/c554598df79c3302.mp3"
+      },
+      "ك": {
+       "src": "/audio/o/58fba7de9c43a599.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u0-d9",
+   "dars": 9,
+   "title_id": "Bunyi sulit dan nama tokoh",
+   "skill": "Huruf",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "فاتَ",
+        "audio": {
+         "src": "/audio/o/c34851bf9dce3a94.mp3"
+        },
+        "pair_ar": "باتَ"
+       },
+       {
+        "ar": "باتَ",
+        "audio": {
+         "src": "/audio/o/65725ebf34144bdf.mp3"
+        },
+        "pair_ar": "فاتَ"
+       },
+       {
+        "ar": "فَرْدٌ",
+        "audio": {
+         "src": "/audio/o/4deb97006b01aafe.mp3"
+        },
+        "pair_ar": "بَرْدٌ"
+       },
+       {
+        "ar": "بَرْدٌ",
+        "audio": {
+         "src": "/audio/o/5fe3358a4319a834.mp3"
+        },
+        "pair_ar": "فَرْدٌ"
+       }
+      ],
+      "section": {
+       "id": "ف dan ب"
+      },
+      "note_id": "ف: gigi atas menyentuh bibir bawah, lalu udara diembuskan (f). ب: kedua bibir rapat, lalu dibuka (b). Jangan ucapkan ف sebagai p atau b. فاتَ = terlewat, باتَ = bermalam; فَرْدٌ = perorangan, بَرْدٌ = dingin."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d9-dengar-fata",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "فاتَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/c34851bf9dce3a94.mp3"
+       }
+      },
+      "answer": "فاتَ",
+      "options": [
+       "فاتَ",
+       "باتَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فاتَ": {
+        "src": "/audio/o/c34851bf9dce3a94.mp3"
+       },
+       "باتَ": {
+        "src": "/audio/o/65725ebf34144bdf.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d9-dengar-bard",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "بَرْدٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/5fe3358a4319a834.mp3"
+       }
+      },
+      "answer": "بَرْدٌ",
+      "options": [
+       "بَرْدٌ",
+       "فَرْدٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بَرْدٌ": {
+        "src": "/audio/o/5fe3358a4319a834.mp3"
+       },
+       "فَرْدٌ": {
+        "src": "/audio/o/4deb97006b01aafe.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "عَلِمَ",
+        "audio": {
+         "src": "/audio/o/55f94dc013a86584.mp3"
+        },
+        "pair_ar": "أَلِمَ"
+       },
+       {
+        "ar": "أَلِمَ",
+        "audio": {
+         "src": "/audio/o/338aee6d741dae4e.mp3"
+        },
+        "pair_ar": "عَلِمَ"
+       },
+       {
+        "ar": "حَرَمٌ",
+        "audio": {
+         "src": "/audio/o/7afda8acb9d07ce5.mp3"
+        },
+        "pair_ar": "هَرَمٌ"
+       },
+       {
+        "ar": "هَرَمٌ",
+        "audio": {
+         "src": "/audio/o/2fb03aac33421290.mp3"
+        },
+        "pair_ar": "حَرَمٌ"
+       },
+       {
+        "ar": "خَلَقَ",
+        "audio": {
+         "src": "/audio/o/8dbb875c27529782.mp3"
+        },
+        "pair_ar": "حَلَقَ"
+       },
+       {
+        "ar": "حَلَقَ",
+        "audio": {
+         "src": "/audio/o/681bff5b0667cc65.mp3"
+        },
+        "pair_ar": "خَلَقَ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi tenggorokan"
+      },
+      "note_id": "ع ditekan dari tengah tenggorokan; أ hanya hentakan singkat. ح diembuskan kuat dari tengah tenggorokan; ه ringan seperti h biasa. خ serak dari pangkal lidah. عَلِمَ = tahu, أَلِمَ = merasa sakit; حَرَمٌ = tanah suci, هَرَمٌ = piramida; خَلَقَ = menciptakan, حَلَقَ = mencukur."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d9-dengar-alima",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "أَلِمَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/338aee6d741dae4e.mp3"
+       }
+      },
+      "answer": "أَلِمَ",
+      "options": [
+       "أَلِمَ",
+       "عَلِمَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَلِمَ": {
+        "src": "/audio/o/338aee6d741dae4e.mp3"
+       },
+       "عَلِمَ": {
+        "src": "/audio/o/55f94dc013a86584.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d9-dengar-haram",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "حَرَمٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/7afda8acb9d07ce5.mp3"
+       }
+      },
+      "answer": "حَرَمٌ",
+      "options": [
+       "حَرَمٌ",
+       "هَرَمٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "حَرَمٌ": {
+        "src": "/audio/o/7afda8acb9d07ce5.mp3"
+       },
+       "هَرَمٌ": {
+        "src": "/audio/o/2fb03aac33421290.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d9-dengar-khalaqa",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "خَلَقَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/8dbb875c27529782.mp3"
+       }
+      },
+      "answer": "خَلَقَ",
+      "options": [
+       "خَلَقَ",
+       "حَلَقَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خَلَقَ": {
+        "src": "/audio/o/8dbb875c27529782.mp3"
+       },
+       "حَلَقَ": {
+        "src": "/audio/o/681bff5b0667cc65.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "ذَكِيٌّ",
+        "audio": {
+         "src": "/audio/o/1daba582cdd1dbc1.mp3"
+        },
+        "pair_ar": "زَكِيٌّ"
+       },
+       {
+        "ar": "زَكِيٌّ",
+        "audio": {
+         "src": "/audio/o/aca9a30904c8d0a0.mp3"
+        },
+        "pair_ar": "ذَكِيٌّ"
+       },
+       {
+        "ar": "ثارَ",
+        "audio": {
+         "src": "/audio/o/b641762e8ad3451b.mp3"
+        },
+        "pair_ar": "سارَ"
+       },
+       {
+        "ar": "سارَ",
+        "audio": {
+         "src": "/audio/o/3d76e9e75ec6adc1.mp3"
+        },
+        "pair_ar": "ثارَ"
+       },
+       {
+        "ar": "قَلْبٌ",
+        "audio": {
+         "src": "/audio/o/6cd2fd5310abd181.mp3"
+        },
+        "pair_ar": "كَلْبٌ"
+       },
+       {
+        "ar": "كَلْبٌ",
+        "audio": {
+         "src": "/audio/o/7d653c5eb1ef3a2a.mp3"
+        },
+        "pair_ar": "قَلْبٌ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi yang mirip"
+      },
+      "note_id": "ذ dan ث: ujung lidah sedikit keluar di antara gigi. ق keluar dari pangkal lidah, lebih dalam dan berat daripada ك. ذَكِيٌّ = cerdas, زَكِيٌّ = suci; ثارَ = bergolak, سارَ = berjalan; قَلْبٌ = hati, كَلْبٌ = anjing. Hati-hati, artinya jauh berbeda!"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d9-dengar-qalb",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "قَلْبٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/6cd2fd5310abd181.mp3"
+       }
+      },
+      "answer": "قَلْبٌ",
+      "options": [
+       "قَلْبٌ",
+       "كَلْبٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَلْبٌ": {
+        "src": "/audio/o/6cd2fd5310abd181.mp3"
+       },
+       "كَلْبٌ": {
+        "src": "/audio/o/7d653c5eb1ef3a2a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d9-dengar-dzaki",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "ذَكِيٌّ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/1daba582cdd1dbc1.mp3"
+       }
+      },
+      "answer": "ذَكِيٌّ",
+      "options": [
+       "ذَكِيٌّ",
+       "زَكِيٌّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ذَكِيٌّ": {
+        "src": "/audio/o/1daba582cdd1dbc1.mp3"
+       },
+       "زَكِيٌّ": {
+        "src": "/audio/o/aca9a30904c8d0a0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d9-dengar-sara",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "سارَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/3d76e9e75ec6adc1.mp3"
+       }
+      },
+      "answer": "سارَ",
+      "options": [
+       "سارَ",
+       "ثارَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سارَ": {
+        "src": "/audio/o/3d76e9e75ec6adc1.mp3"
+       },
+       "ثارَ": {
+        "src": "/audio/o/b641762e8ad3451b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "رِزْقِي",
+        "id": "Rizki (ق)",
+        "emoji": "👦",
+        "audio": {
+         "src": "/audio/o/8f6ff47eec556a4a.mp3"
+        }
+       },
+       {
+        "ar": "أَحْمَدُ",
+        "id": "Pak Ahmad (ح)",
+        "emoji": "👨",
+        "audio": {
+         "src": "/audio/o/1188870136e73014.mp3"
+        }
+       },
+       {
+        "ar": "فاطِمَةُ",
+        "id": "Bu Fatimah (ف، ط)",
+        "emoji": "👩‍⚕️",
+        "audio": {
+         "src": "/audio/o/752ac789ec405e42.mp3"
+        }
+       },
+       {
+        "ar": "عائِشَةُ",
+        "id": "Aisyah (ع، ء)",
+        "emoji": "👩",
+        "audio": {
+         "src": "/audio/o/c5d721ee211a8be9.mp3"
+        }
+       },
+       {
+        "ar": "زَيْنَبُ",
+        "id": "Ustazah Zainab (ز)",
+        "emoji": "👩‍🏫",
+        "audio": {
+         "src": "/audio/o/654ef0882ecdb4f9.mp3"
+        }
+       },
+       {
+        "ar": "مَحْمُودٌ",
+        "id": "Ustaz Mahmud (ح)",
+        "emoji": "👨‍🏫",
+        "audio": {
+         "src": "/audio/o/66136a4b226ceaf9.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Nama tokoh kita"
+      },
+      "imgs": [
+       "/img/o/u0-tokoh.webp"
+      ],
+      "instruction_id": "Tokoh-tokoh ini akan kamu temui mulai Unit 1. Ketuk dan dengarkan nama mereka."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u0-d9-ucap-fatimah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "فاطِمَةُ",
+       "id": "Fatimah (ف dan ط)",
+       "audio": {
+        "src": "/audio/o/752ac789ec405e42.mp3"
+       }
+      },
+      "target": "فاطِمَةُ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u0-d9-ucap-aisyah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "عائِشَةُ",
+       "id": "Aisyah (ع lalu ء)",
+       "audio": {
+        "src": "/audio/o/c5d721ee211a8be9.mp3"
+       }
+      },
+      "target": "عائِشَةُ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u0-d9-nama-ahmad",
+      "instruction": "Nama ini memakai huruf h yang mana?",
+      "prompt": {
+       "ar": "أَحْمَدُ",
+       "audio": {
+        "src": "/audio/o/1188870136e73014.mp3"
+       }
+      },
+      "answer": "ح",
+      "options": [
+       "ح",
+       "ه",
+       "خ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       },
+       "ه": {
+        "src": "/audio/o/d27a692ab7245db0.mp3"
+       },
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u0-d9-lat-dengar-bata",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "باتَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/65725ebf34144bdf.mp3"
+      }
+     },
+     "answer": "باتَ",
+     "options": [
+      "باتَ",
+      "فاتَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "باتَ": {
+       "src": "/audio/o/65725ebf34144bdf.mp3"
+      },
+      "فاتَ": {
+       "src": "/audio/o/c34851bf9dce3a94.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d9-lat-dengar-fard",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "فَرْدٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/4deb97006b01aafe.mp3"
+      }
+     },
+     "answer": "فَرْدٌ",
+     "options": [
+      "فَرْدٌ",
+      "بَرْدٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "فَرْدٌ": {
+       "src": "/audio/o/4deb97006b01aafe.mp3"
+      },
+      "بَرْدٌ": {
+       "src": "/audio/o/5fe3358a4319a834.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d9-lat-dengar-alima2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "عَلِمَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/55f94dc013a86584.mp3"
+      }
+     },
+     "answer": "عَلِمَ",
+     "options": [
+      "عَلِمَ",
+      "أَلِمَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "عَلِمَ": {
+       "src": "/audio/o/55f94dc013a86584.mp3"
+      },
+      "أَلِمَ": {
+       "src": "/audio/o/338aee6d741dae4e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d9-lat-dengar-haram2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "هَرَمٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/2fb03aac33421290.mp3"
+      }
+     },
+     "answer": "هَرَمٌ",
+     "options": [
+      "هَرَمٌ",
+      "حَرَمٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "هَرَمٌ": {
+       "src": "/audio/o/2fb03aac33421290.mp3"
+      },
+      "حَرَمٌ": {
+       "src": "/audio/o/7afda8acb9d07ce5.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d9-lat-dengar-kalb",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "كَلْبٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/7d653c5eb1ef3a2a.mp3"
+      }
+     },
+     "answer": "كَلْبٌ",
+     "options": [
+      "كَلْبٌ",
+      "قَلْبٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كَلْبٌ": {
+       "src": "/audio/o/7d653c5eb1ef3a2a.mp3"
+      },
+      "قَلْبٌ": {
+       "src": "/audio/o/6cd2fd5310abd181.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d9-lat-dengar-zaki",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "زَكِيٌّ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/aca9a30904c8d0a0.mp3"
+      }
+     },
+     "answer": "زَكِيٌّ",
+     "options": [
+      "زَكِيٌّ",
+      "ذَكِيٌّ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "زَكِيٌّ": {
+       "src": "/audio/o/aca9a30904c8d0a0.mp3"
+      },
+      "ذَكِيٌّ": {
+       "src": "/audio/o/1daba582cdd1dbc1.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u0-d9-lat-dengar-tsara",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "ثارَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/b641762e8ad3451b.mp3"
+      }
+     },
+     "answer": "ثارَ",
+     "options": [
+      "ثارَ",
+      "سارَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ثارَ": {
+       "src": "/audio/o/b641762e8ad3451b.mp3"
+      },
+      "سارَ": {
+       "src": "/audio/o/3d76e9e75ec6adc1.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

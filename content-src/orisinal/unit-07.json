@@ -1,0 +1,485 @@
+{
+  "unit": 7,
+  "book": "1a",
+  "title_ar": "الدِّراسَةُ",
+  "title_id": "Belajar",
+  "notes": "Cek kemiripan ABY (tanggal 2026-10-04): halaman ABY 1a hlm. 186–193 (Hiwar 1 jadwal dan hari belajar, Hiwar 2 dua mahasiswi Suriah/Saudi dan kuliah, Hiwar 3 jam sekolah dan bus) dibandingkan; tidak ada kalimat berurutan yang identik atau hampir identik. Tengah semester di Ma'had al-Huda. Dialog 1: Rizki–Budi membaca jadwal pelajaran (putra). Dialog 2: Siti meminjam buku fikih dari Ustazah Zainab di perpustakaan (putri). Dialog 3: Ayu menelepon Rizki, bercerita pelajaran fikih dan nahwu di pesantren, lalu rencana libur. Pola: amr + maf'ul bih (اِفْتَحِ الكِتابَ), madhi ـتُ (دَرَسْتُ), أَوْ, قَرِيبٌ مِنْ / بَعِيدٌ عَنْ, سَأَكُونُ. Bilangan tingkat 6–10 (muannats) dengan الحِصَّةُ. Bunyi ذ/ز/د. Menulis: harakat pada kata yang sudah dikenal. Perbaikan arrange 2026-10-04 (urutan ganda): susun-nahwu-ustaz → مَعَ الأُسْتاذِ مَحْمُودٍ (khabar مَعَ… bisa didahulukan sebelum النَّحْوُ).",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Jadwal pelajaran",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "img": "u7-jadwal",
+          "scene": "Morning in a simple boys' dormitory room in Yogyakarta: Rizki holds open his notebook showing a timetable grid (no readable text) while Budi leans over to look, school bags on the bed.",
+          "instruction_id": "Pagi hari di kamar asrama putra. Budi mencari jadwal pelajaran.",
+          "rows": [
+            { "who": "budi", "ar": "يا رِزْقِي، أَيْنَ الجَدْوَلُ؟", "id": "Rizki, jadwalnya di mana?" },
+            { "who": "rizki", "ar": "اِفْتَحْ دَفْتَرِي. الجَدْوَلُ فِيهِ.", "id": "Buka buku tulisku. Jadwalnya ada di situ." },
+            { "who": "budi", "ar": "ما الدَّرْسُ فِي الحِصَّةِ الأُولَى؟", "id": "Pelajaran apa di jam pertama?" },
+            { "who": "rizki", "ar": "النَّحْوُ مَعَ الأُسْتاذِ مَحْمُودٍ.", "id": "Nahwu bersama Ustaz Mahmud." },
+            { "who": "budi", "ar": "وَالرِّياضِيّاتُ؟ فِي الحِصَّةِ السَّادِسَةِ أَوِ السَّابِعَةِ؟", "id": "Kalau matematika? Di jam keenam atau ketujuh?" },
+            { "who": "rizki", "ar": "فِي الحِصَّةِ السَّابِعَةِ.", "id": "Di jam ketujuh." },
+            { "who": "budi", "ar": "وَالحِصَّةُ الثَّامِنَةُ؟", "id": "Kalau jam kedelapan?" },
+            { "who": "rizki", "ar": "التَّارِيخُ مَعَ الأُسْتاذَةِ زَيْنَبَ.", "id": "Tarikh (sejarah) bersama Ustazah Zainab." },
+            { "who": "budi", "ar": "شُكْرًا يا رِزْقِي!", "id": "Terima kasih, Rizki!" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "جَدْوَلٌ", "id": "jadwal", "emoji": "🗓️", "serapan": "jadwal" },
+            { "ar": "دَفْتَرٌ", "id": "buku tulis", "emoji": "📓", "serapan": "daftar" },
+            { "ar": "اِفْتَحْ", "id": "bukalah (lk)", "emoji": "📖" },
+            { "ar": "حِصَّةٌ", "id": "jam pelajaran", "emoji": "⏰" },
+            { "ar": "نَحْوٌ", "id": "nahwu (tata bahasa Arab)", "emoji": "✍️" },
+            { "ar": "رِياضِيّاتٌ", "id": "matematika", "emoji": "➗" },
+            { "ar": "تارِيخٌ", "id": "sejarah", "emoji": "🏺", "serapan": "tarikh" },
+            { "ar": "أَوْ", "id": "atau", "emoji": "🔀" }
+          ]
+        },
+        { "q": "choice", "k": "jadwal-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أَيْنَ الجَدْوَلُ؟" }, "answer": "Jadwalnya di mana?", "options": ["Jadwalnya di mana?", "Pelajaran apa di jam pertama?", "Buka buku tulisku."], "lang": "id" },
+        { "q": "choice", "k": "jadwal-di-mana", "instruction": "Menurut dialog, jadwalnya ada di mana?", "prompt": { "id": "الجَدْوَلُ فِي …", "emoji": "🗓️" }, "answer": "Di buku tulis Rizki", "options": ["Di buku tulis Rizki", "Di perpustakaan", "Di kelas"], "lang": "id" },
+        { "q": "choice", "k": "hissah-ula", "instruction": "Menurut dialog, pelajaran apa di jam pertama?", "prompt": { "ar": "الحِصَّةُ الأُولَى" }, "answer": "Nahwu", "options": ["Nahwu", "Matematika", "Sejarah"], "lang": "id" },
+        { "q": "choice", "k": "dengar-sabiah", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "فِي الحِصَّةِ السَّابِعَةِ." }, "answer": "Di jam ketujuh.", "options": ["Di jam ketujuh.", "Di jam keenam.", "Di jam kedelapan."], "lang": "id" },
+        { "q": "choice", "k": "aw-arti", "instruction": "Apa arti kata أَوْ dalam kalimat ini?", "prompt": { "ar": "السَّادِسَةِ أَوِ السَّابِعَةِ؟" }, "answer": "atau", "options": ["atau", "dan", "di"], "lang": "id" },
+        { "q": "choice", "k": "tarikh-ustazah", "instruction": "Menurut dialog, siapa guru sejarah?", "prompt": { "id": "Jam kedelapan", "emoji": "🏺" }, "answer": "Ustazah Zainab", "options": ["Ustazah Zainab", "Ustaz Mahmud", "Rizki"], "lang": "id" },
+        { "q": "arrange", "k": "susun-iftah-daftari", "prompt": { "id": "Buka buku tulisku. (lk)" }, "answer": "اِفْتَحْ دَفْتَرِي", "extra": ["قَلَمٌ"] },
+        { "q": "arrange", "k": "susun-nahwu-ustaz", "prompt": { "id": "Bersama Ustaz Mahmud." }, "answer": "مَعَ الأُسْتاذِ مَحْمُودٍ", "extra": ["فِي"] },
+        { "q": "repeat", "k": "ucap-aina-jadwal", "who": "budi", "ar": "أَيْنَ الجَدْوَلُ؟", "id": "Jadwalnya di mana?" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-daftar-arti", "instruction": "Apa artinya?", "prompt": { "ar": "دَفْتَرٌ" }, "answer": "buku tulis", "options": ["buku tulis", "jadwal", "perpustakaan"], "lang": "id" },
+        { "q": "choice", "k": "lat-riyadiyyat-arti", "instruction": "Apa artinya?", "prompt": { "ar": "رِياضِيّاتٌ" }, "answer": "matematika", "options": ["matematika", "sejarah", "nahwu"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-hissah", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "وَالحِصَّةُ الثَّامِنَةُ؟" }, "answer": "وَالحِصَّةُ الثَّامِنَةُ؟", "options": ["وَالحِصَّةُ الثَّامِنَةُ؟", "وَالحِصَّةُ السَّادِسَةُ؟", "وَالحِصَّةُ الأُولَى؟"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-aina-jadwal", "prompt": { "id": "Jadwalnya di mana?" }, "answer": "أَيْنَ الجَدْوَلُ", "extra": ["مَتَى"] },
+        { "q": "choice", "k": "lat-riyadiyyat-hissah", "instruction": "Menurut dialog, matematika di jam ke berapa?", "prompt": { "ar": "الرِّياضِيّاتُ فِي الحِصَّةِ …" }, "answer": "السَّابِعَةِ", "options": ["السَّابِعَةِ", "السَّادِسَةِ", "الثَّامِنَةِ"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Meminjam buku di perpustakaan",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "img": "u7-perpustakaan",
+          "scene": "Siti at the borrowing desk of a small institute library, receiving a book from Ustazah Zainab who holds her clipboard; wooden bookshelves behind them, afternoon light.",
+          "instruction_id": "Sore hari di perpustakaan ma'had. Siti ingin meminjam buku dari Ustazah Zainab.",
+          "rows": [
+            { "who": "siti", "ar": "السَّلامُ عَلَيْكُمْ يا أُسْتاذَةُ.", "id": "Assalamualaikum, Ustazah." },
+            { "who": "ustazah_zainab", "ar": "وَعَلَيْكُمُ السَّلامُ. ماذا تُرِيدِينَ يا سِيتِي؟", "id": "Waalaikumussalam. Kamu mau apa, Siti? (pr)" },
+            { "who": "siti", "ar": "أُرِيدُ كِتابَ الفِقْهِ، مِنْ فَضْلِكِ.", "id": "Saya mau buku fikih, tolong. (kepada pr)" },
+            { "who": "ustazah_zainab", "ar": "هٰذا هُوَ. اُكْتُبِي اسْمَكِ فِي الدَّفْتَرِ.", "id": "Ini dia. Tulislah namamu di buku catatan. (pr)" },
+            { "who": "siti", "ar": "إِلَى مَتَى يا أُسْتاذَةُ؟", "id": "Sampai kapan, Ustazah?" },
+            { "who": "ustazah_zainab", "ar": "أُسْبُوعًا واحِدًا.", "id": "Satu minggu." },
+            { "who": "siti", "ar": "هَلِ الاِمْتِحانُ قَرِيبٌ؟", "id": "Apakah ujiannya sudah dekat?" },
+            { "who": "ustazah_zainab", "ar": "نَعَمْ. اِقْرَئِي الكِتابَ فِي غُرْفَتِكِ.", "id": "Ya. Bacalah buku itu di kamarmu. (pr)" },
+            { "who": "siti", "ar": "جَزاكِ اللّٰهُ خَيْرًا يا أُسْتاذَةُ.", "id": "Semoga Allah membalas kebaikan Ustazah." }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "مَكْتَبَةٌ", "id": "perpustakaan", "emoji": "📚" },
+            { "ar": "كِتابٌ", "id": "buku", "emoji": "📕", "serapan": "kitab" },
+            { "ar": "فِقْهٌ", "id": "fikih", "emoji": "🕌", "serapan": "fikih" },
+            { "ar": "اُكْتُبِي", "id": "tulislah (pr)", "emoji": "✍️" },
+            { "ar": "اِقْرَئِي", "id": "bacalah (pr)", "emoji": "📖" },
+            { "ar": "إِلَى مَتَى؟", "id": "sampai kapan?", "emoji": "⏳" },
+            { "ar": "أُسْبُوعٌ", "id": "minggu (7 hari)", "emoji": "📅" },
+            { "ar": "اِمْتِحانٌ", "id": "ujian", "emoji": "📝" }
+          ]
+        },
+        { "q": "choice", "k": "siti-mau-apa", "instruction": "Menurut dialog, Siti mau apa?", "prompt": { "ar": "أُرِيدُ كِتابَ …", "emoji": "📕" }, "answer": "Buku fikih", "options": ["Buku fikih", "Buku nahwu", "Buku tulis"], "lang": "id" },
+        { "q": "choice", "k": "uktubi-arti", "instruction": "Apa artinya?", "prompt": { "ar": "اُكْتُبِي اسْمَكِ." }, "answer": "Tulislah namamu. (pr)", "options": ["Tulislah namamu. (pr)", "Bacalah bukumu. (pr)", "Siapa namamu? (pr)"], "lang": "id" },
+        { "q": "choice", "k": "lama-pinjam", "instruction": "Menurut dialog, berapa lama Siti boleh meminjam buku?", "prompt": { "ar": "إِلَى مَتَى؟", "emoji": "⏳" }, "answer": "Satu minggu", "options": ["Satu minggu", "Satu hari", "Satu bulan"], "lang": "id" },
+        { "q": "choice", "k": "balas-ila-mata", "instruction": "Pilih jawaban yang tepat", "prompt": { "ar": "إِلَى مَتَى يا أُسْتاذَةُ؟" }, "answer": "أُسْبُوعًا واحِدًا.", "options": ["أُسْبُوعًا واحِدًا.", "فِي المَكْتَبَةِ.", "كِتابَ الفِقْهِ."], "lang": "ar" },
+        { "q": "choice", "k": "dengar-imtihan", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "هَلِ الاِمْتِحانُ قَرِيبٌ؟" }, "answer": "Apakah ujiannya sudah dekat?", "options": ["Apakah ujiannya sudah dekat?", "Apakah perpustakaannya dekat?", "Di mana ujiannya?"], "lang": "id" },
+        { "q": "choice", "k": "maktabah-gambar", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "📚", "id": "tempat meminjam buku" }, "answer": "مَكْتَبَةٌ", "options": ["مَكْتَبَةٌ", "مَطْبَخٌ", "مَسْجِدٌ"], "lang": "ar" },
+        { "q": "arrange", "k": "susun-urid-kitab", "prompt": { "id": "Saya mau buku fikih." }, "answer": "أُرِيدُ كِتابَ الفِقْهِ", "extra": ["تُرِيدِينَ"] },
+        { "q": "arrange", "k": "susun-iqrai-kitab", "prompt": { "id": "Bacalah buku itu! (pr)" }, "answer": "اِقْرَئِي الكِتابَ", "extra": ["اُكْتُبِي"] },
+        { "q": "repeat", "k": "ucap-jazakillah", "who": "siti", "ar": "جَزاكِ اللّٰهُ خَيْرًا.", "id": "Semoga Allah membalas kebaikanmu. (pr)" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-imtihan-arti", "instruction": "Apa artinya?", "prompt": { "ar": "اِمْتِحانٌ" }, "answer": "ujian", "options": ["ujian", "jadwal", "minggu"], "lang": "id" },
+        { "q": "choice", "k": "lat-usbu-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أُسْبُوعٌ" }, "answer": "minggu (7 hari)", "options": ["minggu (7 hari)", "hari", "jam pelajaran"], "lang": "id" },
+        { "q": "choice", "k": "lat-iqrai-pr", "instruction": "Ustazah menyuruh Siti membaca buku. Ustazah berkata …", "prompt": { "id": "Bacalah buku itu! (pr)", "emoji": "👩" }, "answer": "اِقْرَئِي الكِتابَ.", "options": ["اِقْرَئِي الكِتابَ.", "اِقْرَأِ الكِتابَ.", "اُكْتُبِي الكِتابَ."], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-uktubi", "prompt": { "id": "Tulislah namamu. (pr)" }, "answer": "اُكْتُبِي اسْمَكِ", "extra": ["اسْمَكَ"] },
+        { "q": "choice", "k": "lat-dengar-ila-mata", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "إِلَى مَتَى؟" }, "answer": "إِلَى مَتَى؟", "options": ["إِلَى مَتَى؟", "مِنْ أَيْنَ؟", "ماذا تُرِيدِينَ؟"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Cerita dari pesantren",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "img": "u7-telepon-ayu",
+          "scene": "Split scene: Ayu talking on a wall telephone in a girls' pesantren hallway in Garut, holding a small Qur'an, and Rizki answering on his mobile phone in his dormitory in Yogyakarta, both smiling.",
+          "instruction_id": "Hari Jumat, Ayu menelepon kakaknya, Rizki, dari telepon pesantren di Garut.",
+          "rows": [
+            { "who": "rizki", "ar": "يا أَيُو، ماذا دَرَسْتِ اليَوْمَ؟", "id": "Ayu, hari ini kamu belajar apa? (pr)" },
+            { "who": "ayu", "ar": "دَرَسْتُ الفِقْهَ وَالنَّحْوَ.", "id": "Saya belajar fikih dan nahwu." },
+            { "who": "rizki", "ar": "ماذا قَرَأْتِ فِي الفِقْهِ؟", "id": "Di pelajaran fikih kamu membaca apa? (pr)" },
+            { "who": "ayu", "ar": "قَرَأْتُ بابَ الوُضُوءِ.", "id": "Saya membaca bab wudu." },
+            { "who": "rizki", "ar": "وَفِي النَّحْوِ؟", "id": "Kalau di nahwu?" },
+            { "who": "ayu", "ar": "دَرَسْتُ الفِعْلَ الماضِيَ.", "id": "Saya belajar fi'il madhi (kata kerja lampau)." },
+            { "who": "rizki", "ar": "مَتَى العُطْلَةُ يا أَيُو؟", "id": "Kapan liburnya, Ayu?" },
+            { "who": "ayu", "ar": "بَعْدَ الاِمْتِحانِ. سَأَكُونُ فِي بانْدُونْغ!", "id": "Setelah ujian. Saya akan ada di Bandung!" },
+            { "who": "rizki", "ar": "وَأَنا سَأَكُونُ فِي البَيْتِ، إِنْ شاءَ اللّٰهُ.", "id": "Saya juga akan ada di rumah, insyaallah." }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "دَرَسْتُ", "id": "saya (sudah) belajar", "emoji": "📘" },
+            { "ar": "قَرَأْتُ", "id": "saya (sudah) membaca", "emoji": "📖" },
+            { "ar": "بابٌ", "id": "bab (dalam buku); juga: pintu", "emoji": "📑", "serapan": "bab" },
+            { "ar": "الفِعْلُ الماضِي", "id": "fi'il madhi (kata kerja lampau)", "emoji": "⏪" },
+            { "ar": "بَعْدَ", "id": "setelah", "emoji": "⏭️" },
+            { "ar": "العُطْلَةُ", "id": "libur, liburan", "emoji": "🏖️" },
+            { "ar": "سَأَكُونُ", "id": "saya akan berada / akan menjadi", "emoji": "🔜" }
+          ]
+        },
+        { "q": "choice", "k": "ayu-belajar-apa", "instruction": "Menurut dialog, Ayu belajar apa hari ini?", "prompt": { "ar": "دَرَسْتُ …", "emoji": "📘" }, "answer": "Fikih dan nahwu", "options": ["Fikih dan nahwu", "Matematika dan sejarah", "Fikih dan sejarah"], "lang": "id" },
+        { "q": "choice", "k": "darastu-arti", "instruction": "Apa artinya?", "prompt": { "ar": "دَرَسْتُ الفِقْهَ." }, "answer": "Saya belajar fikih.", "options": ["Saya belajar fikih.", "Kamu belajar fikih. (pr)", "Saya akan belajar fikih."], "lang": "id" },
+        { "q": "choice", "k": "bab-wudu", "instruction": "Menurut dialog, bab apa yang Ayu baca di pelajaran fikih?", "prompt": { "ar": "قَرَأْتُ بابَ …" }, "answer": "Bab wudu", "options": ["Bab wudu", "Bab salat", "Bab fi'il madhi"], "lang": "id" },
+        { "q": "choice", "k": "balas-madza-darasti", "instruction": "Pilih jawaban yang tepat", "prompt": { "ar": "ماذا دَرَسْتِ اليَوْمَ؟" }, "answer": "دَرَسْتُ النَّحْوَ.", "options": ["دَرَسْتُ النَّحْوَ.", "سَأَكُونُ فِي البَيْتِ.", "بَعْدَ الاِمْتِحانِ."], "lang": "ar" },
+        { "q": "choice", "k": "dengar-saakunu", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "سَأَكُونُ فِي بانْدُونْغ." }, "answer": "Saya akan ada di Bandung.", "options": ["Saya akan ada di Bandung.", "Saya dari Bandung.", "Saya belajar di Bandung."], "lang": "id" },
+        { "q": "choice", "k": "kapan-libur", "instruction": "Menurut dialog, kapan Ayu libur?", "prompt": { "ar": "مَتَى العُطْلَةُ؟", "emoji": "🏖️" }, "answer": "Setelah ujian", "options": ["Setelah ujian", "Hari ini", "Satu minggu lagi"], "lang": "id" },
+        { "q": "arrange", "k": "susun-qaratu-bab", "prompt": { "id": "Saya membaca bab wudu." }, "answer": "قَرَأْتُ بابَ الوُضُوءِ", "extra": ["قَرَأْتِ"] },
+        { "q": "arrange", "k": "susun-saakunu-bandung", "prompt": { "id": "Saya akan ada di Bandung." }, "answer": "سَأَكُونُ فِي بانْدُونْغ", "extra": ["مِنْ"] },
+        { "q": "repeat", "k": "ucap-darastu", "who": "ayu", "ar": "دَرَسْتُ الفِقْهَ وَالنَّحْوَ.", "id": "Saya belajar fikih dan nahwu." }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-qaratu-arti", "instruction": "Apa artinya?", "prompt": { "ar": "قَرَأْتُ" }, "answer": "saya (sudah) membaca", "options": ["saya (sudah) membaca", "saya (sudah) belajar", "saya akan membaca"], "lang": "id" },
+        { "q": "choice", "k": "lat-bada-arti", "instruction": "Apa artinya?", "prompt": { "ar": "بَعْدَ الاِمْتِحانِ" }, "answer": "setelah ujian", "options": ["setelah ujian", "sebelum ujian", "di ruang ujian"], "lang": "id" },
+        { "q": "choice", "k": "lat-tanya-ayu", "instruction": "Kamu bertanya kepada Ayu apa yang ia pelajari. Pilih kalimatnya", "prompt": { "id": "Kamu belajar apa? (pr)", "emoji": "👧" }, "answer": "ماذا دَرَسْتِ؟", "options": ["ماذا دَرَسْتِ؟", "ماذا دَرَسْتَ؟", "ماذا دَرَسْتُ؟"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-darastu-nahw", "prompt": { "id": "Saya belajar fikih dan nahwu." }, "answer": "دَرَسْتُ الفِقْهَ وَالنَّحْوَ", "extra": ["أَوْ"] },
+        { "q": "choice", "k": "lat-rizki-libur", "instruction": "Menurut dialog, Rizki akan berada di mana saat libur?", "prompt": { "ar": "سَأَكُونُ فِي البَيْتِ." }, "answer": "Di rumah", "options": ["Di rumah", "Di pesantren", "Di perpustakaan"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & bilangan tingkat 6–10",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Pelajaran",
+          "rows": [
+            { "ar": "دَرْسٌ", "id": "pelajaran", "emoji": "📘" },
+            { "ar": "لُغَةٌ", "id": "bahasa", "emoji": "🗣️", "serapan": "logat" },
+            { "ar": "عُلُومٌ", "id": "IPA (ilmu pengetahuan alam)", "emoji": "🔬", "serapan": "ilmu" },
+            { "ar": "فِقْهٌ", "id": "fikih", "emoji": "🕌", "serapan": "fikih" },
+            { "ar": "نَحْوٌ", "id": "nahwu", "emoji": "✍️" },
+            { "ar": "رِياضِيّاتٌ", "id": "matematika", "emoji": "➗" },
+            { "ar": "تارِيخٌ", "id": "sejarah", "emoji": "🏺", "serapan": "tarikh" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Alat, tempat, dan waktu",
+          "rows": [
+            { "ar": "كِتابٌ", "id": "buku", "emoji": "📕", "serapan": "kitab" },
+            { "ar": "دَفْتَرٌ", "id": "buku tulis", "emoji": "📓", "serapan": "daftar" },
+            { "ar": "قَلَمٌ", "id": "pena / pulpen", "emoji": "🖊️", "serapan": "kalam" },
+            { "ar": "مَكْتَبَةٌ", "id": "perpustakaan", "emoji": "📚" },
+            { "ar": "فَصْلٌ", "id": "kelas", "emoji": "🧑‍🏫" },
+            { "ar": "جَدْوَلٌ", "id": "jadwal", "emoji": "🗓️", "serapan": "jadwal" },
+            { "ar": "اِمْتِحانٌ", "id": "ujian", "emoji": "📝" },
+            { "ar": "أُسْبُوعٌ", "id": "minggu (7 hari)", "emoji": "📅" },
+            { "ar": "شَهْرٌ", "id": "bulan", "emoji": "🌙" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Bilangan tingkat 6–10 (pr)",
+          "note_id": "Untuk kata perempuan seperti الحِصَّةُ: الحِصَّةُ السَّادِسَةُ = jam pelajaran keenam. Bentuk 1–5 sudah kamu kenal: الأُولَى، الثَّانِيَةُ، الثَّالِثَةُ، الرَّابِعَةُ، الخامِسَةُ.",
+          "rows": [
+            { "ar": "السَّادِسَةُ", "id": "keenam (pr)", "emoji": "6️⃣" },
+            { "ar": "السَّابِعَةُ", "id": "ketujuh (pr)", "emoji": "7️⃣" },
+            { "ar": "الثَّامِنَةُ", "id": "kedelapan (pr)", "emoji": "8️⃣" },
+            { "ar": "التَّاسِعَةُ", "id": "kesembilan (pr)", "emoji": "9️⃣" },
+            { "ar": "العاشِرَةُ", "id": "kesepuluh (pr)", "emoji": "🔟" }
+          ]
+        },
+        { "q": "choice", "k": "gambar-qalam", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🖊️" }, "answer": "قَلَمٌ", "options": ["قَلَمٌ", "كِتابٌ", "دَفْتَرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lughah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "لُغَةٌ" }, "answer": "bahasa", "options": ["bahasa", "pelajaran", "sejarah"], "lang": "id" },
+        { "q": "choice", "k": "tarikh-arti", "instruction": "Apa artinya?", "prompt": { "ar": "تارِيخٌ" }, "answer": "sejarah", "options": ["sejarah", "matematika", "IPA (ilmu pengetahuan alam)"], "lang": "id" },
+        { "q": "choice", "k": "serapan-daftar", "instruction": "Kata دَفْتَرٌ menjadi \"daftar\" dalam bahasa Indonesia. Dalam bahasa Arab artinya …", "prompt": { "ar": "دَفْتَرٌ", "emoji": "📓" }, "answer": "buku tulis", "options": ["buku tulis", "daftar nama", "jadwal"], "lang": "id" },
+        { "q": "choice", "k": "dengar-tasiah", "instruction": "Dengarkan. Jam pelajaran ke berapa?", "prompt": { "listen": "الحِصَّةُ التَّاسِعَةُ" }, "answer": "ke-9", "options": ["ke-9", "ke-7", "ke-6"], "lang": "id" },
+        { "q": "choice", "k": "urutan-sabiah", "instruction": "Setelah السَّادِسَةُ datang …", "prompt": { "ar": "السَّادِسَةُ ← …" }, "answer": "السَّابِعَةُ", "options": ["السَّابِعَةُ", "الخامِسَةُ", "التَّاسِعَةُ"], "lang": "ar" },
+        { "q": "choice", "k": "hissah-asyirah", "instruction": "Jam pelajaran kesepuluh dalam bahasa Arab adalah …", "prompt": { "id": "jam pelajaran ke-10", "emoji": "🔟" }, "answer": "الحِصَّةُ العاشِرَةُ", "options": ["الحِصَّةُ العاشِرَةُ", "الحِصَّةُ الثَّامِنَةُ", "الحِصَّةُ الأُولَى"], "lang": "ar" },
+        { "q": "choice", "k": "syahr-usbu", "instruction": "Mana yang lebih lama?", "prompt": { "id": "أُسْبُوعٌ atau شَهْرٌ?", "emoji": "📅" }, "answer": "شَهْرٌ", "options": ["شَهْرٌ", "أُسْبُوعٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-maktabah", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "مَكْتَبَةٌ" }, "answer": "perpustakaan", "options": ["perpustakaan", "kelas", "meja belajar"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-gambar-kitab", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "📕" }, "answer": "كِتابٌ", "options": ["كِتابٌ", "قَلَمٌ", "جَدْوَلٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-ulum-arti", "instruction": "Apa artinya?", "prompt": { "ar": "عُلُومٌ" }, "answer": "IPA (ilmu pengetahuan alam)", "options": ["IPA (ilmu pengetahuan alam)", "bahasa", "fikih"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-thaminah", "instruction": "Dengarkan. Jam pelajaran ke berapa?", "prompt": { "listen": "الحِصَّةُ الثَّامِنَةُ" }, "answer": "ke-8", "options": ["ke-8", "ke-3", "ke-10"], "lang": "id" },
+        { "q": "choice", "k": "lat-fasl-arti", "instruction": "Apa artinya?", "prompt": { "ar": "فَصْلٌ" }, "answer": "kelas", "options": ["kelas", "perpustakaan", "bulan"], "lang": "id" },
+        { "q": "choice", "k": "lat-urutan-asyirah", "instruction": "Setelah التَّاسِعَةُ datang …", "prompt": { "ar": "التَّاسِعَةُ ← …" }, "answer": "العاشِرَةُ", "options": ["العاشِرَةُ", "الثَّامِنَةُ", "السَّابِعَةُ"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Perintah dan hal yang sudah dilakukan",
+          "groups": [
+            {
+              "title_ar": "اِفْتَحْ ← اِفْتَحِ الكِتابَ",
+              "note_id": "Kata perintah (amr) + benda yang dikenai (maf'ul bih, berakhiran -a). Bila kata berikutnya diawali الـ, sukun di akhir kata perintah berubah menjadi kasrah supaya mudah disambung: اِفْتَحْ + الكِتابَ = اِفْتَحِ الكِتابَ. Untuk perempuan tambahkan ـِي.",
+              "rows": [
+                { "ar": "اِفْتَحِ الكِتابَ.", "id": "Bukalah buku itu! (lk)" },
+                { "ar": "اِفْتَحِي الكِتابَ.", "id": "Bukalah buku itu! (pr)" },
+                { "ar": "اُكْتُبِ اسْمَكَ.", "id": "Tulislah namamu! (lk)" },
+                { "ar": "اُكْتُبِي اسْمَكِ.", "id": "Tulislah namamu! (pr)" }
+              ]
+            },
+            {
+              "title_ar": "دَرَسْتُ · دَرَسْتَ · دَرَسْتِ",
+              "note_id": "Fi'il madhi (sudah terjadi). Akhiran ـتُ = saya, ـتَ = kamu (lk), ـتِ = kamu (pr).",
+              "rows": [
+                { "ar": "دَرَسْتُ النَّحْوَ.", "id": "Saya belajar nahwu." },
+                { "ar": "قَرَأْتُ الكِتابَ.", "id": "Saya membaca buku itu." },
+                { "ar": "ماذا كَتَبْتَ؟", "id": "Kamu menulis apa? (lk)" },
+                { "ar": "ماذا دَرَسْتِ؟", "id": "Kamu belajar apa? (pr)" }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Atau, dekat/jauh, dan rencana",
+          "groups": [
+            {
+              "title_ar": "أَوْ",
+              "note_id": "أَوْ = atau. Sebelum الـ dibaca أَوِ.",
+              "rows": [
+                { "ar": "الفِقْهُ أَوِ النَّحْوُ؟", "id": "Fikih atau nahwu?" },
+                { "ar": "كِتابٌ أَوْ دَفْتَرٌ؟", "id": "Buku atau buku tulis?" }
+              ]
+            },
+            {
+              "title_ar": "قَرِيبٌ مِنْ · بَعِيدٌ عَنْ",
+              "note_id": "Dekat memakai مِنْ, jauh memakai عَنْ. Untuk kata perempuan: قَرِيبَةٌ، بَعِيدَةٌ.",
+              "rows": [
+                { "ar": "المَكْتَبَةُ قَرِيبَةٌ مِنَ الفَصْلِ.", "id": "Perpustakaan dekat dari kelas." },
+                { "ar": "البَيْتُ بَعِيدٌ عَنِ المَعْهَدِ.", "id": "Rumah jauh dari ma'had." }
+              ]
+            },
+            {
+              "title_ar": "سَأَكُونُ …",
+              "note_id": "سَأَكُونُ = saya akan berada / akan menjadi.",
+              "rows": [
+                { "ar": "سَأَكُونُ فِي المَكْتَبَةِ.", "id": "Saya akan ada di perpustakaan." },
+                { "ar": "سَأَكُونُ طالِبًا مُجْتَهِدًا.", "id": "Saya akan menjadi pelajar yang rajin. (lk)" }
+              ]
+            }
+          ]
+        },
+        { "q": "choice", "k": "lengkapi-iftah", "instruction": "Lengkapi: \"Bukalah buku itu!\" (kepada laki-laki)", "prompt": { "ar": "… الكِتابَ." }, "answer": "اِفْتَحِ", "options": ["اِفْتَحِ", "اِفْتَحْ", "اِفْتَحِي"], "lang": "ar" },
+        { "q": "choice", "k": "perintah-siti", "instruction": "Ustazah menyuruh Siti menulis namanya. Pilih kalimatnya", "prompt": { "id": "Tulislah namamu! (pr)", "emoji": "👩" }, "answer": "اُكْتُبِي اسْمَكِ.", "options": ["اُكْتُبِي اسْمَكِ.", "اُكْتُبِ اسْمَكَ.", "اُكْتُبِي اسْمَكَ."], "lang": "ar" },
+        { "q": "choice", "k": "madhi-qaratu", "instruction": "Pilih kalimat yang artinya \"Saya sudah membaca buku itu.\"", "prompt": { "id": "Saya sudah membaca buku itu.", "emoji": "📖" }, "answer": "قَرَأْتُ الكِتابَ.", "options": ["قَرَأْتُ الكِتابَ.", "قَرَأَ الكِتابَ.", "سَأَقْرَأُ الكِتابَ."], "lang": "ar" },
+        { "q": "choice", "k": "tanya-budi-madhi", "instruction": "Kamu bertanya kepada Budi apa yang ia pelajari. Pilih kalimatnya", "prompt": { "id": "Kamu belajar apa? (lk)", "emoji": "👦" }, "answer": "ماذا دَرَسْتَ؟", "options": ["ماذا دَرَسْتَ؟", "ماذا دَرَسْتِ؟", "ماذا دَرَسْتُ؟"], "lang": "ar" },
+        { "q": "choice", "k": "pilih-aw", "instruction": "Pilih kalimat yang artinya \"Fikih atau nahwu?\"", "prompt": { "id": "Fikih atau nahwu?" }, "answer": "الفِقْهُ أَوِ النَّحْوُ؟", "options": ["الفِقْهُ أَوِ النَّحْوُ؟", "الفِقْهُ وَالنَّحْوُ؟", "الفِقْهُ فِي النَّحْوِ؟"], "lang": "ar" },
+        { "q": "choice", "k": "qarib-min", "instruction": "Pilih kalimat yang artinya \"Perpustakaan dekat dari kelas.\"", "prompt": { "id": "Perpustakaan dekat dari kelas.", "emoji": "📚" }, "answer": "المَكْتَبَةُ قَرِيبَةٌ مِنَ الفَصْلِ.", "options": ["المَكْتَبَةُ قَرِيبَةٌ مِنَ الفَصْلِ.", "المَكْتَبَةُ بَعِيدَةٌ عَنِ الفَصْلِ.", "المَكْتَبَةُ قَرِيبَةٌ عَنِ الفَصْلِ."], "lang": "ar" },
+        { "q": "choice", "k": "baid-an", "instruction": "Lengkapi: \"Rumah jauh dari ma'had.\"", "prompt": { "ar": "البَيْتُ بَعِيدٌ … المَعْهَدِ." }, "answer": "عَنِ", "options": ["عَنِ", "إِلَى", "فِي"], "lang": "ar" },
+        { "q": "arrange", "k": "susun-iftah-kitab", "prompt": { "id": "Bukalah buku itu! (lk)" }, "answer": "اِفْتَحِ الكِتابَ", "extra": ["اِفْتَحِي"] },
+        { "q": "arrange", "k": "susun-saakunu-maktabah", "prompt": { "id": "Saya akan ada di perpustakaan." }, "answer": "سَأَكُونُ فِي المَكْتَبَةِ", "extra": ["قَرِيبَةٌ"] },
+        { "q": "arrange", "k": "susun-katabtu", "prompt": { "id": "Saya menulis pelajaran itu." }, "answer": "كَتَبْتُ الدَّرْسَ", "extra": ["كَتَبْتِ"] }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-lengkapi-uktub", "instruction": "Lengkapi: \"Tulislah namamu!\" (kepada laki-laki)", "prompt": { "ar": "… اسْمَكَ." }, "answer": "اُكْتُبِ", "options": ["اُكْتُبِ", "اُكْتُبِي", "كَتَبْتُ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-darastu-arti", "instruction": "Apa artinya?", "prompt": { "ar": "دَرَسْتُ التَّارِيخَ." }, "answer": "Saya belajar sejarah.", "options": ["Saya belajar sejarah.", "Kamu belajar sejarah. (lk)", "Saya akan belajar sejarah."], "lang": "id" },
+        { "q": "choice", "k": "lat-qarib-arti", "instruction": "Apa artinya?", "prompt": { "ar": "المَسْجِدُ قَرِيبٌ مِنَ المَكْتَبَةِ." }, "answer": "Masjid dekat dari perpustakaan.", "options": ["Masjid dekat dari perpustakaan.", "Masjid jauh dari perpustakaan.", "Perpustakaan di masjid."], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-iftahi", "prompt": { "id": "Bukalah buku itu! (pr)" }, "answer": "اِفْتَحِي الكِتابَ", "extra": ["اِفْتَحِ"] },
+        { "q": "arrange", "k": "lat-susun-baid", "prompt": { "id": "Rumah jauh dari ma'had." }, "answer": "البَيْتُ بَعِيدٌ عَنِ المَعْهَدِ", "extra": ["مِنَ"] },
+        { "q": "choice", "k": "lat-aw-arti", "instruction": "Apa artinya?", "prompt": { "ar": "كِتابٌ أَوْ دَفْتَرٌ؟" }, "answer": "Buku atau buku tulis?", "options": ["Buku atau buku tulis?", "Buku dan buku tulis.", "Buku di buku tulis."], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ذ, ز, dan د, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ذ, ز, dan د",
+          "note_id": "ذ (dzal): ujung lidah sedikit keluar di antara gigi, seperti \"th\" pada kata Inggris \"this\". ز (zai): \"z\" biasa, lidah di belakang gigi. د (dal): \"d\" biasa. Pelajar Indonesia sering mengucapkan ذ sebagai \"z\" atau \"d\", padahal artinya bisa berubah. Ketuk tiap kotak dan bandingkan.",
+          "pairs": [["ذَكِيٌّ", "زَكِيٌّ"], ["بَذْرٌ", "بَدْرٌ"], ["ذَلَّ", "دَلَّ"], ["ذَلَّ", "زَلَّ"], ["ذَلِيلٌ", "دَلِيلٌ"], ["زارَ", "دارَ"]]
+        },
+        { "q": "choice", "k": "dengar-dzakiyy", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "ذَكِيٌّ" }, "answer": "ذَكِيٌّ", "options": ["ذَكِيٌّ", "زَكِيٌّ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-badr", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "بَدْرٌ" }, "answer": "بَدْرٌ", "options": ["بَدْرٌ", "بَذْرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-zalla", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "زَلَّ" }, "answer": "زَلَّ", "options": ["زَلَّ", "ذَلَّ", "دَلَّ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-dalil", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "دَلِيلٌ" }, "answer": "دَلِيلٌ", "options": ["دَلِيلٌ", "ذَلِيلٌ"], "lang": "ar" },
+        { "q": "choice", "k": "kata-ada-dzal", "instruction": "Kata mana yang mengandung huruf ذ?", "prompt": { "id": "Cari huruf dzal (ذ)" }, "answer": "هٰذا", "options": ["هٰذا", "دَرْسٌ", "زارَ"], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-hadza-dars", "ar": "هٰذا دَرْسٌ.", "id": "Ini pelajaran." },
+        { "q": "repeat", "k": "ucap-dzahabtu", "ar": "ذَهَبْتُ إِلَى المَكْتَبَةِ.", "id": "Saya pergi ke perpustakaan." },
+        { "q": "choice", "k": "simak-hissah-ula", "instruction": "Dengarkan. Pelajaran apa di jam pertama?", "prompt": { "listen": "دَرَسْتُ النَّحْوَ فِي الحِصَّةِ الأُولَى." }, "answer": "Nahwu", "options": ["Nahwu", "Fikih", "Sejarah"], "lang": "id" },
+        { "q": "choice", "k": "simak-dzahabtu", "instruction": "Dengarkan. Ke mana dia pergi?", "prompt": { "listen": "ذَهَبْتُ إِلَى المَكْتَبَةِ وَقَرَأْتُ كِتابًا." }, "answer": "Ke perpustakaan", "options": ["Ke perpustakaan", "Ke kelas", "Ke masjid"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-dengar-zakiyy", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "زَكِيٌّ" }, "answer": "زَكِيٌّ", "options": ["زَكِيٌّ", "ذَكِيٌّ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-badzr", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "بَذْرٌ" }, "answer": "بَذْرٌ", "options": ["بَذْرٌ", "بَدْرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-dara", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "دارَ" }, "answer": "دارَ", "options": ["دارَ", "زارَ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-dzalla", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "ذَلَّ" }, "answer": "ذَلَّ", "options": ["ذَلَّ", "زَلَّ", "دَلَّ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-simak-imtihan", "instruction": "Dengarkan. Kapan ujiannya?", "prompt": { "listen": "الاِمْتِحانُ بَعْدَ أُسْبُوعٍ." }, "answer": "Satu minggu lagi", "options": ["Satu minggu lagi", "Satu bulan lagi", "Hari ini"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Perintah di kelas",
+          "rows": [
+            { "ar": "اِفْتَحِ الكِتابَ.", "id": "Bukalah buku! (lk)", "emoji": "📖" },
+            { "ar": "أَغْلِقِ الكِتابَ.", "id": "Tutuplah buku! (lk)", "emoji": "📕" },
+            { "ar": "اُكْتُبِ الدَّرْسَ.", "id": "Tulislah pelajaran itu! (lk)", "emoji": "✍️" },
+            { "ar": "اِقْرَأْ مَعِي.", "id": "Bacalah bersamaku! (lk)", "emoji": "🗣️" },
+            { "ar": "اِسْمَعْ جَيِّدًا.", "id": "Dengarkan baik-baik! (lk)", "emoji": "👂" }
+          ]
+        },
+        { "q": "repeat", "k": "ucap-iftah-kitab", "who": "ustaz_mahmud", "ar": "اِفْتَحِ الكِتابَ.", "id": "Bukalah buku! (lk)" },
+        { "q": "repeat", "k": "ucap-aghliqi", "who": "ustazah_zainab", "ar": "أَغْلِقِي الكِتابَ.", "id": "Tutuplah buku! (pr)" },
+        { "q": "choice", "k": "situasi-tutup-buku", "instruction": "Ustazah Zainab menyuruh Siti menutup buku. Ustazah berkata …", "prompt": { "id": "Menutup buku", "emoji": "📕" }, "answer": "أَغْلِقِي الكِتابَ.", "options": ["أَغْلِقِي الكِتابَ.", "اِفْتَحِي الكِتابَ.", "أَغْلِقِ الكِتابَ."], "lang": "ar" },
+        { "q": "speak", "k": "cerita-pelajaran", "instruction": "Ceritakan apa yang sudah kamu pelajari hari ini", "prompt": { "id": "Pakai دَرَسْتُ، قَرَأْتُ، كَتَبْتُ." }, "model": [
+          { "who": "rizki", "ar": "دَرَسْتُ اللُّغَةَ العَرَبِيَّةَ.", "id": "Saya belajar bahasa Arab." },
+          { "who": "rizki", "ar": "قَرَأْتُ كِتابَ النَّحْوِ.", "id": "Saya membaca buku nahwu." },
+          { "who": "rizki", "ar": "كَتَبْتُ الدَّرْسَ فِي دَفْتَرِي.", "id": "Saya menulis pelajaran di buku tulisku." }
+        ] },
+        { "q": "choice", "k": "jawab-madza-darasta", "instruction": "Ustaz Mahmud bertanya: ماذا دَرَسْتَ اليَوْمَ؟ Jawabanmu …", "prompt": { "ar": "ماذا دَرَسْتَ اليَوْمَ؟" }, "answer": "دَرَسْتُ الفِقْهَ.", "options": ["دَرَسْتُ الفِقْهَ.", "دَرَسْتَ الفِقْهَ.", "اُدْرُسِ الفِقْهَ."], "lang": "ar" },
+        { "q": "speak", "k": "sebut-jadwal", "instruction": "Sebutkan jadwal pelajaranmu", "prompt": { "id": "Sebut tiga jam pelajaran, misalnya jam pertama, keenam, dan kesepuluh." }, "model": [
+          { "who": "siti", "ar": "فِي الحِصَّةِ الأُولَى دَرْسُ اللُّغَةِ.", "id": "Di jam pertama pelajaran bahasa." },
+          { "who": "siti", "ar": "فِي الحِصَّةِ السَّادِسَةِ دَرْسُ العُلُومِ.", "id": "Di jam keenam pelajaran IPA." },
+          { "who": "siti", "ar": "فِي الحِصَّةِ العاشِرَةِ دَرْسُ الفِقْهِ.", "id": "Di jam kesepuluh pelajaran fikih." }
+        ] },
+        { "q": "repeat", "k": "ucap-saakunu-bait", "who": "rizki", "ar": "سَأَكُونُ فِي البَيْتِ.", "id": "Saya akan ada di rumah." },
+        { "q": "choice", "k": "pilih-aw-situasi", "instruction": "Kamu ingin bertanya: \"Ujiannya minggu ini atau bulan ini?\" Pilih kata yang tepat", "prompt": { "ar": "الاِمْتِحانُ هٰذا الأُسْبُوعَ … هٰذا الشَّهْرَ؟" }, "answer": "أَوْ", "options": ["أَوْ", "وَ", "مِنْ"], "lang": "ar" },
+        { "q": "speak", "k": "rencana-libur", "instruction": "Ceritakan rencanamu saat libur semester", "prompt": { "id": "Di mana kamu akan berada? Apa yang akan kamu baca?" }, "model": [
+          { "who": "siti", "ar": "سَأَكُونُ فِي مِيدان.", "id": "Saya akan ada di Medan." },
+          { "who": "siti", "ar": "سَأَقْرَأُ كِتابَ التَّارِيخِ.", "id": "Saya akan membaca buku sejarah." }
+        ] }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-isma-arti", "instruction": "Apa artinya?", "prompt": { "ar": "اِسْمَعْ جَيِّدًا." }, "answer": "Dengarkan baik-baik! (lk)", "options": ["Dengarkan baik-baik! (lk)", "Bacalah bersamaku! (lk)", "Tulislah pelajaran itu! (lk)"], "lang": "id" },
+        { "q": "choice", "k": "lat-aghliq-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أَغْلِقِ الكِتابَ." }, "answer": "Tutuplah buku! (lk)", "options": ["Tutuplah buku! (lk)", "Bukalah buku! (lk)", "Bacalah buku! (lk)"], "lang": "id" },
+        { "q": "choice", "k": "lat-situasi-buka-budi", "instruction": "Ustaz menyuruh Budi membuka buku. Ustaz berkata …", "prompt": { "id": "Membuka buku", "emoji": "📖" }, "answer": "اِفْتَحِ الكِتابَ.", "options": ["اِفْتَحِ الكِتابَ.", "اِفْتَحِي الكِتابَ.", "أَغْلِقِ الكِتابَ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-jawab-darasti", "instruction": "Ustazah bertanya kepada Siti: ماذا قَرَأْتِ؟ Jawaban Siti …", "prompt": { "ar": "ماذا قَرَأْتِ؟" }, "answer": "قَرَأْتُ كِتابَ الفِقْهِ.", "options": ["قَرَأْتُ كِتابَ الفِقْهِ.", "قَرَأْتِ كِتابَ الفِقْهِ.", "اِقْرَئِي كِتابَ الفِقْهِ."], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Jadwal Siti",
+          "img": "u7-jadwal-siti",
+          "scene": "Siti sitting at a desk writing in her notebook with a calligraphy pen, a blank timetable grid on the page (no readable text), small library visible through the classroom door.",
+          "instruction_id": "Siti menulis jadwal hari Senin di buku tulisnya. Baca pelan-pelan.",
+          "rows": [
+            { "ar": "هٰذا جَدْوَلِي يَوْمَ الاِثْنَيْنِ.", "id": "Ini jadwalku hari Senin.", "emoji": "🗓️" },
+            { "ar": "فِي الحِصَّةِ الأُولَى دَرْسُ النَّحْوِ.", "id": "Di jam pertama pelajaran nahwu." },
+            { "ar": "فِي الحِصَّةِ الثَّالِثَةِ دَرْسُ الفِقْهِ.", "id": "Di jam ketiga pelajaran fikih." },
+            { "ar": "فِي الحِصَّةِ السَّادِسَةِ دَرْسُ العُلُومِ.", "id": "Di jam keenam pelajaran IPA." },
+            { "ar": "فِي الحِصَّةِ التَّاسِعَةِ دَرْسُ التَّارِيخِ.", "id": "Di jam kesembilan pelajaran sejarah." },
+            { "ar": "الحِصَّةُ العاشِرَةُ فِي المَكْتَبَةِ.", "id": "Jam kesepuluh di perpustakaan." },
+            { "ar": "المَكْتَبَةُ قَرِيبَةٌ مِنْ فَصْلِي.", "id": "Perpustakaan dekat dari kelasku." }
+          ]
+        },
+        { "q": "choice", "k": "baca-fiqh-hissah", "instruction": "Menurut bacaan 1, fikih di jam ke berapa?", "prompt": { "ar": "دَرْسُ الفِقْهِ فِي الحِصَّةِ …" }, "answer": "الثَّالِثَةِ", "options": ["الثَّالِثَةِ", "الأُولَى", "السَّادِسَةِ"], "lang": "ar" },
+        { "q": "choice", "k": "baca-tarikh-tasiah", "instruction": "Benar atau salah? \"Pelajaran sejarah di jam kesembilan.\"", "prompt": { "ar": "دَرْسُ التَّارِيخِ فِي الحِصَّةِ التَّاسِعَةِ." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-maktabah-baidah", "instruction": "Benar atau salah? \"Perpustakaan jauh dari kelas Siti.\"", "prompt": { "ar": "المَكْتَبَةُ بَعِيدَةٌ عَنْ فَصْلِ سِيتِي." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-asyirah", "instruction": "Menurut bacaan 1, di mana Siti pada jam kesepuluh?", "prompt": { "ar": "الحِصَّةُ العاشِرَةُ", "emoji": "🔟" }, "answer": "Di perpustakaan", "options": ["Di perpustakaan", "Di kelas IPA", "Di masjid"], "lang": "id" },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Pengumuman ujian",
+          "img": "u7-pengumuman",
+          "scene": "A classroom notice board with a pinned paper (no readable text) and a pen hanging beside it; Budi and Rizki reading it with surprised faces, Ustazah Zainab walking away with her clipboard.",
+          "instruction_id": "Pengumuman ujian tengah semester di papan kelas.",
+          "rows": [
+            { "ar": "إِعْلانٌ مِنَ الأُسْتاذَةِ زَيْنَبَ", "id": "Pengumuman dari Ustazah Zainab", "emoji": "📢" },
+            { "ar": "الاِمْتِحانُ بَعْدَ أُسْبُوعٍ، يَوْمَ السَّبْتِ.", "id": "Ujian seminggu lagi, hari Sabtu." },
+            { "ar": "اِمْتِحانُ النَّحْوِ فِي الحِصَّةِ الأُولَى.", "id": "Ujian nahwu di jam pertama." },
+            { "ar": "اِمْتِحانُ الرِّياضِيّاتِ فِي الحِصَّةِ الثَّانِيَةِ.", "id": "Ujian matematika di jam kedua." },
+            { "ar": "الاِمْتِحانُ فِي الفَصْلِ، لا فِي المَكْتَبَةِ.", "id": "Ujiannya di kelas, bukan di perpustakaan." },
+            { "ar": "لا تَنْسَ القَلَمَ!", "id": "Jangan lupa pulpen!", "emoji": "🖊️" }
+          ]
+        },
+        { "q": "choice", "k": "baca-imtihan-yaum", "instruction": "Menurut pengumuman, hari apa ujiannya?", "prompt": { "ar": "الاِمْتِحانُ يَوْمَ …", "emoji": "📅" }, "answer": "Sabtu", "options": ["Sabtu", "Senin", "Jumat"], "lang": "id" },
+        { "q": "choice", "k": "baca-imtihan-riyadiyyat", "instruction": "Benar atau salah? \"Ujian matematika di jam pertama.\"", "prompt": { "ar": "اِمْتِحانُ الرِّياضِيّاتِ فِي الحِصَّةِ الأُولَى." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-imtihan-makan", "instruction": "Di mana ujiannya?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Di kelas", "options": ["Di kelas", "Di perpustakaan", "Di asrama"], "lang": "id" },
+        { "q": "choice", "k": "baca-la-tansa", "instruction": "Apa yang tidak boleh dilupakan?", "prompt": { "ar": "لا تَنْسَ …" }, "answer": "Pulpen", "options": ["Pulpen", "Buku fikih", "Jadwal"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-baca-nahw-ula", "instruction": "Benar atau salah? \"Pelajaran nahwu di jam pertama.\"", "prompt": { "ar": "دَرْسُ النَّحْوِ فِي الحِصَّةِ الأُولَى." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-ulum", "instruction": "Menurut bacaan 1, pelajaran apa di jam keenam?", "prompt": { "ar": "الحِصَّةُ السَّادِسَةُ" }, "answer": "IPA", "options": ["IPA", "Sejarah", "Nahwu"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-ilan", "instruction": "Siapa yang menulis pengumuman?", "prompt": { "id": "Menurut bacaan 2", "emoji": "📢" }, "answer": "Ustazah Zainab", "options": ["Ustazah Zainab", "Ustaz Mahmud", "Siti"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-imtihan-mata", "instruction": "Benar atau salah? \"Ujiannya satu bulan lagi.\"", "prompt": { "ar": "الاِمْتِحانُ بَعْدَ شَهْرٍ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis dengan harakat",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Kata berharakat",
+          "instruction_id": "Perhatikan harakat setiap huruf, lalu telusuri katanya.",
+          "rows": [
+            { "ar": "جَدْوَلٌ", "id": "jadwal" },
+            { "ar": "دَفْتَرٌ", "id": "buku tulis" },
+            { "ar": "قَلَمٌ", "id": "pena" },
+            { "ar": "كِتابٌ", "id": "buku" },
+            { "ar": "دَرَسْتُ", "id": "saya belajar" }
+          ]
+        },
+        { "q": "choice", "k": "harakat-kitab", "instruction": "Mana harakat yang benar untuk \"buku\"?", "prompt": { "id": "buku (kitab)", "emoji": "📕" }, "answer": "كِتابٌ", "options": ["كِتابٌ", "كَتابٌ", "كُتابٌ"], "lang": "ar" },
+        { "q": "choice", "k": "harakat-qalam", "instruction": "Mana harakat yang benar untuk \"pena\"?", "prompt": { "id": "pena (kalam)", "emoji": "🖊️" }, "answer": "قَلَمٌ", "options": ["قَلَمٌ", "قَلْمٌ", "قُلُمٌ"], "lang": "ar" },
+        { "q": "choice", "k": "akhir-qaratu", "instruction": "\"Saya membaca\" ditulis …", "prompt": { "id": "saya (sudah) membaca", "emoji": "🙋" }, "answer": "قَرَأْتُ", "options": ["قَرَأْتُ", "قَرَأْتَ", "قَرَأْتِ"], "lang": "ar" },
+        { "q": "choice", "k": "huruf-hilang-jadwal", "instruction": "Huruf apa yang hilang dalam kata \"jadwal\"?", "prompt": { "id": "ج – د – ? – ل", "emoji": "🗓️" }, "answer": "و", "options": ["و", "ذ", "ز"], "lang": "ar" },
+        { "q": "arrange", "k": "eja-daftar", "instruction": "Susun hurufnya", "prompt": { "id": "دَفْتَرٌ (buku tulis)" }, "answer": "د ف ت ر", "extra": ["ذ"] },
+        { "q": "arrange", "k": "eja-jadwal", "instruction": "Susun hurufnya", "prompt": { "id": "جَدْوَلٌ (jadwal)" }, "answer": "ج د و ل", "extra": ["ز"] },
+        {
+          "card": "writing",
+          "section": "Salin kalimat",
+          "instruction_id": "Salin kalimat berharakat ini. Perhatikan kasrah di akhir اِفْتَحِ.",
+          "rows": [
+            { "ar": "اِفْتَحِ الكِتابَ.", "id": "Bukalah buku itu! (lk)" },
+            { "ar": "دَرَسْتُ الفِقْهَ.", "id": "Saya belajar fikih." }
+          ]
+        },
+        { "q": "choice", "k": "alasan-kasrah", "instruction": "Mengapa اِفْتَحْ menjadi اِفْتَحِ dalam اِفْتَحِ الكِتابَ?", "prompt": { "ar": "اِفْتَحِ الكِتابَ" }, "answer": "Karena disambung dengan kata ber-الـ", "options": ["Karena disambung dengan kata ber-الـ", "Karena untuk perempuan", "Karena kalimat tanya"], "lang": "id" },
+        { "q": "arrange", "k": "salin-iftah", "prompt": { "id": "Bukalah buku itu! (lk)" }, "answer": "اِفْتَحِ الكِتابَ", "extra": ["اِفْتَحْ"] },
+        { "q": "arrange", "k": "salin-darastu-fiqh", "prompt": { "id": "Saya belajar fikih di kelas." }, "answer": "دَرَسْتُ الفِقْهَ فِي الفَصْلِ", "extra": ["دَرَسَ"] }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-harakat-daftar", "instruction": "Mana harakat yang benar untuk \"buku tulis\"?", "prompt": { "id": "buku tulis (daftar)", "emoji": "📓" }, "answer": "دَفْتَرٌ", "options": ["دَفْتَرٌ", "دُفْتُرٌ", "دِفْتِرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-akhir-darasta", "instruction": "\"Kamu belajar (lk)\" ditulis …", "prompt": { "id": "kamu (sudah) belajar (lk)", "emoji": "👦" }, "answer": "دَرَسْتَ", "options": ["دَرَسْتَ", "دَرَسْتُ", "دَرَسْتِ"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-eja-qalam", "instruction": "Susun hurufnya", "prompt": { "id": "قَلَمٌ (pena)" }, "answer": "ق ل م", "extra": ["ك"] },
+        { "q": "arrange", "k": "lat-salin-qaratu", "prompt": { "id": "Saya membaca buku itu." }, "answer": "قَرَأْتُ الكِتابَ", "extra": ["قَرَأْتِ"] }
+      ]
+    }
+  ]
+}

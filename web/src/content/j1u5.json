@@ -1,0 +1,4555 @@
+{
+ "id": "j1u5",
+ "book": "1a",
+ "number": 5,
+ "title_ar": "الطَّعامُ وَالشَّرابُ",
+ "title_id": "Makanan dan minuman",
+ "lessons": [
+  {
+   "id": "j1u5-d1",
+   "dars": 1,
+   "title_id": "Malam di angkringan",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "أَنا جائِعٌ يا بُودِي.",
+        "id": "Aku lapar, Budi.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/9702288ec7052171.mp3"
+        }
+       },
+       {
+        "ar": "وَأَنا جائِعٌ وَعَطْشانُ.",
+        "id": "Aku juga lapar dan haus.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/bd4ebdf7d0a8e42e.mp3"
+        }
+       },
+       {
+        "ar": "ماذا تَأْكُلُ؟",
+        "id": "Kamu makan apa? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/e75d66f676624a08.mp3"
+        }
+       },
+       {
+        "ar": "آكُلُ أَرُزًّا وَسَمَكًا.",
+        "id": "Aku makan nasi dan ikan.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/627439cfee56a3c6.mp3"
+        }
+       },
+       {
+        "ar": "وَماذا تَشْرَبُ؟",
+        "id": "Kamu minum apa? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/00ef7bfe9c297a45.mp3"
+        }
+       },
+       {
+        "ar": "أَشْرَبُ قَهْوَةً.",
+        "id": "Aku minum kopi.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/5a8e223066fcce48.mp3"
+        }
+       },
+       {
+        "ar": "لا تَشْرَبْ قَهْوَةً فِي المَساءِ!",
+        "id": "Jangan minum kopi malam-malam! (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/b413c4f745e9b2d4.mp3"
+        }
+       },
+       {
+        "ar": "حَسَنًا، أَشْرَبُ شايًا حُلْوًا.",
+        "id": "Baiklah, aku minum teh manis.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/7d077e384bf2a632.mp3"
+        }
+       },
+       {
+        "ar": "ما أَطْيَبَ هٰذا الشّايَ!",
+        "id": "Enak sekali teh ini!",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/0d18d5f9c4307455.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u5-angkringan.webp"
+      ],
+      "instruction_id": "Malam hari di angkringan dekat ma'had. Rizki dan Budi lapar dan memesan nasi kucing."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "جائِعٌ",
+        "id": "lapar (lk)",
+        "emoji": "🤤",
+        "audio": {
+         "src": "/audio/o/89397ed6dad6320d.mp3"
+        }
+       },
+       {
+        "ar": "عَطْشانُ",
+        "id": "haus (lk)",
+        "emoji": "🥵",
+        "audio": {
+         "src": "/audio/o/3068b90120864fc5.mp3"
+        }
+       },
+       {
+        "ar": "آكُلُ · تَأْكُلُ",
+        "id": "aku makan · kamu makan (lk)",
+        "emoji": "🍽️",
+        "audio": {
+         "src": "/audio/o/b5dd0d936b57e6ec.mp3"
+        }
+       },
+       {
+        "ar": "أَشْرَبُ · تَشْرَبُ",
+        "id": "aku minum · kamu minum (lk)",
+        "emoji": "🥤",
+        "audio": {
+         "src": "/audio/o/5a1392c23cd9b00d.mp3"
+        }
+       },
+       {
+        "ar": "أَرُزٌّ",
+        "id": "nasi",
+        "emoji": "🍚",
+        "audio": {
+         "src": "/audio/o/90d367dd15f500d5.mp3"
+        }
+       },
+       {
+        "ar": "سَمَكٌ",
+        "id": "ikan",
+        "emoji": "🐟",
+        "audio": {
+         "src": "/audio/o/b43e6dd9a389ce26.mp3"
+        }
+       },
+       {
+        "ar": "قَهْوَةٌ",
+        "id": "kopi · ★ kahwa",
+        "emoji": "☕",
+        "audio": {
+         "src": "/audio/o/5f8d530e7e33f09c.mp3"
+        }
+       },
+       {
+        "ar": "شايٌ حُلْوٌ",
+        "id": "teh manis",
+        "emoji": "🍵",
+        "audio": {
+         "src": "/audio/o/55359663f7fffe50.mp3"
+        }
+       },
+       {
+        "ar": "حَسَنًا",
+        "id": "baiklah",
+        "emoji": "👌",
+        "audio": {
+         "src": "/audio/o/583969937346402f.mp3"
+        }
+       },
+       {
+        "ar": "ما أَطْيَبَ …!",
+        "id": "enak sekali …!",
+        "emoji": "😋",
+        "audio": {
+         "src": "/audio/o/9a087e38c3c1ff33.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d1-madza-takulu-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "ماذا تَأْكُلُ؟",
+       "audio": {
+        "src": "/audio/o/0a984cd8063a4b9d.mp3"
+       }
+      },
+      "answer": "Kamu makan apa? (lk)",
+      "options": [
+       "Kamu makan apa? (lk)",
+       "Kamu minum apa? (lk)",
+       "Aku lapar."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d1-balas-madza-tasyrabu",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "وَماذا تَشْرَبُ؟",
+       "audio": {
+        "src": "/audio/o/1a5c288424b9720b.mp3"
+       }
+      },
+      "answer": "أَشْرَبُ شايًا حُلْوًا.",
+      "options": [
+       "أَشْرَبُ شايًا حُلْوًا.",
+       "آكُلُ أَرُزًّا وَسَمَكًا.",
+       "أَنا جائِعٌ يا بُودِي."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَشْرَبُ شايًا حُلْوًا.": {
+        "src": "/audio/o/cd3f0f73aece5332.mp3"
+       },
+       "آكُلُ أَرُزًّا وَسَمَكًا.": {
+        "src": "/audio/o/cb2ed22aded8b43e.mp3"
+       },
+       "أَنا جائِعٌ يا بُودِي.": {
+        "src": "/audio/o/4566addb0ecd3b85.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d1-dengar-la-tasyrab",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "لا تَشْرَبْ قَهْوَةً فِي المَساءِ!",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/1e2fa0b3a29b10b3.mp3"
+       }
+      },
+      "answer": "Jangan minum kopi malam-malam! (lk)",
+      "options": [
+       "Jangan minum kopi malam-malam! (lk)",
+       "Aku tidak minum kopi malam-malam.",
+       "Apakah kamu minum kopi malam-malam? (lk)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d1-budi-akhirnya-minum",
+      "instruction": "Menurut dialog, akhirnya Budi minum apa?",
+      "prompt": {
+       "id": "بُودِي يَشْرَبُ …",
+       "emoji": "🥤"
+      },
+      "answer": "Teh manis",
+      "options": [
+       "Teh manis",
+       "Kopi",
+       "Air putih"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d1-susun-ana-jai-budi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Aku lapar. (lk)"
+      },
+      "answer": "أَنا جائِعٌ",
+      "tokens": [
+       "أَنا",
+       "جائِعٌ",
+       "عَطْشانُ"
+      ],
+      "audioMap": {
+       "أَنا": {
+        "src": "/audio/o/9eee807a139555c1.mp3"
+       },
+       "جائِعٌ": {
+        "src": "/audio/o/89397ed6dad6320d.mp3"
+       },
+       "عَطْشانُ": {
+        "src": "/audio/o/3068b90120864fc5.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d1-susun-asyrabu-syai-hulw",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Aku minum teh manis."
+      },
+      "answer": "أَشْرَبُ شايًا حُلْوًا",
+      "tokens": [
+       "أَشْرَبُ",
+       "شايًا",
+       "حُلْوًا",
+       "آكُلُ"
+      ],
+      "audioMap": {
+       "أَشْرَبُ": {
+        "src": "/audio/o/321e6b974f410f71.mp3"
+       },
+       "شايًا": {
+        "src": "/audio/o/f577359bc0e0f13b.mp3"
+       },
+       "حُلْوًا": {
+        "src": "/audio/o/457dde9c32a82769.mp3"
+       },
+       "آكُلُ": {
+        "src": "/audio/o/12cedecac4dffcc4.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d1-atsyan-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "عَطْشانُ",
+       "audio": {
+        "src": "/audio/o/3068b90120864fc5.mp3"
+       }
+      },
+      "answer": "haus (lk)",
+      "options": [
+       "haus (lk)",
+       "lapar (lk)",
+       "manis"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u5-d1-ucap-ana-jai",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَنا جائِعٌ.",
+       "id": "Aku lapar. (lk)",
+       "audio": {
+        "src": "/audio/o/7f81a85cbe1267d1.mp3"
+       }
+      },
+      "target": "أَنا جائِعٌ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u5-d1-lat-qahwah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "قَهْوَةٌ",
+      "audio": {
+       "src": "/audio/o/5f8d530e7e33f09c.mp3"
+      }
+     },
+     "answer": "kopi",
+     "options": [
+      "kopi",
+      "teh",
+      "nasi"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d1-lat-dengar-atyab-syai",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "ما أَطْيَبَ هٰذا الشّايَ!",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/eca04124742decd1.mp3"
+      }
+     },
+     "answer": "ما أَطْيَبَ هٰذا الشّايَ!",
+     "options": [
+      "ما أَطْيَبَ هٰذا الشّايَ!",
+      "لا تَشْرَبْ قَهْوَةً!",
+      "أَشْرَبُ شايًا حُلْوًا."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ما أَطْيَبَ هٰذا الشّايَ!": {
+       "src": "/audio/o/eca04124742decd1.mp3"
+      },
+      "لا تَشْرَبْ قَهْوَةً!": {
+       "src": "/audio/o/673213f1c7fdc807.mp3"
+      },
+      "أَشْرَبُ شايًا حُلْوًا.": {
+       "src": "/audio/o/cd3f0f73aece5332.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u5-d1-lat-susun-madza-takul",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kamu makan apa? (lk)"
+     },
+     "answer": "ماذا تَأْكُلُ",
+     "tokens": [
+      "ماذا",
+      "تَأْكُلُ",
+      "تَشْرَبُ"
+     ],
+     "audioMap": {
+      "ماذا": {
+       "src": "/audio/o/44ee50a006bc44b5.mp3"
+      },
+      "تَأْكُلُ": {
+       "src": "/audio/o/6957a4b4e56ee525.mp3"
+      },
+      "تَشْرَبُ": {
+       "src": "/audio/o/44a167f070cea97c.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d1-lat-budi-makan",
+     "instruction": "Menurut dialog, Budi makan apa?",
+     "prompt": {
+      "id": "بُودِي يَأْكُلُ …",
+      "emoji": "🍚"
+     },
+     "answer": "Nasi dan ikan",
+     "options": [
+      "Nasi dan ikan",
+      "Nasi dan ayam",
+      "Roti dan pisang"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d1-lat-hasanan-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "حَسَنًا",
+      "audio": {
+       "src": "/audio/o/583969937346402f.mp3"
+      }
+     },
+     "answer": "baiklah",
+     "options": [
+      "baiklah",
+      "enak sekali",
+      "jangan"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u5-d2",
+   "dars": 2,
+   "title_id": "Nasi lemak dan nasi uduk",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "صَباحَ الخَيْرِ يا عائِشَةُ. هَلْ أَنْتِ جائِعَةٌ؟",
+        "id": "Selamat pagi, Aisyah. Apakah kamu lapar? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/e89aab4f85a6b5d1.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، أَنا جائِعَةٌ.",
+        "id": "Ya, aku lapar. (pr)",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/94e9b8ca6fe4d5a1.mp3"
+        }
+       },
+       {
+        "ar": "ماذا تَأْكُلِينَ فِي الفَطُورِ؟",
+        "id": "Kamu makan apa waktu sarapan? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/41d0cdf811d465c2.mp3"
+        }
+       },
+       {
+        "ar": "فِي مالِيزِيا، آكُلُ ناسِي لَمَقْ.",
+        "id": "Di Malaysia, aku makan nasi lemak.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/d91c745a93220404.mp3"
+        }
+       },
+       {
+        "ar": "عِنْدَنا ناسِي أُودُوقْ، هُوَ مِثْلُ ناسِي لَمَقْ.",
+        "id": "Di sini kami punya nasi uduk, mirip nasi lemak.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/8c143a1ca0e2cd29.mp3"
+        }
+       },
+       {
+        "ar": "ما أَطْيَبَ هٰذا الأَرُزَّ!",
+        "id": "Enak sekali nasi ini!",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/fd8f852eeb428141.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ تَشْرَبِينَ قَهْوَةً؟",
+        "id": "Apakah kamu minum kopi? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/e4f0b9b3306718d4.mp3"
+        }
+       },
+       {
+        "ar": "لا، لا أَشْرَبُ قَهْوَةً. أَشْرَبُ ماءً.",
+        "id": "Tidak, aku tidak minum kopi. Aku minum air.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/712322f3df2f52b3.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u5-nasi-uduk.webp"
+      ],
+      "instruction_id": "Pagi hari di warung dekat asrama putri. Siti membelikan Aisyah sepiring nasi uduk."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "جائِعَةٌ",
+        "id": "lapar (pr)",
+        "emoji": "🤤",
+        "audio": {
+         "src": "/audio/o/cb21fc7f4bc73909.mp3"
+        }
+       },
+       {
+        "ar": "تَأْكُلِينَ",
+        "id": "kamu makan (pr)",
+        "emoji": "🍽️",
+        "audio": {
+         "src": "/audio/o/b3a030fe661e3e26.mp3"
+        }
+       },
+       {
+        "ar": "تَشْرَبِينَ",
+        "id": "kamu minum (pr)",
+        "emoji": "🥤",
+        "audio": {
+         "src": "/audio/o/67f95925dcbaf3ca.mp3"
+        }
+       },
+       {
+        "ar": "فَطُورٌ",
+        "id": "sarapan",
+        "emoji": "🌅",
+        "audio": {
+         "src": "/audio/o/8ae4257722d09eae.mp3"
+        }
+       },
+       {
+        "ar": "عِنْدَنا",
+        "id": "kami punya / di tempat kami",
+        "emoji": "🏠",
+        "audio": {
+         "src": "/audio/o/b7f9ef803a6f7651.mp3"
+        }
+       },
+       {
+        "ar": "مِثْلُ",
+        "id": "seperti, mirip",
+        "emoji": "🟰",
+        "audio": {
+         "src": "/audio/o/8969d9a83e09f56f.mp3"
+        }
+       },
+       {
+        "ar": "ناسِي لَمَقْ",
+        "id": "nasi lemak (makanan Malaysia)",
+        "emoji": "🍛",
+        "audio": {
+         "src": "/audio/o/691e40edfe00c01d.mp3"
+        }
+       },
+       {
+        "ar": "ناسِي أُودُوقْ",
+        "id": "nasi uduk",
+        "emoji": "🍛",
+        "audio": {
+         "src": "/audio/o/9e742538d44dbca5.mp3"
+        }
+       },
+       {
+        "ar": "ماءٌ",
+        "id": "air",
+        "emoji": "💧",
+        "audio": {
+         "src": "/audio/o/3c2eab7e6416236e.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d2-takulina-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "ماذا تَأْكُلِينَ؟",
+       "audio": {
+        "src": "/audio/o/24ba09753fc8147f.mp3"
+       }
+      },
+      "answer": "Kamu makan apa? (pr)",
+      "options": [
+       "Kamu makan apa? (pr)",
+       "Kamu makan apa? (lk)",
+       "Kamu minum apa? (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d2-tanya-minum-aisyah",
+      "instruction": "Kamu bertanya kepada Aisyah: \"Kamu minum apa?\" Pilih kalimatnya",
+      "prompt": {
+       "id": "Kamu minum apa? (pr)",
+       "emoji": "👩"
+      },
+      "answer": "ماذا تَشْرَبِينَ؟",
+      "options": [
+       "ماذا تَشْرَبِينَ؟",
+       "ماذا تَشْرَبُ؟",
+       "ماذا تَأْكُلِينَ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ماذا تَشْرَبِينَ؟": {
+        "src": "/audio/o/aa069cd53ad16f5e.mp3"
+       },
+       "ماذا تَشْرَبُ؟": {
+        "src": "/audio/o/0a717bf4bb295b58.mp3"
+       },
+       "ماذا تَأْكُلِينَ؟": {
+        "src": "/audio/o/24ba09753fc8147f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d2-dengar-indana-uduk",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "عِنْدَنا ناسِي أُودُوقْ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a6918d97a138557b.mp3"
+       }
+      },
+      "answer": "Kami punya nasi uduk.",
+      "options": [
+       "Kami punya nasi uduk.",
+       "Aku makan nasi lemak.",
+       "Nasi uduk mirip nasi goreng."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d2-aisyah-sarapan-malaysia",
+      "instruction": "Menurut dialog, apa sarapan Aisyah di Malaysia?",
+      "prompt": {
+       "id": "فِي مالِيزِيا، عائِشَةُ تَأْكُلُ …",
+       "emoji": "🍛"
+      },
+      "answer": "Nasi lemak",
+      "options": [
+       "Nasi lemak",
+       "Nasi uduk",
+       "Roti"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d2-balas-hal-tasyrabina",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "هَلْ تَشْرَبِينَ قَهْوَةً؟",
+       "audio": {
+        "src": "/audio/o/3589b28531eccf32.mp3"
+       }
+      },
+      "answer": "لا، لا أَشْرَبُ قَهْوَةً.",
+      "options": [
+       "لا، لا أَشْرَبُ قَهْوَةً.",
+       "لا، لا تَشْرَبِي قَهْوَةً.",
+       "نَعَمْ، لا أَشْرَبُ قَهْوَةً."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا، لا أَشْرَبُ قَهْوَةً.": {
+        "src": "/audio/o/7cddd2c5b674d849.mp3"
+       },
+       "لا، لا تَشْرَبِي قَهْوَةً.": {
+        "src": "/audio/o/d0e5eab1f258df40.mp3"
+       },
+       "نَعَمْ، لا أَشْرَبُ قَهْوَةً.": {
+        "src": "/audio/o/b387a370efd79a89.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d2-susun-hal-anti-jaiah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Apakah kamu lapar? (pr)"
+      },
+      "answer": "هَلْ أَنْتِ جائِعَةٌ",
+      "tokens": [
+       "هَلْ",
+       "أَنْتِ",
+       "جائِعَةٌ",
+       "جائِعٌ"
+      ],
+      "audioMap": {
+       "هَلْ": {
+        "src": "/audio/o/88964434a18c7513.mp3"
+       },
+       "أَنْتِ": {
+        "src": "/audio/o/99f73814b1c1b566.mp3"
+       },
+       "جائِعَةٌ": {
+        "src": "/audio/o/cb21fc7f4bc73909.mp3"
+       },
+       "جائِعٌ": {
+        "src": "/audio/o/89397ed6dad6320d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d2-susun-indana-uduk",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kami punya nasi uduk."
+      },
+      "answer": "عِنْدَنا ناسِي أُودُوقْ",
+      "tokens": [
+       "عِنْدَنا",
+       "ناسِي",
+       "أُودُوقْ",
+       "عِنْدِي"
+      ],
+      "audioMap": {
+       "عِنْدَنا": {
+        "src": "/audio/o/b7f9ef803a6f7651.mp3"
+       },
+       "ناسِي": {
+        "src": "/audio/o/e2a7ad662e2d66c6.mp3"
+       },
+       "أُودُوقْ": {
+        "src": "/audio/o/2f231cb60802cb2a.mp3"
+       },
+       "عِنْدِي": {
+        "src": "/audio/o/6c11f3803db2c85a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u5-d2-ucap-atyab-aruz",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "ما أَطْيَبَ هٰذا الأَرُزَّ!",
+       "id": "Enak sekali nasi ini!",
+       "audio": {
+        "src": "/audio/o/fd8f852eeb428141.mp3"
+       }
+      },
+      "target": "ما أَطْيَبَ هٰذا الأَرُزَّ!"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u5-d2-lat-futur-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "فَطُورٌ",
+      "audio": {
+       "src": "/audio/o/8ae4257722d09eae.mp3"
+      }
+     },
+     "answer": "sarapan",
+     "options": [
+      "sarapan",
+      "makan malam",
+      "rumah makan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d2-lat-dengar-tasyrabina",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "هَلْ تَشْرَبِينَ قَهْوَةً؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/3589b28531eccf32.mp3"
+      }
+     },
+     "answer": "هَلْ تَشْرَبِينَ قَهْوَةً؟",
+     "options": [
+      "هَلْ تَشْرَبِينَ قَهْوَةً؟",
+      "هَلْ تَشْرَبُ قَهْوَةً؟",
+      "لا تَشْرَبِي قَهْوَةً."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "هَلْ تَشْرَبِينَ قَهْوَةً؟": {
+       "src": "/audio/o/3589b28531eccf32.mp3"
+      },
+      "هَلْ تَشْرَبُ قَهْوَةً؟": {
+       "src": "/audio/o/750fd7ebf4c4a4ff.mp3"
+      },
+      "لا تَشْرَبِي قَهْوَةً.": {
+       "src": "/audio/o/7d608651808efa0e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d2-lat-mitslu-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مِثْلُ",
+      "audio": {
+       "src": "/audio/o/8969d9a83e09f56f.mp3"
+      }
+     },
+     "answer": "seperti, mirip",
+     "options": [
+      "seperti, mirip",
+      "kami punya",
+      "enak sekali"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d2-lat-aisyah-minum",
+     "instruction": "Menurut dialog, Aisyah minum apa?",
+     "prompt": {
+      "id": "عائِشَةُ تَشْرَبُ …",
+      "emoji": "🥤"
+     },
+     "answer": "Air",
+     "options": [
+      "Air",
+      "Kopi",
+      "Teh manis"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u5-d2-lat-susun-asyrabu-maan",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Aku minum air."
+     },
+     "answer": "أَشْرَبُ ماءً",
+     "tokens": [
+      "أَشْرَبُ",
+      "ماءً",
+      "تَشْرَبِينَ"
+     ],
+     "audioMap": {
+      "أَشْرَبُ": {
+       "src": "/audio/o/321e6b974f410f71.mp3"
+      },
+      "ماءً": {
+       "src": "/audio/o/e90ec56ca5789151.mp3"
+      },
+      "تَشْرَبِينَ": {
+       "src": "/audio/o/67f95925dcbaf3ca.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u5-d3",
+   "dars": 3,
+   "title_id": "Rendang buatan Ibu",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "هٰذا عَشاؤُنا.",
+        "id": "Ini makan malam kita.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/fcbfa70636e3adfb.mp3"
+        }
+       },
+       {
+        "ar": "ما هٰذا يا أُمِّي؟",
+        "id": "Ini apa, Bu?",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/f22e2b571682d105.mp3"
+        }
+       },
+       {
+        "ar": "هٰذا رَنْدانْغ، طَعامٌ مِنْ لَحْمٍ.",
+        "id": "Ini rendang, makanan dari daging.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/00fa488a6fc8be78.mp3"
+        }
+       },
+       {
+        "ar": "أُرِيدُ أَرُزًّا وَرَنْدانْغ!",
+        "id": "Aku mau nasi dan rendang!",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/f75601e61062ef0c.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ تَأْكُلِينَ مَعَنا يا فاطِمَةُ؟",
+        "id": "Kamu ikut makan bersama kami, Fatimah? (pr)",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/b359f758348dd56f.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، آكُلُ مَعَكُمْ.",
+        "id": "Ya, aku makan bersama kalian.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/f9fed7cfe2a7fe76.mp3"
+        }
+       },
+       {
+        "ar": "ما أَطْيَبَ هٰذا اللَّحْمَ!",
+        "id": "Enak sekali daging ini!",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/a399c874af70b048.mp3"
+        }
+       },
+       {
+        "ar": "يا أَحْمَدُ، لا تَأْكُلْ لَحْمًا كَثِيرًا!",
+        "id": "Ahmad, jangan makan daging banyak-banyak! (lk)",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/106b614ce2bd277e.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ يا طَبِيبَتِي!",
+        "id": "Siap, dokterku!",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/4849f8c98a71e30d.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u5-rendang.webp"
+      ],
+      "instruction_id": "Makan malam keluarga Ahmad di Bandung. Bu Fatimah memasak rendang."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "عَشاءٌ",
+        "id": "makan malam",
+        "emoji": "🌙",
+        "audio": {
+         "src": "/audio/o/c5c3f4a9cb81a85d.mp3"
+        }
+       },
+       {
+        "ar": "عَشاؤُنا",
+        "id": "makan malam kita",
+        "emoji": "🍽️",
+        "audio": {
+         "src": "/audio/o/5d24c0f041e10746.mp3"
+        }
+       },
+       {
+        "ar": "ما هٰذا؟",
+        "id": "ini apa?",
+        "emoji": "❓",
+        "audio": {
+         "src": "/audio/o/2c4dd7f301b8318e.mp3"
+        }
+       },
+       {
+        "ar": "رَنْدانْغ",
+        "id": "rendang",
+        "emoji": "🍖",
+        "audio": {
+         "src": "/audio/o/832d019930255d10.mp3"
+        }
+       },
+       {
+        "ar": "طَعامٌ",
+        "id": "makanan",
+        "emoji": "🍲",
+        "audio": {
+         "src": "/audio/o/3ba72fc83e5475ff.mp3"
+        }
+       },
+       {
+        "ar": "لَحْمٌ",
+        "id": "daging",
+        "emoji": "🥩",
+        "audio": {
+         "src": "/audio/o/005f1a2623f10b31.mp3"
+        }
+       },
+       {
+        "ar": "مَعَنا",
+        "id": "bersama kami / kita",
+        "emoji": "👨‍👩‍👧",
+        "audio": {
+         "src": "/audio/o/8e0a99e59fa4f368.mp3"
+        }
+       },
+       {
+        "ar": "كَثِيرًا",
+        "id": "banyak",
+        "emoji": "➕",
+        "audio": {
+         "src": "/audio/o/9b00e061eca83315.mp3"
+        }
+       },
+       {
+        "ar": "لا تَأْكُلْ",
+        "id": "jangan makan (lk)",
+        "emoji": "🚫",
+        "audio": {
+         "src": "/audio/o/c628fb4c70cb11dd.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d3-la-takul-lahm-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "لا تَأْكُلْ لَحْمًا كَثِيرًا!",
+       "audio": {
+        "src": "/audio/o/8bebd2a994f8a947.mp3"
+       }
+      },
+      "answer": "Jangan makan daging banyak-banyak! (lk)",
+      "options": [
+       "Jangan makan daging banyak-banyak! (lk)",
+       "Aku tidak makan daging banyak-banyak.",
+       "Jangan minum banyak-banyak! (lk)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d3-rendang-apa",
+      "instruction": "Menurut dialog, rendang itu apa?",
+      "prompt": {
+       "ar": "رَنْدانْغ",
+       "audio": {
+        "src": "/audio/o/832d019930255d10.mp3"
+       },
+       "emoji": "🍖"
+      },
+      "answer": "Makanan dari daging",
+      "options": [
+       "Makanan dari daging",
+       "Makanan dari ikan",
+       "Minuman manis"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d3-dengar-takulina-maana",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "هَلْ تَأْكُلِينَ مَعَنا يا فاطِمَةُ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/3908d3f697da12e6.mp3"
+       }
+      },
+      "answer": "Kamu ikut makan bersama kami, Fatimah? (pr)",
+      "options": [
+       "Kamu ikut makan bersama kami, Fatimah? (pr)",
+       "Kamu ikut minum bersama kami, Fatimah? (pr)",
+       "Kami makan bersama Fatimah."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d3-balas-ma-hadza",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "ما هٰذا يا أُمِّي؟",
+       "audio": {
+        "src": "/audio/o/eb6bb02809e89acc.mp3"
+       }
+      },
+      "answer": "هٰذا رَنْدانْغ.",
+      "options": [
+       "هٰذا رَنْدانْغ.",
+       "نَعَمْ، آكُلُ مَعَكُمْ.",
+       "لا تَأْكُلْ لَحْمًا كَثِيرًا!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هٰذا رَنْدانْغ.": {
+        "src": "/audio/o/861c23afccf4e5ad.mp3"
+       },
+       "نَعَمْ، آكُلُ مَعَكُمْ.": {
+        "src": "/audio/o/6bf7a48b7b9eacdf.mp3"
+       },
+       "لا تَأْكُلْ لَحْمًا كَثِيرًا!": {
+        "src": "/audio/o/8bebd2a994f8a947.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d3-larang-pak-ahmad",
+      "instruction": "Bu Fatimah melarang Pak Ahmad. Kalimat yang benar adalah …",
+      "prompt": {
+       "id": "Jangan makan daging banyak-banyak! (lk)",
+       "emoji": "🚫"
+      },
+      "answer": "لا تَأْكُلْ لَحْمًا كَثِيرًا!",
+      "options": [
+       "لا تَأْكُلْ لَحْمًا كَثِيرًا!",
+       "لا تَأْكُلِي لَحْمًا كَثِيرًا!",
+       "لا آكُلُ لَحْمًا كَثِيرًا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا تَأْكُلْ لَحْمًا كَثِيرًا!": {
+        "src": "/audio/o/8bebd2a994f8a947.mp3"
+       },
+       "لا تَأْكُلِي لَحْمًا كَثِيرًا!": {
+        "src": "/audio/o/19cbc1c48e6da5bb.mp3"
+       },
+       "لا آكُلُ لَحْمًا كَثِيرًا.": {
+        "src": "/audio/o/0e73c55cd6093549.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d3-susun-hadza-asyauna",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ini makan malam kita."
+      },
+      "answer": "هٰذا عَشاؤُنا",
+      "tokens": [
+       "هٰذا",
+       "عَشاؤُنا",
+       "عَشاءٌ"
+      ],
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "عَشاؤُنا": {
+        "src": "/audio/o/5d24c0f041e10746.mp3"
+       },
+       "عَشاءٌ": {
+        "src": "/audio/o/c5c3f4a9cb81a85d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d3-susun-atyab-lahm",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Enak sekali daging ini!"
+      },
+      "answer": "ما أَطْيَبَ هٰذا اللَّحْمَ",
+      "tokens": [
+       "ما",
+       "أَطْيَبَ",
+       "هٰذا",
+       "اللَّحْمَ",
+       "اللَّحْمُ"
+      ],
+      "audioMap": {
+       "ما": {
+        "src": "/audio/o/139f5e1cbdfbddfd.mp3"
+       },
+       "أَطْيَبَ": {
+        "src": "/audio/o/300583039a54cd0c.mp3"
+       },
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "اللَّحْمَ": {
+        "src": "/audio/o/40973acf8c502721.mp3"
+       },
+       "اللَّحْمُ": {
+        "src": "/audio/o/e34f8f5ee52b11b2.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u5-d3-ucap-la-takul",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "لا تَأْكُلْ كَثِيرًا!",
+       "id": "Jangan makan banyak-banyak! (lk)",
+       "audio": {
+        "src": "/audio/o/d1875eeb078e6d20.mp3"
+       }
+      },
+      "target": "لا تَأْكُلْ كَثِيرًا!"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u5-d3-lat-lahm-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "لَحْمٌ",
+      "audio": {
+       "src": "/audio/o/005f1a2623f10b31.mp3"
+      }
+     },
+     "answer": "daging",
+     "options": [
+      "daging",
+      "ikan",
+      "makanan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d3-lat-asya-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "عَشاءٌ",
+      "audio": {
+       "src": "/audio/o/c5c3f4a9cb81a85d.mp3"
+      }
+     },
+     "answer": "makan malam",
+     "options": [
+      "makan malam",
+      "sarapan",
+      "malam hari"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d3-lat-dengar-atyab-lahm",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "ما أَطْيَبَ هٰذا اللَّحْمَ!",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/d633ced3b48ccc5d.mp3"
+      }
+     },
+     "answer": "ما أَطْيَبَ هٰذا اللَّحْمَ!",
+     "options": [
+      "ما أَطْيَبَ هٰذا اللَّحْمَ!",
+      "ما أَطْيَبَ هٰذا الأَرُزَّ!",
+      "لا تَأْكُلْ لَحْمًا كَثِيرًا!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ما أَطْيَبَ هٰذا اللَّحْمَ!": {
+       "src": "/audio/o/d633ced3b48ccc5d.mp3"
+      },
+      "ما أَطْيَبَ هٰذا الأَرُزَّ!": {
+       "src": "/audio/o/c8763c7d503f7fa9.mp3"
+      },
+      "لا تَأْكُلْ لَحْمًا كَثِيرًا!": {
+       "src": "/audio/o/8bebd2a994f8a947.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d3-lat-jawab-pak-ahmad",
+     "instruction": "Menurut dialog, apa jawaban Pak Ahmad kepada Bu Fatimah?",
+     "prompt": {
+      "id": "Jawaban Pak Ahmad"
+     },
+     "answer": "نَعَمْ يا طَبِيبَتِي!",
+     "options": [
+      "نَعَمْ يا طَبِيبَتِي!",
+      "ما هٰذا يا أُمِّي؟",
+      "أُرِيدُ أَرُزًّا وَرَنْدانْغ!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "نَعَمْ يا طَبِيبَتِي!": {
+       "src": "/audio/o/6130c05a5d1f9f68.mp3"
+      },
+      "ما هٰذا يا أُمِّي؟": {
+       "src": "/audio/o/eb6bb02809e89acc.mp3"
+      },
+      "أُرِيدُ أَرُزًّا وَرَنْدانْغ!": {
+       "src": "/audio/o/cd90bccfa5006b7d.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u5-d3-lat-susun-takulina-maana",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kamu ikut makan bersama kami? (pr)"
+     },
+     "answer": "هَلْ تَأْكُلِينَ مَعَنا",
+     "tokens": [
+      "هَلْ",
+      "تَأْكُلِينَ",
+      "مَعَنا",
+      "تَأْكُلُ"
+     ],
+     "audioMap": {
+      "هَلْ": {
+       "src": "/audio/o/88964434a18c7513.mp3"
+      },
+      "تَأْكُلِينَ": {
+       "src": "/audio/o/b3a030fe661e3e26.mp3"
+      },
+      "مَعَنا": {
+       "src": "/audio/o/8e0a99e59fa4f368.mp3"
+      },
+      "تَأْكُلُ": {
+       "src": "/audio/o/6957a4b4e56ee525.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u5-d4",
+   "dars": 4,
+   "title_id": "Kosakata & bilangan tingkat",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "طَعامٌ",
+        "id": "makanan",
+        "emoji": "🍲",
+        "audio": {
+         "src": "/audio/o/3ba72fc83e5475ff.mp3"
+        }
+       },
+       {
+        "ar": "أَرُزٌّ",
+        "id": "nasi",
+        "emoji": "🍚",
+        "audio": {
+         "src": "/audio/o/90d367dd15f500d5.mp3"
+        }
+       },
+       {
+        "ar": "أَرُزٌّ مَقْلِيٌّ",
+        "id": "nasi goreng",
+        "emoji": "🍛",
+        "audio": {
+         "src": "/audio/o/8396910b50690b63.mp3"
+        }
+       },
+       {
+        "ar": "خُبْزٌ",
+        "id": "roti",
+        "emoji": "🍞",
+        "audio": {
+         "src": "/audio/o/f9e69c054e657c0b.mp3"
+        }
+       },
+       {
+        "ar": "دَجاجٌ",
+        "id": "ayam",
+        "emoji": "🍗",
+        "audio": {
+         "src": "/audio/o/0c26e315d7ada1c5.mp3"
+        }
+       },
+       {
+        "ar": "لَحْمٌ",
+        "id": "daging",
+        "emoji": "🥩",
+        "audio": {
+         "src": "/audio/o/005f1a2623f10b31.mp3"
+        }
+       },
+       {
+        "ar": "سَمَكٌ",
+        "id": "ikan",
+        "emoji": "🐟",
+        "audio": {
+         "src": "/audio/o/b43e6dd9a389ce26.mp3"
+        }
+       },
+       {
+        "ar": "مَوْزٌ",
+        "id": "pisang",
+        "emoji": "🍌",
+        "audio": {
+         "src": "/audio/o/25d12eeee496777e.mp3"
+        }
+       },
+       {
+        "ar": "شايٌ",
+        "id": "teh",
+        "emoji": "🍵",
+        "audio": {
+         "src": "/audio/o/969fd736e524ea62.mp3"
+        }
+       },
+       {
+        "ar": "قَهْوَةٌ",
+        "id": "kopi · ★ kahwa",
+        "emoji": "☕",
+        "audio": {
+         "src": "/audio/o/5f8d530e7e33f09c.mp3"
+        }
+       },
+       {
+        "ar": "ماءٌ",
+        "id": "air",
+        "emoji": "💧",
+        "audio": {
+         "src": "/audio/o/3c2eab7e6416236e.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Makanan dan minuman"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "فَطُورٌ",
+        "id": "sarapan",
+        "emoji": "🌅",
+        "audio": {
+         "src": "/audio/o/8ae4257722d09eae.mp3"
+        }
+       },
+       {
+        "ar": "غَداءٌ",
+        "id": "makan siang",
+        "emoji": "🕛",
+        "audio": {
+         "src": "/audio/o/841298b7a3280fd6.mp3"
+        }
+       },
+       {
+        "ar": "عَشاءٌ",
+        "id": "makan malam",
+        "emoji": "🌙",
+        "audio": {
+         "src": "/audio/o/c5c3f4a9cb81a85d.mp3"
+        }
+       },
+       {
+        "ar": "مَطْعَمٌ",
+        "id": "rumah makan, warung makan",
+        "emoji": "🏪",
+        "audio": {
+         "src": "/audio/o/5038f66353b49311.mp3"
+        }
+       },
+       {
+        "ar": "جائِعٌ · جائِعَةٌ",
+        "id": "lapar (lk · pr)",
+        "emoji": "🤤",
+        "audio": {
+         "src": "/audio/o/380cf48724308e59.mp3"
+        }
+       },
+       {
+        "ar": "حَلالٌ",
+        "id": "halal · ★ halal",
+        "emoji": "✅",
+        "audio": {
+         "src": "/audio/o/30ce222038725c68.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Waktu makan, tempat, dan keadaan"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "الأُولَى",
+        "id": "pertama (pr)",
+        "emoji": "1️⃣",
+        "audio": {
+         "src": "/audio/o/6ba23ecc1ff4a0d5.mp3"
+        }
+       },
+       {
+        "ar": "الثّانِيَةُ",
+        "id": "kedua (pr)",
+        "emoji": "2️⃣",
+        "audio": {
+         "src": "/audio/o/44253bfcb503da77.mp3"
+        }
+       },
+       {
+        "ar": "الثّالِثَةُ",
+        "id": "ketiga (pr)",
+        "emoji": "3️⃣",
+        "audio": {
+         "src": "/audio/o/304a79ad5e9b7cdd.mp3"
+        }
+       },
+       {
+        "ar": "الرّابِعَةُ",
+        "id": "keempat (pr)",
+        "emoji": "4️⃣",
+        "audio": {
+         "src": "/audio/o/746e8827c357d8ec.mp3"
+        }
+       },
+       {
+        "ar": "الخامِسَةُ",
+        "id": "kelima (pr)",
+        "emoji": "5️⃣",
+        "audio": {
+         "src": "/audio/o/f4fadcbd49357324.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bilangan tingkat 1–5 (pr)"
+      },
+      "note_id": "Bentuk ini dipakai untuk kata benda perempuan, misalnya الغُرْفَةُ الأُولَى (kamar pertama) dan السّاعَةُ الثّانِيَةُ (jam dua). Bentuk laki-lakinya sudah kamu pelajari di Unit 4: الأَوَّلُ، الثّانِي، الثّالِثُ …."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d4-gambar-roti",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🍞"
+      },
+      "answer": "خُبْزٌ",
+      "options": [
+       "خُبْزٌ",
+       "مَوْزٌ",
+       "سَمَكٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خُبْزٌ": {
+        "src": "/audio/o/f9e69c054e657c0b.mp3"
+       },
+       "مَوْزٌ": {
+        "src": "/audio/o/25d12eeee496777e.mp3"
+       },
+       "سَمَكٌ": {
+        "src": "/audio/o/b43e6dd9a389ce26.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d4-dengar-dajaj",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "دَجاجٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/0c26e315d7ada1c5.mp3"
+       }
+      },
+      "answer": "ayam",
+      "options": [
+       "ayam",
+       "daging",
+       "ikan"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d4-aruz-maqli-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "أَرُزٌّ مَقْلِيٌّ",
+       "audio": {
+        "src": "/audio/o/8396910b50690b63.mp3"
+       }
+      },
+      "answer": "nasi goreng",
+      "options": [
+       "nasi goreng",
+       "nasi",
+       "nasi uduk"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d4-makan-siang-ar",
+      "instruction": "Bahasa Arabnya \"makan siang\" adalah …",
+      "prompt": {
+       "id": "makan siang",
+       "emoji": "🕛"
+      },
+      "answer": "غَداءٌ",
+      "options": [
+       "غَداءٌ",
+       "عَشاءٌ",
+       "فَطُورٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غَداءٌ": {
+        "src": "/audio/o/841298b7a3280fd6.mp3"
+       },
+       "عَشاءٌ": {
+        "src": "/audio/o/c5c3f4a9cb81a85d.mp3"
+       },
+       "فَطُورٌ": {
+        "src": "/audio/o/8ae4257722d09eae.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d4-gambar-kopi",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "☕"
+      },
+      "answer": "قَهْوَةٌ",
+      "options": [
+       "قَهْوَةٌ",
+       "شايٌ",
+       "ماءٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَهْوَةٌ": {
+        "src": "/audio/o/5f8d530e7e33f09c.mp3"
+       },
+       "شايٌ": {
+        "src": "/audio/o/969fd736e524ea62.mp3"
+       },
+       "ماءٌ": {
+        "src": "/audio/o/3c2eab7e6416236e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d4-halal-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "حَلالٌ",
+       "audio": {
+        "src": "/audio/o/30ce222038725c68.mp3"
+       }
+      },
+      "answer": "halal (boleh menurut syariat)",
+      "options": [
+       "halal (boleh menurut syariat)",
+       "lapar",
+       "manis"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d4-kamar-ketiga",
+      "instruction": "Pilih yang benar",
+      "prompt": {
+       "id": "kamar ketiga",
+       "emoji": "🚪"
+      },
+      "answer": "الغُرْفَةُ الثّالِثَةُ",
+      "options": [
+       "الغُرْفَةُ الثّالِثَةُ",
+       "الغُرْفَةُ الثّالِثُ",
+       "الغُرْفَةُ الثّانِيَةُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "الغُرْفَةُ الثّالِثَةُ": {
+        "src": "/audio/o/596e45547148183b.mp3"
+       },
+       "الغُرْفَةُ الثّالِثُ": {
+        "src": "/audio/o/88ce109160459604.mp3"
+       },
+       "الغُرْفَةُ الثّانِيَةُ": {
+        "src": "/audio/o/fc226b7c5fab58cf.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d4-dengar-jam-lima",
+      "instruction": "Dengarkan. Jam berapa?",
+      "prompt": {
+       "tts": "السّاعَةُ الخامِسَةُ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/7a72ddbf217936ee.mp3"
+       }
+      },
+      "answer": "jam lima",
+      "options": [
+       "jam lima",
+       "jam empat",
+       "jam dua"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d4-matam-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "مَطْعَمٌ",
+       "audio": {
+        "src": "/audio/o/5038f66353b49311.mp3"
+       }
+      },
+      "answer": "rumah makan, warung makan",
+      "options": [
+       "rumah makan, warung makan",
+       "dapur",
+       "makanan"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u5-d4-lat-gambar-ikan",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "🐟"
+     },
+     "answer": "سَمَكٌ",
+     "options": [
+      "سَمَكٌ",
+      "لَحْمٌ",
+      "دَجاجٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سَمَكٌ": {
+       "src": "/audio/o/b43e6dd9a389ce26.mp3"
+      },
+      "لَحْمٌ": {
+       "src": "/audio/o/005f1a2623f10b31.mp3"
+      },
+      "دَجاجٌ": {
+       "src": "/audio/o/0c26e315d7ada1c5.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d4-lat-dengar-mauz",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "مَوْزٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/25d12eeee496777e.mp3"
+      }
+     },
+     "answer": "pisang",
+     "options": [
+      "pisang",
+      "roti",
+      "air"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d4-lat-makan-malam-ar",
+     "instruction": "Bahasa Arabnya \"makan malam\" adalah …",
+     "prompt": {
+      "id": "makan malam",
+      "emoji": "🌙"
+     },
+     "answer": "عَشاءٌ",
+     "options": [
+      "عَشاءٌ",
+      "غَداءٌ",
+      "فَطُورٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "عَشاءٌ": {
+       "src": "/audio/o/c5c3f4a9cb81a85d.mp3"
+      },
+      "غَداءٌ": {
+       "src": "/audio/o/841298b7a3280fd6.mp3"
+      },
+      "فَطُورٌ": {
+       "src": "/audio/o/8ae4257722d09eae.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d4-lat-kamar-pertama",
+     "instruction": "Pilih yang benar",
+     "prompt": {
+      "id": "kamar pertama",
+      "emoji": "🚪"
+     },
+     "answer": "الغُرْفَةُ الأُولَى",
+     "options": [
+      "الغُرْفَةُ الأُولَى",
+      "الغُرْفَةُ الأَوَّلُ",
+      "الغُرْفَةُ الرّابِعَةُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "الغُرْفَةُ الأُولَى": {
+       "src": "/audio/o/85cb83498b282df4.mp3"
+      },
+      "الغُرْفَةُ الأَوَّلُ": {
+       "src": "/audio/o/3198f351eee199cc.mp3"
+      },
+      "الغُرْفَةُ الرّابِعَةُ": {
+       "src": "/audio/o/df144d825bca0983.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d4-lat-dengar-jam-dua",
+     "instruction": "Dengarkan. Jam berapa?",
+     "prompt": {
+      "tts": "السّاعَةُ الثّانِيَةُ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/f52d117c4ca10af3.mp3"
+      }
+     },
+     "answer": "jam dua",
+     "options": [
+      "jam dua",
+      "jam tiga",
+      "jam lima"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d4-lat-gambar-air",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "💧"
+     },
+     "answer": "ماءٌ",
+     "options": [
+      "ماءٌ",
+      "شايٌ",
+      "قَهْوَةٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ماءٌ": {
+       "src": "/audio/o/3c2eab7e6416236e.mp3"
+      },
+      "شايٌ": {
+       "src": "/audio/o/969fd736e524ea62.mp3"
+      },
+      "قَهْوَةٌ": {
+       "src": "/audio/o/5f8d530e7e33f09c.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u5-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Fi'il mudhari': makan dan minum"
+      },
+      "groups": [
+       {
+        "title_ar": "آكُلُ · تَأْكُلُ · تَأْكُلِينَ · يَأْكُلُ · نَأْكُلُ",
+        "note_id": "Huruf awal menunjukkan pelaku: أَ = aku, تَ = kamu / dia (pr), يَ = dia (lk), نَ = kami. Untuk \"kamu\" perempuan ditambah ـِينَ di akhir.",
+        "rows": [
+         {
+          "ar": "أَنا آكُلُ",
+          "id": "aku makan",
+          "audio": {
+           "src": "/audio/o/371da372b5b71b10.mp3"
+          }
+         },
+         {
+          "ar": "أَنْتَ تَأْكُلُ",
+          "id": "kamu (lk) makan",
+          "audio": {
+           "src": "/audio/o/b44ab249d72d6b1c.mp3"
+          }
+         },
+         {
+          "ar": "أَنْتِ تَأْكُلِينَ",
+          "id": "kamu (pr) makan",
+          "audio": {
+           "src": "/audio/o/532145721dfe522d.mp3"
+          }
+         },
+         {
+          "ar": "هُوَ يَأْكُلُ",
+          "id": "dia (lk) makan",
+          "audio": {
+           "src": "/audio/o/f91a0de585c16cf2.mp3"
+          }
+         },
+         {
+          "ar": "هِيَ تَأْكُلُ",
+          "id": "dia (pr) makan",
+          "audio": {
+           "src": "/audio/o/a1f81e705dd60249.mp3"
+          }
+         },
+         {
+          "ar": "نَحْنُ نَأْكُلُ",
+          "id": "kami / kita makan",
+          "audio": {
+           "src": "/audio/o/8012a4261c8a0499.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "أَشْرَبُ · تَشْرَبُ · تَشْرَبِينَ · يَشْرَبُ · نَشْرَبُ",
+        "note_id": "Polanya sama.",
+        "rows": [
+         {
+          "ar": "أَنْتِ تَشْرَبِينَ شايًا.",
+          "id": "Kamu (pr) minum teh.",
+          "audio": {
+           "src": "/audio/o/a2e18bea8a53cf0f.mp3"
+          }
+         },
+         {
+          "ar": "نَحْنُ نَشْرَبُ ماءً.",
+          "id": "Kami minum air.",
+          "audio": {
+           "src": "/audio/o/e52f6d5ca88685c4.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Tidak dan jangan"
+      },
+      "groups": [
+       {
+        "title_ar": "هَلْ تَأْكُلُ …؟ ← نَعَمْ، آكُلُ … · لا، لا آكُلُ …",
+        "note_id": "لا + mudhari' biasa = tidak.",
+        "rows": [
+         {
+          "ar": "هَلْ تَأْكُلُ سَمَكًا؟",
+          "id": "Apakah kamu makan ikan? (lk)",
+          "audio": {
+           "src": "/audio/o/e6bca9922e6e345f.mp3"
+          }
+         },
+         {
+          "ar": "نَعَمْ، آكُلُ سَمَكًا.",
+          "id": "Ya, aku makan ikan.",
+          "audio": {
+           "src": "/audio/o/9372e05de86eef4c.mp3"
+          }
+         },
+         {
+          "ar": "لا، لا آكُلُ سَمَكًا.",
+          "id": "Tidak, aku tidak makan ikan.",
+          "audio": {
+           "src": "/audio/o/da72b9502dbfbd94.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "لا تَأْكُلْ · لا تَأْكُلِي",
+        "note_id": "Untuk melarang (jangan): لا + تَـ…, akhirnya mati (sukun) untuk laki-laki. Untuk perempuan, ـِينَ menjadi ـِي.",
+        "rows": [
+         {
+          "ar": "لا تَأْكُلْ!",
+          "id": "Jangan makan! (lk)",
+          "audio": {
+           "src": "/audio/o/f2fc8910f5ceb5ee.mp3"
+          }
+         },
+         {
+          "ar": "لا تَأْكُلِي!",
+          "id": "Jangan makan! (pr)",
+          "audio": {
+           "src": "/audio/o/9e2b9a95bce1c89b.mp3"
+          }
+         },
+         {
+          "ar": "لا تَشْرَبْ قَهْوَةً!",
+          "id": "Jangan minum kopi! (lk)",
+          "audio": {
+           "src": "/audio/o/673213f1c7fdc807.mp3"
+          }
+         },
+         {
+          "ar": "لا تَشْرَبِي قَهْوَةً!",
+          "id": "Jangan minum kopi! (pr)",
+          "audio": {
+           "src": "/audio/o/e97c77f709e4f33f.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Milik kami dan ungkapan kagum"
+      },
+      "groups": [
+       {
+        "title_ar": "ـنا",
+        "note_id": "Akhiran ـنا berarti \"kami / kita\".",
+        "rows": [
+         {
+          "ar": "بَيْتُنا",
+          "id": "rumah kami",
+          "audio": {
+           "src": "/audio/o/9e606328bf303157.mp3"
+          }
+         },
+         {
+          "ar": "طَعامُنا",
+          "id": "makanan kami",
+          "audio": {
+           "src": "/audio/o/9c833649e6d0362f.mp3"
+          }
+         },
+         {
+          "ar": "عِنْدَنا",
+          "id": "kami punya",
+          "audio": {
+           "src": "/audio/o/b7f9ef803a6f7651.mp3"
+          }
+         },
+         {
+          "ar": "مَعَنا",
+          "id": "bersama kami",
+          "audio": {
+           "src": "/audio/o/8e0a99e59fa4f368.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "ما أَطْيَبَ …!",
+        "note_id": "Ungkapan kagum: \"enak sekali …!\". Kata sesudahnya berakhiran fathah (ـَ).",
+        "rows": [
+         {
+          "ar": "ما أَطْيَبَ الطَّعامَ!",
+          "id": "Enak sekali makanannya!",
+          "audio": {
+           "src": "/audio/o/8f15536f3a6b5acf.mp3"
+          }
+         },
+         {
+          "ar": "ما أَطْيَبَ السَّمَكَ!",
+          "id": "Enak sekali ikannya!",
+          "audio": {
+           "src": "/audio/o/f78a2444fd17e094.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d5-lengkapi-takulina",
+      "instruction": "Lengkapi: \"Siti, kamu makan apa?\"",
+      "prompt": {
+       "ar": "ماذا … يا سِيتِي؟",
+       "audio": {
+        "src": "/audio/o/2e04650906ae571b.mp3"
+       }
+      },
+      "answer": "تَأْكُلِينَ",
+      "options": [
+       "تَأْكُلِينَ",
+       "تَأْكُلُ",
+       "آكُلُ",
+       "يَأْكُلُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تَأْكُلِينَ": {
+        "src": "/audio/o/b3a030fe661e3e26.mp3"
+       },
+       "تَأْكُلُ": {
+        "src": "/audio/o/6957a4b4e56ee525.mp3"
+       },
+       "آكُلُ": {
+        "src": "/audio/o/12cedecac4dffcc4.mp3"
+       },
+       "يَأْكُلُ": {
+        "src": "/audio/o/6d2ad91c4c866f60.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d5-lengkapi-yasyrabu",
+      "instruction": "Lengkapi: \"Budi minum kopi.\"",
+      "prompt": {
+       "ar": "بُودِي … قَهْوَةً.",
+       "audio": {
+        "src": "/audio/o/9662b956c202bec9.mp3"
+       }
+      },
+      "answer": "يَشْرَبُ",
+      "options": [
+       "يَشْرَبُ",
+       "أَشْرَبُ",
+       "تَشْرَبِينَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "يَشْرَبُ": {
+        "src": "/audio/o/d4eb87c4fed57f9a.mp3"
+       },
+       "أَشْرَبُ": {
+        "src": "/audio/o/321e6b974f410f71.mp3"
+       },
+       "تَشْرَبِينَ": {
+        "src": "/audio/o/67f95925dcbaf3ca.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d5-lengkapi-nakulu",
+      "instruction": "Lengkapi: \"Kami makan nasi.\"",
+      "prompt": {
+       "ar": "نَحْنُ … أَرُزًّا.",
+       "audio": {
+        "src": "/audio/o/40a79dd4b6b72ba5.mp3"
+       }
+      },
+      "answer": "نَأْكُلُ",
+      "options": [
+       "نَأْكُلُ",
+       "آكُلُ",
+       "يَأْكُلُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَأْكُلُ": {
+        "src": "/audio/o/cc427dea93ffa293.mp3"
+       },
+       "آكُلُ": {
+        "src": "/audio/o/12cedecac4dffcc4.mp3"
+       },
+       "يَأْكُلُ": {
+        "src": "/audio/o/6d2ad91c4c866f60.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d5-jawab-tidak-lahm",
+      "instruction": "Jawab dengan \"tidak\"",
+      "prompt": {
+       "ar": "هَلْ تَأْكُلُ لَحْمًا؟",
+       "audio": {
+        "src": "/audio/o/e7f244e5d5f1dc24.mp3"
+       }
+      },
+      "answer": "لا، لا آكُلُ لَحْمًا.",
+      "options": [
+       "لا، لا آكُلُ لَحْمًا.",
+       "لا، لا تَأْكُلْ لَحْمًا.",
+       "نَعَمْ، آكُلُ لَحْمًا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا، لا آكُلُ لَحْمًا.": {
+        "src": "/audio/o/d6561bb47f84c5c9.mp3"
+       },
+       "لا، لا تَأْكُلْ لَحْمًا.": {
+        "src": "/audio/o/44fac610749f2762.mp3"
+       },
+       "نَعَمْ، آكُلُ لَحْمًا.": {
+        "src": "/audio/o/ba4911535230dfd5.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d5-larang-aisyah-kopi",
+      "instruction": "Larang Aisyah: \"Jangan minum kopi!\"",
+      "prompt": {
+       "id": "Jangan minum kopi! (pr)",
+       "emoji": "👩"
+      },
+      "answer": "لا تَشْرَبِي قَهْوَةً!",
+      "options": [
+       "لا تَشْرَبِي قَهْوَةً!",
+       "لا تَشْرَبْ قَهْوَةً!",
+       "لا تَشْرَبِينَ قَهْوَةً."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا تَشْرَبِي قَهْوَةً!": {
+        "src": "/audio/o/e97c77f709e4f33f.mp3"
+       },
+       "لا تَشْرَبْ قَهْوَةً!": {
+        "src": "/audio/o/673213f1c7fdc807.mp3"
+       },
+       "لا تَشْرَبِينَ قَهْوَةً.": {
+        "src": "/audio/o/55254274a06fa31b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d5-jangan-makan-lk",
+      "instruction": "Mana yang artinya \"Jangan makan! (lk)\"?",
+      "prompt": {
+       "id": "Jangan makan! (lk)",
+       "emoji": "👦"
+      },
+      "answer": "لا تَأْكُلْ!",
+      "options": [
+       "لا تَأْكُلْ!",
+       "لا آكُلُ.",
+       "لا تَأْكُلِي!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا تَأْكُلْ!": {
+        "src": "/audio/o/f2fc8910f5ceb5ee.mp3"
+       },
+       "لا آكُلُ.": {
+        "src": "/audio/o/91fa9d6d1e64a0b6.mp3"
+       },
+       "لا تَأْكُلِي!": {
+        "src": "/audio/o/9e2b9a95bce1c89b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d5-rumah-kami",
+      "instruction": "Bahasa Arabnya \"rumah kami\" adalah …",
+      "prompt": {
+       "id": "rumah kami",
+       "emoji": "🏠"
+      },
+      "answer": "بَيْتُنا",
+      "options": [
+       "بَيْتُنا",
+       "بَيْتِي",
+       "بَيْتُهُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بَيْتُنا": {
+        "src": "/audio/o/9e606328bf303157.mp3"
+       },
+       "بَيْتِي": {
+        "src": "/audio/o/d9662aa949450b61.mp3"
+       },
+       "بَيْتُهُ": {
+        "src": "/audio/o/576187cdef5170e6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d5-atyab-samak-benar",
+      "instruction": "Pilih kalimat yang benar: \"Enak sekali ikannya!\"",
+      "prompt": {
+       "id": "Enak sekali ikannya!",
+       "emoji": "🐟"
+      },
+      "answer": "ما أَطْيَبَ السَّمَكَ!",
+      "options": [
+       "ما أَطْيَبَ السَّمَكَ!",
+       "ما أَطْيَبَ السَّمَكُ!",
+       "ما أَطْيَبُ السَّمَكَ!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ما أَطْيَبَ السَّمَكَ!": {
+        "src": "/audio/o/f78a2444fd17e094.mp3"
+       },
+       "ما أَطْيَبَ السَّمَكُ!": {
+        "src": "/audio/o/0ba3cb7fe681cbfb.mp3"
+       },
+       "ما أَطْيَبُ السَّمَكَ!": {
+        "src": "/audio/o/b3a710f9a920af61.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d5-susun-la-tasyrabi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Jangan minum kopi! (pr)"
+      },
+      "answer": "لا تَشْرَبِي قَهْوَةً",
+      "tokens": [
+       "لا",
+       "تَشْرَبِي",
+       "قَهْوَةً",
+       "تَشْرَبْ"
+      ],
+      "audioMap": {
+       "لا": {
+        "src": "/audio/o/de6b0a90d4d0c2cb.mp3"
+       },
+       "تَشْرَبِي": {
+        "src": "/audio/o/c0fed2d745b16ed8.mp3"
+       },
+       "قَهْوَةً": {
+        "src": "/audio/o/2298165df37d5f74.mp3"
+       },
+       "تَشْرَبْ": {
+        "src": "/audio/o/a94dfb2413762293.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d5-susun-nahnu-nakulu",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kami makan roti dan pisang."
+      },
+      "answer": "نَحْنُ نَأْكُلُ خُبْزًا وَمَوْزًا",
+      "tokens": [
+       "نَحْنُ",
+       "نَأْكُلُ",
+       "خُبْزًا",
+       "وَمَوْزًا",
+       "آكُلُ"
+      ],
+      "audioMap": {
+       "نَحْنُ": {
+        "src": "/audio/o/c525ea6a67c223e6.mp3"
+       },
+       "نَأْكُلُ": {
+        "src": "/audio/o/cc427dea93ffa293.mp3"
+       },
+       "خُبْزًا": {
+        "src": "/audio/o/9ecd8699a33492bb.mp3"
+       },
+       "وَمَوْزًا": {
+        "src": "/audio/o/f809e78cdd4159a5.mp3"
+       },
+       "آكُلُ": {
+        "src": "/audio/o/12cedecac4dffcc4.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u5-d5-lat-lengkapi-tasyrabina",
+     "instruction": "Lengkapi: \"Apakah kamu minum teh, Aisyah?\"",
+     "prompt": {
+      "ar": "هَلْ … شايًا يا عائِشَةُ؟",
+      "audio": {
+       "src": "/audio/o/65de759440424555.mp3"
+      }
+     },
+     "answer": "تَشْرَبِينَ",
+     "options": [
+      "تَشْرَبِينَ",
+      "تَشْرَبُ",
+      "يَشْرَبُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "تَشْرَبِينَ": {
+       "src": "/audio/o/67f95925dcbaf3ca.mp3"
+      },
+      "تَشْرَبُ": {
+       "src": "/audio/o/44a167f070cea97c.mp3"
+      },
+      "يَشْرَبُ": {
+       "src": "/audio/o/d4eb87c4fed57f9a.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d5-lat-lengkapi-siti-takulu",
+     "instruction": "Lengkapi: \"Siti makan roti.\"",
+     "prompt": {
+      "ar": "سِيتِي … خُبْزًا.",
+      "audio": {
+       "src": "/audio/o/b916c32a3187c593.mp3"
+      }
+     },
+     "answer": "تَأْكُلُ",
+     "options": [
+      "تَأْكُلُ",
+      "يَأْكُلُ",
+      "تَأْكُلِينَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "تَأْكُلُ": {
+       "src": "/audio/o/6957a4b4e56ee525.mp3"
+      },
+      "يَأْكُلُ": {
+       "src": "/audio/o/6d2ad91c4c866f60.mp3"
+      },
+      "تَأْكُلِينَ": {
+       "src": "/audio/o/b3a030fe661e3e26.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d5-lat-jangan-minum-lk",
+     "instruction": "Mana yang artinya \"Jangan minum! (lk)\"?",
+     "prompt": {
+      "id": "Jangan minum! (lk)",
+      "emoji": "👦"
+     },
+     "answer": "لا تَشْرَبْ!",
+     "options": [
+      "لا تَشْرَبْ!",
+      "لا تَشْرَبِي!",
+      "لا أَشْرَبُ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "لا تَشْرَبْ!": {
+       "src": "/audio/o/8151c2d9baccd365.mp3"
+      },
+      "لا تَشْرَبِي!": {
+       "src": "/audio/o/eaa6fda1431ed555.mp3"
+      },
+      "لا أَشْرَبُ.": {
+       "src": "/audio/o/20dffac35e001a43.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d5-lat-makanan-kami",
+     "instruction": "Bahasa Arabnya \"makanan kami\" adalah …",
+     "prompt": {
+      "id": "makanan kami",
+      "emoji": "🍲"
+     },
+     "answer": "طَعامُنا",
+     "options": [
+      "طَعامُنا",
+      "طَعامِي",
+      "طَعامُكَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "طَعامُنا": {
+       "src": "/audio/o/9c833649e6d0362f.mp3"
+      },
+      "طَعامِي": {
+       "src": "/audio/o/e6a900c553d24366.mp3"
+      },
+      "طَعامُكَ": {
+       "src": "/audio/o/c148181ed7a4d335.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u5-d5-lat-susun-atyab-taam",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Enak sekali makanannya!"
+     },
+     "answer": "ما أَطْيَبَ الطَّعامَ",
+     "tokens": [
+      "ما",
+      "أَطْيَبَ",
+      "الطَّعامَ",
+      "الطَّعامُ"
+     ],
+     "audioMap": {
+      "ما": {
+       "src": "/audio/o/139f5e1cbdfbddfd.mp3"
+      },
+      "أَطْيَبَ": {
+       "src": "/audio/o/300583039a54cd0c.mp3"
+      },
+      "الطَّعامَ": {
+       "src": "/audio/o/6d1b54ca24c6b0aa.mp3"
+      },
+      "الطَّعامُ": {
+       "src": "/audio/o/c3457606159282e5.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d5-lat-jawab-ya-maa",
+     "instruction": "Jawab dengan \"ya\"",
+     "prompt": {
+      "ar": "هَلْ تَشْرَبِينَ ماءً؟",
+      "audio": {
+       "src": "/audio/o/9d3e67ca6dcaeb6c.mp3"
+      }
+     },
+     "answer": "نَعَمْ، أَشْرَبُ ماءً.",
+     "options": [
+      "نَعَمْ، أَشْرَبُ ماءً.",
+      "نَعَمْ، تَشْرَبِينَ ماءً.",
+      "لا، لا أَشْرَبُ ماءً."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "نَعَمْ، أَشْرَبُ ماءً.": {
+       "src": "/audio/o/bd7ef1d31ee11a55.mp3"
+      },
+      "نَعَمْ، تَشْرَبِينَ ماءً.": {
+       "src": "/audio/o/029e48d21613bc1d.mp3"
+      },
+      "لا، لا أَشْرَبُ ماءً.": {
+       "src": "/audio/o/7dec8e59eab06c76.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u5-d6",
+   "dars": 6,
+   "title_id": "Bunyi ص dan س, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "صَ",
+        "audio": {
+         "src": "/audio/o/e82e692d5f8978fe.mp3"
+        },
+        "pair_ar": "سَ"
+       },
+       {
+        "ar": "سَ",
+        "audio": {
+         "src": "/audio/o/c773a74e12d8a664.mp3"
+        },
+        "pair_ar": "صَ"
+       },
+       {
+        "ar": "صُ",
+        "audio": {
+         "src": "/audio/o/b790530794a684b7.mp3"
+        },
+        "pair_ar": "سُ"
+       },
+       {
+        "ar": "سُ",
+        "audio": {
+         "src": "/audio/o/b23689dc28d1eca0.mp3"
+        },
+        "pair_ar": "صُ"
+       },
+       {
+        "ar": "صَيْفٌ",
+        "audio": {
+         "src": "/audio/o/68f07d6d085dcde2.mp3"
+        },
+        "pair_ar": "سَيْفٌ"
+       },
+       {
+        "ar": "سَيْفٌ",
+        "audio": {
+         "src": "/audio/o/9b2ee3b41452770a.mp3"
+        },
+        "pair_ar": "صَيْفٌ"
+       },
+       {
+        "ar": "صُورَةٌ",
+        "audio": {
+         "src": "/audio/o/44624e5f1ccf121b.mp3"
+        },
+        "pair_ar": "سُورَةٌ"
+       },
+       {
+        "ar": "سُورَةٌ",
+        "audio": {
+         "src": "/audio/o/1fa09b229e035983.mp3"
+        },
+        "pair_ar": "صُورَةٌ"
+       },
+       {
+        "ar": "صارَ",
+        "audio": {
+         "src": "/audio/o/9a6242c94d5bfb29.mp3"
+        },
+        "pair_ar": "سارَ"
+       },
+       {
+        "ar": "سارَ",
+        "audio": {
+         "src": "/audio/o/3d76e9e75ec6adc1.mp3"
+        },
+        "pair_ar": "صارَ"
+       },
+       {
+        "ar": "نَصِيبٌ",
+        "audio": {
+         "src": "/audio/o/0a7efa23adfd04cf.mp3"
+        },
+        "pair_ar": "نَسِيبٌ"
+       },
+       {
+        "ar": "نَسِيبٌ",
+        "audio": {
+         "src": "/audio/o/730fc9ee191d44aa.mp3"
+        },
+        "pair_ar": "نَصِيبٌ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi ص dan س"
+      },
+      "note_id": "س (sin) adalah \"s\" biasa yang tipis. ص (shad) diucapkan tebal: pangkal lidah diangkat ke belakang dan bibir sedikit membulat, sehingga vokal sesudahnya terdengar seperti \"o\". Contoh: صَيْفٌ (musim panas) / سَيْفٌ (pedang), صُورَةٌ (gambar) / سُورَةٌ (surah), صارَ (menjadi) / سارَ (berjalan), نَصِيبٌ (bagian) / نَسِيبٌ (kerabat karena pernikahan). Ketuk tiap kotak dan bandingkan."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d6-dengar-shaif",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "صَيْفٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/68f07d6d085dcde2.mp3"
+       }
+      },
+      "answer": "صَيْفٌ",
+      "options": [
+       "صَيْفٌ",
+       "سَيْفٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صَيْفٌ": {
+        "src": "/audio/o/68f07d6d085dcde2.mp3"
+       },
+       "سَيْفٌ": {
+        "src": "/audio/o/9b2ee3b41452770a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d6-dengar-surah",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "سُورَةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/1fa09b229e035983.mp3"
+       }
+      },
+      "answer": "سُورَةٌ",
+      "options": [
+       "سُورَةٌ",
+       "صُورَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سُورَةٌ": {
+        "src": "/audio/o/1fa09b229e035983.mp3"
+       },
+       "صُورَةٌ": {
+        "src": "/audio/o/44624e5f1ccf121b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d6-dengar-shara",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "صارَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/9a6242c94d5bfb29.mp3"
+       }
+      },
+      "answer": "صارَ",
+      "options": [
+       "صارَ",
+       "سارَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صارَ": {
+        "src": "/audio/o/9a6242c94d5bfb29.mp3"
+       },
+       "سارَ": {
+        "src": "/audio/o/3d76e9e75ec6adc1.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d6-dengar-nasib",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "نَسِيبٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/730fc9ee191d44aa.mp3"
+       }
+      },
+      "answer": "نَسِيبٌ",
+      "options": [
+       "نَسِيبٌ",
+       "نَصِيبٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَسِيبٌ": {
+        "src": "/audio/o/730fc9ee191d44aa.mp3"
+       },
+       "نَصِيبٌ": {
+        "src": "/audio/o/0a7efa23adfd04cf.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d6-cari-shad",
+      "instruction": "Kata mana yang memuat huruf ص?",
+      "prompt": {
+       "id": "Cari huruf shad (ص)"
+      },
+      "answer": "صَباحٌ",
+      "options": [
+       "صَباحٌ",
+       "سَمَكٌ",
+       "شايٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صَباحٌ": {
+        "src": "/audio/o/388c32ab1e49f766.mp3"
+       },
+       "سَمَكٌ": {
+        "src": "/audio/o/b43e6dd9a389ce26.mp3"
+       },
+       "شايٌ": {
+        "src": "/audio/o/969fd736e524ea62.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u5-d6-ucap-shurah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "صُورَةٌ",
+       "id": "gambar, foto",
+       "audio": {
+        "src": "/audio/o/44624e5f1ccf121b.mp3"
+       }
+      },
+      "target": "صُورَةٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u5-d6-ucap-surah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "سُورَةٌ",
+       "id": "surah",
+       "audio": {
+        "src": "/audio/o/1fa09b229e035983.mp3"
+       }
+      },
+      "target": "سُورَةٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d6-simak-siti-pagi",
+      "instruction": "Dengarkan. Apa yang diminum Siti pada pagi hari?",
+      "prompt": {
+       "tts": "أَنا سِيتِي. فِي الصَّباحِ أَشْرَبُ شايًا.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/77097a56280d4f05.mp3"
+       }
+      },
+      "answer": "Teh",
+      "options": [
+       "Teh",
+       "Kopi",
+       "Air"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d6-simak-budi-asya",
+      "instruction": "Dengarkan. Apa yang dimakan Budi saat makan malam?",
+      "prompt": {
+       "tts": "بُودِي يَأْكُلُ سَمَكًا فِي العَشاءِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/fda43ae00ae3f2ef.mp3"
+       }
+      },
+      "answer": "Ikan",
+      "options": [
+       "Ikan",
+       "Ayam",
+       "Daging"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u5-d6-lat-dengar-saif",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "سَيْفٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/9b2ee3b41452770a.mp3"
+      }
+     },
+     "answer": "سَيْفٌ",
+     "options": [
+      "سَيْفٌ",
+      "صَيْفٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سَيْفٌ": {
+       "src": "/audio/o/9b2ee3b41452770a.mp3"
+      },
+      "صَيْفٌ": {
+       "src": "/audio/o/68f07d6d085dcde2.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d6-lat-dengar-shurah",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "صُورَةٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/44624e5f1ccf121b.mp3"
+      }
+     },
+     "answer": "صُورَةٌ",
+     "options": [
+      "صُورَةٌ",
+      "سُورَةٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "صُورَةٌ": {
+       "src": "/audio/o/44624e5f1ccf121b.mp3"
+      },
+      "سُورَةٌ": {
+       "src": "/audio/o/1fa09b229e035983.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d6-lat-dengar-sara",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "سارَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/3d76e9e75ec6adc1.mp3"
+      }
+     },
+     "answer": "سارَ",
+     "options": [
+      "سارَ",
+      "صارَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سارَ": {
+       "src": "/audio/o/3d76e9e75ec6adc1.mp3"
+      },
+      "صارَ": {
+       "src": "/audio/o/9a6242c94d5bfb29.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d6-lat-dengar-nashib",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "نَصِيبٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/0a7efa23adfd04cf.mp3"
+      }
+     },
+     "answer": "نَصِيبٌ",
+     "options": [
+      "نَصِيبٌ",
+      "نَسِيبٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "نَصِيبٌ": {
+       "src": "/audio/o/0a7efa23adfd04cf.mp3"
+      },
+      "نَسِيبٌ": {
+       "src": "/audio/o/730fc9ee191d44aa.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d6-lat-simak-aisyah",
+     "instruction": "Dengarkan. Apa yang dimakan Aisyah?",
+     "prompt": {
+      "tts": "عائِشَةُ تَأْكُلُ خُبْزًا وَمَوْزًا.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/b9072f0542932e8f.mp3"
+      }
+     },
+     "answer": "Roti dan pisang",
+     "options": [
+      "Roti dan pisang",
+      "Nasi dan ikan",
+      "Roti dan daging"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u5-d7",
+   "dars": 7,
+   "title_id": "Berbicara",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "بِسْمِ اللّٰهِ",
+        "id": "dengan nama Allah (sebelum makan) · ★ bismillah",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/b703fe074be77932.mp3"
+        }
+       },
+       {
+        "ar": "الحَمْدُ لِلّٰهِ",
+        "id": "segala puji bagi Allah (sesudah makan) · ★ alhamdulillah",
+        "emoji": "🙏",
+        "audio": {
+         "src": "/audio/o/05e98ac715a304be.mp3"
+        }
+       },
+       {
+        "ar": "عَطْشانُ · عَطْشَى",
+        "id": "haus (lk · pr)",
+        "emoji": "🥵",
+        "audio": {
+         "src": "/audio/o/32f443bee869cc69.mp3"
+        }
+       },
+       {
+        "ar": "مَتَى الغَداءُ؟",
+        "id": "kapan makan siang?",
+        "emoji": "🕛",
+        "audio": {
+         "src": "/audio/o/954808637246e1fd.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ هٰذا حَلالٌ؟",
+        "id": "apakah ini halal?",
+        "emoji": "✅",
+        "audio": {
+         "src": "/audio/o/ace924a929e5e665.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Ungkapan di meja makan"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u5-d7-ucap-atsyan",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَنا عَطْشانُ.",
+       "id": "Aku haus. (lk)",
+       "audio": {
+        "src": "/audio/o/434141bea739bf20.mp3"
+       }
+      },
+      "target": "أَنا عَطْشانُ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u5-d7-pesan-angkringan",
+      "instruction": "Pesan makanan dan minuman di angkringan",
+      "prompt": {
+       "id": "Sebut makanan dan minuman yang kamu mau."
+      },
+      "model": [
+       {
+        "ar": "أُرِيدُ أَرُزًّا وَدَجاجًا، مِنْ فَضْلِكَ.",
+        "id": "Saya mau nasi dan ayam, tolong. (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/95f34930dc9c3b46.mp3"
+        }
+       },
+       {
+        "ar": "وَأُرِيدُ شايًا حُلْوًا.",
+        "id": "Dan saya mau teh manis.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/d957ad075ca57090.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d7-tanya-halal-dajaj",
+      "instruction": "Kamu ingin tahu apakah ayam ini halal. Kamu bertanya …",
+      "prompt": {
+       "id": "Apakah ayam ini halal?",
+       "emoji": "🍗"
+      },
+      "answer": "هَلْ هٰذا الدَّجاجُ حَلالٌ؟",
+      "options": [
+       "هَلْ هٰذا الدَّجاجُ حَلالٌ؟",
+       "ما أَطْيَبَ هٰذا الدَّجاجَ!",
+       "هَلْ أَنْتَ جائِعٌ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هَلْ هٰذا الدَّجاجُ حَلالٌ؟": {
+        "src": "/audio/o/133f872591ec719a.mp3"
+       },
+       "ما أَطْيَبَ هٰذا الدَّجاجَ!": {
+        "src": "/audio/o/7519d570d234b478.mp3"
+       },
+       "هَلْ أَنْتَ جائِعٌ؟": {
+        "src": "/audio/o/052f3c9e9b5c48cc.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d7-larang-siti-kopi",
+      "instruction": "Siti mau minum kopi malam-malam. Kamu berkata …",
+      "prompt": {
+       "id": "Jangan minum kopi malam-malam! (pr)",
+       "emoji": "🌙"
+      },
+      "answer": "لا تَشْرَبِي قَهْوَةً فِي المَساءِ.",
+      "options": [
+       "لا تَشْرَبِي قَهْوَةً فِي المَساءِ.",
+       "لا تَشْرَبْ قَهْوَةً فِي المَساءِ.",
+       "لا أَشْرَبُ قَهْوَةً فِي المَساءِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا تَشْرَبِي قَهْوَةً فِي المَساءِ.": {
+        "src": "/audio/o/0eaae5a173b6f99d.mp3"
+       },
+       "لا تَشْرَبْ قَهْوَةً فِي المَساءِ.": {
+        "src": "/audio/o/2a77105a7b83aec1.mp3"
+       },
+       "لا أَشْرَبُ قَهْوَةً فِي المَساءِ.": {
+        "src": "/audio/o/b3144432a07df9d6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u5-d7-ucap-atyab-taam",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "ما أَطْيَبَ الطَّعامَ!",
+       "id": "Enak sekali makanannya!",
+       "audio": {
+        "src": "/audio/o/d82e536721500f8b.mp3"
+       }
+      },
+      "target": "ما أَطْيَبَ الطَّعامَ!"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u5-d7-tanya-sarapan-pr",
+      "instruction": "Tanyakan kepada teman perempuanmu apa yang ia makan dan minum waktu sarapan",
+      "prompt": {
+       "id": "Ingat: pakai bentuk perempuan (تَأْكُلِينَ، تَشْرَبِينَ)."
+      },
+      "model": [
+       {
+        "ar": "ماذا تَأْكُلِينَ فِي الفَطُورِ؟",
+        "id": "Kamu makan apa waktu sarapan? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/41d0cdf811d465c2.mp3"
+        }
+       },
+       {
+        "ar": "وَماذا تَشْرَبِينَ؟",
+        "id": "Kamu minum apa? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/cfed462543dd288d.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d7-sebelum-makan",
+      "instruction": "Sebelum makan, kamu mengucapkan …",
+      "prompt": {
+       "id": "Sebelum makan",
+       "emoji": "🍽️"
+      },
+      "answer": "بِسْمِ اللّٰهِ.",
+      "options": [
+       "بِسْمِ اللّٰهِ.",
+       "الحَمْدُ لِلّٰهِ.",
+       "مَعَ السَّلامَةِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بِسْمِ اللّٰهِ.": {
+        "src": "/audio/o/780f12f491ed61d6.mp3"
+       },
+       "الحَمْدُ لِلّٰهِ.": {
+        "src": "/audio/o/338b393cfee5f225.mp3"
+       },
+       "مَعَ السَّلامَةِ.": {
+        "src": "/audio/o/b0b9f0c6eb9983e4.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d7-jawab-mata-asya",
+      "instruction": "Pilih jawaban yang tepat",
+      "prompt": {
+       "ar": "مَتَى العَشاءُ؟",
+       "audio": {
+        "src": "/audio/o/38ac27881bfe34f4.mp3"
+       }
+      },
+      "answer": "فِي المَساءِ.",
+      "options": [
+       "فِي المَساءِ.",
+       "فِي الصَّباحِ.",
+       "أَشْرَبُ شايًا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فِي المَساءِ.": {
+        "src": "/audio/o/d3a89aa68acfc14f.mp3"
+       },
+       "فِي الصَّباحِ.": {
+        "src": "/audio/o/8dd56e5cafaf63ab.mp3"
+       },
+       "أَشْرَبُ شايًا.": {
+        "src": "/audio/o/095979cc3d82d080.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u5-d7-cerita-waktu-makan",
+      "instruction": "Ceritakan apa yang kamu makan waktu sarapan, makan siang, dan makan malam",
+      "prompt": {
+       "id": "Pakai makananmu sendiri."
+      },
+      "model": [
+       {
+        "ar": "فِي الفَطُورِ آكُلُ خُبْزًا.",
+        "id": "Waktu sarapan aku makan roti.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/eb67dc567d1c0fbd.mp3"
+        }
+       },
+       {
+        "ar": "فِي الغَداءِ آكُلُ أَرُزًّا وَدَجاجًا.",
+        "id": "Waktu makan siang aku makan nasi dan ayam.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/745c8e8fcb663203.mp3"
+        }
+       },
+       {
+        "ar": "فِي العَشاءِ آكُلُ أَرُزًّا مَقْلِيًّا.",
+        "id": "Waktu makan malam aku makan nasi goreng.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/b1497f3f2719a3bd.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u5-d7-ucap-atsya",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَنا عَطْشَى.",
+       "id": "Aku haus. (pr)",
+       "audio": {
+        "src": "/audio/o/76554ab705ba0cd0.mp3"
+       }
+      },
+      "target": "أَنا عَطْشَى."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u5-d7-lat-bismillah-kapan",
+     "instruction": "Kapan kita mengucapkan بِسْمِ اللّٰهِ?",
+     "prompt": {
+      "ar": "بِسْمِ اللّٰهِ",
+      "audio": {
+       "src": "/audio/o/b703fe074be77932.mp3"
+      }
+     },
+     "answer": "Sebelum makan",
+     "options": [
+      "Sebelum makan",
+      "Sesudah makan",
+      "Waktu berpamitan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d7-lat-atsya-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أَنا عَطْشَى.",
+      "audio": {
+       "src": "/audio/o/78901efe15739eaa.mp3"
+      }
+     },
+     "answer": "Aku haus. (pr)",
+     "options": [
+      "Aku haus. (pr)",
+      "Aku lapar. (pr)",
+      "Aku haus. (lk)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d7-lat-halal-lahm-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هَلْ هٰذا اللَّحْمُ حَلالٌ؟",
+      "audio": {
+       "src": "/audio/o/2b9fd8824e62583d.mp3"
+      }
+     },
+     "answer": "Apakah daging ini halal?",
+     "options": [
+      "Apakah daging ini halal?",
+      "Enak sekali daging ini!",
+      "Ini daging halal."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d7-lat-balas-jaiah",
+     "instruction": "Pilih balasan yang tepat",
+     "prompt": {
+      "ar": "هَلْ أَنْتِ جائِعَةٌ؟",
+      "audio": {
+       "src": "/audio/o/f87a10dc5b4bd135.mp3"
+      }
+     },
+     "answer": "نَعَمْ، أَنا جائِعَةٌ.",
+     "options": [
+      "نَعَمْ، أَنا جائِعَةٌ.",
+      "نَعَمْ، أَنا جائِعٌ.",
+      "لا تَأْكُلِي!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "نَعَمْ، أَنا جائِعَةٌ.": {
+       "src": "/audio/o/7faa333568ebfbe0.mp3"
+      },
+      "نَعَمْ، أَنا جائِعٌ.": {
+       "src": "/audio/o/e410affd36ccc79b.mp3"
+      },
+      "لا تَأْكُلِي!": {
+       "src": "/audio/o/9e2b9a95bce1c89b.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u5-d8",
+   "dars": 8,
+   "title_id": "Membaca",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "فِي المَساءِ، يَذْهَبُ بُودِي إِلَى المَطْعَمِ.",
+        "id": "Malam hari, Budi pergi ke warung makan (angkringan).",
+        "emoji": "🌙",
+        "audio": {
+         "src": "/audio/o/518f00657c278bac.mp3"
+        }
+       },
+       {
+        "ar": "هُوَ جائِعٌ وَعَطْشانُ.",
+        "id": "Dia lapar dan haus.",
+        "audio": {
+         "src": "/audio/o/4329ee3111b01fd7.mp3"
+        }
+       },
+       {
+        "ar": "يَأْكُلُ أَرُزًّا وَسَمَكًا.",
+        "id": "Dia makan nasi dan ikan.",
+        "emoji": "🍚",
+        "audio": {
+         "src": "/audio/o/284520629959a525.mp3"
+        }
+       },
+       {
+        "ar": "وَيَشْرَبُ شايًا حُلْوًا.",
+        "id": "Dan dia minum teh manis.",
+        "emoji": "🍵",
+        "audio": {
+         "src": "/audio/o/54035c31e2568aba.mp3"
+        }
+       },
+       {
+        "ar": "لا يَشْرَبُ قَهْوَةً فِي المَساءِ.",
+        "id": "Dia tidak minum kopi pada malam hari.",
+        "audio": {
+         "src": "/audio/o/4338c431456e20d1.mp3"
+        }
+       },
+       {
+        "ar": "الطَّعامُ حَلالٌ وَطَيِّبٌ.",
+        "id": "Makanannya halal dan enak.",
+        "audio": {
+         "src": "/audio/o/dc614ed81686068e.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Malam di angkringan"
+      },
+      "imgs": [
+       "/img/o/u5-malam-budi.webp"
+      ],
+      "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d8-baca-budi-qahwah",
+      "instruction": "Benar atau salah? \"Budi minum kopi di angkringan.\"",
+      "prompt": {
+       "ar": "بُودِي يَشْرَبُ قَهْوَةً.",
+       "audio": {
+        "src": "/audio/o/372c0dc21d75e93f.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d8-baca-budi-makan",
+      "instruction": "Budi makan apa?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "Nasi dan ikan",
+      "options": [
+       "Nasi dan ikan",
+       "Roti dan pisang",
+       "Nasi goreng dan daging"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d8-baca-taam-halal",
+      "instruction": "Benar atau salah? \"Makanannya halal.\"",
+      "prompt": {
+       "ar": "الطَّعامُ حَلالٌ.",
+       "audio": {
+        "src": "/audio/o/0ef94af4965a2ad5.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d8-baca-budi-kapan",
+      "instruction": "Kapan Budi pergi ke angkringan?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "Malam hari",
+      "options": [
+       "Malam hari",
+       "Pagi hari",
+       "Siang hari"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "أَنا نُور، مِنْ بانْدُونْغ.",
+        "id": "Aku Nur, dari Bandung.",
+        "audio": {
+         "src": "/audio/o/c95d2d9f468bc739.mp3"
+        }
+       },
+       {
+        "ar": "فِي الفَطُورِ، نَأْكُلُ خُبْزًا وَمَوْزًا.",
+        "id": "Waktu sarapan, kami makan roti dan pisang.",
+        "emoji": "🍞",
+        "audio": {
+         "src": "/audio/o/d06381b507c736ab.mp3"
+        }
+       },
+       {
+        "ar": "فِي الغَداءِ، آكُلُ أَرُزًّا وَدَجاجًا فِي المَدْرَسَةِ.",
+        "id": "Waktu makan siang, aku makan nasi dan ayam di sekolah.",
+        "emoji": "🏫",
+        "audio": {
+         "src": "/audio/o/7915be3b158c1db7.mp3"
+        }
+       },
+       {
+        "ar": "فِي العَشاءِ، تَطْبُخُ أُمِّي رَنْدانْغ.",
+        "id": "Untuk makan malam, ibuku memasak rendang.",
+        "emoji": "🍖",
+        "audio": {
+         "src": "/audio/o/856dc76f6ed50481.mp3"
+        }
+       },
+       {
+        "ar": "أَبِي يَأْكُلُ لَحْمًا كَثِيرًا.",
+        "id": "Ayahku makan banyak daging.",
+        "audio": {
+         "src": "/audio/o/2542b52f8199cbb6.mp3"
+        }
+       },
+       {
+        "ar": "ما أَطْيَبَ طَعامَ أُمِّي!",
+        "id": "Enak sekali masakan ibuku!",
+        "audio": {
+         "src": "/audio/o/2a5ce6024019f62c.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Makan di rumah Nur"
+      },
+      "imgs": [
+       "/img/o/u5-makan-nur.webp"
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d8-baca-nur-futur",
+      "instruction": "Apa sarapan keluarga Nur?",
+      "prompt": {
+       "id": "Menurut bacaan 2"
+      },
+      "answer": "Roti dan pisang",
+      "options": [
+       "Roti dan pisang",
+       "Nasi dan ayam",
+       "Nasi uduk"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d8-baca-nur-ghada-rumah",
+      "instruction": "Benar atau salah? \"Nur makan siang di rumah.\"",
+      "prompt": {
+       "id": "Menurut bacaan 2",
+       "emoji": "🏠"
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d8-baca-siapa-masak",
+      "instruction": "Siapa yang memasak rendang?",
+      "prompt": {
+       "id": "Menurut bacaan 2"
+      },
+      "answer": "Ibu Nur",
+      "options": [
+       "Ibu Nur",
+       "Ayah Nur",
+       "Nur"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d8-baca-gambar-mauz",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🍌"
+      },
+      "answer": "مَوْزٌ",
+      "options": [
+       "مَوْزٌ",
+       "خُبْزٌ",
+       "دَجاجٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَوْزٌ": {
+        "src": "/audio/o/25d12eeee496777e.mp3"
+       },
+       "خُبْزٌ": {
+        "src": "/audio/o/f9e69c054e657c0b.mp3"
+       },
+       "دَجاجٌ": {
+        "src": "/audio/o/0c26e315d7ada1c5.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u5-d8-lat-baca-budi-atsyan",
+     "instruction": "Benar atau salah? \"Budi haus.\"",
+     "prompt": {
+      "ar": "بُودِي عَطْشانُ.",
+      "audio": {
+       "src": "/audio/o/b00e99edbf76b3d4.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d8-lat-baca-abi-lahm",
+     "instruction": "Benar atau salah? \"Ayah Nur makan banyak daging.\"",
+     "prompt": {
+      "ar": "أَبُو نُور يَأْكُلُ لَحْمًا كَثِيرًا.",
+      "audio": {
+       "src": "/audio/o/5636b0468600cd5e.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d8-lat-baca-tathbukhu-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "تَطْبُخُ أُمِّي رَنْدانْغ.",
+      "audio": {
+       "src": "/audio/o/3e00f5eea698316e.mp3"
+      }
+     },
+     "answer": "Ibuku memasak rendang.",
+     "options": [
+      "Ibuku memasak rendang.",
+      "Ibuku makan rendang.",
+      "Ibuku membeli rendang."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d8-lat-baca-budi-minum",
+     "instruction": "Budi minum apa?",
+     "prompt": {
+      "id": "Menurut bacaan 1"
+     },
+     "answer": "Teh manis",
+     "options": [
+      "Teh manis",
+      "Kopi",
+      "Air"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u5-d9",
+   "dars": 9,
+   "title_id": "Menulis ط ظ ع غ",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ط",
+        "id": "tha",
+        "audio": {
+         "src": "/audio/o/e6f7a7ac909c7eb8.mp3"
+        }
+       },
+       {
+        "ar": "ظ",
+        "id": "zha",
+        "audio": {
+         "src": "/audio/o/279b29546dabd528.mp3"
+        }
+       },
+       {
+        "ar": "ع",
+        "id": "'ain",
+        "audio": {
+         "src": "/audio/o/3bd72853336f59da.mp3"
+        }
+       },
+       {
+        "ar": "غ",
+        "id": "ghain",
+        "audio": {
+         "src": "/audio/o/3cdd5eebff7806a0.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf ط ظ ع غ"
+      },
+      "instruction_id": "Dua pasang huruf yang hanya dibedakan oleh titik. Telusuri bentuknya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d9-huruf-tha",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "ط",
+       "audio": {
+        "src": "/audio/o/e6f7a7ac909c7eb8.mp3"
+       }
+      },
+      "answer": "tha",
+      "options": [
+       "tha",
+       "zha",
+       "'ain"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d9-titik-zha",
+      "instruction": "Huruf mana yang bentuknya seperti ط tetapi bertitik satu di atas?",
+      "prompt": {
+       "id": "tha + titik = …"
+      },
+      "answer": "ظ",
+      "options": [
+       "ظ",
+       "ض",
+       "غ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ظ": {
+        "src": "/audio/o/279b29546dabd528.mp3"
+       },
+       "ض": {
+        "src": "/audio/o/d730f95bb68e351d.mp3"
+       },
+       "غ": {
+        "src": "/audio/o/3cdd5eebff7806a0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d9-titik-ghain",
+      "instruction": "Huruf mana yang bentuknya seperti ع tetapi bertitik satu di atas?",
+      "prompt": {
+       "id": "'ain + titik = …"
+      },
+      "answer": "غ",
+      "options": [
+       "غ",
+       "خ",
+       "ظ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غ": {
+        "src": "/audio/o/3cdd5eebff7806a0.mp3"
+       },
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       },
+       "ظ": {
+        "src": "/audio/o/279b29546dabd528.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d9-dengar-gha",
+      "instruction": "Dengarkan. Huruf apa yang kamu dengar?",
+      "prompt": {
+       "tts": "غَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/9978fbd85b9a3b71.mp3"
+       }
+      },
+      "answer": "غ",
+      "options": [
+       "غ",
+       "ع",
+       "ك"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غ": {
+        "src": "/audio/o/3cdd5eebff7806a0.mp3"
+       },
+       "ع": {
+        "src": "/audio/o/3bd72853336f59da.mp3"
+       },
+       "ك": {
+        "src": "/audio/o/58fba7de9c43a599.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "طَعامٌ",
+        "id": "makanan",
+        "audio": {
+         "src": "/audio/o/3ba72fc83e5475ff.mp3"
+        }
+       },
+       {
+        "ar": "عَطْشانُ",
+        "id": "haus (lk)",
+        "audio": {
+         "src": "/audio/o/3068b90120864fc5.mp3"
+        }
+       },
+       {
+        "ar": "غَداءٌ",
+        "id": "makan siang",
+        "audio": {
+         "src": "/audio/o/841298b7a3280fd6.mp3"
+        }
+       },
+       {
+        "ar": "عَشاءٌ",
+        "id": "makan malam",
+        "audio": {
+         "src": "/audio/o/c5c3f4a9cb81a85d.mp3"
+        }
+       },
+       {
+        "ar": "جائِعٌ",
+        "id": "lapar (lk)",
+        "audio": {
+         "src": "/audio/o/89397ed6dad6320d.mp3"
+        }
+       },
+       {
+        "ar": "الظُّهْرُ",
+        "id": "zuhur",
+        "audio": {
+         "src": "/audio/o/34d8fdb3cb73064e.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf itu dalam kata"
+      },
+      "instruction_id": "Perhatikan bentuk ع di awal (عَشاءٌ), di tengah (طَعامٌ), dan di akhir (جائِعٌ)."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d9-eja-taam",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "طَعامٌ (makanan)"
+      },
+      "answer": "ط ع ا م",
+      "tokens": [
+       "ط",
+       "ع",
+       "ا",
+       "م",
+       "ظ"
+      ],
+      "audioMap": {
+       "ط": {
+        "src": "/audio/o/e6f7a7ac909c7eb8.mp3"
+       },
+       "ع": {
+        "src": "/audio/o/3bd72853336f59da.mp3"
+       },
+       "ا": {
+        "src": "/audio/o/4fc340bfb295d42f.mp3"
+       },
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "ظ": {
+        "src": "/audio/o/279b29546dabd528.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u5-d9-eja-ghada",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "غَداءٌ (makan siang)"
+      },
+      "answer": "غ د ا ء",
+      "tokens": [
+       "غ",
+       "د",
+       "ا",
+       "ء",
+       "ع"
+      ],
+      "audioMap": {
+       "غ": {
+        "src": "/audio/o/3cdd5eebff7806a0.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "ا": {
+        "src": "/audio/o/4fc340bfb295d42f.mp3"
+       },
+       "ء": {
+        "src": "/audio/o/52e9982f7d450c2b.mp3"
+       },
+       "ع": {
+        "src": "/audio/o/3bd72853336f59da.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d9-tulis-asya",
+      "instruction": "Mana tulisan \"makan malam\" yang benar?",
+      "prompt": {
+       "id": "makan malam"
+      },
+      "answer": "عَشاءٌ",
+      "options": [
+       "عَشاءٌ",
+       "غَشاءٌ",
+       "عَساءٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَشاءٌ": {
+        "src": "/audio/o/c5c3f4a9cb81a85d.mp3"
+       },
+       "غَشاءٌ": {
+        "src": "/audio/o/d6c61eb1e62d5007.mp3"
+       },
+       "عَساءٌ": {
+        "src": "/audio/o/633369f3d724ced4.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d9-awal-ghada",
+      "instruction": "Huruf pertama kata غَداءٌ adalah …",
+      "prompt": {
+       "ar": "غَداءٌ",
+       "audio": {
+        "src": "/audio/o/841298b7a3280fd6.mp3"
+       }
+      },
+      "answer": "غ",
+      "options": [
+       "غ",
+       "ع",
+       "ق"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غ": {
+        "src": "/audio/o/3cdd5eebff7806a0.mp3"
+       },
+       "ع": {
+        "src": "/audio/o/3bd72853336f59da.mp3"
+       },
+       "ق": {
+        "src": "/audio/o/f9b42c3c2a464bde.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u5-d9-cari-tha",
+      "instruction": "Kata mana yang memuat huruf ط?",
+      "prompt": {
+       "id": "Cari huruf tha (ط)"
+      },
+      "answer": "عَطْشانُ",
+      "options": [
+       "عَطْشانُ",
+       "شايٌ",
+       "سَمَكٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَطْشانُ": {
+        "src": "/audio/o/3068b90120864fc5.mp3"
+       },
+       "شايٌ": {
+        "src": "/audio/o/969fd736e524ea62.mp3"
+       },
+       "سَمَكٌ": {
+        "src": "/audio/o/b43e6dd9a389ce26.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u5-d9-lat-huruf-ain",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "ع",
+      "audio": {
+       "src": "/audio/o/3bd72853336f59da.mp3"
+      }
+     },
+     "answer": "'ain",
+     "options": [
+      "'ain",
+      "ghain",
+      "tha"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d9-lat-huruf-zha",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "ظ",
+      "audio": {
+       "src": "/audio/o/279b29546dabd528.mp3"
+      }
+     },
+     "answer": "zha",
+     "options": [
+      "zha",
+      "tha",
+      "ghain"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u5-d9-lat-eja-jai",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "جائِعٌ (lapar)"
+     },
+     "answer": "ج ا ئ ع",
+     "tokens": [
+      "ج",
+      "ا",
+      "ئ",
+      "ع",
+      "غ"
+     ],
+     "audioMap": {
+      "ج": {
+       "src": "/audio/o/019a195a0b3c1c91.mp3"
+      },
+      "ا": {
+       "src": "/audio/o/4fc340bfb295d42f.mp3"
+      },
+      "ئ": {
+       "src": "/audio/o/dd9f82bd12257bbf.mp3"
+      },
+      "ع": {
+       "src": "/audio/o/3bd72853336f59da.mp3"
+      },
+      "غ": {
+       "src": "/audio/o/3cdd5eebff7806a0.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d9-lat-cari-ghain",
+     "instruction": "Kata mana yang memuat huruf غ?",
+     "prompt": {
+      "id": "Cari huruf ghain (غ)"
+     },
+     "answer": "غَداءٌ",
+     "options": [
+      "غَداءٌ",
+      "عَشاءٌ",
+      "طَعامٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "غَداءٌ": {
+       "src": "/audio/o/841298b7a3280fd6.mp3"
+      },
+      "عَشاءٌ": {
+       "src": "/audio/o/c5c3f4a9cb81a85d.mp3"
+      },
+      "طَعامٌ": {
+       "src": "/audio/o/3ba72fc83e5475ff.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u5-d9-lat-akhir-jai",
+     "instruction": "Huruf terakhir kata جائِعٌ adalah …",
+     "prompt": {
+      "ar": "جائِعٌ",
+      "audio": {
+       "src": "/audio/o/89397ed6dad6320d.mp3"
+      }
+     },
+     "answer": "ع",
+     "options": [
+      "ع",
+      "غ",
+      "ء"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ع": {
+       "src": "/audio/o/3bd72853336f59da.mp3"
+      },
+      "غ": {
+       "src": "/audio/o/3cdd5eebff7806a0.mp3"
+      },
+      "ء": {
+       "src": "/audio/o/52e9982f7d450c2b.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

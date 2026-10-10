@@ -1,0 +1,2697 @@
+{
+  "unit": 12,
+  "book": "1b",
+  "title_ar": "الهِواياتُ",
+  "title_id": "Hobi",
+  "notes": "Semester 2 di ma'had. Dialog 1: Rizki–Budi (hobi membaca vs sepak bola, menonton pertandingan di televisi). Dialog 2: Siti–Aisyah (khat naskhi dan bulu tangkis, raket baru). Dialog 3: Yusuf dan Budi membaca papan daftar klub (pencak silat, nasyid). Pola: هِوايَتِي …، يُحِبُّ/يَخْتارُ، هٰذا/ذٰلِكَ/هٰذِهِ/تِلْكَ + isim + sifat، تُحِبِّينَ، ما + madhi + ـهُ/ـها sebagai penyangkalan (ما لَعِبْتُهُ، ما شاهَدْتُها) ditambah ما أَجْمَلَهُ/ما أَجْمَلَها sebagai ungkapan kagum yang dihafal. Bunyi غ dengan ج/ك. Bacaan: paragraf klub ma'had + kartu data formulir pendaftaran klub. Menulis: paragraf 3 kalimat tentang hobi. Tidak ada bilangan baru; tidak ada bilangan 3–10 + tamyiz. Nama بِنْتْشاك سِيلات diperlakukan sebagai istilah Indonesia (tanpa i'rab). Yusuf dan Pak Wayan tidak muncul bersama. Cek kemiripan ABY belum dilakukan oleh penulis (teks ditulis tanpa membuka rujukan). Pemeriksaan independen (2026-10-04): tata bahasa dan harakat dicek baris demi baris (tidak ada galat i'rab; إِسْطَنْبُول tanpa i'rab sudah sesuai). Keputusan pola SKELETON \"ما + madhi + ـهُ\": ditafsirkan sebagai ما penyangkal + fi'il madhi + dhamir (ما لَعِبْتُهُ = aku belum pernah memainkannya), lanjutan alami dhamir muttashil pada fi'il di Unit 10 dan sesuai urutan kaidah rujukan; ما أَجْمَلَهُ tetap dipakai sebagai ungkapan kagum saja. Kartu pola dars 5 ditulis ulang, ditambah 3 soal (nafi-syahadtuha, susun-ma-qaratuha, lat-ma-laibtuha-arti), dan pola muncul di dialog 3. بِنْتْشاك سِيلات diperiksa: kata diawali بِ berharakat, bukan sukun; dua sukun berurutan di tengah (نْتْ) dipertahankan untuk bunyi 'nc'. Pasangan bunyi jarang (غَلِيلٌ/جَلِيلٌ، غَرِيمٌ/كَرِيمٌ، غَمْرٌ/جَمْرٌ) diganti غارٌ/جارٌ; soalnya diganti dengan kunci baru (dengar-jar, dengar-ghar, lat-dengar-ghar2, lat-dengar-jar2). Catatan bunyi 'r Prancis yang bergetar' diperbaiki. Serapan قِراءَةٌ diubah ke bentuk KBBI 'kiraah'. Kata baru yang belum diartikan kini diberi arti: جَدِيدٌ (dars 2), ما هِوايَتُكَ (dars 1), نَوادٍ dan ما لَعِبْتُهُ (dars 3), الطُّلّابُ dan يُغَنِّي (bacaan 1); أَرْسُمُ di soal simak diganti أُحِبُّ الرَّسْمَ. Cek kemiripan ABY 1/12 (hlm. PDF 104–111, dibandingkan visual): dialog 1 kita semula berurutan sama dengan pembuka dialog 1 ABY (tanya hobi → membaca → tanya balik → olahraga), ditulis ulang menjadi ajakan main bola yang ditolak; dialog 3 semula meniru adegan dialog 3 ABY (guru menanyai murid satu per satu 'klub mana yang kamu pilih' → 'aku pilih klub X, aku suka Y'), ditulis ulang menjadi Yusuf dan Budi di depan papan klub tanpa guru; soal 'mana yang bukan olahraga' dikurangi pilihannya agar tidak sama dengan latihan kata ganjil ABY (كرة القدم/السباحة). Dialog 2 (Siti–Aisyah) dan bacaan tidak mirip ABY (ABY: pameran hobi, perpustakaan pribadi). Yang sama hanya ungkapan/pola baku: ما هِوايَتُكَ، هِوايَتِي القِراءَةُ، أَيَّ … تَخْتارُ. Soal arrange dicek agar hanya satu urutan benar: 11 soal diubah. Kalimat هِوايَتِي + isim ma'rifah bisa dibalik (الغِناءُ هِوايَتِي), jadi diganti pertanyaan هَلِ … هِوايَتُكَ (kasrah wasal mengunci urutan), ما هِوايَتُكِ، atau اِسْمِي … وَهِوايَتِي …; keterangan yang bisa dipindah (اليَوْمَ، بَعْدَ العَصْرِ، فِي وَقْتِ الفَراغِ) dibuang; يُوسُفُ يَتَعَلَّمُ (bisa VSO) diganti أَتَعَلَّمُ; هٰذا مِضْرَبِي الجَدِيدُ diganti هٰذا مِضْرَبٌ جَدِيدٌ. هٰذِهِ المَجَلَّةُ جَدِيدَةٌ dibiarkan (urutan المَجَلَّةُ هٰذِهِ jarang dan tidak diajarkan).",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Budi dan sepak bola",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Jumat sore di kamar asrama putra. Budi sudah memakai kaus bola, sedangkan Rizki memegang buku cerita.",
+          "rows": [
+            {
+              "who": "budi",
+              "ar": "يا رِزْقِي، اِلْعَبْ مَعَنا كُرَةَ القَدَمِ اليَوْمَ!",
+              "id": "Rizki, main sepak bola bersama kami hari ini!"
+            },
+            {
+              "who": "rizki",
+              "ar": "آسِفٌ يا بُودِي، أَقْرَأُ قِصَّةً الآنَ.",
+              "id": "Maaf, Budi, aku sedang membaca cerita."
+            },
+            {
+              "who": "budi",
+              "ar": "هَلِ القِراءَةُ هِوايَتُكَ؟",
+              "id": "Apakah membaca itu hobimu?"
+            },
+            {
+              "who": "rizki",
+              "ar": "نَعَمْ، هِوايَتِي القِراءَةُ. أُحِبُّ القِصَصَ كَثِيرًا.",
+              "id": "Ya, hobiku membaca. Aku sangat suka cerita."
+            },
+            {
+              "who": "budi",
+              "ar": "وَأَنا هِوايَتِي كُرَةُ القَدَمِ. أَلْعَبُها كُلَّ يَوْمِ جُمُعَةٍ.",
+              "id": "Kalau aku, hobiku sepak bola. Aku memainkannya setiap hari Jumat."
+            },
+            {
+              "who": "rizki",
+              "ar": "اليَوْمَ أَخْتارُ القِراءَةَ.",
+              "id": "Hari ini aku memilih membaca."
+            },
+            {
+              "who": "budi",
+              "ar": "طَيِّبٌ. فِي المَساءِ مُباراةٌ فِي التِّلْفازِ.",
+              "id": "Baiklah. Nanti malam ada pertandingan di televisi."
+            },
+            {
+              "who": "budi",
+              "ar": "هَلْ تُشاهِدُها مَعِي؟",
+              "id": "Kamu mau menontonnya bersamaku?"
+            },
+            {
+              "who": "rizki",
+              "ar": "نَعَمْ، إِنْ شاءَ اللّٰهُ!",
+              "id": "Ya, insyaallah!"
+            }
+          ],
+          "img": "u12-budi-bola",
+          "scene": "Friday late afternoon in a simple male dormitory room in Yogyakarta: Budi in a football jersey holds a football under his arm and grins, while Rizki sits on his bed with an open storybook; through the window a small dusty football field of the ma'had is visible."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "ما هِوايَتُكَ؟",
+              "id": "apa hobimu? (lk)",
+              "emoji": "❓"
+            },
+            {
+              "ar": "هِوايَةٌ",
+              "id": "hobi",
+              "emoji": "⭐"
+            },
+            {
+              "ar": "قِراءَةٌ",
+              "id": "membaca, bacaan",
+              "emoji": "📖",
+              "serapan": "kiraah"
+            },
+            {
+              "ar": "قِصَّةٌ ← قِصَصٌ",
+              "id": "cerita → cerita-cerita",
+              "emoji": "📚",
+              "serapan": "kisah"
+            },
+            {
+              "ar": "كُرَةُ القَدَمِ",
+              "id": "sepak bola",
+              "emoji": "⚽"
+            },
+            {
+              "ar": "لَعِبَ – يَلْعَبُ",
+              "id": "bermain",
+              "emoji": "🤾"
+            },
+            {
+              "ar": "اِخْتارَ – يَخْتارُ",
+              "id": "memilih",
+              "emoji": "👆"
+            },
+            {
+              "ar": "اليَوْمَ",
+              "id": "hari ini",
+              "emoji": "📅"
+            },
+            {
+              "ar": "مُباراةٌ",
+              "id": "pertandingan",
+              "emoji": "🏟️"
+            },
+            {
+              "ar": "تِلْفازٌ",
+              "id": "televisi",
+              "emoji": "📺"
+            },
+            {
+              "ar": "شاهَدَ – يُشاهِدُ",
+              "id": "menonton",
+              "emoji": "👀"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "ma-hiwayatuka-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "ما هِوايَتُكَ؟"
+          },
+          "answer": "Apa hobimu? (lk)",
+          "options": [
+            "Apa hobimu? (lk)",
+            "Siapa namamu? (lk)",
+            "Apa pekerjaanmu? (lk)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "budi-hobi",
+          "instruction": "Menurut dialog, apa hobi Budi?",
+          "prompt": {
+            "ar": "هِوايَةُ بُودِي …",
+            "emoji": "👦"
+          },
+          "answer": "Sepak bola",
+          "options": [
+            "Sepak bola",
+            "Membaca cerita",
+            "Bulu tangkis"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-yalab-jumuah",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "أَلْعَبُها كُلَّ يَوْمِ جُمُعَةٍ."
+          },
+          "answer": "Saya memainkannya setiap hari Jumat.",
+          "options": [
+            "Saya memainkannya setiap hari Jumat.",
+            "Saya menontonnya setiap hari Jumat.",
+            "Saya memainkannya hari ini."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-ma-hiwayatuka",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "ما هِوايَتُكَ؟"
+          },
+          "answer": "هِوايَتِي القِراءَةُ.",
+          "options": [
+            "هِوايَتِي القِراءَةُ.",
+            "أَنا مِنْ بانْدُونْغ.",
+            "أَبِي مُهَنْدِسٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "rizki-pilih",
+          "instruction": "Menurut dialog, apa yang dipilih Rizki hari ini?",
+          "prompt": {
+            "ar": "رِزْقِي يَخْتارُ …"
+          },
+          "answer": "Membaca",
+          "options": [
+            "Membaca",
+            "Bermain sepak bola",
+            "Menonton televisi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "mubarah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "فِي المَساءِ مُباراةٌ فِي التِّلْفازِ."
+          },
+          "answer": "Nanti malam ada pertandingan di televisi.",
+          "options": [
+            "Nanti malam ada pertandingan di televisi.",
+            "Pagi ini ada pertandingan di lapangan.",
+            "Nanti malam ada film di televisi."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hiwayati-qiraah",
+          "prompt": {
+            "id": "Apakah membaca itu hobimu? (lk)"
+          },
+          "answer": "هَلِ القِراءَةُ هِوايَتُكَ",
+          "extra": [
+            "هِوايَتِي"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-ilab-maana",
+          "prompt": {
+            "id": "Main bersama kami! (lk)"
+          },
+          "answer": "اِلْعَبْ مَعَنا",
+          "extra": [
+            "أَلْعَبُ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-hiwayati-qiraah",
+          "who": "rizki",
+          "ar": "هِوايَتِي القِراءَةُ.",
+          "id": "Hobi saya membaca."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-yakhtaru-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَخْتارُ القِراءَةَ."
+          },
+          "answer": "Saya memilih membaca.",
+          "options": [
+            "Saya memilih membaca.",
+            "Saya suka membaca.",
+            "Saya belajar membaca."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-tusyahid",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "هَلْ تُشاهِدُها مَعِي؟"
+          },
+          "answer": "هَلْ تُشاهِدُها مَعِي؟",
+          "options": [
+            "هَلْ تُشاهِدُها مَعِي؟",
+            "هَلْ تَلْعَبُها مَعِي؟",
+            "هَلْ تَقْرَؤُها مَعِي؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kurah-qadam-ar",
+          "instruction": "Bahasa Arabnya \"sepak bola\" adalah …",
+          "prompt": {
+            "id": "sepak bola",
+            "emoji": "⚽"
+          },
+          "answer": "كُرَةُ القَدَمِ",
+          "options": [
+            "كُرَةُ القَدَمِ",
+            "كُرَةُ الرِّيشَةِ",
+            "مُباراةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-hiwayati-kurah",
+          "prompt": {
+            "id": "Apa hobimu? (pr)"
+          },
+          "answer": "ما هِوايَتُكِ",
+          "extra": [
+            "هِوايَتُكَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-qisas-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أُحِبُّ القِصَصَ كَثِيرًا."
+          },
+          "answer": "Saya sangat suka cerita.",
+          "options": [
+            "Saya sangat suka cerita.",
+            "Saya sangat suka sepak bola.",
+            "Saya menulis banyak cerita."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Kaligrafi dan bulu tangkis",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Sabtu pagi di asrama putri. Siti berlatih menulis kaligrafi, lalu Aisyah datang membawa raket.",
+          "rows": [
+            {
+              "who": "aisyah",
+              "ar": "صَباحَ الخَيْرِ يا سِيتِي! ماذا تَكْتُبِينَ؟",
+              "id": "Selamat pagi, Siti! Kamu menulis apa?"
+            },
+            {
+              "who": "siti",
+              "ar": "صَباحَ النُّورِ! أَتَعَلَّمُ الخَطَّ النَّسْخِيَّ.",
+              "id": "Selamat pagi! Saya sedang belajar khat naskhi."
+            },
+            {
+              "who": "aisyah",
+              "ar": "خَطُّكِ جَمِيلٌ! هَلْ هٰذِهِ هِوايَتُكِ؟",
+              "id": "Tulisanmu indah! Apakah ini hobimu?"
+            },
+            {
+              "who": "siti",
+              "ar": "نَعَمْ، أُحِبُّ الخَطَّ كَثِيرًا. وَما هِوايَتُكِ؟",
+              "id": "Ya, saya sangat suka kaligrafi. Kalau hobimu apa?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "هِوايَتِي كُرَةُ الرِّيشَةِ. اُنْظُرِي، هٰذا مِضْرَبِي الجَدِيدُ.",
+              "id": "Hobi saya bulu tangkis. Lihat, ini raket baru saya."
+            },
+            {
+              "who": "siti",
+              "ar": "ما أَجْمَلَهُ! لَوْنُهُ أَزْرَقُ.",
+              "id": "Bagus sekali! Warnanya biru."
+            },
+            {
+              "who": "aisyah",
+              "ar": "هَلْ تُحِبِّينَ كُرَةَ الرِّيشَةِ؟",
+              "id": "Apakah kamu suka bulu tangkis? (pr)"
+            },
+            {
+              "who": "siti",
+              "ar": "نَعَمْ، هِيَ رِياضَةٌ مَشْهُورَةٌ فِي إِنْدُونِيسِيا.",
+              "id": "Ya, itu olahraga yang terkenal di Indonesia."
+            },
+            {
+              "who": "aisyah",
+              "ar": "وَفِي مالِيزِيا أَيْضًا! هَيّا نَلْعَبْ بَعْدَ العَصْرِ.",
+              "id": "Di Malaysia juga! Ayo kita main sesudah asar."
+            }
+          ],
+          "img": "u12-siti-khat",
+          "scene": "Saturday morning in a tidy female dormitory room in Yogyakarta: Siti sits at a desk practicing Arabic calligraphy with a bamboo pen and ink on paper (abstract pen strokes only, no legible letters), while Aisyah stands beside her proudly holding a new blue badminton racket."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "تَعَلَّمَ – يَتَعَلَّمُ",
+              "id": "belajar, mempelajari",
+              "emoji": "🧑‍🎓"
+            },
+            {
+              "ar": "خَطٌّ",
+              "id": "kaligrafi, tulisan indah",
+              "emoji": "🖋️",
+              "serapan": "khat"
+            },
+            {
+              "ar": "الخَطُّ النَّسْخِيُّ",
+              "id": "khat naskhi",
+              "emoji": "✒️"
+            },
+            {
+              "ar": "ما أَجْمَلَهُ!",
+              "id": "indah/bagus sekali (benda lk)!",
+              "emoji": "😍"
+            },
+            {
+              "ar": "كُرَةُ الرِّيشَةِ",
+              "id": "bulu tangkis",
+              "emoji": "🏸"
+            },
+            {
+              "ar": "مِضْرَبٌ",
+              "id": "raket",
+              "emoji": "🏸"
+            },
+            {
+              "ar": "جَدِيدٌ · جَدِيدَةٌ",
+              "id": "baru (lk · pr)",
+              "emoji": "✨"
+            },
+            {
+              "ar": "تُحِبِّينَ",
+              "id": "kamu (pr) suka",
+              "emoji": "💗"
+            },
+            {
+              "ar": "رِياضَةٌ",
+              "id": "olahraga",
+              "emoji": "🏃"
+            },
+            {
+              "ar": "مَشْهُورٌ · مَشْهُورَةٌ",
+              "id": "terkenal (lk · pr)",
+              "emoji": "🌟",
+              "serapan": "masyhur"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "ma-hiwayatuki-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "وَما هِوايَتُكِ؟"
+          },
+          "answer": "Kalau hobimu apa? (pr)",
+          "options": [
+            "Kalau hobimu apa? (pr)",
+            "Kalau hobimu apa? (lk)",
+            "Kamu menulis apa? (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "siti-belajar",
+          "instruction": "Menurut dialog, Siti sedang belajar apa?",
+          "prompt": {
+            "ar": "سِيتِي تَتَعَلَّمُ …"
+          },
+          "answer": "Khat naskhi",
+          "options": [
+            "Khat naskhi",
+            "Bulu tangkis",
+            "Bahasa Melayu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "aisyah-hobi",
+          "instruction": "Menurut dialog, apa hobi Aisyah?",
+          "prompt": {
+            "ar": "هِوايَةُ عائِشَةَ …",
+            "emoji": "👧"
+          },
+          "answer": "Bulu tangkis",
+          "options": [
+            "Bulu tangkis",
+            "Kaligrafi",
+            "Sepak bola"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "warna-raket",
+          "instruction": "Apa warna raket Aisyah?",
+          "prompt": {
+            "ar": "لَوْنُ المِضْرَبِ …",
+            "emoji": "🏸"
+          },
+          "answer": "Biru",
+          "options": [
+            "Biru",
+            "Merah",
+            "Hijau"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-tuhibbina",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "هَلْ تُحِبِّينَ كُرَةَ الرِّيشَةِ؟"
+          },
+          "answer": "Apakah kamu (pr) suka bulu tangkis?",
+          "options": [
+            "Apakah kamu (pr) suka bulu tangkis?",
+            "Apakah kamu (lk) suka bulu tangkis?",
+            "Apakah kamu (pr) suka sepak bola?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-madza-taktubina",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "ماذا تَكْتُبِينَ؟"
+          },
+          "answer": "أَتَعَلَّمُ الخَطَّ النَّسْخِيَّ.",
+          "options": [
+            "أَتَعَلَّمُ الخَطَّ النَّسْخِيَّ.",
+            "هِوايَتِي كُرَةُ الرِّيشَةِ.",
+            "لَوْنُهُ أَزْرَقُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hal-tuhibbina",
+          "prompt": {
+            "id": "Apakah kamu suka bulu tangkis? (pr)"
+          },
+          "answer": "هَلْ تُحِبِّينَ كُرَةَ الرِّيشَةِ",
+          "extra": [
+            "تُحِبُّ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hadza-midrabi",
+          "prompt": {
+            "id": "Ini raket baru."
+          },
+          "answer": "هٰذا مِضْرَبٌ جَدِيدٌ",
+          "extra": [
+            "هٰذِهِ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-ma-ajmalahu",
+          "who": "aisyah",
+          "ar": "ما أَجْمَلَهُ!",
+          "id": "Indah sekali!"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-masyhurah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هِيَ رِياضَةٌ مَشْهُورَةٌ."
+          },
+          "answer": "Itu olahraga yang terkenal.",
+          "options": [
+            "Itu olahraga yang terkenal.",
+            "Itu olahraga yang mudah.",
+            "Itu olahraga yang baru."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-tanya-hobi-pr",
+          "instruction": "Kamu ingin tahu hobi Aisyah. Kamu bertanya …",
+          "prompt": {
+            "id": "Apa hobimu? (pr)"
+          },
+          "answer": "ما هِوايَتُكِ؟",
+          "options": [
+            "ما هِوايَتُكِ؟",
+            "ما هِوايَتُكَ؟",
+            "ماذا تَكْتُبِينَ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-midrab",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "هٰذا مِضْرَبِي الجَدِيدُ."
+          },
+          "answer": "هٰذا مِضْرَبِي الجَدِيدُ.",
+          "options": [
+            "هٰذا مِضْرَبِي الجَدِيدُ.",
+            "هٰذا قَلَمِي الجَدِيدُ.",
+            "هٰذا كِتابِي الجَدِيدُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-atalammu-khat",
+          "prompt": {
+            "id": "Saya belajar kaligrafi."
+          },
+          "answer": "أَتَعَلَّمُ الخَطَّ",
+          "extra": [
+            "الكِتابَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-kapan-main",
+          "instruction": "Kapan Siti dan Aisyah akan bermain?",
+          "prompt": {
+            "id": "Menurut dialog",
+            "emoji": "🕒"
+          },
+          "answer": "Sesudah asar",
+          "options": [
+            "Sesudah asar",
+            "Sesudah subuh",
+            "Sesudah isya"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Memilih klub ma'had",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Di depan papan pengumuman ma'had ada daftar klub. Yusuf dan Budi membacanya bersama.",
+          "rows": [
+            {
+              "who": "budi",
+              "ar": "اُنْظُرْ يا يُوسُفُ، هٰذِهِ نَوادِي المَعْهَدِ.",
+              "id": "Lihat, Yusuf, ini klub-klub ma'had."
+            },
+            {
+              "who": "yusuf",
+              "ar": "ما شاءَ اللّٰهُ! هٰذا نادِي بِنْتْشاك سِيلات.",
+              "id": "Masyaallah! Ini klub pencak silat."
+            },
+            {
+              "who": "budi",
+              "ar": "هَلْ لَعِبْتَ بِنْتْشاك سِيلات فِي إِسْطَنْبُول؟",
+              "id": "Kamu pernah main pencak silat di Istanbul?"
+            },
+            {
+              "who": "yusuf",
+              "ar": "لا، ما لَعِبْتُهُ. لٰكِنْ أُرِيدُ أَنْ أَتَعَلَّمَهُ.",
+              "id": "Belum, aku belum pernah memainkannya. Tetapi aku ingin mempelajarinya."
+            },
+            {
+              "who": "budi",
+              "ar": "طَيِّبٌ! هِيَ رِياضَةٌ إِنْدُونِيسِيَّةٌ قَدِيمَةٌ.",
+              "id": "Bagus! Itu olahraga Indonesia yang sudah lama ada."
+            },
+            {
+              "who": "yusuf",
+              "ar": "وَأَنْتَ يا بُودِي، أَيَّ نادٍ تَخْتارُ؟",
+              "id": "Kalau kamu, Budi, klub mana yang kamu pilih?"
+            },
+            {
+              "who": "budi",
+              "ar": "نادِيَ النَّشِيدِ! الغِناءُ هِوايَتِي.",
+              "id": "Klub nasyid! Bernyanyi itu hobiku."
+            },
+            {
+              "who": "yusuf",
+              "ar": "مَتَى تَدْرِيبُ بِنْتْشاك سِيلات؟",
+              "id": "Kapan latihan pencak silat?"
+            },
+            {
+              "who": "budi",
+              "ar": "يَوْمَ الخَمِيسِ بَعْدَ العَصْرِ.",
+              "id": "Hari Kamis sesudah asar."
+            }
+          ],
+          "img": "u12-daftar-klub",
+          "scene": "In front of a notice board in the courtyard of a ma'had in Yogyakarta: Budi points at a colorful poster listing the student clubs (pencak silat, nasyid, calligraphy, wall magazine) while Yusuf, a Turkish student, mimics a pencak silat stance with a big smile; in the background students practice pencak silat on a mat and a small group holds a hand drum (rebana)."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "نادٍ · النّادِي",
+              "id": "klub",
+              "emoji": "🏫"
+            },
+            {
+              "ar": "نَوادٍ · النَّوادِي",
+              "id": "klub-klub (jamak)",
+              "emoji": "🏫"
+            },
+            {
+              "ar": "أَيَّ نادٍ؟",
+              "id": "klub yang mana?",
+              "emoji": "❓"
+            },
+            {
+              "ar": "ما لَعِبْتُهُ",
+              "id": "aku belum pernah memainkannya",
+              "emoji": "🙅"
+            },
+            {
+              "ar": "بِنْتْشاك سِيلات",
+              "id": "pencak silat",
+              "emoji": "🥋"
+            },
+            {
+              "ar": "قَدِيمٌ · قَدِيمَةٌ",
+              "id": "lama, kuno (lk · pr)",
+              "emoji": "🏛️"
+            },
+            {
+              "ar": "نَشِيدٌ",
+              "id": "nasyid, lagu islami",
+              "emoji": "🎤",
+              "serapan": "nasyid"
+            },
+            {
+              "ar": "غِناءٌ",
+              "id": "bernyanyi, nyanyian",
+              "emoji": "🎶"
+            },
+            {
+              "ar": "تَدْرِيبٌ",
+              "id": "latihan",
+              "emoji": "💪"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "ayya-nadin-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَيَّ نادٍ تَخْتارُ؟"
+          },
+          "answer": "Klub mana yang kamu pilih? (lk)",
+          "options": [
+            "Klub mana yang kamu pilih? (lk)",
+            "Kapan latihannya?",
+            "Di mana klubnya?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "yusuf-klub",
+          "instruction": "Menurut dialog, Yusuf ingin belajar apa?",
+          "prompt": {
+            "ar": "يُوسُفُ يُرِيدُ أَنْ يَتَعَلَّمَ …",
+            "emoji": "🥋"
+          },
+          "answer": "Pencak silat",
+          "options": [
+            "Pencak silat",
+            "Nasyid",
+            "Kaligrafi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "budi-klub",
+          "instruction": "Menurut dialog, klub apa yang dipilih Budi?",
+          "prompt": {
+            "ar": "بُودِي يَخْتارُ …"
+          },
+          "answer": "Klub nasyid",
+          "options": [
+            "Klub nasyid",
+            "Klub pencak silat",
+            "Klub sepak bola"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kapan-latihan",
+          "instruction": "Kapan latihan pencak silat?",
+          "prompt": {
+            "id": "Menurut dialog",
+            "emoji": "📅"
+          },
+          "answer": "Kamis sesudah asar",
+          "options": [
+            "Kamis sesudah asar",
+            "Jumat sesudah asar",
+            "Kamis sesudah magrib"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-ghina",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "الغِناءُ هِوايَتِي."
+          },
+          "answer": "Bernyanyi itu hobiku.",
+          "options": [
+            "Bernyanyi itu hobiku.",
+            "Membaca itu hobiku.",
+            "Berenang itu hobiku."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-ayya-nadin",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "أَيَّ نادٍ تَخْتارُ؟"
+          },
+          "answer": "أَخْتارُ نادِيَ النَّشِيدِ.",
+          "options": [
+            "أَخْتارُ نادِيَ النَّشِيدِ.",
+            "يَوْمَ الخَمِيسِ بَعْدَ العَصْرِ.",
+            "هِيَ رِياضَةٌ قَدِيمَةٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-akhtaru-nasyid",
+          "prompt": {
+            "id": "Saya memilih klub nasyid."
+          },
+          "answer": "أَخْتارُ نادِيَ النَّشِيدِ",
+          "extra": [
+            "تَخْتارُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-uhibbu-hadzihi",
+          "prompt": {
+            "id": "Saya suka olahraga ini."
+          },
+          "answer": "أُحِبُّ هٰذِهِ الرِّياضَةَ",
+          "extra": [
+            "هٰذا"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-ayya-nadin",
+          "who": "yusuf",
+          "ar": "أَيَّ نادٍ تَخْتارُ؟",
+          "id": "Klub mana yang kamu pilih? (lk)"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-qadimah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هِيَ رِياضَةٌ إِنْدُونِيسِيَّةٌ قَدِيمَةٌ."
+          },
+          "answer": "Itu olahraga Indonesia yang sudah lama ada.",
+          "options": [
+            "Itu olahraga Indonesia yang sudah lama ada.",
+            "Itu olahraga Indonesia yang baru.",
+            "Itu olahraga Malaysia yang terkenal."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-tadrib-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مَتَى التَّدْرِيبُ؟"
+          },
+          "answer": "Kapan latihannya?",
+          "options": [
+            "Kapan latihannya?",
+            "Di mana latihannya?",
+            "Siapa pelatihnya?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-uktub",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "اُكْتُبِ اسْمَكَ هُنا."
+          },
+          "answer": "اُكْتُبِ اسْمَكَ هُنا.",
+          "options": [
+            "اُكْتُبِ اسْمَكَ هُنا.",
+            "اُكْتُبِي اسْمَكِ هُنا.",
+            "اِقْرَأِ اسْمَكَ هُنا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-mata-tadrib",
+          "prompt": {
+            "id": "Kapan latihannya?"
+          },
+          "answer": "مَتَى التَّدْرِيبُ",
+          "extra": [
+            "أَيْنَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-nasyid-ar",
+          "instruction": "Bahasa Arabnya \"bernyanyi\" adalah …",
+          "prompt": {
+            "id": "bernyanyi",
+            "emoji": "🎶"
+          },
+          "answer": "غِناءٌ",
+          "options": [
+            "غِناءٌ",
+            "نَشِيدٌ",
+            "تَدْرِيبٌ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata hobi",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Olahraga",
+          "rows": [
+            {
+              "ar": "هِوايَةٌ",
+              "id": "hobi",
+              "emoji": "⭐"
+            },
+            {
+              "ar": "رِياضَةٌ",
+              "id": "olahraga",
+              "emoji": "🏃"
+            },
+            {
+              "ar": "كُرَةُ القَدَمِ",
+              "id": "sepak bola",
+              "emoji": "⚽"
+            },
+            {
+              "ar": "كُرَةُ الرِّيشَةِ",
+              "id": "bulu tangkis",
+              "emoji": "🏸"
+            },
+            {
+              "ar": "سِباحَةٌ",
+              "id": "berenang",
+              "emoji": "🏊"
+            },
+            {
+              "ar": "بِنْتْشاك سِيلات",
+              "id": "pencak silat",
+              "emoji": "🥋"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Seni dan bacaan",
+          "rows": [
+            {
+              "ar": "قِراءَةٌ",
+              "id": "membaca",
+              "emoji": "📖",
+              "serapan": "qiraah"
+            },
+            {
+              "ar": "خَطٌّ",
+              "id": "kaligrafi",
+              "emoji": "🖋️",
+              "serapan": "khat"
+            },
+            {
+              "ar": "رَسْمٌ",
+              "id": "menggambar, gambar",
+              "emoji": "🎨"
+            },
+            {
+              "ar": "طَبْخٌ",
+              "id": "memasak",
+              "emoji": "🍳"
+            },
+            {
+              "ar": "مَجَلَّةٌ",
+              "id": "majalah",
+              "emoji": "📰",
+              "serapan": "majalah"
+            },
+            {
+              "ar": "مَجَلَّةُ الحائِطِ",
+              "id": "majalah dinding (mading)",
+              "emoji": "🧱"
+            },
+            {
+              "ar": "قِصَّةٌ",
+              "id": "cerita",
+              "emoji": "📚",
+              "serapan": "kisah"
+            },
+            {
+              "ar": "شِعْرٌ",
+              "id": "puisi",
+              "emoji": "📜",
+              "serapan": "syair"
+            },
+            {
+              "ar": "نَشِيدٌ",
+              "id": "nasyid",
+              "emoji": "🎤",
+              "serapan": "nasyid"
+            },
+            {
+              "ar": "وَقْتُ الفَراغِ",
+              "id": "waktu luang",
+              "emoji": "⏳"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Sifat benda",
+          "rows": [
+            {
+              "ar": "كَبِيرٌ · كَبِيرَةٌ",
+              "id": "besar (lk · pr)",
+              "emoji": "🐘"
+            },
+            {
+              "ar": "صَغِيرٌ · صَغِيرَةٌ",
+              "id": "kecil (lk · pr)",
+              "emoji": "🐜"
+            },
+            {
+              "ar": "جَدِيدٌ · جَدِيدَةٌ",
+              "id": "baru (lk · pr)",
+              "emoji": "✨"
+            },
+            {
+              "ar": "قَدِيمٌ · قَدِيمَةٌ",
+              "id": "lama (lk · pr)",
+              "emoji": "🏛️"
+            },
+            {
+              "ar": "سَهْلٌ · سَهْلَةٌ",
+              "id": "mudah (lk · pr)",
+              "emoji": "👍"
+            },
+            {
+              "ar": "صَعْبٌ · صَعْبَةٌ",
+              "id": "sulit (lk · pr)",
+              "emoji": "🧗"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "gambar-kurah-qadam",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "⚽"
+          },
+          "answer": "كُرَةُ القَدَمِ",
+          "options": [
+            "كُرَةُ القَدَمِ",
+            "كُرَةُ الرِّيشَةِ",
+            "سِباحَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-kurah-risyah",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🏸"
+          },
+          "answer": "كُرَةُ الرِّيشَةِ",
+          "options": [
+            "كُرَةُ الرِّيشَةِ",
+            "كُرَةُ القَدَمِ",
+            "رَسْمٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-sibahah",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "سِباحَةٌ"
+          },
+          "answer": "berenang",
+          "options": [
+            "berenang",
+            "menggambar",
+            "memasak"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "rasm-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "رَسْمٌ"
+          },
+          "answer": "menggambar",
+          "options": [
+            "menggambar",
+            "memasak",
+            "membaca"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "serapan-majalah",
+          "instruction": "Kata Arab mana yang menjadi kata Indonesia \"majalah\"?",
+          "prompt": {
+            "id": "majalah",
+            "emoji": "📰"
+          },
+          "answer": "مَجَلَّةٌ",
+          "options": [
+            "مَجَلَّةٌ",
+            "قِصَّةٌ",
+            "شِعْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "waqt-faragh-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "وَقْتُ الفَراغِ"
+          },
+          "answer": "waktu luang",
+          "options": [
+            "waktu luang",
+            "waktu makan",
+            "hari libur"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lawan-kabir",
+          "instruction": "Lawan kata كَبِيرٌ adalah …",
+          "prompt": {
+            "ar": "كَبِيرٌ",
+            "emoji": "🐘"
+          },
+          "answer": "صَغِيرٌ",
+          "options": [
+            "صَغِيرٌ",
+            "جَدِيدٌ",
+            "قَدِيمٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "sab-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "صَعْبٌ"
+          },
+          "answer": "sulit",
+          "options": [
+            "sulit",
+            "mudah",
+            "baru"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-qissah",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "قِصَّةٌ"
+          },
+          "answer": "قِصَّةٌ",
+          "options": [
+            "قِصَّةٌ",
+            "قِراءَةٌ",
+            "رِياضَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "bukan-olahraga",
+          "instruction": "Mana yang BUKAN olahraga?",
+          "prompt": {
+            "id": "Pilih satu"
+          },
+          "answer": "شِعْرٌ",
+          "options": [
+            "شِعْرٌ",
+            "كُرَةُ الرِّيشَةِ",
+            "بِنْتْشاك سِيلات"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-gambar-sibahah",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🏊"
+          },
+          "answer": "سِباحَةٌ",
+          "options": [
+            "سِباحَةٌ",
+            "طَبْخٌ",
+            "خَطٌّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-tabkh-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "طَبْخٌ"
+          },
+          "answer": "memasak",
+          "options": [
+            "memasak",
+            "menggambar",
+            "berenang"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-lawan-jadid",
+          "instruction": "Lawan kata جَدِيدٌ adalah …",
+          "prompt": {
+            "ar": "جَدِيدٌ"
+          },
+          "answer": "قَدِيمٌ",
+          "options": [
+            "قَدِيمٌ",
+            "كَبِيرٌ",
+            "سَهْلٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-syir-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "شِعْرٌ"
+          },
+          "answer": "puisi",
+          "options": [
+            "puisi",
+            "cerita",
+            "majalah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-khatt",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "خَطٌّ"
+          },
+          "answer": "kaligrafi",
+          "options": [
+            "kaligrafi",
+            "olahraga",
+            "nasyid"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Hobi dan kesukaan",
+          "groups": [
+            {
+              "title_ar": "ما هِوايَتُكَ؟ · ما هِوايَتُكِ؟ ← هِوايَتِي …",
+              "note_id": "هِوايَةٌ + akhiran: ة berubah menjadi ت. ـكَ untuk kamu (lk), ـكِ untuk kamu (pr), ـهُ dia (lk), ـها dia (pr).",
+              "rows": [
+                {
+                  "ar": "ما هِوايَتُكَ؟",
+                  "id": "Apa hobimu? (lk)"
+                },
+                {
+                  "ar": "ما هِوايَتُكِ؟",
+                  "id": "Apa hobimu? (pr)"
+                },
+                {
+                  "ar": "هِوايَتِي الرَّسْمُ.",
+                  "id": "Hobi saya menggambar."
+                },
+                {
+                  "ar": "هِوايَتُهُ السِّباحَةُ.",
+                  "id": "Hobinya (lk) berenang."
+                },
+                {
+                  "ar": "هِوايَتُها الطَّبْخُ.",
+                  "id": "Hobinya (pr) memasak."
+                }
+              ]
+            },
+            {
+              "title_ar": "أُحِبُّ · تُحِبُّ · تُحِبِّينَ · يُحِبُّ — أَخْتارُ · تَخْتارُ · تَخْتارِينَ · يَخْتارُ",
+              "note_id": "Pola yang sama untuk يُحِبُّ (suka) dan يَخْتارُ (memilih). تُحِبُّ = kamu (lk) suka atau dia (pr) suka; تُحِبِّينَ = kamu (pr) suka.",
+              "rows": [
+                {
+                  "ar": "هَلْ تُحِبُّ الرَّسْمَ يا رِزْقِي؟",
+                  "id": "Apakah kamu suka menggambar, Rizki?"
+                },
+                {
+                  "ar": "هَلْ تُحِبِّينَ الطَّبْخَ يا سِيتِي؟",
+                  "id": "Apakah kamu suka memasak, Siti?"
+                },
+                {
+                  "ar": "أَيَّ رِياضَةٍ تَخْتارِينَ؟",
+                  "id": "Olahraga apa yang kamu (pr) pilih?"
+                },
+                {
+                  "ar": "يُوسُفُ يَخْتارُ بِنْتْشاك سِيلات.",
+                  "id": "Yusuf memilih pencak silat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Ini, itu, dan sifat benda",
+          "groups": [
+            {
+              "title_ar": "هٰذا · ذٰلِكَ · هٰذِهِ · تِلْكَ",
+              "note_id": "هٰذا/هٰذِهِ = ini (dekat), ذٰلِكَ/تِلْكَ = itu (jauh). ذٰلِكَ untuk benda lk, تِلْكَ untuk benda pr. Sifat ikut jenis bendanya dan ikut akhiran -un.",
+              "rows": [
+                {
+                  "ar": "هٰذا كِتابٌ جَدِيدٌ.",
+                  "id": "Ini buku baru."
+                },
+                {
+                  "ar": "ذٰلِكَ مِضْرَبٌ قَدِيمٌ.",
+                  "id": "Itu raket lama."
+                },
+                {
+                  "ar": "هٰذِهِ مَجَلَّةٌ صَغِيرَةٌ.",
+                  "id": "Ini majalah kecil."
+                },
+                {
+                  "ar": "تِلْكَ كُرَةٌ كَبِيرَةٌ.",
+                  "id": "Itu bola besar."
+                }
+              ]
+            },
+            {
+              "title_ar": "هٰذِهِ المَجَلَّةُ جَدِيدَةٌ",
+              "note_id": "Bila bendanya memakai ال, artinya \"… ini/itu\", dan sifatnya menjadi keterangan.",
+              "rows": [
+                {
+                  "ar": "هٰذِهِ المَجَلَّةُ جَدِيدَةٌ.",
+                  "id": "Majalah ini baru."
+                },
+                {
+                  "ar": "ذٰلِكَ الدَّرْسُ صَعْبٌ.",
+                  "id": "Pelajaran itu sulit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Belum/tidak …-nya, dan ungkapan kagum",
+          "groups": [
+            {
+              "title_ar": "ما + فَعَلْتُ + ـهُ / ـها",
+              "note_id": "ما sebelum kata kerja lampau berarti \"tidak/belum\". Akhiran ـهُ (benda lk) atau ـها (benda pr) menggantikan benda yang sudah disebut, seperti تَرَكْتُهُ di Unit 10.",
+              "rows": [
+                {
+                  "ar": "هَلْ شاهَدْتَ المُباراةَ؟",
+                  "id": "Kamu sudah menonton pertandingan itu? (lk)"
+                },
+                {
+                  "ar": "لا، ما شاهَدْتُها.",
+                  "id": "Belum, aku belum menontonnya."
+                },
+                {
+                  "ar": "هَلْ قَرَأْتِ هٰذِهِ القِصَّةَ؟",
+                  "id": "Kamu sudah membaca cerita ini? (pr)"
+                },
+                {
+                  "ar": "لا، ما قَرَأْتُها.",
+                  "id": "Belum, aku belum membacanya."
+                },
+                {
+                  "ar": "ما لَعِبْتُهُ فِي إِسْطَنْبُول.",
+                  "id": "Aku belum pernah memainkannya di Istanbul."
+                }
+              ]
+            },
+            {
+              "title_ar": "ما أَجْمَلَهُ! · ما أَجْمَلَها!",
+              "note_id": "Ungkapan kagum yang dihafal saja: \"Indah sekali!\". Bentuknya mirip, tetapi artinya bukan \"tidak\". ـهُ untuk benda lk, ـها untuk benda pr.",
+              "rows": [
+                {
+                  "ar": "ما أَجْمَلَ الخَطَّ!",
+                  "id": "Indah sekali kaligrafi itu!"
+                },
+                {
+                  "ar": "اُنْظُرْ إِلَى هٰذِهِ الصُّورَةِ. ما أَجْمَلَها!",
+                  "id": "Lihat foto ini. Indah sekali!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tanya-hobi-aisyah",
+          "instruction": "Kamu bertanya hobi kepada Aisyah. Pilih kalimatnya",
+          "prompt": {
+            "id": "Apa hobimu? (pr)",
+            "emoji": "👧"
+          },
+          "answer": "ما هِوايَتُكِ؟",
+          "options": [
+            "ما هِوايَتُكِ؟",
+            "ما هِوايَتُكَ؟",
+            "ما هِوايَتُها؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-tuhibbina",
+          "instruction": "Lengkapi kalimat untuk Aisyah",
+          "prompt": {
+            "ar": "هَلْ … كُرَةَ الرِّيشَةِ يا عائِشَةُ؟"
+          },
+          "answer": "تُحِبِّينَ",
+          "options": [
+            "تُحِبِّينَ",
+            "تُحِبُّ",
+            "يُحِبُّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-yuhibbu",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "بُودِي … كُرَةَ القَدَمِ."
+          },
+          "answer": "يُحِبُّ",
+          "options": [
+            "يُحِبُّ",
+            "تُحِبُّ",
+            "تُحِبِّينَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-tilka",
+          "instruction": "Lengkapi: \"Itu majalah baru.\"",
+          "prompt": {
+            "ar": "… مَجَلَّةٌ جَدِيدَةٌ."
+          },
+          "answer": "تِلْكَ",
+          "options": [
+            "تِلْكَ",
+            "ذٰلِكَ",
+            "هٰذا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-sifat-shaghirah",
+          "instruction": "Lengkapi: \"Ini bola kecil.\"",
+          "prompt": {
+            "ar": "هٰذِهِ كُرَةٌ …"
+          },
+          "answer": "صَغِيرَةٌ",
+          "options": [
+            "صَغِيرَةٌ",
+            "صَغِيرٌ",
+            "صَغِيرًا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "kagum-rasm",
+          "instruction": "Rizki menunjukkan gambarnya (رَسْمٌ) kepada Budi. Budi berkata …",
+          "prompt": {
+            "id": "Indah sekali!",
+            "emoji": "🎨"
+          },
+          "answer": "ما أَجْمَلَهُ!",
+          "options": [
+            "ما أَجْمَلَهُ!",
+            "ما أَجْمَلَها!",
+            "ما أَجْمَلَكِ!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "nafi-syahadtuha",
+          "instruction": "Budi bertanya. Kamu belum menonton pertandingan itu. Jawabanmu …",
+          "prompt": {
+            "ar": "هَلْ شاهَدْتَ المُباراةَ؟"
+          },
+          "answer": "لا، ما شاهَدْتُها.",
+          "options": [
+            "لا، ما شاهَدْتُها.",
+            "لا، ما شاهَدْتُهُ.",
+            "نَعَمْ، ما شاهَدْتُها."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hiwayatuha-tabkh",
+          "prompt": {
+            "id": "Apakah memasak itu hobinya? (pr)"
+          },
+          "answer": "هَلِ الطَّبْخُ هِوايَتُها",
+          "extra": [
+            "هِوايَتُهُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-ayya-riyadah",
+          "prompt": {
+            "id": "Olahraga apa yang kamu pilih? (pr)"
+          },
+          "answer": "أَيَّ رِياضَةٍ تَخْتارِينَ",
+          "extra": [
+            "تَخْتارُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-dzalika-qadim",
+          "prompt": {
+            "id": "Itu buku lama."
+          },
+          "answer": "ذٰلِكَ كِتابٌ قَدِيمٌ",
+          "extra": [
+            "تِلْكَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-majallah-jadidah",
+          "prompt": {
+            "id": "Majalah ini baru."
+          },
+          "answer": "هٰذِهِ المَجَلَّةُ جَدِيدَةٌ",
+          "extra": [
+            "جَدِيدٌ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-ma-qaratuha",
+          "prompt": {
+            "id": "(Tentang قِصَّةٌ) Belum, aku belum membacanya."
+          },
+          "answer": "لا، ما قَرَأْتُها",
+          "extra": [
+            "قَرَأْتُهُ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tanya-hobi-budi",
+          "instruction": "Kamu bertanya hobi kepada Budi. Pilih kalimatnya",
+          "prompt": {
+            "id": "Apa hobimu? (lk)",
+            "emoji": "👦"
+          },
+          "answer": "ما هِوايَتُكَ؟",
+          "options": [
+            "ما هِوايَتُكَ؟",
+            "ما هِوايَتُكِ؟",
+            "ما هِوايَتِي؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-isi-takhtarina",
+          "instruction": "Lengkapi kalimat untuk Siti",
+          "prompt": {
+            "ar": "أَيَّ نادٍ … يا سِيتِي؟"
+          },
+          "answer": "تَخْتارِينَ",
+          "options": [
+            "تَخْتارِينَ",
+            "تَخْتارُ",
+            "أَخْتارُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-isi-dzalika",
+          "instruction": "Lengkapi: \"Itu raket lama.\"",
+          "prompt": {
+            "ar": "… مِضْرَبٌ قَدِيمٌ."
+          },
+          "answer": "ذٰلِكَ",
+          "options": [
+            "ذٰلِكَ",
+            "تِلْكَ",
+            "هٰذِهِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kagum-shurah",
+          "instruction": "Siti melihat foto (صُورَةٌ) yang indah. Dia berkata …",
+          "prompt": {
+            "id": "Indah sekali!",
+            "emoji": "🖼️"
+          },
+          "answer": "ما أَجْمَلَها!",
+          "options": [
+            "ما أَجْمَلَها!",
+            "ما أَجْمَلَهُ!",
+            "ما أَكْبَرَهُ!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-hiwayatuhu-sibahah",
+          "prompt": {
+            "id": "Apakah berenang itu hobinya? (lk)"
+          },
+          "answer": "هَلِ السِّباحَةُ هِوايَتُهُ",
+          "extra": [
+            "هِوايَتُها"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-ma-laibtuha-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "ما لَعِبْتُها."
+          },
+          "answer": "Aku belum pernah memainkannya.",
+          "options": [
+            "Aku belum pernah memainkannya.",
+            "Aku sudah memainkannya.",
+            "Aku ingin memainkannya."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi غ, ج, dan ك, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi غ dengan ج dan ك",
+          "note_id": "غ (ghain) diucapkan di pangkal lidah dekat tekak, seperti bunyi berkumur, mirip \"r\" dalam bahasa Prancis. Jangan ucapkan غ sebagai \"g\". ج (jim) seperti \"j\" Indonesia, dan ك (kaf) seperti \"k\" biasa. Artinya bisa berubah: غارٌ = gua, جارٌ = tetangga; غَدِيرٌ = kolam, anak sungai, جَدِيرٌ = layak; غَرْبٌ = barat, كَرْبٌ = kesusahan. Ketuk tiap kotak dan bandingkan.",
+          "pairs": [
+            [
+              "غَ",
+              "جَ"
+            ],
+            [
+              "غَ",
+              "كَ"
+            ],
+            [
+              "غارٌ",
+              "جارٌ"
+            ],
+            [
+              "غَدِيرٌ",
+              "جَدِيرٌ"
+            ],
+            [
+              "غَرْبٌ",
+              "كَرْبٌ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-ghadir",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "غَدِيرٌ"
+          },
+          "answer": "غَدِيرٌ",
+          "options": [
+            "غَدِيرٌ",
+            "جَدِيرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-jar",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "جارٌ"
+          },
+          "answer": "جارٌ",
+          "options": [
+            "جارٌ",
+            "غارٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-ghar",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "غارٌ"
+          },
+          "answer": "غارٌ",
+          "options": [
+            "غارٌ",
+            "جارٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-gharb",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "غَرْبٌ"
+          },
+          "answer": "غَرْبٌ",
+          "options": [
+            "غَرْبٌ",
+            "كَرْبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "cari-ghain",
+          "instruction": "Kata mana yang mengandung huruf غ?",
+          "prompt": {
+            "id": "Cari huruf ghain (غ)"
+          },
+          "answer": "الفَراغِ",
+          "options": [
+            "الفَراغِ",
+            "الجَدِيدِ",
+            "الكَبِيرِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-waqt-faragh",
+          "ar": "وَقْتُ الفَراغِ",
+          "id": "waktu luang"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-ghina",
+          "who": "budi",
+          "ar": "أُحِبُّ الغِناءَ.",
+          "id": "Saya suka bernyanyi."
+        },
+        {
+          "q": "choice",
+          "k": "simak-hobi-nyanyi",
+          "instruction": "Dengarkan. Apa hobinya?",
+          "prompt": {
+            "listen": "هِوايَتِي الغِناءُ، أَنا فِي نادِي النَّشِيدِ."
+          },
+          "answer": "Bernyanyi",
+          "options": [
+            "Bernyanyi",
+            "Menggambar",
+            "Berenang"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-hari-badminton",
+          "instruction": "Dengarkan. Hari apa dia bermain bulu tangkis?",
+          "prompt": {
+            "listen": "أَلْعَبُ كُرَةَ الرِّيشَةِ يَوْمَ السَّبْتِ."
+          },
+          "answer": "Sabtu",
+          "options": [
+            "Sabtu",
+            "Jumat",
+            "Kamis"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-waktu-luang",
+          "instruction": "Dengarkan. Apa yang dia lakukan pada waktu luang?",
+          "prompt": {
+            "listen": "فِي وَقْتِ الفَراغِ أُحِبُّ الرَّسْمَ وَقِراءَةَ المَجَلّاتِ."
+          },
+          "answer": "Menggambar dan membaca majalah",
+          "options": [
+            "Menggambar dan membaca majalah",
+            "Memasak dan menggambar",
+            "Berenang dan membaca cerita"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-jadir",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "جَدِيرٌ"
+          },
+          "answer": "جَدِيرٌ",
+          "options": [
+            "جَدِيرٌ",
+            "غَدِيرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-ghar2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "غارٌ"
+          },
+          "answer": "غارٌ",
+          "options": [
+            "غارٌ",
+            "جارٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-karb",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "كَرْبٌ"
+          },
+          "answer": "كَرْبٌ",
+          "options": [
+            "كَرْبٌ",
+            "غَرْبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-jar2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "جارٌ"
+          },
+          "answer": "جارٌ",
+          "options": [
+            "جارٌ",
+            "غارٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-khat",
+          "instruction": "Dengarkan. Apa hobinya?",
+          "prompt": {
+            "listen": "هِوايَتِي الخَطُّ، أَكْتُبُ كُلَّ يَوْمٍ."
+          },
+          "answer": "Kaligrafi",
+          "options": [
+            "Kaligrafi",
+            "Sepak bola",
+            "Memasak"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara tentang hobi",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Menyatakan suka dan tidak suka",
+          "rows": [
+            {
+              "ar": "هِوايَتِي …",
+              "id": "hobi saya …",
+              "emoji": "⭐"
+            },
+            {
+              "ar": "أُحِبُّ … كَثِيرًا.",
+              "id": "saya sangat suka …",
+              "emoji": "💗"
+            },
+            {
+              "ar": "لا أُحِبُّ …",
+              "id": "saya tidak suka …",
+              "emoji": "🙅"
+            },
+            {
+              "ar": "أَخْتارُ …",
+              "id": "saya memilih …",
+              "emoji": "👆"
+            },
+            {
+              "ar": "فِي وَقْتِ الفَراغِ",
+              "id": "pada waktu luang",
+              "emoji": "⏳"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "cerita-hobi",
+          "instruction": "Ceritakan hobimu dan kapan kamu melakukannya",
+          "prompt": {
+            "id": "Pakai hobimu sendiri."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "هِوايَتِي القِراءَةُ.",
+              "id": "Hobi saya membaca."
+            },
+            {
+              "who": "rizki",
+              "ar": "أَقْرَأُ القِصَصَ فِي وَقْتِ الفَراغِ.",
+              "id": "Saya membaca cerita pada waktu luang."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-hiwayati-khat",
+          "who": "siti",
+          "ar": "هِوايَتِي الخَطُّ.",
+          "id": "Hobi saya kaligrafi."
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-ma-hiwayatuki",
+          "who": "siti",
+          "ar": "ما هِوايَتُكِ؟",
+          "id": "Apa hobimu? (pr)"
+        },
+        {
+          "q": "choice",
+          "k": "jawab-tuhibbina-sibahah",
+          "instruction": "Aisyah bertanya: هَلْ تُحِبِّينَ السِّباحَةَ؟ Kamu (pr) tidak suka berenang. Jawabanmu …",
+          "prompt": {
+            "ar": "هَلْ تُحِبِّينَ السِّباحَةَ؟"
+          },
+          "answer": "لا، لا أُحِبُّ السِّباحَةَ.",
+          "options": [
+            "لا، لا أُحِبُّ السِّباحَةَ.",
+            "نَعَمْ، أُحِبُّ السِّباحَةَ.",
+            "لا، هِوايَتِي السِّباحَةُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "situasi-kagum",
+          "instruction": "Temanmu menunjukkan majalah dinding (مَجَلَّةُ الحائِطِ) buatannya. Kamu berkata …",
+          "prompt": {
+            "id": "Memuji hasil karya teman",
+            "emoji": "🧱"
+          },
+          "answer": "ما أَجْمَلَها!",
+          "options": [
+            "ما أَجْمَلَها!",
+            "ما أَجْمَلَهُ!",
+            "لا أُحِبُّها."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "tanya-hobi-teman-pr",
+          "instruction": "Tanyakan hobi teman perempuanmu, lalu ajak dia bermain",
+          "prompt": {
+            "id": "Ingat: pakai bentuk perempuan (ـكِ, تُحِبِّينَ)."
+          },
+          "model": [
+            {
+              "who": "aisyah",
+              "ar": "ما هِوايَتُكِ؟",
+              "id": "Apa hobimu? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "هَلْ تُحِبِّينَ كُرَةَ الرِّيشَةِ؟",
+              "id": "Apakah kamu suka bulu tangkis? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "هَيّا نَلْعَبْ بَعْدَ العَصْرِ.",
+              "id": "Ayo kita main sesudah asar."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-uhibbu-kurah",
+          "who": "budi",
+          "ar": "أُحِبُّ كُرَةَ القَدَمِ.",
+          "id": "Saya suka sepak bola."
+        },
+        {
+          "q": "choice",
+          "k": "jawab-ayya-nadin",
+          "instruction": "Ustazah bertanya: أَيَّ نادٍ تَخْتارُ؟ Kamu (lk) ingin masuk klub kaligrafi. Jawabanmu …",
+          "prompt": {
+            "ar": "أَيَّ نادٍ تَخْتارُ؟"
+          },
+          "answer": "أَخْتارُ نادِيَ الخَطِّ.",
+          "options": [
+            "أَخْتارُ نادِيَ الخَطِّ.",
+            "أَخْتارُ نادِيَ النَّشِيدِ.",
+            "تَخْتارُ نادِيَ الخَطِّ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "cerita-gambar-yusuf",
+          "instruction": "Lihat gambar dialog 3. Ceritakan apa yang dipilih Yusuf dan Budi",
+          "prompt": {
+            "id": "Pakai يَخْتارُ dan يُحِبُّ."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "يُوسُفُ يَخْتارُ بِنْتْشاك سِيلات.",
+              "id": "Yusuf memilih pencak silat."
+            },
+            {
+              "who": "rizki",
+              "ar": "بُودِي يُحِبُّ الغِناءَ.",
+              "id": "Budi suka bernyanyi."
+            }
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-la-uhibbu-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "لا أُحِبُّ الطَّبْخَ."
+          },
+          "answer": "Saya tidak suka memasak.",
+          "options": [
+            "Saya tidak suka memasak.",
+            "Saya suka memasak.",
+            "Saya memilih memasak."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-hiwayatuka",
+          "instruction": "Budi bertanya: ما هِوايَتُكَ؟ Hobimu (lk) menggambar. Jawabanmu …",
+          "prompt": {
+            "ar": "ما هِوايَتُكَ؟"
+          },
+          "answer": "هِوايَتِي الرَّسْمُ.",
+          "options": [
+            "هِوايَتِي الرَّسْمُ.",
+            "هِوايَتُكَ الرَّسْمُ.",
+            "هِوايَتُها الرَّسْمُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-fi-waqt-faragh",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "فِي وَقْتِ الفَراغِ"
+          },
+          "answer": "pada waktu luang",
+          "options": [
+            "pada waktu luang",
+            "pada hari libur",
+            "pada pagi hari"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-la-uhibbu",
+          "prompt": {
+            "id": "Saya tidak suka berenang."
+          },
+          "answer": "لا أُحِبُّ السِّباحَةَ",
+          "extra": [
+            "تُحِبُّ"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Klub-klub ma'had",
+          "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            {
+              "ar": "فِي مَعْهَدِ الهُدَى نَوادٍ كَثِيرَةٌ.",
+              "id": "Di Ma'had al-Huda ada banyak klub.",
+              "emoji": "🏫"
+            },
+            {
+              "ar": "يَذْهَبُ الطُّلّابُ إِلَى النَّوادِي فِي وَقْتِ الفَراغِ.",
+              "id": "Para pelajar pergi ke klub-klub pada waktu luang."
+            },
+            {
+              "ar": "سِيتِي تَتَعَلَّمُ الخَطَّ النَّسْخِيَّ فِي نادِي الخَطِّ.",
+              "id": "Siti belajar khat naskhi di klub kaligrafi.",
+              "emoji": "🖋️"
+            },
+            {
+              "ar": "بُودِي يُغَنِّي فِي نادِي النَّشِيدِ.",
+              "id": "Budi bernyanyi di klub nasyid.",
+              "emoji": "🎤"
+            },
+            {
+              "ar": "يُوسُفُ يَتَعَلَّمُ بِنْتْشاك سِيلات يَوْمَ الخَمِيسِ.",
+              "id": "Yusuf belajar pencak silat pada hari Kamis.",
+              "emoji": "🥋"
+            },
+            {
+              "ar": "رِزْقِي يَكْتُبُ قِصَّةً جَدِيدَةً لِمَجَلَّةِ الحائِطِ.",
+              "id": "Rizki menulis cerita baru untuk majalah dinding.",
+              "emoji": "🧱"
+            },
+            {
+              "ar": "عائِشَةُ تَلْعَبُ كُرَةَ الرِّيشَةِ بَعْدَ العَصْرِ.",
+              "id": "Aisyah bermain bulu tangkis sesudah asar.",
+              "emoji": "🏸"
+            },
+            {
+              "ar": "ما أَجْمَلَ وَقْتَ الفَراغِ فِي المَعْهَدِ!",
+              "id": "Indah sekali waktu luang di ma'had!"
+            }
+          ],
+          "img": "u12-baca-klub",
+          "scene": "Afternoon activity time at a ma'had in Yogyakarta, shown as one wide scene: Siti writing calligraphy at a low table (abstract strokes, no legible letters), Budi singing with a small group holding rebana drums, Yusuf in a black pencak silat uniform practicing on a mat, Rizki pinning a paper onto a blank wall board, and Aisyah playing badminton on a small court.",
+          "note_id": "Kata baru: الطُّلّابُ = para pelajar; يُغَنِّي = bernyanyi (dia lk)."
+        },
+        {
+          "q": "choice",
+          "k": "baca-siti-khat",
+          "instruction": "Benar atau salah? \"Siti belajar khat naskhi.\"",
+          "prompt": {
+            "ar": "سِيتِي تَتَعَلَّمُ الخَطَّ النَّسْخِيَّ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-budi-silat",
+          "instruction": "Benar atau salah? \"Budi belajar pencak silat.\"",
+          "prompt": {
+            "ar": "بُودِي يَتَعَلَّمُ بِنْتْشاك سِيلات."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-rizki-tulis",
+          "instruction": "Apa yang ditulis Rizki?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "📝"
+          },
+          "answer": "Cerita baru untuk majalah dinding",
+          "options": [
+            "Cerita baru untuk majalah dinding",
+            "Puisi untuk majalah dinding",
+            "Cerita baru untuk Ustazah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-kapan-aisyah",
+          "instruction": "Kapan Aisyah bermain bulu tangkis?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Sesudah asar",
+          "options": [
+            "Sesudah asar",
+            "Pada hari Kamis",
+            "Sesudah subuh"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-yughanni-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "بُودِي يُغَنِّي فِي نادِي النَّشِيدِ."
+          },
+          "answer": "Budi bernyanyi di klub nasyid.",
+          "options": [
+            "Budi bernyanyi di klub nasyid.",
+            "Budi menulis di klub nasyid.",
+            "Budi bermain di klub silat."
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Formulir pendaftaran klub",
+          "title_ar": "اِسْتِمارَةُ التَّسْجِيلِ فِي النّادِي",
+          "instruction_id": "Ini formulir yang diisi Yusuf. اِسْتِمارَةٌ = formulir, تَسْجِيلٌ = pendaftaran.",
+          "rows": [
+            {
+              "ar": "الِاسْمُ: يُوسُفُ",
+              "id": "Nama: Yusuf",
+              "emoji": "🪪"
+            },
+            {
+              "ar": "المَدِينَةُ: إِسْطَنْبُول",
+              "id": "Kota: Istanbul",
+              "emoji": "🏙️"
+            },
+            {
+              "ar": "الهِوايَةُ: الرِّياضَةُ",
+              "id": "Hobi: olahraga",
+              "emoji": "🏃"
+            },
+            {
+              "ar": "النّادِي: بِنْتْشاك سِيلات",
+              "id": "Klub: pencak silat",
+              "emoji": "🥋"
+            },
+            {
+              "ar": "يَوْمُ التَّدْرِيبِ: الخَمِيسُ",
+              "id": "Hari latihan: Kamis",
+              "emoji": "📅"
+            },
+            {
+              "ar": "وَقْتُ التَّدْرِيبِ: السّاعَةُ الرّابِعَةُ",
+              "id": "Waktu latihan: jam empat",
+              "emoji": "🕓"
+            }
+          ],
+          "img": "u12-baca-formulir",
+          "scene": "Close-up of Yusuf, a Turkish student at a ma'had in Yogyakarta, sitting at a wooden table filling in a paper registration form with a pen (the form shows only blank lines and boxes, no text), with a folded black pencak silat uniform beside him."
+        },
+        {
+          "q": "choice",
+          "k": "form-kota",
+          "instruction": "Yusuf dari kota mana?",
+          "prompt": {
+            "id": "Menurut formulir"
+          },
+          "answer": "Istanbul",
+          "options": [
+            "Istanbul",
+            "Yogyakarta",
+            "Kairo"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "form-klub",
+          "instruction": "Klub apa yang dipilih Yusuf?",
+          "prompt": {
+            "id": "Menurut formulir",
+            "emoji": "🥋"
+          },
+          "answer": "Pencak silat",
+          "options": [
+            "Pencak silat",
+            "Nasyid",
+            "Kaligrafi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "form-hobi-qiraah",
+          "instruction": "Benar atau salah? \"Hobi Yusuf membaca.\"",
+          "prompt": {
+            "ar": "هِوايَةُ يُوسُفَ القِراءَةُ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "form-jam",
+          "instruction": "Jam berapa latihannya?",
+          "prompt": {
+            "id": "Menurut formulir",
+            "emoji": "🕓"
+          },
+          "answer": "Jam empat",
+          "options": [
+            "Jam empat",
+            "Jam tiga",
+            "Jam lima"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-nawadi",
+          "instruction": "Benar atau salah? \"Di ma'had ada banyak klub.\"",
+          "prompt": {
+            "ar": "فِي المَعْهَدِ نَوادٍ كَثِيرَةٌ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-aisyah-kurah",
+          "instruction": "Benar atau salah? \"Aisyah bermain sepak bola.\"",
+          "prompt": {
+            "ar": "عائِشَةُ تَلْعَبُ كُرَةَ القَدَمِ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-yusuf-hari",
+          "instruction": "Hari apa Yusuf belajar pencak silat?",
+          "prompt": {
+            "id": "Menurut bacaan"
+          },
+          "answer": "Kamis",
+          "options": [
+            "Kamis",
+            "Jumat",
+            "Sabtu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-istimarah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "اِسْتِمارَةٌ"
+          },
+          "answer": "formulir",
+          "options": [
+            "formulir",
+            "latihan",
+            "klub"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-tullab-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "يَذْهَبُ الطُّلّابُ إِلَى النَّوادِي."
+          },
+          "answer": "Para pelajar pergi ke klub-klub.",
+          "options": [
+            "Para pelajar pergi ke klub-klub.",
+            "Para guru pergi ke klub-klub.",
+            "Para pelajar pergi ke perpustakaan."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis paragraf hobi",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Kata dengan غ",
+          "instruction_id": "Telusuri kata-kata ini. Perhatikan titik di atas غ; tanpa titik hurufnya ع.",
+          "rows": [
+            {
+              "ar": "غِناءٌ",
+              "id": "bernyanyi"
+            },
+            {
+              "ar": "فَراغٌ",
+              "id": "kosong, luang"
+            },
+            {
+              "ar": "غُرْفَةٌ",
+              "id": "kamar"
+            },
+            {
+              "ar": "المَغْرِبُ",
+              "id": "magrib"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tulis-faragh",
+          "instruction": "Mana tulisan \"waktu luang\" yang benar?",
+          "prompt": {
+            "id": "waktu luang",
+            "emoji": "⏳"
+          },
+          "answer": "وَقْتُ الفَراغِ",
+          "options": [
+            "وَقْتُ الفَراغِ",
+            "وَقْتُ الفَراجِ",
+            "وَقْتُ الفَراعِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tulis-hiwayah",
+          "instruction": "Mana tulisan \"hobi\" yang benar?",
+          "prompt": {
+            "id": "hobi",
+            "emoji": "⭐"
+          },
+          "answer": "هِوايَةٌ",
+          "options": [
+            "هِوايَةٌ",
+            "هِوايَتٌ",
+            "حِوايَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "eja-ghina",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "غِناءٌ (bernyanyi)"
+          },
+          "answer": "غ ن ا ء",
+          "extra": [
+            "ج"
+          ]
+        },
+        {
+          "card": "writing",
+          "section": "Paragraf tentang hobi",
+          "instruction_id": "Contoh paragraf tiga kalimat: nama, hobi, dan kapan melakukannya. Salin lengkap dengan harakatnya.",
+          "rows": [
+            {
+              "ar": "اِسْمِي سِيتِي.",
+              "id": "Nama saya Siti."
+            },
+            {
+              "ar": "هِوايَتِي الخَطُّ العَرَبِيُّ.",
+              "id": "Hobi saya kaligrafi Arab."
+            },
+            {
+              "ar": "أَكْتُبُ فِي وَقْتِ الفَراغِ كُلَّ يَوْمٍ.",
+              "id": "Saya menulis pada waktu luang setiap hari."
+            }
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-hiwayati-kurah",
+          "prompt": {
+            "id": "Nama saya Budi, dan hobi saya sepak bola."
+          },
+          "answer": "اِسْمِي بُودِي وَهِوايَتِي كُرَةُ القَدَمِ",
+          "extra": [
+            "هِوايَتُكَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-alab-badal-asr",
+          "prompt": {
+            "id": "Saya bermain bulu tangkis."
+          },
+          "answer": "أَلْعَبُ كُرَةَ الرِّيشَةِ",
+          "extra": [
+            "يَلْعَبُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-aqra-qisas",
+          "prompt": {
+            "id": "Saya membaca cerita-cerita."
+          },
+          "answer": "أَقْرَأُ القِصَصَ",
+          "extra": [
+            "قِصَّةٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "kalimat-ketiga",
+          "instruction": "Paragraf Budi: اِسْمِي بُودِي. هِوايَتِي كُرَةُ القَدَمِ. Kalimat ketiga yang paling cocok adalah …",
+          "prompt": {
+            "id": "Pilih kalimat penutup"
+          },
+          "answer": "أَلْعَبُها يَوْمَ الجُمُعَةِ.",
+          "options": [
+            "أَلْعَبُها يَوْمَ الجُمُعَةِ.",
+            "هِوايَتِي الخَطُّ.",
+            "لا أُحِبُّ الرِّياضَةَ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-hiwayatuha",
+          "instruction": "Lengkapi tulisan tentang Aisyah",
+          "prompt": {
+            "ar": "عائِشَةُ مِنْ مالِيزِيا. … كُرَةُ الرِّيشَةِ."
+          },
+          "answer": "هِوايَتُها",
+          "options": [
+            "هِوايَتُها",
+            "هِوايَتُهُ",
+            "هِوايَتِي"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tulis-ghina",
+          "instruction": "Mana tulisan \"bernyanyi\" yang benar?",
+          "prompt": {
+            "id": "bernyanyi",
+            "emoji": "🎶"
+          },
+          "answer": "غِناءٌ",
+          "options": [
+            "غِناءٌ",
+            "عِناءٌ",
+            "جِناءٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-eja-faragh",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "فَراغٌ (luang)"
+          },
+          "answer": "ف ر ا غ",
+          "extra": [
+            "ع"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-kalimat-hiwayati-rasm",
+          "prompt": {
+            "id": "Nama saya Ayu, dan hobi saya menggambar."
+          },
+          "answer": "اِسْمِي أَيُو وَهِوايَتِي الرَّسْمُ",
+          "extra": [
+            "هِوايَتُها"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-kalimat-atalammu-silat",
+          "prompt": {
+            "id": "Saya belajar pencak silat."
+          },
+          "answer": "أَتَعَلَّمُ بِنْتْشاك سِيلات",
+          "extra": [
+            "يَتَعَلَّمُ"
+          ]
+        }
+      ]
+    }
+  ]
+}

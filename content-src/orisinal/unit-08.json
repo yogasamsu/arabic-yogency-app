@@ -1,0 +1,2590 @@
+{
+  "unit": 8,
+  "book": "1a",
+  "title_ar": "العَمَلُ",
+  "title_id": "Pekerjaan",
+  "notes": "Kelas membahas pekerjaan orang tua. Dialog 1: Rizki–Budi (ayah Budi nelayan di Surabaya, ayah Rizki insinyur PDAM, ibu Rizki dokter puskesmas). Dialog 2: Siti–Aisyah (ibu Siti pedagang kain, jumlah saudara). Dialog 3: panggilan video Rizki dengan Pak Ahmad dan Nur (jam kerja, hari libur, cita-cita pilot dan penerjemah). Pola: هَلْ + mudhari'، أَيْضًا، لِي/عِنْدِي + jumlah، كَمْ + tamyiz، كَمْ ساعَةً؟، السّاعَةُ + ordinal muannats، يُحِبُّ + isim/mashdar. Bunyi ض/د. Menulis: huruf → kata → kalimat. Nama نُور diperlakukan sebagai nama Indonesia (tanpa i'rab); Nur perempuan. Cek kemiripan ABY (tanggal 2026-10-04): halaman dialog ABY unit 8 (hlm. PDF 212–219: hiwar 1 dokter/insinyur dan jam kerja, hiwar 2 mahasiswa fakultas, hiwar 3 guru wanita dan jumlah anak, daftar jam) dibandingkan dengan dialog dan bacaan unit ini. Tidak ada lebih dari 2 kalimat berurutan yang identik/hampir identik; kemiripan hanya pada pola tunggal yang memang menjadi target (كَمْ ساعَةً تَعْمَلُ…، كَمْ طِفْلًا…، السّاعَةُ + ordinal). Tidak ada yang ditulis ulang. Perbaikan arrange 2026-10-04 (urutan ganda): susun-yuhibbu-tarjamah → هُوَ يُحِبُّ التَّرْجَمَةَ dan kalimat-nur-tairat → هِيَ تُحِبُّ الطّائِراتِ (subjek nama bisa sesudah fi'il; dhamir di depan fi'il tidak).",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Ayah Budi nelayan",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Ustazah Zainab memberi tugas: tulis pekerjaan orang tuamu. Di kamar asrama, Rizki dan Budi saling bertanya.",
+          "rows": [
+            {
+              "who": "rizki",
+              "ar": "يا بُودِي، ماذا يَعْمَلُ أَبُوكَ؟",
+              "id": "Budi, apa pekerjaan ayahmu?"
+            },
+            {
+              "who": "budi",
+              "ar": "أَبِي صَيّادٌ فِي سُورابايا.",
+              "id": "Ayah saya nelayan di Surabaya."
+            },
+            {
+              "who": "rizki",
+              "ar": "هَلْ يَذْهَبُ إِلَى البَحْرِ كُلَّ يَوْمٍ؟",
+              "id": "Apakah dia pergi ke laut setiap hari?"
+            },
+            {
+              "who": "budi",
+              "ar": "نَعَمْ، يَذْهَبُ فِي المَساءِ وَيَرْجِعُ صَباحًا.",
+              "id": "Ya, dia berangkat sore hari dan pulang pagi hari."
+            },
+            {
+              "who": "budi",
+              "ar": "وَأَبُوكَ؟ ماذا يَعْمَلُ؟",
+              "id": "Kalau ayahmu? Apa pekerjaannya?"
+            },
+            {
+              "who": "rizki",
+              "ar": "أَبِي مُهَنْدِسٌ فِي شَرِكَةِ الماءِ.",
+              "id": "Ayah saya insinyur di perusahaan air minum."
+            },
+            {
+              "who": "budi",
+              "ar": "وَأُمُّكَ؟ هَلْ تَعْمَلُ أَيْضًا؟",
+              "id": "Kalau ibumu? Apakah dia bekerja juga?"
+            },
+            {
+              "who": "rizki",
+              "ar": "نَعَمْ، هِيَ طَبِيبَةٌ فِي مَرْكَزٍ صِحِّيٍّ.",
+              "id": "Ya, dia dokter di puskesmas."
+            }
+          ],
+          "img": "u8-ayah-budi",
+          "scene": "Rizki and Budi sitting on their beds in a simple dormitory room in Yogyakarta, chatting while writing homework in notebooks; a small thought bubble shows a fisherman's wooden boat on the sea at dusk."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "عَمَلٌ",
+              "id": "pekerjaan",
+              "emoji": "💼",
+              "serapan": "amal"
+            },
+            {
+              "ar": "يَعْمَلُ",
+              "id": "dia (lk) bekerja",
+              "emoji": "🛠️"
+            },
+            {
+              "ar": "صَيّادٌ",
+              "id": "nelayan",
+              "emoji": "🎣"
+            },
+            {
+              "ar": "بَحْرٌ",
+              "id": "laut",
+              "emoji": "🌊"
+            },
+            {
+              "ar": "كُلَّ يَوْمٍ",
+              "id": "setiap hari",
+              "emoji": "📅"
+            },
+            {
+              "ar": "شَرِكَةٌ",
+              "id": "perusahaan",
+              "emoji": "🏢"
+            },
+            {
+              "ar": "أَيْضًا",
+              "id": "juga",
+              "emoji": "➕"
+            },
+            {
+              "ar": "مَرْكَزٌ صِحِّيٌّ",
+              "id": "puskesmas (pusat kesehatan)",
+              "emoji": "🏥"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "madza-yamal-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "ماذا يَعْمَلُ أَبُوكَ؟"
+          },
+          "answer": "Apa pekerjaan ayahmu? (lk)",
+          "options": [
+            "Apa pekerjaan ayahmu? (lk)",
+            "Di mana ayahmu? (lk)",
+            "Siapa nama ayahmu? (lk)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "budi-ayah-kerja",
+          "instruction": "Menurut dialog, apa pekerjaan ayah Budi?",
+          "prompt": {
+            "emoji": "👨",
+            "ar": "أَبُو بُودِي …"
+          },
+          "answer": "Nelayan",
+          "options": [
+            "Nelayan",
+            "Insinyur",
+            "Dokter"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-kulla-yaum",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "هَلْ يَذْهَبُ إِلَى البَحْرِ كُلَّ يَوْمٍ؟"
+          },
+          "answer": "Apakah dia (lk) pergi ke laut setiap hari?",
+          "options": [
+            "Apakah dia (lk) pergi ke laut setiap hari?",
+            "Apakah dia (lk) pulang dari laut setiap pagi?",
+            "Apakah kamu (lk) pergi ke laut setiap hari?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "ibu-rizki-tempat",
+          "instruction": "Menurut dialog, di mana ibu Rizki bekerja?",
+          "prompt": {
+            "ar": "أُمُّ رِزْقِي طَبِيبَةٌ فِي …"
+          },
+          "answer": "Di puskesmas",
+          "options": [
+            "Di puskesmas",
+            "Di pasar",
+            "Di perusahaan air minum"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "sayyad-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "صَيّادٌ"
+          },
+          "answer": "nelayan",
+          "options": [
+            "nelayan",
+            "laut",
+            "insinyur"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-madza-yamal",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "ماذا يَعْمَلُ أَبُوكَ؟"
+          },
+          "answer": "أَبِي مُهَنْدِسٌ.",
+          "options": [
+            "أَبِي مُهَنْدِسٌ.",
+            "أَبِي فِي البَيْتِ.",
+            "أَنا مِنْ بانْدُونْغ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-abi-sayyad",
+          "prompt": {
+            "id": "Ayah saya nelayan di Surabaya."
+          },
+          "answer": "أَبِي صَيّادٌ فِي سُورابايا",
+          "extra": [
+            "أَبُوكَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hal-tamal-aidan",
+          "prompt": {
+            "id": "Apakah dia (pr) bekerja juga?"
+          },
+          "answer": "هَلْ تَعْمَلُ أَيْضًا",
+          "extra": [
+            "يَعْمَلُ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-abi-sayyad",
+          "who": "budi",
+          "ar": "أَبِي صَيّادٌ.",
+          "id": "Ayah saya nelayan."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-aidan-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَيْضًا"
+          },
+          "answer": "juga",
+          "options": [
+            "juga",
+            "setiap hari",
+            "laut"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-abi-muhandis",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "أَبِي مُهَنْدِسٌ فِي شَرِكَةِ الماءِ."
+          },
+          "answer": "Ayah saya insinyur di perusahaan air minum.",
+          "options": [
+            "Ayah saya insinyur di perusahaan air minum.",
+            "Ayah saya nelayan di Surabaya.",
+            "Ibu saya dokter di puskesmas."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kapan-ayah-budi",
+          "instruction": "Menurut dialog, kapan ayah Budi berangkat ke laut?",
+          "prompt": {
+            "ar": "يَذْهَبُ فِي المَساءِ."
+          },
+          "answer": "Sore hari",
+          "options": [
+            "Sore hari",
+            "Pagi hari",
+            "Setiap Jumat"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-madza-yamal",
+          "prompt": {
+            "id": "Apa pekerjaan ayahmu? (lk)"
+          },
+          "answer": "ماذا يَعْمَلُ أَبُوكَ",
+          "extra": [
+            "أَبِي"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-syarikah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "شَرِكَةٌ"
+          },
+          "answer": "perusahaan",
+          "options": [
+            "perusahaan",
+            "puskesmas",
+            "laut"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Ibu Siti pedagang kain",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Di asrama putri, Siti dan Aisyah mengerjakan tugas yang sama: pekerjaan orang tua.",
+          "rows": [
+            {
+              "who": "aisyah",
+              "ar": "يا سِيتِي، ماذا تَعْمَلُ أُمُّكِ؟",
+              "id": "Siti, apa pekerjaan ibumu?"
+            },
+            {
+              "who": "siti",
+              "ar": "أُمِّي تاجِرَةٌ، تَبِيعُ القُماشَ فِي السُّوقِ.",
+              "id": "Ibu saya pedagang. Dia menjual kain di pasar."
+            },
+            {
+              "who": "aisyah",
+              "ar": "ما شاءَ اللّٰهُ! وَأَبُوكِ؟",
+              "id": "Masyaallah! Kalau ayahmu?"
+            },
+            {
+              "who": "siti",
+              "ar": "أَبِي مُدَرِّسٌ. وَأُمُّكِ يا عائِشَةُ؟",
+              "id": "Ayah saya guru. Kalau ibumu, Aisyah?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى.",
+              "id": "Ibu saya perawat di rumah sakit."
+            },
+            {
+              "who": "siti",
+              "ar": "كَمْ أَخًا لَكِ؟",
+              "id": "Kamu punya berapa saudara laki-laki? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "لِي أَخٌ واحِدٌ. وَأَنْتِ؟",
+              "id": "Saya punya satu saudara laki-laki. Kalau kamu?"
+            },
+            {
+              "who": "siti",
+              "ar": "لِي أَخٌ واحِدٌ وَأُخْتانِ.",
+              "id": "Saya punya satu saudara laki-laki dan dua saudara perempuan."
+            }
+          ],
+          "img": "u8-ibu-siti",
+          "scene": "Siti and Aisyah sitting at a desk in a tidy female dormitory room, talking over their homework; a thought bubble shows a woman selling colorful batik cloth at a traditional Indonesian market stall."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "تاجِرَةٌ",
+              "id": "pedagang (pr)",
+              "emoji": "🛍️"
+            },
+            {
+              "ar": "تَبِيعُ",
+              "id": "dia (pr) menjual",
+              "emoji": "🏷️"
+            },
+            {
+              "ar": "قُماشٌ",
+              "id": "kain",
+              "emoji": "🧵"
+            },
+            {
+              "ar": "سُوقٌ",
+              "id": "pasar",
+              "emoji": "🏪"
+            },
+            {
+              "ar": "مُدَرِّسٌ",
+              "id": "guru (lk)",
+              "emoji": "👨‍🏫"
+            },
+            {
+              "ar": "مُمَرِّضَةٌ",
+              "id": "perawat (pr)",
+              "emoji": "👩‍⚕️"
+            },
+            {
+              "ar": "المُسْتَشْفَى",
+              "id": "rumah sakit",
+              "emoji": "🏥"
+            },
+            {
+              "ar": "كَمْ أَخًا لَكِ؟",
+              "id": "kamu (pr) punya berapa saudara laki-laki?",
+              "emoji": "🔢"
+            },
+            {
+              "ar": "لِي",
+              "id": "saya punya",
+              "emoji": "🙋"
+            },
+            {
+              "ar": "ما شاءَ اللّٰهُ",
+              "id": "masyaallah (ungkapan kagum)",
+              "emoji": "✨",
+              "serapan": "masyaallah"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tajirah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "تاجِرَةٌ"
+          },
+          "answer": "pedagang (pr)",
+          "options": [
+            "pedagang (pr)",
+            "perawat (pr)",
+            "guru (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "ibu-siti-jual",
+          "instruction": "Menurut dialog, apa yang dijual ibu Siti?",
+          "prompt": {
+            "ar": "تَبِيعُ …",
+            "emoji": "🏪"
+          },
+          "answer": "Kain",
+          "options": [
+            "Kain",
+            "Ikan",
+            "Buku"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-ummi-mumarridah",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى."
+          },
+          "answer": "Ibu saya perawat di rumah sakit.",
+          "options": [
+            "Ibu saya perawat di rumah sakit.",
+            "Ibu saya dokter di rumah sakit.",
+            "Ibu saya pedagang di pasar."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-kam-akhan",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "كَمْ أَخًا لَكِ؟"
+          },
+          "answer": "لِي أَخٌ واحِدٌ.",
+          "options": [
+            "لِي أَخٌ واحِدٌ.",
+            "أُمِّي تاجِرَةٌ.",
+            "أَنا مِنْ مِيدان."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "ayah-siti-kerja",
+          "instruction": "Menurut dialog, apa pekerjaan ayah Siti?",
+          "prompt": {
+            "emoji": "👨",
+            "ar": "أَبُو سِيتِي …"
+          },
+          "answer": "Guru",
+          "options": [
+            "Guru",
+            "Pedagang",
+            "Perawat"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "saudara-siti",
+          "instruction": "Menurut dialog, Siti punya berapa saudara?",
+          "prompt": {
+            "ar": "لِي أَخٌ واحِدٌ وَأُخْتانِ."
+          },
+          "answer": "1 saudara laki-laki dan 2 saudara perempuan",
+          "options": [
+            "1 saudara laki-laki dan 2 saudara perempuan",
+            "2 saudara laki-laki dan 1 saudara perempuan",
+            "1 saudara laki-laki saja"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-ummi-tajirah",
+          "prompt": {
+            "id": "Ibu saya pedagang di pasar."
+          },
+          "answer": "أُمِّي تاجِرَةٌ فِي السُّوقِ",
+          "extra": [
+            "تاجِرٌ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-li-akh",
+          "prompt": {
+            "id": "Saya punya satu saudara laki-laki."
+          },
+          "answer": "لِي أَخٌ واحِدٌ",
+          "extra": [
+            "واحِدَةٌ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-li-akh-ukhtani",
+          "who": "siti",
+          "ar": "لِي أَخٌ واحِدٌ وَأُخْتانِ.",
+          "id": "Saya punya satu saudara laki-laki dan dua saudara perempuan."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-mumarridah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مُمَرِّضَةٌ"
+          },
+          "answer": "perawat (pr)",
+          "options": [
+            "perawat (pr)",
+            "dokter (pr)",
+            "pedagang (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-qumasy-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "قُماشٌ"
+          },
+          "answer": "kain",
+          "options": [
+            "kain",
+            "pasar",
+            "ikan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-tanya-ibu-pr",
+          "instruction": "Kamu ingin tahu pekerjaan ibu Aisyah. Kamu bertanya …",
+          "prompt": {
+            "id": "Apa pekerjaan ibumu? (pr)",
+            "emoji": "👩"
+          },
+          "answer": "ماذا تَعْمَلُ أُمُّكِ؟",
+          "options": [
+            "ماذا تَعْمَلُ أُمُّكِ؟",
+            "ماذا تَعْمَلُ أُمُّكَ؟",
+            "أَيْنَ أُمُّكِ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-ummi-tajirah",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "أُمِّي تاجِرَةٌ، تَبِيعُ القُماشَ."
+          },
+          "answer": "أُمِّي تاجِرَةٌ، تَبِيعُ القُماشَ.",
+          "options": [
+            "أُمِّي تاجِرَةٌ، تَبِيعُ القُماشَ.",
+            "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى.",
+            "أَبِي مُدَرِّسٌ فِي مَدْرَسَةٍ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-kam-akhan",
+          "prompt": {
+            "id": "Kamu punya berapa saudara laki-laki? (pr)"
+          },
+          "answer": "كَمْ أَخًا لَكِ",
+          "extra": [
+            "لَكَ"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Jam kerja ayah",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Malam hari, Rizki melakukan panggilan video ke rumah di Bandung. Dia perlu tahu jam kerja ayahnya untuk tugas kelas. Nur ikut bicara.",
+          "rows": [
+            {
+              "who": "rizki",
+              "ar": "يا أَبِي، كَمْ ساعَةً تَعْمَلُ كُلَّ يَوْمٍ؟",
+              "id": "Ayah, berapa jam Ayah bekerja setiap hari?"
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "أَعْمَلُ تِسْعَ ساعاتٍ، مِنَ السّابِعَةِ إِلَى الرّابِعَةِ.",
+              "id": "Ayah bekerja sembilan jam, dari jam tujuh sampai jam empat."
+            },
+            {
+              "who": "rizki",
+              "ar": "هَلْ تَعْمَلُ يَوْمَ السَّبْتِ أَيْضًا؟",
+              "id": "Apakah Ayah bekerja pada hari Sabtu juga?"
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "لا، يَوْمُ السَّبْتِ عُطْلَةٌ.",
+              "id": "Tidak, hari Sabtu libur."
+            },
+            {
+              "who": "nur",
+              "ar": "يا رِزْقِي، أَنا أُحِبُّ الطّائِراتِ!",
+              "id": "Kak Rizki, aku suka pesawat!"
+            },
+            {
+              "who": "rizki",
+              "ar": "هَلْ تُرِيدِينَ أَنْ تَكُونِي طَيّارَةً؟",
+              "id": "Apakah kamu ingin menjadi pilot? (pr)"
+            },
+            {
+              "who": "nur",
+              "ar": "نَعَمْ، سَأَكُونُ طَيّارَةً إِنْ شاءَ اللّٰهُ!",
+              "id": "Ya, aku akan menjadi pilot, insyaallah!"
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "وَرِزْقِي يُحِبُّ التَّرْجَمَةَ.",
+              "id": "Dan Rizki suka menerjemah."
+            },
+            {
+              "who": "rizki",
+              "ar": "نَعَمْ، سَأَكُونُ مُتَرْجِمًا إِنْ شاءَ اللّٰهُ.",
+              "id": "Ya, saya akan menjadi penerjemah, insyaallah."
+            }
+          ],
+          "img": "u8-video-call",
+          "scene": "Evening video call: Rizki in his dormitory room holds up a smartphone whose screen shows Pak Ahmad in the living room of a house in Bandung and Nur beside him excitedly holding up her toy airplane."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "كَمْ ساعَةً؟",
+              "id": "berapa jam? (lamanya)",
+              "emoji": "⏳"
+            },
+            {
+              "ar": "ساعاتٌ",
+              "id": "jam-jam (bentuk jamak ساعَةٌ)",
+              "emoji": "🕘"
+            },
+            {
+              "ar": "أُحِبُّ",
+              "id": "saya suka",
+              "emoji": "❤️"
+            },
+            {
+              "ar": "طائِرَةٌ ← طائِراتٌ",
+              "id": "pesawat → pesawat-pesawat",
+              "emoji": "✈️"
+            },
+            {
+              "ar": "طَيّارٌ · طَيّارَةٌ",
+              "id": "pilot (lk · pr)",
+              "emoji": "🧑‍✈️"
+            },
+            {
+              "ar": "تُرِيدِينَ أَنْ تَكُونِي …",
+              "id": "kamu (pr) ingin menjadi …",
+              "emoji": "💭"
+            },
+            {
+              "ar": "سَأَكُونُ …",
+              "id": "saya akan menjadi …",
+              "emoji": "🚀"
+            },
+            {
+              "ar": "تَرْجَمَةٌ",
+              "id": "terjemahan, menerjemah",
+              "emoji": "📝",
+              "serapan": "terjemah"
+            },
+            {
+              "ar": "مُتَرْجِمٌ",
+              "id": "penerjemah (lk)",
+              "emoji": "🗣️"
+            },
+            {
+              "ar": "عُطْلَةٌ",
+              "id": "libur",
+              "emoji": "🏖️"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "kam-saah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "كَمْ ساعَةً تَعْمَلُ؟"
+          },
+          "answer": "Berapa jam kamu (lk) bekerja?",
+          "options": [
+            "Berapa jam kamu (lk) bekerja?",
+            "Jam berapa kamu (lk) bekerja?",
+            "Di mana kamu (lk) bekerja?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "ayah-jumlah-jam",
+          "instruction": "Menurut dialog, berapa jam Pak Ahmad bekerja setiap hari?",
+          "prompt": {
+            "id": "Pak Ahmad bekerja … setiap hari",
+            "emoji": "⏳"
+          },
+          "answer": "9 jam",
+          "options": [
+            "9 jam",
+            "7 jam",
+            "4 jam"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "ayah-sabtu",
+          "instruction": "Benar atau salah? \"Pak Ahmad bekerja pada hari Sabtu.\"",
+          "prompt": {
+            "ar": "أَحْمَدُ يَعْمَلُ يَوْمَ السَّبْتِ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-nur-pilot",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "سَأَكُونُ طَيّارَةً إِنْ شاءَ اللّٰهُ."
+          },
+          "answer": "Aku akan menjadi pilot (pr), insyaallah.",
+          "options": [
+            "Aku akan menjadi pilot (pr), insyaallah.",
+            "Aku suka pesawat.",
+            "Aku akan menjadi penerjemah (lk), insyaallah."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "rizki-cita",
+          "instruction": "Menurut dialog, apa cita-cita Rizki?",
+          "prompt": {
+            "emoji": "💭",
+            "ar": "رِزْقِي: سَأَكُونُ …"
+          },
+          "answer": "Penerjemah",
+          "options": [
+            "Penerjemah",
+            "Pilot",
+            "Insinyur"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "pilot-pr-ar",
+          "instruction": "Bahasa Arabnya \"pilot (pr)\" adalah …",
+          "prompt": {
+            "id": "pilot (pr)",
+            "emoji": "🧑‍✈️"
+          },
+          "answer": "طَيّارَةٌ",
+          "options": [
+            "طَيّارَةٌ",
+            "طَيّارٌ",
+            "طائِرَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "balas-turidina",
+          "instruction": "Rizki bertanya kepada Nur. Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "هَلْ تُرِيدِينَ أَنْ تَكُونِي طَيّارَةً؟"
+          },
+          "answer": "نَعَمْ، سَأَكُونُ طَيّارَةً.",
+          "options": [
+            "نَعَمْ، سَأَكُونُ طَيّارَةً.",
+            "نَعَمْ، سَأَكُونُ طَيّارًا.",
+            "لا، يَوْمُ السَّبْتِ عُطْلَةٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-uhibbu-tairat",
+          "prompt": {
+            "id": "Aku suka pesawat."
+          },
+          "answer": "أَنا أُحِبُّ الطّائِراتِ",
+          "extra": [
+            "يُحِبُّ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-yuhibbu-tarjamah",
+          "prompt": {
+            "id": "Dia (lk) suka menerjemah."
+          },
+          "answer": "هُوَ يُحِبُّ التَّرْجَمَةَ",
+          "extra": [
+            "أُحِبُّ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-kam-saah",
+          "who": "rizki",
+          "ar": "كَمْ ساعَةً تَعْمَلُ؟",
+          "id": "Berapa jam kamu (lk) bekerja?"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-sabtu-utlah",
+          "instruction": "Menurut dialog, hari Sabtu bagi Pak Ahmad adalah …",
+          "prompt": {
+            "ar": "يَوْمُ السَّبْتِ …"
+          },
+          "answer": "hari libur",
+          "options": [
+            "hari libur",
+            "hari kerja",
+            "hari ujian"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-mutarjim-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مُتَرْجِمٌ"
+          },
+          "answer": "penerjemah (lk)",
+          "options": [
+            "penerjemah (lk)",
+            "pilot (lk)",
+            "insinyur"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-tisa-saat",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "أَعْمَلُ تِسْعَ ساعاتٍ."
+          },
+          "answer": "Saya bekerja sembilan jam.",
+          "options": [
+            "Saya bekerja sembilan jam.",
+            "Saya bekerja pada jam sembilan.",
+            "Saya bekerja dua jam."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-kam-saah",
+          "prompt": {
+            "id": "Berapa jam kamu (lk) bekerja setiap hari?"
+          },
+          "answer": "كَمْ ساعَةً تَعْمَلُ كُلَّ يَوْمٍ",
+          "extra": [
+            "ساعاتٍ"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & jam",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Profesi",
+          "rows": [
+            {
+              "ar": "طَبِيبٌ",
+              "id": "dokter (lk)",
+              "emoji": "👨‍⚕️",
+              "serapan": "tabib"
+            },
+            {
+              "ar": "مُمَرِّضَةٌ",
+              "id": "perawat (pr)",
+              "emoji": "👩‍⚕️"
+            },
+            {
+              "ar": "مُدَرِّسٌ",
+              "id": "guru (lk)",
+              "emoji": "👨‍🏫"
+            },
+            {
+              "ar": "مُهَنْدِسٌ",
+              "id": "insinyur",
+              "emoji": "👷"
+            },
+            {
+              "ar": "فَلّاحٌ",
+              "id": "petani",
+              "emoji": "🧑‍🌾"
+            },
+            {
+              "ar": "صَيّادٌ",
+              "id": "nelayan",
+              "emoji": "🎣"
+            },
+            {
+              "ar": "تاجِرٌ",
+              "id": "pedagang",
+              "emoji": "🛍️"
+            },
+            {
+              "ar": "سائِقٌ",
+              "id": "sopir",
+              "emoji": "🚌"
+            },
+            {
+              "ar": "طَيّارٌ",
+              "id": "pilot",
+              "emoji": "🧑‍✈️"
+            },
+            {
+              "ar": "مُوَظَّفٌ",
+              "id": "pegawai",
+              "emoji": "🧑‍💼"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Tempat kerja dan anak",
+          "rows": [
+            {
+              "ar": "مُسْتَشْفًى",
+              "id": "rumah sakit",
+              "emoji": "🏥"
+            },
+            {
+              "ar": "مَكْتَبٌ",
+              "id": "kantor (juga: meja tulis)",
+              "emoji": "🏢"
+            },
+            {
+              "ar": "سُوقٌ",
+              "id": "pasar",
+              "emoji": "🏪"
+            },
+            {
+              "ar": "مَدْرَسَةٌ",
+              "id": "sekolah",
+              "emoji": "🏫",
+              "serapan": "madrasah"
+            },
+            {
+              "ar": "طِفْلٌ",
+              "id": "anak kecil",
+              "emoji": "🧒"
+            },
+            {
+              "ar": "أَطْفالٌ",
+              "id": "anak-anak",
+              "emoji": "👧👦"
+            },
+            {
+              "ar": "وَلَدٌ ← أَوْلادٌ",
+              "id": "anak → anak-anak (putra-putri seseorang, segala usia)",
+              "emoji": "👨‍👩‍👧‍👦"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Jam",
+          "note_id": "Untuk menyebut jam, pakai angka urutan bentuk perempuan, karena السّاعَةُ kata perempuan. Pengecualian: jam satu = السّاعَةُ الواحِدَةُ.",
+          "rows": [
+            {
+              "ar": "السّاعَةُ الواحِدَةُ",
+              "id": "jam satu",
+              "emoji": "🕐"
+            },
+            {
+              "ar": "السّاعَةُ الثّانِيَةُ",
+              "id": "jam dua",
+              "emoji": "🕑"
+            },
+            {
+              "ar": "السّاعَةُ الثّالِثَةُ",
+              "id": "jam tiga",
+              "emoji": "🕒"
+            },
+            {
+              "ar": "السّاعَةُ الرّابِعَةُ",
+              "id": "jam empat",
+              "emoji": "🕓"
+            },
+            {
+              "ar": "السّاعَةُ الخامِسَةُ",
+              "id": "jam lima",
+              "emoji": "🕔"
+            },
+            {
+              "ar": "السّاعَةُ السّادِسَةُ",
+              "id": "jam enam",
+              "emoji": "🕕"
+            },
+            {
+              "ar": "السّاعَةُ السّابِعَةُ",
+              "id": "jam tujuh",
+              "emoji": "🕖"
+            },
+            {
+              "ar": "السّاعَةُ الثّامِنَةُ",
+              "id": "jam delapan",
+              "emoji": "🕗"
+            },
+            {
+              "ar": "السّاعَةُ التّاسِعَةُ",
+              "id": "jam sembilan",
+              "emoji": "🕘"
+            },
+            {
+              "ar": "السّاعَةُ العاشِرَةُ",
+              "id": "jam sepuluh",
+              "emoji": "🕙"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "gambar-dokter",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "👨‍⚕️"
+          },
+          "answer": "طَبِيبٌ",
+          "options": [
+            "طَبِيبٌ",
+            "طَيّارٌ",
+            "فَلّاحٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-petani",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🧑‍🌾"
+          },
+          "answer": "فَلّاحٌ",
+          "options": [
+            "فَلّاحٌ",
+            "صَيّادٌ",
+            "سائِقٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "saiq-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "سائِقٌ"
+          },
+          "answer": "sopir",
+          "options": [
+            "sopir",
+            "pilot",
+            "pegawai"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-muwazzaf",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "مُوَظَّفٌ"
+          },
+          "answer": "pegawai",
+          "options": [
+            "pegawai",
+            "guru (lk)",
+            "pedagang"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "tempat-tajir",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "التّاجِرُ يَعْمَلُ فِي …",
+            "id": "Pedagang bekerja di …"
+          },
+          "answer": "السُّوقِ",
+          "options": [
+            "السُّوقِ",
+            "المُسْتَشْفَى",
+            "البَحْرِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tempat-mumarridah",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "المُمَرِّضَةُ تَعْمَلُ فِي …",
+            "id": "Perawat bekerja di …"
+          },
+          "answer": "المُسْتَشْفَى",
+          "options": [
+            "المُسْتَشْفَى",
+            "السُّوقِ",
+            "البَحْرِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jam-tiga",
+          "instruction": "Jam berapa ini?",
+          "prompt": {
+            "emoji": "🕒"
+          },
+          "answer": "السّاعَةُ الثّالِثَةُ",
+          "options": [
+            "السّاعَةُ الثّالِثَةُ",
+            "السّاعَةُ الثّامِنَةُ",
+            "السّاعَةُ الثّانِيَةُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-jam-tujuh",
+          "instruction": "Dengarkan. Jam berapa?",
+          "prompt": {
+            "listen": "السّاعَةُ السّابِعَةُ"
+          },
+          "answer": "Jam 7",
+          "options": [
+            "Jam 7",
+            "Jam 9",
+            "Jam 6"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "jamak-tifl",
+          "instruction": "Bentuk jamak dari طِفْلٌ adalah …",
+          "prompt": {
+            "ar": "طِفْلٌ",
+            "emoji": "🧒"
+          },
+          "answer": "أَطْفالٌ",
+          "options": [
+            "أَطْفالٌ",
+            "طِفْلَةٌ",
+            "طائِراتٌ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-gambar-pilot",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🧑‍✈️"
+          },
+          "answer": "طَيّارٌ",
+          "options": [
+            "طَيّارٌ",
+            "طَبِيبٌ",
+            "تاجِرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-mudarris-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مُدَرِّسٌ"
+          },
+          "answer": "guru (lk)",
+          "options": [
+            "guru (lk)",
+            "dokter (lk)",
+            "sopir"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-jam-sepuluh",
+          "instruction": "Dengarkan. Jam berapa?",
+          "prompt": {
+            "listen": "السّاعَةُ العاشِرَةُ"
+          },
+          "answer": "Jam 10",
+          "options": [
+            "Jam 10",
+            "Jam 1",
+            "Jam 2"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jam-lima",
+          "instruction": "Jam berapa ini?",
+          "prompt": {
+            "emoji": "🕔"
+          },
+          "answer": "السّاعَةُ الخامِسَةُ",
+          "options": [
+            "السّاعَةُ الخامِسَةُ",
+            "السّاعَةُ الرّابِعَةُ",
+            "السّاعَةُ السّادِسَةُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-maktab-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مُوَظَّفٌ فِي مَكْتَبٍ"
+          },
+          "answer": "pegawai di kantor",
+          "options": [
+            "pegawai di kantor",
+            "pegawai di pasar",
+            "pegawai di rumah sakit"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Bertanya dengan هَلْ dan menambah أَيْضًا",
+          "groups": [
+            {
+              "title_ar": "هَلْ تَعْمَلُ؟ · هَلْ تَعْمَلِينَ؟",
+              "note_id": "Setelah هَلْ boleh langsung kata kerja. تَـ…ـُ untuk kamu (lk), تَـ…ـِينَ untuk kamu (pr). Jawabannya memakai أَ…ـُ (saya).",
+              "rows": [
+                {
+                  "ar": "هَلْ تَعْمَلُ فِي مَكْتَبٍ؟",
+                  "id": "Apakah kamu (lk) bekerja di kantor?"
+                },
+                {
+                  "ar": "هَلْ تَعْمَلِينَ فِي المُسْتَشْفَى؟",
+                  "id": "Apakah kamu (pr) bekerja di rumah sakit?"
+                },
+                {
+                  "ar": "نَعَمْ، أَعْمَلُ فِي المُسْتَشْفَى.",
+                  "id": "Ya, saya bekerja di rumah sakit."
+                }
+              ]
+            },
+            {
+              "title_ar": "… أَيْضًا",
+              "note_id": "أَيْضًا (juga) biasanya diletakkan di akhir kalimat.",
+              "rows": [
+                {
+                  "ar": "أَبِي مُدَرِّسٌ، وَأُمِّي مُدَرِّسَةٌ أَيْضًا.",
+                  "id": "Ayah saya guru, dan ibu saya juga guru."
+                },
+                {
+                  "ar": "أَنا طالِبٌ، وَأَخِي طالِبٌ أَيْضًا.",
+                  "id": "Saya pelajar, dan saudara laki-laki saya juga pelajar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Menyebut dan menanyakan jumlah",
+          "groups": [
+            {
+              "title_ar": "لِي · عِنْدِي + jumlah",
+              "note_id": "لِي dan عِنْدِي sama-sama berarti \"saya punya\". Satu: benda + واحِدٌ/واحِدَةٌ. Dua: cukup bentuk dua (ـانِ). Tiga sampai sepuluh: angka + benda jamak; bentuk angkanya berlawanan jenis dengan bendanya (طِفْلٌ laki-laki → ثَلاثَةُ).",
+              "rows": [
+                {
+                  "ar": "لِي أَخٌ واحِدٌ.",
+                  "id": "Saya punya satu saudara laki-laki."
+                },
+                {
+                  "ar": "لِي أُخْتانِ.",
+                  "id": "Saya punya dua saudara perempuan."
+                },
+                {
+                  "ar": "عِنْدِي ثَلاثَةُ أَطْفالٍ.",
+                  "id": "Saya punya tiga anak."
+                }
+              ]
+            },
+            {
+              "title_ar": "كَمْ + benda tunggal berakhiran -an",
+              "note_id": "Setelah كَمْ, bendanya tunggal dan berakhiran -an (ـًا).",
+              "rows": [
+                {
+                  "ar": "كَمْ أَخًا لَكَ؟",
+                  "id": "Kamu (lk) punya berapa saudara laki-laki?"
+                },
+                {
+                  "ar": "كَمْ طِفْلًا عِنْدَكِ؟",
+                  "id": "Kamu (pr) punya berapa anak?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Jam dan kesukaan",
+          "groups": [
+            {
+              "title_ar": "كَمِ السّاعَةُ؟ · كَمْ ساعَةً؟",
+              "note_id": "كَمِ السّاعَةُ؟ = jam berapa? كَمْ ساعَةً؟ = berapa jam (lamanya)? Setelah فِي, السّاعَةُ menjadi السّاعَةِ.",
+              "rows": [
+                {
+                  "ar": "كَمِ السّاعَةُ الآنَ؟",
+                  "id": "Jam berapa sekarang?"
+                },
+                {
+                  "ar": "السّاعَةُ الثّالِثَةُ.",
+                  "id": "Jam tiga."
+                },
+                {
+                  "ar": "أَرْجِعُ فِي السّاعَةِ الرّابِعَةِ.",
+                  "id": "Saya pulang pada jam empat."
+                },
+                {
+                  "ar": "كَمْ ساعَةً تَدْرُسُ؟",
+                  "id": "Berapa jam kamu (lk) belajar?"
+                },
+                {
+                  "ar": "أَدْرُسُ ساعَتَيْنِ.",
+                  "id": "Saya belajar dua jam."
+                }
+              ]
+            },
+            {
+              "title_ar": "يُحِبُّ · تُحِبُّ · أُحِبُّ + kata benda",
+              "note_id": "Yang disukai boleh benda atau kegiatan (kata kerja yang dibendakan), dan berakhiran -a.",
+              "rows": [
+                {
+                  "ar": "نُور تُحِبُّ الطّائِراتِ.",
+                  "id": "Nur suka pesawat."
+                },
+                {
+                  "ar": "أُمِّي تُحِبُّ الطَّبْخَ.",
+                  "id": "Ibu saya suka memasak."
+                },
+                {
+                  "ar": "أَبِي يُحِبُّ القِراءَةَ.",
+                  "id": "Ayah saya suka membaca."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "pilih-tamalina",
+          "instruction": "Kamu bertanya langsung kepada Bu Fatimah. Pilih kalimatnya",
+          "prompt": {
+            "id": "Apakah Ibu bekerja di rumah sakit?",
+            "emoji": "👩‍⚕️"
+          },
+          "answer": "هَلْ تَعْمَلِينَ فِي المُسْتَشْفَى؟",
+          "options": [
+            "هَلْ تَعْمَلِينَ فِي المُسْتَشْفَى؟",
+            "هَلْ تَعْمَلُ فِي المُسْتَشْفَى؟",
+            "هَلْ يَعْمَلُ فِي المُسْتَشْفَى؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jawab-hal-tamal",
+          "instruction": "Pak Ahmad ditanya. Jawaban yang benar?",
+          "prompt": {
+            "ar": "هَلْ تَعْمَلُ يَوْمَ الجُمُعَةِ؟"
+          },
+          "answer": "نَعَمْ، أَعْمَلُ يَوْمَ الجُمُعَةِ.",
+          "options": [
+            "نَعَمْ، أَعْمَلُ يَوْمَ الجُمُعَةِ.",
+            "نَعَمْ، يَعْمَلُ يَوْمَ الجُمُعَةِ.",
+            "نَعَمْ، تَعْمَلِينَ يَوْمَ الجُمُعَةِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-aidan",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "أَبِي مُدَرِّسٌ، وَأُمِّي مُدَرِّسَةٌ …",
+            "id": "Ayah saya guru, dan ibu saya juga guru."
+          },
+          "answer": "أَيْضًا",
+          "options": [
+            "أَيْضًا",
+            "الآنَ",
+            "صَباحًا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "kam-akhan-tamyiz",
+          "instruction": "Lengkapi: كَمْ … لَكَ؟",
+          "prompt": {
+            "ar": "كَمْ … لَكَ؟",
+            "id": "Kamu (lk) punya berapa saudara laki-laki?"
+          },
+          "answer": "أَخًا",
+          "options": [
+            "أَخًا",
+            "أَخٌ",
+            "أَخٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "kam-saah-bukan-mata",
+          "instruction": "Pilih kalimat yang artinya \"Berapa jam kamu (lk) belajar?\"",
+          "prompt": {
+            "id": "Berapa jam kamu (lk) belajar?",
+            "emoji": "⏳"
+          },
+          "answer": "كَمْ ساعَةً تَدْرُسُ؟",
+          "options": [
+            "كَمْ ساعَةً تَدْرُسُ؟",
+            "كَمِ السّاعَةُ؟",
+            "مَتَى تَدْرُسُ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "fi-saah-rabiah",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "أَرْجِعُ فِي … الرّابِعَةِ.",
+            "id": "Saya pulang pada jam empat."
+          },
+          "answer": "السّاعَةِ",
+          "options": [
+            "السّاعَةِ",
+            "السّاعَةُ",
+            "ساعَةً"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tuhibbu-tabkh",
+          "instruction": "Pilih kalimat yang benar",
+          "prompt": {
+            "id": "Ibu saya suka memasak.",
+            "emoji": "🍳"
+          },
+          "answer": "أُمِّي تُحِبُّ الطَّبْخَ.",
+          "options": [
+            "أُمِّي تُحِبُّ الطَّبْخَ.",
+            "أُمِّي يُحِبُّ الطَّبْخَ.",
+            "أُمِّي أُحِبُّ الطَّبْخَ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-indi-tsalatsah",
+          "prompt": {
+            "id": "Saya punya tiga anak."
+          },
+          "answer": "عِنْدِي ثَلاثَةُ أَطْفالٍ",
+          "extra": [
+            "طِفْلًا"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-arjiu-rabiah",
+          "prompt": {
+            "id": "Saya pulang pada jam empat."
+          },
+          "answer": "أَرْجِعُ فِي السّاعَةِ الرّابِعَةِ",
+          "extra": [
+            "السّاعَةُ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-li-ukhtani",
+          "instruction": "Pilih kalimat yang benar",
+          "prompt": {
+            "id": "Saya punya dua saudara perempuan."
+          },
+          "answer": "لِي أُخْتانِ.",
+          "options": [
+            "لِي أُخْتانِ.",
+            "لِي أُخْتٌ.",
+            "لِي أَخَوانِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-tamalina",
+          "prompt": {
+            "id": "Apakah kamu (pr) bekerja juga?"
+          },
+          "answer": "هَلْ تَعْمَلِينَ أَيْضًا",
+          "extra": [
+            "تَعْمَلُ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-kam-tiflan",
+          "instruction": "Lengkapi: كَمْ … عِنْدَكِ؟",
+          "prompt": {
+            "ar": "كَمْ … عِنْدَكِ؟",
+            "id": "Kamu (pr) punya berapa anak?"
+          },
+          "answer": "طِفْلًا",
+          "options": [
+            "طِفْلًا",
+            "أَطْفالٍ",
+            "طِفْلٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-yuhibbu-qiraah",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَبِي يُحِبُّ القِراءَةَ."
+          },
+          "answer": "Ayah saya suka membaca.",
+          "options": [
+            "Ayah saya suka membaca.",
+            "Ayah saya suka menulis.",
+            "Ayah saya suka memasak."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-kamis-saah",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "كَمِ السّاعَةُ الآنَ؟"
+          },
+          "answer": "Jam berapa sekarang?",
+          "options": [
+            "Jam berapa sekarang?",
+            "Berapa jam kamu (lk) bekerja?",
+            "Kapan kamu (lk) pulang?"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ض dan د, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ض dan د",
+          "note_id": "د (dal) seperti \"d\" Indonesia. ض (dhad) lebih tebal dan berat: pangkal lidah ditarik ke belakang, rongga mulut terasa penuh, dan vokal sesudahnya terdengar agak \"o\". Jangan ucapkan ض sebagai \"dl\" atau \"d\" biasa. Ketuk tiap kotak dan bandingkan.",
+          "pairs": [
+            [
+              "ضَ",
+              "دَ"
+            ],
+            [
+              "ضُ",
+              "دُ"
+            ],
+            [
+              "ضِ",
+              "دِ"
+            ],
+            [
+              "ضَرْبٌ",
+              "دَرْبٌ"
+            ],
+            [
+              "ضَلَّ",
+              "دَلَّ"
+            ],
+            [
+              "ضالٌّ",
+              "دالٌّ"
+            ],
+            [
+              "مَرِيضٌ",
+              "مَرِيدٌ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-darb",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "دَرْبٌ"
+          },
+          "answer": "دَرْبٌ",
+          "options": [
+            "دَرْبٌ",
+            "ضَرْبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-dhalla",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "ضَلَّ"
+          },
+          "answer": "ضَلَّ",
+          "options": [
+            "ضَلَّ",
+            "دَلَّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-dall",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "دالٌّ"
+          },
+          "answer": "دالٌّ",
+          "options": [
+            "دالٌّ",
+            "ضالٌّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-maridh",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "مَرِيضٌ"
+          },
+          "answer": "مَرِيضٌ",
+          "options": [
+            "مَرِيضٌ",
+            "مَرِيدٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "cari-dhad",
+          "instruction": "Kata mana yang mengandung huruf ض?",
+          "prompt": {
+            "id": "Cari huruf dhad (ض)"
+          },
+          "answer": "مُمَرِّضَةٌ",
+          "options": [
+            "مُمَرِّضَةٌ",
+            "مُدَرِّسٌ",
+            "مُهَنْدِسٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-mumarridah",
+          "ar": "مُمَرِّضَةٌ",
+          "id": "perawat (pr)"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-min-fadhlik",
+          "ar": "مِنْ فَضْلِكَ.",
+          "id": "Tolong. (kepada lk)"
+        },
+        {
+          "q": "choice",
+          "k": "simak-ibu-perawat",
+          "instruction": "Dengarkan. Di mana ibunya bekerja?",
+          "prompt": {
+            "listen": "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى."
+          },
+          "answer": "Di rumah sakit",
+          "options": [
+            "Di rumah sakit",
+            "Di pasar",
+            "Di kantor"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-sopir-bus",
+          "instruction": "Dengarkan. Apa pekerjaan ayahnya?",
+          "prompt": {
+            "listen": "أَبِي سائِقُ حافِلَةٍ فِي جاكَرْتا."
+          },
+          "answer": "Sopir bus",
+          "options": [
+            "Sopir bus",
+            "Pilot",
+            "Pegawai kantor"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-pulang-jam",
+          "instruction": "Dengarkan. Jam berapa dia pulang?",
+          "prompt": {
+            "listen": "أَرْجِعُ إِلَى البَيْتِ فِي السّاعَةِ الخامِسَةِ."
+          },
+          "answer": "Jam 5",
+          "options": [
+            "Jam 5",
+            "Jam 3",
+            "Jam 7"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-dharb",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "ضَرْبٌ"
+          },
+          "answer": "ضَرْبٌ",
+          "options": [
+            "ضَرْبٌ",
+            "دَرْبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-dalla",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "دَلَّ"
+          },
+          "answer": "دَلَّ",
+          "options": [
+            "دَلَّ",
+            "ضَلَّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-dhall",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "ضالٌّ"
+          },
+          "answer": "ضالٌّ",
+          "options": [
+            "ضالٌّ",
+            "دالٌّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-murid",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "مَرِيدٌ"
+          },
+          "answer": "مَرِيدٌ",
+          "options": [
+            "مَرِيدٌ",
+            "مَرِيضٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-tajir",
+          "instruction": "Dengarkan. Apa pekerjaan ayahnya?",
+          "prompt": {
+            "listen": "أَبِي تاجِرٌ فِي السُّوقِ."
+          },
+          "answer": "Pedagang",
+          "options": [
+            "Pedagang",
+            "Petani",
+            "Nelayan"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Bercerita tentang cita-cita",
+          "rows": [
+            {
+              "ar": "أُرِيدُ أَنْ أَكُونَ …",
+              "id": "saya ingin menjadi …",
+              "emoji": "💭"
+            },
+            {
+              "ar": "سَأَكُونُ …",
+              "id": "saya akan menjadi …",
+              "emoji": "🚀"
+            },
+            {
+              "ar": "أُرِيدُ أَنْ أَكُونَ طَبِيبًا.",
+              "id": "Saya ingin menjadi dokter. (lk)",
+              "emoji": "👨‍⚕️"
+            },
+            {
+              "ar": "سَأَكُونُ مُدَرِّسَةً.",
+              "id": "Saya akan menjadi guru. (pr)",
+              "emoji": "👩‍🏫"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "cerita-ortu",
+          "instruction": "Ceritakan pekerjaan ayah dan ibumu",
+          "prompt": {
+            "id": "Sebut pekerjaan dan tempat kerjanya."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "أَبِي مُهَنْدِسٌ فِي شَرِكَةِ الماءِ.",
+              "id": "Ayah saya insinyur di perusahaan air minum."
+            },
+            {
+              "who": "rizki",
+              "ar": "أُمِّي طَبِيبَةٌ فِي مَرْكَزٍ صِحِّيٍّ.",
+              "id": "Ibu saya dokter di puskesmas."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-abi-muhandis",
+          "who": "rizki",
+          "ar": "أَبِي مُهَنْدِسٌ.",
+          "id": "Ayah saya insinyur."
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-saah-tsalitsah",
+          "who": "budi",
+          "ar": "السّاعَةُ الثّالِثَةُ.",
+          "id": "Jam tiga."
+        },
+        {
+          "q": "choice",
+          "k": "tanya-cita-pr",
+          "instruction": "Kamu ingin tahu apakah Ayu ingin menjadi dokter. Kamu bertanya …",
+          "prompt": {
+            "id": "Apakah kamu ingin menjadi dokter? (pr)",
+            "emoji": "👩‍⚕️"
+          },
+          "answer": "هَلْ تُرِيدِينَ أَنْ تَكُونِي طَبِيبَةً؟",
+          "options": [
+            "هَلْ تُرِيدِينَ أَنْ تَكُونِي طَبِيبَةً؟",
+            "هَلْ تُرِيدُ أَنْ تَكُونَ طَبِيبًا؟",
+            "هَلْ أُمُّكِ طَبِيبَةٌ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "cita-citamu",
+          "instruction": "Apa cita-citamu? Jawab dengan سَأَكُونُ … atau أُرِيدُ أَنْ أَكُونَ …",
+          "prompt": {
+            "id": "Ingat: profesi untuk perempuan berakhiran ـَةً."
+          },
+          "model": [
+            {
+              "who": "nur",
+              "ar": "سَأَكُونُ طَيّارَةً.",
+              "id": "Aku akan menjadi pilot. (pr)"
+            },
+            {
+              "who": "rizki",
+              "ar": "أُرِيدُ أَنْ أَكُونَ مُتَرْجِمًا.",
+              "id": "Saya ingin menjadi penerjemah. (lk)"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "jawab-kam-ukhtan",
+          "instruction": "Rizki punya dua saudara perempuan: Ayu dan Nur. Rizki ditanya كَمْ أُخْتًا لَكَ؟ Jawabannya …",
+          "prompt": {
+            "ar": "كَمْ أُخْتًا لَكَ؟"
+          },
+          "answer": "لِي أُخْتانِ.",
+          "options": [
+            "لِي أُخْتانِ.",
+            "لِي أُخْتٌ واحِدَةٌ.",
+            "لِي أَخَوانِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "jumlah-saudara",
+          "instruction": "Kamu punya berapa saudara? Jawab dengan لِي …",
+          "prompt": {
+            "id": "Pakai angka 1 atau 2: أَخٌ واحِدٌ، أُخْتانِ, dan seterusnya."
+          },
+          "model": [
+            {
+              "who": "siti",
+              "ar": "لِي أَخٌ واحِدٌ وَأُخْتانِ.",
+              "id": "Saya punya satu saudara laki-laki dan dua saudara perempuan."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-uhibbu-tairat",
+          "who": "nur",
+          "ar": "أَنا أُحِبُّ الطّائِراتِ.",
+          "id": "Aku suka pesawat."
+        },
+        {
+          "q": "choice",
+          "k": "tanya-jam-belajar",
+          "instruction": "Kamu ingin tahu berapa jam Budi belajar setiap hari. Kamu bertanya …",
+          "prompt": {
+            "id": "Berapa jam kamu (lk) belajar setiap hari?",
+            "emoji": "📚"
+          },
+          "answer": "كَمْ ساعَةً تَدْرُسُ كُلَّ يَوْمٍ؟",
+          "options": [
+            "كَمْ ساعَةً تَدْرُسُ كُلَّ يَوْمٍ؟",
+            "كَمِ السّاعَةُ الآنَ؟",
+            "مَتَى تَدْرُسُ كُلَّ يَوْمٍ؟"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-jawab-kam-saah",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "كَمْ ساعَةً تَدْرُسُ؟"
+          },
+          "answer": "أَدْرُسُ ساعَتَيْنِ.",
+          "options": [
+            "أَدْرُسُ ساعَتَيْنِ.",
+            "السّاعَةُ الثّانِيَةُ.",
+            "أَدْرُسُ فِي الفَصْلِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-abuki",
+          "instruction": "Siti ditanya. Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "ماذا يَعْمَلُ أَبُوكِ؟"
+          },
+          "answer": "أَبِي مُدَرِّسٌ.",
+          "options": [
+            "أَبِي مُدَرِّسٌ.",
+            "أَبِي مُدَرِّسَةٌ.",
+            "أُمِّي تاجِرَةٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-cita-pilot-lk",
+          "instruction": "Pilih kalimat yang benar",
+          "prompt": {
+            "id": "Saya ingin menjadi pilot. (lk)",
+            "emoji": "🧑‍✈️"
+          },
+          "answer": "أُرِيدُ أَنْ أَكُونَ طَيّارًا.",
+          "options": [
+            "أُرِيدُ أَنْ أَكُونَ طَيّارًا.",
+            "أُرِيدُ أَنْ أَكُونَ طَيّارَةً.",
+            "أُحِبُّ الطّائِراتِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-tanya-jam-sekarang",
+          "instruction": "Kamu ingin tahu jam berapa sekarang. Kamu bertanya …",
+          "prompt": {
+            "id": "Jam berapa sekarang?",
+            "emoji": "🕰️"
+          },
+          "answer": "كَمِ السّاعَةُ الآنَ؟",
+          "options": [
+            "كَمِ السّاعَةُ الآنَ؟",
+            "كَمْ ساعَةً تَعْمَلُ؟",
+            "مَتَى تَرْجِعُ؟"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Keluarga Ahmad",
+          "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            {
+              "ar": "هٰذِهِ أُسْرَةُ أَحْمَدَ فِي بانْدُونْغ.",
+              "id": "Ini keluarga Ahmad di Bandung.",
+              "emoji": "🏠"
+            },
+            {
+              "ar": "أَحْمَدُ مُهَنْدِسٌ فِي شَرِكَةِ الماءِ.",
+              "id": "Ahmad insinyur di perusahaan air minum.",
+              "emoji": "👷"
+            },
+            {
+              "ar": "يَعْمَلُ مِنَ السّابِعَةِ إِلَى الرّابِعَةِ.",
+              "id": "Dia bekerja dari jam tujuh sampai jam empat."
+            },
+            {
+              "ar": "فاطِمَةُ طَبِيبَةٌ فِي مَرْكَزٍ صِحِّيٍّ.",
+              "id": "Fatimah dokter di puskesmas.",
+              "emoji": "👩‍⚕️"
+            },
+            {
+              "ar": "هِيَ تُحِبُّ الطَّبْخَ أَيْضًا.",
+              "id": "Dia juga suka memasak."
+            },
+            {
+              "ar": "فِي الأُسْرَةِ ثَلاثَةُ أَوْلادٍ.",
+              "id": "Di keluarga itu ada tiga anak."
+            },
+            {
+              "ar": "رِزْقِي طالِبٌ فِي يُوغْياكَرْتا.",
+              "id": "Rizki pelajar di Yogyakarta."
+            },
+            {
+              "ar": "وَأَيُو طالِبَةٌ فِي غارُوت.",
+              "id": "Ayu pelajar (pr) di Garut."
+            },
+            {
+              "ar": "نُور تُحِبُّ الطّائِراتِ، وَتُرِيدُ أَنْ تَكُونَ طَيّارَةً.",
+              "id": "Nur suka pesawat, dan dia ingin menjadi pilot.",
+              "emoji": "✈️"
+            }
+          ],
+          "img": "u8-baca-keluarga",
+          "scene": "The Ahmad family in front of their simple two-storey house in a Bandung housing complex: Pak Ahmad in his work shirt, Bu Fatimah in a white doctor's coat, Rizki, Ayu holding a small Qur'an, and Nur with her toy airplane."
+        },
+        {
+          "q": "choice",
+          "k": "baca-ahmad-tabib",
+          "instruction": "Benar atau salah? \"Ahmad seorang dokter.\"",
+          "prompt": {
+            "ar": "أَحْمَدُ طَبِيبٌ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-fatimah-tabkh",
+          "instruction": "Benar atau salah? \"Fatimah suka memasak.\"",
+          "prompt": {
+            "ar": "فاطِمَةُ تُحِبُّ الطَّبْخَ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-jumlah-anak",
+          "instruction": "Ada berapa anak di keluarga Ahmad?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Tiga",
+          "options": [
+            "Tiga",
+            "Dua",
+            "Empat"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-ayu-tempat",
+          "instruction": "Di mana Ayu belajar?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Garut",
+          "options": [
+            "Garut",
+            "Yogyakarta",
+            "Bandung"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-ahmad-sampai",
+          "instruction": "Pak Ahmad bekerja sampai jam berapa?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "🕓"
+          },
+          "answer": "Jam 4",
+          "options": [
+            "Jam 4",
+            "Jam 7",
+            "Jam 3"
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Ayah Budi",
+          "rows": [
+            {
+              "ar": "أَبُو بُودِي صَيّادٌ فِي سُورابايا.",
+              "id": "Ayah Budi nelayan di Surabaya.",
+              "emoji": "🎣"
+            },
+            {
+              "ar": "يَذْهَبُ إِلَى البَحْرِ فِي المَساءِ.",
+              "id": "Dia pergi ke laut pada sore hari.",
+              "emoji": "🌊"
+            },
+            {
+              "ar": "وَيَرْجِعُ فِي السّاعَةِ السّادِسَةِ صَباحًا.",
+              "id": "Dan dia pulang pada jam enam pagi."
+            },
+            {
+              "ar": "أُمُّ بُودِي تَبِيعُ السَّمَكَ فِي السُّوقِ.",
+              "id": "Ibu Budi menjual ikan di pasar.",
+              "emoji": "🐟"
+            },
+            {
+              "ar": "بُودِي يُحِبُّ السَّمَكَ كَثِيرًا!",
+              "id": "Budi sangat suka ikan!"
+            }
+          ],
+          "img": "u8-baca-ayah-budi",
+          "scene": "Early morning at a fishing harbor in Surabaya: Budi's father, an Indonesian fisherman with a straw hat, steps off a wooden boat carrying a basket of fish, while Budi's mother in a simple hijab arranges fish at a nearby market stall."
+        },
+        {
+          "q": "choice",
+          "k": "baca-budi-ayah-pulang",
+          "instruction": "Jam berapa ayah Budi pulang?",
+          "prompt": {
+            "id": "Menurut bacaan 2"
+          },
+          "answer": "Jam 6 pagi",
+          "options": [
+            "Jam 6 pagi",
+            "Jam 6 sore",
+            "Jam 7 pagi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-ibu-budi-qumasy",
+          "instruction": "Benar atau salah? \"Ibu Budi menjual kain.\"",
+          "prompt": {
+            "ar": "أُمُّ بُودِي تَبِيعُ القُماشَ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-gambar-nelayan",
+          "instruction": "Pilih kata yang cocok untuk ayah Budi",
+          "prompt": {
+            "emoji": "🎣"
+          },
+          "answer": "صَيّادٌ",
+          "options": [
+            "صَيّادٌ",
+            "فَلّاحٌ",
+            "طَيّارٌ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-nur-cita",
+          "instruction": "Apa cita-cita Nur?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "💭"
+          },
+          "answer": "Pilot",
+          "options": [
+            "Pilot",
+            "Dokter",
+            "Penerjemah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-ahmad-tempat",
+          "instruction": "Di mana Ahmad bekerja?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Di perusahaan air minum",
+          "options": [
+            "Di perusahaan air minum",
+            "Di puskesmas",
+            "Di pasar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-budi-samak",
+          "instruction": "Benar atau salah? \"Budi suka ikan.\"",
+          "prompt": {
+            "ar": "بُودِي يُحِبُّ السَّمَكَ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-arti-yadzhab",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "يَذْهَبُ إِلَى البَحْرِ فِي المَساءِ."
+          },
+          "answer": "Dia (lk) pergi ke laut pada sore hari.",
+          "options": [
+            "Dia (lk) pergi ke laut pada sore hari.",
+            "Dia (lk) pulang dari laut pada pagi hari.",
+            "Dia (pr) pergi ke pasar pada sore hari."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Huruf → kata → kalimat",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Huruf menjadi kata",
+          "instruction_id": "Sambungkan huruf-hurufnya menjadi satu kata. Ingat: ا د ذ ر ز و tidak menyambung ke huruf sesudahnya.",
+          "rows": [
+            {
+              "ar": "عَمَلٌ",
+              "id": "ع + م + ل → pekerjaan"
+            },
+            {
+              "ar": "مَكْتَبٌ",
+              "id": "م + ك + ت + ب → kantor"
+            },
+            {
+              "ar": "سُوقٌ",
+              "id": "س + و + ق → pasar"
+            },
+            {
+              "ar": "تاجِرٌ",
+              "id": "ت + ا + ج + ر → pedagang"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "sambung-amal",
+          "instruction": "Huruf ع + م + ل disambung menjadi …",
+          "prompt": {
+            "id": "ع + م + ل"
+          },
+          "answer": "عَمَلٌ",
+          "options": [
+            "عَمَلٌ",
+            "عَلَمٌ",
+            "عِلْمٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "eja-tajir",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "تاجِرٌ (pedagang)"
+          },
+          "answer": "ت ا ج ر",
+          "extra": [
+            "د"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "eja-maktab",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "مَكْتَبٌ (kantor)"
+          },
+          "answer": "م ك ت ب",
+          "extra": [
+            "ن"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "eja-suq",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "سُوقٌ (pasar)"
+          },
+          "answer": "س و ق",
+          "extra": [
+            "ك"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tulis-sayyad",
+          "instruction": "Mana tulisan \"nelayan\" yang benar?",
+          "prompt": {
+            "id": "nelayan",
+            "emoji": "🎣"
+          },
+          "answer": "صَيّادٌ",
+          "options": [
+            "صَيّادٌ",
+            "سَيّادٌ",
+            "صَيّاضٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tulis-mumarridah",
+          "instruction": "Mana tulisan \"perawat (pr)\" yang benar?",
+          "prompt": {
+            "id": "perawat (pr)",
+            "emoji": "👩‍⚕️"
+          },
+          "answer": "مُمَرِّضَةٌ",
+          "options": [
+            "مُمَرِّضَةٌ",
+            "مُمَرِّدَةٌ",
+            "مُمَرِّظَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "card": "writing",
+          "section": "Kata menjadi kalimat",
+          "instruction_id": "Salin kalimat ini lengkap dengan harakatnya.",
+          "rows": [
+            {
+              "ar": "أَبِي مُهَنْدِسٌ.",
+              "id": "Ayah saya insinyur."
+            },
+            {
+              "ar": "أُمِّي تاجِرَةٌ فِي السُّوقِ.",
+              "id": "Ibu saya pedagang di pasar."
+            }
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-abi-muwazzaf",
+          "prompt": {
+            "id": "Ayah saya pegawai di kantor."
+          },
+          "answer": "أَبِي مُوَظَّفٌ فِي مَكْتَبٍ",
+          "extra": [
+            "مُوَظَّفَةٌ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-nur-tairat",
+          "prompt": {
+            "id": "Dia (pr) suka pesawat."
+          },
+          "answer": "هِيَ تُحِبُّ الطّائِراتِ",
+          "extra": [
+            "يُحِبُّ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-amal-sabiah",
+          "prompt": {
+            "id": "Saya bekerja dari jam tujuh."
+          },
+          "answer": "أَعْمَلُ مِنَ السّاعَةِ السّابِعَةِ",
+          "extra": [
+            "السّاعَةُ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "arrange",
+          "k": "lat-eja-amal",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "عَمَلٌ (pekerjaan)"
+          },
+          "answer": "ع م ل",
+          "extra": [
+            "أ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-tulis-tabib",
+          "instruction": "Mana tulisan \"dokter (lk)\" yang benar?",
+          "prompt": {
+            "id": "dokter (lk)",
+            "emoji": "👨‍⚕️"
+          },
+          "answer": "طَبِيبٌ",
+          "options": [
+            "طَبِيبٌ",
+            "تَبِيبٌ",
+            "طَبِيدٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-kalimat-ummi",
+          "prompt": {
+            "id": "Ibu saya perawat di rumah sakit."
+          },
+          "answer": "أُمِّي مُمَرِّضَةٌ فِي المُسْتَشْفَى",
+          "extra": [
+            "أَبِي"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-sambung-suq",
+          "instruction": "Huruf س + و + ق disambung menjadi …",
+          "prompt": {
+            "id": "س + و + ق"
+          },
+          "answer": "سُوقٌ",
+          "options": [
+            "سُوقٌ",
+            "سُوكٌ",
+            "صُوقٌ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+# Pemeriksaan otomatis untuk setiap PR dan push ke main. Tanpa secret, jadi aman untuk PR dari fork.
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  web:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    env:
+      # Nilai palsu: build tidak menghubungi database atau layanan luar.
+      DATABASE_URL: postgres://ci:ci@127.0.0.1:5432/ci?sslmode=disable
+      BETTER_AUTH_SECRET: ci-only-not-a-real-secret-0123456789abcdef
+      BETTER_AUTH_URL: http://localhost:3000
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm run lint
+      - run: npm run build
+
+  konten:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validasi dan bangun ulang semua unit
+        run: python3 content-src/build_orisinal.py all
+      - name: Hasil build harus sudah ikut di-commit
+        run: |
+          git status --porcelain
+          git diff --exit-code || {
+            echo "::error::Jalankan 'python3 content-src/build_orisinal.py <unit>' lalu commit hasilnya."
+            exit 1
+          }

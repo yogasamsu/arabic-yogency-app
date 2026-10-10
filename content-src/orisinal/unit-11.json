@@ -1,0 +1,2499 @@
+{
+  "unit": 11,
+  "book": "1b",
+  "title_ar": "النّاسُ وَالأَماكِنُ",
+  "title_id": "Orang dan tempat",
+  "notes": "Semester 2. Dialog 1: Yusuf–Budi (kenapa Budi pindah dari Surabaya ke Yogyakarta, pendapat tentang Yogyakarta dan Surabaya). Dialog 2: Siti–Aisyah (Aisyah pulang dari Jakarta naik kereta, macet Jakarta, Siti suka desa karena kecil dan tidak macet). Dialog 3: Rizki di kereta Yogyakarta–Bandung menelepon Pak Ahmad, ditambah kartu data tiket kereta. Bacaan: kampung Ustazah Zainab di Sulawesi dan Indonesia negara kepulauan. Pola: لِماذا + madhi (jawab لِـ + mashdar atau لِأَنَّ), ما رَأْيُكَ/رَأْيُكِ فِي …؟، لٰكِنْ، لَيْسَ/لَيْسَتْ + khabar manshub (dan لَيْسَ فِي … + isim marfu'), مِنْ/إِلَى/مَعَ. Warna muannats (ghairu munsarif, tanpa tanwin). Tidak ada bilangan baru; puluhan Unit 9 diulang di tiket (رَقْمُ المَقْعَدِ: عِشْرُونَ). Bunyi ش/س. Menulis kalimat tentang kota sendiri. Nama Indonesia tanpa i'rab; يُوسُفُ، زَيْنَبُ، عائِشَةُ ghairu munsarif; إِسْطَنْبُول tanpa i'rab seperti nama kota non-Arab lain. Pemeriksaan independen (2026-10-04): tata bahasa dan harakat dicek baris demi baris; مِثْلُ إِسْطَنْبُولَ → مِثْلُ إِسْطَنْبُول (keputusan lintas unit). Serapan: رِحْلَةٌ tidak diberi ★ lagi karena 'rihlah' bukan lema KBBI; soal lat-serapan-rihlah diganti lat-serapan-bahari. Pasangan bunyi نَسْرٌ/نَشْرٌ dan سَهْمٌ/شَهْمٌ diganti سَرابٌ/شَرابٌ dan سَمْعٌ/شَمْعٌ; soalnya diganti dengan kunci baru (dengar-syarab, dengar-sam, lat-dengar-sarab2). Kata baru di bacaan dan tiket kini diartikan di catatan kartu (بَلَدٌ، آلافٌ، جُزُرٌ، واسِعٌ، سَفِينَةٌ، لِذٰلِكَ، تَذْكِرَةٌ، العَرَبَةُ، رَقْمُ المَقْعَدِ); نَظِيفٌ dipindah ke kosakata dars 4. Terjemahan dan pengecoh: prompt susun 'Itu kota yang tenang' (هِيَ, bukan المَدِينَةُ); أَهْلًا وَسَهْلًا بِهِ diperjelas menjadi … فِي بَيْتِنا; dua pengecoh soal lat-jawab-limadza-intaqalta yang bisa dianggap alasan diganti (بِالقِطارِ، فِي المَساءِ). Cek kemiripan ABY 1/11 (hlm. PDF 78–85, dibandingkan visual): baris 'القَرْيَةُ هادِئَةٌ، وَهَواؤُها نَظِيفٌ' sebagai alasan memilih desa hampir sama dengan dialog 3 ABY (القرية هادئة، والهواء نقي) → ditulis ulang di dialog 2 (desa kecil dan tidak macet) dan bacaan 1 (هَواءُ القَرْيَةِ نَظِيفٌ، وَلَيْسَ فِيها زِحامٌ); soal dengar-hawauha diganti dengar-laisa-zihaam. Pembuka dialog 1 (kenapa pindah → pindah untuk … → pendapat tentang kota baru) urutannya mirip dialog 1 ABY → dialog 1 dibuka dengan pertanyaan tentang keluarga Budi lebih dulu. Pembuka dialog 2 مِنْ أَيْنَ رَجَعْتِ mirip من أين حضرت → diganti مَتَى رَجَعْتِ مِنْ جاكَرْتا. Latihan warna dan kosakata kita (melengkapi frasa) berbeda dari latihan ABY (menjodohkan gambar/warna, tunggal-jamak). Sisa kesamaan hanya pola baku: لِماذا + madhi، ما رَأْيُكَ فِي، بِالقِطارِ. Soal arrange dicek agar hanya satu urutan benar: 7 soal dipersempit (keterangan/jar-majrur yang bisa dipindah, aposisi صَدِيقِي بُودِي، مَدِينَتِي بانْدُونْغ yang bisa dibalik, لَيْسَتْ di awal); kalimat yang diawali ال sesudah لَيْسَتْ dibiarkan karena tokennya bersukun sehingga hanya satu urutan yang berharakat benar.",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Pindah ke Yogyakarta",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Sore hari di halaman ma'had. Yusuf bertanya kepada Budi tentang kota asalnya.",
+          "img": "u11-pindah-jogja",
+          "scene": "Late afternoon in the courtyard of a modest Islamic language school in Yogyakarta: Yusuf, a Turkish student holding a glass of tea, sits on a wooden bench chatting with Budi; behind them are palm trees and a small mosque dome, and a thought bubble above Budi shows a fishing boat on the sea off Surabaya.",
+          "rows": [
+            {
+              "who": "yusuf",
+              "ar": "يا بُودِي، هَلْ أُسْرَتُكَ فِي يُوغْياكَرْتا؟",
+              "id": "Budi, apakah keluargamu di Yogyakarta?"
+            },
+            {
+              "who": "budi",
+              "ar": "لا، أُسْرَتِي فِي سُورابايا. أَبِي صَيّادٌ هُناكَ.",
+              "id": "Tidak, keluargaku di Surabaya. Ayahku nelayan di sana."
+            },
+            {
+              "who": "yusuf",
+              "ar": "لِماذا انْتَقَلْتَ إِلَى يُوغْياكَرْتا؟",
+              "id": "Kenapa kamu pindah ke Yogyakarta?"
+            },
+            {
+              "who": "budi",
+              "ar": "اِنْتَقَلْتُ لِلدِّراسَةِ فِي المَعْهَدِ.",
+              "id": "Aku pindah untuk belajar di ma'had."
+            },
+            {
+              "who": "yusuf",
+              "ar": "ما رَأْيُكَ فِي يُوغْياكَرْتا؟",
+              "id": "Bagaimana pendapatmu tentang Yogyakarta?"
+            },
+            {
+              "who": "budi",
+              "ar": "هِيَ مَدِينَةٌ هادِئَةٌ، لٰكِنْ لَيْسَ فِيها بَحْرٌ.",
+              "id": "Kotanya tenang, tetapi tidak ada lautnya."
+            },
+            {
+              "who": "yusuf",
+              "ar": "وَسُورابايا؟ هَلْ هِيَ هادِئَةٌ أَيْضًا؟",
+              "id": "Kalau Surabaya? Apakah tenang juga?"
+            },
+            {
+              "who": "budi",
+              "ar": "لا، لَيْسَتْ هادِئَةً. فِيها زِحامٌ كَثِيرٌ.",
+              "id": "Tidak, tidak tenang. Di sana macet sekali."
+            },
+            {
+              "who": "yusuf",
+              "ar": "مِثْلُ إِسْطَنْبُول! هِيَ مَدِينَةٌ كَبِيرَةٌ أَيْضًا.",
+              "id": "Seperti Istanbul! Itu juga kota besar."
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "لِماذا انْتَقَلْتَ؟",
+              "id": "kenapa kamu (lk) pindah?",
+              "emoji": "❓"
+            },
+            {
+              "ar": "اِنْتَقَلَ",
+              "id": "pindah (tempat tinggal)",
+              "emoji": "🚚"
+            },
+            {
+              "ar": "ما رَأْيُكَ فِي …؟",
+              "id": "bagaimana pendapatmu (lk) tentang …?",
+              "emoji": "💬"
+            },
+            {
+              "ar": "مَدِينَةٌ",
+              "id": "kota",
+              "emoji": "🏙️"
+            },
+            {
+              "ar": "هادِئٌ · هادِئَةٌ",
+              "id": "tenang (lk · pr)",
+              "emoji": "🍃"
+            },
+            {
+              "ar": "لٰكِنْ",
+              "id": "tetapi",
+              "emoji": "↔️"
+            },
+            {
+              "ar": "لَيْسَ · لَيْسَتْ",
+              "id": "bukan, tidak (lk · pr)",
+              "emoji": "🚫"
+            },
+            {
+              "ar": "زِحامٌ",
+              "id": "kemacetan, keramaian",
+              "emoji": "🚗"
+            },
+            {
+              "ar": "كَبِيرٌ · كَبِيرَةٌ",
+              "id": "besar (lk · pr)",
+              "emoji": "🐘"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "limadza-intaqalta-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "لِماذا انْتَقَلْتَ إِلَى يُوغْياكَرْتا؟"
+          },
+          "answer": "Kenapa kamu (lk) pindah ke Yogyakarta?",
+          "options": [
+            "Kenapa kamu (lk) pindah ke Yogyakarta?",
+            "Kapan kamu (lk) pindah ke Yogyakarta?",
+            "Bagaimana pendapatmu (lk) tentang Yogyakarta?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "budi-alasan-pindah",
+          "instruction": "Menurut dialog, kenapa Budi pindah ke Yogyakarta?",
+          "prompt": {
+            "ar": "لِماذا انْتَقَلَ بُودِي إِلَى يُوغْياكَرْتا؟"
+          },
+          "answer": "Untuk belajar di ma'had",
+          "options": [
+            "Untuk belajar di ma'had",
+            "Untuk bekerja di pasar",
+            "Karena keluarganya pindah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-rayuka",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "ما رَأْيُكَ فِي يُوغْياكَرْتا؟"
+          },
+          "answer": "Bagaimana pendapatmu (lk) tentang Yogyakarta?",
+          "options": [
+            "Bagaimana pendapatmu (lk) tentang Yogyakarta?",
+            "Kenapa kamu (lk) pindah ke Yogyakarta?",
+            "Apakah Yogyakarta tenang?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "jogja-tidak-ada",
+          "instruction": "Menurut Budi, apa yang tidak ada di Yogyakarta?",
+          "prompt": {
+            "ar": "لَيْسَ فِيها …"
+          },
+          "answer": "laut",
+          "options": [
+            "laut",
+            "masjid",
+            "pasar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-rayuka-sby",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "ما رَأْيُكَ فِي سُورابايا؟"
+          },
+          "answer": "هِيَ مَدِينَةٌ كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ.",
+          "options": [
+            "هِيَ مَدِينَةٌ كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ.",
+            "اِنْتَقَلْتُ لِلدِّراسَةِ.",
+            "أُسْرَتِي فِي سُورابايا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lakin-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "لٰكِنْ"
+          },
+          "answer": "tetapi",
+          "options": [
+            "tetapi",
+            "juga",
+            "atau"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-madinah-hadiah",
+          "prompt": {
+            "id": "Itu kota yang tenang."
+          },
+          "answer": "هِيَ مَدِينَةٌ هادِئَةٌ",
+          "extra": [
+            "لَيْسَ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-rayuka",
+          "who": "yusuf",
+          "ar": "ما رَأْيُكَ فِي يُوغْياكَرْتا؟",
+          "id": "Bagaimana pendapatmu tentang Yogyakarta? (lk)"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-hadiah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هادِئَةٌ"
+          },
+          "answer": "tenang (pr)",
+          "options": [
+            "tenang (pr)",
+            "besar (pr)",
+            "jauh (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-usrah-budi",
+          "instruction": "Benar atau salah? \"Keluarga Budi tinggal di Yogyakarta.\"",
+          "prompt": {
+            "ar": "أُسْرَةُ بُودِي فِي يُوغْياكَرْتا."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-laisat",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "لَيْسَتْ هادِئَةً."
+          },
+          "answer": "لَيْسَتْ هادِئَةً.",
+          "options": [
+            "لَيْسَتْ هادِئَةً.",
+            "هِيَ هادِئَةٌ.",
+            "لَيْسَتْ كَبِيرَةً."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-abi-sayyad",
+          "prompt": {
+            "id": "Ayahku nelayan."
+          },
+          "answer": "أَبِي صَيّادٌ",
+          "extra": [
+            "أُمِّي"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-surabaya-budi",
+          "instruction": "Menurut Budi, Surabaya itu …",
+          "prompt": {
+            "ar": "سُورابايا لَيْسَتْ هادِئَةً."
+          },
+          "answer": "tidak tenang, banyak macet",
+          "options": [
+            "tidak tenang, banyak macet",
+            "tenang dan kecil",
+            "tidak punya laut"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Pulang dari Jakarta",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Aisyah baru pulang ke asrama putri. Siti menyambutnya.",
+          "img": "u11-pulang-jakarta",
+          "scene": "Evening in a tidy female dormitory room in Yogyakarta: Aisyah, still carrying a small travel bag, has just come in and greets Siti, who sits on her bed; a thought bubble above Aisyah shows a crowded Jakarta street jammed with cars and motorbikes, and a thought bubble above Siti shows a quiet green village with rice fields.",
+          "rows": [
+            {
+              "who": "siti",
+              "ar": "أَهْلًا يا عائِشَةُ! مَتَى رَجَعْتِ مِنْ جاكَرْتا؟",
+              "id": "Halo, Aisyah! Kapan kamu pulang dari Jakarta?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "رَجَعْتُ صَباحًا بِالقِطارِ.",
+              "id": "Aku pulang tadi pagi naik kereta."
+            },
+            {
+              "who": "siti",
+              "ar": "لِماذا ذَهَبْتِ إِلَى جاكَرْتا؟",
+              "id": "Kenapa kamu pergi ke Jakarta?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "ذَهَبْتُ لِزِيارَةِ صَدِيقَتِي مِنْ مالِيزِيا.",
+              "id": "Aku pergi untuk mengunjungi temanku dari Malaysia."
+            },
+            {
+              "who": "siti",
+              "ar": "ما رَأْيُكِ فِي جاكَرْتا؟",
+              "id": "Bagaimana pendapatmu tentang Jakarta?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "هِيَ مَدِينَةٌ كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ كَثِيرٌ.",
+              "id": "Kotanya besar, tetapi macet sekali."
+            },
+            {
+              "who": "siti",
+              "ar": "نَعَمْ، سُكّانُها كَثِيرُونَ. أَنا أُحِبُّ القَرْيَةَ.",
+              "id": "Ya, penduduknya banyak. Aku suka desa."
+            },
+            {
+              "who": "aisyah",
+              "ar": "لِماذا تُحِبِّينَ القَرْيَةَ؟",
+              "id": "Kenapa kamu suka desa?"
+            },
+            {
+              "who": "siti",
+              "ar": "لِأَنَّ القَرْيَةَ صَغِيرَةٌ، وَلَيْسَ فِيها زِحامٌ.",
+              "id": "Karena desa itu kecil, dan di sana tidak ada kemacetan."
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "رَجَعْتِ · رَجَعْتُ",
+              "id": "kamu (pr) pulang · aku pulang (lampau)",
+              "emoji": "🔙"
+            },
+            {
+              "ar": "ذَهَبْتِ · ذَهَبْتُ",
+              "id": "kamu (pr) pergi · aku pergi (lampau)",
+              "emoji": "🚶‍♀️"
+            },
+            {
+              "ar": "قِطارٌ",
+              "id": "kereta api",
+              "emoji": "🚆"
+            },
+            {
+              "ar": "زِيارَةٌ",
+              "id": "kunjungan",
+              "emoji": "🤝",
+              "serapan": "ziarah"
+            },
+            {
+              "ar": "سُكّانٌ",
+              "id": "penduduk",
+              "emoji": "👥"
+            },
+            {
+              "ar": "قَرْيَةٌ",
+              "id": "desa, kampung",
+              "emoji": "🏡"
+            },
+            {
+              "ar": "لِأَنَّ",
+              "id": "karena",
+              "emoji": "💡"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "limadza-dzahabti-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "لِماذا ذَهَبْتِ إِلَى جاكَرْتا؟"
+          },
+          "answer": "Kenapa kamu (pr) pergi ke Jakarta?",
+          "options": [
+            "Kenapa kamu (pr) pergi ke Jakarta?",
+            "Kenapa kamu (lk) pergi ke Jakarta?",
+            "Kapan kamu (pr) pergi ke Jakarta?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "aisyah-alasan",
+          "instruction": "Menurut dialog, Aisyah pergi ke Jakarta untuk …",
+          "prompt": {
+            "ar": "ذَهَبَتْ عائِشَةُ إِلَى جاكَرْتا لِـ …"
+          },
+          "answer": "mengunjungi temannya",
+          "options": [
+            "mengunjungi temannya",
+            "belajar di ma'had",
+            "mengunjungi neneknya"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "aisyah-kendaraan",
+          "instruction": "Aisyah pulang dari Jakarta naik apa?",
+          "prompt": {
+            "ar": "رَجَعَتْ عائِشَةُ مِنْ جاكَرْتا بِـ …"
+          },
+          "answer": "kereta api",
+          "options": [
+            "kereta api",
+            "bus",
+            "mobil"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "siti-alasan-desa",
+          "instruction": "Kenapa Siti suka desa?",
+          "prompt": {
+            "ar": "لِماذا تُحِبُّ سِيتِي القَرْيَةَ؟"
+          },
+          "answer": "Desa kecil dan tidak macet",
+          "options": [
+            "Desa kecil dan tidak macet",
+            "Desa besar dan penduduknya banyak",
+            "Desa dekat dengan Jakarta"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "tanya-rayuki",
+          "instruction": "Kamu ingin tahu pendapat Aisyah tentang Jakarta. Kamu bertanya …",
+          "prompt": {
+            "id": "Bagaimana pendapatmu (pr) tentang Jakarta?"
+          },
+          "answer": "ما رَأْيُكِ فِي جاكَرْتا؟",
+          "options": [
+            "ما رَأْيُكِ فِي جاكَرْتا؟",
+            "ما رَأْيُكَ فِي جاكَرْتا؟",
+            "مِنْ أَيْنَ رَجَعْتِ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-laisa-zihaam",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "لَيْسَ فِيها زِحامٌ."
+          },
+          "answer": "Di sana tidak ada kemacetan.",
+          "options": [
+            "Di sana tidak ada kemacetan.",
+            "Di sana macet sekali.",
+            "Penduduknya banyak."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-limadza-tuhibbina",
+          "prompt": {
+            "id": "Kenapa kamu (pr) suka desa?"
+          },
+          "answer": "لِماذا تُحِبِّينَ القَرْيَةَ",
+          "extra": [
+            "تُحِبُّ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-uhibbu-qaryah",
+          "who": "siti",
+          "ar": "أَنا أُحِبُّ القَرْيَةَ.",
+          "id": "Aku suka desa."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-sukkan-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "سُكّانُها كَثِيرُونَ."
+          },
+          "answer": "Penduduknya banyak.",
+          "options": [
+            "Penduduknya banyak.",
+            "Desanya kecil.",
+            "Desanya tenang."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-lianna-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "لِأَنَّ"
+          },
+          "answer": "karena",
+          "options": [
+            "karena",
+            "kenapa",
+            "tetapi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-min-aina-rajati",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "مِنْ أَيْنَ رَجَعْتِ؟"
+          },
+          "answer": "رَجَعْتُ مِنْ جاكَرْتا.",
+          "options": [
+            "رَجَعْتُ مِنْ جاكَرْتا.",
+            "لِأَنَّ القَرْيَةَ هادِئَةٌ.",
+            "أَنا أُحِبُّ القَرْيَةَ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-rajatu",
+          "prompt": {
+            "id": "Aku pulang naik kereta."
+          },
+          "answer": "رَجَعْتُ بِالقِطارِ",
+          "extra": [
+            "إِلَى"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-jakarta-aisyah",
+          "instruction": "Benar atau salah? \"Menurut Aisyah, Jakarta kota yang tenang.\"",
+          "prompt": {
+            "ar": "جاكَرْتا مَدِينَةٌ هادِئَةٌ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Naik kereta ke Bandung",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Libur akhir pekan. Rizki naik kereta dari Yogyakarta ke Bandung, lalu ayahnya menelepon.",
+          "img": "u11-kereta-bandung",
+          "scene": "Inside an Indonesian intercity train carriage: Rizki sits by the window talking on his mobile phone while Budi dozes in the seat next to him; through the window are green rice terraces, a river and a volcano-shaped mountain of West Java; a small inset shows Pak Ahmad on the phone in his living room in Bandung.",
+          "rows": [
+            {
+              "who": "pak_ahmad",
+              "ar": "السَّلامُ عَلَيْكُمْ يا رِزْقِي. أَيْنَ أَنْتَ الآنَ؟",
+              "id": "Assalamualaikum, Rizki. Kamu di mana sekarang?"
+            },
+            {
+              "who": "rizki",
+              "ar": "وَعَلَيْكُمُ السَّلامُ يا أَبِي. أَنا فِي القِطارِ.",
+              "id": "Waalaikumussalam, Ayah. Aku di kereta."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "مَتَى رَكِبْتَ القِطارَ؟",
+              "id": "Kapan kamu naik kereta?"
+            },
+            {
+              "who": "rizki",
+              "ar": "رَكِبْتُهُ فِي السّاعَةِ السّابِعَةِ صَباحًا.",
+              "id": "Aku naik kereta itu jam tujuh pagi."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "مَعَ مَنْ أَنْتَ؟",
+              "id": "Kamu bersama siapa?"
+            },
+            {
+              "who": "rizki",
+              "ar": "أَنا مَعَ صَدِيقِي بُودِي مِنْ سُورابايا.",
+              "id": "Aku bersama temanku, Budi dari Surabaya."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "أَهْلًا وَسَهْلًا بِهِ فِي بَيْتِنا! ما رَأْيُكَ فِي الرِّحْلَةِ؟",
+              "id": "Kami senang menyambutnya di rumah! Bagaimana perjalananmu?"
+            },
+            {
+              "who": "rizki",
+              "ar": "الرِّحْلَةُ جَمِيلَةٌ. أَرَى جَبَلًا وَنَهْرًا مِنَ النّافِذَةِ.",
+              "id": "Perjalanannya indah. Dari jendela aku melihat gunung dan sungai."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "سَأَذْهَبُ إِلَى المَحَطَّةِ بِالسَّيّارَةِ، إِنْ شاءَ اللّٰهُ.",
+              "id": "Ayah akan ke stasiun naik mobil, insyaallah."
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "رَكِبَ",
+              "id": "naik (kendaraan)",
+              "emoji": "🚉"
+            },
+            {
+              "ar": "رَكِبْتُهُ",
+              "id": "aku menaikinya",
+              "emoji": "🧍"
+            },
+            {
+              "ar": "مَعَ مَنْ؟",
+              "id": "bersama siapa?",
+              "emoji": "👫"
+            },
+            {
+              "ar": "رِحْلَةٌ",
+              "id": "perjalanan",
+              "emoji": "🧳"
+            },
+            {
+              "ar": "أَرَى",
+              "id": "aku melihat",
+              "emoji": "👀"
+            },
+            {
+              "ar": "جَبَلٌ",
+              "id": "gunung",
+              "emoji": "⛰️"
+            },
+            {
+              "ar": "نَهْرٌ",
+              "id": "sungai",
+              "emoji": "🏞️"
+            },
+            {
+              "ar": "مَحَطَّةٌ",
+              "id": "stasiun",
+              "emoji": "🚏"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "maa-man-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مَعَ مَنْ أَنْتَ؟"
+          },
+          "answer": "Kamu (lk) bersama siapa?",
+          "options": [
+            "Kamu (lk) bersama siapa?",
+            "Kamu (lk) di mana?",
+            "Kamu (lk) dari mana?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "rizki-jam-naik",
+          "instruction": "Menurut dialog, jam berapa Rizki naik kereta?",
+          "prompt": {
+            "ar": "رَكِبَ رِزْقِي القِطارَ فِي السّاعَةِ …"
+          },
+          "answer": "jam tujuh pagi",
+          "options": [
+            "jam tujuh pagi",
+            "jam lima pagi",
+            "jam tujuh malam"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "rizki-lihat",
+          "instruction": "Apa yang Rizki lihat dari jendela kereta?",
+          "prompt": {
+            "ar": "أَرَى … مِنَ النّافِذَةِ."
+          },
+          "answer": "gunung dan sungai",
+          "options": [
+            "gunung dan sungai",
+            "laut dan pulau",
+            "masjid dan pasar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-aina-anta",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "أَيْنَ أَنْتَ الآنَ؟"
+          },
+          "answer": "أَنا فِي القِطارِ.",
+          "options": [
+            "أَنا فِي القِطارِ.",
+            "أَنا مَعَ صَدِيقِي.",
+            "رَكِبْتُهُ صَباحًا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-maa-sadiqi",
+          "prompt": {
+            "id": "Aku bersama temanku."
+          },
+          "answer": "أَنا مَعَ صَدِيقِي",
+          "extra": [
+            "مِنْ"
+          ]
+        },
+        {
+          "card": "reading",
+          "section": "Kartu data: tiket kereta Rizki",
+          "instruction_id": "Baca tiket Rizki, lalu jawab pertanyaannya.",
+          "img": "u11-tiket-kereta",
+          "scene": "Close-up of Rizki's hand holding a printed paper train ticket (no readable text, only blank lines and a barcode shape) on the platform of a Yogyakarta railway station, with an orange-and-blue Indonesian passenger train waiting in the background.",
+          "rows": [
+            {
+              "ar": "تَذْكِرَةُ القِطارِ",
+              "id": "Tiket kereta api",
+              "emoji": "🎫"
+            },
+            {
+              "ar": "الِاسْمُ: رِزْقِي",
+              "id": "Nama: Rizki"
+            },
+            {
+              "ar": "مِنْ: يُوغْياكَرْتا",
+              "id": "Dari: Yogyakarta"
+            },
+            {
+              "ar": "إِلَى: بانْدُونْغ",
+              "id": "Ke: Bandung"
+            },
+            {
+              "ar": "اليَوْمُ: الجُمُعَةُ",
+              "id": "Hari: Jumat"
+            },
+            {
+              "ar": "السّاعَةُ: السّابِعَةُ صَباحًا",
+              "id": "Jam: tujuh pagi"
+            },
+            {
+              "ar": "العَرَبَةُ: الثّالِثَةُ",
+              "id": "Gerbong: ketiga"
+            },
+            {
+              "ar": "رَقْمُ المَقْعَدِ: عِشْرُونَ",
+              "id": "Nomor kursi: dua puluh"
+            }
+          ],
+          "note_id": "Kata baru: تَذْكِرَةٌ = tiket; العَرَبَةُ = gerbong; رَقْمُ المَقْعَدِ = nomor kursi."
+        },
+        {
+          "q": "choice",
+          "k": "tiket-hari",
+          "instruction": "Menurut tiket, hari apa Rizki naik kereta?",
+          "prompt": {
+            "ar": "اليَوْمُ: …"
+          },
+          "answer": "Jumat",
+          "options": [
+            "Jumat",
+            "Kamis",
+            "Ahad"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "tiket-kursi",
+          "instruction": "Menurut tiket, berapa nomor kursi Rizki?",
+          "prompt": {
+            "ar": "رَقْمُ المَقْعَدِ: …"
+          },
+          "answer": "عِشْرُونَ",
+          "options": [
+            "عِشْرُونَ",
+            "ثَلاثُونَ",
+            "أَرْبَعُونَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tiket-gerbong",
+          "instruction": "Rizki duduk di gerbong yang mana?",
+          "prompt": {
+            "ar": "العَرَبَةُ: الثّالِثَةُ"
+          },
+          "answer": "gerbong ketiga",
+          "options": [
+            "gerbong ketiga",
+            "gerbong pertama",
+            "gerbong kedua puluh"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-fil-qitar",
+          "who": "rizki",
+          "ar": "أَنا فِي القِطارِ.",
+          "id": "Aku di kereta."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-mahattah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مَحَطَّةٌ"
+          },
+          "answer": "stasiun",
+          "options": [
+            "stasiun",
+            "sungai",
+            "perjalanan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-rakibtuhu",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "رَكِبْتُهُ صَباحًا."
+          },
+          "answer": "Aku menaikinya pagi hari.",
+          "options": [
+            "Aku menaikinya pagi hari.",
+            "Aku melihatnya pagi hari.",
+            "Aku menaikinya malam hari."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-rizki-maa",
+          "instruction": "Rizki naik kereta bersama siapa?",
+          "prompt": {
+            "ar": "رِزْقِي مَعَ …"
+          },
+          "answer": "Budi",
+          "options": [
+            "Budi",
+            "Yusuf",
+            "Pak Ahmad"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-ara-jabal",
+          "prompt": {
+            "id": "Aku melihat gunung dan sungai."
+          },
+          "answer": "أَرَى جَبَلًا وَنَهْرًا",
+          "extra": [
+            "بَحْرًا"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-tiket-ila",
+          "instruction": "Menurut tiket, kereta Rizki ke kota mana?",
+          "prompt": {
+            "ar": "إِلَى: …"
+          },
+          "answer": "Bandung",
+          "options": [
+            "Bandung",
+            "Yogyakarta",
+            "Surabaya"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata tempat & warna",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Tempat",
+          "rows": [
+            {
+              "ar": "مَدِينَةٌ",
+              "id": "kota",
+              "emoji": "🏙️"
+            },
+            {
+              "ar": "قَرْيَةٌ",
+              "id": "desa, kampung",
+              "emoji": "🏡"
+            },
+            {
+              "ar": "جَزِيرَةٌ",
+              "id": "pulau",
+              "emoji": "🏝️",
+              "serapan": "jazirah"
+            },
+            {
+              "ar": "بَحْرٌ",
+              "id": "laut",
+              "emoji": "🌊",
+              "serapan": "bahari"
+            },
+            {
+              "ar": "جَبَلٌ",
+              "id": "gunung",
+              "emoji": "⛰️"
+            },
+            {
+              "ar": "نَهْرٌ",
+              "id": "sungai",
+              "emoji": "🏞️"
+            },
+            {
+              "ar": "شارِعٌ",
+              "id": "jalan (raya)",
+              "emoji": "🛣️"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Keadaan dan perjalanan",
+          "rows": [
+            {
+              "ar": "سُكّانٌ",
+              "id": "penduduk",
+              "emoji": "👥"
+            },
+            {
+              "ar": "زِحامٌ",
+              "id": "kemacetan, keramaian",
+              "emoji": "🚗"
+            },
+            {
+              "ar": "هادِئٌ",
+              "id": "tenang",
+              "emoji": "🍃"
+            },
+            {
+              "ar": "هَواءٌ",
+              "id": "udara",
+              "emoji": "🌬️",
+              "serapan": "hawa"
+            },
+            {
+              "ar": "نَظِيفٌ",
+              "id": "bersih",
+              "emoji": "✨"
+            },
+            {
+              "ar": "كَبِيرٌ · صَغِيرٌ",
+              "id": "besar · kecil",
+              "emoji": "↕️"
+            },
+            {
+              "ar": "قِطارٌ",
+              "id": "kereta api",
+              "emoji": "🚆"
+            },
+            {
+              "ar": "رِحْلَةٌ",
+              "id": "perjalanan",
+              "emoji": "🧳"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Warna untuk kata perempuan",
+          "note_id": "Untuk kata benda perempuan, warna berubah bentuk: أَحْمَرُ → حَمْراءُ. Kedua bentuk tidak pernah bertanwin (bukan حَمْراءٌ).",
+          "rows": [
+            {
+              "ar": "حَمْراءُ",
+              "id": "merah (pr) · lk: أَحْمَرُ",
+              "emoji": "🟥"
+            },
+            {
+              "ar": "خَضْراءُ",
+              "id": "hijau (pr) · lk: أَخْضَرُ",
+              "emoji": "🟩"
+            },
+            {
+              "ar": "زَرْقاءُ",
+              "id": "biru (pr) · lk: أَزْرَقُ",
+              "emoji": "🟦"
+            },
+            {
+              "ar": "صَفْراءُ",
+              "id": "kuning (pr) · lk: أَصْفَرُ",
+              "emoji": "🟨"
+            },
+            {
+              "ar": "بَيْضاءُ",
+              "id": "putih (pr) · lk: أَبْيَضُ",
+              "emoji": "⬜"
+            },
+            {
+              "ar": "سَوْداءُ",
+              "id": "hitam (pr) · lk: أَسْوَدُ",
+              "emoji": "⬛"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "gambar-jabal",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "⛰️"
+          },
+          "answer": "جَبَلٌ",
+          "options": [
+            "جَبَلٌ",
+            "بَحْرٌ",
+            "نَهْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-jazirah",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🏝️"
+          },
+          "answer": "جَزِيرَةٌ",
+          "options": [
+            "جَزِيرَةٌ",
+            "قَرْيَةٌ",
+            "مَدِينَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-qitar",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "قِطارٌ"
+          },
+          "answer": "kereta api",
+          "options": [
+            "kereta api",
+            "mobil",
+            "bus"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "sukkan-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "سُكّانٌ"
+          },
+          "answer": "penduduk",
+          "options": [
+            "penduduk",
+            "udara",
+            "kemacetan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "hadi-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هادِئٌ"
+          },
+          "answer": "tenang",
+          "options": [
+            "tenang",
+            "bersih",
+            "kecil"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "warna-sayyarah",
+          "instruction": "Lengkapi: \"mobil merah\"",
+          "prompt": {
+            "ar": "سَيّارَةٌ …",
+            "emoji": "🚗"
+          },
+          "answer": "حَمْراءُ",
+          "options": [
+            "حَمْراءُ",
+            "أَحْمَرُ",
+            "خَضْراءُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "warna-bahr",
+          "instruction": "Lengkapi: \"Laut itu biru.\"",
+          "prompt": {
+            "ar": "البَحْرُ …",
+            "emoji": "🌊"
+          },
+          "answer": "أَزْرَقُ",
+          "options": [
+            "أَزْرَقُ",
+            "زَرْقاءُ",
+            "أَخْضَرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "warna-jazirah",
+          "instruction": "Lengkapi: \"Pulau itu hijau.\"",
+          "prompt": {
+            "ar": "الجَزِيرَةُ …",
+            "emoji": "🏝️"
+          },
+          "answer": "خَضْراءُ",
+          "options": [
+            "خَضْراءُ",
+            "أَخْضَرُ",
+            "بَيْضاءُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-safra",
+          "instruction": "Dengarkan. Warna apa?",
+          "prompt": {
+            "listen": "صَفْراءُ"
+          },
+          "answer": "kuning",
+          "options": [
+            "kuning",
+            "merah",
+            "putih"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "serapan-hawa",
+          "instruction": "Kata Indonesia \"hawa\" (udara) berasal dari kata …",
+          "prompt": {
+            "id": "hawa"
+          },
+          "answer": "هَواءٌ",
+          "options": [
+            "هَواءٌ",
+            "هادِئٌ",
+            "نَهْرٌ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-gambar-nahr",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🏞️"
+          },
+          "answer": "نَهْرٌ",
+          "options": [
+            "نَهْرٌ",
+            "جَبَلٌ",
+            "شارِعٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-qaryah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "قَرْيَةٌ"
+          },
+          "answer": "desa",
+          "options": [
+            "desa",
+            "kota",
+            "pulau"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-warna-hafilah",
+          "instruction": "Lengkapi: \"bus putih\"",
+          "prompt": {
+            "ar": "حافِلَةٌ …",
+            "emoji": "🚌"
+          },
+          "answer": "بَيْضاءُ",
+          "options": [
+            "بَيْضاءُ",
+            "أَبْيَضُ",
+            "سَوْداءُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-zihaam",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "زِحامٌ"
+          },
+          "answer": "kemacetan",
+          "options": [
+            "kemacetan",
+            "penduduk",
+            "perjalanan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-serapan-bahari",
+          "instruction": "Kata Indonesia \"bahari\" (berkaitan dengan laut) berasal dari kata …",
+          "prompt": {
+            "id": "bahari"
+          },
+          "answer": "بَحْرٌ",
+          "options": [
+            "بَحْرٌ",
+            "نَهْرٌ",
+            "جَبَلٌ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Bertanya alasan dan pendapat",
+          "groups": [
+            {
+              "title_ar": "لِماذا + ذَهَبْتَ؟",
+              "note_id": "Untuk menanyakan alasan sesuatu yang sudah terjadi: لِماذا + kata kerja lampau. Jawabannya: لِـ + kata benda (untuk …) atau لِأَنَّ + kalimat (karena …).",
+              "rows": [
+                {
+                  "ar": "لِماذا انْتَقَلْتَ إِلَى يُوغْياكَرْتا؟",
+                  "id": "Kenapa kamu (lk) pindah ke Yogyakarta?"
+                },
+                {
+                  "ar": "اِنْتَقَلْتُ لِلدِّراسَةِ.",
+                  "id": "Aku pindah untuk belajar."
+                },
+                {
+                  "ar": "لِماذا ذَهَبْتِ إِلَى جاكَرْتا؟",
+                  "id": "Kenapa kamu (pr) pergi ke Jakarta?"
+                },
+                {
+                  "ar": "لِأَنَّ صَدِيقَتِي هُناكَ.",
+                  "id": "Karena temanku ada di sana."
+                }
+              ]
+            },
+            {
+              "title_ar": "ما رَأْيُكَ فِي …؟ · ما رَأْيُكِ فِي …؟",
+              "note_id": "رَأْيٌ = pendapat. ـكَ untuk laki-laki, ـكِ untuk perempuan.",
+              "rows": [
+                {
+                  "ar": "ما رَأْيُكَ فِي القِطارِ؟",
+                  "id": "Bagaimana pendapatmu (lk) tentang kereta itu?"
+                },
+                {
+                  "ar": "هُوَ سَرِيعٌ وَجَمِيلٌ.",
+                  "id": "Keretanya cepat dan bagus."
+                },
+                {
+                  "ar": "ما رَأْيُكِ فِي القَرْيَةِ؟",
+                  "id": "Bagaimana pendapatmu (pr) tentang desa itu?"
+                },
+                {
+                  "ar": "هِيَ هادِئَةٌ.",
+                  "id": "Desanya tenang."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Tetapi, tidak, dari-ke-bersama",
+          "groups": [
+            {
+              "title_ar": "لٰكِنْ",
+              "rows": [
+                {
+                  "ar": "جاكَرْتا كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ.",
+                  "id": "Jakarta besar, tetapi macet."
+                },
+                {
+                  "ar": "القَرْيَةُ صَغِيرَةٌ، لٰكِنْ هَواؤُها نَظِيفٌ.",
+                  "id": "Desa itu kecil, tetapi udaranya bersih."
+                }
+              ]
+            },
+            {
+              "title_ar": "لَيْسَ · لَيْسَتْ",
+              "note_id": "لَيْسَ untuk laki-laki, لَيْسَتْ untuk perempuan. Kata sesudahnya berakhiran -an/-atan: بَعِيدًا، كَبِيرَةً. Dalam pola لَيْسَ فِي … (tidak ada … di …), kata bendanya tetap -un.",
+              "rows": [
+                {
+                  "ar": "المَسْجِدُ لَيْسَ بَعِيدًا.",
+                  "id": "Masjid itu tidak jauh."
+                },
+                {
+                  "ar": "القَرْيَةُ لَيْسَتْ كَبِيرَةً.",
+                  "id": "Desa itu tidak besar."
+                },
+                {
+                  "ar": "لَيْسَ فِي القَرْيَةِ زِحامٌ.",
+                  "id": "Di desa itu tidak ada kemacetan."
+                }
+              ]
+            },
+            {
+              "title_ar": "مِنْ · إِلَى · مَعَ",
+              "rows": [
+                {
+                  "ar": "ذَهَبْتُ مِنْ يُوغْياكَرْتا إِلَى بانْدُونْغ.",
+                  "id": "Aku pergi dari Yogyakarta ke Bandung."
+                },
+                {
+                  "ar": "رَكِبْتُ القِطارَ مَعَ صَدِيقِي.",
+                  "id": "Aku naik kereta bersama temanku."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "laisa-baid",
+          "instruction": "Lengkapi: \"Masjid itu tidak jauh.\"",
+          "prompt": {
+            "ar": "المَسْجِدُ لَيْسَ …"
+          },
+          "answer": "بَعِيدًا",
+          "options": [
+            "بَعِيدًا",
+            "بَعِيدٌ",
+            "بَعِيدَةً"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "laisat-qaryah",
+          "instruction": "Lengkapi: \"Desa itu tidak besar.\"",
+          "prompt": {
+            "ar": "القَرْيَةُ … كَبِيرَةً."
+          },
+          "answer": "لَيْسَتْ",
+          "options": [
+            "لَيْسَتْ",
+            "لَيْسَ",
+            "لِأَنَّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tanya-rayuki-medan",
+          "instruction": "Kamu bertanya pendapat Siti tentang Medan. Pilih kalimatnya",
+          "prompt": {
+            "id": "Bagaimana pendapatmu (pr) tentang Medan?",
+            "emoji": "👩"
+          },
+          "answer": "ما رَأْيُكِ فِي مِيدان؟",
+          "options": [
+            "ما رَأْيُكِ فِي مِيدان؟",
+            "ما رَأْيُكَ فِي مِيدان؟",
+            "لِماذا ذَهَبْتِ إِلَى مِيدان؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-lakin",
+          "instruction": "Lengkapi: \"Kota itu besar, tetapi macet.\"",
+          "prompt": {
+            "ar": "المَدِينَةُ كَبِيرَةٌ، … فِيها زِحامٌ."
+          },
+          "answer": "لٰكِنْ",
+          "options": [
+            "لٰكِنْ",
+            "أَوْ",
+            "مَعَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jawab-limadza-masjid",
+          "instruction": "Pilih jawaban yang cocok",
+          "prompt": {
+            "ar": "لِماذا ذَهَبْتَ إِلَى المَسْجِدِ؟"
+          },
+          "answer": "ذَهَبْتُ لِلصَّلاةِ.",
+          "options": [
+            "ذَهَبْتُ لِلصَّلاةِ.",
+            "ذَهَبْتُ مَعَ أَبِي.",
+            "ذَهَبْتُ فِي المَساءِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lianna-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "لِأَنَّ صَدِيقَتِي هُناكَ."
+          },
+          "answer": "Karena temanku (pr) ada di sana.",
+          "options": [
+            "Karena temanku (pr) ada di sana.",
+            "Kenapa temanku (pr) di sana?",
+            "Temanku (pr) tidak di sana."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-ila-bandung-maa",
+          "prompt": {
+            "id": "Aku pergi bersama ayahku."
+          },
+          "answer": "ذَهَبْتُ مَعَ أَبِي",
+          "extra": [
+            "مِنْ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-limadza-rajati",
+          "prompt": {
+            "id": "Kenapa kamu (pr) pulang ke rumah?"
+          },
+          "answer": "لِماذا رَجَعْتِ إِلَى البَيْتِ",
+          "extra": [
+            "رَجَعْتَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-qaryah-laisat",
+          "prompt": {
+            "id": "Desa itu tidak besar."
+          },
+          "answer": "القَرْيَةُ لَيْسَتْ كَبِيرَةً",
+          "extra": [
+            "لَيْسَ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-laisa-qitar",
+          "instruction": "Lengkapi: \"Kereta itu tidak kecil.\"",
+          "prompt": {
+            "ar": "القِطارُ لَيْسَ …"
+          },
+          "answer": "صَغِيرًا",
+          "options": [
+            "صَغِيرًا",
+            "صَغِيرٌ",
+            "صَغِيرَةً"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-tanya-rayuka-budi",
+          "instruction": "Kamu bertanya pendapat Budi tentang kereta. Pilih kalimatnya",
+          "prompt": {
+            "id": "Bagaimana pendapatmu (lk) tentang kereta itu?",
+            "emoji": "👦"
+          },
+          "answer": "ما رَأْيُكَ فِي القِطارِ؟",
+          "options": [
+            "ما رَأْيُكَ فِي القِطارِ؟",
+            "ما رَأْيُكِ فِي القِطارِ؟",
+            "مَتَى رَكِبْتَ القِطارَ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-limadza-dzahabti",
+          "instruction": "Pilih jawaban yang cocok",
+          "prompt": {
+            "ar": "لِماذا ذَهَبْتِ إِلَى المَكْتَبَةِ؟"
+          },
+          "answer": "لِأَنَّ عِنْدِي امْتِحانًا.",
+          "options": [
+            "لِأَنَّ عِنْدِي امْتِحانًا.",
+            "ذَهَبْتُ مَعَ عائِشَةَ.",
+            "المَكْتَبَةُ كَبِيرَةٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-laisa-fiha",
+          "prompt": {
+            "id": "Di desa itu tidak ada kemacetan."
+          },
+          "answer": "لَيْسَ فِي القَرْيَةِ زِحامٌ",
+          "extra": [
+            "لَيْسَتْ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-min-ila",
+          "prompt": {
+            "id": "Aku pulang dari Jakarta."
+          },
+          "answer": "رَجَعْتُ مِنْ جاكَرْتا",
+          "extra": [
+            "إِلَى"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ش dan س, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ش dan س",
+          "note_id": "س (sin) diucapkan tipis seperti \"s\" pada \"sapu\": ujung lidah dekat gigi depan. ش (syin) seperti \"sy\" pada \"syukur\": bibir sedikit maju, lidah lebih ke belakang dan udara keluar lebih lebar. Artinya bisa berubah: سِعْرٌ = harga, شِعْرٌ = syair; عُسْرٌ = kesulitan, عُشْرٌ = sepersepuluh; سَرابٌ = fatamorgana, شَرابٌ = minuman; سَمْعٌ = pendengaran, شَمْعٌ = lilin.",
+          "pairs": [
+            [
+              "سِعْرٌ",
+              "شِعْرٌ"
+            ],
+            [
+              "عُسْرٌ",
+              "عُشْرٌ"
+            ],
+            [
+              "سَرابٌ",
+              "شَرابٌ"
+            ],
+            [
+              "سَمْعٌ",
+              "شَمْعٌ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-sir",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "شِعْرٌ"
+          },
+          "answer": "شِعْرٌ",
+          "options": [
+            "شِعْرٌ",
+            "سِعْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-usr",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "عُسْرٌ"
+          },
+          "answer": "عُسْرٌ",
+          "options": [
+            "عُسْرٌ",
+            "عُشْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-syarab",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "شَرابٌ"
+          },
+          "answer": "شَرابٌ",
+          "options": [
+            "شَرابٌ",
+            "سَرابٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-sam",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سَمْعٌ"
+          },
+          "answer": "سَمْعٌ",
+          "options": [
+            "سَمْعٌ",
+            "شَمْعٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "awal-syin",
+          "instruction": "Kata mana yang diawali huruf ش?",
+          "prompt": {
+            "id": "Cari huruf syin (ش) di awal kata"
+          },
+          "answer": "شارِعٌ",
+          "options": [
+            "شارِعٌ",
+            "سُكّانٌ",
+            "سَيّارَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-syams",
+          "ar": "شَمْسٌ",
+          "id": "matahari (ada ش dan س)"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-sukkan-madinah",
+          "ar": "سُكّانُ المَدِينَةِ",
+          "id": "penduduk kota"
+        },
+        {
+          "q": "choice",
+          "k": "simak-qaryah",
+          "instruction": "Dengarkan. Dia berasal dari mana?",
+          "prompt": {
+            "listen": "أَنا مِنْ قَرْيَةٍ صَغِيرَةٍ، وَهَواؤُها نَظِيفٌ."
+          },
+          "answer": "Dari desa kecil yang udaranya bersih",
+          "options": [
+            "Dari desa kecil yang udaranya bersih",
+            "Dari kota besar yang macet",
+            "Dari pulau kecil di laut"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-qitar",
+          "instruction": "Dengarkan. Ke kota mana dia pergi?",
+          "prompt": {
+            "listen": "رَكِبْتُ القِطارَ مِنْ سُورابايا إِلَى جاكَرْتا."
+          },
+          "answer": "Jakarta",
+          "options": [
+            "Jakarta",
+            "Surabaya",
+            "Bandung"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-sir2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سِعْرٌ"
+          },
+          "answer": "سِعْرٌ",
+          "options": [
+            "سِعْرٌ",
+            "شِعْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-usyr2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "عُشْرٌ"
+          },
+          "answer": "عُشْرٌ",
+          "options": [
+            "عُشْرٌ",
+            "عُسْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-sarab2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سَرابٌ"
+          },
+          "answer": "سَرابٌ",
+          "options": [
+            "سَرابٌ",
+            "شَرابٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-zihaam",
+          "instruction": "Dengarkan. Bagaimana kota itu?",
+          "prompt": {
+            "listen": "المَدِينَةُ كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ."
+          },
+          "answer": "Besar, tetapi macet",
+          "options": [
+            "Besar, tetapi macet",
+            "Kecil dan tenang",
+            "Besar dan tenang"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara: kotaku dan desaku",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Untuk bercerita",
+          "rows": [
+            {
+              "ar": "فِي رَأْيِي",
+              "id": "menurut pendapatku",
+              "emoji": "💭"
+            },
+            {
+              "ar": "مَدِينَتِي",
+              "id": "kotaku",
+              "emoji": "🏙️"
+            },
+            {
+              "ar": "قَرْيَتِي",
+              "id": "desaku",
+              "emoji": "🏡"
+            },
+            {
+              "ar": "صَغِيرٌ · صَغِيرَةٌ",
+              "id": "kecil (lk · pr)",
+              "emoji": "🐜"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "cerita-kota",
+          "instruction": "Ceritakan kotamu: namanya, besar atau kecil, dan udaranya",
+          "prompt": {
+            "id": "Pakai nama kotamu sendiri. Coba pakai لٰكِنْ."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "أَنا مِنْ بانْدُونْغ.",
+              "id": "Aku dari Bandung."
+            },
+            {
+              "who": "rizki",
+              "ar": "بانْدُونْغ مَدِينَةٌ كَبِيرَةٌ.",
+              "id": "Bandung kota yang besar."
+            },
+            {
+              "who": "rizki",
+              "ar": "هَواؤُها بارِدٌ، لٰكِنْ فِيها زِحامٌ.",
+              "id": "Udaranya sejuk, tetapi macet."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-madinati",
+          "who": "rizki",
+          "ar": "مَدِينَتِي كَبِيرَةٌ.",
+          "id": "Kotaku besar."
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-qaryati",
+          "who": "siti",
+          "ar": "قَرْيَتِي هادِئَةٌ.",
+          "id": "Desaku tenang."
+        },
+        {
+          "q": "choice",
+          "k": "jawab-rayuka-jogja",
+          "instruction": "Ustazah Zainab bertanya pendapatmu tentang Yogyakarta. Jawabanmu …",
+          "prompt": {
+            "ar": "ما رَأْيُكَ فِي يُوغْياكَرْتا؟"
+          },
+          "answer": "فِي رَأْيِي هِيَ مَدِينَةٌ جَمِيلَةٌ.",
+          "options": [
+            "فِي رَأْيِي هِيَ مَدِينَةٌ جَمِيلَةٌ.",
+            "أَنا مِنْ يُوغْياكَرْتا.",
+            "ذَهَبْتُ إِلَى يُوغْياكَرْتا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "tanya-alasan-pr",
+          "instruction": "Tanyakan alasan kepada teman perempuanmu, lalu jawab",
+          "prompt": {
+            "id": "Pakai لِماذا + kata kerja lampau, dan jawab dengan لِأَنَّ."
+          },
+          "model": [
+            {
+              "who": "siti",
+              "ar": "لِماذا ذَهَبْتِ إِلَى المَكْتَبَةِ؟",
+              "id": "Kenapa kamu (pr) pergi ke perpustakaan?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "لِأَنَّ عِنْدِي امْتِحانًا.",
+              "id": "Karena aku ada ujian."
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "pilih-qaryati-laisat",
+          "instruction": "Kamu ingin berkata: \"Desaku tidak besar, tetapi indah.\"",
+          "prompt": {
+            "id": "Desaku tidak besar, tetapi indah."
+          },
+          "answer": "قَرْيَتِي لَيْسَتْ كَبِيرَةً، لٰكِنْ هِيَ جَمِيلَةٌ.",
+          "options": [
+            "قَرْيَتِي لَيْسَتْ كَبِيرَةً، لٰكِنْ هِيَ جَمِيلَةٌ.",
+            "قَرْيَتِي كَبِيرَةٌ، لٰكِنْ هِيَ لَيْسَتْ جَمِيلَةً.",
+            "قَرْيَتِي لَيْسَتْ جَمِيلَةً، لٰكِنْ هِيَ كَبِيرَةٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "banding-kota-desa",
+          "instruction": "Bandingkan kota dan desa, lalu sebut mana yang kamu suka",
+          "prompt": {
+            "id": "Pakai كَبِيرٌ/صَغِيرٌ، زِحامٌ، هادِئٌ."
+          },
+          "model": [
+            {
+              "who": "budi",
+              "ar": "المَدِينَةُ كَبِيرَةٌ، وَفِيها زِحامٌ.",
+              "id": "Kota itu besar, dan macet."
+            },
+            {
+              "who": "budi",
+              "ar": "القَرْيَةُ صَغِيرَةٌ وَهادِئَةٌ.",
+              "id": "Desa itu kecil dan tenang."
+            },
+            {
+              "who": "budi",
+              "ar": "أَنا أُحِبُّ القَرْيَةَ.",
+              "id": "Aku suka desa."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-fiha-zihaam",
+          "who": "budi",
+          "ar": "فِيها زِحامٌ كَثِيرٌ.",
+          "id": "Di sana macet sekali."
+        },
+        {
+          "q": "choice",
+          "k": "jawab-maa-man",
+          "instruction": "Temanmu bertanya: \"Kamu pergi ke Malioboro bersama siapa?\" Jawabanmu …",
+          "prompt": {
+            "ar": "مَعَ مَنْ ذَهَبْتَ إِلَى مالِيُوبُورُو؟"
+          },
+          "answer": "ذَهَبْتُ مَعَ يُوسُفَ.",
+          "options": [
+            "ذَهَبْتُ مَعَ يُوسُفَ.",
+            "ذَهَبْتُ بِالحافِلَةِ.",
+            "ذَهَبْتُ فِي المَساءِ."
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-fi-rayi-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "فِي رَأْيِي"
+          },
+          "answer": "menurut pendapatku",
+          "options": [
+            "menurut pendapatku",
+            "di kotaku",
+            "bagaimana pendapatmu?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-qaryati-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "قَرْيَتِي هادِئَةٌ."
+          },
+          "answer": "Desaku tenang.",
+          "options": [
+            "Desaku tenang.",
+            "Kotaku besar.",
+            "Desaku kecil."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-limadza-intaqalta",
+          "instruction": "Temanmu bertanya: لِماذا انْتَقَلْتَ إِلَى بانْدُونْغ؟ Jawabanmu …",
+          "prompt": {
+            "ar": "لِماذا انْتَقَلْتَ إِلَى بانْدُونْغ؟"
+          },
+          "answer": "لِأَنَّ أَبِي يَعْمَلُ هُناكَ.",
+          "options": [
+            "لِأَنَّ أَبِي يَعْمَلُ هُناكَ.",
+            "اِنْتَقَلْتُ بِالقِطارِ.",
+            "اِنْتَقَلْتُ فِي المَساءِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-madinati",
+          "prompt": {
+            "id": "Kotaku besar."
+          },
+          "answer": "مَدِينَتِي كَبِيرَةٌ",
+          "extra": [
+            "قَرْيَتِي"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca: kampung dan kepulauan",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Kampung Ustazah Zainab",
+          "instruction_id": "Ustazah Zainab bercerita tentang kampung halamannya di Sulawesi.",
+          "img": "u11-kampung-zainab",
+          "scene": "A quiet fishing village on the coast of South Sulawesi: wooden stilt houses, colorful fishing boats on a calm blue sea in front and green mountains behind; Ustazah Zainab, a woman teacher in a long dress and hijab, stands on a village path smiling, with farmers in a rice field to one side.",
+          "rows": [
+            {
+              "ar": "أَنا الأُسْتاذَةُ زَيْنَبُ، مِنْ سُولاوِيسِي.",
+              "id": "Saya Ustazah Zainab, dari Sulawesi."
+            },
+            {
+              "ar": "قَرْيَتِي قَرِيبَةٌ مِنْ ماكاسار.",
+              "id": "Desaku dekat dengan Makassar."
+            },
+            {
+              "ar": "أَمامَ القَرْيَةِ بَحْرٌ، وَخَلْفَها جَبَلٌ.",
+              "id": "Di depan desa ada laut, dan di belakangnya ada gunung."
+            },
+            {
+              "ar": "سُكّانُ القَرْيَةِ صَيّادُونَ وَفَلّاحُونَ.",
+              "id": "Penduduk desa itu nelayan dan petani."
+            },
+            {
+              "ar": "هَواءُ القَرْيَةِ نَظِيفٌ، وَلَيْسَ فِيها زِحامٌ.",
+              "id": "Udara desa itu bersih, dan di sana tidak ada kemacetan."
+            },
+            {
+              "ar": "لٰكِنْ لَيْسَ فِيها مَكْتَبَةٌ.",
+              "id": "Tetapi di sana tidak ada perpustakaan."
+            },
+            {
+              "ar": "لِذٰلِكَ ذَهَبْتُ إِلَى ماكاسار لِلدِّراسَةِ.",
+              "id": "Karena itu aku pergi ke Makassar untuk belajar."
+            },
+            {
+              "ar": "وَالآنَ أَنا أُسْتاذَةٌ فِي يُوغْياكَرْتا.",
+              "id": "Dan sekarang aku guru di Yogyakarta."
+            }
+          ],
+          "note_id": "Kata baru: لِذٰلِكَ = karena itu."
+        },
+        {
+          "q": "choice",
+          "k": "baca-amam-qaryah",
+          "instruction": "Benar atau salah? \"Di depan desa ada gunung.\"",
+          "prompt": {
+            "ar": "أَمامَ القَرْيَةِ جَبَلٌ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-sukkan-qaryah",
+          "instruction": "Benar atau salah? \"Penduduk desa itu nelayan dan petani.\"",
+          "prompt": {
+            "ar": "سُكّانُ القَرْيَةِ صَيّادُونَ وَفَلّاحُونَ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-laisa-fiha",
+          "instruction": "Apa yang tidak ada di desa Ustazah Zainab?",
+          "prompt": {
+            "ar": "لَيْسَ فِي القَرْيَةِ …"
+          },
+          "answer": "perpustakaan",
+          "options": [
+            "perpustakaan",
+            "laut",
+            "gunung"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-limadza-makassar",
+          "instruction": "Kenapa Ustazah Zainab pergi ke Makassar?",
+          "prompt": {
+            "ar": "لِماذا ذَهَبَتْ إِلَى ماكاسار؟"
+          },
+          "answer": "Untuk belajar",
+          "options": [
+            "Untuk belajar",
+            "Untuk bekerja sebagai guru",
+            "Untuk mengunjungi nenek"
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Indonesia, negeri kepulauan",
+          "instruction_id": "Bacaan faktual. Baca pelan-pelan.",
+          "img": "u11-negeri-kepulauan",
+          "scene": "A bright illustrated map-like view of the Indonesian archipelago from above, without any labels or text: green islands scattered across a deep blue sea, small mountains and rivers on the islands, a white passenger ship and a small airplane traveling between them.",
+          "rows": [
+            {
+              "ar": "إِنْدُونِيسِيا بَلَدٌ كَبِيرٌ.",
+              "id": "Indonesia negeri yang besar."
+            },
+            {
+              "ar": "فِيها آلافُ الجُزُرِ.",
+              "id": "Di sana ada ribuan pulau."
+            },
+            {
+              "ar": "مِنْ جُزُرِها جاوَا وَسُومَطْرا وَسُولاوِيسِي وَبالِي.",
+              "id": "Di antara pulau-pulaunya ada Jawa, Sumatra, Sulawesi, dan Bali."
+            },
+            {
+              "ar": "بَيْنَ الجُزُرِ بَحْرٌ واسِعٌ.",
+              "id": "Di antara pulau-pulau itu ada laut yang luas."
+            },
+            {
+              "ar": "فِي إِنْدُونِيسِيا جِبالٌ وَأَنْهارٌ كَثِيرَةٌ.",
+              "id": "Di Indonesia ada banyak gunung dan sungai."
+            },
+            {
+              "ar": "سُكّانُ جاكَرْتا كَثِيرُونَ، وَفِيها زِحامٌ.",
+              "id": "Penduduk Jakarta banyak, dan di sana macet."
+            },
+            {
+              "ar": "نَذْهَبُ بَيْنَ الجُزُرِ بِالسَّفِينَةِ أَوْ بِالطّائِرَةِ.",
+              "id": "Kita bepergian antarpulau dengan kapal laut atau pesawat."
+            },
+            {
+              "ar": "إِنْدُونِيسِيا جَمِيلَةٌ، وَنَحْنُ نُحِبُّها.",
+              "id": "Indonesia indah, dan kita mencintainya."
+            }
+          ],
+          "note_id": "Kata baru: بَلَدٌ = negeri; آلافٌ = ribuan; جُزُرٌ = pulau-pulau (jamak جَزِيرَةٌ); واسِعٌ = luas; سَفِينَةٌ = kapal laut."
+        },
+        {
+          "q": "choice",
+          "k": "baca-bali-jazirah",
+          "instruction": "Benar atau salah? \"Bali adalah pulau di Indonesia.\"",
+          "prompt": {
+            "ar": "بالِي جَزِيرَةٌ فِي إِنْدُونِيسِيا."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-balad-saghir",
+          "instruction": "Benar atau salah? \"Indonesia negeri yang kecil.\"",
+          "prompt": {
+            "ar": "إِنْدُونِيسِيا بَلَدٌ صَغِيرٌ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-baina-juzur",
+          "instruction": "Menurut bacaan, apa yang ada di antara pulau-pulau?",
+          "prompt": {
+            "ar": "بَيْنَ الجُزُرِ …"
+          },
+          "answer": "بَحْرٌ واسِعٌ",
+          "options": [
+            "بَحْرٌ واسِعٌ",
+            "جَبَلٌ كَبِيرٌ",
+            "نَهْرٌ صَغِيرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "baca-kendaraan-pulau",
+          "instruction": "Menurut bacaan, kita bepergian antarpulau naik apa?",
+          "prompt": {
+            "ar": "نَذْهَبُ بَيْنَ الجُزُرِ بِـ …"
+          },
+          "answer": "kapal laut atau pesawat",
+          "options": [
+            "kapal laut atau pesawat",
+            "kereta atau bus",
+            "sepeda motor atau mobil"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-zainab-asal",
+          "instruction": "Ustazah Zainab berasal dari pulau mana?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Sulawesi",
+          "options": [
+            "Sulawesi",
+            "Jawa",
+            "Sumatra"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-khalfaha",
+          "instruction": "Benar atau salah? \"Di belakang desa ada gunung.\"",
+          "prompt": {
+            "ar": "خَلْفَ القَرْيَةِ جَبَلٌ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-hawauha",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هَواءُ القَرْيَةِ نَظِيفٌ، وَلَيْسَ فِيها زِحامٌ."
+          },
+          "answer": "Udara desa itu bersih, dan di sana tidak ada kemacetan.",
+          "options": [
+            "Udara desa itu bersih, dan di sana tidak ada kemacetan.",
+            "Desa itu besar, dan penduduknya banyak.",
+            "Udara kota itu panas, dan di sana macet."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-alaf-juzur",
+          "instruction": "Menurut bacaan 2, berapa banyak pulau di Indonesia?",
+          "prompt": {
+            "ar": "فِيها آلافُ الجُزُرِ."
+          },
+          "answer": "ribuan",
+          "options": [
+            "ribuan",
+            "sepuluh",
+            "dua puluh"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis tentang kotaku",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Huruf ش dan س dalam kata",
+          "instruction_id": "ش bertitik tiga di atas, س tanpa titik. Telusuri kata-kata ini.",
+          "rows": [
+            {
+              "ar": "شارِعٌ",
+              "id": "jalan"
+            },
+            {
+              "ar": "شَمْسٌ",
+              "id": "matahari"
+            },
+            {
+              "ar": "سُكّانٌ",
+              "id": "penduduk"
+            },
+            {
+              "ar": "مَدْرَسَةٌ",
+              "id": "sekolah"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tulis-syari",
+          "instruction": "Mana tulisan \"jalan\" yang benar?",
+          "prompt": {
+            "id": "jalan (syāri')"
+          },
+          "answer": "شارِعٌ",
+          "options": [
+            "شارِعٌ",
+            "سارِعٌ",
+            "شارِحٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "eja-syams",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "شَمْسٌ (matahari)"
+          },
+          "answer": "ش م س",
+          "extra": [
+            "ص"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "eja-sukkan",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "سُكّانٌ (penduduk)"
+          },
+          "answer": "س ك ا ن",
+          "extra": [
+            "ش"
+          ]
+        },
+        {
+          "card": "writing",
+          "section": "Kalimat tentang kotaku",
+          "instruction_id": "Contoh tulisan Rizki tentang kotanya. Telusuri, lalu tulis tentang kotamu sendiri.",
+          "rows": [
+            {
+              "ar": "مَدِينَتِي بانْدُونْغ.",
+              "id": "Kotaku Bandung."
+            },
+            {
+              "ar": "هِيَ مَدِينَةٌ كَبِيرَةٌ.",
+              "id": "Kota itu besar."
+            },
+            {
+              "ar": "هَواؤُها بارِدٌ.",
+              "id": "Udaranya sejuk."
+            },
+            {
+              "ar": "فِيها زِحامٌ، لٰكِنْ هِيَ جَمِيلَةٌ.",
+              "id": "Di sana macet, tetapi kotanya indah."
+            }
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-madinati-bandung",
+          "prompt": {
+            "id": "Ini kotaku."
+          },
+          "answer": "هٰذِهِ مَدِينَتِي",
+          "extra": [
+            "مَدِينَةٌ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hawauha-barid",
+          "prompt": {
+            "id": "Udaranya sejuk."
+          },
+          "answer": "هَواؤُها بارِدٌ",
+          "extra": [
+            "حارٌّ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-madinati-laisat",
+          "prompt": {
+            "id": "Kota itu tidak tenang."
+          },
+          "answer": "المَدِينَةُ لَيْسَتْ هادِئَةً",
+          "extra": [
+            "لَيْسَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-fiha-zihaam-lakin",
+          "prompt": {
+            "id": "Di sana macet, tetapi kotanya indah."
+          },
+          "answer": "فِيها زِحامٌ لٰكِنْ هِيَ جَمِيلَةٌ",
+          "extra": [
+            "أَوْ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tulis-sukkan-benar",
+          "instruction": "Mana kalimat yang ditulis dengan benar?",
+          "prompt": {
+            "id": "Penduduk kota itu banyak."
+          },
+          "answer": "سُكّانُ المَدِينَةِ كَثِيرُونَ.",
+          "options": [
+            "سُكّانُ المَدِينَةِ كَثِيرُونَ.",
+            "شُكّانُ المَدِينَةِ كَثِيرُونَ.",
+            "سُكّانُ المَدِينَةِ كَسِيرُونَ."
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tulis-syams",
+          "instruction": "Mana tulisan \"matahari\" yang benar?",
+          "prompt": {
+            "id": "matahari (syams)"
+          },
+          "answer": "شَمْسٌ",
+          "options": [
+            "شَمْسٌ",
+            "سَمْسٌ",
+            "شَمْشٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-eja-syari",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "شارِعٌ (jalan)"
+          },
+          "answer": "ش ا ر ع",
+          "extra": [
+            "س"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-qaryati-saghirah",
+          "prompt": {
+            "id": "Desaku kecil dan tenang."
+          },
+          "answer": "قَرْيَتِي صَغِيرَةٌ وَهادِئَةٌ",
+          "extra": [
+            "كَبِيرَةٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-huruf-awal-syari",
+          "instruction": "Huruf pertama kata شارِعٌ adalah …",
+          "prompt": {
+            "ar": "شارِعٌ"
+          },
+          "answer": "ش",
+          "options": [
+            "ش",
+            "س",
+            "ص"
+          ],
+          "lang": "ar"
+        }
+      ]
+    }
+  ]
+}

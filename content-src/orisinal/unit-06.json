@@ -1,0 +1,503 @@
+{
+  "unit": 6,
+  "book": "1a",
+  "title_ar": "الصَّلاةُ",
+  "title_id": "Salat",
+  "notes": "Cek kemiripan ABY (tanggal 2026-10-04): halaman ABY 1a hlm. 158–165 (Hiwar 1 fajar/munabbih di rumah, Hiwar 2 Makkah–Madinah, Hiwar 3 azan asar/masjid jauh-dekat/sakit) dibandingkan; tidak ada lebih dari 2 kalimat berurutan yang identik. Model Kalam \"اِسْمَعْ… هٰذا أَذانُ العَصْرِ / هَيّا إِلَى المَسْجِدِ\" terlalu dekat dengan Hiwar 3 ABY, ditulis ulang (azan isya). Dialog 1: Siti–Aisyah mendengar azan magrib di ma'had (asrama putri). Dialog 2: Budi membangunkan Rizki saat azan subuh karena alarmnya rusak (asrama putra). Dialog 3: keluarga Ahmad ke Masjid Istiqlal untuk salat zuhur. Pola: وَ 'athaf, لِماذا…؟ ← لِـ + mashdar / mudhari' manshub, fi'il amr mufrad (lk/pr), mubtada' + khabar, إِنْ شاءَ اللّٰهُ، جَزاكَ/كِ اللّٰهُ خَيْرًا، آسِفٌ/آسِفَةٌ. Bilangan tingkat 6–10 (mudzakkar). Bunyi ث/س. Menulis huruf ف ق ك ل م. Perbaikan arrange 2026-10-04 (urutan ganda): susun-asif-budi → أَنا آسِفٌ (vokatif bisa pindah); lat-susun-shaff-tsani → أُصَلِّي فِي الصَّفِّ الثّانِي (إِنْ شاءَ اللّٰهُ bisa pindah); lat-susun-rizki-budi → أَيْنَ رِزْقِي وَبُودِي (khabar فِي المَسْجِدِ bisa didahulukan).",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Azan magrib di ma'had",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "img": "u6-azan-magrib",
+          "scene": "Siti and Aisyah in the girls' dormitory corridor at dusk, Siti pointing toward a nearby mosque dome outside the window while Aisyah listens; orange sunset sky, Yogyakarta setting.",
+          "instruction_id": "Sore hari di asrama putri. Terdengar azan dari masjid ma'had.",
+          "rows": [
+            { "who": "siti", "ar": "اِسْمَعِي يا عائِشَةُ! هٰذا أَذانُ المَغْرِبِ.", "id": "Dengar, Aisyah! Itu azan magrib." },
+            { "who": "aisyah", "ar": "هَيّا إِلَى المَسْجِدِ!", "id": "Ayo ke masjid!" },
+            { "who": "siti", "ar": "هَيّا! هَلْ أَنْتِ عَلَى وُضُوءٍ؟", "id": "Ayo! Kamu sudah punya wudu? (pr)" },
+            { "who": "aisyah", "ar": "لا. أَيْنَ مَكانُ الوُضُوءِ؟", "id": "Belum. Di mana tempat wudu?" },
+            { "who": "siti", "ar": "هُناكَ. هُوَ قَرِيبٌ.", "id": "Di sana. Dekat kok." },
+            { "who": "aisyah", "ar": "وَأَيْنَ مُصَلَّى النِّساءِ؟", "id": "Lalu di mana tempat salat perempuan?" },
+            { "who": "siti", "ar": "فِي الطّابَقِ الثّانِي.", "id": "Di lantai dua." },
+            { "who": "aisyah", "ar": "جَزاكِ اللّٰهُ خَيْرًا يا سِيتِي.", "id": "Jazakillah khairan (terima kasih), Siti. (pr)" },
+            { "who": "siti", "ar": "وَإِيّاكِ.", "id": "Sama-sama. (pr)" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "اِسْمَعِي", "id": "dengarlah (pr)", "emoji": "👂" },
+            { "ar": "أَذانٌ", "id": "azan", "emoji": "📢", "serapan": "azan" },
+            { "ar": "المَغْرِبُ", "id": "magrib", "emoji": "🌇", "serapan": "magrib" },
+            { "ar": "هَيّا", "id": "ayo", "emoji": "🏃" },
+            { "ar": "وُضُوءٌ", "id": "wudu", "emoji": "💧", "serapan": "wudu" },
+            { "ar": "عَلَى وُضُوءٍ", "id": "dalam keadaan berwudu", "emoji": "✨" },
+            { "ar": "مَكانٌ", "id": "tempat", "emoji": "📍" },
+            { "ar": "هُناكَ", "id": "di sana", "emoji": "👉" },
+            { "ar": "قَرِيبٌ", "id": "dekat", "emoji": "↔️", "serapan": "karib" },
+            { "ar": "مُصَلًّى", "id": "tempat salat", "emoji": "🧎", "serapan": "musala" },
+            { "ar": "جَزاكِ اللّٰهُ خَيْرًا", "id": "semoga Allah membalasmu dengan kebaikan (terima kasih) (pr)", "emoji": "🤲" }
+          ]
+        },
+        { "q": "choice", "k": "hayya-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هَيّا إِلَى المَسْجِدِ!" }, "answer": "Ayo ke masjid!", "options": ["Ayo ke masjid!", "Di mana masjidnya?", "Masjidnya dekat."], "lang": "id" },
+        { "q": "choice", "k": "dengar-adzan-maghrib", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "هٰذا أَذانُ المَغْرِبِ." }, "answer": "Itu azan magrib.", "options": ["Itu azan magrib.", "Itu azan isya.", "Itu masjid ma'had."], "lang": "id" },
+        { "q": "choice", "k": "aisyah-wudu", "instruction": "Menurut dialog, apakah Aisyah sudah punya wudu?", "prompt": { "ar": "هَلْ أَنْتِ عَلَى وُضُوءٍ؟", "emoji": "💧" }, "answer": "Belum", "options": ["Belum", "Sudah"], "lang": "id" },
+        { "q": "choice", "k": "musala-lantai", "instruction": "Menurut dialog, di mana tempat salat perempuan?", "prompt": { "ar": "أَيْنَ مُصَلَّى النِّساءِ؟" }, "answer": "Di lantai dua", "options": ["Di lantai dua", "Di lantai satu", "Di dekat tempat wudu"], "lang": "id" },
+        { "q": "choice", "k": "balas-jazakillah", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "جَزاكِ اللّٰهُ خَيْرًا يا سِيتِي." }, "answer": "وَإِيّاكِ.", "options": ["وَإِيّاكِ.", "صَباحَ النُّورِ!", "هَيّا إِلَى المَسْجِدِ!"], "lang": "ar" },
+        { "q": "arrange", "k": "susun-makan-wudu", "prompt": { "id": "Di mana tempat wudu?" }, "answer": "أَيْنَ مَكانُ الوُضُوءِ", "extra": ["هُناكَ"] },
+        { "q": "arrange", "k": "susun-hayya-masjid", "prompt": { "id": "Ayo ke masjid!" }, "answer": "هَيّا إِلَى المَسْجِدِ", "extra": ["فِي"] },
+        { "q": "choice", "k": "qarib-arti", "instruction": "Apa artinya?", "prompt": { "ar": "قَرِيبٌ" }, "answer": "dekat", "options": ["dekat", "jauh", "di sana"], "lang": "id" },
+        { "q": "repeat", "k": "ucap-hayya", "who": "aisyah", "ar": "هَيّا إِلَى المَسْجِدِ!", "id": "Ayo ke masjid!" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-hunaka-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هُناكَ. هُوَ قَرِيبٌ." }, "answer": "Di sana. Dekat kok.", "options": ["Di sana. Dekat kok.", "Di sini. Jauh sekali.", "Di lantai dua."], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-musala", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "أَيْنَ مُصَلَّى النِّساءِ؟" }, "answer": "أَيْنَ مُصَلَّى النِّساءِ؟", "options": ["أَيْنَ مُصَلَّى النِّساءِ؟", "أَيْنَ مَكانُ الوُضُوءِ؟", "أَيْنَ المَسْجِدُ؟"], "lang": "ar" },
+        { "q": "choice", "k": "lat-adzan-apa", "instruction": "Menurut dialog, azan apa yang mereka dengar?", "prompt": { "ar": "هٰذا أَذانُ …", "emoji": "🌇" }, "answer": "Magrib", "options": ["Magrib", "Subuh", "Zuhur"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-thabiq", "prompt": { "id": "Di lantai dua." }, "answer": "فِي الطّابَقِ الثّانِي", "extra": ["مِنْ"] },
+        { "q": "choice", "k": "lat-isma-pr", "instruction": "Kamu meminta Aisyah mendengarkan. Kamu berkata …", "prompt": { "id": "Dengarlah! (pr)", "emoji": "👂" }, "answer": "اِسْمَعِي!", "options": ["اِسْمَعِي!", "اِسْمَعْ!", "هَيّا!"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Alarm yang rusak",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "img": "u6-alarm-subuh",
+          "scene": "Before dawn in a simple boys' dormitory room, Budi gently shaking a sleepy Rizki awake in bed; a broken alarm clock lies on the small desk, dark blue sky through the window.",
+          "instruction_id": "Subuh di asrama putra. Azan sudah terdengar, tetapi Rizki masih tidur. Budi membangunkannya.",
+          "rows": [
+            { "who": "budi", "ar": "قُمْ يا رِزْقِي! هٰذا أَذانُ الفَجْرِ.", "id": "Bangun, Rizki! Itu azan subuh." },
+            { "who": "rizki", "ar": "آسِفٌ يا بُودِي. مُنَبِّهِي مُعَطَّلٌ.", "id": "Maaf, Budi. Alarm saya rusak." },
+            { "who": "budi", "ar": "لا بَأْسَ. قُمْ وَتَوَضَّأْ بِسُرْعَةٍ.", "id": "Tidak apa-apa. Bangun dan cepat berwudu." },
+            { "who": "rizki", "ar": "هَلْ تَذْهَبُ إِلَى المَسْجِدِ الآنَ؟", "id": "Kamu ke masjid sekarang? (lk)" },
+            { "who": "budi", "ar": "نَعَمْ. أُصَلِّي فِي الصَّفِّ الأَوَّلِ.", "id": "Ya. Saya salat di saf pertama." },
+            { "who": "rizki", "ar": "وَأَنا فِي الصَّفِّ الثّانِي، إِنْ شاءَ اللّٰهُ.", "id": "Saya di saf kedua, insyaallah." },
+            { "who": "budi", "ar": "إِنْ شاءَ اللّٰهُ. لا تَنَمْ يا رِزْقِي!", "id": "Insyaallah. Jangan tidur, Rizki!" },
+            { "who": "rizki", "ar": "لا، لا! جَزاكَ اللّٰهُ خَيْرًا.", "id": "Tidak, tidak! Jazakallah khairan (terima kasih). (lk)" },
+            { "who": "budi", "ar": "وَإِيّاكَ.", "id": "Sama-sama. (lk)" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "قُمْ", "id": "bangun / berdirilah (lk)", "emoji": "⬆️" },
+            { "ar": "الفَجْرُ", "id": "subuh (fajar)", "emoji": "🌄", "serapan": "fajar" },
+            { "ar": "آسِفٌ", "id": "maaf (lk)", "emoji": "🙏" },
+            { "ar": "مُنَبِّهٌ", "id": "alarm, jam weker", "emoji": "⏰" },
+            { "ar": "مُعَطَّلٌ", "id": "rusak", "emoji": "🔧" },
+            { "ar": "لا بَأْسَ", "id": "tidak apa-apa", "emoji": "👌" },
+            { "ar": "تَوَضَّأْ", "id": "berwudulah (lk)", "emoji": "💧" },
+            { "ar": "بِسُرْعَةٍ", "id": "dengan cepat", "emoji": "⚡" },
+            { "ar": "الآنَ", "id": "sekarang", "emoji": "🕐" },
+            { "ar": "صَفٌّ", "id": "saf (barisan salat)", "emoji": "🧍", "serapan": "saf" },
+            { "ar": "إِنْ شاءَ اللّٰهُ", "id": "insyaallah (jika Allah menghendaki)", "emoji": "🤲", "serapan": "insyaallah" },
+            { "ar": "وَإِيّاكَ", "id": "dan kamu juga (balasan jazakallah) (lk)", "emoji": "🤝" }
+          ]
+        },
+        { "q": "choice", "k": "qum-arti", "instruction": "Apa artinya?", "prompt": { "ar": "قُمْ يا رِزْقِي!" }, "answer": "Bangun, Rizki!", "options": ["Bangun, Rizki!", "Tidurlah, Rizki!", "Berwudulah, Rizki!"], "lang": "id" },
+        { "q": "choice", "k": "sebab-telat", "instruction": "Menurut dialog, kenapa Rizki terlambat bangun?", "prompt": { "ar": "مُنَبِّهِي مُعَطَّلٌ.", "emoji": "⏰" }, "answer": "Alarmnya rusak.", "options": ["Alarmnya rusak.", "Dia sakit.", "Masjidnya jauh."], "lang": "id" },
+        { "q": "choice", "k": "dengar-tawadda", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "قُمْ وَتَوَضَّأْ بِسُرْعَةٍ." }, "answer": "Bangun dan cepat berwudu.", "options": ["Bangun dan cepat berwudu.", "Bangun dan cepat ke masjid.", "Jangan tidur lagi."], "lang": "id" },
+        { "q": "choice", "k": "balas-jazakallah", "instruction": "Rizki berterima kasih kepada Budi. Budi menjawab …", "prompt": { "ar": "جَزاكَ اللّٰهُ خَيْرًا." }, "answer": "وَإِيّاكَ.", "options": ["وَإِيّاكَ.", "وَإِيّاكِ.", "آسِفٌ يا رِزْقِي."], "lang": "ar" },
+        { "q": "choice", "k": "budi-saf", "instruction": "Menurut dialog, Budi salat di saf ke berapa?", "prompt": { "ar": "أُصَلِّي فِي الصَّفِّ …" }, "answer": "Pertama", "options": ["Pertama", "Kedua", "Ketiga"], "lang": "id" },
+        { "q": "arrange", "k": "susun-asif-budi", "prompt": { "id": "Saya minta maaf. (yang bicara laki-laki)" }, "answer": "أَنا آسِفٌ", "extra": ["آسِفَةٌ"] },
+        { "q": "arrange", "k": "susun-munabbih", "prompt": { "id": "Alarm saya rusak." }, "answer": "مُنَبِّهِي مُعَطَّلٌ", "extra": ["قَرِيبٌ"] },
+        { "q": "choice", "k": "munabbih-gambar", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "⏰" }, "answer": "مُنَبِّهٌ", "options": ["مُنَبِّهٌ", "مَسْجِدٌ", "صَفٌّ"], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-jazakallah", "who": "rizki", "ar": "جَزاكَ اللّٰهُ خَيْرًا.", "id": "Jazakallah khairan. (lk)" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-la-basa-arti", "instruction": "Apa artinya?", "prompt": { "ar": "لا بَأْسَ." }, "answer": "Tidak apa-apa.", "options": ["Tidak apa-apa.", "Maaf.", "Insyaallah."], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-qum", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "قُمْ يا رِزْقِي!" }, "answer": "قُمْ يا رِزْقِي!", "options": ["قُمْ يا رِزْقِي!", "لا تَنَمْ يا رِزْقِي!", "آسِفٌ يا بُودِي."], "lang": "ar" },
+        { "q": "choice", "k": "lat-adzan-fajr", "instruction": "Menurut dialog, azan apa yang terdengar?", "prompt": { "ar": "هٰذا أَذانُ …", "emoji": "🌄" }, "answer": "Subuh", "options": ["Subuh", "Magrib", "Isya"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-shaff-tsani", "prompt": { "id": "Saya salat di saf kedua." }, "answer": "أُصَلِّي فِي الصَّفِّ الثّانِي", "extra": ["الأَوَّلِ"] },
+        { "q": "choice", "k": "lat-la-tanam-arti", "instruction": "Apa artinya?", "prompt": { "ar": "لا تَنَمْ!" }, "answer": "Jangan tidur!", "options": ["Jangan tidur!", "Bangunlah!", "Cepatlah!"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Ke Masjid Istiqlal",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "img": "u6-istiqlal-keluarga",
+          "scene": "Pak Ahmad, Bu Fatimah (in batik dress) and Nur walking toward the large white dome and minaret of Masjid Istiqlal in Jakarta at midday; Nur looks up in amazement.",
+          "instruction_id": "Keluarga Ahmad sedang berlibur di Jakarta. Siang hari mereka berjalan menuju Masjid Istiqlal.",
+          "rows": [
+            { "who": "nur", "ar": "يا أُمِّي، إِلَى أَيْنَ نَذْهَبُ؟", "id": "Bu, kita mau ke mana?" },
+            { "who": "bu_fatimah", "ar": "إِلَى مَسْجِدِ الاِسْتِقْلالِ، لِصَلاةِ الظُّهْرِ.", "id": "Ke Masjid Istiqlal, untuk salat zuhur." },
+            { "who": "nur", "ar": "هَلِ المَسْجِدُ بَعِيدٌ يا أَبِي؟", "id": "Apakah masjidnya jauh, Yah?" },
+            { "who": "pak_ahmad", "ar": "لا، هُوَ قَرِيبٌ. اُنْظُرِي يا نُورُ!", "id": "Tidak, dekat. Lihat, Nur!" },
+            { "who": "nur", "ar": "ما أَكْبَرَ المَسْجِدَ!", "id": "Besar sekali masjidnya!" },
+            { "who": "bu_fatimah", "ar": "تَوَضَّئِي يا نُورُ، وَصَلِّي مَعِي.", "id": "Berwudulah, Nur, lalu salat bersama Ibu." },
+            { "who": "nur", "ar": "نَعَمْ يا أُمِّي. وَأَنْتَ يا أَبِي؟", "id": "Baik, Bu. Kalau Ayah?" },
+            { "who": "pak_ahmad", "ar": "أَنا أُصَلِّي مَعَ الرِّجالِ.", "id": "Ayah salat bersama jemaah laki-laki." },
+            { "who": "bu_fatimah", "ar": "نَلْتَقِي هُنا بَعْدَ الصَّلاةِ، إِنْ شاءَ اللّٰهُ.", "id": "Kita bertemu di sini setelah salat, insyaallah." }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "الظُّهْرُ", "id": "zuhur", "emoji": "☀️", "serapan": "zuhur" },
+            { "ar": "لِصَلاةِ …", "id": "untuk salat …", "emoji": "🕌" },
+            { "ar": "بَعِيدٌ", "id": "jauh", "emoji": "🛣️" },
+            { "ar": "اُنْظُرِي", "id": "lihatlah (pr)", "emoji": "👀" },
+            { "ar": "ما أَكْبَرَ …!", "id": "besar sekali …!", "emoji": "😮" },
+            { "ar": "تَوَضَّئِي", "id": "berwudulah (pr)", "emoji": "💧" },
+            { "ar": "صَلِّي", "id": "salatlah (pr)", "emoji": "🧎‍♀️" },
+            { "ar": "مَعِي", "id": "bersamaku", "emoji": "🤝" },
+            { "ar": "الرِّجالُ", "id": "kaum laki-laki", "emoji": "👨‍👦" },
+            { "ar": "نَلْتَقِي", "id": "kita bertemu", "emoji": "👋" },
+            { "ar": "بَعْدَ", "id": "sesudah", "emoji": "⏭️" }
+          ]
+        },
+        { "q": "choice", "k": "keluarga-ke-mana", "instruction": "Menurut dialog, keluarga Ahmad pergi ke mana?", "prompt": { "ar": "إِلَى أَيْنَ نَذْهَبُ؟", "emoji": "🕌" }, "answer": "Masjid Istiqlal", "options": ["Masjid Istiqlal", "Masjid ma'had", "Rumah nenek"], "lang": "id" },
+        { "q": "choice", "k": "limadza-istiqlal", "instruction": "Mengapa mereka ke masjid? Pilih jawaban yang sesuai dialog", "prompt": { "ar": "لِماذا تَذْهَبُ الأُسْرَةُ إِلَى المَسْجِدِ؟" }, "answer": "لِصَلاةِ الظُّهْرِ.", "options": ["لِصَلاةِ الظُّهْرِ.", "لِصَلاةِ الفَجْرِ.", "فِي جاكَرْتا."], "lang": "ar" },
+        { "q": "choice", "k": "dengar-baid", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "هَلِ المَسْجِدُ بَعِيدٌ؟" }, "answer": "Apakah masjidnya jauh?", "options": ["Apakah masjidnya jauh?", "Apakah masjidnya dekat?", "Di mana masjidnya?"], "lang": "id" },
+        { "q": "choice", "k": "ma-akbara-arti", "instruction": "Apa artinya?", "prompt": { "ar": "ما أَكْبَرَ المَسْجِدَ!" }, "answer": "Besar sekali masjidnya!", "options": ["Besar sekali masjidnya!", "Masjidnya jauh sekali!", "Masjid apa ini?"], "lang": "id" },
+        { "q": "choice", "k": "suruh-nur-wudu", "instruction": "Ibu menyuruh Nur berwudu. Kalimatnya …", "prompt": { "id": "Berwudulah, Nur!", "emoji": "💧" }, "answer": "تَوَضَّئِي يا نُورُ!", "options": ["تَوَضَّئِي يا نُورُ!", "تَوَضَّأْ يا نُورُ!", "اُنْظُرِي يا نُورُ!"], "lang": "ar" },
+        { "q": "arrange", "k": "susun-hal-baid", "prompt": { "id": "Apakah masjidnya jauh?" }, "answer": "هَلِ المَسْجِدُ بَعِيدٌ", "extra": ["قَرِيبٌ"] },
+        { "q": "arrange", "k": "susun-li-shalat-zuhur", "prompt": { "id": "Untuk salat zuhur." }, "answer": "لِصَلاةِ الظُّهْرِ", "extra": ["العَصْرِ"] },
+        { "q": "choice", "k": "baid-arti", "instruction": "Apa artinya?", "prompt": { "ar": "بَعِيدٌ" }, "answer": "jauh", "options": ["jauh", "dekat", "besar"], "lang": "id" },
+        { "q": "repeat", "k": "ucap-insyaallah", "who": "bu_fatimah", "ar": "إِنْ شاءَ اللّٰهُ.", "id": "Insyaallah." }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-ayah-salat", "instruction": "Menurut dialog, Pak Ahmad salat bersama siapa?", "prompt": { "ar": "أَنا أُصَلِّي مَعَ الرِّجالِ." }, "answer": "Bersama jemaah laki-laki", "options": ["Bersama jemaah laki-laki", "Bersama Nur", "Bersama Bu Fatimah"], "lang": "id" },
+        { "q": "choice", "k": "lat-kapan-bertemu", "instruction": "Kapan mereka bertemu lagi?", "prompt": { "ar": "نَلْتَقِي هُنا بَعْدَ الصَّلاةِ." }, "answer": "Sesudah salat", "options": ["Sesudah salat", "Sebelum salat", "Sesudah makan"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-unzhuri", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "اُنْظُرِي يا نُورُ!" }, "answer": "Lihat, Nur!", "options": ["Lihat, Nur!", "Dengar, Nur!", "Bangun, Nur!"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-shalli-mai", "prompt": { "id": "Salatlah bersamaku! (pr)" }, "answer": "صَلِّي مَعِي", "extra": ["صَلِّ"] },
+        { "q": "choice", "k": "lat-ila-aina-arti", "instruction": "Apa artinya?", "prompt": { "ar": "إِلَى أَيْنَ نَذْهَبُ؟" }, "answer": "Kita mau ke mana?", "options": ["Kita mau ke mana?", "Kita dari mana?", "Di mana masjidnya?"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & urutan 6–10",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Kata yang sudah kamu kenal",
+          "note_id": "Banyak kata ibadah dalam bahasa Indonesia berasal dari bahasa Arab.",
+          "rows": [
+            { "ar": "صَلاةٌ", "id": "salat", "emoji": "🧎", "serapan": "salat" },
+            { "ar": "أَذانٌ", "id": "azan", "emoji": "📢", "serapan": "azan" },
+            { "ar": "وُضُوءٌ", "id": "wudu", "emoji": "💧", "serapan": "wudu" },
+            { "ar": "إِمامٌ", "id": "imam", "emoji": "🧔", "serapan": "imam" },
+            { "ar": "صَفٌّ", "id": "saf (barisan salat)", "emoji": "🧍", "serapan": "saf" },
+            { "ar": "مَسْجِدٌ", "id": "masjid", "emoji": "🕌", "serapan": "masjid" },
+            { "ar": "قَرِيبٌ", "id": "dekat", "emoji": "↔️", "serapan": "karib" },
+            { "ar": "بَعِيدٌ", "id": "jauh", "emoji": "🛣️" },
+            { "ar": "مُنَبِّهٌ", "id": "alarm, jam weker", "emoji": "⏰" },
+            { "ar": "مَرِيضٌ", "id": "sakit (lk)", "emoji": "🤒" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Waktu salat",
+          "rows": [
+            { "ar": "الفَجْرُ", "id": "subuh (fajar)", "emoji": "🌄", "serapan": "fajar" },
+            { "ar": "الظُّهْرُ", "id": "zuhur", "emoji": "☀️", "serapan": "zuhur" },
+            { "ar": "العَصْرُ", "id": "asar", "emoji": "🌤️", "serapan": "asar" },
+            { "ar": "المَغْرِبُ", "id": "magrib", "emoji": "🌇", "serapan": "magrib" },
+            { "ar": "العِشاءُ", "id": "isya", "emoji": "🌙", "serapan": "isya" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Urutan 6–10",
+          "note_id": "Bentuk laki-laki (mudzakkar), misalnya الصَّفُّ السّادِسُ = saf keenam.",
+          "rows": [
+            { "ar": "السّادِسُ", "id": "keenam", "emoji": "6️⃣" },
+            { "ar": "السّابِعُ", "id": "ketujuh", "emoji": "7️⃣" },
+            { "ar": "الثّامِنُ", "id": "kedelapan", "emoji": "8️⃣" },
+            { "ar": "التّاسِعُ", "id": "kesembilan", "emoji": "9️⃣" },
+            { "ar": "العاشِرُ", "id": "kesepuluh", "emoji": "🔟" }
+          ]
+        },
+        { "q": "choice", "k": "gambar-masjid", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🕌" }, "answer": "مَسْجِدٌ", "options": ["مَسْجِدٌ", "مُنَبِّهٌ", "صَفٌّ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-ashr", "instruction": "Dengarkan. Waktu salat apa?", "prompt": { "listen": "العَصْرُ" }, "answer": "asar", "options": ["asar", "isya", "zuhur"], "lang": "id" },
+        { "q": "choice", "k": "marid-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مَرِيضٌ" }, "answer": "sakit (lk)", "options": ["sakit (lk)", "dekat", "maaf (lk)"], "lang": "id" },
+        { "q": "choice", "k": "sesudah-maghrib", "instruction": "Salat sesudah magrib adalah …", "prompt": { "ar": "المَغْرِبُ ← …" }, "answer": "العِشاءُ", "options": ["العِشاءُ", "الفَجْرُ", "الظُّهْرُ"], "lang": "ar" },
+        { "q": "choice", "k": "gambar-fajr", "instruction": "Waktu salat apa ini? (dini hari, sebelum matahari terbit)", "prompt": { "emoji": "🌄" }, "answer": "الفَجْرُ", "options": ["الفَجْرُ", "العَصْرُ", "المَغْرِبُ"], "lang": "ar" },
+        { "q": "choice", "k": "urutan-6", "instruction": "Bahasa Arabnya \"keenam\" adalah …", "prompt": { "emoji": "6️⃣", "id": "keenam" }, "answer": "السّادِسُ", "options": ["السّادِسُ", "السّابِعُ", "الثّالِثُ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-tasi", "instruction": "Dengarkan. Urutan ke berapa?", "prompt": { "listen": "التّاسِعُ" }, "answer": "ke-9", "options": ["ke-9", "ke-7", "ke-10"], "lang": "id" },
+        { "q": "choice", "k": "lanjut-asyir", "instruction": "Lanjutkan urutannya", "prompt": { "ar": "الثّامِنُ، التّاسِعُ، …" }, "answer": "العاشِرُ", "options": ["العاشِرُ", "السّابِعُ", "السّادِسُ"], "lang": "ar" },
+        { "q": "choice", "k": "lawan-qarib", "instruction": "Lawan kata قَرِيبٌ adalah …", "prompt": { "ar": "قَرِيبٌ ↔ …" }, "answer": "بَعِيدٌ", "options": ["بَعِيدٌ", "مَرِيضٌ", "إِمامٌ"], "lang": "ar" },
+        { "q": "choice", "k": "imam-arti", "instruction": "Orang yang memimpin salat berjamaah disebut …", "prompt": { "id": "pemimpin salat", "emoji": "🧔" }, "answer": "إِمامٌ", "options": ["إِمامٌ", "أُسْتاذٌ", "طالِبٌ"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-dengar-sabi", "instruction": "Dengarkan. Urutan ke berapa?", "prompt": { "listen": "السّابِعُ" }, "answer": "ke-7", "options": ["ke-7", "ke-6", "ke-9"], "lang": "id" },
+        { "q": "choice", "k": "lat-gambar-marid", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🤒" }, "answer": "مَرِيضٌ", "options": ["مَرِيضٌ", "قَرِيبٌ", "بَعِيدٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-sebelum-ashr", "instruction": "Salat sebelum asar adalah …", "prompt": { "ar": "… ← العَصْرُ" }, "answer": "الظُّهْرُ", "options": ["الظُّهْرُ", "العِشاءُ", "المَغْرِبُ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-isya-arti", "instruction": "Waktu salat apa ini?", "prompt": { "ar": "العِشاءُ" }, "answer": "isya", "options": ["isya", "asar", "subuh"], "lang": "id" },
+        { "q": "choice", "k": "lat-tsamin-arti", "instruction": "Apa artinya?", "prompt": { "ar": "الصَّفُّ الثّامِنُ" }, "answer": "saf kedelapan", "options": ["saf kedelapan", "saf keenam", "saf ketiga"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Bertanya alasan dan menyambung kata",
+          "groups": [
+            {
+              "title_ar": "لِماذا …؟ ← لِـ …",
+              "note_id": "لِماذا = kenapa / untuk apa. Jawabannya bisa لِـ + kata benda (لِلصَّلاةِ = untuk salat), atau لِـ + kata kerja berakhiran fathah (لِأُصَلِّيَ = supaya saya salat).",
+              "rows": [
+                { "ar": "لِماذا تَذْهَبُ إِلَى المَسْجِدِ؟", "id": "Kenapa kamu pergi ke masjid? (lk)" },
+                { "ar": "لِلصَّلاةِ.", "id": "Untuk salat." },
+                { "ar": "لِأُصَلِّيَ المَغْرِبَ.", "id": "Supaya saya (bisa) salat magrib." }
+              ]
+            },
+            {
+              "title_ar": "وَ",
+              "note_id": "وَ (dan) ditulis menempel pada kata sesudahnya.",
+              "rows": [
+                { "ar": "أُصَلِّي الظُّهْرَ وَالعَصْرَ.", "id": "Saya salat zuhur dan asar." },
+                { "ar": "رِزْقِي وَبُودِي فِي المَسْجِدِ.", "id": "Rizki dan Budi di masjid." }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Kalimat perintah (amr)",
+          "groups": [
+            {
+              "title_ar": "قُمْ · قُومِي",
+              "note_id": "Kolom kiri untuk laki-laki, kanan untuk perempuan. Bentuk perempuan berakhiran ـِي.",
+              "rows": [
+                { "ar": "قُمْ · قُومِي", "id": "bangun / berdirilah (lk · pr)" },
+                { "ar": "تَوَضَّأْ · تَوَضَّئِي", "id": "berwudulah (lk · pr)" },
+                { "ar": "صَلِّ · صَلِّي", "id": "salatlah (lk · pr)" },
+                { "ar": "اِسْمَعْ · اِسْمَعِي", "id": "dengarlah (lk · pr)" },
+                { "ar": "اِذْهَبْ · اِذْهَبِي", "id": "pergilah (lk · pr)" }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Kalimat nominal dan ungkapan",
+          "groups": [
+            {
+              "title_ar": "المَسْجِدُ قَرِيبٌ",
+              "note_id": "Mubtada' (pokok kalimat, biasanya ber-ال) + khabar (keterangannya). Tidak perlu kata \"adalah\".",
+              "rows": [
+                { "ar": "المَسْجِدُ قَرِيبٌ.", "id": "Masjidnya dekat." },
+                { "ar": "المُنَبِّهُ مُعَطَّلٌ.", "id": "Alarmnya rusak." },
+                { "ar": "بُودِي مَرِيضٌ.", "id": "Budi sakit." }
+              ]
+            },
+            {
+              "title_ar": "آسِفٌ · آسِفَةٌ",
+              "note_id": "Laki-laki berkata آسِفٌ, perempuan berkata آسِفَةٌ. Untuk terima kasih: جَزاكَ (lk) / جَزاكِ (pr) اللّٰهُ خَيْرًا.",
+              "rows": [
+                { "ar": "آسِفٌ يا أُسْتاذُ.", "id": "Maaf, Ustaz. (yang bicara lk)" },
+                { "ar": "آسِفَةٌ يا أُسْتاذَةُ.", "id": "Maaf, Ustazah. (yang bicara pr)" },
+                { "ar": "جَزاكِ اللّٰهُ خَيْرًا يا عائِشَةُ.", "id": "Jazakillah khairan, Aisyah." }
+              ]
+            }
+          ]
+        },
+        { "q": "choice", "k": "amr-nur", "instruction": "Kamu menyuruh Nur berwudu. Pilih kalimatnya", "prompt": { "id": "Berwudulah! (pr)", "emoji": "👧" }, "answer": "تَوَضَّئِي!", "options": ["تَوَضَّئِي!", "تَوَضَّأْ!", "تَتَوَضَّئِينَ."], "lang": "ar" },
+        { "q": "choice", "k": "amr-rizki", "instruction": "Kamu membangunkan Rizki. Pilih kalimatnya", "prompt": { "id": "Bangun! (lk)", "emoji": "👦" }, "answer": "قُمْ!", "options": ["قُمْ!", "قُومِي!", "يَقُومُ."], "lang": "ar" },
+        { "q": "choice", "k": "jawab-limadza", "instruction": "Pilih jawaban yang tepat", "prompt": { "ar": "لِماذا تَذْهَبُ إِلَى المَسْجِدِ؟" }, "answer": "لِلصَّلاةِ.", "options": ["لِلصَّلاةِ.", "فِي المَسْجِدِ.", "المَسْجِدُ قَرِيبٌ."], "lang": "ar" },
+        { "q": "choice", "k": "isi-wa", "instruction": "Lengkapi: \"Saya salat zuhur dan asar di masjid.\"", "prompt": { "ar": "أُصَلِّي الظُّهْرَ … العَصْرَ فِي المَسْجِدِ." }, "answer": "وَ", "options": ["وَ", "فِي", "مِنْ"], "lang": "ar" },
+        { "q": "choice", "k": "asifah-siti", "instruction": "Siti terlambat masuk kelas. Siti berkata …", "prompt": { "id": "Maaf, Ustazah. (Siti)", "emoji": "👩" }, "answer": "آسِفَةٌ يا أُسْتاذَةُ.", "options": ["آسِفَةٌ يا أُسْتاذَةُ.", "آسِفٌ يا أُسْتاذَةُ.", "جَزاكِ اللّٰهُ خَيْرًا."], "lang": "ar" },
+        { "q": "arrange", "k": "susun-masjid-qarib", "prompt": { "id": "Masjidnya dekat." }, "answer": "المَسْجِدُ قَرِيبٌ", "extra": ["بَعِيدٌ"] },
+        { "q": "arrange", "k": "susun-limadza", "prompt": { "id": "Kenapa kamu (lk) pergi ke masjid?" }, "answer": "لِماذا تَذْهَبُ إِلَى المَسْجِدِ", "extra": ["تَذْهَبِينَ"] },
+        { "q": "arrange", "k": "susun-tawaddai-shalli", "prompt": { "id": "Berwudulah dan salatlah! (pr)" }, "answer": "تَوَضَّئِي وَصَلِّي", "extra": ["تَوَضَّأْ"] },
+        { "q": "choice", "k": "jazaki-pr", "instruction": "Kamu berterima kasih kepada Siti. Kamu berkata …", "prompt": { "id": "Terima kasih, Siti.", "emoji": "👩" }, "answer": "جَزاكِ اللّٰهُ خَيْرًا يا سِيتِي.", "options": ["جَزاكِ اللّٰهُ خَيْرًا يا سِيتِي.", "جَزاكَ اللّٰهُ خَيْرًا يا سِيتِي.", "إِنْ شاءَ اللّٰهُ يا سِيتِي."], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-amr-siti-qumi", "instruction": "Kamu membangunkan Siti. Pilih kalimatnya", "prompt": { "id": "Bangun! (pr)", "emoji": "👩" }, "answer": "قُومِي!", "options": ["قُومِي!", "قُمْ!", "تَقُومِينَ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-shalli-lk", "instruction": "\"Salatlah!\" untuk laki-laki adalah …", "prompt": { "id": "Salatlah! (lk)" }, "answer": "صَلِّ!", "options": ["صَلِّ!", "صَلِّي!", "أُصَلِّي."], "lang": "ar" },
+        { "q": "choice", "k": "lat-li-ushalliya", "instruction": "Apa artinya?", "prompt": { "ar": "لِأُصَلِّيَ المَغْرِبَ." }, "answer": "Supaya saya (bisa) salat magrib.", "options": ["Supaya saya (bisa) salat magrib.", "Saya salat magrib di rumah.", "Kenapa kamu salat magrib?"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-budi-marid", "prompt": { "id": "Budi sakit." }, "answer": "بُودِي مَرِيضٌ", "extra": ["مَرِيضَةٌ"] },
+        { "q": "arrange", "k": "lat-susun-rizki-budi", "prompt": { "id": "Di mana Rizki dan Budi?" }, "answer": "أَيْنَ رِزْقِي وَبُودِي", "extra": ["مِنْ"] },
+        { "q": "choice", "k": "lat-isma-lk", "instruction": "\"Dengarlah!\" untuk laki-laki adalah …", "prompt": { "id": "Dengarlah! (lk)" }, "answer": "اِسْمَعْ!", "options": ["اِسْمَعْ!", "اِسْمَعِي!", "اِذْهَبْ!"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ث dan س, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ث dan س",
+          "note_id": "ث (tsa) diucapkan dengan ujung lidah sedikit keluar di antara gigi depan, seperti \"th\" pada kata Inggris \"three\". س (sin) diucapkan seperti \"s\" biasa, lidah di belakang gigi. Contoh yang sudah kamu kenal: الثُّلاثاءُ (Selasa) dimulai dengan ث. Ketuk tiap kotak dan bandingkan.",
+          "pairs": [["ثَ", "سَ"], ["ثِ", "سِ"], ["ثُ", "سُ"], ["ثارَ", "سارَ"], ["ثَمِينٌ", "سَمِينٌ"], ["كَثِيرٌ", "كَسِيرٌ"], ["حَرَثَ", "حَرَسَ"]]
+        },
+        { "q": "choice", "k": "dengar-tsamin", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "ثَمِينٌ" }, "answer": "ثَمِينٌ", "options": ["ثَمِينٌ", "سَمِينٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-sara", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "سارَ" }, "answer": "سارَ", "options": ["سارَ", "ثارَ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-katsir", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "كَثِيرٌ" }, "answer": "كَثِيرٌ", "options": ["كَثِيرٌ", "كَسِيرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-haras", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "حَرَسَ" }, "answer": "حَرَسَ", "options": ["حَرَسَ", "حَرَثَ"], "lang": "ar" },
+        { "q": "choice", "k": "awal-tsulatsa", "instruction": "Kata الثُّلاثاءُ (Selasa) memakai huruf …", "prompt": { "ar": "الثُّلاثاءُ" }, "answer": "ث", "options": ["ث", "س", "ت"], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-tsamin-urut", "ar": "الثّامِنُ", "id": "kedelapan" },
+        { "q": "repeat", "k": "ucap-sadis", "ar": "السّادِسُ", "id": "keenam" },
+        { "q": "choice", "k": "simak-shaff", "instruction": "Dengarkan. Dia salat di saf ke berapa?", "prompt": { "listen": "أَنا أُصَلِّي فِي الصَّفِّ الثّامِنِ." }, "answer": "ke-8", "options": ["ke-8", "ke-6", "ke-3"], "lang": "id" },
+        { "q": "choice", "k": "simak-masjid-qarib", "instruction": "Dengarkan. Masjidnya dekat atau jauh?", "prompt": { "listen": "مَسْجِدُ المَعْهَدِ قَرِيبٌ، وَالإِمامُ مِصْرِيٌّ." }, "answer": "Dekat", "options": ["Dekat", "Jauh"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-dengar-samin", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "سَمِينٌ" }, "answer": "سَمِينٌ", "options": ["سَمِينٌ", "ثَمِينٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-tsara", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "ثارَ" }, "answer": "ثارَ", "options": ["ثارَ", "سارَ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-kasir", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "كَسِيرٌ" }, "answer": "كَسِيرٌ", "options": ["كَسِيرٌ", "كَثِيرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-simak-imam", "instruction": "Dengarkan. Imamnya orang mana?", "prompt": { "listen": "مَسْجِدُ المَعْهَدِ قَرِيبٌ، وَالإِمامُ مِصْرِيٌّ." }, "answer": "Mesir", "options": ["Mesir", "Indonesia", "Turki"], "lang": "id" },
+        { "q": "choice", "k": "lat-simak-sadis", "instruction": "Dengarkan. Saf ke berapa?", "prompt": { "listen": "الصَّفُّ السّادِسُ" }, "answer": "ke-6", "options": ["ke-6", "ke-8", "ke-3"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Ungkapan sehari-hari",
+          "rows": [
+            { "ar": "إِنْ شاءَ اللّٰهُ", "id": "insyaallah", "emoji": "🤲", "serapan": "insyaallah" },
+            { "ar": "جَزاكَ اللّٰهُ خَيْرًا", "id": "terima kasih (kepada lk)", "emoji": "🙏" },
+            { "ar": "جَزاكِ اللّٰهُ خَيْرًا", "id": "terima kasih (kepada pr)", "emoji": "🙏" },
+            { "ar": "وَإِيّاكَ · وَإِيّاكِ", "id": "dan kamu juga (balasan) (lk · pr)", "emoji": "🤝" },
+            { "ar": "آسِفٌ · آسِفَةٌ", "id": "maaf (yang bicara lk · pr)", "emoji": "😔" }
+          ]
+        },
+        { "q": "speak", "k": "ajak-ke-masjid", "instruction": "Ajak temanmu ke masjid ketika azan terdengar", "prompt": { "id": "Sebut azan apa, lalu ajak temanmu." }, "model": [
+          { "who": "rizki", "ar": "يا بُودِي، أَذانُ العِشاءِ!", "id": "Budi, azan isya!" },
+          { "who": "rizki", "ar": "قُمْ وَتَوَضَّأْ. المَسْجِدُ قَرِيبٌ.", "id": "Bangun dan berwudulah. Masjidnya dekat." }
+        ] },
+        { "q": "repeat", "k": "ucap-asif-ustaz", "who": "rizki", "ar": "آسِفٌ يا أُسْتاذُ.", "id": "Maaf, Ustaz." },
+        { "q": "repeat", "k": "ucap-jazakillah", "who": "aisyah", "ar": "جَزاكِ اللّٰهُ خَيْرًا.", "id": "Jazakillah khairan. (pr)" },
+        { "q": "choice", "k": "situasi-sajadah", "instruction": "Budi meminjamkan sajadah kepadamu. Kamu berkata …", "prompt": { "id": "Berterima kasih kepada Budi", "emoji": "🧎" }, "answer": "جَزاكَ اللّٰهُ خَيْرًا.", "options": ["جَزاكَ اللّٰهُ خَيْرًا.", "جَزاكِ اللّٰهُ خَيْرًا.", "لا بَأْسَ."], "lang": "ar" },
+        { "q": "choice", "k": "situasi-telat-kelas", "instruction": "Kamu (lk) terlambat masuk kelas Ustaz Mahmud. Kamu berkata …", "prompt": { "id": "Meminta maaf", "emoji": "🏫" }, "answer": "آسِفٌ يا أُسْتاذُ.", "options": ["آسِفٌ يا أُسْتاذُ.", "آسِفَةٌ يا أُسْتاذُ.", "هَيّا يا أُسْتاذُ."], "lang": "ar" },
+        { "q": "speak", "k": "minta-maaf-alasan", "instruction": "Minta maaf karena terlambat, lalu beri alasan", "prompt": { "id": "Pakai آسِفٌ (lk) atau آسِفَةٌ (pr), lalu kalimat seperti مُنَبِّهِي مُعَطَّلٌ." }, "model": [
+          { "who": "siti", "ar": "آسِفَةٌ يا أُسْتاذَةُ.", "id": "Maaf, Ustazah." },
+          { "who": "siti", "ar": "مُنَبِّهِي مُعَطَّلٌ.", "id": "Alarm saya rusak." }
+        ] },
+        { "q": "choice", "k": "situasi-besok", "instruction": "Ustaz bertanya: \"Besok kamu salat subuh di masjid?\" Jawaban yang sopan …", "prompt": { "id": "Menjawab rencana", "emoji": "🌄" }, "answer": "نَعَمْ، إِنْ شاءَ اللّٰهُ.", "options": ["نَعَمْ، إِنْ شاءَ اللّٰهُ.", "وَإِيّاكَ.", "لا بَأْسَ."], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-masjid-qarib", "who": "budi", "ar": "المَسْجِدُ قَرِيبٌ.", "id": "Masjidnya dekat." },
+        { "q": "speak", "k": "cerita-salat", "instruction": "Ceritakan: kamu salat apa di masjid, dan apakah masjidnya dekat atau jauh", "prompt": { "id": "Pakai وَ untuk menyebut dua waktu salat." }, "model": [
+          { "who": "budi", "ar": "أُصَلِّي المَغْرِبَ وَالعِشاءَ فِي المَسْجِدِ.", "id": "Saya salat magrib dan isya di masjid." },
+          { "who": "budi", "ar": "وَالمَسْجِدُ قَرِيبٌ.", "id": "Masjidnya dekat." }
+        ] },
+        { "q": "choice", "k": "situasi-balas-aisyah", "instruction": "Aisyah berkata kepadamu (pr): جَزاكِ اللّٰهُ خَيْرًا. Kamu menjawab …", "prompt": { "ar": "جَزاكِ اللّٰهُ خَيْرًا." }, "answer": "وَإِيّاكِ.", "options": ["وَإِيّاكِ.", "وَإِيّاكَ.", "آسِفَةٌ."], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-insyaallah-arti", "instruction": "Kapan kita mengucapkan إِنْ شاءَ اللّٰهُ?", "prompt": { "ar": "إِنْ شاءَ اللّٰهُ" }, "answer": "Ketika berbicara tentang rencana", "options": ["Ketika berbicara tentang rencana", "Ketika meminta maaf", "Ketika memberi salam"], "lang": "id" },
+        { "q": "choice", "k": "lat-asifah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "آسِفَةٌ يا أُسْتاذَةُ." }, "answer": "Maaf, Ustazah. (yang bicara pr)", "options": ["Maaf, Ustazah. (yang bicara pr)", "Terima kasih, Ustazah.", "Insyaallah, Ustazah."], "lang": "id" },
+        { "q": "choice", "k": "lat-ajak-pr", "instruction": "Kamu mengajak Siti mendengar azan. Kamu berkata …", "prompt": { "id": "Dengar, Siti! Itu azan.", "emoji": "📢" }, "answer": "اِسْمَعِي يا سِيتِي! هٰذا الأَذانُ.", "options": ["اِسْمَعِي يا سِيتِي! هٰذا الأَذانُ.", "اِسْمَعْ يا سِيتِي! هٰذا الأَذانُ.", "قُومِي يا سِيتِي! هٰذا المَسْجِدُ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-marid-alasan", "instruction": "Budi tidak masuk kelas. Alasan yang cocok …", "prompt": { "ar": "آسِفٌ يا أُسْتاذُ. …" }, "answer": "أَنا مَرِيضٌ.", "options": ["أَنا مَرِيضٌ.", "أَنا مَرِيضَةٌ.", "أَنا قَرِيبٌ."], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Masjid Istiqlal",
+          "img": "u6-istiqlal",
+          "scene": "Wide view of the large white Masjid Istiqlal in Jakarta with its big dome and tall single minaret, long rows of worshippers in a spacious prayer hall seen through open arches, bright midday sky.",
+          "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            { "ar": "هٰذا مَسْجِدُ الاِسْتِقْلالِ.", "id": "Ini Masjid Istiqlal.", "emoji": "🕌" },
+            { "ar": "هُوَ فِي جاكَرْتا.", "id": "Masjid ini ada di Jakarta." },
+            { "ar": "هُوَ أَكْبَرُ مَسْجِدٍ فِي جَنُوبِ شَرْقِ آسِيا.", "id": "Masjid ini adalah masjid terbesar di Asia Tenggara." },
+            { "ar": "الاِسْتِقْلالُ كَلِمَةٌ عَرَبِيَّةٌ.", "id": "Istiqlal adalah kata bahasa Arab (artinya \"kemerdekaan\")." },
+            { "ar": "فِي المَسْجِدِ صُفُوفٌ كَثِيرَةٌ.", "id": "Di masjid itu ada banyak saf." },
+            { "ar": "أُسْرَةُ أَحْمَدَ تُصَلِّي فِيهِ الظُّهْرَ.", "id": "Keluarga Ahmad salat zuhur di sana." }
+          ]
+        },
+        { "q": "choice", "k": "baca-istiqlal-bandung", "instruction": "Benar atau salah? \"Masjid Istiqlal ada di Bandung.\"", "prompt": { "ar": "مَسْجِدُ الاِسْتِقْلالِ فِي بانْدُونْغ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-istiqlal-terbesar", "instruction": "Benar atau salah? \"Istiqlal adalah masjid terbesar di Asia Tenggara.\"", "prompt": { "ar": "هُوَ أَكْبَرُ مَسْجِدٍ فِي جَنُوبِ شَرْقِ آسِيا." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-keluarga-salat", "instruction": "Menurut bacaan 1, keluarga Ahmad salat apa di Istiqlal?", "prompt": { "ar": "أُسْرَةُ أَحْمَدَ تُصَلِّي …" }, "answer": "Zuhur", "options": ["Zuhur", "Subuh", "Isya"], "lang": "id" },
+        { "q": "choice", "k": "baca-istiqlal-makna", "instruction": "Kata الاِسْتِقْلالُ artinya …", "prompt": { "ar": "الاِسْتِقْلالُ" }, "answer": "kemerdekaan", "options": ["kemerdekaan", "persatuan", "kedamaian"], "lang": "id" },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Rizki dan masjid ma'had",
+          "img": "u6-rizki-saf",
+          "scene": "Inside a modest institute mosque in Yogyakarta, Budi standing in the front row while Rizki hurries in late at the back rows, holding an old alarm clock under his arm; soft morning light.",
+          "rows": [
+            { "ar": "أَنا رِزْقِي، طالِبٌ فِي مَعْهَدِ الهُدَى.", "id": "Saya Rizki, pelajar di Ma'had al-Huda.", "emoji": "👦" },
+            { "ar": "مَسْجِدُ المَعْهَدِ قَرِيبٌ.", "id": "Masjid ma'had dekat." },
+            { "ar": "أُصَلِّي الفَجْرَ وَالمَغْرِبَ وَالعِشاءَ فِيهِ.", "id": "Saya salat subuh, magrib, dan isya di sana." },
+            { "ar": "صَدِيقِي بُودِي فِي الصَّفِّ الأَوَّلِ دائِمًا.", "id": "Teman saya Budi selalu di saf pertama." },
+            { "ar": "وَأَنا أَحْيانًا فِي الصَّفِّ العاشِرِ!", "id": "Kalau saya, kadang-kadang di saf kesepuluh!" },
+            { "ar": "مُنَبِّهِي قَدِيمٌ.", "id": "Alarm saya sudah tua (قَدِيمٌ = lama, tua).", "emoji": "⏰" }
+          ]
+        },
+        { "q": "choice", "k": "baca-shaff-awwal", "instruction": "Menurut bacaan 2, siapa yang selalu di saf pertama?", "prompt": { "ar": "… فِي الصَّفِّ الأَوَّلِ دائِمًا." }, "answer": "Budi", "options": ["Budi", "Rizki", "Ustaz Mahmud"], "lang": "id" },
+        { "q": "choice", "k": "baca-masjid-baid", "instruction": "Benar atau salah? \"Masjid ma'had jauh.\"", "prompt": { "ar": "مَسْجِدُ المَعْهَدِ بَعِيدٌ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-rizki-asyir", "instruction": "Rizki kadang-kadang di saf ke berapa?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Kesepuluh", "options": ["Kesepuluh", "Pertama", "Kedua"], "lang": "id" },
+        { "q": "choice", "k": "baca-apa-qadim", "instruction": "Menurut bacaan 2, apa yang sudah tua?", "prompt": { "ar": "… قَدِيمٌ." }, "answer": "مُنَبِّهُ رِزْقِي", "options": ["مُنَبِّهُ رِزْقِي", "مَسْجِدُ المَعْهَدِ", "صَدِيقُهُ بُودِي"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-baca-rizki-salat", "instruction": "Benar atau salah? \"Rizki salat subuh, magrib, dan isya di masjid ma'had.\"", "prompt": { "ar": "أُصَلِّي الفَجْرَ وَالمَغْرِبَ وَالعِشاءَ فِيهِ." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-istiqlal-kota", "instruction": "Masjid Istiqlal ada di kota mana?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Jakarta", "options": ["Jakarta", "Yogyakarta", "Bandung"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-shufuf", "instruction": "Apa artinya?", "prompt": { "ar": "فِي المَسْجِدِ صُفُوفٌ كَثِيرَةٌ." }, "answer": "Di masjid itu ada banyak saf.", "options": ["Di masjid itu ada banyak saf.", "Di masjid itu ada banyak orang.", "Masjid itu sangat jauh."], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-budi-awwal", "instruction": "Benar atau salah? \"Budi kadang-kadang di saf kesepuluh.\"", "prompt": { "ar": "بُودِي فِي الصَّفِّ العاشِرِ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis ف ق ك ل م",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Lima huruf",
+          "instruction_id": "Telusuri bentuk kelima huruf ini. Perhatikan titiknya: ف satu titik, ق dua titik.",
+          "rows": [
+            { "ar": "ف", "id": "fa" },
+            { "ar": "ق", "id": "qaf" },
+            { "ar": "ك", "id": "kaf" },
+            { "ar": "ل", "id": "lam" },
+            { "ar": "م", "id": "mim" }
+          ]
+        },
+        { "q": "choice", "k": "huruf-qaf", "instruction": "Huruf apa ini?", "prompt": { "ar": "ق" }, "answer": "qaf", "options": ["qaf", "fa", "kaf"], "lang": "id" },
+        { "q": "choice", "k": "huruf-titik-satu", "instruction": "Huruf mana yang bertitik SATU di atas?", "prompt": { "id": "fa atau qaf?" }, "answer": "ف", "options": ["ف", "ق"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-qa", "instruction": "Dengarkan. Huruf apa yang kamu dengar?", "prompt": { "listen": "قَ" }, "answer": "ق", "options": ["ق", "ك", "ف"], "lang": "ar" },
+        {
+          "card": "writing",
+          "section": "Huruf itu dalam kata",
+          "instruction_id": "Cari huruf ف ق ك ل م dalam kata-kata unit ini.",
+          "rows": [
+            { "ar": "فَجْرٌ", "id": "fajar, subuh" },
+            { "ar": "قَرِيبٌ", "id": "dekat" },
+            { "ar": "مَكانٌ", "id": "tempat" },
+            { "ar": "صَلاةٌ", "id": "salat" },
+            { "ar": "صَفٌّ", "id": "saf" }
+          ]
+        },
+        { "q": "arrange", "k": "eja-fajr", "instruction": "Susun hurufnya", "prompt": { "id": "فَجْرٌ (fajar)" }, "answer": "ف ج ر", "extra": ["ق"] },
+        { "q": "arrange", "k": "eja-qarib", "instruction": "Susun hurufnya", "prompt": { "id": "قَرِيبٌ (dekat)" }, "answer": "ق ر ي ب", "extra": ["ف"] },
+        { "q": "arrange", "k": "eja-makan", "instruction": "Susun hurufnya", "prompt": { "id": "مَكانٌ (tempat)" }, "answer": "م ك ا ن", "extra": ["ل"] },
+        { "q": "choice", "k": "huruf-akhir-shaff", "instruction": "Huruf terakhir kata صَفٌّ adalah …", "prompt": { "ar": "صَفٌّ" }, "answer": "ف", "options": ["ف", "ق", "م"], "lang": "ar" },
+        { "q": "choice", "k": "tulis-shalat", "instruction": "Mana tulisan \"salat\" yang benar?", "prompt": { "id": "salat" }, "answer": "صَلاةٌ", "options": ["صَلاةٌ", "صَكاةٌ", "صَماةٌ"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-huruf-kaf", "instruction": "Huruf apa ini?", "prompt": { "ar": "ك" }, "answer": "kaf", "options": ["kaf", "lam", "qaf"], "lang": "id" },
+        { "q": "choice", "k": "lat-awal-masjid", "instruction": "Huruf pertama kata مَسْجِدٌ adalah …", "prompt": { "ar": "مَسْجِدٌ" }, "answer": "م", "options": ["م", "ل", "ق"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-eja-shalat", "instruction": "Susun hurufnya", "prompt": { "id": "صَلاةٌ (salat)" }, "answer": "ص ل ا ة", "extra": ["ك"] },
+        { "q": "choice", "k": "lat-dengar-la", "instruction": "Dengarkan. Huruf apa yang kamu dengar?", "prompt": { "listen": "لَ" }, "answer": "ل", "options": ["ل", "م", "ك"], "lang": "ar" }
+      ]
+    }
+  ]
+}

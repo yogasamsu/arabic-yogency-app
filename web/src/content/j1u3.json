@@ -1,0 +1,4504 @@
+{
+ "id": "j1u3",
+ "book": "1a",
+ "number": 3,
+ "title_ar": "السَّكَنُ",
+ "title_id": "Tempat tinggal",
+ "lessons": [
+  {
+   "id": "j1u3-d1",
+   "dars": 1,
+   "title_id": "Kamar kos Budi",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ يا بُودِي!",
+        "id": "Assalamualaikum, Budi!",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/80bc9e1855fb5992.mp3"
+        }
+       },
+       {
+        "ar": "وَعَلَيْكُمُ السَّلامُ. تَفَضَّلْ!",
+        "id": "Waalaikumussalam. Silakan masuk! (lk)",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/7b75b5159c427834.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ هٰذِهِ غُرْفَتُكَ؟",
+        "id": "Apakah ini kamarmu? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/398a9b1777140d83.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، رَقْمُها سَبْعَةٌ.",
+        "id": "Ya, nomornya tujuh.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/5fb58912083362e0.mp3"
+        }
+       },
+       {
+        "ar": "وَأَيْنَ الحَمّامُ؟",
+        "id": "Kamar mandinya di mana?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/e215e88d2ca463c4.mp3"
+        }
+       },
+       {
+        "ar": "الحَمّامُ وَالمَطْبَخُ هُناكَ.",
+        "id": "Kamar mandi dan dapurnya di sana.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/b7cefe708999c34b.mp3"
+        }
+       },
+       {
+        "ar": "ماذا تُرِيدُ؟ عِنْدِي ماءٌ وَشايٌ.",
+        "id": "Kamu mau apa? (lk) Saya punya air dan teh.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/335130c79371da91.mp3"
+        }
+       },
+       {
+        "ar": "ماءً، مِنْ فَضْلِكَ.",
+        "id": "Air saja, tolong. (kepada lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/8ea1363290868034.mp3"
+        }
+       },
+       {
+        "ar": "تَفَضَّلْ.",
+        "id": "Silakan. (lk)",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/93ec3ec9d99ad0ee.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u3-kos-budi.webp"
+      ],
+      "instruction_id": "Budi pindah dari asrama ke kamar kos di rumah Bu Sri, dekat ma'had. Rizki datang berkunjung."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "تَفَضَّلْ",
+        "id": "silakan (kepada lk)",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/f28f31ae53309b58.mp3"
+        }
+       },
+       {
+        "ar": "غُرْفَةٌ",
+        "id": "kamar",
+        "emoji": "🛋️",
+        "audio": {
+         "src": "/audio/o/19bd10c01bde13a7.mp3"
+        }
+       },
+       {
+        "ar": "رَقْمٌ",
+        "id": "nomor",
+        "emoji": "🔢",
+        "audio": {
+         "src": "/audio/o/9af6140bbf7fc152.mp3"
+        }
+       },
+       {
+        "ar": "حَمّامٌ",
+        "id": "kamar mandi",
+        "emoji": "🚿",
+        "audio": {
+         "src": "/audio/o/951c2a56dfa53eb9.mp3"
+        }
+       },
+       {
+        "ar": "مَطْبَخٌ",
+        "id": "dapur",
+        "emoji": "🍳",
+        "audio": {
+         "src": "/audio/o/7bfd4b898ef783bb.mp3"
+        }
+       },
+       {
+        "ar": "هُناكَ",
+        "id": "di sana",
+        "emoji": "👉",
+        "audio": {
+         "src": "/audio/o/0f28fa0c6530c85b.mp3"
+        }
+       },
+       {
+        "ar": "ماذا تُرِيدُ؟",
+        "id": "kamu mau apa? (lk)",
+        "emoji": "❓",
+        "audio": {
+         "src": "/audio/o/3c024e31be060129.mp3"
+        }
+       },
+       {
+        "ar": "عِنْدِي",
+        "id": "saya punya",
+        "emoji": "🙋",
+        "audio": {
+         "src": "/audio/o/6c11f3803db2c85a.mp3"
+        }
+       },
+       {
+        "ar": "ماءٌ",
+        "id": "air",
+        "emoji": "💧",
+        "audio": {
+         "src": "/audio/o/3c2eab7e6416236e.mp3"
+        }
+       },
+       {
+        "ar": "شايٌ",
+        "id": "teh",
+        "emoji": "🍵",
+        "audio": {
+         "src": "/audio/o/969fd736e524ea62.mp3"
+        }
+       },
+       {
+        "ar": "مِنْ فَضْلِكَ",
+        "id": "tolong (kepada lk)",
+        "emoji": "🙏",
+        "audio": {
+         "src": "/audio/o/931ffea1224320a6.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d1-tafaddal-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "تَفَضَّلْ!",
+       "audio": {
+        "src": "/audio/o/23299c3f80eeca69.mp3"
+       }
+      },
+      "answer": "Silakan! (lk)",
+      "options": [
+       "Silakan! (lk)",
+       "Terima kasih!",
+       "Tolong! (lk)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d1-dengar-madza-turid",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "ماذا تُرِيدُ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/3c024e31be060129.mp3"
+       }
+      },
+      "answer": "Kamu mau apa? (lk)",
+      "options": [
+       "Kamu mau apa? (lk)",
+       "Apakah ini kamarmu? (lk)",
+       "Kamar mandinya di mana?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d1-balas-madza-turid",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "ماذا تُرِيدُ؟",
+       "audio": {
+        "src": "/audio/o/3c024e31be060129.mp3"
+       }
+      },
+      "answer": "ماءً، مِنْ فَضْلِكَ.",
+      "options": [
+       "ماءً، مِنْ فَضْلِكَ.",
+       "وَعَلَيْكُمُ السَّلامُ.",
+       "الحَمّامُ هُناكَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ماءً، مِنْ فَضْلِكَ.": {
+        "src": "/audio/o/b257e5aeaba395ca.mp3"
+       },
+       "وَعَلَيْكُمُ السَّلامُ.": {
+        "src": "/audio/o/f43ab2bfd0d99792.mp3"
+       },
+       "الحَمّامُ هُناكَ.": {
+        "src": "/audio/o/77e6fc50e6dc8142.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d1-kamar-budi-nomor",
+      "instruction": "Menurut dialog, nomor kamar Budi berapa?",
+      "prompt": {
+       "ar": "رَقْمُ غُرْفَةِ بُودِي …",
+       "audio": {
+        "src": "/audio/o/80b758885db98f01.mp3"
+       },
+       "emoji": "🚪"
+      },
+      "answer": "7",
+      "options": [
+       "7",
+       "8",
+       "5"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d1-gambar-hammam",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🚿"
+      },
+      "answer": "حَمّامٌ",
+      "options": [
+       "حَمّامٌ",
+       "مَطْبَخٌ",
+       "غُرْفَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "حَمّامٌ": {
+        "src": "/audio/o/951c2a56dfa53eb9.mp3"
+       },
+       "مَطْبَخٌ": {
+        "src": "/audio/o/7bfd4b898ef783bb.mp3"
+       },
+       "غُرْفَةٌ": {
+        "src": "/audio/o/19bd10c01bde13a7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d1-susun-hal-ghurfatuka",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Apakah ini kamarmu? (lk)"
+      },
+      "answer": "هَلْ هٰذِهِ غُرْفَتُكَ",
+      "tokens": [
+       "هَلْ",
+       "هٰذِهِ",
+       "غُرْفَتُكَ",
+       "غُرْفَتُكِ"
+      ],
+      "audioMap": {
+       "هَلْ": {
+        "src": "/audio/o/88964434a18c7513.mp3"
+       },
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       },
+       "غُرْفَتُكَ": {
+        "src": "/audio/o/1cf2b902bafc8256.mp3"
+       },
+       "غُرْفَتُكِ": {
+        "src": "/audio/o/5379231e02694226.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d1-susun-maan-fadlika",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya punya air dan teh."
+      },
+      "answer": "عِنْدِي ماءٌ وَشايٌ",
+      "tokens": [
+       "عِنْدِي",
+       "ماءٌ",
+       "وَشايٌ",
+       "تُرِيدُ"
+      ],
+      "audioMap": {
+       "عِنْدِي": {
+        "src": "/audio/o/6c11f3803db2c85a.mp3"
+       },
+       "ماءٌ": {
+        "src": "/audio/o/3c2eab7e6416236e.mp3"
+       },
+       "وَشايٌ": {
+        "src": "/audio/o/410f1bad0b5ca646.mp3"
+       },
+       "تُرِيدُ": {
+        "src": "/audio/o/1419c4d8d1787431.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d1-hunaka-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "هُناكَ",
+       "audio": {
+        "src": "/audio/o/0f28fa0c6530c85b.mp3"
+       }
+      },
+      "answer": "di sana",
+      "options": [
+       "di sana",
+       "di mana",
+       "saya punya"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u3-d1-ucap-tafaddal",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "تَفَضَّلْ!",
+       "id": "Silakan! (lk)",
+       "audio": {
+        "src": "/audio/o/eb0b8ac21a32b44d.mp3"
+       }
+      },
+      "target": "تَفَضَّلْ!"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u3-d1-lat-indi-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "عِنْدِي ماءٌ وَشايٌ.",
+      "audio": {
+       "src": "/audio/o/9cff4b1aa7056766.mp3"
+      }
+     },
+     "answer": "Saya punya air dan teh.",
+     "options": [
+      "Saya punya air dan teh.",
+      "Saya mau air dan teh.",
+      "Kamu punya air dan teh? (lk)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d1-lat-dengar-aina-hammam",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "أَيْنَ الحَمّامُ؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/b4f8e89fc1d936cc.mp3"
+      }
+     },
+     "answer": "أَيْنَ الحَمّامُ؟",
+     "options": [
+      "أَيْنَ الحَمّامُ؟",
+      "أَيْنَ المَطْبَخُ؟",
+      "أَيْنَ الغُرْفَةُ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَيْنَ الحَمّامُ؟": {
+       "src": "/audio/o/b4f8e89fc1d936cc.mp3"
+      },
+      "أَيْنَ المَطْبَخُ؟": {
+       "src": "/audio/o/628e9003e123e1d3.mp3"
+      },
+      "أَيْنَ الغُرْفَةُ؟": {
+       "src": "/audio/o/9f8a0c4801c9bb3a.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u3-d1-lat-susun-indi-maa",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya punya air."
+     },
+     "answer": "عِنْدِي ماءٌ",
+     "tokens": [
+      "عِنْدِي",
+      "ماءٌ",
+      "تُرِيدُ"
+     ],
+     "audioMap": {
+      "عِنْدِي": {
+       "src": "/audio/o/6c11f3803db2c85a.mp3"
+      },
+      "ماءٌ": {
+       "src": "/audio/o/3c2eab7e6416236e.mp3"
+      },
+      "تُرِيدُ": {
+       "src": "/audio/o/1419c4d8d1787431.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d1-lat-matbakh-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مَطْبَخٌ",
+      "audio": {
+       "src": "/audio/o/7bfd4b898ef783bb.mp3"
+      }
+     },
+     "answer": "dapur",
+     "options": [
+      "dapur",
+      "kamar mandi",
+      "kamar"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d1-lat-hunaka-apa",
+     "instruction": "Menurut dialog, apa yang ada \"di sana\" (هُناكَ)?",
+     "prompt": {
+      "ar": "… هُناكَ.",
+      "audio": {
+       "src": "/audio/o/65bbd85354bc384c.mp3"
+      }
+     },
+     "answer": "Kamar mandi dan dapur",
+     "options": [
+      "Kamar mandi dan dapur",
+      "Kamar Budi",
+      "Air dan teh"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u3-d2",
+   "dars": 2,
+   "title_id": "Rumah Siti di Medan",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "ما هٰذا يا سِيتِي؟",
+        "id": "Ini apa, Siti?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/9cb40f734e126aec.mp3"
+        }
+       },
+       {
+        "ar": "هٰذِهِ صُورَةُ بَيْتِي فِي مِيدان.",
+        "id": "Ini foto rumah saya di Medan.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/59701530a286ba13.mp3"
+        }
+       },
+       {
+        "ar": "ما شاءَ اللّٰهُ! بَيْتٌ جَمِيلٌ.",
+        "id": "Masyaallah! Rumahnya bagus.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/bb1ca9b6ca89ba5a.mp3"
+        }
+       },
+       {
+        "ar": "شُكْرًا. هٰذِهِ غُرْفَتِي، وَهُنا المَطْبَخُ.",
+        "id": "Terima kasih. Ini kamar saya, dan di sini dapurnya.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/82c74ba0bfd47cf7.mp3"
+        }
+       },
+       {
+        "ar": "كَمْ حَمّامًا فِي البَيْتِ؟",
+        "id": "Ada berapa kamar mandi di rumah itu?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/1608a6a5249b12f1.mp3"
+        }
+       },
+       {
+        "ar": "واحِدٌ فَقَطْ.",
+        "id": "Satu saja.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/1f20ec88fae905b6.mp3"
+        }
+       },
+       {
+        "ar": "وَمَنْ هٰذِهِ فِي المَطْبَخِ؟",
+        "id": "Lalu siapa ini yang di dapur?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/530aa49a1e4e91a7.mp3"
+        }
+       },
+       {
+        "ar": "هٰذِهِ أُمِّي.",
+        "id": "Ini ibu saya.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/8ad314749a0258fc.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u3-rumah-siti.webp"
+      ],
+      "instruction_id": "Sore hari di kamar asrama putri. Siti menunjukkan foto di ponselnya kepada Aisyah."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "بَيْتِي",
+        "id": "rumah saya",
+        "emoji": "🏠",
+        "audio": {
+         "src": "/audio/o/d9662aa949450b61.mp3"
+        }
+       },
+       {
+        "ar": "غُرْفَتِي",
+        "id": "kamar saya",
+        "emoji": "🛋️",
+        "audio": {
+         "src": "/audio/o/1a914e499e24eea3.mp3"
+        }
+       },
+       {
+        "ar": "هُنا",
+        "id": "di sini",
+        "emoji": "👇",
+        "audio": {
+         "src": "/audio/o/2a72fe0f66da1f07.mp3"
+        }
+       },
+       {
+        "ar": "جَمِيلٌ",
+        "id": "indah, bagus",
+        "emoji": "✨",
+        "audio": {
+         "src": "/audio/o/cb58a4b64b58bbeb.mp3"
+        }
+       },
+       {
+        "ar": "كَمْ …؟",
+        "id": "berapa …?",
+        "emoji": "🔢",
+        "audio": {
+         "src": "/audio/o/29783388ccd4972b.mp3"
+        }
+       },
+       {
+        "ar": "فَقَطْ",
+        "id": "saja, hanya",
+        "emoji": "☝️",
+        "audio": {
+         "src": "/audio/o/829cab9888061f8c.mp3"
+        }
+       },
+       {
+        "ar": "ما شاءَ اللّٰهُ",
+        "id": "masyaallah (ungkapan kagum) · ★ masyaallah",
+        "emoji": "🤩",
+        "audio": {
+         "src": "/audio/o/5ddff8022855a323.mp3"
+        }
+       },
+       {
+        "ar": "شُكْرًا",
+        "id": "terima kasih",
+        "emoji": "🙏",
+        "audio": {
+         "src": "/audio/o/d736dbfcb8845ac7.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d2-surah-baiti-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "هٰذِهِ صُورَةُ بَيْتِي.",
+       "audio": {
+        "src": "/audio/o/a1ace20fed9eaee9.mp3"
+       }
+      },
+      "answer": "Ini foto rumah saya.",
+      "options": [
+       "Ini foto rumah saya.",
+       "Ini kamar saya.",
+       "Ini ibu saya."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d2-siti-bait-kota",
+      "instruction": "Menurut dialog, rumah Siti di kota mana?",
+      "prompt": {
+       "ar": "بَيْتُ سِيتِي فِي …",
+       "audio": {
+        "src": "/audio/o/0dc69d500f302eda.mp3"
+       },
+       "emoji": "🏠"
+      },
+      "answer": "Medan",
+      "options": [
+       "Medan",
+       "Kuala Lumpur",
+       "Yogyakarta"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d2-siti-jumlah-hammam",
+      "instruction": "Menurut dialog, ada berapa kamar mandi di rumah Siti?",
+      "prompt": {
+       "ar": "كَمْ حَمّامًا فِي بَيْتِ سِيتِي؟",
+       "audio": {
+        "src": "/audio/o/acb0711d4a98cb69.mp3"
+       },
+       "emoji": "🚿"
+      },
+      "answer": "Satu",
+      "options": [
+       "Satu",
+       "Dua",
+       "Tiga"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d2-dengar-kam-hammam",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "كَمْ حَمّامًا فِي البَيْتِ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/63963908a5254bda.mp3"
+       }
+      },
+      "answer": "Ada berapa kamar mandi di rumah itu?",
+      "options": [
+       "Ada berapa kamar mandi di rumah itu?",
+       "Di mana kamar mandinya?",
+       "Ini dapur rumah saya."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d2-balas-masyaallah",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "ما شاءَ اللّٰهُ! بَيْتٌ جَمِيلٌ.",
+       "audio": {
+        "src": "/audio/o/b11a4c7cc141492d.mp3"
+       }
+      },
+      "answer": "شُكْرًا.",
+      "options": [
+       "شُكْرًا.",
+       "وَعَلَيْكُمُ السَّلامُ.",
+       "واحِدٌ فَقَطْ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شُكْرًا.": {
+        "src": "/audio/o/93dfac6ab1a4cc4d.mp3"
+       },
+       "وَعَلَيْكُمُ السَّلامُ.": {
+        "src": "/audio/o/f43ab2bfd0d99792.mp3"
+       },
+       "واحِدٌ فَقَطْ.": {
+        "src": "/audio/o/e2aa63fab230b903.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d2-huna-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "هُنا",
+       "audio": {
+        "src": "/audio/o/2a72fe0f66da1f07.mp3"
+       }
+      },
+      "answer": "di sini",
+      "options": [
+       "di sini",
+       "di sana",
+       "di mana"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d2-susun-hadzihi-ghurfati",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ini kamar saya."
+      },
+      "answer": "هٰذِهِ غُرْفَتِي",
+      "tokens": [
+       "هٰذِهِ",
+       "غُرْفَتِي",
+       "هُناكَ"
+      ],
+      "audioMap": {
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       },
+       "غُرْفَتِي": {
+        "src": "/audio/o/1a914e499e24eea3.mp3"
+       },
+       "هُناكَ": {
+        "src": "/audio/o/0f28fa0c6530c85b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d2-susun-wahid-faqat",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Satu saja."
+      },
+      "answer": "واحِدٌ فَقَطْ",
+      "tokens": [
+       "واحِدٌ",
+       "فَقَطْ",
+       "اِثْنانِ"
+      ],
+      "audioMap": {
+       "واحِدٌ": {
+        "src": "/audio/o/fa47e478299fa1a1.mp3"
+       },
+       "فَقَطْ": {
+        "src": "/audio/o/829cab9888061f8c.mp3"
+       },
+       "اِثْنانِ": {
+        "src": "/audio/o/97e63a7fbd1c3916.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u3-d2-ucap-masyaallah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "ما شاءَ اللّٰهُ!",
+       "id": "Masyaallah!",
+       "audio": {
+        "src": "/audio/o/21b76b88bb1e63c0.mp3"
+       }
+      },
+      "target": "ما شاءَ اللّٰهُ!"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u3-d2-lat-ghurfati-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "غُرْفَتِي",
+      "audio": {
+       "src": "/audio/o/1a914e499e24eea3.mp3"
+      }
+     },
+     "answer": "kamar saya",
+     "options": [
+      "kamar saya",
+      "rumah saya",
+      "kamarmu"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d2-lat-siapa-di-dapur",
+     "instruction": "Menurut dialog, siapa yang ada di dapur?",
+     "prompt": {
+      "ar": "مَنْ هٰذِهِ فِي المَطْبَخِ؟",
+      "audio": {
+       "src": "/audio/o/fc2bde43d51775e9.mp3"
+      },
+      "emoji": "🍳"
+     },
+     "answer": "Ibu Siti",
+     "options": [
+      "Ibu Siti",
+      "Aisyah",
+      "Nenek Siti"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d2-lat-dengar-huna-matbakh",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "وَهُنا المَطْبَخُ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/94848265728e7d6c.mp3"
+      }
+     },
+     "answer": "وَهُنا المَطْبَخُ.",
+     "options": [
+      "وَهُنا المَطْبَخُ.",
+      "وَهُناكَ المَطْبَخُ.",
+      "وَهُنا الحَمّامُ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "وَهُنا المَطْبَخُ.": {
+       "src": "/audio/o/94848265728e7d6c.mp3"
+      },
+      "وَهُناكَ المَطْبَخُ.": {
+       "src": "/audio/o/27f1b526a6b97f60.mp3"
+      },
+      "وَهُنا الحَمّامُ.": {
+       "src": "/audio/o/13327630f82f1cda.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u3-d2-lat-susun-bait-jamil",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Rumah yang indah."
+     },
+     "answer": "بَيْتٌ جَمِيلٌ",
+     "tokens": [
+      "بَيْتٌ",
+      "جَمِيلٌ",
+      "فَقَطْ"
+     ],
+     "audioMap": {
+      "بَيْتٌ": {
+       "src": "/audio/o/5dacfcf2f030a26c.mp3"
+      },
+      "جَمِيلٌ": {
+       "src": "/audio/o/cb58a4b64b58bbeb.mp3"
+      },
+      "فَقَطْ": {
+       "src": "/audio/o/829cab9888061f8c.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d2-lat-syukran-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "شُكْرًا",
+      "audio": {
+       "src": "/audio/o/d736dbfcb8845ac7.mp3"
+      }
+     },
+     "answer": "terima kasih",
+     "options": [
+      "terima kasih",
+      "silakan",
+      "tolong"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u3-d3",
+   "dars": 3,
+   "title_id": "Jadwal piket asrama",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ يا أُسْتاذَةُ.",
+        "id": "Assalamualaikum, Ustazah.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/7eea5566ad679eaa.mp3"
+        }
+       },
+       {
+        "ar": "وَعَلَيْكُمُ السَّلامُ. ماذا تُرِيدُ يا رِزْقِي؟",
+        "id": "Waalaikumussalam. Ada perlu apa, Rizki?",
+        "speaker_ar": "الأُسْتاذَةُ زَيْنَب",
+        "audio": {
+         "src": "/audio/o/7047922329f437c3.mp3"
+        }
+       },
+       {
+        "ar": "أُرِيدُ جَدْوَلَ التَّنْظِيفِ، مِنْ فَضْلِكِ.",
+        "id": "Saya mau jadwal piket, tolong. (kepada pr)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/95b0b3e619c1372f.mp3"
+        }
+       },
+       {
+        "ar": "تَفَضَّلْ. فِي أَيِّ غُرْفَةٍ أَنْتَ؟",
+        "id": "Silakan. Kamu di kamar yang mana? (lk)",
+        "speaker_ar": "الأُسْتاذَةُ زَيْنَب",
+        "audio": {
+         "src": "/audio/o/3b7c31e1b8b1c44b.mp3"
+        }
+       },
+       {
+        "ar": "رَقْمُ غُرْفَتِي ثَمانِيَةٌ.",
+        "id": "Nomor kamar saya delapan.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/22566106b5cdc7e5.mp3"
+        }
+       },
+       {
+        "ar": "نَوْبَتُكَ يَوْمَ الأَحَدِ وَيَوْمَ الخَمِيسِ.",
+        "id": "Giliranmu hari Ahad dan hari Kamis. (lk)",
+        "speaker_ar": "الأُسْتاذَةُ زَيْنَب",
+        "audio": {
+         "src": "/audio/o/c7f243339c0cbb78.mp3"
+        }
+       },
+       {
+        "ar": "الأَحَدُ وَالخَمِيسُ. شُكْرًا يا أُسْتاذَةُ.",
+        "id": "Ahad dan Kamis. Terima kasih, Ustazah.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/abbd54a26c23b183.mp3"
+        }
+       },
+       {
+        "ar": "عَفْوًا.",
+        "id": "Sama-sama.",
+        "speaker_ar": "الأُسْتاذَةُ زَيْنَب",
+        "audio": {
+         "src": "/audio/o/f169e456f73d3cc4.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u3-jadwal-piket.webp"
+      ],
+      "instruction_id": "Setiap kamar asrama punya giliran piket bersih-bersih. Rizki menemui Ustazah Zainab, wali kelas yang mengurus jadwal."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "جَدْوَلٌ",
+        "id": "jadwal · ★ jadwal",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/958787b2ed5625c3.mp3"
+        }
+       },
+       {
+        "ar": "تَنْظِيفٌ",
+        "id": "bersih-bersih",
+        "emoji": "🧹",
+        "audio": {
+         "src": "/audio/o/7d578f8462fec64b.mp3"
+        }
+       },
+       {
+        "ar": "نَوْبَةٌ",
+        "id": "giliran (piket)",
+        "emoji": "🔁",
+        "audio": {
+         "src": "/audio/o/bedd7bdd92a44c44.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمٌ",
+        "id": "hari",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/7e60ee8960e0d082.mp3"
+        }
+       },
+       {
+        "ar": "فِي أَيِّ …؟",
+        "id": "di … yang mana? / pada … apa?",
+        "emoji": "❓",
+        "audio": {
+         "src": "/audio/o/b83872ebdd724fe1.mp3"
+        }
+       },
+       {
+        "ar": "مِنْ فَضْلِكِ",
+        "id": "tolong (kepada pr)",
+        "emoji": "🙏",
+        "audio": {
+         "src": "/audio/o/b1c53f2c6dc48475.mp3"
+        }
+       },
+       {
+        "ar": "عَفْوًا",
+        "id": "sama-sama",
+        "emoji": "😊",
+        "audio": {
+         "src": "/audio/o/274919fce1586e62.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمُ الأَحَدِ",
+        "id": "hari Ahad (Minggu) · ★ Ahad",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/8089d86b1942b709.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمُ الخَمِيسِ",
+        "id": "hari Kamis · ★ Kamis",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/b913c6afc1e2c8c1.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d3-jadwal-tanzif-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "جَدْوَلُ التَّنْظِيفِ",
+       "audio": {
+        "src": "/audio/o/819b892bbe005490.mp3"
+       }
+      },
+      "answer": "jadwal piket (bersih-bersih)",
+      "options": [
+       "jadwal piket (bersih-bersih)",
+       "nomor kamar",
+       "kamar mandi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d3-nomor-kamar-rizki",
+      "instruction": "Menurut dialog, nomor kamar Rizki berapa?",
+      "prompt": {
+       "ar": "رَقْمُ غُرْفَةِ رِزْقِي …",
+       "audio": {
+        "src": "/audio/o/b70ac777407e12cf.mp3"
+       },
+       "emoji": "🚪"
+      },
+      "answer": "8",
+      "options": [
+       "8",
+       "7",
+       "10"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d3-hari-piket-rizki",
+      "instruction": "Menurut dialog, Rizki piket hari apa?",
+      "prompt": {
+       "ar": "نَوْبَةُ رِزْقِي …",
+       "audio": {
+        "src": "/audio/o/f001d24f8b95c6bf.mp3"
+       },
+       "emoji": "🧹"
+      },
+      "answer": "Ahad dan Kamis",
+      "options": [
+       "Ahad dan Kamis",
+       "Senin dan Kamis",
+       "Ahad dan Jumat"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d3-fadliki-pr",
+      "instruction": "Rizki meminta dengan sopan kepada Ustazah Zainab. Kata yang tepat …",
+      "prompt": {
+       "id": "tolong (kepada perempuan)",
+       "emoji": "🙏"
+      },
+      "answer": "مِنْ فَضْلِكِ",
+      "options": [
+       "مِنْ فَضْلِكِ",
+       "مِنْ فَضْلِكَ",
+       "تَفَضَّلْ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مِنْ فَضْلِكِ": {
+        "src": "/audio/o/b1c53f2c6dc48475.mp3"
+       },
+       "مِنْ فَضْلِكَ": {
+        "src": "/audio/o/931ffea1224320a6.mp3"
+       },
+       "تَفَضَّلْ": {
+        "src": "/audio/o/f28f31ae53309b58.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d3-balas-syukran",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "شُكْرًا يا أُسْتاذَةُ.",
+       "audio": {
+        "src": "/audio/o/0df027a66776c3e1.mp3"
+       }
+      },
+      "answer": "عَفْوًا.",
+      "options": [
+       "عَفْوًا.",
+       "مِنْ فَضْلِكَ.",
+       "ماذا تُرِيدُ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَفْوًا.": {
+        "src": "/audio/o/c81ecbdc0111136d.mp3"
+       },
+       "مِنْ فَضْلِكَ.": {
+        "src": "/audio/o/22c96e1f002c26ec.mp3"
+       },
+       "ماذا تُرِيدُ؟": {
+        "src": "/audio/o/3c024e31be060129.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d3-dengar-fi-ayyi-ghurfah",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "فِي أَيِّ غُرْفَةٍ أَنْتَ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/6cb07f5528705172.mp3"
+       }
+      },
+      "answer": "Kamu di kamar yang mana? (lk)",
+      "options": [
+       "Kamu di kamar yang mana? (lk)",
+       "Nomor kamar saya delapan.",
+       "Kamu mau apa? (lk)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d3-susun-raqmu-ghurfati",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Nomor kamar saya delapan."
+      },
+      "answer": "رَقْمُ غُرْفَتِي ثَمانِيَةٌ",
+      "tokens": [
+       "رَقْمُ",
+       "غُرْفَتِي",
+       "ثَمانِيَةٌ",
+       "غُرْفَتُكَ"
+      ],
+      "audioMap": {
+       "رَقْمُ": {
+        "src": "/audio/o/bcae475011d9d63f.mp3"
+       },
+       "غُرْفَتِي": {
+        "src": "/audio/o/1a914e499e24eea3.mp3"
+       },
+       "ثَمانِيَةٌ": {
+        "src": "/audio/o/41a5bc7544d309a8.mp3"
+       },
+       "غُرْفَتُكَ": {
+        "src": "/audio/o/1cf2b902bafc8256.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d3-susun-naubatuka",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ini giliranmu. (lk)"
+      },
+      "answer": "هٰذِهِ نَوْبَتُكَ",
+      "tokens": [
+       "هٰذِهِ",
+       "نَوْبَتُكَ",
+       "نَوْبَتُكِ"
+      ],
+      "audioMap": {
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       },
+       "نَوْبَتُكَ": {
+        "src": "/audio/o/1ea00ac4ffb72ccd.mp3"
+       },
+       "نَوْبَتُكِ": {
+        "src": "/audio/o/59452290ce3774a6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u3-d3-ucap-afwan",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "عَفْوًا.",
+       "id": "Sama-sama.",
+       "audio": {
+        "src": "/audio/o/f169e456f73d3cc4.mp3"
+       }
+      },
+      "target": "عَفْوًا."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u3-d3-lat-yaum-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "يَوْمٌ",
+      "audio": {
+       "src": "/audio/o/7e60ee8960e0d082.mp3"
+      }
+     },
+     "answer": "hari",
+     "options": [
+      "hari",
+      "giliran",
+      "jadwal"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d3-lat-dengar-naubah-ahad",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "نَوْبَتُكَ يَوْمَ الأَحَدِ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/33df71a4ea3e11d9.mp3"
+      }
+     },
+     "answer": "Giliranmu hari Ahad. (lk)",
+     "options": [
+      "Giliranmu hari Ahad. (lk)",
+      "Giliranmu hari Kamis. (lk)",
+      "Giliranmu hari Sabtu. (lk)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d3-lat-zainab-beri-jadwal",
+     "instruction": "Ustazah Zainab memberikan jadwal kepada Rizki. Dia berkata …",
+     "prompt": {
+      "id": "Memberikan sesuatu kepada laki-laki",
+      "emoji": "🗓️"
+     },
+     "answer": "تَفَضَّلْ.",
+     "options": [
+      "تَفَضَّلْ.",
+      "شُكْرًا.",
+      "عَفْوًا."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "تَفَضَّلْ.": {
+       "src": "/audio/o/6a747f60a749e5d2.mp3"
+      },
+      "شُكْرًا.": {
+       "src": "/audio/o/93dfac6ab1a4cc4d.mp3"
+      },
+      "عَفْوًا.": {
+       "src": "/audio/o/c81ecbdc0111136d.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u3-d3-lat-susun-urid-jadwal",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya mau jadwal piket."
+     },
+     "answer": "أُرِيدُ جَدْوَلَ التَّنْظِيفِ",
+     "tokens": [
+      "أُرِيدُ",
+      "جَدْوَلَ",
+      "التَّنْظِيفِ",
+      "تُرِيدُ"
+     ],
+     "audioMap": {
+      "أُرِيدُ": {
+       "src": "/audio/o/16c05b31f9c09253.mp3"
+      },
+      "جَدْوَلَ": {
+       "src": "/audio/o/bc4f2d03c278e537.mp3"
+      },
+      "التَّنْظِيفِ": {
+       "src": "/audio/o/5f0dd77ba2c1c0bc.mp3"
+      },
+      "تُرِيدُ": {
+       "src": "/audio/o/1419c4d8d1787431.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d3-lat-fi-ayyi-yaum-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "فِي أَيِّ يَوْمٍ؟",
+      "audio": {
+       "src": "/audio/o/10d2a6c00105833e.mp3"
+      }
+     },
+     "answer": "Pada hari apa?",
+     "options": [
+      "Pada hari apa?",
+      "Di kamar yang mana?",
+      "Ada berapa hari?"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u3-d4",
+   "dars": 4,
+   "title_id": "Kosakata & nama hari",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "بَيْتٌ",
+        "id": "rumah · ★ bait",
+        "emoji": "🏠",
+        "audio": {
+         "src": "/audio/o/5dacfcf2f030a26c.mp3"
+        }
+       },
+       {
+        "ar": "غُرْفَةٌ",
+        "id": "kamar",
+        "emoji": "🛋️",
+        "audio": {
+         "src": "/audio/o/19bd10c01bde13a7.mp3"
+        }
+       },
+       {
+        "ar": "مَطْبَخٌ",
+        "id": "dapur",
+        "emoji": "🍳",
+        "audio": {
+         "src": "/audio/o/7bfd4b898ef783bb.mp3"
+        }
+       },
+       {
+        "ar": "حَمّامٌ",
+        "id": "kamar mandi",
+        "emoji": "🚿",
+        "audio": {
+         "src": "/audio/o/951c2a56dfa53eb9.mp3"
+        }
+       },
+       {
+        "ar": "بابٌ",
+        "id": "pintu",
+        "emoji": "🚪",
+        "audio": {
+         "src": "/audio/o/d00fd54d114483df.mp3"
+        }
+       },
+       {
+        "ar": "نافِذَةٌ",
+        "id": "jendela",
+        "emoji": "🪟",
+        "audio": {
+         "src": "/audio/o/a95bb57bee6f8a69.mp3"
+        }
+       },
+       {
+        "ar": "رَقْمٌ",
+        "id": "nomor",
+        "emoji": "🔢",
+        "audio": {
+         "src": "/audio/o/9af6140bbf7fc152.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Rumah dan ruangan"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "سَرِيرٌ",
+        "id": "tempat tidur",
+        "emoji": "🛏️",
+        "audio": {
+         "src": "/audio/o/e48eb382ccb7c17b.mp3"
+        }
+       },
+       {
+        "ar": "كُرْسِيٌّ",
+        "id": "kursi · ★ kursi",
+        "emoji": "🪑",
+        "audio": {
+         "src": "/audio/o/8bc02c39d0a0075a.mp3"
+        }
+       },
+       {
+        "ar": "مَكْتَبٌ",
+        "id": "meja belajar",
+        "emoji": "📝",
+        "audio": {
+         "src": "/audio/o/95e96058341d07b7.mp3"
+        }
+       },
+       {
+        "ar": "سَجّادَةٌ",
+        "id": "sajadah, karpet · ★ sajadah",
+        "emoji": "🧎",
+        "audio": {
+         "src": "/audio/o/ea7d2688e86d4069.mp3"
+        }
+       },
+       {
+        "ar": "ثَلّاجَةٌ",
+        "id": "kulkas",
+        "emoji": "🧊",
+        "audio": {
+         "src": "/audio/o/3bf098ecb9c77b07.mp3"
+        }
+       },
+       {
+        "ar": "إِيجارٌ",
+        "id": "sewa",
+        "emoji": "💵",
+        "audio": {
+         "src": "/audio/o/64b5070935cf5b15.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Perabot dan sewa"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "يَوْمُ الأَحَدِ",
+        "id": "Ahad (Minggu) · ★ Ahad",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/8089d86b1942b709.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمُ الِاثْنَيْنِ",
+        "id": "Senin · ★ Senin",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/6b5ae525723e41fe.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمُ الثُّلاثاءِ",
+        "id": "Selasa · ★ Selasa",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/4762b10836530400.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمُ الأَرْبِعاءِ",
+        "id": "Rabu · ★ Rabu",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/d27ffb0c37e0180d.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمُ الخَمِيسِ",
+        "id": "Kamis · ★ Kamis",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/b913c6afc1e2c8c1.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمُ الجُمُعَةِ",
+        "id": "Jumat · ★ Jumat",
+        "emoji": "🕌",
+        "audio": {
+         "src": "/audio/o/1032e2b446d3dd41.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمُ السَّبْتِ",
+        "id": "Sabtu · ★ Sabtu",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/47769761fe4e6f24.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Nama hari: semuanya sudah kamu kenal!"
+      },
+      "note_id": "Nama hari dalam bahasa Indonesia berasal dari bahasa Arab. Senin dari الِاثْنَيْنِ (hari kedua), Selasa dari الثُّلاثاءِ (hari ketiga), Rabu dari الأَرْبِعاءِ (hari keempat)."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d4-gambar-kursi",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🪑"
+      },
+      "answer": "كُرْسِيٌّ",
+      "options": [
+       "كُرْسِيٌّ",
+       "سَرِيرٌ",
+       "مَكْتَبٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كُرْسِيٌّ": {
+        "src": "/audio/o/8bc02c39d0a0075a.mp3"
+       },
+       "سَرِيرٌ": {
+        "src": "/audio/o/e48eb382ccb7c17b.mp3"
+       },
+       "مَكْتَبٌ": {
+        "src": "/audio/o/95e96058341d07b7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d4-thallajah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "ثَلّاجَةٌ",
+       "audio": {
+        "src": "/audio/o/3bf098ecb9c77b07.mp3"
+       }
+      },
+      "answer": "kulkas",
+      "options": [
+       "kulkas",
+       "sajadah",
+       "jendela"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d4-dengar-nafidzah",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "نافِذَةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a95bb57bee6f8a69.mp3"
+       }
+      },
+      "answer": "jendela",
+      "options": [
+       "jendela",
+       "pintu",
+       "kamar"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d4-hari-jumat-ar",
+      "instruction": "Bahasa Arabnya \"hari Jumat\" adalah …",
+      "prompt": {
+       "id": "hari Jumat",
+       "emoji": "🕌"
+      },
+      "answer": "يَوْمُ الجُمُعَةِ",
+      "options": [
+       "يَوْمُ الجُمُعَةِ",
+       "يَوْمُ الخَمِيسِ",
+       "يَوْمُ السَّبْتِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "يَوْمُ الجُمُعَةِ": {
+        "src": "/audio/o/1032e2b446d3dd41.mp3"
+       },
+       "يَوْمُ الخَمِيسِ": {
+        "src": "/audio/o/b913c6afc1e2c8c1.mp3"
+       },
+       "يَوْمُ السَّبْتِ": {
+        "src": "/audio/o/47769761fe4e6f24.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d4-dengar-tsulatsa",
+      "instruction": "Dengarkan. Hari apa?",
+      "prompt": {
+       "tts": "يَوْمُ الثُّلاثاءِ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/4762b10836530400.mp3"
+       }
+      },
+      "answer": "Selasa",
+      "options": [
+       "Selasa",
+       "Sabtu",
+       "Senin"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d4-hari-sesudah-senin",
+      "instruction": "Hari sesudah Senin adalah …",
+      "prompt": {
+       "ar": "يَوْمُ الِاثْنَيْنِ ← ؟",
+       "audio": {
+        "src": "/audio/o/3a6e69c43f926c98.mp3"
+       }
+      },
+      "answer": "يَوْمُ الثُّلاثاءِ",
+      "options": [
+       "يَوْمُ الثُّلاثاءِ",
+       "يَوْمُ الأَرْبِعاءِ",
+       "يَوْمُ الأَحَدِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "يَوْمُ الثُّلاثاءِ": {
+        "src": "/audio/o/4762b10836530400.mp3"
+       },
+       "يَوْمُ الأَرْبِعاءِ": {
+        "src": "/audio/o/d27ffb0c37e0180d.mp3"
+       },
+       "يَوْمُ الأَحَدِ": {
+        "src": "/audio/o/8089d86b1942b709.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d4-gambar-sajadah",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🧎"
+      },
+      "answer": "سَجّادَةٌ",
+      "options": [
+       "سَجّادَةٌ",
+       "ثَلّاجَةٌ",
+       "نافِذَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سَجّادَةٌ": {
+        "src": "/audio/o/ea7d2688e86d4069.mp3"
+       },
+       "ثَلّاجَةٌ": {
+        "src": "/audio/o/3bf098ecb9c77b07.mp3"
+       },
+       "نافِذَةٌ": {
+        "src": "/audio/o/a95bb57bee6f8a69.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d4-ijar-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "غُرْفَةٌ لِلْإِيجارِ",
+       "audio": {
+        "src": "/audio/o/b65061ffbce804e5.mp3"
+       }
+      },
+      "answer": "kamar disewakan",
+      "options": [
+       "kamar disewakan",
+       "nomor kamar",
+       "kamar mandi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d4-dengar-arbia",
+      "instruction": "Dengarkan. Hari apa?",
+      "prompt": {
+       "tts": "يَوْمُ الأَرْبِعاءِ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/d27ffb0c37e0180d.mp3"
+       }
+      },
+      "answer": "Rabu",
+      "options": [
+       "Rabu",
+       "Kamis",
+       "Ahad"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u3-d4-lat-gambar-bab",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "🚪"
+     },
+     "answer": "بابٌ",
+     "options": [
+      "بابٌ",
+      "نافِذَةٌ",
+      "بَيْتٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "بابٌ": {
+       "src": "/audio/o/d00fd54d114483df.mp3"
+      },
+      "نافِذَةٌ": {
+       "src": "/audio/o/a95bb57bee6f8a69.mp3"
+      },
+      "بَيْتٌ": {
+       "src": "/audio/o/5dacfcf2f030a26c.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d4-lat-dengar-sabt",
+     "instruction": "Dengarkan. Hari apa?",
+     "prompt": {
+      "tts": "يَوْمُ السَّبْتِ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/47769761fe4e6f24.mp3"
+      }
+     },
+     "answer": "Sabtu",
+     "options": [
+      "Sabtu",
+      "Senin",
+      "Jumat"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d4-lat-hari-ahad-ar",
+     "instruction": "Bahasa Arabnya \"hari Ahad\" adalah …",
+     "prompt": {
+      "id": "hari Ahad (Minggu)"
+     },
+     "answer": "يَوْمُ الأَحَدِ",
+     "options": [
+      "يَوْمُ الأَحَدِ",
+      "يَوْمُ الِاثْنَيْنِ",
+      "يَوْمُ السَّبْتِ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "يَوْمُ الأَحَدِ": {
+       "src": "/audio/o/8089d86b1942b709.mp3"
+      },
+      "يَوْمُ الِاثْنَيْنِ": {
+       "src": "/audio/o/6b5ae525723e41fe.mp3"
+      },
+      "يَوْمُ السَّبْتِ": {
+       "src": "/audio/o/47769761fe4e6f24.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d4-lat-sarir-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "سَرِيرٌ",
+      "audio": {
+       "src": "/audio/o/e48eb382ccb7c17b.mp3"
+      }
+     },
+     "answer": "tempat tidur",
+     "options": [
+      "tempat tidur",
+      "kursi",
+      "meja belajar"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d4-lat-hari-sebelum-jumat",
+     "instruction": "Hari sebelum Jumat adalah …",
+     "prompt": {
+      "ar": "؟ ← يَوْمُ الجُمُعَةِ",
+      "audio": {
+       "src": "/audio/o/364a2079fac89e28.mp3"
+      }
+     },
+     "answer": "يَوْمُ الخَمِيسِ",
+     "options": [
+      "يَوْمُ الخَمِيسِ",
+      "يَوْمُ السَّبْتِ",
+      "يَوْمُ الأَرْبِعاءِ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "يَوْمُ الخَمِيسِ": {
+       "src": "/audio/o/b913c6afc1e2c8c1.mp3"
+      },
+      "يَوْمُ السَّبْتِ": {
+       "src": "/audio/o/47769761fe4e6f24.mp3"
+      },
+      "يَوْمُ الأَرْبِعاءِ": {
+       "src": "/audio/o/d27ffb0c37e0180d.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u3-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Meminta dan menawarkan"
+      },
+      "groups": [
+       {
+        "title_ar": "ماذا تُرِيدُ؟ · ماذا تُرِيدِينَ؟ ← أُرِيدُ …",
+        "note_id": "تُرِيدُ untuk lawan bicara laki-laki, تُرِيدِينَ untuk perempuan. Benda sesudah أُرِيدُ berakhiran -an/-a (fathah): غُرْفَةً، ماءً.",
+        "rows": [
+         {
+          "ar": "ماذا تُرِيدُ؟",
+          "id": "Kamu mau apa? (lk)",
+          "audio": {
+           "src": "/audio/o/3c024e31be060129.mp3"
+          }
+         },
+         {
+          "ar": "ماذا تُرِيدِينَ؟",
+          "id": "Kamu mau apa? (pr)",
+          "audio": {
+           "src": "/audio/o/bc60d69b97742350.mp3"
+          }
+         },
+         {
+          "ar": "أُرِيدُ غُرْفَةً.",
+          "id": "Saya mau kamar.",
+          "audio": {
+           "src": "/audio/o/1031f14a03dcd7fa.mp3"
+          }
+         },
+         {
+          "ar": "أُرِيدُ ماءً.",
+          "id": "Saya mau air.",
+          "audio": {
+           "src": "/audio/o/4f7c17d54a9ee453.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "مِنْ فَضْلِكَ · تَفَضَّلْ · شُكْرًا ← عَفْوًا",
+        "note_id": "Akhiran ـكَ / ـكِ dan bentuk تَفَضَّلْ / تَفَضَّلِي mengikuti lawan bicara (lk/pr).",
+        "rows": [
+         {
+          "ar": "مِنْ فَضْلِكَ · مِنْ فَضْلِكِ",
+          "id": "tolong (kepada lk · pr)",
+          "audio": {
+           "src": "/audio/o/c3a982f95a4c47fe.mp3"
+          }
+         },
+         {
+          "ar": "تَفَضَّلْ · تَفَضَّلِي",
+          "id": "silakan (kepada lk · pr)",
+          "audio": {
+           "src": "/audio/o/61ae46cf2586c7c3.mp3"
+          }
+         },
+         {
+          "ar": "شُكْرًا. ← عَفْوًا.",
+          "id": "Terima kasih. → Sama-sama.",
+          "audio": {
+           "src": "/audio/o/ceeb868967103cdd.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Berapa, yang mana, dan punya"
+      },
+      "groups": [
+       {
+        "title_ar": "كَمْ + ـًا",
+        "note_id": "Sesudah كَمْ, kata benda tunggal berakhiran -an (fathatain).",
+        "rows": [
+         {
+          "ar": "كَمْ سَرِيرًا فِي الغُرْفَةِ؟ ← واحِدٌ.",
+          "id": "Ada berapa tempat tidur di kamar? → Satu.",
+          "audio": {
+           "src": "/audio/o/05a69329ee3aaa0b.mp3"
+          }
+         },
+         {
+          "ar": "كَمْ كُرْسِيًّا فِي البَيْتِ؟ ← ثَلاثَةٌ.",
+          "id": "Ada berapa kursi di rumah? → Tiga.",
+          "audio": {
+           "src": "/audio/o/9d4f7c5ccfb2c374.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "فِي أَيِّ + ـٍ",
+        "note_id": "Sesudah فِي أَيِّ, kata benda berakhiran -in (kasratain).",
+        "rows": [
+         {
+          "ar": "فِي أَيِّ غُرْفَةٍ أَنْتَ؟",
+          "id": "Kamu di kamar yang mana? (lk)",
+          "audio": {
+           "src": "/audio/o/6cb07f5528705172.mp3"
+          }
+         },
+         {
+          "ar": "فِي أَيِّ يَوْمٍ نَوْبَتُكِ؟",
+          "id": "Giliranmu hari apa? (pr)",
+          "audio": {
+           "src": "/audio/o/2632b5e982c6f280.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "عِنْدِي · عِنْدَكَ · عِنْدَكِ",
+        "note_id": "عِنْدَ + akhiran = punya. عِنْدِي saya punya, عِنْدَكَ kamu (lk) punya, عِنْدَكِ kamu (pr) punya.",
+        "rows": [
+         {
+          "ar": "عِنْدِي سَجّادَةٌ.",
+          "id": "Saya punya sajadah.",
+          "audio": {
+           "src": "/audio/o/6384f7e6656e4523.mp3"
+          }
+         },
+         {
+          "ar": "هَلْ عِنْدَكَ ثَلّاجَةٌ؟",
+          "id": "Apakah kamu punya kulkas? (lk)",
+          "audio": {
+           "src": "/audio/o/78faf65a54b4e053.mp3"
+          }
+         },
+         {
+          "ar": "لا، الثَّلّاجَةُ فِي المَطْبَخِ.",
+          "id": "Tidak, kulkasnya di dapur.",
+          "audio": {
+           "src": "/audio/o/5cb7d32b93792da7.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d5-madza-turidin-aisyah",
+      "instruction": "Kamu bertanya kepada Aisyah: \"Kamu mau apa?\" Pilih kalimatnya",
+      "prompt": {
+       "id": "Kamu mau apa? (pr)",
+       "emoji": "👩"
+      },
+      "answer": "ماذا تُرِيدِينَ؟",
+      "options": [
+       "ماذا تُرِيدِينَ؟",
+       "ماذا تُرِيدُ؟",
+       "أُرِيدُ ماءً."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ماذا تُرِيدِينَ؟": {
+        "src": "/audio/o/bc60d69b97742350.mp3"
+       },
+       "ماذا تُرِيدُ؟": {
+        "src": "/audio/o/3c024e31be060129.mp3"
+       },
+       "أُرِيدُ ماءً.": {
+        "src": "/audio/o/4f7c17d54a9ee453.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d5-urid-ghurfatan",
+      "instruction": "Lengkapi: \"Saya mau kamar.\"",
+      "prompt": {
+       "ar": "أُرِيدُ …",
+       "audio": {
+        "src": "/audio/o/2dfc376a9f623477.mp3"
+       }
+      },
+      "answer": "غُرْفَةً",
+      "options": [
+       "غُرْفَةً",
+       "غُرْفَةٌ",
+       "غُرْفَةٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غُرْفَةً": {
+        "src": "/audio/o/0b7cc5d5d80aef06.mp3"
+       },
+       "غُرْفَةٌ": {
+        "src": "/audio/o/19bd10c01bde13a7.mp3"
+       },
+       "غُرْفَةٍ": {
+        "src": "/audio/o/be7f852a02af8b46.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d5-kam-kursiyyan",
+      "instruction": "Lengkapi: \"Ada berapa kursi di kamar?\"",
+      "prompt": {
+       "ar": "كَمْ … فِي الغُرْفَةِ؟",
+       "audio": {
+        "src": "/audio/o/af44cc76ca65d25a.mp3"
+       }
+      },
+      "answer": "كُرْسِيًّا",
+      "options": [
+       "كُرْسِيًّا",
+       "كُرْسِيٌّ",
+       "كُرْسِيٍّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كُرْسِيًّا": {
+        "src": "/audio/o/e27219a8add4edd5.mp3"
+       },
+       "كُرْسِيٌّ": {
+        "src": "/audio/o/8bc02c39d0a0075a.mp3"
+       },
+       "كُرْسِيٍّ": {
+        "src": "/audio/o/165794400ebe931b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d5-fi-ayyi-ghurfatin",
+      "instruction": "Lengkapi: \"Kamu di kamar yang mana? (pr)\"",
+      "prompt": {
+       "ar": "فِي أَيِّ … أَنْتِ؟",
+       "audio": {
+        "src": "/audio/o/ab127b2a39d0a266.mp3"
+       }
+      },
+      "answer": "غُرْفَةٍ",
+      "options": [
+       "غُرْفَةٍ",
+       "غُرْفَةً",
+       "غُرْفَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غُرْفَةٍ": {
+        "src": "/audio/o/be7f852a02af8b46.mp3"
+       },
+       "غُرْفَةً": {
+        "src": "/audio/o/0b7cc5d5d80aef06.mp3"
+       },
+       "غُرْفَةٌ": {
+        "src": "/audio/o/19bd10c01bde13a7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d5-tafaddali-siti",
+      "instruction": "Siti datang ke kamarmu. Kamu mempersilakan dia masuk …",
+      "prompt": {
+       "id": "Silakan masuk! (kepada pr)",
+       "emoji": "🚪"
+      },
+      "answer": "تَفَضَّلِي!",
+      "options": [
+       "تَفَضَّلِي!",
+       "تَفَضَّلْ!",
+       "مِنْ فَضْلِكِ!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تَفَضَّلِي!": {
+        "src": "/audio/o/0310d4d8bd3868a9.mp3"
+       },
+       "تَفَضَّلْ!": {
+        "src": "/audio/o/23299c3f80eeca69.mp3"
+       },
+       "مِنْ فَضْلِكِ!": {
+        "src": "/audio/o/f4a41bb742d27168.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d5-indaki-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "هَلْ عِنْدَكِ سَجّادَةٌ؟",
+       "audio": {
+        "src": "/audio/o/89af0eeeafe64b9b.mp3"
+       }
+      },
+      "answer": "Apakah kamu punya sajadah? (pr)",
+      "options": [
+       "Apakah kamu punya sajadah? (pr)",
+       "Apakah kamu punya sajadah? (lk)",
+       "Saya punya sajadah."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d5-jawab-kam-sarir",
+      "instruction": "Pilih jawaban yang tepat",
+      "prompt": {
+       "ar": "كَمْ سَرِيرًا فِي غُرْفَتِكَ؟",
+       "audio": {
+        "src": "/audio/o/8f05637b60e3dc1b.mp3"
+       }
+      },
+      "answer": "اِثْنانِ.",
+      "options": [
+       "اِثْنانِ.",
+       "فِي المَطْبَخِ.",
+       "يَوْمَ الأَحَدِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "اِثْنانِ.": {
+        "src": "/audio/o/3128ca892c5bcb88.mp3"
+       },
+       "فِي المَطْبَخِ.": {
+        "src": "/audio/o/d3ebfd241d82aafd.mp3"
+       },
+       "يَوْمَ الأَحَدِ.": {
+        "src": "/audio/o/fd328350988e8576.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d5-susun-madza-turidin",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kamu mau apa? (pr)"
+      },
+      "answer": "ماذا تُرِيدِينَ",
+      "tokens": [
+       "ماذا",
+       "تُرِيدِينَ",
+       "تُرِيدُ"
+      ],
+      "audioMap": {
+       "ماذا": {
+        "src": "/audio/o/44ee50a006bc44b5.mp3"
+       },
+       "تُرِيدِينَ": {
+        "src": "/audio/o/15a0864c3d6afd71.mp3"
+       },
+       "تُرِيدُ": {
+        "src": "/audio/o/1419c4d8d1787431.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d5-susun-indi-sajjadah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya punya sajadah."
+      },
+      "answer": "عِنْدِي سَجّادَةٌ",
+      "tokens": [
+       "عِنْدِي",
+       "سَجّادَةٌ",
+       "عِنْدَكَ"
+      ],
+      "audioMap": {
+       "عِنْدِي": {
+        "src": "/audio/o/6c11f3803db2c85a.mp3"
+       },
+       "سَجّادَةٌ": {
+        "src": "/audio/o/ea7d2688e86d4069.mp3"
+       },
+       "عِنْدَكَ": {
+        "src": "/audio/o/36881fe3acf93181.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d5-susun-kam-kursi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ada berapa kursi di kamar?"
+      },
+      "answer": "كَمْ كُرْسِيًّا فِي الغُرْفَةِ",
+      "tokens": [
+       "كَمْ",
+       "كُرْسِيًّا",
+       "فِي",
+       "الغُرْفَةِ",
+       "أَيِّ"
+      ],
+      "audioMap": {
+       "كَمْ": {
+        "src": "/audio/o/b18788d2d9555e30.mp3"
+       },
+       "كُرْسِيًّا": {
+        "src": "/audio/o/e27219a8add4edd5.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "الغُرْفَةِ": {
+        "src": "/audio/o/ca3d055b74f13c12.mp3"
+       },
+       "أَيِّ": {
+        "src": "/audio/o/d1e9a18c88cc0d1e.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u3-d5-lat-urid-maan",
+     "instruction": "Lengkapi: \"Saya mau air.\"",
+     "prompt": {
+      "ar": "أُرِيدُ …",
+      "audio": {
+       "src": "/audio/o/2dfc376a9f623477.mp3"
+      }
+     },
+     "answer": "ماءً",
+     "options": [
+      "ماءً",
+      "ماءٌ",
+      "ماءٍ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ماءً": {
+       "src": "/audio/o/e90ec56ca5789151.mp3"
+      },
+      "ماءٌ": {
+       "src": "/audio/o/3c2eab7e6416236e.mp3"
+      },
+      "ماءٍ": {
+       "src": "/audio/o/debeb0d0fef2b6ea.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d5-lat-fadlika-budi",
+     "instruction": "Kamu meminta tolong kepada Budi. Kata yang tepat …",
+     "prompt": {
+      "id": "tolong (kepada laki-laki)",
+      "emoji": "👦"
+     },
+     "answer": "مِنْ فَضْلِكَ",
+     "options": [
+      "مِنْ فَضْلِكَ",
+      "مِنْ فَضْلِكِ",
+      "تَفَضَّلِي"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "مِنْ فَضْلِكَ": {
+       "src": "/audio/o/931ffea1224320a6.mp3"
+      },
+      "مِنْ فَضْلِكِ": {
+       "src": "/audio/o/b1c53f2c6dc48475.mp3"
+      },
+      "تَفَضَّلِي": {
+       "src": "/audio/o/71603159949fd890.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d5-lat-fi-ayyi-yaumin",
+     "instruction": "Lengkapi: \"Pada hari apa?\"",
+     "prompt": {
+      "ar": "فِي أَيِّ …؟",
+      "audio": {
+       "src": "/audio/o/b83872ebdd724fe1.mp3"
+      }
+     },
+     "answer": "يَوْمٍ",
+     "options": [
+      "يَوْمٍ",
+      "يَوْمًا",
+      "يَوْمٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "يَوْمٍ": {
+       "src": "/audio/o/e3367ded1e5d15f1.mp3"
+      },
+      "يَوْمًا": {
+       "src": "/audio/o/ff430106025b3317.mp3"
+      },
+      "يَوْمٌ": {
+       "src": "/audio/o/7e60ee8960e0d082.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u3-d5-lat-susun-urid-ghurfah",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya mau air dan teh."
+     },
+     "answer": "أُرِيدُ ماءً وَشايًا",
+     "tokens": [
+      "أُرِيدُ",
+      "ماءً",
+      "وَشايًا",
+      "تُرِيدُ"
+     ],
+     "audioMap": {
+      "أُرِيدُ": {
+       "src": "/audio/o/16c05b31f9c09253.mp3"
+      },
+      "ماءً": {
+       "src": "/audio/o/e90ec56ca5789151.mp3"
+      },
+      "وَشايًا": {
+       "src": "/audio/o/7caf10ea242d9148.mp3"
+      },
+      "تُرِيدُ": {
+       "src": "/audio/o/1419c4d8d1787431.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d5-lat-indaka-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هَلْ عِنْدَكَ ثَلّاجَةٌ؟",
+      "audio": {
+       "src": "/audio/o/78faf65a54b4e053.mp3"
+      }
+     },
+     "answer": "Apakah kamu punya kulkas? (lk)",
+     "options": [
+      "Apakah kamu punya kulkas? (lk)",
+      "Apakah kamu punya kulkas? (pr)",
+      "Di mana kulkasnya?"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u3-d6",
+   "dars": 6,
+   "title_id": "Bunyi خ, ك, هـ dan ف/ب",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "خَ",
+        "audio": {
+         "src": "/audio/o/9908a33369dfebb2.mp3"
+        },
+        "pair_ar": "كَ"
+       },
+       {
+        "ar": "كَ",
+        "audio": {
+         "src": "/audio/o/8cc9c2ea635064ab.mp3"
+        },
+        "pair_ar": "خَ"
+       },
+       {
+        "ar": "خَ",
+        "audio": {
+         "src": "/audio/o/9908a33369dfebb2.mp3"
+        },
+        "pair_ar": "هَ"
+       },
+       {
+        "ar": "هَ",
+        "audio": {
+         "src": "/audio/o/37ac1ada4ef474c5.mp3"
+        },
+        "pair_ar": "خَ"
+       },
+       {
+        "ar": "خَبِيرٌ",
+        "audio": {
+         "src": "/audio/o/68e14c60e7842b43.mp3"
+        },
+        "pair_ar": "كَبِيرٌ"
+       },
+       {
+        "ar": "كَبِيرٌ",
+        "audio": {
+         "src": "/audio/o/baa09bcf592f0c5a.mp3"
+        },
+        "pair_ar": "خَبِيرٌ"
+       },
+       {
+        "ar": "خَتَمَ",
+        "audio": {
+         "src": "/audio/o/10719df469b84d84.mp3"
+        },
+        "pair_ar": "كَتَمَ"
+       },
+       {
+        "ar": "كَتَمَ",
+        "audio": {
+         "src": "/audio/o/0097741ef9c7b280.mp3"
+        },
+        "pair_ar": "خَتَمَ"
+       },
+       {
+        "ar": "خَدَمَ",
+        "audio": {
+         "src": "/audio/o/0f066f3f614c6529.mp3"
+        },
+        "pair_ar": "هَدَمَ"
+       },
+       {
+        "ar": "هَدَمَ",
+        "audio": {
+         "src": "/audio/o/7bf64441310ac5f9.mp3"
+        },
+        "pair_ar": "خَدَمَ"
+       },
+       {
+        "ar": "خَمْسٌ",
+        "audio": {
+         "src": "/audio/o/3c3c70aea1d96f83.mp3"
+        },
+        "pair_ar": "هَمْسٌ"
+       },
+       {
+        "ar": "هَمْسٌ",
+        "audio": {
+         "src": "/audio/o/e185757bf069d790.mp3"
+        },
+        "pair_ar": "خَمْسٌ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi خ, ك, dan هـ"
+      },
+      "note_id": "خ (kha) diucapkan dengan pangkal lidah mendekati langit-langit belakang sehingga udara bergesek kasar, seperti \"ch\" pada nama Bach. ك (kaf) adalah \"k\" biasa: letupan singkat tanpa gesekan. هـ (ha) hanya embusan napas halus. Jangan ucapkan خ sebagai \"h\" atau \"k\". Ketuk tiap kotak dan bandingkan."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "فَ",
+        "audio": {
+         "src": "/audio/o/a09dfaf3e6119a30.mp3"
+        },
+        "pair_ar": "بَ"
+       },
+       {
+        "ar": "بَ",
+        "audio": {
+         "src": "/audio/o/8cccc8ac808ef11d.mp3"
+        },
+        "pair_ar": "فَ"
+       },
+       {
+        "ar": "فاتَ",
+        "audio": {
+         "src": "/audio/o/c34851bf9dce3a94.mp3"
+        },
+        "pair_ar": "باتَ"
+       },
+       {
+        "ar": "باتَ",
+        "audio": {
+         "src": "/audio/o/65725ebf34144bdf.mp3"
+        },
+        "pair_ar": "فاتَ"
+       },
+       {
+        "ar": "فَرْدٌ",
+        "audio": {
+         "src": "/audio/o/4deb97006b01aafe.mp3"
+        },
+        "pair_ar": "بَرْدٌ"
+       },
+       {
+        "ar": "بَرْدٌ",
+        "audio": {
+         "src": "/audio/o/5fe3358a4319a834.mp3"
+        },
+        "pair_ar": "فَرْدٌ"
+       },
+       {
+        "ar": "فِي",
+        "audio": {
+         "src": "/audio/o/795f40ec05f82a8d.mp3"
+        },
+        "pair_ar": "بِي"
+       },
+       {
+        "ar": "بِي",
+        "audio": {
+         "src": "/audio/o/2e59bc6f1245e939.mp3"
+        },
+        "pair_ar": "فِي"
+       }
+      ],
+      "section": {
+       "id": "Latihan tambahan: ف dan ب"
+      },
+      "note_id": "ف (fa) bukan \"p\". Gigi atas menyentuh bibir bawah dan udara keluar mendesis. ب (ba) diucapkan dengan dua bibir rapat lalu dilepas. Kata نافِذَةٌ، مِنْ فَضْلِكَ، dan تَفَضَّلْ di unit ini memakai ف."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d6-dengar-khabir",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "خَبِيرٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/68e14c60e7842b43.mp3"
+       }
+      },
+      "answer": "خَبِيرٌ",
+      "options": [
+       "خَبِيرٌ",
+       "كَبِيرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خَبِيرٌ": {
+        "src": "/audio/o/68e14c60e7842b43.mp3"
+       },
+       "كَبِيرٌ": {
+        "src": "/audio/o/baa09bcf592f0c5a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d6-dengar-katama",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "كَتَمَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/0097741ef9c7b280.mp3"
+       }
+      },
+      "answer": "كَتَمَ",
+      "options": [
+       "كَتَمَ",
+       "خَتَمَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كَتَمَ": {
+        "src": "/audio/o/0097741ef9c7b280.mp3"
+       },
+       "خَتَمَ": {
+        "src": "/audio/o/10719df469b84d84.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d6-dengar-hadama",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "هَدَمَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/7bf64441310ac5f9.mp3"
+       }
+      },
+      "answer": "هَدَمَ",
+      "options": [
+       "هَدَمَ",
+       "خَدَمَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هَدَمَ": {
+        "src": "/audio/o/7bf64441310ac5f9.mp3"
+       },
+       "خَدَمَ": {
+        "src": "/audio/o/0f066f3f614c6529.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d6-dengar-fata",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "فاتَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/c34851bf9dce3a94.mp3"
+       }
+      },
+      "answer": "فاتَ",
+      "options": [
+       "فاتَ",
+       "باتَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فاتَ": {
+        "src": "/audio/o/c34851bf9dce3a94.mp3"
+       },
+       "باتَ": {
+        "src": "/audio/o/65725ebf34144bdf.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d6-dengar-bard",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "بَرْدٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/5fe3358a4319a834.mp3"
+       }
+      },
+      "answer": "بَرْدٌ",
+      "options": [
+       "بَرْدٌ",
+       "فَرْدٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بَرْدٌ": {
+        "src": "/audio/o/5fe3358a4319a834.mp3"
+       },
+       "فَرْدٌ": {
+        "src": "/audio/o/4deb97006b01aafe.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d6-cari-kha",
+      "instruction": "Kata mana yang memuat huruf خ?",
+      "prompt": {
+       "id": "Cari huruf kha (خ): bentuknya seperti ح dengan titik di atas"
+      },
+      "answer": "مَطْبَخٌ",
+      "options": [
+       "مَطْبَخٌ",
+       "مَكْتَبٌ",
+       "حَمّامٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَطْبَخٌ": {
+        "src": "/audio/o/7bfd4b898ef783bb.mp3"
+       },
+       "مَكْتَبٌ": {
+        "src": "/audio/o/95e96058341d07b7.mp3"
+       },
+       "حَمّامٌ": {
+        "src": "/audio/o/951c2a56dfa53eb9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u3-d6-ucap-khamis",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "يَوْمُ الخَمِيسِ",
+       "id": "hari Kamis",
+       "audio": {
+        "src": "/audio/o/b913c6afc1e2c8c1.mp3"
+       }
+      },
+      "target": "يَوْمُ الخَمِيسِ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u3-d6-ucap-nafidzah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "نافِذَةٌ",
+       "id": "jendela",
+       "audio": {
+        "src": "/audio/o/a95bb57bee6f8a69.mp3"
+       }
+      },
+      "target": "نافِذَةٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d6-simak-piket",
+      "instruction": "Dengarkan. Hari apa gilirannya?",
+      "prompt": {
+       "tts": "نَوْبَتِي يَوْمَ الخَمِيسِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/086a1db3cb8c7872.mp3"
+       }
+      },
+      "answer": "Kamis",
+      "options": [
+       "Kamis",
+       "Ahad",
+       "Selasa"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d6-simak-nomor-kamar",
+      "instruction": "Dengarkan. Berapa nomor kamarnya?",
+      "prompt": {
+       "tts": "رَقْمُ غُرْفَتِي عَشَرَةٌ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/ce4280d57668f2f0.mp3"
+       }
+      },
+      "answer": "10",
+      "options": [
+       "10",
+       "7",
+       "8"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u3-d6-lat-dengar-kabir",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "كَبِيرٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/baa09bcf592f0c5a.mp3"
+      }
+     },
+     "answer": "كَبِيرٌ",
+     "options": [
+      "كَبِيرٌ",
+      "خَبِيرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كَبِيرٌ": {
+       "src": "/audio/o/baa09bcf592f0c5a.mp3"
+      },
+      "خَبِيرٌ": {
+       "src": "/audio/o/68e14c60e7842b43.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d6-lat-dengar-khatama",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "خَتَمَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/10719df469b84d84.mp3"
+      }
+     },
+     "answer": "خَتَمَ",
+     "options": [
+      "خَتَمَ",
+      "كَتَمَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "خَتَمَ": {
+       "src": "/audio/o/10719df469b84d84.mp3"
+      },
+      "كَتَمَ": {
+       "src": "/audio/o/0097741ef9c7b280.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d6-lat-dengar-khams",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "خَمْسٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/3c3c70aea1d96f83.mp3"
+      }
+     },
+     "answer": "خَمْسٌ",
+     "options": [
+      "خَمْسٌ",
+      "هَمْسٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "خَمْسٌ": {
+       "src": "/audio/o/3c3c70aea1d96f83.mp3"
+      },
+      "هَمْسٌ": {
+       "src": "/audio/o/e185757bf069d790.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d6-lat-dengar-bata",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "باتَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/65725ebf34144bdf.mp3"
+      }
+     },
+     "answer": "باتَ",
+     "options": [
+      "باتَ",
+      "فاتَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "باتَ": {
+       "src": "/audio/o/65725ebf34144bdf.mp3"
+      },
+      "فاتَ": {
+       "src": "/audio/o/c34851bf9dce3a94.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d6-lat-dengar-fi",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "فِي",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/795f40ec05f82a8d.mp3"
+      }
+     },
+     "answer": "فِي",
+     "options": [
+      "فِي",
+      "بِي"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "فِي": {
+       "src": "/audio/o/795f40ec05f82a8d.mp3"
+      },
+      "بِي": {
+       "src": "/audio/o/2e59bc6f1245e939.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d6-lat-simak-thallajah",
+     "instruction": "Dengarkan. Apa yang ada di kamarnya?",
+     "prompt": {
+      "tts": "عِنْدِي ثَلّاجَةٌ فِي غُرْفَتِي.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/5f6d492aeb8aa9b3.mp3"
+      }
+     },
+     "answer": "Kulkas",
+     "options": [
+      "Kulkas",
+      "Kursi",
+      "Sajadah"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u3-d7",
+   "dars": 7,
+   "title_id": "Berbicara",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u3-d7-ceritakan-kamar",
+      "instruction": "Ceritakan kamarmu: nomornya dan isinya",
+      "prompt": {
+       "id": "Pakai nomor kamar dan barang di kamarmu sendiri."
+      },
+      "model": [
+       {
+        "ar": "هٰذِهِ غُرْفَتِي.",
+        "id": "Ini kamar saya.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/d9a4f05195fb6d94.mp3"
+        }
+       },
+       {
+        "ar": "رَقْمُها ثَمانِيَةٌ.",
+        "id": "Nomornya delapan.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/eb9ee4984702a55f.mp3"
+        }
+       },
+       {
+        "ar": "عِنْدِي سَرِيرٌ وَمَكْتَبٌ.",
+        "id": "Saya punya tempat tidur dan meja belajar.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/633c72eff227c59b.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u3-d7-ucap-urid-ghurfah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أُرِيدُ غُرْفَةً.",
+       "id": "Saya mau kamar.",
+       "audio": {
+        "src": "/audio/o/c5f5daa6d429cdb3.mp3"
+       }
+      },
+      "target": "أُرِيدُ غُرْفَةً."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u3-d7-ucap-maan-fadlika",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "ماءً، مِنْ فَضْلِكَ.",
+       "id": "Air, tolong. (kepada lk)",
+       "audio": {
+        "src": "/audio/o/8ea1363290868034.mp3"
+       }
+      },
+      "target": "ماءً، مِنْ فَضْلِكَ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d7-tamu-lk-datang",
+      "instruction": "Temanmu (laki-laki) datang ke kamarmu. Kamu mempersilakan dia masuk …",
+      "prompt": {
+       "id": "Silakan masuk!",
+       "emoji": "🚪"
+      },
+      "answer": "تَفَضَّلْ!",
+      "options": [
+       "تَفَضَّلْ!",
+       "تَفَضَّلِي!",
+       "شُكْرًا!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تَفَضَّلْ!": {
+        "src": "/audio/o/23299c3f80eeca69.mp3"
+       },
+       "تَفَضَّلِي!": {
+        "src": "/audio/o/0310d4d8bd3868a9.mp3"
+       },
+       "شُكْرًا!": {
+        "src": "/audio/o/5e46bd7919065cde.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d7-minta-kursi-siti",
+      "instruction": "Kamu meminta kursi kepada Siti dengan sopan …",
+      "prompt": {
+       "id": "Kursi, tolong.",
+       "emoji": "🪑"
+      },
+      "answer": "كُرْسِيًّا، مِنْ فَضْلِكِ.",
+      "options": [
+       "كُرْسِيًّا، مِنْ فَضْلِكِ.",
+       "كُرْسِيًّا، مِنْ فَضْلِكَ.",
+       "كُرْسِيًّا، عَفْوًا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كُرْسِيًّا، مِنْ فَضْلِكِ.": {
+        "src": "/audio/o/751e67b2ad6795db.mp3"
+       },
+       "كُرْسِيًّا، مِنْ فَضْلِكَ.": {
+        "src": "/audio/o/995cd04a771638cb.mp3"
+       },
+       "كُرْسِيًّا، عَفْوًا.": {
+        "src": "/audio/o/4be2a31be077c8a1.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u3-d7-tanya-piket-teman",
+      "instruction": "Tanyakan hari piket teman perempuanmu, lalu jawab tentang piketmu sendiri",
+      "prompt": {
+       "id": "Ingat: kepada perempuan pakai ـكِ."
+      },
+      "model": [
+       {
+        "ar": "فِي أَيِّ يَوْمٍ نَوْبَتُكِ؟",
+        "id": "Giliranmu hari apa? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/20a72287ae68c48a.mp3"
+        }
+       },
+       {
+        "ar": "نَوْبَتِي يَوْمَ الجُمُعَةِ.",
+        "id": "Giliran saya hari Jumat.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/77269a59f87a2829.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d7-jawab-kam-bab",
+      "instruction": "Rumahmu punya dua pintu. Bagaimana kamu menjawab?",
+      "prompt": {
+       "ar": "كَمْ بابًا فِي بَيْتِكَ؟",
+       "audio": {
+        "src": "/audio/o/ef96cb04d2bcf301.mp3"
+       },
+       "emoji": "🚪"
+      },
+      "answer": "اِثْنانِ.",
+      "options": [
+       "اِثْنانِ.",
+       "واحِدٌ.",
+       "ثَلاثَةٌ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "اِثْنانِ.": {
+        "src": "/audio/o/3128ca892c5bcb88.mp3"
+       },
+       "واحِدٌ.": {
+        "src": "/audio/o/7cb1f34f80f1f13b.mp3"
+       },
+       "ثَلاثَةٌ.": {
+        "src": "/audio/o/84e31488592790ef.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u3-d7-ucap-naubati-jumah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "نَوْبَتِي يَوْمَ الجُمُعَةِ.",
+       "id": "Giliran saya hari Jumat.",
+       "audio": {
+        "src": "/audio/o/1720e8571860b3b4.mp3"
+       }
+      },
+      "target": "نَوْبَتِي يَوْمَ الجُمُعَةِ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d7-jawab-syukran-budi",
+      "instruction": "Budi berkata: شُكْرًا يا رِزْقِي. Rizki menjawab …",
+      "prompt": {
+       "ar": "شُكْرًا يا رِزْقِي.",
+       "audio": {
+        "src": "/audio/o/caa9bf024aeae8b3.mp3"
+       }
+      },
+      "answer": "عَفْوًا.",
+      "options": [
+       "عَفْوًا.",
+       "شُكْرًا.",
+       "مِنْ فَضْلِكَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَفْوًا.": {
+        "src": "/audio/o/c81ecbdc0111136d.mp3"
+       },
+       "شُكْرًا.": {
+        "src": "/audio/o/93dfac6ab1a4cc4d.mp3"
+       },
+       "مِنْ فَضْلِكَ.": {
+        "src": "/audio/o/22c96e1f002c26ec.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u3-d7-ceritakan-rumah",
+      "instruction": "Ceritakan rumahmu: kotanya, ruangannya, dan kamarmu",
+      "prompt": {
+       "id": "Pakai kota dan rumahmu sendiri."
+      },
+      "model": [
+       {
+        "ar": "بَيْتِي فِي مِيدان.",
+        "id": "Rumah saya di Medan.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/17ff1cffef1e5e45.mp3"
+        }
+       },
+       {
+        "ar": "فِي البَيْتِ مَطْبَخٌ وَحَمّامٌ.",
+        "id": "Di rumah ada dapur dan kamar mandi.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/c1ec719650e8eb8f.mp3"
+        }
+       },
+       {
+        "ar": "هٰذِهِ غُرْفَتِي.",
+        "id": "Ini kamar saya.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/37ae27410d77cd12.mp3"
+        }
+       }
+      ]
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u3-d7-lat-tamu-aisyah",
+     "instruction": "Aisyah datang ke kamarmu. Kamu berkata …",
+     "prompt": {
+      "id": "Silakan masuk! (kepada pr)",
+      "emoji": "👩"
+     },
+     "answer": "تَفَضَّلِي!",
+     "options": [
+      "تَفَضَّلِي!",
+      "تَفَضَّلْ!",
+      "عَفْوًا!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "تَفَضَّلِي!": {
+       "src": "/audio/o/0310d4d8bd3868a9.mp3"
+      },
+      "تَفَضَّلْ!": {
+       "src": "/audio/o/23299c3f80eeca69.mp3"
+      },
+      "عَفْوًا!": {
+       "src": "/audio/o/7fe002e97a28d349.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d7-lat-minta-teh-budi",
+     "instruction": "Kamu meminta teh kepada Budi dengan sopan …",
+     "prompt": {
+      "id": "Teh, tolong.",
+      "emoji": "🍵"
+     },
+     "answer": "شايًا، مِنْ فَضْلِكَ.",
+     "options": [
+      "شايًا، مِنْ فَضْلِكَ.",
+      "شايًا، مِنْ فَضْلِكِ.",
+      "شايًا، تَفَضَّلْ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "شايًا، مِنْ فَضْلِكَ.": {
+       "src": "/audio/o/9e986e8408ed39a0.mp3"
+      },
+      "شايًا، مِنْ فَضْلِكِ.": {
+       "src": "/audio/o/d7dd57578780ccde.mp3"
+      },
+      "شايًا، تَفَضَّلْ.": {
+       "src": "/audio/o/731a2b947025784c.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d7-lat-jawab-ayyi-ghurfah",
+     "instruction": "Kamu di kamar nomor 6. Bagaimana kamu menjawab?",
+     "prompt": {
+      "ar": "فِي أَيِّ غُرْفَةٍ أَنْتَ؟",
+      "audio": {
+       "src": "/audio/o/6cb07f5528705172.mp3"
+      }
+     },
+     "answer": "رَقْمُ غُرْفَتِي سِتَّةٌ.",
+     "options": [
+      "رَقْمُ غُرْفَتِي سِتَّةٌ.",
+      "رَقْمُ غُرْفَتِي ثَمانِيَةٌ.",
+      "نَعَمْ، عِنْدِي غُرْفَةٌ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "رَقْمُ غُرْفَتِي سِتَّةٌ.": {
+       "src": "/audio/o/066782b920aa241d.mp3"
+      },
+      "رَقْمُ غُرْفَتِي ثَمانِيَةٌ.": {
+       "src": "/audio/o/954028a7e5d383b4.mp3"
+      },
+      "نَعَمْ، عِنْدِي غُرْفَةٌ.": {
+       "src": "/audio/o/e8fb42b3018138bb.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d7-lat-jawab-hal-indaka",
+     "instruction": "Kamu punya sajadah. Bagaimana kamu menjawab?",
+     "prompt": {
+      "ar": "هَلْ عِنْدَكَ سَجّادَةٌ؟",
+      "audio": {
+       "src": "/audio/o/7c8c45d7ad61b697.mp3"
+      },
+      "emoji": "🧎"
+     },
+     "answer": "نَعَمْ، عِنْدِي سَجّادَةٌ.",
+     "options": [
+      "نَعَمْ، عِنْدِي سَجّادَةٌ.",
+      "نَعَمْ، عِنْدَكَ سَجّادَةٌ.",
+      "لا، عِنْدِي سَجّادَةٌ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "نَعَمْ، عِنْدِي سَجّادَةٌ.": {
+       "src": "/audio/o/6f6addfbd143df0e.mp3"
+      },
+      "نَعَمْ، عِنْدَكَ سَجّادَةٌ.": {
+       "src": "/audio/o/cc0afbcf9677637b.mp3"
+      },
+      "لا، عِنْدِي سَجّادَةٌ.": {
+       "src": "/audio/o/232cf1e61b593982.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u3-d8",
+   "dars": 8,
+   "title_id": "Membaca",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "بُودِي يُرِيدُ غُرْفَةً لِلْإِيجارِ.",
+        "id": "Budi ingin menyewa kamar.",
+        "emoji": "👦",
+        "audio": {
+         "src": "/audio/o/d89e5aa39083c7dc.mp3"
+        }
+       },
+       {
+        "ar": "الغُرْفَةُ فِي بَيْتِ السَّيِّدَةِ سِرِي.",
+        "id": "Kamarnya di rumah Bu Sri.",
+        "emoji": "🏠",
+        "audio": {
+         "src": "/audio/o/f8d1b7141e9b7e82.mp3"
+        }
+       },
+       {
+        "ar": "رَقْمُ الغُرْفَةِ سَبْعَةٌ.",
+        "id": "Nomor kamarnya tujuh.",
+        "audio": {
+         "src": "/audio/o/d82629679dffe9d3.mp3"
+        }
+       },
+       {
+        "ar": "فِي الغُرْفَةِ سَرِيرٌ وَمَكْتَبٌ وَكُرْسِيٌّ.",
+        "id": "Di kamar itu ada tempat tidur, meja belajar, dan kursi.",
+        "audio": {
+         "src": "/audio/o/c809a342d0d3f973.mp3"
+        }
+       },
+       {
+        "ar": "وَالثَّلّاجَةُ فِي المَطْبَخِ.",
+        "id": "Kulkasnya ada di dapur.",
+        "emoji": "🧊",
+        "audio": {
+         "src": "/audio/o/c57694616969a19a.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Kamar kos Budi"
+      },
+      "imgs": [
+       "/img/o/u3-kamar-kos.webp"
+      ],
+      "instruction_id": "Baca pelan-pelan. السَّيِّدَةُ = ibu, nyonya (sapaan sopan untuk perempuan)."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d8-baca-nomor-kos",
+      "instruction": "Berapa nomor kamar Budi?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "7",
+      "options": [
+       "7",
+       "8",
+       "10"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d8-baca-kulkas-kamar",
+      "instruction": "Benar atau salah? \"Di kamar Budi ada kulkas.\"",
+      "prompt": {
+       "ar": "فِي غُرْفَةِ بُودِي ثَلّاجَةٌ.",
+       "audio": {
+        "src": "/audio/o/fba4fa178dc73f24.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d8-baca-rumah-siapa",
+      "instruction": "Kamar itu ada di rumah siapa?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "Bu Sri",
+      "options": [
+       "Bu Sri",
+       "Ustazah Zainab",
+       "Ibu Siti"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d8-baca-kulkas-mana",
+      "instruction": "Di mana kulkasnya?",
+      "prompt": {
+       "ar": "أَيْنَ الثَّلّاجَةُ؟",
+       "audio": {
+        "src": "/audio/o/4d7123bbdc012e39.mp3"
+       },
+       "emoji": "🧊"
+      },
+      "answer": "فِي المَطْبَخِ.",
+      "options": [
+       "فِي المَطْبَخِ.",
+       "فِي الغُرْفَةِ.",
+       "فِي الحَمّامِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فِي المَطْبَخِ.": {
+        "src": "/audio/o/d3ebfd241d82aafd.mp3"
+       },
+       "فِي الغُرْفَةِ.": {
+        "src": "/audio/o/2ca04e55d6b20876.mp3"
+       },
+       "فِي الحَمّامِ.": {
+        "src": "/audio/o/35c94d8f79abbe33.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "هٰذِهِ غُرْفَةُ سِيتِي وَعائِشَةَ.",
+        "id": "Ini kamar Siti dan Aisyah.",
+        "emoji": "👭",
+        "audio": {
+         "src": "/audio/o/b56626bde2de1b88.mp3"
+        }
+       },
+       {
+        "ar": "رَقْمُ الغُرْفَةِ عَشَرَةٌ.",
+        "id": "Nomor kamarnya sepuluh.",
+        "audio": {
+         "src": "/audio/o/7dac5138db6dd3ae.mp3"
+        }
+       },
+       {
+        "ar": "فِي الغُرْفَةِ مَكْتَبٌ وَسَجّادَةٌ.",
+        "id": "Di kamar itu ada meja belajar dan sajadah.",
+        "audio": {
+         "src": "/audio/o/b3daf37cf6c0e11a.mp3"
+        }
+       },
+       {
+        "ar": "نَوْبَةُ سِيتِي يَوْمَ الثُّلاثاءِ.",
+        "id": "Giliran piket Siti hari Selasa.",
+        "audio": {
+         "src": "/audio/o/f5384ea2cc259a1a.mp3"
+        }
+       },
+       {
+        "ar": "وَنَوْبَةُ عائِشَةَ يَوْمَ الجُمُعَةِ.",
+        "id": "Giliran Aisyah hari Jumat.",
+        "emoji": "🧹",
+        "audio": {
+         "src": "/audio/o/4c903da3e51abc82.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Kamar Siti dan Aisyah"
+      },
+      "imgs": [
+       "/img/o/u3-kamar-siti-aisyah.webp"
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d8-baca-nomor-siti",
+      "instruction": "Berapa nomor kamar Siti dan Aisyah?",
+      "prompt": {
+       "id": "Menurut bacaan 2"
+      },
+      "answer": "10",
+      "options": [
+       "10",
+       "7",
+       "8"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d8-baca-aisyah-jumat",
+      "instruction": "Benar atau salah? \"Giliran piket Aisyah hari Jumat.\"",
+      "prompt": {
+       "ar": "نَوْبَةُ عائِشَةَ يَوْمَ الجُمُعَةِ.",
+       "audio": {
+        "src": "/audio/o/7a65d994344e7468.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d8-baca-siti-hari",
+      "instruction": "Siti piket hari apa?",
+      "prompt": {
+       "id": "Menurut bacaan 2"
+      },
+      "answer": "Selasa",
+      "options": [
+       "Selasa",
+       "Sabtu",
+       "Jumat"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d8-baca-gambar-sajadah",
+      "instruction": "Apa yang ada di kamar Siti dan Aisyah?",
+      "prompt": {
+       "id": "Menurut bacaan 2"
+      },
+      "answer": "مَكْتَبٌ وَسَجّادَةٌ",
+      "options": [
+       "مَكْتَبٌ وَسَجّادَةٌ",
+       "سَرِيرٌ وَثَلّاجَةٌ",
+       "كُرْسِيٌّ وَثَلّاجَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَكْتَبٌ وَسَجّادَةٌ": {
+        "src": "/audio/o/18a0d673bad629a7.mp3"
+       },
+       "سَرِيرٌ وَثَلّاجَةٌ": {
+        "src": "/audio/o/9f51b26a676fb751.mp3"
+       },
+       "كُرْسِيٌّ وَثَلّاجَةٌ": {
+        "src": "/audio/o/9a29a8d40530a6ce.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u3-d8-lat-baca-kursi-budi",
+     "instruction": "Benar atau salah? \"Di kamar Budi ada kursi.\"",
+     "prompt": {
+      "ar": "فِي غُرْفَةِ بُودِي كُرْسِيٌّ.",
+      "audio": {
+       "src": "/audio/o/1847621254ba5a2e.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d8-lat-baca-siti-ahad",
+     "instruction": "Benar atau salah? \"Giliran piket Siti hari Ahad.\"",
+     "prompt": {
+      "ar": "نَوْبَةُ سِيتِي يَوْمَ الأَحَدِ.",
+      "audio": {
+       "src": "/audio/o/4d4acf36902eadc7.mp3"
+      }
+     },
+     "answer": "Salah",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d8-lat-baca-yurid-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "بُودِي يُرِيدُ غُرْفَةً لِلْإِيجارِ.",
+      "audio": {
+       "src": "/audio/o/d89e5aa39083c7dc.mp3"
+      }
+     },
+     "answer": "Budi ingin menyewa kamar.",
+     "options": [
+      "Budi ingin menyewa kamar.",
+      "Budi punya kamar di asrama.",
+      "Kamar Budi nomor tujuh."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d8-lat-baca-ghurfatu-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هٰذِهِ غُرْفَةُ سِيتِي وَعائِشَةَ.",
+      "audio": {
+       "src": "/audio/o/b56626bde2de1b88.mp3"
+      }
+     },
+     "answer": "Ini kamar Siti dan Aisyah.",
+     "options": [
+      "Ini kamar Siti dan Aisyah.",
+      "Ini rumah Siti di Medan.",
+      "Siti dan Aisyah di kamar mandi."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u3-d9",
+   "dars": 9,
+   "title_id": "Menulis ج ح خ",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ج",
+        "id": "jim",
+        "audio": {
+         "src": "/audio/o/019a195a0b3c1c91.mp3"
+        }
+       },
+       {
+        "ar": "ح",
+        "id": "ha",
+        "audio": {
+         "src": "/audio/o/0b4f3f2b87369a81.mp3"
+        }
+       },
+       {
+        "ar": "خ",
+        "id": "kha",
+        "audio": {
+         "src": "/audio/o/fc5d4f118da77e38.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf ج ح خ"
+      },
+      "instruction_id": "Tiga huruf ini bentuknya sama. Bedanya hanya titik: ج titik di bawah, ح tanpa titik, خ titik di atas. Telusuri bentuknya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d9-huruf-kha",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "خ",
+       "audio": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       }
+      },
+      "answer": "kha",
+      "options": [
+       "kha",
+       "ha",
+       "jim"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d9-titik-bawah",
+      "instruction": "Huruf mana yang titiknya di bawah?",
+      "prompt": {
+       "id": "Pilih satu"
+      },
+      "answer": "ج",
+      "options": [
+       "ج",
+       "ح",
+       "خ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       },
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       },
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d9-dengar-huruf-kha",
+      "instruction": "Dengarkan. Huruf apa yang kamu dengar?",
+      "prompt": {
+       "tts": "خَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/9908a33369dfebb2.mp3"
+       }
+      },
+      "answer": "خ",
+      "options": [
+       "خ",
+       "ح",
+       "ج"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       },
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       },
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "جَدْوَلٌ",
+        "id": "jadwal",
+        "audio": {
+         "src": "/audio/o/958787b2ed5625c3.mp3"
+        }
+       },
+       {
+        "ar": "حَمّامٌ",
+        "id": "kamar mandi",
+        "audio": {
+         "src": "/audio/o/951c2a56dfa53eb9.mp3"
+        }
+       },
+       {
+        "ar": "مَطْبَخٌ",
+        "id": "dapur",
+        "audio": {
+         "src": "/audio/o/7bfd4b898ef783bb.mp3"
+        }
+       },
+       {
+        "ar": "الخَمِيسُ",
+        "id": "Kamis",
+        "audio": {
+         "src": "/audio/o/6e01e61c0eb59df7.mp3"
+        }
+       },
+       {
+        "ar": "الجُمُعَةُ",
+        "id": "Jumat",
+        "audio": {
+         "src": "/audio/o/e3a939d2611d38b9.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf itu dalam kata"
+      },
+      "instruction_id": "Perhatikan bentuk ج ح خ di awal, tengah, dan akhir kata."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d9-eja-khamis",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "خَمِيس (Kamis)"
+      },
+      "answer": "خ م ي س",
+      "tokens": [
+       "خ",
+       "م",
+       "ي",
+       "س",
+       "ح"
+      ],
+      "audioMap": {
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       },
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "ي": {
+        "src": "/audio/o/51f9dfe25dac5366.mp3"
+       },
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       },
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d9-eja-matbakh",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "مَطْبَخ (dapur)"
+      },
+      "answer": "م ط ب خ",
+      "tokens": [
+       "م",
+       "ط",
+       "ب",
+       "خ",
+       "ج"
+      ],
+      "audioMap": {
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "ط": {
+        "src": "/audio/o/e6f7a7ac909c7eb8.mp3"
+       },
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       },
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       },
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u3-d9-eja-jadwal",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "جَدْوَل (jadwal)"
+      },
+      "answer": "ج د و ل",
+      "tokens": [
+       "ج",
+       "د",
+       "و",
+       "ل",
+       "ح"
+      ],
+      "audioMap": {
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       },
+       "ل": {
+        "src": "/audio/o/b3939d4bc0e14fc9.mp3"
+       },
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d9-tulis-hammam",
+      "instruction": "Mana tulisan \"kamar mandi\" yang benar?",
+      "prompt": {
+       "id": "kamar mandi"
+      },
+      "answer": "حَمّامٌ",
+      "options": [
+       "حَمّامٌ",
+       "خَمّامٌ",
+       "جَمّامٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "حَمّامٌ": {
+        "src": "/audio/o/951c2a56dfa53eb9.mp3"
+       },
+       "خَمّامٌ": {
+        "src": "/audio/o/b39bb531bc75b104.mp3"
+       },
+       "جَمّامٌ": {
+        "src": "/audio/o/2a641ffffc9c6552.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u3-d9-awal-jumuah",
+      "instruction": "Huruf pertama sesudah ال pada kata الجُمُعَةُ adalah …",
+      "prompt": {
+       "ar": "الجُمُعَةُ",
+       "audio": {
+        "src": "/audio/o/e3a939d2611d38b9.mp3"
+       }
+      },
+      "answer": "ج",
+      "options": [
+       "ج",
+       "ح",
+       "خ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       },
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       },
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u3-d9-lat-huruf-ha",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "ح",
+      "audio": {
+       "src": "/audio/o/0b4f3f2b87369a81.mp3"
+      }
+     },
+     "answer": "ha",
+     "options": [
+      "ha",
+      "kha",
+      "jim"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d9-lat-titik-atas",
+     "instruction": "Huruf mana yang titiknya di atas?",
+     "prompt": {
+      "id": "Pilih satu"
+     },
+     "answer": "خ",
+     "options": [
+      "خ",
+      "ج",
+      "ح"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "خ": {
+       "src": "/audio/o/fc5d4f118da77e38.mp3"
+      },
+      "ج": {
+       "src": "/audio/o/019a195a0b3c1c91.mp3"
+      },
+      "ح": {
+       "src": "/audio/o/0b4f3f2b87369a81.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u3-d9-lat-eja-jumuah",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "جُمُعَة (Jumat)"
+     },
+     "answer": "ج م ع ة",
+     "tokens": [
+      "ج",
+      "م",
+      "ع",
+      "ة",
+      "ح"
+     ],
+     "audioMap": {
+      "ج": {
+       "src": "/audio/o/019a195a0b3c1c91.mp3"
+      },
+      "م": {
+       "src": "/audio/o/a6354d34017cd6cb.mp3"
+      },
+      "ع": {
+       "src": "/audio/o/3bd72853336f59da.mp3"
+      },
+      "ة": {
+       "src": "/audio/o/c82585cd69de5894.mp3"
+      },
+      "ح": {
+       "src": "/audio/o/0b4f3f2b87369a81.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u3-d9-lat-dengar-huruf-ha",
+     "instruction": "Dengarkan. Huruf apa yang kamu dengar?",
+     "prompt": {
+      "tts": "حَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/2ad0c16ed4478808.mp3"
+      }
+     },
+     "answer": "ح",
+     "options": [
+      "ح",
+      "خ",
+      "ج"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ح": {
+       "src": "/audio/o/0b4f3f2b87369a81.mp3"
+      },
+      "خ": {
+       "src": "/audio/o/fc5d4f118da77e38.mp3"
+      },
+      "ج": {
+       "src": "/audio/o/019a195a0b3c1c91.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

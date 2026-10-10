@@ -1,0 +1,2553 @@
+{
+  "unit": 9,
+  "book": "1b",
+  "title_ar": "التَّسَوُّقُ",
+  "title_id": "Berbelanja",
+  "notes": "Semester 2. Dialog 1: Budi membeli buku tulis dan kamus di koperasi pelajar di samping ma'had; Yusuf sedang giliran jaga (penjual menyambut pembeli). Dialog 2: Siti dan Aisyah membeli kemeja batik untuk ayah Aisyah di Pasar Beringharjo dan menawar (penjual figuran_pr). Dialog 3: Bu Fatimah dan Nur berbelanja bahan masakan di pasar tradisional di Bandung (penjual figuran_lk). Pola: بِكَمْ …؟ ← بِـ + puluhan (-īna); أَيُّ/أَيَّ/أَيِّ + isim nakirah majrur; هٰذا + mudhaf-mudhaf ilaih / sifat (warna mudzakkar, ghairu munsarif); لَوْ سَمَحْتَ/سَمَحْتِ; mubtada' + syibh jumlah (termasuk khabar muqaddam dengan mubtada' nakirah). Bilangan puluhan 20–90 + tamyiz mufrad manshub. Harga disebut dengan puluhan saja (kebiasaan pasar Indonesia: 'lima puluh' = lima puluh ribu); أَلْفٌ baru di Unit 15. Kata baru di luar daftar inti yang langsung diartikan: كَبِيرٌ، صَغِيرٌ، أَشْتَرِي/نَشْتَرِي/تَشْتَرِي، اليَوْمَ، فُلْفُلٌ، قُولِي/تَقُولُ/يَقُولُ، البائِعُ، المُشْتَرِي، المَجْمُوعُ. Bunyi ظ/ز/ذ. Menulis: isian kata dan menyusun kalimat. | PEMERIKSAAN INDEPENDEN (2026-10-04): (1) Dialog 1 ditulis ulang: pembukaannya (أَهْلًا وَسَهْلًا / أُرِيدُ مُعْجَمًا… / أَيَّ مُعْجَمٍ تُرِيدُ؟) terlalu dekat dengan tiga baris pembuka hiwar 1 ABY 1/9 (toko buku, kamus + buku tulis); sekarang Budi bertanya هَلْ عِنْدَكُمْ مُعْجَمٌ؟ dan menawar dari dua ukuran kamus. (2) Penjual kini bersuara sebagai figuran: Beringharjo = figuran_pr (البائِعَةُ) dengan 3 baris dan hasil tawar 80 (bukan 70), Bacaan 1 dan soal harga akhir disesuaikan (التّاجِرَةُ); soal tawar-lk diganti tawar-pr; pasar Bandung = figuran_lk (البائِعُ) 2 baris. (3) Pasangan bunyi jarang ظَلَّ/زَلَّ dan ظَفِرَ/زَفَرَ diganti نَظِيفٌ/نَزِيفٌ dan ظِلٌّ/ذِلٌّ (kunci soal baru). (4) Kata baru diberi arti: هَلْ عِنْدَكُمْ، كُلُّهُ. Harakat, i'rab bilangan (بِـ + ـِينَ, tamyiz mufrad manshub), warna ghairu munsarif, nama (يُوسُفُ/عائِشَةُ ghairu munsarif, nama Indonesia tanpa i'rab) diperiksa baris demi baris: benar. Cek kemiripan ABY: hlm. PDF 24–31 (hiwar 1 toko buku kamus/buku tulis, hiwar 2 pasar ikan/daging/ayam, hiwar 3 toko baju dan warna, latihan kata asing dan warna). Tiga adegan kita memang setema (diwajibkan SKELETON) tetapi urutannya berbeda (batik di dars 2, pasar di dars 3); setelah Dialog 1 ditulis ulang tidak ada lebih dari 2 kalimat berurutan yang mirip; yang sama hanya ungkapan baku (بِكَمْ…؟، تَفَضَّلْ، أَهْلًا وَسَهْلًا) dan daftar enam warna inti.",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Di koperasi ma'had",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Koperasi pelajar di samping ma'had dijaga para pelajar secara bergiliran. Hari ini giliran Yusuf. Budi datang untuk membeli kamus dan buku tulis. Harga disebut tanpa kata \"ribu\", seperti kebiasaan di pasar.",
+          "rows": [
+            {
+              "who": "yusuf",
+              "ar": "أَهْلًا يا بُودِي، تَفَضَّلْ!",
+              "id": "Halo, Budi, silakan!"
+            },
+            {
+              "who": "budi",
+              "ar": "لَوْ سَمَحْتَ، هَلْ عِنْدَكُمْ مُعْجَمٌ؟",
+              "id": "Permisi, apakah ada kamus? (kepada lk)"
+            },
+            {
+              "who": "yusuf",
+              "ar": "نَعَمْ، عِنْدَنا مُعْجَمٌ كَبِيرٌ وَمُعْجَمٌ صَغِيرٌ.",
+              "id": "Ada. Kami punya kamus besar dan kamus kecil."
+            },
+            {
+              "who": "budi",
+              "ar": "بِكَمِ المُعْجَمُ الكَبِيرُ؟",
+              "id": "Kamus yang besar berapa?"
+            },
+            {
+              "who": "yusuf",
+              "ar": "بِتِسْعِينَ، وَالصَّغِيرُ بِخَمْسِينَ.",
+              "id": "Sembilan puluh (ribu), yang kecil lima puluh."
+            },
+            {
+              "who": "budi",
+              "ar": "الكَبِيرُ غالٍ! أُرِيدُ الصَّغِيرَ وَدَفْتَرًا.",
+              "id": "Yang besar mahal! Saya mau yang kecil dan buku tulis."
+            },
+            {
+              "who": "yusuf",
+              "ar": "أَيَّ دَفْتَرٍ تُرِيدُ؟ عِنْدَنا الأَحْمَرُ وَالأَزْرَقُ.",
+              "id": "Buku tulis yang mana? Ada yang merah dan yang biru."
+            },
+            {
+              "who": "budi",
+              "ar": "الأَزْرَقَ، مِنْ فَضْلِكَ. بِكَمْ هُوَ؟",
+              "id": "Yang biru, tolong. Berapa harganya?"
+            },
+            {
+              "who": "yusuf",
+              "ar": "بِعِشْرِينَ. الثَّمَنُ كُلُّهُ سَبْعُونَ.",
+              "id": "Dua puluh. Semuanya tujuh puluh (ribu)."
+            }
+          ],
+          "img": "u9-koperasi",
+          "scene": "Yusuf, a young Turkish student, stands behind the counter of a small student cooperative shop next to an Islamic language institute in Yogyakarta, Indonesia, showing Budi a blue notebook, a big dictionary and a small dictionary; shelves with notebooks and pens behind him; no readable text or signs."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "لَوْ سَمَحْتَ",
+              "id": "tolong / permisi (kepada lk)",
+              "emoji": "🙏"
+            },
+            {
+              "ar": "مُعْجَمٌ",
+              "id": "kamus",
+              "emoji": "📖"
+            },
+            {
+              "ar": "هَلْ عِنْدَكُمْ …؟",
+              "id": "apakah ada …? (di toko)",
+              "emoji": "🔎"
+            },
+            {
+              "ar": "أَيَّ …؟",
+              "id": "… yang mana?",
+              "emoji": "🤔"
+            },
+            {
+              "ar": "بِكَمْ؟",
+              "id": "berapa harganya?",
+              "emoji": "🏷️"
+            },
+            {
+              "ar": "ثَمَنٌ",
+              "id": "harga",
+              "emoji": "💰"
+            },
+            {
+              "ar": "غالٍ",
+              "id": "mahal",
+              "emoji": "💸"
+            },
+            {
+              "ar": "كَبِيرٌ",
+              "id": "besar",
+              "emoji": "🐘"
+            },
+            {
+              "ar": "صَغِيرٌ",
+              "id": "kecil",
+              "emoji": "🐭"
+            },
+            {
+              "ar": "أَحْمَرُ",
+              "id": "merah",
+              "emoji": "🔴"
+            },
+            {
+              "ar": "أَزْرَقُ",
+              "id": "biru",
+              "emoji": "🔵"
+            },
+            {
+              "ar": "كُلُّهُ",
+              "id": "semuanya",
+              "emoji": "🧮"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "bikam-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "بِكَمْ هٰذا المُعْجَمُ؟"
+          },
+          "answer": "Berapa harga kamus ini?",
+          "options": [
+            "Berapa harga kamus ini?",
+            "Kamus yang mana?",
+            "Di mana kamus ini?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-law-samahta",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "لَوْ سَمَحْتَ، أُرِيدُ دَفْتَرًا."
+          },
+          "answer": "Tolong, saya mau buku tulis.",
+          "options": [
+            "Tolong, saya mau buku tulis.",
+            "Tolong, saya mau kamus.",
+            "Buku tulis ini mahal."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "harga-mujam-kabir",
+          "instruction": "Menurut dialog, berapa harga kamus besar?",
+          "prompt": {
+            "ar": "المُعْجَمُ الكَبِيرُ بِـ …",
+            "emoji": "📖"
+          },
+          "answer": "90 ribu",
+          "options": [
+            "90 ribu",
+            "50 ribu",
+            "20 ribu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "budi-pilih",
+          "instruction": "Menurut dialog, Budi membeli kamus yang mana?",
+          "prompt": {
+            "id": "Budi membeli kamus …"
+          },
+          "answer": "Yang kecil",
+          "options": [
+            "Yang kecil",
+            "Yang besar",
+            "Yang merah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "ghalin-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "غالٍ"
+          },
+          "answer": "mahal",
+          "options": [
+            "mahal",
+            "murah",
+            "kecil"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-madza-turid",
+          "instruction": "Penjual bertanya kepadamu. Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "ماذا تُرِيدُ؟"
+          },
+          "answer": "أُرِيدُ مُعْجَمًا، لَوْ سَمَحْتَ.",
+          "options": [
+            "أُرِيدُ مُعْجَمًا، لَوْ سَمَحْتَ.",
+            "بِتِسْعِينَ.",
+            "الكَبِيرُ غالٍ!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-urid-saghir",
+          "prompt": {
+            "id": "Saya mau yang kecil."
+          },
+          "answer": "أُرِيدُ الصَّغِيرَ",
+          "extra": [
+            "الكَبِيرُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-bikam-daftar",
+          "prompt": {
+            "id": "Berapa harga buku tulis ini?"
+          },
+          "answer": "بِكَمْ هٰذا الدَّفْتَرُ",
+          "extra": [
+            "أَيَّ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-bikam",
+          "who": "budi",
+          "ar": "بِكَمْ هٰذا؟",
+          "id": "Ini berapa harganya?"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-saghir-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "صَغِيرٌ"
+          },
+          "answer": "kecil",
+          "options": [
+            "kecil",
+            "besar",
+            "mahal"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-50",
+          "instruction": "Dengarkan. Berapa harganya?",
+          "prompt": {
+            "listen": "بِخَمْسِينَ."
+          },
+          "answer": "50",
+          "options": [
+            "50",
+            "5",
+            "70"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-tsaman-70",
+          "prompt": {
+            "id": "Harganya tujuh puluh (ribu)."
+          },
+          "answer": "الثَّمَنُ سَبْعُونَ",
+          "extra": [
+            "سَبْعَةٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-yusuf-jaga",
+          "instruction": "Menurut dialog, siapa yang menjaga koperasi hari ini?",
+          "prompt": {
+            "id": "Penjual di koperasi ma'had"
+          },
+          "answer": "Yusuf",
+          "options": [
+            "Yusuf",
+            "Budi",
+            "Rizki"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-azraq-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَزْرَقُ"
+          },
+          "answer": "biru",
+          "options": [
+            "biru",
+            "merah",
+            "hijau"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Batik di Pasar Beringharjo",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Hari Ahad, Siti mengajak Aisyah ke Pasar Beringharjo. Aisyah ingin membeli kemeja batik untuk ayahnya di Kuala Lumpur. Penjualnya seorang ibu.",
+          "rows": [
+            {
+              "who": "figuran_pr",
+              "label_ar": "البائِعَةُ",
+              "ar": "أَهْلًا وَسَهْلًا، تَفَضَّلِي!",
+              "id": "Selamat datang, silakan!"
+            },
+            {
+              "who": "aisyah",
+              "ar": "ما أَجْمَلَ الباتِيكَ هُنا! أُرِيدُ قَمِيصَ باتِيكٍ لِأَبِي.",
+              "id": "Bagus sekali batik di sini! Saya mau kemeja batik untuk ayah saya."
+            },
+            {
+              "who": "siti",
+              "ar": "أَيَّ لَوْنٍ يُحِبُّ أَبُوكِ؟",
+              "id": "Ayahmu suka warna apa? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "يُحِبُّ الأَزْرَقَ وَالأَبْيَضَ.",
+              "id": "Dia suka biru dan putih."
+            },
+            {
+              "who": "figuran_pr",
+              "label_ar": "البائِعَةُ",
+              "ar": "هٰذا قَمِيصٌ أَزْرَقُ وَأَبْيَضُ. ثَمَنُهُ تِسْعُونَ.",
+              "id": "Ini kemeja biru putih. Harganya sembilan puluh (ribu)."
+            },
+            {
+              "who": "siti",
+              "ar": "هٰذا غالٍ! قُولِي: سَبْعُونَ.",
+              "id": "Itu mahal! Bilang: tujuh puluh."
+            },
+            {
+              "who": "aisyah",
+              "ar": "لَوْ سَمَحْتِ، بِسَبْعِينَ؟",
+              "id": "Permisi, Bu, tujuh puluh boleh? (kepada pr)"
+            },
+            {
+              "who": "figuran_pr",
+              "label_ar": "البائِعَةُ",
+              "ar": "لا، بِثَمانِينَ. تَفَضَّلِي!",
+              "id": "Tidak bisa, delapan puluh. Silakan!"
+            },
+            {
+              "who": "aisyah",
+              "ar": "حَسَنًا، شُكْرًا!",
+              "id": "Baiklah, terima kasih!"
+            }
+          ],
+          "img": "u9-beringharjo",
+          "scene": "Siti and Aisyah, two young women in hijab, at a crowded batik stall inside a traditional market in Yogyakarta, Indonesia; Aisyah holds up a blue and white batik shirt, stacks of colorful folded batik cloth around them, a smiling middle-aged female stall seller in hijab behind the counter; no text or signs."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "ما أَجْمَلَ …!",
+              "id": "bagus sekali …!",
+              "emoji": "😍"
+            },
+            {
+              "ar": "قَمِيصٌ",
+              "id": "kemeja",
+              "emoji": "👔",
+              "serapan": "gamis"
+            },
+            {
+              "ar": "باتِيكٌ",
+              "id": "batik",
+              "emoji": "🖌️"
+            },
+            {
+              "ar": "قَمِيصُ باتِيكٍ",
+              "id": "kemeja batik",
+              "emoji": "👔"
+            },
+            {
+              "ar": "لَوْنٌ",
+              "id": "warna",
+              "emoji": "🎨"
+            },
+            {
+              "ar": "أَيَّ لَوْنٍ؟",
+              "id": "warna apa?",
+              "emoji": "🌈"
+            },
+            {
+              "ar": "أَبْيَضُ",
+              "id": "putih",
+              "emoji": "⚪"
+            },
+            {
+              "ar": "قُولِي",
+              "id": "katakanlah (pr)",
+              "emoji": "💬"
+            },
+            {
+              "ar": "لِأَبِي",
+              "id": "untuk ayah saya",
+              "emoji": "🎁"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "ayya-lawn-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَيَّ لَوْنٍ تُرِيدِينَ؟"
+          },
+          "answer": "Kamu mau warna apa? (pr)",
+          "options": [
+            "Kamu mau warna apa? (pr)",
+            "Kamu mau warna apa? (lk)",
+            "Berapa harganya?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "qamis-untuk",
+          "instruction": "Menurut dialog, kemeja batik itu untuk siapa?",
+          "prompt": {
+            "ar": "قَمِيصُ باتِيكٍ لِـ …",
+            "emoji": "👔"
+          },
+          "answer": "Ayah Aisyah",
+          "options": [
+            "Ayah Aisyah",
+            "Aisyah sendiri",
+            "Ayah Siti"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-azraq-abyad",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "يُحِبُّ الأَزْرَقَ وَالأَبْيَضَ."
+          },
+          "answer": "Dia suka biru dan putih.",
+          "options": [
+            "Dia suka biru dan putih.",
+            "Dia suka merah dan putih.",
+            "Dia suka biru dan merah."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "harga-awal",
+          "instruction": "Menurut dialog, berapa harga kemeja itu sebelum ditawar?",
+          "prompt": {
+            "id": "Harga di label"
+          },
+          "answer": "90 ribu",
+          "options": [
+            "90 ribu",
+            "70 ribu",
+            "50 ribu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "tawar-pr",
+          "instruction": "Kamu menawar kepada penjual perempuan. Kamu berkata …",
+          "prompt": {
+            "id": "Tujuh puluh boleh, Bu?",
+            "emoji": "👩"
+          },
+          "answer": "لَوْ سَمَحْتِ، بِسَبْعِينَ؟",
+          "options": [
+            "لَوْ سَمَحْتِ، بِسَبْعِينَ؟",
+            "لَوْ سَمَحْتَ، بِسَبْعِينَ؟",
+            "هٰذا رَخِيصٌ، بِتِسْعِينَ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-qamis-abyad",
+          "prompt": {
+            "id": "Ini kemeja putih."
+          },
+          "answer": "هٰذا قَمِيصٌ أَبْيَضُ",
+          "extra": [
+            "لَوْنٌ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-urid-qamis-batik",
+          "prompt": {
+            "id": "Saya mau kemeja batik."
+          },
+          "answer": "أُرِيدُ قَمِيصَ باتِيكٍ",
+          "extra": [
+            "أَيَّ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "abyad-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَبْيَضُ"
+          },
+          "answer": "putih",
+          "options": [
+            "putih",
+            "biru",
+            "hitam"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-ayya-lawn",
+          "who": "siti",
+          "ar": "أَيَّ لَوْنٍ تُرِيدِينَ؟",
+          "id": "Kamu mau warna apa? (pr)"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-gambar-qamis",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "👔"
+          },
+          "answer": "قَمِيصٌ",
+          "options": [
+            "قَمِيصٌ",
+            "مُعْجَمٌ",
+            "لَوْنٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-ma-ajmala",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "ما أَجْمَلَ الباتِيكَ!"
+          },
+          "answer": "Bagus sekali batiknya!",
+          "options": [
+            "Bagus sekali batiknya!",
+            "Batiknya mahal!",
+            "Batik yang mana?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-tsamanuhu-90",
+          "prompt": {
+            "id": "Harganya sembilan puluh (ribu)."
+          },
+          "answer": "ثَمَنُهُ تِسْعُونَ",
+          "extra": [
+            "تِسْعَةٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-siapa-tawar",
+          "instruction": "Menurut dialog, siapa yang menyuruh Aisyah menawar?",
+          "prompt": {
+            "ar": "هٰذا غالٍ! قُولِي: سَبْعُونَ."
+          },
+          "answer": "Siti",
+          "options": [
+            "Siti",
+            "Penjual",
+            "Ayah Aisyah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-harga-akhir-d2",
+          "instruction": "Menurut dialog, penjual akhirnya memberi harga berapa?",
+          "prompt": {
+            "ar": "لا، بِثَمانِينَ. تَفَضَّلِي!"
+          },
+          "answer": "80 ribu",
+          "options": [
+            "80 ribu",
+            "70 ribu",
+            "90 ribu"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Belanja di pasar tradisional",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Ahad pagi di pasar tradisional dekat rumah di Bandung. Bu Fatimah berbelanja bahan masakan bersama Nur. Nur membaca papan harga di setiap lapak. Penjual ikannya seorang bapak.",
+          "rows": [
+            {
+              "who": "nur",
+              "ar": "يا أُمِّي، ماذا نَشْتَرِي اليَوْمَ؟",
+              "id": "Bu, hari ini kita beli apa?"
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "نَشْتَرِي دَجاجًا وَفُلْفُلًا أَحْمَرَ.",
+              "id": "Kita beli ayam dan cabai merah."
+            },
+            {
+              "who": "nur",
+              "ar": "اُنْظُرِي! الدَّجاجُ بِأَرْبَعِينَ، وَالسَّمَكُ بِثَلاثِينَ.",
+              "id": "Lihat! Ayam empat puluh, ikan tiga puluh (ribu)."
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "السَّمَكُ رَخِيصٌ اليَوْمَ. نَشْتَرِي سَمَكًا.",
+              "id": "Ikan murah hari ini. Kita beli ikan saja."
+            },
+            {
+              "who": "figuran_lk",
+              "label_ar": "البائِعُ",
+              "ar": "تَفَضَّلِي. وَالفُلْفُلُ؟ الأَحْمَرُ أَوِ الأَخْضَرُ؟",
+              "id": "Silakan, Bu. Cabainya? Yang merah atau yang hijau?"
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "الأَحْمَرُ، لَوْ سَمَحْتَ.",
+              "id": "Yang merah, Pak."
+            },
+            {
+              "who": "figuran_lk",
+              "label_ar": "البائِعُ",
+              "ar": "تَفَضَّلِي، وَهٰذا كِيسٌ.",
+              "id": "Silakan, dan ini kantongnya."
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "لا نُرِيدُ كِيسًا، شُكْرًا. عِنْدَنا كِيسٌ.",
+              "id": "Tidak usah kantong plastik, terima kasih. Kami bawa kantong sendiri."
+            },
+            {
+              "who": "nur",
+              "ar": "كِيسُكِ أَخْضَرُ وَجَمِيلٌ يا أُمِّي!",
+              "id": "Kantong Ibu hijau dan bagus!"
+            }
+          ],
+          "img": "u9-pasar-bandung",
+          "scene": "Bu Fatimah, a woman in her forties wearing a hijab, and her daughter Nur, a 9-year-old girl, shopping at a busy traditional wet market in Bandung, Indonesia; Nur points at a fish stall next to a chicken stall, baskets of red and green chilies in front, Bu Fatimah holds her own green reusable shopping bag and politely refuses a plastic bag from a male seller; no text or signs."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "أَشْتَرِي · نَشْتَرِي",
+              "id": "saya membeli · kita membeli",
+              "emoji": "🛒"
+            },
+            {
+              "ar": "اليَوْمَ",
+              "id": "hari ini",
+              "emoji": "📅"
+            },
+            {
+              "ar": "فُلْفُلٌ",
+              "id": "cabai",
+              "emoji": "🌶️"
+            },
+            {
+              "ar": "رَخِيصٌ",
+              "id": "murah",
+              "emoji": "👍"
+            },
+            {
+              "ar": "كِيسٌ",
+              "id": "kantong, tas belanja",
+              "emoji": "🛍️"
+            },
+            {
+              "ar": "أَخْضَرُ",
+              "id": "hijau",
+              "emoji": "🟢"
+            },
+            {
+              "ar": "بِأَرْبَعِينَ",
+              "id": "(seharga) empat puluh",
+              "emoji": "4️⃣"
+            },
+            {
+              "ar": "بِثَلاثِينَ",
+              "id": "(seharga) tiga puluh",
+              "emoji": "3️⃣"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "samak-rakhis-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "السَّمَكُ رَخِيصٌ اليَوْمَ."
+          },
+          "answer": "Ikan murah hari ini.",
+          "options": [
+            "Ikan murah hari ini.",
+            "Ikan mahal hari ini.",
+            "Ayam murah hari ini."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "harga-dajaj",
+          "instruction": "Menurut dialog, berapa harga ayam?",
+          "prompt": {
+            "ar": "الدَّجاجُ بِـ …",
+            "emoji": "🍗"
+          },
+          "answer": "40 ribu",
+          "options": [
+            "40 ribu",
+            "30 ribu",
+            "70 ribu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "akhirnya-beli",
+          "instruction": "Menurut dialog, apa yang akhirnya dibeli Bu Fatimah?",
+          "prompt": {
+            "id": "Bu Fatimah membeli …",
+            "emoji": "🛒"
+          },
+          "answer": "Ikan dan cabai merah",
+          "options": [
+            "Ikan dan cabai merah",
+            "Ayam dan cabai merah",
+            "Ikan dan cabai hijau"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kenapa-tanpa-kis",
+          "instruction": "Kenapa Bu Fatimah tidak mau kantong plastik?",
+          "prompt": {
+            "ar": "لا نُرِيدُ كِيسًا. عِنْدَنا كِيسٌ."
+          },
+          "answer": "Dia sudah membawa kantong sendiri.",
+          "options": [
+            "Dia sudah membawa kantong sendiri.",
+            "Kantongnya mahal.",
+            "Kantongnya kecil."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-ahmar-akhdar",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "الأَحْمَرُ أَوِ الأَخْضَرُ؟"
+          },
+          "answer": "Yang merah atau yang hijau?",
+          "options": [
+            "Yang merah atau yang hijau?",
+            "Yang merah atau yang biru?",
+            "Yang putih atau yang hijau?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-madza-nasytari",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "ماذا نَشْتَرِي اليَوْمَ؟"
+          },
+          "answer": "نَشْتَرِي سَمَكًا.",
+          "options": [
+            "نَشْتَرِي سَمَكًا.",
+            "بِثَلاثِينَ.",
+            "كِيسُكِ أَخْضَرُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-nasytari-samak",
+          "prompt": {
+            "id": "Kita membeli ikan."
+          },
+          "answer": "نَشْتَرِي سَمَكًا",
+          "extra": [
+            "سَمَكٌ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-la-nurid-kis",
+          "prompt": {
+            "id": "Kami tidak mau kantong."
+          },
+          "answer": "لا نُرِيدُ كِيسًا",
+          "extra": [
+            "كِيسٌ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-fulful-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "فُلْفُلٌ"
+          },
+          "answer": "cabai",
+          "options": [
+            "cabai",
+            "ikan",
+            "pisang"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-akhdar-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَخْضَرُ"
+          },
+          "answer": "hijau",
+          "options": [
+            "hijau",
+            "merah",
+            "kuning"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-samak-30",
+          "prompt": {
+            "id": "Ikan tiga puluh (ribu)."
+          },
+          "answer": "السَّمَكُ بِثَلاثِينَ",
+          "extra": [
+            "ثَلاثَةٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-siapa-baca-harga",
+          "instruction": "Menurut dialog, siapa yang membaca papan harga?",
+          "prompt": {
+            "ar": "اُنْظُرِي! الدَّجاجُ بِأَرْبَعِينَ."
+          },
+          "answer": "Nur",
+          "options": [
+            "Nur",
+            "Bu Fatimah",
+            "Penjual"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & puluhan 20–90",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Pasar, harga, dan barang",
+          "rows": [
+            {
+              "ar": "سُوقٌ",
+              "id": "pasar",
+              "emoji": "🏬"
+            },
+            {
+              "ar": "دُكّانٌ",
+              "id": "toko, lapak",
+              "emoji": "🏪"
+            },
+            {
+              "ar": "ثَمَنٌ",
+              "id": "harga",
+              "emoji": "🏷️"
+            },
+            {
+              "ar": "رُوبِيَّةٌ",
+              "id": "rupiah",
+              "emoji": "💵"
+            },
+            {
+              "ar": "رَخِيصٌ",
+              "id": "murah",
+              "emoji": "👍"
+            },
+            {
+              "ar": "غالٍ",
+              "id": "mahal",
+              "emoji": "💸"
+            },
+            {
+              "ar": "قَمِيصٌ",
+              "id": "kemeja",
+              "emoji": "👔",
+              "serapan": "gamis"
+            },
+            {
+              "ar": "باتِيكٌ",
+              "id": "batik",
+              "emoji": "🖌️"
+            },
+            {
+              "ar": "كِيسٌ",
+              "id": "kantong",
+              "emoji": "🛍️"
+            },
+            {
+              "ar": "مُعْجَمٌ",
+              "id": "kamus",
+              "emoji": "📖"
+            },
+            {
+              "ar": "دَفْتَرٌ",
+              "id": "buku tulis",
+              "emoji": "📒",
+              "serapan": "daftar"
+            },
+            {
+              "ar": "قَلَمٌ",
+              "id": "pena",
+              "emoji": "🖊️",
+              "serapan": "kalam"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Warna",
+          "note_id": "Semua warna ini berpola أَفْعَلُ dan tidak bertanwin: قَمِيصٌ أَبْيَضُ (kemeja putih). Bentuk perempuannya dipelajari di Unit 11.",
+          "rows": [
+            {
+              "ar": "لَوْنٌ",
+              "id": "warna",
+              "emoji": "🎨"
+            },
+            {
+              "ar": "أَبْيَضُ",
+              "id": "putih",
+              "emoji": "⚪"
+            },
+            {
+              "ar": "أَسْوَدُ",
+              "id": "hitam",
+              "emoji": "⚫"
+            },
+            {
+              "ar": "أَحْمَرُ",
+              "id": "merah",
+              "emoji": "🔴"
+            },
+            {
+              "ar": "أَخْضَرُ",
+              "id": "hijau",
+              "emoji": "🟢"
+            },
+            {
+              "ar": "أَزْرَقُ",
+              "id": "biru",
+              "emoji": "🔵"
+            },
+            {
+              "ar": "أَصْفَرُ",
+              "id": "kuning",
+              "emoji": "🟡"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Puluhan 20–90",
+          "note_id": "Puluhan berakhiran ـُونَ (-ūna). Sesudah بِـ atau sebagai objek, akhirannya menjadi ـِينَ (-īna): بِعِشْرِينَ.",
+          "rows": [
+            {
+              "ar": "عِشْرُونَ",
+              "id": "dua puluh (20)"
+            },
+            {
+              "ar": "ثَلاثُونَ",
+              "id": "tiga puluh (30)"
+            },
+            {
+              "ar": "أَرْبَعُونَ",
+              "id": "empat puluh (40)"
+            },
+            {
+              "ar": "خَمْسُونَ",
+              "id": "lima puluh (50)"
+            },
+            {
+              "ar": "سِتُّونَ",
+              "id": "enam puluh (60)"
+            },
+            {
+              "ar": "سَبْعُونَ",
+              "id": "tujuh puluh (70)"
+            },
+            {
+              "ar": "ثَمانُونَ",
+              "id": "delapan puluh (80)"
+            },
+            {
+              "ar": "تِسْعُونَ",
+              "id": "sembilan puluh (90)"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "warna-merah",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🔴"
+          },
+          "answer": "أَحْمَرُ",
+          "options": [
+            "أَحْمَرُ",
+            "أَخْضَرُ",
+            "أَصْفَرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-30",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "ثَلاثُونَ"
+          },
+          "answer": "30",
+          "options": [
+            "30",
+            "3",
+            "40"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "rakhis-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "رَخِيصٌ"
+          },
+          "answer": "murah",
+          "options": [
+            "murah",
+            "mahal",
+            "harga"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "hitung-20-20",
+          "instruction": "Berapa hasilnya?",
+          "prompt": {
+            "ar": "عِشْرُونَ + عِشْرُونَ = ؟"
+          },
+          "answer": "أَرْبَعُونَ",
+          "options": [
+            "أَرْبَعُونَ",
+            "ثَلاثُونَ",
+            "أَرْبَعَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "mata-uang",
+          "instruction": "Mata uang Indonesia dalam bahasa Arab adalah …",
+          "prompt": {
+            "id": "mata uang Indonesia",
+            "emoji": "💵"
+          },
+          "answer": "رُوبِيَّةٌ",
+          "options": [
+            "رُوبِيَّةٌ",
+            "ثَمَنٌ",
+            "دُكّانٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-azraq",
+          "instruction": "Dengarkan. Warna apa?",
+          "prompt": {
+            "listen": "أَزْرَقُ"
+          },
+          "answer": "biru",
+          "options": [
+            "biru",
+            "hijau",
+            "kuning"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-kis",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🛍️"
+          },
+          "answer": "كِيسٌ",
+          "options": [
+            "كِيسٌ",
+            "قَمِيصٌ",
+            "مُعْجَمٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "angka-60",
+          "instruction": "Angka berapa ini dalam bahasa Arab?",
+          "prompt": {
+            "id": "60"
+          },
+          "answer": "سِتُّونَ",
+          "options": [
+            "سِتُّونَ",
+            "سِتَّةٌ",
+            "سَبْعُونَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lawan-ghalin",
+          "instruction": "Lawan kata غالٍ (mahal) adalah …",
+          "prompt": {
+            "ar": "غالٍ"
+          },
+          "answer": "رَخِيصٌ",
+          "options": [
+            "رَخِيصٌ",
+            "كَبِيرٌ",
+            "جَمِيلٌ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-angka-80",
+          "instruction": "Angka berapa ini dalam bahasa Arab?",
+          "prompt": {
+            "id": "80"
+          },
+          "answer": "ثَمانُونَ",
+          "options": [
+            "ثَمانُونَ",
+            "ثَمانِيَةٌ",
+            "تِسْعُونَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-90",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "تِسْعُونَ"
+          },
+          "answer": "90",
+          "options": [
+            "90",
+            "9",
+            "70"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-aswad-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَسْوَدُ"
+          },
+          "answer": "hitam",
+          "options": [
+            "hitam",
+            "putih",
+            "biru"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-warna-kuning",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🟡"
+          },
+          "answer": "أَصْفَرُ",
+          "options": [
+            "أَصْفَرُ",
+            "أَبْيَضُ",
+            "أَحْمَرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-hitung-50-10",
+          "instruction": "Berapa hasilnya?",
+          "prompt": {
+            "ar": "خَمْسُونَ + عَشَرَةٌ = ؟"
+          },
+          "answer": "سِتُّونَ",
+          "options": [
+            "سِتُّونَ",
+            "خَمْسُونَ",
+            "سِتَّةٌ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Bertanya harga dan memilih",
+          "groups": [
+            {
+              "title_ar": "بِكَمْ …؟ ← بِـ + ـِينَ",
+              "note_id": "بِكَمْ = berapa harganya. Jawaban dengan بِـ memakai akhiran ـِينَ: بِخَمْسِينَ. Tanpa بِـ akhirannya ـُونَ: ثَمَنُهُ خَمْسُونَ. Di pasar Indonesia orang biasa menyebut \"lima puluh\" untuk lima puluh ribu; kata \"ribu\" (أَلْفٌ) dipelajari di Unit 15.",
+              "rows": [
+                {
+                  "ar": "بِكَمْ هٰذا القَمِيصُ؟",
+                  "id": "Berapa harga kemeja ini?"
+                },
+                {
+                  "ar": "بِخَمْسِينَ.",
+                  "id": "Lima puluh (ribu)."
+                },
+                {
+                  "ar": "ثَمَنُهُ خَمْسُونَ.",
+                  "id": "Harganya lima puluh (ribu)."
+                }
+              ]
+            },
+            {
+              "title_ar": "أَيُّ · أَيَّ · أَيِّ + ـٍ",
+              "note_id": "Kata sesudah أَيّ (yang mana / apa) berbentuk tunggal, tanpa ال, berakhiran ـٍ. Akhiran أَيّ sendiri mengikuti posisinya: ـُ di awal kalimat, ـَ sebagai objek, ـِ sesudah kata depan.",
+              "rows": [
+                {
+                  "ar": "أَيُّ كِتابٍ هٰذا؟",
+                  "id": "Buku apa ini?"
+                },
+                {
+                  "ar": "أَيَّ لَوْنٍ تُرِيدُ؟",
+                  "id": "Kamu mau warna apa? (lk)"
+                },
+                {
+                  "ar": "فِي أَيِّ دُكّانٍ؟",
+                  "id": "Di toko yang mana?"
+                }
+              ]
+            },
+            {
+              "title_ar": "لَوْ سَمَحْتَ · لَوْ سَمَحْتِ",
+              "note_id": "Meminta dengan sopan, seperti \"permisi\" atau \"tolong\". ـتَ kepada laki-laki, ـتِ kepada perempuan.",
+              "rows": [
+                {
+                  "ar": "لَوْ سَمَحْتَ، بِكَمْ هٰذا؟",
+                  "id": "Permisi, ini berapa? (kepada lk)"
+                },
+                {
+                  "ar": "لَوْ سَمَحْتِ، أُرِيدُ كِيسًا.",
+                  "id": "Tolong, saya mau kantong. (kepada pr)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Menjelaskan benda dan tempatnya",
+          "groups": [
+            {
+              "title_ar": "هٰذا + benda + sifat / pemilik",
+              "note_id": "Sifat mengikuti bendanya: tak tentu dengan tak tentu (قَمِيصٌ أَبْيَضُ), ber-ال dengan ber-ال (القَمِيصُ الأَبْيَضُ). Untuk pemilik, kata pertama tanpa ال dan tanpa tanwin: قَمِيصُ أَبِي.",
+              "rows": [
+                {
+                  "ar": "هٰذا قَمِيصٌ أَبْيَضُ.",
+                  "id": "Ini kemeja putih."
+                },
+                {
+                  "ar": "هٰذا القَمِيصُ الأَبْيَضُ جَمِيلٌ.",
+                  "id": "Kemeja putih ini bagus."
+                },
+                {
+                  "ar": "هٰذا قَمِيصُ باتِيكٍ.",
+                  "id": "Ini kemeja batik."
+                },
+                {
+                  "ar": "هٰذا قَمِيصُ أَبِي.",
+                  "id": "Ini kemeja ayah saya."
+                }
+              ]
+            },
+            {
+              "title_ar": "المُبْتَدَأُ + فِي / هُنا / هُناكَ",
+              "note_id": "Untuk menyebut letak, cukup benda + keterangan tempat. Bila bendanya tak tentu (bertanwin), keterangan tempat didahulukan: فِي السُّوقِ باتِيكٌ.",
+              "rows": [
+                {
+                  "ar": "الدَّفْتَرُ فِي الكِيسِ.",
+                  "id": "Buku tulisnya di dalam kantong."
+                },
+                {
+                  "ar": "السَّمَكُ الرَّخِيصُ هُناكَ.",
+                  "id": "Ikan yang murah ada di sana."
+                },
+                {
+                  "ar": "فِي السُّوقِ باتِيكٌ كَثِيرٌ.",
+                  "id": "Di pasar ada banyak batik."
+                }
+              ]
+            },
+            {
+              "title_ar": "عِشْرُونَ طالِبًا",
+              "note_id": "Sesudah puluhan, benda yang dihitung berbentuk tunggal dan berakhiran ـًا. Angkanya sama untuk laki-laki dan perempuan.",
+              "rows": [
+                {
+                  "ar": "فِي الفَصْلِ عِشْرُونَ طالِبًا.",
+                  "id": "Di kelas ada dua puluh pelajar (lk)."
+                },
+                {
+                  "ar": "فِي الدُّكّانِ ثَلاثُونَ قَمِيصًا.",
+                  "id": "Di toko ada tiga puluh kemeja."
+                },
+                {
+                  "ar": "فِي المَعْهَدِ أَرْبَعُونَ طالِبَةً.",
+                  "id": "Di ma'had ada empat puluh pelajar (pr)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "isi-azraq",
+          "instruction": "Lengkapi: Ini kemeja biru.",
+          "prompt": {
+            "ar": "هٰذا قَمِيصٌ …",
+            "emoji": "🔵"
+          },
+          "answer": "أَزْرَقُ",
+          "options": [
+            "أَزْرَقُ",
+            "أَزْرَقٌ",
+            "الأَزْرَقُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tanya-harga-pr",
+          "instruction": "Kamu bertanya harga kepada penjual perempuan. Pilih kalimatnya",
+          "prompt": {
+            "id": "Permisi, ini berapa?",
+            "emoji": "👩"
+          },
+          "answer": "لَوْ سَمَحْتِ، بِكَمْ هٰذا؟",
+          "options": [
+            "لَوْ سَمَحْتِ، بِكَمْ هٰذا؟",
+            "لَوْ سَمَحْتَ، بِكَمْ هٰذا؟",
+            "لَوْ سَمَحْتِ، أَيَّ لَوْنٍ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-biisyrina",
+          "instruction": "Jawab: kantong ini harganya dua puluh (ribu).",
+          "prompt": {
+            "ar": "بِكَمْ هٰذا الكِيسُ؟"
+          },
+          "answer": "بِعِشْرِينَ.",
+          "options": [
+            "بِعِشْرِينَ.",
+            "بِعِشْرُونَ.",
+            "بِاثْنَيْنِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-ayya-lawn",
+          "instruction": "Lengkapi: Kamu mau warna apa?",
+          "prompt": {
+            "ar": "أَيَّ … تُرِيدُ؟"
+          },
+          "answer": "لَوْنٍ",
+          "options": [
+            "لَوْنٍ",
+            "لَوْنٌ",
+            "اللَّوْنَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-tamyiz",
+          "instruction": "Lengkapi: Di kelas ada dua puluh pelajar.",
+          "prompt": {
+            "ar": "فِي الفَصْلِ عِشْرُونَ …"
+          },
+          "answer": "طالِبًا",
+          "options": [
+            "طالِبًا",
+            "طالِبٌ",
+            "طالِبٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "pilih-kis-aswad",
+          "instruction": "Pilih kalimat yang benar: \"Kantong hitam ini murah.\"",
+          "prompt": {
+            "id": "Kantong hitam ini murah.",
+            "emoji": "🛍️"
+          },
+          "answer": "هٰذا الكِيسُ الأَسْوَدُ رَخِيصٌ.",
+          "options": [
+            "هٰذا الكِيسُ الأَسْوَدُ رَخِيصٌ.",
+            "هٰذا كِيسٌ الأَسْوَدُ رَخِيصٌ.",
+            "هٰذا الكِيسُ الأَسْوَدَ رَخِيصٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-qamis-abyad-jamil",
+          "prompt": {
+            "id": "Kemeja putih ini bagus."
+          },
+          "answer": "هٰذا القَمِيصُ الأَبْيَضُ جَمِيلٌ",
+          "extra": [
+            "أَبْيَضُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-fis-suq-batik",
+          "prompt": {
+            "id": "Di pasar ada banyak batik."
+          },
+          "answer": "فِي السُّوقِ باتِيكٌ كَثِيرٌ",
+          "extra": [
+            "هٰذا"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-qamis-abi",
+          "prompt": {
+            "id": "Ini kemeja ayah saya."
+          },
+          "answer": "هٰذا قَمِيصُ أَبِي",
+          "extra": [
+            "قَمِيصٌ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-isi-asfar",
+          "instruction": "Lengkapi: Ini buku tulis kuning.",
+          "prompt": {
+            "ar": "هٰذا دَفْتَرٌ …",
+            "emoji": "🟡"
+          },
+          "answer": "أَصْفَرُ",
+          "options": [
+            "أَصْفَرُ",
+            "أَصْفَرٌ",
+            "الأَصْفَرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-tanya-harga-lk",
+          "instruction": "Kamu bertanya harga kepada penjual laki-laki. Pilih kalimatnya",
+          "prompt": {
+            "id": "Permisi, kemeja ini berapa?",
+            "emoji": "🧔"
+          },
+          "answer": "لَوْ سَمَحْتَ، بِكَمْ هٰذا القَمِيصُ؟",
+          "options": [
+            "لَوْ سَمَحْتَ، بِكَمْ هٰذا القَمِيصُ؟",
+            "لَوْ سَمَحْتِ، بِكَمْ هٰذا القَمِيصُ؟",
+            "لَوْ سَمَحْتَ، أَيُّ قَمِيصٍ هٰذا؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-bikam-mujam",
+          "prompt": {
+            "id": "Berapa harga kamus ini?"
+          },
+          "answer": "بِكَمْ هٰذا المُعْجَمُ",
+          "extra": [
+            "أَيُّ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-daftar-fil-kis",
+          "prompt": {
+            "id": "Buku tulisnya di dalam kantong."
+          },
+          "answer": "الدَّفْتَرُ فِي الكِيسِ",
+          "extra": [
+            "دَفْتَرٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-isi-tamyiz-qamis",
+          "instruction": "Lengkapi: Di toko ada lima puluh kemeja.",
+          "prompt": {
+            "ar": "فِي الدُّكّانِ خَمْسُونَ …"
+          },
+          "answer": "قَمِيصًا",
+          "options": [
+            "قَمِيصًا",
+            "قَمِيصٌ",
+            "قَمِيصٍ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ظ, ز, dan ذ, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ظ, ز, dan ذ",
+          "note_id": "ذ (dzal): ujung lidah di antara gigi atas dan bawah, seperti \"th\" pada kata Inggris \"this\". ظ (zha): posisi lidahnya sama dengan ذ, tetapi suaranya tebal dan berat karena pangkal lidah terangkat. ز (zai): seperti \"z\" biasa, lidah di belakang gigi. Pelajar Indonesia sering mengucapkan ketiganya sebagai \"z\", padahal artinya berubah: ظَهْرٌ = punggung, زَهْرٌ = bunga; نَظَرَ = melihat, نَذَرَ = bernazar; نَظِيفٌ = bersih, نَزِيفٌ = pendarahan; ظِلٌّ = naungan, ذِلٌّ = kehinaan. Kata yang sudah kamu kenal: الظُّهْرُ (zuhur), اُنْظُرِي (lihatlah).",
+          "pairs": [
+            [
+              "ظَهْرٌ",
+              "زَهْرٌ"
+            ],
+            [
+              "نَظَرَ",
+              "نَذَرَ"
+            ],
+            [
+              "نَظِيفٌ",
+              "نَزِيفٌ"
+            ],
+            [
+              "ظِلٌّ",
+              "ذِلٌّ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-zhahr",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "ظَهْرٌ"
+          },
+          "answer": "ظَهْرٌ",
+          "options": [
+            "ظَهْرٌ",
+            "زَهْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-nadzara",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "نَذَرَ"
+          },
+          "answer": "نَذَرَ",
+          "options": [
+            "نَذَرَ",
+            "نَظَرَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-nazif",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "نَظِيفٌ"
+          },
+          "answer": "نَظِيفٌ",
+          "options": [
+            "نَظِيفٌ",
+            "نَزِيفٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-dzill",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "ذِلٌّ"
+          },
+          "answer": "ذِلٌّ",
+          "options": [
+            "ذِلٌّ",
+            "ظِلٌّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "cari-zha",
+          "instruction": "Kata mana yang memuat huruf ظ?",
+          "prompt": {
+            "id": "Cari huruf zha (ظ)"
+          },
+          "answer": "اُنْظُرِي",
+          "options": [
+            "اُنْظُرِي",
+            "أَزْرَقُ",
+            "هٰذا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-zhahr",
+          "ar": "ظَهْرٌ",
+          "id": "punggung"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-nazhara",
+          "ar": "نَظَرَ",
+          "id": "dia (lk) melihat"
+        },
+        {
+          "q": "choice",
+          "k": "simak-qamis-asfar",
+          "instruction": "Dengarkan. Berapa harga kemeja kuning?",
+          "prompt": {
+            "listen": "بِكَمْ هٰذا القَمِيصُ الأَصْفَرُ؟ بِسِتِّينَ."
+          },
+          "answer": "60 ribu",
+          "options": [
+            "60 ribu",
+            "70 ribu",
+            "90 ribu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-kis-abyad",
+          "instruction": "Dengarkan. Apa yang dia minta?",
+          "prompt": {
+            "listen": "أُرِيدُ كِيسًا أَبْيَضَ، لَوْ سَمَحْتِ."
+          },
+          "answer": "Kantong putih",
+          "options": [
+            "Kantong putih",
+            "Kantong hitam",
+            "Kemeja putih"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-zahr",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "زَهْرٌ"
+          },
+          "answer": "زَهْرٌ",
+          "options": [
+            "زَهْرٌ",
+            "ظَهْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-nazhara",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "نَظَرَ"
+          },
+          "answer": "نَظَرَ",
+          "options": [
+            "نَظَرَ",
+            "نَذَرَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-zhill",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "ظِلٌّ"
+          },
+          "answer": "ظِلٌّ",
+          "options": [
+            "ظِلٌّ",
+            "ذِلٌّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-daftar-ahmar",
+          "instruction": "Dengarkan. Apa yang harganya tiga puluh (ribu)?",
+          "prompt": {
+            "listen": "الدَّفْتَرُ الأَحْمَرُ بِثَلاثِينَ."
+          },
+          "answer": "Buku tulis merah",
+          "options": [
+            "Buku tulis merah",
+            "Buku tulis biru",
+            "Kamus merah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-naziif",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "نَزِيفٌ"
+          },
+          "answer": "نَزِيفٌ",
+          "options": [
+            "نَزِيفٌ",
+            "نَظِيفٌ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara: menjual dan membeli",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Ungkapan di toko",
+          "rows": [
+            {
+              "ar": "أَهْلًا وَسَهْلًا، تَفَضَّلْ!",
+              "id": "Selamat datang, silakan! (kepada pembeli lk)",
+              "emoji": "🤝"
+            },
+            {
+              "ar": "تَفَضَّلِي!",
+              "id": "Silakan! (kepada pembeli pr)",
+              "emoji": "🙌"
+            },
+            {
+              "ar": "بِكَمْ هٰذا؟",
+              "id": "Ini berapa harganya?",
+              "emoji": "🏷️"
+            },
+            {
+              "ar": "هٰذا غالٍ!",
+              "id": "Ini mahal!",
+              "emoji": "💸"
+            },
+            {
+              "ar": "هٰذا رَخِيصٌ.",
+              "id": "Ini murah.",
+              "emoji": "👍"
+            },
+            {
+              "ar": "أُرِيدُ هٰذا.",
+              "id": "Saya mau yang ini.",
+              "emoji": "👉"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "minta-daftar",
+          "instruction": "Kamu pembeli di koperasi. Minta buku tulis dengan sopan, lalu tanyakan harganya",
+          "prompt": {
+            "id": "Penjualnya laki-laki: pakai لَوْ سَمَحْتَ."
+          },
+          "model": [
+            {
+              "who": "budi",
+              "ar": "لَوْ سَمَحْتَ، أُرِيدُ دَفْتَرًا.",
+              "id": "Tolong, saya mau buku tulis."
+            },
+            {
+              "who": "budi",
+              "ar": "بِكَمْ هٰذا الدَّفْتَرُ؟",
+              "id": "Berapa harga buku tulis ini?"
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-law-samahti",
+          "who": "aisyah",
+          "ar": "لَوْ سَمَحْتِ.",
+          "id": "Permisi / tolong. (kepada pr)"
+        },
+        {
+          "q": "choice",
+          "k": "sambut-pembeli",
+          "instruction": "Seorang pembeli laki-laki masuk ke tokomu. Kamu mengucapkan …",
+          "prompt": {
+            "id": "Menyambut pembeli",
+            "emoji": "🏪"
+          },
+          "answer": "أَهْلًا وَسَهْلًا، تَفَضَّلْ!",
+          "options": [
+            "أَهْلًا وَسَهْلًا، تَفَضَّلْ!",
+            "مَعَ السَّلامَةِ!",
+            "هٰذا غالٍ!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "jadi-penjual",
+          "instruction": "Kamu penjual. Sambut pembeli perempuan dan tanyakan warna yang dia mau",
+          "prompt": {
+            "id": "Pembelinya perempuan: pakai تَفَضَّلِي dan تُرِيدِينَ."
+          },
+          "model": [
+            {
+              "who": "yusuf",
+              "ar": "أَهْلًا وَسَهْلًا، تَفَضَّلِي!",
+              "id": "Selamat datang, silakan! (pr)"
+            },
+            {
+              "who": "yusuf",
+              "ar": "أَيَّ لَوْنٍ تُرِيدِينَ؟",
+              "id": "Mau warna apa? (pr)"
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-hadza-ghalin",
+          "who": "aisyah",
+          "ar": "هٰذا غالٍ!",
+          "id": "Ini mahal!"
+        },
+        {
+          "q": "choice",
+          "k": "menawar",
+          "instruction": "Harganya sembilan puluh, menurutmu terlalu mahal. Kamu berkata kepada penjual (lk) …",
+          "prompt": {
+            "id": "Menawar harga",
+            "emoji": "🤝"
+          },
+          "answer": "هٰذا غالٍ! بِسَبْعِينَ؟",
+          "options": [
+            "هٰذا غالٍ! بِسَبْعِينَ؟",
+            "هٰذا رَخِيصٌ! بِتِسْعِينَ؟",
+            "أَيَّ لَوْنٍ تُرِيدُ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jawab-warna",
+          "instruction": "Penjual bertanya kepadamu. Jawaban yang tepat?",
+          "prompt": {
+            "ar": "أَيَّ لَوْنٍ تُرِيدُ؟"
+          },
+          "answer": "أُرِيدُ الأَسْوَدَ.",
+          "options": [
+            "أُرِيدُ الأَسْوَدَ.",
+            "بِعِشْرِينَ.",
+            "أُرِيدُ دَفْتَرًا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "cerita-gambar-toko",
+          "instruction": "Lihat gambar. Ceritakan: ada apa di toko itu, apa warnanya, dan berapa harganya",
+          "prompt": {
+            "id": "Pakai: فِي الدُّكّانِ …، هٰذا قَمِيصٌ …، بِـ …",
+            "img": "u9-kalam-toko",
+            "scene": "Inside a small clothing stall at a traditional market in Indonesia: a red shirt and a white shirt hang at the front with small blank price tags, other shirts in green, blue and yellow on a rack; Rizki stands in front looking at the red shirt; no text or numbers."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "هٰذا دُكّانٌ فِي السُّوقِ.",
+              "id": "Ini sebuah toko di pasar."
+            },
+            {
+              "who": "rizki",
+              "ar": "فِي الدُّكّانِ قَمِيصٌ أَحْمَرُ وَقَمِيصٌ أَبْيَضُ.",
+              "id": "Di toko itu ada kemeja merah dan kemeja putih."
+            },
+            {
+              "who": "rizki",
+              "ar": "القَمِيصُ الأَحْمَرُ بِخَمْسِينَ.",
+              "id": "Kemeja merah itu lima puluh (ribu)."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-uridu-hadza",
+          "who": "rizki",
+          "ar": "أُرِيدُ هٰذا.",
+          "id": "Saya mau yang ini."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tafaddali",
+          "instruction": "Pembelinya perempuan. Kamu mempersilakan dia dengan …",
+          "prompt": {
+            "id": "Silakan! (pr)",
+            "emoji": "👩"
+          },
+          "answer": "تَفَضَّلِي!",
+          "options": [
+            "تَفَضَّلِي!",
+            "تَفَضَّلْ!",
+            "قُولِي!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-hadza-rakhis",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هٰذا رَخِيصٌ."
+          },
+          "answer": "Ini murah.",
+          "options": [
+            "Ini murah.",
+            "Ini mahal.",
+            "Saya mau yang ini."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-bikam",
+          "instruction": "Pembeli bertanya kepadamu. Jawaban yang tepat?",
+          "prompt": {
+            "ar": "بِكَمْ هٰذا الكِيسُ؟"
+          },
+          "answer": "بِعَشَرَةٍ.",
+          "options": [
+            "بِعَشَرَةٍ.",
+            "أُرِيدُ هٰذا.",
+            "الكِيسُ أَسْوَدُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-ahlan-tafaddal",
+          "prompt": {
+            "id": "Selamat datang, silakan! (lk)"
+          },
+          "answer": "أَهْلًا وَسَهْلًا تَفَضَّلْ",
+          "extra": [
+            "تَفَضَّلِي"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca: batik dan struk belanja",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Batik untuk ayah Aisyah",
+          "instruction_id": "Baca pelan-pelan. Kata baru: تَقُولُ / يَقُولُ = dia (pr/lk) berkata; تَشْتَرِي = dia (pr) membeli.",
+          "rows": [
+            {
+              "ar": "يَوْمَ الأَحَدِ، سِيتِي وَعائِشَةُ فِي سُوقِ بِيرِينْغْهارْجُو.",
+              "id": "Hari Ahad, Siti dan Aisyah ada di Pasar Beringharjo."
+            },
+            {
+              "ar": "عائِشَةُ تُرِيدُ قَمِيصَ باتِيكٍ لِأَبِيها.",
+              "id": "Aisyah ingin kemeja batik untuk ayahnya."
+            },
+            {
+              "ar": "أَبُوها يُحِبُّ اللَّوْنَ الأَزْرَقَ.",
+              "id": "Ayahnya suka warna biru."
+            },
+            {
+              "ar": "ثَمَنُ القَمِيصِ الأَزْرَقِ تِسْعُونَ، وَهٰذا غالٍ.",
+              "id": "Harga kemeja biru itu sembilan puluh (ribu), dan itu mahal."
+            },
+            {
+              "ar": "أُمُّ سِيتِي تاجِرَةُ قُماشٍ فِي مِيدان.",
+              "id": "Ibu Siti pedagang kain di Medan."
+            },
+            {
+              "ar": "عائِشَةُ تَقُولُ لِلتّاجِرَةِ: بِسَبْعِينَ، لَوْ سَمَحْتِ؟",
+              "id": "Aisyah berkata kepada penjual: Tujuh puluh, boleh?"
+            },
+            {
+              "ar": "التّاجِرَةُ تَقُولُ: لا، بِثَمانِينَ.",
+              "id": "Penjual berkata: Tidak bisa, delapan puluh."
+            },
+            {
+              "ar": "عائِشَةُ تَشْتَرِي القَمِيصَ بِثَمانِينَ.",
+              "id": "Aisyah membeli kemeja itu seharga delapan puluh (ribu)."
+            }
+          ],
+          "img": "u9-baca-batik",
+          "scene": "Aisyah happily receives a folded blue and white batik shirt from a smiling middle-aged female batik seller in hijab at her stall in a traditional market in Yogyakarta, Indonesia, while Siti stands beside her and smiles; stacks of colorful batik cloth around; no text or signs."
+        },
+        {
+          "q": "choice",
+          "k": "baca-untuk-ayah",
+          "instruction": "Benar atau salah? \"Aisyah ingin kemeja untuk ayahnya.\"",
+          "prompt": {
+            "ar": "عائِشَةُ تُرِيدُ قَمِيصًا لِأَبِيها."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-warna-ayah",
+          "instruction": "Menurut bacaan 1, ayah Aisyah suka warna apa?",
+          "prompt": {
+            "id": "أَبُوها يُحِبُّ اللَّوْنَ …"
+          },
+          "answer": "Biru",
+          "options": [
+            "Biru",
+            "Hijau",
+            "Hitam"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-harga-akhir",
+          "instruction": "Menurut bacaan 1, Aisyah membeli kemeja itu seharga …",
+          "prompt": {
+            "id": "Harga setelah menawar"
+          },
+          "answer": "80 ribu",
+          "options": [
+            "80 ribu",
+            "90 ribu",
+            "70 ribu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-qamis-rakhis",
+          "instruction": "Benar atau salah? \"Harga awal kemeja biru itu murah.\"",
+          "prompt": {
+            "ar": "ثَمَنُ القَمِيصِ الأَزْرَقِ رَخِيصٌ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Struk koperasi",
+          "instruction_id": "Ini struk belanja Budi dari koperasi ma'had. Harga dalam ribu rupiah. Kata baru: البائِعُ = penjual; المُشْتَرِي = pembeli; المَجْمُوعُ = jumlah.",
+          "rows": [
+            {
+              "ar": "دُكّانُ مَعْهَدِ الهُدَى",
+              "id": "Koperasi Ma'had al-Huda"
+            },
+            {
+              "ar": "اليَوْمُ: يَوْمُ الثُّلاثاءِ",
+              "id": "Hari: Selasa"
+            },
+            {
+              "ar": "البائِعُ: يُوسُفُ",
+              "id": "Penjual: Yusuf"
+            },
+            {
+              "ar": "المُشْتَرِي: بُودِي",
+              "id": "Pembeli: Budi"
+            },
+            {
+              "ar": "دَفْتَرٌ أَزْرَقُ: عِشْرُونَ",
+              "id": "Buku tulis biru: 20"
+            },
+            {
+              "ar": "مُعْجَمٌ صَغِيرٌ: خَمْسُونَ",
+              "id": "Kamus kecil: 50"
+            },
+            {
+              "ar": "المَجْمُوعُ: سَبْعُونَ",
+              "id": "Jumlah: 70"
+            },
+            {
+              "ar": "شُكْرًا، مَعَ السَّلامَةِ!",
+              "id": "Terima kasih, sampai jumpa!"
+            }
+          ],
+          "img": "u9-struk",
+          "scene": "A small paper shop receipt with only blank lines, lying on a wooden counter of a student cooperative shop in Yogyakarta, Indonesia, next to a blue notebook and a small dictionary; Budi's hand reaches for the notebook; no readable text or numbers."
+        },
+        {
+          "q": "choice",
+          "k": "struk-pembeli",
+          "instruction": "Menurut struk, siapa pembelinya?",
+          "prompt": {
+            "ar": "المُشْتَرِي: …"
+          },
+          "answer": "Budi",
+          "options": [
+            "Budi",
+            "Yusuf",
+            "Rizki"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "struk-harga-mujam",
+          "instruction": "Menurut struk, berapa harga kamus kecil?",
+          "prompt": {
+            "ar": "مُعْجَمٌ صَغِيرٌ: …",
+            "emoji": "📖"
+          },
+          "answer": "50 ribu",
+          "options": [
+            "50 ribu",
+            "20 ribu",
+            "70 ribu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "struk-warna-daftar",
+          "instruction": "Menurut struk, apa warna buku tulisnya?",
+          "prompt": {
+            "id": "دَفْتَرٌ …",
+            "emoji": "📒"
+          },
+          "answer": "أَزْرَقُ",
+          "options": [
+            "أَزْرَقُ",
+            "أَحْمَرُ",
+            "أَصْفَرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "struk-majmu",
+          "instruction": "Menurut struk, berapa jumlah belanja Budi?",
+          "prompt": {
+            "ar": "المَجْمُوعُ: …"
+          },
+          "answer": "سَبْعُونَ",
+          "options": [
+            "سَبْعُونَ",
+            "سَبْعَةٌ",
+            "تِسْعُونَ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-pasar",
+          "instruction": "Menurut bacaan 1, di mana Siti dan Aisyah pada hari Ahad?",
+          "prompt": {
+            "id": "يَوْمَ الأَحَدِ …"
+          },
+          "answer": "Di Pasar Beringharjo",
+          "options": [
+            "Di Pasar Beringharjo",
+            "Di koperasi ma'had",
+            "Di Medan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-ibu-siti",
+          "instruction": "Benar atau salah? \"Ibu Siti pedagang kain.\"",
+          "prompt": {
+            "ar": "أُمُّ سِيتِي تاجِرَةُ قُماشٍ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-struk-penjual",
+          "instruction": "Menurut struk, siapa penjualnya?",
+          "prompt": {
+            "ar": "البائِعُ: …"
+          },
+          "answer": "Yusuf",
+          "options": [
+            "Yusuf",
+            "Budi",
+            "Siti"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-struk-hari",
+          "instruction": "Menurut struk, Budi berbelanja pada hari apa?",
+          "prompt": {
+            "ar": "اليَوْمُ: يَوْمُ الثُّلاثاءِ"
+          },
+          "answer": "Selasa",
+          "options": [
+            "Selasa",
+            "Kamis",
+            "Ahad"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis: isian dan kalimat",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Warna berpola أَفْعَلُ",
+          "instruction_id": "Semua warna diawali أَ dan berpola أَفْعَلُ. Telusuri tulisannya.",
+          "rows": [
+            {
+              "ar": "أَبْيَضُ",
+              "id": "putih"
+            },
+            {
+              "ar": "أَسْوَدُ",
+              "id": "hitam"
+            },
+            {
+              "ar": "أَحْمَرُ",
+              "id": "merah"
+            },
+            {
+              "ar": "أَخْضَرُ",
+              "id": "hijau"
+            },
+            {
+              "ar": "أَزْرَقُ",
+              "id": "biru"
+            },
+            {
+              "ar": "أَصْفَرُ",
+              "id": "kuning"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "isi-daftar-asfar",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "الدَّفْتَرُ …",
+            "id": "Buku tulisnya kuning.",
+            "emoji": "🟡"
+          },
+          "answer": "أَصْفَرُ",
+          "options": [
+            "أَصْفَرُ",
+            "أَخْضَرُ",
+            "أَحْمَرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "eja-asfar",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "أَصْفَرُ (kuning)"
+          },
+          "answer": "أ ص ف ر",
+          "extra": [
+            "س"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "eja-rakhis",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "رَخِيصٌ (murah)"
+          },
+          "answer": "ر خ ي ص",
+          "extra": [
+            "ح"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "huruf-mujam",
+          "instruction": "Huruf apa yang hilang?",
+          "prompt": {
+            "id": "مُعْ…َمٌ (kamus)"
+          },
+          "answer": "ج",
+          "options": [
+            "ج",
+            "ح",
+            "خ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tulis-ghalin",
+          "instruction": "Mana tulisan \"mahal\" yang benar?",
+          "prompt": {
+            "id": "mahal"
+          },
+          "answer": "غالٍ",
+          "options": [
+            "غالٍ",
+            "قالٍ",
+            "عالٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-bikam-hadza",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "بِكَمْ … القَمِيصُ؟",
+            "id": "Berapa harga kemeja ini?"
+          },
+          "answer": "هٰذا",
+          "options": [
+            "هٰذا",
+            "هٰذِهِ",
+            "أَيُّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-qamis-rakhis",
+          "prompt": {
+            "id": "Kemeja ini murah."
+          },
+          "answer": "هٰذا القَمِيصُ رَخِيصٌ",
+          "extra": [
+            "غالٍ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-urid-kis-aswad",
+          "prompt": {
+            "id": "Saya mau kantong hitam, tolong. (kepada lk)"
+          },
+          "answer": "أُرِيدُ كِيسًا أَسْوَدَ لَوْ سَمَحْتَ",
+          "extra": [
+            "سَمَحْتِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "eja-khamsun",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "خَمْسُونَ (lima puluh)"
+          },
+          "answer": "خ م س و ن",
+          "extra": [
+            "ي"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-huruf-tsaman",
+          "instruction": "Huruf apa yang hilang?",
+          "prompt": {
+            "id": "…َمَنٌ (harga)"
+          },
+          "answer": "ث",
+          "options": [
+            "ث",
+            "س",
+            "ت"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-eja-kis",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "كِيسٌ (kantong)"
+          },
+          "answer": "ك ي س",
+          "extra": [
+            "ص"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-mujam-saghir",
+          "prompt": {
+            "id": "Ini kamus kecil."
+          },
+          "answer": "هٰذا مُعْجَمٌ صَغِيرٌ",
+          "extra": [
+            "كَبِيرٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-isi-kis-akhdar",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "الكِيسُ …",
+            "id": "Kantongnya hijau.",
+            "emoji": "🟢"
+          },
+          "answer": "أَخْضَرُ",
+          "options": [
+            "أَخْضَرُ",
+            "أَزْرَقُ",
+            "أَسْوَدُ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    }
+  ]
+}

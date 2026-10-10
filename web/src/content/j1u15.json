@@ -1,0 +1,4736 @@
+{
+ "id": "j1u15",
+ "book": "1b",
+ "number": 15,
+ "title_ar": "الصِّحَّةُ",
+ "title_id": "Kesehatan",
+ "lessons": [
+  {
+   "id": "j1u15-d1",
+   "dars": 1,
+   "title_id": "Budi demam",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا بُودِي، قُمْ! الدَّرْسُ فِي السّاعَةِ السّابِعَةِ.",
+        "id": "Budi, bangun! Pelajaran jam tujuh.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/1bc01a4303c5eeef.mp3"
+        }
+       },
+       {
+        "ar": "آسِفٌ يا رِزْقِي، أَنا مَرِيضٌ.",
+        "id": "Maaf, Rizki, saya sakit.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/45b38fab6b28b174.mp3"
+        }
+       },
+       {
+        "ar": "ما بِكَ؟ بِمَ تَشْعُرُ؟",
+        "id": "Kamu kenapa? Apa yang kamu rasakan? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/d5bb42579401bd45.mp3"
+        }
+       },
+       {
+        "ar": "أَشْعُرُ بِحُمَّى، وَعِنْدِي سُعالٌ.",
+        "id": "Saya demam, dan saya batuk.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/a7e85ebc7f5552ac.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ عِنْدَكَ صُداعٌ أَيْضًا؟",
+        "id": "Apakah kamu juga sakit kepala? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/e6832cc1ba6a2851.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، عِنْدِي أَلَمٌ فِي رَأْسِي.",
+        "id": "Ya, kepala saya sakit.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/ba72bcc603f1e159.mp3"
+        }
+       },
+       {
+        "ar": "لِماذا لَعِبْتَ تَحْتَ المَطَرِ أَمْسِ؟",
+        "id": "Kenapa kemarin kamu main di bawah hujan? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/b0e0f3557a8c53d2.mp3"
+        }
+       },
+       {
+        "ar": "لِأَنِّي أُحِبُّ كُرَةَ القَدَمِ!",
+        "id": "Karena saya suka sepak bola!",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/c5b01e651c2ddcbe.mp3"
+        }
+       },
+       {
+        "ar": "هَيّا إِلَى عِيادَةِ المَعْهَدِ. شَفاكَ اللّٰهُ.",
+        "id": "Ayo ke klinik ma'had. Semoga Allah menyembuhkanmu. (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/7ebab892f14d5340.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u15-budi-demam.webp"
+      ],
+      "instruction_id": "Pagi hari di asrama putra. Rizki membangunkan Budi untuk masuk kelas, tetapi Budi sakit."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "ما بِكَ؟",
+        "id": "kamu kenapa? (lk)",
+        "emoji": "😟",
+        "audio": {
+         "src": "/audio/o/37018cdd38be5854.mp3"
+        }
+       },
+       {
+        "ar": "أَشْعُرُ بِـ …",
+        "id": "saya merasa …",
+        "emoji": "🫤",
+        "audio": {
+         "src": "/audio/o/3baa063863c41e3b.mp3"
+        }
+       },
+       {
+        "ar": "حُمَّى",
+        "id": "demam",
+        "emoji": "🤒",
+        "audio": {
+         "src": "/audio/o/2b9cdcef618eb004.mp3"
+        }
+       },
+       {
+        "ar": "سُعالٌ",
+        "id": "batuk",
+        "emoji": "😷",
+        "audio": {
+         "src": "/audio/o/cfa7d03d3c555f3a.mp3"
+        }
+       },
+       {
+        "ar": "صُداعٌ",
+        "id": "sakit kepala",
+        "emoji": "🤕",
+        "audio": {
+         "src": "/audio/o/df23246b93f5f7ae.mp3"
+        }
+       },
+       {
+        "ar": "أَلَمٌ",
+        "id": "rasa sakit, nyeri",
+        "emoji": "😣",
+        "audio": {
+         "src": "/audio/o/eb41d554186e7d66.mp3"
+        }
+       },
+       {
+        "ar": "رَأْسٌ",
+        "id": "kepala",
+        "emoji": "🙆",
+        "audio": {
+         "src": "/audio/o/d05e904cbc11042a.mp3"
+        }
+       },
+       {
+        "ar": "أَمْسِ",
+        "id": "kemarin",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/53e4fb07308f5363.mp3"
+        }
+       },
+       {
+        "ar": "لِأَنِّي",
+        "id": "karena saya",
+        "emoji": "💬",
+        "audio": {
+         "src": "/audio/o/a52d7027598fe765.mp3"
+        }
+       },
+       {
+        "ar": "عِيادَةٌ",
+        "id": "klinik",
+        "emoji": "🏥",
+        "audio": {
+         "src": "/audio/o/fa5238b131f6ddf3.mp3"
+        }
+       },
+       {
+        "ar": "شَفاكَ اللّٰهُ",
+        "id": "semoga Allah menyembuhkanmu (lk)",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/896573a95d2237e2.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d1-bima-tasyur-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "بِمَ تَشْعُرُ؟",
+       "audio": {
+        "src": "/audio/o/ca9883b88c4001b6.mp3"
+       }
+      },
+      "answer": "Apa yang kamu rasakan? (lk)",
+      "options": [
+       "Apa yang kamu rasakan? (lk)",
+       "Kamu mau apa? (lk)",
+       "Kamu dari mana? (lk)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d1-gambar-demam",
+      "instruction": "Pilih kalimat yang cocok dengan gambar",
+      "prompt": {
+       "emoji": "🤒"
+      },
+      "answer": "أَشْعُرُ بِحُمَّى.",
+      "options": [
+       "أَشْعُرُ بِحُمَّى.",
+       "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+       "أَنا جائِعٌ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَشْعُرُ بِحُمَّى.": {
+        "src": "/audio/o/3dfde2033a024ce6.mp3"
+       },
+       "عِنْدِي أَلَمٌ فِي بَطْنِي.": {
+        "src": "/audio/o/54c44104e1e6f80e.mp3"
+       },
+       "أَنا جائِعٌ.": {
+        "src": "/audio/o/a3e7c68949e98151.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d1-dengar-sual",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "عِنْدِي سُعالٌ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/dc329f0933f721de.mp3"
+       }
+      },
+      "answer": "Saya batuk.",
+      "options": [
+       "Saya batuk.",
+       "Saya demam.",
+       "Saya sakit kepala."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d1-budi-sebab",
+      "instruction": "Menurut dialog, kenapa Budi sakit?",
+      "prompt": {
+       "id": "بُودِي مَرِيضٌ لِأَنَّهُ …"
+      },
+      "answer": "Dia main sepak bola di bawah hujan.",
+      "options": [
+       "Dia main sepak bola di bawah hujan.",
+       "Dia makan sambal terlalu banyak.",
+       "Dia belajar sampai larut malam."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d1-balas-sudaa",
+      "instruction": "Budi sakit kepala. Pilih jawaban Budi yang tepat",
+      "prompt": {
+       "ar": "هَلْ عِنْدَكَ صُداعٌ؟",
+       "audio": {
+        "src": "/audio/o/79dbc80b832eac9c.mp3"
+       }
+      },
+      "answer": "نَعَمْ، عِنْدِي أَلَمٌ فِي رَأْسِي.",
+      "options": [
+       "نَعَمْ، عِنْدِي أَلَمٌ فِي رَأْسِي.",
+       "نَعَمْ، عِنْدِي أَلَمٌ فِي بَطْنِي.",
+       "لا، أَنا مِنْ سُورابايا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَعَمْ، عِنْدِي أَلَمٌ فِي رَأْسِي.": {
+        "src": "/audio/o/7623032e87e4b5c3.mp3"
+       },
+       "نَعَمْ، عِنْدِي أَلَمٌ فِي بَطْنِي.": {
+        "src": "/audio/o/1a54e46767caede2.mp3"
+       },
+       "لا، أَنا مِنْ سُورابايا.": {
+        "src": "/audio/o/d63148429dc2ac58.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d1-susun-alam-rasi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Sakitnya di kepala saya."
+      },
+      "answer": "الأَلَمُ فِي رَأْسِي",
+      "tokens": [
+       "الأَلَمُ",
+       "فِي",
+       "رَأْسِي",
+       "بَطْنِي"
+      ],
+      "audioMap": {
+       "الأَلَمُ": {
+        "src": "/audio/o/14fccfbd06f7ca81.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "رَأْسِي": {
+        "src": "/audio/o/187246006396b4fa.mp3"
+       },
+       "بَطْنِي": {
+        "src": "/audio/o/8e0ad42a061c02fe.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d1-susun-humma-sual",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya demam, dan saya batuk."
+      },
+      "answer": "أَشْعُرُ بِحُمَّى وَعِنْدِي سُعالٌ",
+      "tokens": [
+       "أَشْعُرُ",
+       "بِحُمَّى",
+       "وَعِنْدِي",
+       "سُعالٌ",
+       "صُداعٌ"
+      ],
+      "audioMap": {
+       "أَشْعُرُ": {
+        "src": "/audio/o/8b50841a7f0e6410.mp3"
+       },
+       "بِحُمَّى": {
+        "src": "/audio/o/1aa2c122b32285f5.mp3"
+       },
+       "وَعِنْدِي": {
+        "src": "/audio/o/a3a92e15f266caa3.mp3"
+       },
+       "سُعالٌ": {
+        "src": "/audio/o/cfa7d03d3c555f3a.mp3"
+       },
+       "صُداعٌ": {
+        "src": "/audio/o/df23246b93f5f7ae.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d1-syafakallah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "شَفاكَ اللّٰهُ.",
+       "audio": {
+        "src": "/audio/o/5b7ad3e3323c7acd.mp3"
+       }
+      },
+      "answer": "Semoga Allah menyembuhkanmu. (lk)",
+      "options": [
+       "Semoga Allah menyembuhkanmu. (lk)",
+       "Semoga Allah membalas kebaikanmu. (lk)",
+       "Insyaallah."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u15-d1-ucap-asyuru-humma",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَشْعُرُ بِحُمَّى.",
+       "id": "Saya demam.",
+       "audio": {
+        "src": "/audio/o/164a04f1bc33e865.mp3"
+       }
+      },
+      "target": "أَشْعُرُ بِحُمَّى."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u15-d1-lat-ma-bika-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "ما بِكَ؟",
+      "audio": {
+       "src": "/audio/o/37018cdd38be5854.mp3"
+      }
+     },
+     "answer": "Kamu kenapa? (lk)",
+     "options": [
+      "Kamu kenapa? (lk)",
+      "Siapa namamu? (lk)",
+      "Kamu di mana? (lk)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d1-lat-dengar-sudaa",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "عِنْدِي صُداعٌ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/41c4babbfbfb4c9a.mp3"
+      }
+     },
+     "answer": "Saya sakit kepala.",
+     "options": [
+      "Saya sakit kepala.",
+      "Saya batuk.",
+      "Saya lapar."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d1-lat-budi-keluhan",
+     "instruction": "Menurut dialog, apa saja keluhan Budi?",
+     "prompt": {
+      "id": "بُودِي مَرِيضٌ"
+     },
+     "answer": "Demam, batuk, dan sakit kepala",
+     "options": [
+      "Demam, batuk, dan sakit kepala",
+      "Sakit perut dan demam",
+      "Sakit gigi saja"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u15-d1-lat-susun-limadza-laibta",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kenapa kamu main di bawah hujan? (lk)"
+     },
+     "answer": "لِماذا لَعِبْتَ تَحْتَ المَطَرِ",
+     "tokens": [
+      "لِماذا",
+      "لَعِبْتَ",
+      "تَحْتَ",
+      "المَطَرِ",
+      "فَوْقَ"
+     ],
+     "audioMap": {
+      "لِماذا": {
+       "src": "/audio/o/0ec5b75e5a78f167.mp3"
+      },
+      "لَعِبْتَ": {
+       "src": "/audio/o/90b45611551bb192.mp3"
+      },
+      "تَحْتَ": {
+       "src": "/audio/o/7df953aa6adad2cf.mp3"
+      },
+      "المَطَرِ": {
+       "src": "/audio/o/642faa590b916465.mp3"
+      },
+      "فَوْقَ": {
+       "src": "/audio/o/2aa4a89919666dc5.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d1-lat-iyadah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "عِيادَةُ المَعْهَدِ",
+      "audio": {
+       "src": "/audio/o/3243783d0f0ee182.mp3"
+      }
+     },
+     "answer": "klinik ma'had",
+     "options": [
+      "klinik ma'had",
+      "perpustakaan ma'had",
+      "masjid ma'had"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u15-d2",
+   "dars": 2,
+   "title_id": "Aisyah sakit perut",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "ما بِكِ يا عائِشَةُ؟",
+        "id": "Kamu kenapa, Aisyah?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/38d7ab121070a9c8.mp3"
+        }
+       },
+       {
+        "ar": "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+        "id": "Perut saya sakit.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/99f374c9d3bedfc8.mp3"
+        }
+       },
+       {
+        "ar": "ماذا أَكَلْتِ اليَوْمَ؟",
+        "id": "Hari ini kamu makan apa? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/19019c0580d3c151.mp3"
+        }
+       },
+       {
+        "ar": "أَكَلْتُ أَرُزًّا مَعَ سامْبَل، وَهُوَ حارٌّ جِدًّا.",
+        "id": "Saya makan nasi dengan sambal, dan sambalnya pedas sekali.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/6de469f4623e9c5d.mp3"
+        }
+       },
+       {
+        "ar": "لِماذا أَكَلْتِ سامْبَل كَثِيرًا؟",
+        "id": "Kenapa kamu makan sambal banyak-banyak? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/b2bcd84756b230fc.mp3"
+        }
+       },
+       {
+        "ar": "لِأَنَّهُ طَيِّبٌ جِدًّا!",
+        "id": "Karena enak sekali!",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/256562c32d998ff9.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ عِنْدَكِ حُمَّى؟",
+        "id": "Apakah kamu demam? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/a66a93c459ee0b84.mp3"
+        }
+       },
+       {
+        "ar": "لا، الحَمْدُ لِلّٰهِ.",
+        "id": "Tidak, alhamdulillah.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/824eb6ade6eef2f5.mp3"
+        }
+       },
+       {
+        "ar": "اِشْرَبِي ماءً كَثِيرًا وَاسْتَرِيحِي. شَفاكِ اللّٰهُ.",
+        "id": "Minumlah air yang banyak dan istirahatlah. Semoga Allah menyembuhkanmu. (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/2a2c28e498e8d7c1.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u15-aisyah-sakit-perut.webp"
+      ],
+      "instruction_id": "Malam hari di asrama putri. Siti melihat Aisyah memegangi perutnya."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "ما بِكِ؟",
+        "id": "kamu kenapa? (pr)",
+        "emoji": "😟",
+        "audio": {
+         "src": "/audio/o/0e6b2cded7424837.mp3"
+        }
+       },
+       {
+        "ar": "بَطْنٌ",
+        "id": "perut",
+        "emoji": "🫃",
+        "audio": {
+         "src": "/audio/o/bd2b5a05375b57ad.mp3"
+        }
+       },
+       {
+        "ar": "اليَوْمَ",
+        "id": "hari ini",
+        "emoji": "📆",
+        "audio": {
+         "src": "/audio/o/f4558cc37c35356c.mp3"
+        }
+       },
+       {
+        "ar": "حارٌّ",
+        "id": "pedas (juga: panas)",
+        "emoji": "🌶️",
+        "audio": {
+         "src": "/audio/o/98c8ba97129cbd76.mp3"
+        }
+       },
+       {
+        "ar": "جِدًّا",
+        "id": "sekali, sangat",
+        "emoji": "‼️",
+        "audio": {
+         "src": "/audio/o/289762e6e341cd79.mp3"
+        }
+       },
+       {
+        "ar": "لِأَنَّهُ",
+        "id": "karena dia / karena itu",
+        "emoji": "💬",
+        "audio": {
+         "src": "/audio/o/44f210523f91e9a5.mp3"
+        }
+       },
+       {
+        "ar": "اِسْتَرِيحِي",
+        "id": "istirahatlah (pr)",
+        "emoji": "🛌",
+        "audio": {
+         "src": "/audio/o/7dc7ef22a0bdd6f6.mp3"
+        }
+       },
+       {
+        "ar": "شَفاكِ اللّٰهُ",
+        "id": "semoga Allah menyembuhkanmu (pr)",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/b83bfd644747fc34.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d2-ma-biki-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "ما بِكِ؟",
+       "audio": {
+        "src": "/audio/o/0e6b2cded7424837.mp3"
+       }
+      },
+      "answer": "Kamu kenapa? (pr)",
+      "options": [
+       "Kamu kenapa? (pr)",
+       "Kamu makan apa? (pr)",
+       "Kamu dari mana? (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d2-balas-ma-biki",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "ما بِكِ يا عائِشَةُ؟",
+       "audio": {
+        "src": "/audio/o/2b67d164000e7e66.mp3"
+       }
+      },
+      "answer": "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+      "options": [
+       "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+       "صَباحَ النُّورِ.",
+       "أَنا مِنْ مالِيزِيا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عِنْدِي أَلَمٌ فِي بَطْنِي.": {
+        "src": "/audio/o/54c44104e1e6f80e.mp3"
+       },
+       "صَباحَ النُّورِ.": {
+        "src": "/audio/o/03020ddba8e85181.mp3"
+       },
+       "أَنا مِنْ مالِيزِيا.": {
+        "src": "/audio/o/f87805b3f23d2383.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d2-dengar-akaltu",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "أَكَلْتُ أَرُزًّا مَعَ سامْبَل.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/c6f4fd98178b735a.mp3"
+       }
+      },
+      "answer": "Saya makan nasi dengan sambal.",
+      "options": [
+       "Saya makan nasi dengan sambal.",
+       "Saya makan roti dengan ayam.",
+       "Saya minum teh dengan gula."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d2-aisyah-sebab",
+      "instruction": "Menurut dialog, kenapa Aisyah makan banyak sambal?",
+      "prompt": {
+       "id": "لِماذا أَكَلَتْ عائِشَةُ سامْبَل كَثِيرًا؟"
+      },
+      "answer": "Karena sambalnya enak sekali.",
+      "options": [
+       "Karena sambalnya enak sekali.",
+       "Karena dia sangat lapar.",
+       "Karena Siti menyuruhnya."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d2-aisyah-humma",
+      "instruction": "Menurut dialog, apakah Aisyah demam?",
+      "prompt": {
+       "ar": "هَلْ عِنْدَكِ حُمَّى؟",
+       "audio": {
+        "src": "/audio/o/4a119988a0a6918a.mp3"
+       }
+      },
+      "answer": "Tidak, alhamdulillah.",
+      "options": [
+       "Tidak, alhamdulillah.",
+       "Ya, sejak kemarin.",
+       "Ya, dan dia juga batuk."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d2-nasihat-siti",
+      "instruction": "Apa nasihat Siti untuk Aisyah?",
+      "prompt": {
+       "ar": "اِشْرَبِي ماءً كَثِيرًا وَاسْتَرِيحِي.",
+       "audio": {
+        "src": "/audio/o/fedb3a464e443f10.mp3"
+       }
+      },
+      "answer": "Minum air yang banyak dan istirahat.",
+      "options": [
+       "Minum air yang banyak dan istirahat.",
+       "Makan sambal lagi besok.",
+       "Pergi ke pasar sekarang."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d2-susun-alam-batni",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Sakitnya di perut saya."
+      },
+      "answer": "الأَلَمُ فِي بَطْنِي",
+      "tokens": [
+       "الأَلَمُ",
+       "فِي",
+       "بَطْنِي",
+       "رَأْسِي"
+      ],
+      "audioMap": {
+       "الأَلَمُ": {
+        "src": "/audio/o/14fccfbd06f7ca81.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "بَطْنِي": {
+        "src": "/audio/o/8e0ad42a061c02fe.mp3"
+       },
+       "رَأْسِي": {
+        "src": "/audio/o/187246006396b4fa.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d2-susun-hal-indaki-humma",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Apakah kamu demam? (pr)"
+      },
+      "answer": "هَلْ عِنْدَكِ حُمَّى",
+      "tokens": [
+       "هَلْ",
+       "عِنْدَكِ",
+       "حُمَّى",
+       "عِنْدَكَ"
+      ],
+      "audioMap": {
+       "هَلْ": {
+        "src": "/audio/o/88964434a18c7513.mp3"
+       },
+       "عِنْدَكِ": {
+        "src": "/audio/o/4984eaebd99863c9.mp3"
+       },
+       "حُمَّى": {
+        "src": "/audio/o/2b9cdcef618eb004.mp3"
+       },
+       "عِنْدَكَ": {
+        "src": "/audio/o/36881fe3acf93181.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u15-d2-ucap-syafakillah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "شَفاكِ اللّٰهُ.",
+       "id": "Semoga Allah menyembuhkanmu. (pr)",
+       "audio": {
+        "src": "/audio/o/8bfc2ed5cbb8a5c7.mp3"
+       }
+      },
+      "target": "شَفاكِ اللّٰهُ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u15-d2-lat-batn-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "بَطْنٌ",
+      "audio": {
+       "src": "/audio/o/bd2b5a05375b57ad.mp3"
+      }
+     },
+     "answer": "perut",
+     "options": [
+      "perut",
+      "kepala",
+      "gigi"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d2-lat-doa-pr",
+     "instruction": "Temanmu (perempuan) sakit. Kamu mendoakannya …",
+     "prompt": {
+      "id": "Semoga Allah menyembuhkanmu. (pr)",
+      "emoji": "🤲"
+     },
+     "answer": "شَفاكِ اللّٰهُ.",
+     "options": [
+      "شَفاكِ اللّٰهُ.",
+      "شَفاكَ اللّٰهُ.",
+      "جَزاكِ اللّٰهُ خَيْرًا."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "شَفاكِ اللّٰهُ.": {
+       "src": "/audio/o/8b879d0cb43c232d.mp3"
+      },
+      "شَفاكَ اللّٰهُ.": {
+       "src": "/audio/o/5b7ad3e3323c7acd.mp3"
+      },
+      "جَزاكِ اللّٰهُ خَيْرًا.": {
+       "src": "/audio/o/cc935f53a87fa26d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d2-lat-dengar-hal-humma",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "هَلْ عِنْدَكِ حُمَّى؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/4a119988a0a6918a.mp3"
+      }
+     },
+     "answer": "هَلْ عِنْدَكِ حُمَّى؟",
+     "options": [
+      "هَلْ عِنْدَكِ حُمَّى؟",
+      "هَلْ عِنْدَكِ سُعالٌ؟",
+      "هَلْ عِنْدَكِ صُداعٌ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "هَلْ عِنْدَكِ حُمَّى؟": {
+       "src": "/audio/o/4a119988a0a6918a.mp3"
+      },
+      "هَلْ عِنْدَكِ سُعالٌ؟": {
+       "src": "/audio/o/f2284fd1b2c56793.mp3"
+      },
+      "هَلْ عِنْدَكِ صُداعٌ؟": {
+       "src": "/audio/o/16d1561721d2778f.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u15-d2-lat-susun-madza-akalti",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kamu makan apa dengan nasi? (pr)"
+     },
+     "answer": "ماذا أَكَلْتِ مَعَ الأَرُزِّ",
+     "tokens": [
+      "ماذا",
+      "أَكَلْتِ",
+      "مَعَ",
+      "الأَرُزِّ",
+      "أَكَلْتَ"
+     ],
+     "audioMap": {
+      "ماذا": {
+       "src": "/audio/o/44ee50a006bc44b5.mp3"
+      },
+      "أَكَلْتِ": {
+       "src": "/audio/o/90f080a4b5f34a81.mp3"
+      },
+      "مَعَ": {
+       "src": "/audio/o/7ee7ee0c5d3dc169.mp3"
+      },
+      "الأَرُزِّ": {
+       "src": "/audio/o/0012ae4e369e9683.mp3"
+      },
+      "أَكَلْتَ": {
+       "src": "/audio/o/63ae51b9447d99ba.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d2-lat-harr-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "الطَّعامُ حارٌّ جِدًّا.",
+      "audio": {
+       "src": "/audio/o/55e0b8388e5e768e.mp3"
+      }
+     },
+     "answer": "Makanannya pedas sekali.",
+     "options": [
+      "Makanannya pedas sekali.",
+      "Makanannya enak sekali.",
+      "Makanannya sedikit sekali."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u15-d3",
+   "dars": 3,
+   "title_id": "Di puskesmas Bandung",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "صَباحَ الخَيْرِ يا سَيِّدُ وايان. ما بِكَ؟",
+        "id": "Selamat pagi, Pak Wayan. Bapak kenapa?",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/4b964c2da4bf878f.mp3"
+        }
+       },
+       {
+        "ar": "أَسْنانِي يا دُكْتُورَةُ! الأَلَمُ شَدِيدٌ.",
+        "id": "Gigi saya, Dokter! Sakitnya parah.",
+        "speaker_ar": "وايان",
+        "audio": {
+         "src": "/audio/o/4375d6baa1fc22de.mp3"
+        }
+       },
+       {
+        "ar": "مُنْذُ مَتَى؟",
+        "id": "Sejak kapan?",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/d10c0cb27e2230ff.mp3"
+        }
+       },
+       {
+        "ar": "مُنْذُ يَوْمَيْنِ. لا أَنامُ جَيِّدًا.",
+        "id": "Sejak dua hari. Saya tidak bisa tidur nyenyak.",
+        "speaker_ar": "وايان",
+        "audio": {
+         "src": "/audio/o/3234cd9582be9bde.mp3"
+        }
+       },
+       {
+        "ar": "هٰذا دَواءٌ لِلْأَلَمِ.",
+        "id": "Ini obat untuk meredakan sakitnya.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/9d9568eaf4d2d5a3.mp3"
+        }
+       },
+       {
+        "ar": "وَمَوْعِدُكَ مَعَ طَبِيبِ الأَسْنانِ غَدًا.",
+        "id": "Dan jadwal Bapak dengan dokter gigi besok.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/ae14ae9c03b62d97.mp3"
+        }
+       },
+       {
+        "ar": "شُكْرًا. بِكَمْ هٰذا الدَّواءُ؟",
+        "id": "Terima kasih. Berapa harga obat ini?",
+        "speaker_ar": "وايان",
+        "audio": {
+         "src": "/audio/o/e2e0f2dd43175ea9.mp3"
+        }
+       },
+       {
+        "ar": "بِخَمْسَةِ آلافِ رُوبِيَّةٍ. شَفاكَ اللّٰهُ.",
+        "id": "Lima ribu rupiah. Semoga Allah menyembuhkan Bapak.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/93050956289ea234.mp3"
+        }
+       },
+       {
+        "ar": "شُكْرًا جَزِيلًا يا دُكْتُورَةُ.",
+        "id": "Terima kasih banyak, Dokter.",
+        "speaker_ar": "وايان",
+        "audio": {
+         "src": "/audio/o/b61af744eca89019.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u15-puskesmas.webp"
+      ],
+      "instruction_id": "Bu Fatimah bertugas di puskesmas Bandung. Pasiennya pagi ini Pak Wayan, tetangga keluarga Ahmad."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "سَيِّدٌ",
+        "id": "tuan, bapak (panggilan sopan)",
+        "emoji": "🧔",
+        "audio": {
+         "src": "/audio/o/528f23ce487ae0f4.mp3"
+        }
+       },
+       {
+        "ar": "دُكْتُورَةٌ",
+        "id": "dokter (pr) (panggilan)",
+        "emoji": "👩‍⚕️",
+        "audio": {
+         "src": "/audio/o/03e7819596589211.mp3"
+        }
+       },
+       {
+        "ar": "الأَلَمُ شَدِيدٌ",
+        "id": "sakitnya parah",
+        "emoji": "😖",
+        "audio": {
+         "src": "/audio/o/5d004e53c1be2059.mp3"
+        }
+       },
+       {
+        "ar": "أَسْنانٌ",
+        "id": "gigi (jamak)",
+        "emoji": "🦷",
+        "audio": {
+         "src": "/audio/o/4a4b25324eba6de6.mp3"
+        }
+       },
+       {
+        "ar": "مُنْذُ مَتَى؟",
+        "id": "sejak kapan?",
+        "emoji": "⏳",
+        "audio": {
+         "src": "/audio/o/54e80ae2ae22a606.mp3"
+        }
+       },
+       {
+        "ar": "مُنْذُ يَوْمَيْنِ",
+        "id": "sejak dua hari",
+        "emoji": "⏳",
+        "audio": {
+         "src": "/audio/o/ff7c0a0601e4ef30.mp3"
+        }
+       },
+       {
+        "ar": "دَواءٌ",
+        "id": "obat",
+        "emoji": "💊",
+        "audio": {
+         "src": "/audio/o/08c3636b4759b9ef.mp3"
+        }
+       },
+       {
+        "ar": "مَوْعِدٌ",
+        "id": "janji temu, jadwal",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/3150a5276262afcb.mp3"
+        }
+       },
+       {
+        "ar": "لا أَنامُ جَيِّدًا",
+        "id": "saya tidak bisa tidur nyenyak",
+        "emoji": "😴",
+        "audio": {
+         "src": "/audio/o/9b5f9ebfe2a118fd.mp3"
+        }
+       },
+       {
+        "ar": "خَمْسَةُ آلافٍ",
+        "id": "lima ribu",
+        "emoji": "💵",
+        "audio": {
+         "src": "/audio/o/21250fe63411a219.mp3"
+        }
+       },
+       {
+        "ar": "شُكْرًا جَزِيلًا",
+        "id": "terima kasih banyak",
+        "emoji": "🙏",
+        "audio": {
+         "src": "/audio/o/8d272b1fc73ea99e.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d3-mundzu-mata-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "مُنْذُ مَتَى؟",
+       "audio": {
+        "src": "/audio/o/54e80ae2ae22a606.mp3"
+       }
+      },
+      "answer": "Sejak kapan?",
+      "options": [
+       "Sejak kapan?",
+       "Sampai kapan?",
+       "Berapa harganya?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d3-wayan-sakit",
+      "instruction": "Menurut dialog, Pak Wayan sakit apa?",
+      "prompt": {
+       "id": "وايان مَرِيضٌ",
+       "emoji": "🏥"
+      },
+      "answer": "Sakit gigi",
+      "options": [
+       "Sakit gigi",
+       "Sakit kepala",
+       "Demam"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d3-wayan-mundzu",
+      "instruction": "Sejak kapan Pak Wayan sakit?",
+      "prompt": {
+       "ar": "مُنْذُ يَوْمَيْنِ.",
+       "audio": {
+        "src": "/audio/o/49fccea751813a3a.mp3"
+       }
+      },
+      "answer": "Sejak dua hari",
+      "options": [
+       "Sejak dua hari",
+       "Sejak kemarin",
+       "Sejak seminggu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d3-balas-bima",
+      "instruction": "Dokter bertanya. Pilih jawaban yang tepat",
+      "prompt": {
+       "ar": "بِمَ تَشْعُرُ؟",
+       "audio": {
+        "src": "/audio/o/ca9883b88c4001b6.mp3"
+       }
+      },
+      "answer": "عِنْدِي أَلَمٌ فِي أَسْنانِي.",
+      "options": [
+       "عِنْدِي أَلَمٌ فِي أَسْنانِي.",
+       "بِخَمْسَةِ آلافِ رُوبِيَّةٍ.",
+       "مُنْذُ يَوْمَيْنِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عِنْدِي أَلَمٌ فِي أَسْنانِي.": {
+        "src": "/audio/o/e0958b47e8e4cdfb.mp3"
+       },
+       "بِخَمْسَةِ آلافِ رُوبِيَّةٍ.": {
+        "src": "/audio/o/05a0bb09de5b57e6.mp3"
+       },
+       "مُنْذُ يَوْمَيْنِ.": {
+        "src": "/audio/o/49fccea751813a3a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d3-dengar-harga-obat",
+      "instruction": "Dengarkan. Berapa harga obatnya?",
+      "prompt": {
+       "tts": "بِخَمْسَةِ آلافِ رُوبِيَّةٍ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/05a0bb09de5b57e6.mp3"
+       }
+      },
+      "answer": "Rp5.000",
+      "options": [
+       "Rp5.000",
+       "Rp50.000",
+       "Rp500"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d3-wayan-mawid",
+      "instruction": "Kapan Pak Wayan bertemu dokter gigi?",
+      "prompt": {
+       "ar": "مَوْعِدُكَ مَعَ طَبِيبِ الأَسْنانِ غَدًا.",
+       "audio": {
+        "src": "/audio/o/8d8cc1854b00d60b.mp3"
+       }
+      },
+      "answer": "Besok",
+      "options": [
+       "Besok",
+       "Hari ini",
+       "Kemarin"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d3-susun-bikam-dawa",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Berapa harga obat ini?"
+      },
+      "answer": "بِكَمْ هٰذا الدَّواءُ",
+      "tokens": [
+       "بِكَمْ",
+       "هٰذا",
+       "الدَّواءُ",
+       "هٰذِهِ"
+      ],
+      "audioMap": {
+       "بِكَمْ": {
+        "src": "/audio/o/cd4d5683c223190c.mp3"
+       },
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "الدَّواءُ": {
+        "src": "/audio/o/3fdf6e1873fac3a8.mp3"
+       },
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d3-susun-mawiduka",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kapan jadwalmu dengan dokter gigi? (lk)"
+      },
+      "answer": "مَتَى مَوْعِدُكَ مَعَ طَبِيبِ الأَسْنانِ",
+      "tokens": [
+       "مَتَى",
+       "مَوْعِدُكَ",
+       "مَعَ",
+       "طَبِيبِ",
+       "الأَسْنانِ",
+       "مَوْعِدُكِ"
+      ],
+      "audioMap": {
+       "مَتَى": {
+        "src": "/audio/o/b914cba783c69620.mp3"
+       },
+       "مَوْعِدُكَ": {
+        "src": "/audio/o/6e907363fdc9f9d0.mp3"
+       },
+       "مَعَ": {
+        "src": "/audio/o/7ee7ee0c5d3dc169.mp3"
+       },
+       "طَبِيبِ": {
+        "src": "/audio/o/401b5fa14ab5a464.mp3"
+       },
+       "الأَسْنانِ": {
+        "src": "/audio/o/13cf984338e80f7b.mp3"
+       },
+       "مَوْعِدُكِ": {
+        "src": "/audio/o/9582bc59cb3a4be2.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u15-d3-ucap-bikam-dawa",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "بِكَمْ هٰذا الدَّواءُ؟",
+       "id": "Berapa harga obat ini?",
+       "audio": {
+        "src": "/audio/o/b9aa9e8ad2dc8aec.mp3"
+       }
+      },
+      "target": "بِكَمْ هٰذا الدَّواءُ؟"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u15-d3-lat-dawa-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "دَواءٌ",
+      "audio": {
+       "src": "/audio/o/08c3636b4759b9ef.mp3"
+      }
+     },
+     "answer": "obat",
+     "options": [
+      "obat",
+      "klinik",
+      "janji temu"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d3-lat-asnan-gambar",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "🦷"
+     },
+     "answer": "أَسْنانٌ",
+     "options": [
+      "أَسْنانٌ",
+      "رَأْسٌ",
+      "بَطْنٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَسْنانٌ": {
+       "src": "/audio/o/4a4b25324eba6de6.mp3"
+      },
+      "رَأْسٌ": {
+       "src": "/audio/o/d05e904cbc11042a.mp3"
+      },
+      "بَطْنٌ": {
+       "src": "/audio/o/bd2b5a05375b57ad.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d3-lat-dengar-mundzu",
+     "instruction": "Dengarkan. Sejak kapan dia sakit?",
+     "prompt": {
+      "tts": "عِنْدِي صُداعٌ مُنْذُ ثَلاثَةِ أَيّامٍ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/c914eefc8e2aec0d.mp3"
+      }
+     },
+     "answer": "Sejak tiga hari",
+     "options": [
+      "Sejak tiga hari",
+      "Sejak dua hari",
+      "Sejak kemarin"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u15-d3-lat-susun-alam-syadid",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Sakitnya parah sekali."
+     },
+     "answer": "الأَلَمُ شَدِيدٌ جِدًّا",
+     "tokens": [
+      "الأَلَمُ",
+      "شَدِيدٌ",
+      "جِدًّا",
+      "أَلَمٌ"
+     ],
+     "audioMap": {
+      "الأَلَمُ": {
+       "src": "/audio/o/14fccfbd06f7ca81.mp3"
+      },
+      "شَدِيدٌ": {
+       "src": "/audio/o/6ac4a665544533b8.mp3"
+      },
+      "جِدًّا": {
+       "src": "/audio/o/289762e6e341cd79.mp3"
+      },
+      "أَلَمٌ": {
+       "src": "/audio/o/eb41d554186e7d66.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d3-lat-syukran-jazilan",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "شُكْرًا جَزِيلًا.",
+      "audio": {
+       "src": "/audio/o/9148e0eec75b8f41.mp3"
+      }
+     },
+     "answer": "Terima kasih banyak.",
+     "options": [
+      "Terima kasih banyak.",
+      "Sama-sama.",
+      "Semoga lekas sembuh."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u15-d4",
+   "dars": 4,
+   "title_id": "Kosakata & ratusan–ribuan",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "صِحَّةٌ",
+        "id": "kesehatan · ★ sehat",
+        "emoji": "💪",
+        "audio": {
+         "src": "/audio/o/2f71b61eb1b6f39f.mp3"
+        }
+       },
+       {
+        "ar": "مَرِيضٌ · مَرِيضَةٌ",
+        "id": "sakit (lk · pr)",
+        "emoji": "🤒",
+        "audio": {
+         "src": "/audio/o/4ebdb5bdc37fa017.mp3"
+        }
+       },
+       {
+        "ar": "مَرَضٌ",
+        "id": "penyakit",
+        "emoji": "🦠",
+        "audio": {
+         "src": "/audio/o/2c78609bd9c467e6.mp3"
+        }
+       },
+       {
+        "ar": "أَلَمٌ",
+        "id": "rasa sakit, nyeri",
+        "emoji": "😣",
+        "audio": {
+         "src": "/audio/o/eb41d554186e7d66.mp3"
+        }
+       },
+       {
+        "ar": "صُداعٌ",
+        "id": "sakit kepala",
+        "emoji": "🤕",
+        "audio": {
+         "src": "/audio/o/df23246b93f5f7ae.mp3"
+        }
+       },
+       {
+        "ar": "حُمَّى",
+        "id": "demam",
+        "emoji": "🌡️",
+        "audio": {
+         "src": "/audio/o/2b9cdcef618eb004.mp3"
+        }
+       },
+       {
+        "ar": "سُعالٌ",
+        "id": "batuk",
+        "emoji": "😷",
+        "audio": {
+         "src": "/audio/o/cfa7d03d3c555f3a.mp3"
+        }
+       },
+       {
+        "ar": "رَأْسٌ",
+        "id": "kepala",
+        "emoji": "🙆",
+        "audio": {
+         "src": "/audio/o/d05e904cbc11042a.mp3"
+        }
+       },
+       {
+        "ar": "بَطْنٌ",
+        "id": "perut",
+        "emoji": "🫃",
+        "audio": {
+         "src": "/audio/o/bd2b5a05375b57ad.mp3"
+        }
+       },
+       {
+        "ar": "قَلْبٌ",
+        "id": "jantung, hati · ★ kalbu",
+        "emoji": "🫀",
+        "audio": {
+         "src": "/audio/o/6cd2fd5310abd181.mp3"
+        }
+       },
+       {
+        "ar": "أَسْنانٌ",
+        "id": "gigi (jamak)",
+        "emoji": "🦷",
+        "audio": {
+         "src": "/audio/o/4a4b25324eba6de6.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Sakit dan tubuh"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "عِيادَةٌ",
+        "id": "klinik",
+        "emoji": "🏥",
+        "audio": {
+         "src": "/audio/o/fa5238b131f6ddf3.mp3"
+        }
+       },
+       {
+        "ar": "صَيْدَلِيَّةٌ",
+        "id": "apotek",
+        "emoji": "🏪",
+        "audio": {
+         "src": "/audio/o/b5da2ad84adfc8a1.mp3"
+        }
+       },
+       {
+        "ar": "دَواءٌ",
+        "id": "obat",
+        "emoji": "💊",
+        "audio": {
+         "src": "/audio/o/08c3636b4759b9ef.mp3"
+        }
+       },
+       {
+        "ar": "شِفاءٌ",
+        "id": "kesembuhan",
+        "emoji": "🌿",
+        "audio": {
+         "src": "/audio/o/27bf816b389f56ce.mp3"
+        }
+       },
+       {
+        "ar": "مَوْعِدٌ",
+        "id": "janji temu, jadwal",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/3150a5276262afcb.mp3"
+        }
+       },
+       {
+        "ar": "بِطاقَةُ المَرِيضِ",
+        "id": "kartu berobat",
+        "emoji": "🪪",
+        "audio": {
+         "src": "/audio/o/a90a6a52d7d3b7d7.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Berobat"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مِئَةٌ",
+        "id": "100",
+        "emoji": "💯",
+        "audio": {
+         "src": "/audio/o/8cbc0b123dddd2e2.mp3"
+        }
+       },
+       {
+        "ar": "مِئَتانِ",
+        "id": "200",
+        "audio": {
+         "src": "/audio/o/edfd17fac4c44a41.mp3"
+        }
+       },
+       {
+        "ar": "خَمْسُمِئَةٍ",
+        "id": "500",
+        "audio": {
+         "src": "/audio/o/69a64723eca71909.mp3"
+        }
+       },
+       {
+        "ar": "أَلْفٌ",
+        "id": "1.000",
+        "audio": {
+         "src": "/audio/o/3ee142fb0cf19acd.mp3"
+        }
+       },
+       {
+        "ar": "أَلْفانِ",
+        "id": "2.000",
+        "audio": {
+         "src": "/audio/o/bfef1c804dc287cc.mp3"
+        }
+       },
+       {
+        "ar": "خَمْسَةُ آلافٍ",
+        "id": "5.000",
+        "audio": {
+         "src": "/audio/o/21250fe63411a219.mp3"
+        }
+       },
+       {
+        "ar": "عَشَرَةُ آلافٍ",
+        "id": "10.000",
+        "audio": {
+         "src": "/audio/o/9b01f298cc2b4cbf.mp3"
+        }
+       },
+       {
+        "ar": "عِشْرُونَ أَلْفًا",
+        "id": "20.000",
+        "audio": {
+         "src": "/audio/o/7ce6707b05b98be2.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Ratusan dan ribuan"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d4-humma-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "حُمَّى",
+       "audio": {
+        "src": "/audio/o/2b9cdcef618eb004.mp3"
+       }
+      },
+      "answer": "demam",
+      "options": [
+       "demam",
+       "batuk",
+       "sakit kepala"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d4-gambar-obat",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "💊"
+      },
+      "answer": "دَواءٌ",
+      "options": [
+       "دَواءٌ",
+       "مَوْعِدٌ",
+       "قَلْبٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "دَواءٌ": {
+        "src": "/audio/o/08c3636b4759b9ef.mp3"
+       },
+       "مَوْعِدٌ": {
+        "src": "/audio/o/3150a5276262afcb.mp3"
+       },
+       "قَلْبٌ": {
+        "src": "/audio/o/6cd2fd5310abd181.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d4-dengar-sudaa-kata",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "صُداعٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/df23246b93f5f7ae.mp3"
+       }
+      },
+      "answer": "sakit kepala",
+      "options": [
+       "sakit kepala",
+       "batuk",
+       "perut"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d4-saydaliyyah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "صَيْدَلِيَّةٌ",
+       "audio": {
+        "src": "/audio/o/b5da2ad84adfc8a1.mp3"
+       }
+      },
+      "answer": "apotek",
+      "options": [
+       "apotek",
+       "klinik",
+       "rumah sakit"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d4-gambar-jantung",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🫀"
+      },
+      "answer": "قَلْبٌ",
+      "options": [
+       "قَلْبٌ",
+       "رَأْسٌ",
+       "أَسْنانٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَلْبٌ": {
+        "src": "/audio/o/6cd2fd5310abd181.mp3"
+       },
+       "رَأْسٌ": {
+        "src": "/audio/o/d05e904cbc11042a.mp3"
+       },
+       "أَسْنانٌ": {
+        "src": "/audio/o/4a4b25324eba6de6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d4-hitung-alfan",
+      "instruction": "Berapa hasilnya?",
+      "prompt": {
+       "ar": "أَلْفٌ + أَلْفٌ = ؟",
+       "audio": {
+        "src": "/audio/o/1ab9f20ecab33d5e.mp3"
+       }
+      },
+      "answer": "أَلْفانِ",
+      "options": [
+       "أَلْفانِ",
+       "مِئَتانِ",
+       "عَشَرَةُ آلافٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَلْفانِ": {
+        "src": "/audio/o/bfef1c804dc287cc.mp3"
+       },
+       "مِئَتانِ": {
+        "src": "/audio/o/edfd17fac4c44a41.mp3"
+       },
+       "عَشَرَةُ آلافٍ": {
+        "src": "/audio/o/9b01f298cc2b4cbf.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d4-dengar-500",
+      "instruction": "Dengarkan. Angka berapa?",
+      "prompt": {
+       "tts": "خَمْسُمِئَةٍ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/69a64723eca71909.mp3"
+       }
+      },
+      "answer": "500",
+      "options": [
+       "500",
+       "5.000",
+       "50"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d4-dengar-10000",
+      "instruction": "Dengarkan. Angka berapa?",
+      "prompt": {
+       "tts": "عَشَرَةُ آلافٍ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/9b01f298cc2b4cbf.mp3"
+       }
+      },
+      "answer": "10.000",
+      "options": [
+       "10.000",
+       "1.000",
+       "100"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d4-angka-200",
+      "instruction": "Angka ini dalam bahasa Arab adalah …",
+      "prompt": {
+       "id": "200"
+      },
+      "answer": "مِئَتانِ",
+      "options": [
+       "مِئَتانِ",
+       "مِئَةٌ",
+       "أَلْفانِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مِئَتانِ": {
+        "src": "/audio/o/edfd17fac4c44a41.mp3"
+       },
+       "مِئَةٌ": {
+        "src": "/audio/o/8cbc0b123dddd2e2.mp3"
+       },
+       "أَلْفانِ": {
+        "src": "/audio/o/bfef1c804dc287cc.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u15-d4-lat-sual-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "سُعالٌ",
+      "audio": {
+       "src": "/audio/o/cfa7d03d3c555f3a.mp3"
+      }
+     },
+     "answer": "batuk",
+     "options": [
+      "batuk",
+      "demam",
+      "penyakit"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d4-lat-mawid-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مَوْعِدٌ",
+      "audio": {
+       "src": "/audio/o/3150a5276262afcb.mp3"
+      }
+     },
+     "answer": "janji temu, jadwal",
+     "options": [
+      "janji temu, jadwal",
+      "obat",
+      "kesembuhan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d4-lat-dengar-1000",
+     "instruction": "Dengarkan. Angka berapa?",
+     "prompt": {
+      "tts": "أَلْفٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/3ee142fb0cf19acd.mp3"
+      }
+     },
+     "answer": "1.000",
+     "options": [
+      "1.000",
+      "100",
+      "2.000"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d4-lat-angka-5000",
+     "instruction": "Angka ini dalam bahasa Arab adalah …",
+     "prompt": {
+      "id": "5.000"
+     },
+     "answer": "خَمْسَةُ آلافٍ",
+     "options": [
+      "خَمْسَةُ آلافٍ",
+      "خَمْسُمِئَةٍ",
+      "خَمْسُونَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "خَمْسَةُ آلافٍ": {
+       "src": "/audio/o/21250fe63411a219.mp3"
+      },
+      "خَمْسُمِئَةٍ": {
+       "src": "/audio/o/69a64723eca71909.mp3"
+      },
+      "خَمْسُونَ": {
+       "src": "/audio/o/86f82553fb85642d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d4-lat-gambar-kepala",
+     "instruction": "Kata mana artinya \"kepala\"?",
+     "prompt": {
+      "id": "kepala",
+      "emoji": "🙆"
+     },
+     "answer": "رَأْسٌ",
+     "options": [
+      "رَأْسٌ",
+      "بَطْنٌ",
+      "قَلْبٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "رَأْسٌ": {
+       "src": "/audio/o/d05e904cbc11042a.mp3"
+      },
+      "بَطْنٌ": {
+       "src": "/audio/o/bd2b5a05375b57ad.mp3"
+      },
+      "قَلْبٌ": {
+       "src": "/audio/o/6cd2fd5310abd181.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u15-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Mengungkapkan sakit"
+      },
+      "groups": [
+       {
+        "title_ar": "أَشْعُرُ بِـ …",
+        "note_id": "أَشْعُرُ بِـ + kata benda berakhiran kasrah = saya merasa …. Pertanyaannya: بِمَ تَشْعُرُ؟ (lk) · بِمَ تَشْعُرِينَ؟ (pr). Kata حُمَّى tidak pernah bertanwin.",
+        "rows": [
+         {
+          "ar": "أَشْعُرُ بِصُداعٍ.",
+          "id": "Saya merasa sakit kepala.",
+          "audio": {
+           "src": "/audio/o/bae876572657cd7a.mp3"
+          }
+         },
+         {
+          "ar": "أَشْعُرُ بِحُمَّى.",
+          "id": "Saya merasa demam.",
+          "audio": {
+           "src": "/audio/o/3dfde2033a024ce6.mp3"
+          }
+         },
+         {
+          "ar": "بِمَ تَشْعُرِينَ؟",
+          "id": "Apa yang kamu rasakan? (pr)",
+          "audio": {
+           "src": "/audio/o/e0a2738b7a926e22.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "عِنْدِي أَلَمٌ فِي …",
+        "note_id": "Sebut bagian tubuh + ـِي (milik saya).",
+        "rows": [
+         {
+          "ar": "عِنْدِي أَلَمٌ فِي رَأْسِي.",
+          "id": "Kepala saya sakit.",
+          "audio": {
+           "src": "/audio/o/58804622e1ab7b65.mp3"
+          }
+         },
+         {
+          "ar": "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+          "id": "Perut saya sakit.",
+          "audio": {
+           "src": "/audio/o/54c44104e1e6f80e.mp3"
+          }
+         },
+         {
+          "ar": "عِنْدِي أَلَمٌ فِي أَسْنانِي.",
+          "id": "Gigi saya sakit.",
+          "audio": {
+           "src": "/audio/o/e0958b47e8e4cdfb.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "هَلْ عِنْدَكَ …؟ · هَلْ عِنْدَكِ …؟",
+        "note_id": "عِنْدَكَ untuk laki-laki, عِنْدَكِ untuk perempuan. Jawabannya: نَعَمْ، عِنْدِي … / لا.",
+        "rows": [
+         {
+          "ar": "هَلْ عِنْدَكَ حُمَّى؟",
+          "id": "Apakah kamu demam? (lk)",
+          "audio": {
+           "src": "/audio/o/e417fbefee73e127.mp3"
+          }
+         },
+         {
+          "ar": "هَلْ عِنْدَكِ سُعالٌ؟",
+          "id": "Apakah kamu batuk? (pr)",
+          "audio": {
+           "src": "/audio/o/f2284fd1b2c56793.mp3"
+          }
+         },
+         {
+          "ar": "نَعَمْ، عِنْدِي سُعالٌ.",
+          "id": "Ya, saya batuk.",
+          "audio": {
+           "src": "/audio/o/f3005ef2d4241056.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Bertanya sebab dan mendoakan"
+      },
+      "groups": [
+       {
+        "title_ar": "لِماذا + فِعْلٌ ماضٍ ← لِأَنِّي · لِأَنَّهُ",
+        "note_id": "Untuk menanyakan sebab sesuatu yang sudah terjadi: لِماذا + fi'il madhi. Jawabannya diawali لِأَنِّي (karena saya) atau لِأَنَّهُ (karena dia/itu).",
+        "rows": [
+         {
+          "ar": "لِماذا ذَهَبْتَ إِلَى العِيادَةِ؟",
+          "id": "Kenapa kamu pergi ke klinik? (lk)",
+          "audio": {
+           "src": "/audio/o/2ffd3a7f12463a31.mp3"
+          }
+         },
+         {
+          "ar": "لِأَنِّي مَرِيضٌ.",
+          "id": "Karena saya sakit. (lk)",
+          "audio": {
+           "src": "/audio/o/c980a2c59d8cabca.mp3"
+          }
+         },
+         {
+          "ar": "لِماذا لَعِبْتَ تَحْتَ المَطَرِ؟",
+          "id": "Kenapa kamu main di bawah hujan? (lk)",
+          "audio": {
+           "src": "/audio/o/e97d75fc3c808109.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "شَفاكَ اللّٰهُ · شَفاكِ اللّٰهُ",
+        "note_id": "Doa untuk orang sakit: ـكَ untuk laki-laki, ـكِ untuk perempuan. Jawabannya: آمِينَ.",
+        "rows": [
+         {
+          "ar": "شَفاكَ اللّٰهُ يا بُودِي.",
+          "id": "Semoga Allah menyembuhkanmu, Budi.",
+          "audio": {
+           "src": "/audio/o/db8ebc201ac5bfa8.mp3"
+          }
+         },
+         {
+          "ar": "شَفاكِ اللّٰهُ يا عائِشَةُ.",
+          "id": "Semoga Allah menyembuhkanmu, Aisyah.",
+          "audio": {
+           "src": "/audio/o/8d2b34c2eaf19f9d.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Harga dalam ratusan dan ribuan rupiah"
+      },
+      "groups": [
+       {
+        "title_ar": "مِئَةُ رُوبِيَّةٍ · أَلْفُ رُوبِيَّةٍ",
+        "note_id": "Sesudah مِئَة (100) dan أَلْف (1.000), benda yang dihitung (tamyiz) berbentuk tunggal dan berakhiran kasrah: رُوبِيَّةٍ. Untuk 2: مِئَتا / أَلْفا (nun dual hilang karena diikuti kata benda).",
+        "rows": [
+         {
+          "ar": "مِئَةُ رُوبِيَّةٍ",
+          "id": "Rp100",
+          "audio": {
+           "src": "/audio/o/45266a6359b57272.mp3"
+          }
+         },
+         {
+          "ar": "أَلْفُ رُوبِيَّةٍ",
+          "id": "Rp1.000",
+          "audio": {
+           "src": "/audio/o/4748c051c479be92.mp3"
+          }
+         },
+         {
+          "ar": "أَلْفا رُوبِيَّةٍ",
+          "id": "Rp2.000",
+          "audio": {
+           "src": "/audio/o/3056708d3978dbbe.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "٣–١٠ + آلافٍ · ٣–٩ + مِئَةٍ",
+        "note_id": "3–10 ribu: bilangan + آلاف (jamak, berakhiran kasrah). Karena أَلْف mudzakkar, bilangannya memakai ة: ثَلاثَةُ آلافٍ. Untuk ratusan, مِئَة tetap tunggal dan ditulis menyambung, bilangannya tanpa ة: خَمْسُمِئَةٍ.",
+        "rows": [
+         {
+          "ar": "ثَلاثَةُ آلافِ رُوبِيَّةٍ",
+          "id": "Rp3.000",
+          "audio": {
+           "src": "/audio/o/bf2426a062ada284.mp3"
+          }
+         },
+         {
+          "ar": "خَمْسَةُ آلافِ رُوبِيَّةٍ",
+          "id": "Rp5.000",
+          "audio": {
+           "src": "/audio/o/741346ba572060a9.mp3"
+          }
+         },
+         {
+          "ar": "خَمْسُمِئَةِ رُوبِيَّةٍ",
+          "id": "Rp500",
+          "audio": {
+           "src": "/audio/o/bfce1e0ed73d2146.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "١١–٩٩ + أَلْفًا",
+        "note_id": "11–99 ribu: أَلْف tunggal berakhiran fathah: عِشْرُونَ أَلْفًا. Bila diikuti رُوبِيَّةٍ, tanwinnya hilang: عِشْرُونَ أَلْفَ رُوبِيَّةٍ.",
+        "rows": [
+         {
+          "ar": "خَمْسَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ",
+          "id": "Rp15.000",
+          "audio": {
+           "src": "/audio/o/a2edb5c11e1b4ed6.mp3"
+          }
+         },
+         {
+          "ar": "عِشْرُونَ أَلْفَ رُوبِيَّةٍ",
+          "id": "Rp20.000",
+          "audio": {
+           "src": "/audio/o/fe215000e3b86622.mp3"
+          }
+         },
+         {
+          "ar": "خَمْسَةٌ وَعِشْرُونَ أَلْفَ رُوبِيَّةٍ",
+          "id": "Rp25.000",
+          "audio": {
+           "src": "/audio/o/b3be82377a9b69f7.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d5-katakan-sudaa",
+      "instruction": "Kepalamu sakit. Kamu berkata kepada dokter …",
+      "prompt": {
+       "id": "Saya merasa sakit kepala.",
+       "emoji": "🤕"
+      },
+      "answer": "أَشْعُرُ بِصُداعٍ.",
+      "options": [
+       "أَشْعُرُ بِصُداعٍ.",
+       "أَشْعُرُ بِسُعالٍ.",
+       "عِنْدِي أَلَمٌ فِي بَطْنِي."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَشْعُرُ بِصُداعٍ.": {
+        "src": "/audio/o/bae876572657cd7a.mp3"
+       },
+       "أَشْعُرُ بِسُعالٍ.": {
+        "src": "/audio/o/57789bcda9342eee.mp3"
+       },
+       "عِنْدِي أَلَمٌ فِي بَطْنِي.": {
+        "src": "/audio/o/54c44104e1e6f80e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d5-lengkapi-asnani",
+      "instruction": "Lengkapi: \"Gigi saya sakit.\"",
+      "prompt": {
+       "ar": "عِنْدِي أَلَمٌ فِي …",
+       "audio": {
+        "src": "/audio/o/ac722228af9d1bc5.mp3"
+       }
+      },
+      "answer": "أَسْنانِي",
+      "options": [
+       "أَسْنانِي",
+       "رَأْسِي",
+       "بَطْنِي"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَسْنانِي": {
+        "src": "/audio/o/f77c0bd112e7d571.mp3"
+       },
+       "رَأْسِي": {
+        "src": "/audio/o/187246006396b4fa.mp3"
+       },
+       "بَطْنِي": {
+        "src": "/audio/o/8e0ad42a061c02fe.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d5-tanya-humma-pr",
+      "instruction": "Kamu bertanya kepada Siti: \"Apakah kamu demam?\"",
+      "prompt": {
+       "id": "Apakah kamu demam? (pr)",
+       "emoji": "👩"
+      },
+      "answer": "هَلْ عِنْدَكِ حُمَّى؟",
+      "options": [
+       "هَلْ عِنْدَكِ حُمَّى؟",
+       "هَلْ عِنْدَكَ حُمَّى؟",
+       "هَلْ عِنْدِي حُمَّى؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هَلْ عِنْدَكِ حُمَّى؟": {
+        "src": "/audio/o/4a119988a0a6918a.mp3"
+       },
+       "هَلْ عِنْدَكَ حُمَّى؟": {
+        "src": "/audio/o/e417fbefee73e127.mp3"
+       },
+       "هَلْ عِنْدِي حُمَّى؟": {
+        "src": "/audio/o/30294812b759890a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d5-doa-budi",
+      "instruction": "Budi sakit. Kamu mendoakannya …",
+      "prompt": {
+       "id": "Semoga Allah menyembuhkanmu, Budi.",
+       "emoji": "🤲"
+      },
+      "answer": "شَفاكَ اللّٰهُ يا بُودِي.",
+      "options": [
+       "شَفاكَ اللّٰهُ يا بُودِي.",
+       "شَفاكِ اللّٰهُ يا بُودِي.",
+       "جَزاكَ اللّٰهُ خَيْرًا يا بُودِي."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شَفاكَ اللّٰهُ يا بُودِي.": {
+        "src": "/audio/o/db8ebc201ac5bfa8.mp3"
+       },
+       "شَفاكِ اللّٰهُ يا بُودِي.": {
+        "src": "/audio/o/e591a7b8d6f22d30.mp3"
+       },
+       "جَزاكَ اللّٰهُ خَيْرًا يا بُودِي.": {
+        "src": "/audio/o/c6be325f0507a534.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d5-harga-3000",
+      "instruction": "Pilih bentuk yang benar untuk Rp3.000",
+      "prompt": {
+       "id": "Rp3.000"
+      },
+      "answer": "ثَلاثَةُ آلافِ رُوبِيَّةٍ",
+      "options": [
+       "ثَلاثَةُ آلافِ رُوبِيَّةٍ",
+       "ثَلاثُ آلافِ رُوبِيَّةٍ",
+       "ثَلاثَةُ أَلْفِ رُوبِيَّةٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ثَلاثَةُ آلافِ رُوبِيَّةٍ": {
+        "src": "/audio/o/bf2426a062ada284.mp3"
+       },
+       "ثَلاثُ آلافِ رُوبِيَّةٍ": {
+        "src": "/audio/o/88b29d1aeddfb72a.mp3"
+       },
+       "ثَلاثَةُ أَلْفِ رُوبِيَّةٍ": {
+        "src": "/audio/o/64a6f25918e36529.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d5-harga-15000",
+      "instruction": "Pilih bentuk yang benar untuk Rp15.000",
+      "prompt": {
+       "id": "Rp15.000"
+      },
+      "answer": "خَمْسَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ",
+      "options": [
+       "خَمْسَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ",
+       "خَمْسَةَ عَشَرَ آلافِ رُوبِيَّةٍ",
+       "خَمْسَةُ آلافِ رُوبِيَّةٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خَمْسَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ": {
+        "src": "/audio/o/a2edb5c11e1b4ed6.mp3"
+       },
+       "خَمْسَةَ عَشَرَ آلافِ رُوبِيَّةٍ": {
+        "src": "/audio/o/2fa8de3919bf3b85.mp3"
+       },
+       "خَمْسَةُ آلافِ رُوبِيَّةٍ": {
+        "src": "/audio/o/741346ba572060a9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d5-harga-100",
+      "instruction": "Pilih bentuk yang benar untuk Rp100",
+      "prompt": {
+       "id": "Rp100"
+      },
+      "answer": "مِئَةُ رُوبِيَّةٍ",
+      "options": [
+       "مِئَةُ رُوبِيَّةٍ",
+       "مِئَةُ رُوبِيَّاتٍ",
+       "مِئَتا رُوبِيَّةٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مِئَةُ رُوبِيَّةٍ": {
+        "src": "/audio/o/45266a6359b57272.mp3"
+       },
+       "مِئَةُ رُوبِيَّاتٍ": {
+        "src": "/audio/o/4f0fd322e1c8ee3d.mp3"
+       },
+       "مِئَتا رُوبِيَّةٍ": {
+        "src": "/audio/o/f3757412fedcfd98.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d5-susun-limadza-dzahabta",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kenapa kamu pergi ke klinik? (lk)"
+      },
+      "answer": "لِماذا ذَهَبْتَ إِلَى العِيادَةِ",
+      "tokens": [
+       "لِماذا",
+       "ذَهَبْتَ",
+       "إِلَى",
+       "العِيادَةِ",
+       "ذَهَبْتِ"
+      ],
+      "audioMap": {
+       "لِماذا": {
+        "src": "/audio/o/0ec5b75e5a78f167.mp3"
+       },
+       "ذَهَبْتَ": {
+        "src": "/audio/o/e96f0db8298f87df.mp3"
+       },
+       "إِلَى": {
+        "src": "/audio/o/57551989bbc39ffa.mp3"
+       },
+       "العِيادَةِ": {
+        "src": "/audio/o/abc7a369ccdc0caa.mp3"
+       },
+       "ذَهَبْتِ": {
+        "src": "/audio/o/02da7fb7c2752c33.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d5-susun-liannani-maridh",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Karena saya sakit. (lk)"
+      },
+      "answer": "لِأَنِّي مَرِيضٌ",
+      "tokens": [
+       "لِأَنِّي",
+       "مَرِيضٌ",
+       "لِماذا"
+      ],
+      "audioMap": {
+       "لِأَنِّي": {
+        "src": "/audio/o/a52d7027598fe765.mp3"
+       },
+       "مَرِيضٌ": {
+        "src": "/audio/o/bc8aa4de3731758d.mp3"
+       },
+       "لِماذا": {
+        "src": "/audio/o/0ec5b75e5a78f167.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d5-susun-tsamanuhu-20000",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Harganya dua puluh ribu rupiah."
+      },
+      "answer": "ثَمَنُهُ عِشْرُونَ أَلْفَ رُوبِيَّةٍ",
+      "tokens": [
+       "ثَمَنُهُ",
+       "عِشْرُونَ",
+       "أَلْفَ",
+       "رُوبِيَّةٍ",
+       "آلافِ"
+      ],
+      "audioMap": {
+       "ثَمَنُهُ": {
+        "src": "/audio/o/b3d4926424a24c6c.mp3"
+       },
+       "عِشْرُونَ": {
+        "src": "/audio/o/782cd0a8368d8643.mp3"
+       },
+       "أَلْفَ": {
+        "src": "/audio/o/cfce27a6e8923087.mp3"
+       },
+       "رُوبِيَّةٍ": {
+        "src": "/audio/o/ad2427c1c104619f.mp3"
+       },
+       "آلافِ": {
+        "src": "/audio/o/60cc53d614cddec6.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u15-d5-lat-tanya-bima-pr",
+     "instruction": "Dokter bertanya kepada Aisyah: \"Apa yang kamu rasakan?\"",
+     "prompt": {
+      "id": "Apa yang kamu rasakan? (pr)"
+     },
+     "answer": "بِمَ تَشْعُرِينَ؟",
+     "options": [
+      "بِمَ تَشْعُرِينَ؟",
+      "بِمَ تَشْعُرُ؟",
+      "بِكَمْ هٰذا؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "بِمَ تَشْعُرِينَ؟": {
+       "src": "/audio/o/e0a2738b7a926e22.mp3"
+      },
+      "بِمَ تَشْعُرُ؟": {
+       "src": "/audio/o/ca9883b88c4001b6.mp3"
+      },
+      "بِكَمْ هٰذا؟": {
+       "src": "/audio/o/aaa516f02e6a8570.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d5-lat-harga-2000",
+     "instruction": "Pilih bentuk yang benar untuk Rp2.000",
+     "prompt": {
+      "id": "Rp2.000"
+     },
+     "answer": "أَلْفا رُوبِيَّةٍ",
+     "options": [
+      "أَلْفا رُوبِيَّةٍ",
+      "أَلْفُ رُوبِيَّةٍ",
+      "اِثْنانِ آلافِ رُوبِيَّةٍ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَلْفا رُوبِيَّةٍ": {
+       "src": "/audio/o/3056708d3978dbbe.mp3"
+      },
+      "أَلْفُ رُوبِيَّةٍ": {
+       "src": "/audio/o/4748c051c479be92.mp3"
+      },
+      "اِثْنانِ آلافِ رُوبِيَّةٍ": {
+       "src": "/audio/o/0286504882183593.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u15-d5-lat-susun-asyuru-sudaa",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya merasa sakit kepala."
+     },
+     "answer": "أَشْعُرُ بِصُداعٍ",
+     "tokens": [
+      "أَشْعُرُ",
+      "بِصُداعٍ",
+      "تَشْعُرُ"
+     ],
+     "audioMap": {
+      "أَشْعُرُ": {
+       "src": "/audio/o/8b50841a7f0e6410.mp3"
+      },
+      "بِصُداعٍ": {
+       "src": "/audio/o/452adbc81b9e9832.mp3"
+      },
+      "تَشْعُرُ": {
+       "src": "/audio/o/e2e4705428daf6a8.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u15-d5-lat-susun-500",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Harganya lima ratus rupiah."
+     },
+     "answer": "ثَمَنُهُ خَمْسُمِئَةِ رُوبِيَّةٍ",
+     "tokens": [
+      "ثَمَنُهُ",
+      "خَمْسُمِئَةِ",
+      "رُوبِيَّةٍ",
+      "آلافِ"
+     ],
+     "audioMap": {
+      "ثَمَنُهُ": {
+       "src": "/audio/o/b3d4926424a24c6c.mp3"
+      },
+      "خَمْسُمِئَةِ": {
+       "src": "/audio/o/c319d5642f8365b5.mp3"
+      },
+      "رُوبِيَّةٍ": {
+       "src": "/audio/o/ad2427c1c104619f.mp3"
+      },
+      "آلافِ": {
+       "src": "/audio/o/60cc53d614cddec6.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d5-lat-jawab-limadza",
+     "instruction": "Pilih jawaban yang tepat",
+     "prompt": {
+      "ar": "لِماذا ذَهَبْتَ إِلَى الصَّيْدَلِيَّةِ؟",
+      "audio": {
+       "src": "/audio/o/de4964d484738366.mp3"
+      }
+     },
+     "answer": "لِأَنِّي أُرِيدُ دَواءً لِلسُّعالِ.",
+     "options": [
+      "لِأَنِّي أُرِيدُ دَواءً لِلسُّعالِ.",
+      "شَفاكَ اللّٰهُ.",
+      "مُنْذُ يَوْمَيْنِ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "لِأَنِّي أُرِيدُ دَواءً لِلسُّعالِ.": {
+       "src": "/audio/o/a775713b31ae40ac.mp3"
+      },
+      "شَفاكَ اللّٰهُ.": {
+       "src": "/audio/o/5b7ad3e3323c7acd.mp3"
+      },
+      "مُنْذُ يَوْمَيْنِ.": {
+       "src": "/audio/o/49fccea751813a3a.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u15-d6",
+   "dars": 6,
+   "title_id": "Bunyi u pendek dan panjang, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "قُ",
+        "audio": {
+         "src": "/audio/o/5deb30ff674272ee.mp3"
+        },
+        "pair_ar": "قُو"
+       },
+       {
+        "ar": "قُو",
+        "audio": {
+         "src": "/audio/o/42ef5d54afdb259f.mp3"
+        },
+        "pair_ar": "قُ"
+       },
+       {
+        "ar": "دُ",
+        "audio": {
+         "src": "/audio/o/8b99fb37fff596d1.mp3"
+        },
+        "pair_ar": "دُو"
+       },
+       {
+        "ar": "دُو",
+        "audio": {
+         "src": "/audio/o/ab00af6688f8016d.mp3"
+        },
+        "pair_ar": "دُ"
+       },
+       {
+        "ar": "جُنُبٌ",
+        "audio": {
+         "src": "/audio/o/afdcb99d031b98d0.mp3"
+        },
+        "pair_ar": "جُنُوبٌ"
+       },
+       {
+        "ar": "جُنُوبٌ",
+        "audio": {
+         "src": "/audio/o/eb2934e5a96ae9a2.mp3"
+        },
+        "pair_ar": "جُنُبٌ"
+       },
+       {
+        "ar": "سُرُرٌ",
+        "audio": {
+         "src": "/audio/o/77bd3814d6b6dfd9.mp3"
+        },
+        "pair_ar": "سُرُورٌ"
+       },
+       {
+        "ar": "سُرُورٌ",
+        "audio": {
+         "src": "/audio/o/c4c09119b4605a71.mp3"
+        },
+        "pair_ar": "سُرُرٌ"
+       },
+       {
+        "ar": "حُرٌّ",
+        "audio": {
+         "src": "/audio/o/9b855cba2468aef8.mp3"
+        },
+        "pair_ar": "حُورٌ"
+       },
+       {
+        "ar": "حُورٌ",
+        "audio": {
+         "src": "/audio/o/5c735f3f7c302211.mp3"
+        },
+        "pair_ar": "حُرٌّ"
+       }
+      ],
+      "section": {
+       "id": "U pendek (ـُ) dan u panjang (ـُو)"
+      },
+      "note_id": "Dhammah (ـُ) dibaca \"u\" pendek, satu ketukan. Dhammah + wau (ـُو) dibaca \"uu\" panjang, dua ketukan. Panjang-pendeknya mengubah arti: جُنُبٌ = junub, جُنُوبٌ = selatan; سُرُرٌ = ranjang-ranjang, سُرُورٌ = kegembiraan; حُرٌّ = merdeka, حُورٌ = bidadari. Ketuk tiap kotak dan bandingkan."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d6-dengar-janub",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "جُنُوبٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/eb2934e5a96ae9a2.mp3"
+       }
+      },
+      "answer": "جُنُوبٌ",
+      "options": [
+       "جُنُوبٌ",
+       "جُنُبٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "جُنُوبٌ": {
+        "src": "/audio/o/eb2934e5a96ae9a2.mp3"
+       },
+       "جُنُبٌ": {
+        "src": "/audio/o/afdcb99d031b98d0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d6-dengar-surur",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "سُرُرٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/77bd3814d6b6dfd9.mp3"
+       }
+      },
+      "answer": "سُرُرٌ",
+      "options": [
+       "سُرُرٌ",
+       "سُرُورٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سُرُرٌ": {
+        "src": "/audio/o/77bd3814d6b6dfd9.mp3"
+       },
+       "سُرُورٌ": {
+        "src": "/audio/o/c4c09119b4605a71.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d6-dengar-hur",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "حُورٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/5c735f3f7c302211.mp3"
+       }
+      },
+      "answer": "حُورٌ",
+      "options": [
+       "حُورٌ",
+       "حُرٌّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "حُورٌ": {
+        "src": "/audio/o/5c735f3f7c302211.mp3"
+       },
+       "حُرٌّ": {
+        "src": "/audio/o/9b855cba2468aef8.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d6-dengar-hurr",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "حُرٌّ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/9b855cba2468aef8.mp3"
+       }
+      },
+      "answer": "حُرٌّ",
+      "options": [
+       "حُرٌّ",
+       "حُورٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "حُرٌّ": {
+        "src": "/audio/o/9b855cba2468aef8.mp3"
+       },
+       "حُورٌ": {
+        "src": "/audio/o/5c735f3f7c302211.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d6-cari-u-panjang",
+      "instruction": "Kata mana yang berisi u panjang (ـُو)?",
+      "prompt": {
+       "id": "Cari bunyi \"uu\""
+      },
+      "answer": "سُوقٌ",
+      "options": [
+       "سُوقٌ",
+       "سُعالٌ",
+       "صُداعٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سُوقٌ": {
+        "src": "/audio/o/5bc8636d0b6ed92e.mp3"
+       },
+       "سُعالٌ": {
+        "src": "/audio/o/cfa7d03d3c555f3a.mp3"
+       },
+       "صُداعٌ": {
+        "src": "/audio/o/df23246b93f5f7ae.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u15-d6-ucap-asyuru-sudaa",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَشْعُرُ بِصُداعٍ.",
+       "id": "Saya merasa sakit kepala.",
+       "audio": {
+        "src": "/audio/o/bae876572657cd7a.mp3"
+       }
+      },
+      "target": "أَشْعُرُ بِصُداعٍ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u15-d6-ucap-surur",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "سُرُورٌ",
+       "id": "kegembiraan",
+       "audio": {
+        "src": "/audio/o/c4c09119b4605a71.mp3"
+       }
+      },
+      "target": "سُرُورٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d6-simak-gigi",
+      "instruction": "Dengarkan. Apa keluhannya?",
+      "prompt": {
+       "tts": "عِنْدِي أَلَمٌ فِي أَسْنانِي مُنْذُ أَمْسِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/cde8deda1f8890dc.mp3"
+       }
+      },
+      "answer": "Sakit gigi sejak kemarin",
+      "options": [
+       "Sakit gigi sejak kemarin",
+       "Sakit perut sejak kemarin",
+       "Batuk sejak dua hari"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d6-simak-harga-15000",
+      "instruction": "Dengarkan. Berapa harga obatnya?",
+      "prompt": {
+       "tts": "ثَمَنُ هٰذا الدَّواءِ خَمْسَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/70ef0f973f16c571.mp3"
+       }
+      },
+      "answer": "Rp15.000",
+      "options": [
+       "Rp15.000",
+       "Rp5.000",
+       "Rp50.000"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d6-simak-mawid-rabu",
+      "instruction": "Dengarkan. Kapan jadwalnya?",
+      "prompt": {
+       "tts": "مَوْعِدُكِ يَوْمَ الأَرْبِعاءِ فِي السّاعَةِ العاشِرَةِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/7436be95b3f77235.mp3"
+       }
+      },
+      "answer": "Rabu, jam 10",
+      "options": [
+       "Rabu, jam 10",
+       "Kamis, jam 10",
+       "Rabu, jam 2"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u15-d6-lat-dengar-junub",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "جُنُبٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/afdcb99d031b98d0.mp3"
+      }
+     },
+     "answer": "جُنُبٌ",
+     "options": [
+      "جُنُبٌ",
+      "جُنُوبٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "جُنُبٌ": {
+       "src": "/audio/o/afdcb99d031b98d0.mp3"
+      },
+      "جُنُوبٌ": {
+       "src": "/audio/o/eb2934e5a96ae9a2.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d6-lat-dengar-surur2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "سُرُورٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/c4c09119b4605a71.mp3"
+      }
+     },
+     "answer": "سُرُورٌ",
+     "options": [
+      "سُرُورٌ",
+      "سُرُرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سُرُورٌ": {
+       "src": "/audio/o/c4c09119b4605a71.mp3"
+      },
+      "سُرُرٌ": {
+       "src": "/audio/o/77bd3814d6b6dfd9.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d6-lat-dengar-du",
+     "instruction": "Dengarkan. Mana yang kamu dengar?",
+     "prompt": {
+      "tts": "دُو",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/ab00af6688f8016d.mp3"
+      }
+     },
+     "answer": "دُو",
+     "options": [
+      "دُو",
+      "دُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "دُو": {
+       "src": "/audio/o/ab00af6688f8016d.mp3"
+      },
+      "دُ": {
+       "src": "/audio/o/8b99fb37fff596d1.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d6-lat-simak-kis",
+     "instruction": "Dengarkan. Berapa harga kantongnya?",
+     "prompt": {
+      "tts": "ثَمَنُ الكِيسِ خَمْسُمِئَةِ رُوبِيَّةٍ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/d47fd5124a3844d3.mp3"
+      }
+     },
+     "answer": "Rp500",
+     "options": [
+      "Rp500",
+      "Rp5.000",
+      "Rp50"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d6-lat-simak-keluhan",
+     "instruction": "Dengarkan. Apa keluhannya?",
+     "prompt": {
+      "tts": "أَشْعُرُ بِحُمَّى وَصُداعٍ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/ab9802aad5805065.mp3"
+      }
+     },
+     "answer": "Demam dan sakit kepala",
+     "options": [
+      "Demam dan sakit kepala",
+      "Batuk dan sakit perut",
+      "Sakit gigi"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u15-d7",
+   "dars": 7,
+   "title_id": "Berbicara",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "أُرِيدُ مَوْعِدًا مَعَ الطَّبِيبِ.",
+        "id": "Saya ingin membuat janji dengan dokter.",
+        "emoji": "📞",
+        "audio": {
+         "src": "/audio/o/292afdd24b390b6a.mp3"
+        }
+       },
+       {
+        "ar": "مَتَى المَوْعِدُ؟",
+        "id": "Kapan jadwalnya?",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/87fd31a71de636de.mp3"
+        }
+       },
+       {
+        "ar": "سَلامَتُكَ · سَلامَتُكِ",
+        "id": "semoga lekas sembuh (lk · pr)",
+        "emoji": "💐",
+        "audio": {
+         "src": "/audio/o/9d396e4f18e7b624.mp3"
+        }
+       },
+       {
+        "ar": "شَفاكَ اللّٰهُ · شَفاكِ اللّٰهُ",
+        "id": "semoga Allah menyembuhkanmu (lk · pr)",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/a8cd7397b530f574.mp3"
+        }
+       },
+       {
+        "ar": "آمِينَ",
+        "id": "amin · ★ amin",
+        "emoji": "🙏",
+        "audio": {
+         "src": "/audio/o/349d344791190bdf.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Di klinik dan saat menjenguk"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u15-d7-cerita-keluhan",
+      "instruction": "Kamu di klinik. Ceritakan keluhanmu kepada dokter",
+      "prompt": {
+       "id": "Sebut apa yang kamu rasakan dan sejak kapan."
+      },
+      "model": [
+       {
+        "ar": "أَشْعُرُ بِصُداعٍ.",
+        "id": "Saya merasa sakit kepala.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/ee134d77d5305e8a.mp3"
+        }
+       },
+       {
+        "ar": "عِنْدِي سُعالٌ مُنْذُ يَوْمَيْنِ.",
+        "id": "Saya batuk sejak dua hari.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/65102468b430b15e.mp3"
+        }
+       },
+       {
+        "ar": "لَيْسَ عِنْدِي حُمَّى.",
+        "id": "Saya tidak demam.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/87f6e11361a66240.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u15-d7-ucap-alam-rasi",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "عِنْدِي أَلَمٌ فِي رَأْسِي.",
+       "id": "Kepala saya sakit.",
+       "audio": {
+        "src": "/audio/o/600ba942cd329b7f.mp3"
+       }
+      },
+      "target": "عِنْدِي أَلَمٌ فِي رَأْسِي."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d7-buat-janji",
+      "instruction": "Kamu menelepon klinik untuk membuat janji. Kamu berkata …",
+      "prompt": {
+       "id": "Membuat janji dengan dokter",
+       "emoji": "📞"
+      },
+      "answer": "أُرِيدُ مَوْعِدًا مَعَ الطَّبِيبِ، مِنْ فَضْلِكَ.",
+      "options": [
+       "أُرِيدُ مَوْعِدًا مَعَ الطَّبِيبِ، مِنْ فَضْلِكَ.",
+       "شَفاكَ اللّٰهُ.",
+       "بِكَمْ هٰذا الدَّواءُ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أُرِيدُ مَوْعِدًا مَعَ الطَّبِيبِ، مِنْ فَضْلِكَ.": {
+        "src": "/audio/o/c1b537c8ae4d88f2.mp3"
+       },
+       "شَفاكَ اللّٰهُ.": {
+        "src": "/audio/o/5b7ad3e3323c7acd.mp3"
+       },
+       "بِكَمْ هٰذا الدَّواءُ؟": {
+        "src": "/audio/o/850444d3c9937b07.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u15-d7-janji-dokter-gigi",
+      "instruction": "Buat janji dengan dokter gigi lewat telepon",
+      "prompt": {
+       "id": "Beri salam, sebutkan keperluanmu, lalu tanyakan jadwalnya."
+      },
+      "model": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ.",
+        "id": "Assalamualaikum.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/790d5b87e56b02f2.mp3"
+        }
+       },
+       {
+        "ar": "أُرِيدُ مَوْعِدًا مَعَ طَبِيبِ الأَسْنانِ.",
+        "id": "Saya ingin membuat janji dengan dokter gigi.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/a21ac10dee765ef6.mp3"
+        }
+       },
+       {
+        "ar": "مَتَى المَوْعِدُ، مِنْ فَضْلِكِ؟",
+        "id": "Kapan jadwalnya? (kepada pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/7d95384993235be6.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d7-doa-aisyah",
+      "instruction": "Aisyah sakit. Kamu mendoakannya …",
+      "prompt": {
+       "id": "Mendoakan teman perempuan",
+       "emoji": "🤲"
+      },
+      "answer": "شَفاكِ اللّٰهُ يا عائِشَةُ.",
+      "options": [
+       "شَفاكِ اللّٰهُ يا عائِشَةُ.",
+       "شَفاكَ اللّٰهُ يا عائِشَةُ.",
+       "مَعَ السَّلامَةِ يا عائِشَةُ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شَفاكِ اللّٰهُ يا عائِشَةُ.": {
+        "src": "/audio/o/8d2b34c2eaf19f9d.mp3"
+       },
+       "شَفاكَ اللّٰهُ يا عائِشَةُ.": {
+        "src": "/audio/o/a079f73c0fc126b7.mp3"
+       },
+       "مَعَ السَّلامَةِ يا عائِشَةُ.": {
+        "src": "/audio/o/11bc8faebc8e2c50.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d7-balas-syafakallah",
+      "instruction": "Temanmu berkata شَفاكَ اللّٰهُ. Kamu menjawab …",
+      "prompt": {
+       "ar": "شَفاكَ اللّٰهُ.",
+       "audio": {
+        "src": "/audio/o/5b7ad3e3323c7acd.mp3"
+       }
+      },
+      "answer": "آمِينَ، شُكْرًا.",
+      "options": [
+       "آمِينَ، شُكْرًا.",
+       "وَعَلَيْكُمُ السَّلامُ.",
+       "صَباحَ النُّورِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "آمِينَ، شُكْرًا.": {
+        "src": "/audio/o/fece7a58b869f2f6.mp3"
+       },
+       "وَعَلَيْكُمُ السَّلامُ.": {
+        "src": "/audio/o/f43ab2bfd0d99792.mp3"
+       },
+       "صَباحَ النُّورِ.": {
+        "src": "/audio/o/03020ddba8e85181.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u15-d7-ucap-syafakallah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "شَفاكَ اللّٰهُ.",
+       "id": "Semoga Allah menyembuhkanmu. (lk)",
+       "audio": {
+        "src": "/audio/o/7ead31ba372f0cb8.mp3"
+       }
+      },
+      "target": "شَفاكَ اللّٰهُ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u15-d7-jenguk-teman",
+      "instruction": "Jenguk temanmu yang sakit: tanyakan keadaannya, lalu doakan",
+      "prompt": {
+       "id": "Pakai سَلامَتُكَ dan شَفاكَ اللّٰهُ."
+      },
+      "model": [
+       {
+        "ar": "سَلامَتُكَ يا رِزْقِي!",
+        "id": "Semoga lekas sembuh, Rizki!",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/9138f882ae259fff.mp3"
+        }
+       },
+       {
+        "ar": "بِمَ تَشْعُرُ الآنَ؟",
+        "id": "Apa yang kamu rasakan sekarang?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/77aa2225fce5e859.mp3"
+        }
+       },
+       {
+        "ar": "شَفاكَ اللّٰهُ.",
+        "id": "Semoga Allah menyembuhkanmu.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/70c2115f96411d22.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d7-jawab-mundzu",
+      "instruction": "Dokter bertanya. Jawaban yang tepat …",
+      "prompt": {
+       "ar": "مُنْذُ مَتَى عِنْدَكَ سُعالٌ؟",
+       "audio": {
+        "src": "/audio/o/0d1920e9ec8095b1.mp3"
+       }
+      },
+      "answer": "مُنْذُ ثَلاثَةِ أَيّامٍ.",
+      "options": [
+       "مُنْذُ ثَلاثَةِ أَيّامٍ.",
+       "فِي رَأْسِي.",
+       "بِعَشَرَةِ آلافِ رُوبِيَّةٍ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مُنْذُ ثَلاثَةِ أَيّامٍ.": {
+        "src": "/audio/o/0396eded486f26bb.mp3"
+       },
+       "فِي رَأْسِي.": {
+        "src": "/audio/o/8af07ee23214be8c.mp3"
+       },
+       "بِعَشَرَةِ آلافِ رُوبِيَّةٍ.": {
+        "src": "/audio/o/4ff3dba6d52f0b1a.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u15-d7-lat-salamatuki-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "سَلامَتُكِ!",
+      "audio": {
+       "src": "/audio/o/5eb05eebfe007f21.mp3"
+      }
+     },
+     "answer": "Semoga lekas sembuh! (pr)",
+     "options": [
+      "Semoga lekas sembuh! (pr)",
+      "Selamat jalan! (pr)",
+      "Selamat datang! (pr)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d7-lat-mata-mawid-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مَتَى المَوْعِدُ؟",
+      "audio": {
+       "src": "/audio/o/87fd31a71de636de.mp3"
+      }
+     },
+     "answer": "Kapan jadwalnya?",
+     "options": [
+      "Kapan jadwalnya?",
+      "Di mana kliniknya?",
+      "Berapa harganya?"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d7-lat-katakan-batn",
+     "instruction": "Perutmu sakit. Kamu berkata kepada dokter …",
+     "prompt": {
+      "id": "Perut saya sakit.",
+      "emoji": "🫃"
+     },
+     "answer": "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+     "options": [
+      "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+      "عِنْدِي أَلَمٌ فِي أَسْنانِي.",
+      "أَشْعُرُ بِسُعالٍ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "عِنْدِي أَلَمٌ فِي بَطْنِي.": {
+       "src": "/audio/o/54c44104e1e6f80e.mp3"
+      },
+      "عِنْدِي أَلَمٌ فِي أَسْنانِي.": {
+       "src": "/audio/o/e0958b47e8e4cdfb.mp3"
+      },
+      "أَشْعُرُ بِسُعالٍ.": {
+       "src": "/audio/o/57789bcda9342eee.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d7-lat-doa-rizki",
+     "instruction": "Rizki sakit. Kamu berkata …",
+     "prompt": {
+      "id": "Semoga lekas sembuh, Rizki!",
+      "emoji": "💐"
+     },
+     "answer": "سَلامَتُكَ يا رِزْقِي!",
+     "options": [
+      "سَلامَتُكَ يا رِزْقِي!",
+      "سَلامَتُكِ يا رِزْقِي!",
+      "أَهْلًا وَسَهْلًا يا رِزْقِي!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سَلامَتُكَ يا رِزْقِي!": {
+       "src": "/audio/o/a4e7c5e63f47e2f1.mp3"
+      },
+      "سَلامَتُكِ يا رِزْقِي!": {
+       "src": "/audio/o/f4425026031aa889.mp3"
+      },
+      "أَهْلًا وَسَهْلًا يا رِزْقِي!": {
+       "src": "/audio/o/9fd57462e00be6e4.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u15-d8",
+   "dars": 8,
+   "title_id": "Membaca: klinik, kartu berobat, struk",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "بُودِي مَرِيضٌ اليَوْمَ.",
+        "id": "Hari ini Budi sakit.",
+        "audio": {
+         "src": "/audio/o/53d94f547d66ff6d.mp3"
+        }
+       },
+       {
+        "ar": "عِنْدَهُ حُمَّى وَسُعالٌ وَصُداعٌ.",
+        "id": "Dia demam, batuk, dan sakit kepala.",
+        "audio": {
+         "src": "/audio/o/7f837d61319e96d4.mp3"
+        }
+       },
+       {
+        "ar": "ذَهَبَ مَعَ رِزْقِي إِلَى عِيادَةِ المَعْهَدِ.",
+        "id": "Dia pergi bersama Rizki ke klinik ma'had.",
+        "audio": {
+         "src": "/audio/o/e5d3a9d57879b82d.mp3"
+        }
+       },
+       {
+        "ar": "سَأَلَهُ الطَّبِيبُ: «مُنْذُ مَتَى أَنْتَ مَرِيضٌ؟»",
+        "id": "Dokter bertanya kepadanya, \"Sejak kapan kamu sakit?\"",
+        "audio": {
+         "src": "/audio/o/a152795296a4236a.mp3"
+        }
+       },
+       {
+        "ar": "قالَ بُودِي: «مُنْذُ أَمْسِ، بَعْدَ المَطَرِ.»",
+        "id": "Budi berkata, \"Sejak kemarin, sesudah hujan.\"",
+        "audio": {
+         "src": "/audio/o/87cc4f872888ca3a.mp3"
+        }
+       },
+       {
+        "ar": "كَتَبَ لَهُ الطَّبِيبُ دَواءً لِلْحُمَّى وَدَواءً لِلسُّعالِ.",
+        "id": "Dokter menuliskan resep obat demam dan obat batuk untuknya.",
+        "audio": {
+         "src": "/audio/o/785fa706e8fe0a02.mp3"
+        }
+       },
+       {
+        "ar": "وَقالَ: «اِشْرَبْ ماءً كَثِيرًا، وَنَمْ جَيِّدًا.»",
+        "id": "Dokter juga berkata, \"Minumlah air yang banyak dan tidurlah yang cukup.\"",
+        "audio": {
+         "src": "/audio/o/317cf6b17b77a964.mp3"
+        }
+       },
+       {
+        "ar": "ثُمَّ اشْتَرَى رِزْقِي الدَّواءَ مِنَ الصَّيْدَلِيَّةِ.",
+        "id": "Lalu Rizki membeli obatnya di apotek.",
+        "audio": {
+         "src": "/audio/o/e89440d8d6ca6731.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Budi di klinik ma'had"
+      },
+      "imgs": [
+       "/img/o/u15-baca-klinik.webp"
+      ],
+      "instruction_id": "Baca paragraf ini pelan-pelan. Ketuk tombol suara bila perlu."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d8-baca-pergi-siti",
+      "instruction": "Benar atau salah? \"Budi pergi ke klinik bersama Siti.\"",
+      "prompt": {
+       "ar": "ذَهَبَ بُودِي إِلَى العِيادَةِ مَعَ سِيتِي.",
+       "audio": {
+        "src": "/audio/o/ca64e86c1086fa57.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d8-baca-mundzu-ams",
+      "instruction": "Menurut bacaan, sejak kapan Budi sakit?",
+      "prompt": {
+       "id": "مُنْذُ مَتَى بُودِي مَرِيضٌ؟"
+      },
+      "answer": "Sejak kemarin, sesudah hujan",
+      "options": [
+       "Sejak kemarin, sesudah hujan",
+       "Sejak dua hari",
+       "Sejak seminggu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d8-baca-nasihat",
+      "instruction": "Apa nasihat dokter untuk Budi?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "Minum air yang banyak dan tidur yang cukup",
+      "options": [
+       "Minum air yang banyak dan tidur yang cukup",
+       "Pulang ke Surabaya besok",
+       "Belajar sampai malam"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d8-baca-isytara",
+      "instruction": "Siapa yang membeli obat di apotek?",
+      "prompt": {
+       "ar": "مَنِ اشْتَرَى الدَّواءَ؟",
+       "audio": {
+        "src": "/audio/o/fed4156b428b2271.mp3"
+       }
+      },
+      "answer": "Rizki",
+      "options": [
+       "Rizki",
+       "Budi",
+       "Dokter"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "الاِسْمُ: بُودِي",
+        "id": "Nama: Budi",
+        "audio": {
+         "src": "/audio/o/40b9ea1a4c1044e8.mp3"
+        }
+       },
+       {
+        "ar": "العُمْرُ: تِسْعَ عَشْرَةَ سَنَةً",
+        "id": "Usia: 19 tahun",
+        "audio": {
+         "src": "/audio/o/14a84e5a04b4bbc2.mp3"
+        }
+       },
+       {
+        "ar": "العُنْوانُ: مَعْهَدُ الهُدَى، يُوغْياكَرْتا",
+        "id": "Alamat: Ma'had al-Huda, Yogyakarta",
+        "audio": {
+         "src": "/audio/o/b0fd84947681ad8e.mp3"
+        }
+       },
+       {
+        "ar": "اليَوْمُ: الثُّلاثاءُ",
+        "id": "Hari: Selasa",
+        "audio": {
+         "src": "/audio/o/1c0b6e7668542d27.mp3"
+        }
+       },
+       {
+        "ar": "الشَّكْوَى: حُمَّى، سُعالٌ، صُداعٌ",
+        "id": "Keluhan: demam, batuk, sakit kepala",
+        "audio": {
+         "src": "/audio/o/1778d0c81f1f3767.mp3"
+        }
+       },
+       {
+        "ar": "المُدَّةُ: يَوْمٌ واحِدٌ",
+        "id": "Lama sakit: satu hari",
+        "audio": {
+         "src": "/audio/o/5abed3e6e19c6830.mp3"
+        }
+       },
+       {
+        "ar": "المَوْعِدُ القادِمُ: يَوْمُ الجُمُعَةِ",
+        "id": "Kontrol berikutnya: hari Jumat",
+        "audio": {
+         "src": "/audio/o/aefc373e6a7ce3bd.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kartu berobat Budi"
+      },
+      "imgs": [
+       "/img/o/u15-kartu-berobat.webp"
+      ],
+      "title_ar": "بِطاقَةُ المَرِيضِ · عِيادَةُ المَعْهَدِ",
+      "instruction_id": "Ini kartu berobat yang diisi di klinik. Baca tiap barisnya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d8-kartu-umur",
+      "instruction": "Menurut kartu, berapa usia Budi?",
+      "prompt": {
+       "ar": "العُمْرُ: تِسْعَ عَشْرَةَ سَنَةً",
+       "audio": {
+        "src": "/audio/o/14a84e5a04b4bbc2.mp3"
+       }
+      },
+      "answer": "19 tahun",
+      "options": [
+       "19 tahun",
+       "17 tahun",
+       "9 tahun"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d8-kartu-mawid",
+      "instruction": "Kapan Budi kembali ke klinik?",
+      "prompt": {
+       "id": "Menurut kartu berobat"
+      },
+      "answer": "Hari Jumat",
+      "options": [
+       "Hari Jumat",
+       "Hari Selasa",
+       "Hari Ahad"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "دَواءُ الحُمَّى: ثَمانِيَةُ آلافِ رُوبِيَّةٍ",
+        "id": "Obat demam: Rp8.000",
+        "audio": {
+         "src": "/audio/o/35b29ac22ede2e51.mp3"
+        }
+       },
+       {
+        "ar": "دَواءُ السُّعالِ: خَمْسَةٌ وَعِشْرُونَ أَلْفَ رُوبِيَّةٍ",
+        "id": "Obat batuk: Rp25.000",
+        "audio": {
+         "src": "/audio/o/bc6b2ca1379bcacd.mp3"
+        }
+       },
+       {
+        "ar": "المَجْمُوعُ: ثَلاثَةٌ وَثَلاثُونَ أَلْفَ رُوبِيَّةٍ",
+        "id": "Jumlah: Rp33.000",
+        "audio": {
+         "src": "/audio/o/64c3e41857c978ac.mp3"
+        }
+       },
+       {
+        "ar": "المَدْفُوعُ: خَمْسُونَ أَلْفَ رُوبِيَّةٍ",
+        "id": "Dibayar: Rp50.000",
+        "audio": {
+         "src": "/audio/o/93fe4dfdeaa11397.mp3"
+        }
+       },
+       {
+        "ar": "الباقِي: سَبْعَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ",
+        "id": "Kembalian: Rp17.000",
+        "audio": {
+         "src": "/audio/o/ef955fb780d05013.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Struk apotek"
+      },
+      "imgs": [
+       "/img/o/u15-struk-apotek.webp"
+      ],
+      "title_ar": "صَيْدَلِيَّةُ الشِّفاءِ",
+      "instruction_id": "Rizki membeli obat Budi dan mendapat struk ini."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d8-struk-batuk",
+      "instruction": "Berapa harga obat batuk?",
+      "prompt": {
+       "id": "Menurut struk"
+      },
+      "answer": "Rp25.000",
+      "options": [
+       "Rp25.000",
+       "Rp8.000",
+       "Rp33.000"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d8-struk-baqi",
+      "instruction": "Rizki membayar Rp50.000. Berapa kembaliannya?",
+      "prompt": {
+       "ar": "الباقِي: …",
+       "audio": {
+        "src": "/audio/o/fb21d3e6b115e4f6.mp3"
+       }
+      },
+      "answer": "Rp17.000",
+      "options": [
+       "Rp17.000",
+       "Rp33.000",
+       "Rp7.000"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d8-struk-jumlah-ar",
+      "instruction": "Jumlah harga (Rp33.000) dalam bahasa Arab adalah …",
+      "prompt": {
+       "id": "Rp33.000"
+      },
+      "answer": "ثَلاثَةٌ وَثَلاثُونَ أَلْفَ رُوبِيَّةٍ",
+      "options": [
+       "ثَلاثَةٌ وَثَلاثُونَ أَلْفَ رُوبِيَّةٍ",
+       "ثَلاثُونَ أَلْفَ رُوبِيَّةٍ",
+       "ثَلاثَةُ آلافِ رُوبِيَّةٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ثَلاثَةٌ وَثَلاثُونَ أَلْفَ رُوبِيَّةٍ": {
+        "src": "/audio/o/d68b16570989e671.mp3"
+       },
+       "ثَلاثُونَ أَلْفَ رُوبِيَّةٍ": {
+        "src": "/audio/o/140e52230bcb7cda.mp3"
+       },
+       "ثَلاثَةُ آلافِ رُوبِيَّةٍ": {
+        "src": "/audio/o/bf2426a062ada284.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u15-d8-lat-baca-keluhan",
+     "instruction": "Menurut bacaan, apa saja keluhan Budi?",
+     "prompt": {
+      "ar": "عِنْدَهُ حُمَّى وَسُعالٌ وَصُداعٌ.",
+      "audio": {
+       "src": "/audio/o/7f837d61319e96d4.mp3"
+      }
+     },
+     "answer": "Demam, batuk, dan sakit kepala",
+     "options": [
+      "Demam, batuk, dan sakit kepala",
+      "Sakit perut dan sakit gigi",
+      "Demam saja"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d8-lat-baca-resep",
+     "instruction": "Benar atau salah? \"Dokter menuliskan obat demam dan obat batuk.\"",
+     "prompt": {
+      "ar": "كَتَبَ الطَّبِيبُ دَواءً لِلْحُمَّى وَدَواءً لِلسُّعالِ.",
+      "audio": {
+       "src": "/audio/o/7e0c59159f7a6493.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d8-lat-kartu-alamat",
+     "instruction": "Baris mana di kartu yang menunjukkan alamat?",
+     "prompt": {
+      "id": "Kartu berobat Budi"
+     },
+     "answer": "العُنْوانُ",
+     "options": [
+      "العُنْوانُ",
+      "الشَّكْوَى",
+      "العُمْرُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "العُنْوانُ": {
+       "src": "/audio/o/fd2e8f61d438f529.mp3"
+      },
+      "الشَّكْوَى": {
+       "src": "/audio/o/625a05ff3b642271.mp3"
+      },
+      "العُمْرُ": {
+       "src": "/audio/o/257cadc1392cdb36.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d8-lat-struk-demam",
+     "instruction": "Berapa harga obat demam?",
+     "prompt": {
+      "ar": "دَواءُ الحُمَّى: ثَمانِيَةُ آلافِ رُوبِيَّةٍ",
+      "audio": {
+       "src": "/audio/o/35b29ac22ede2e51.mp3"
+      }
+     },
+     "answer": "Rp8.000",
+     "options": [
+      "Rp8.000",
+      "Rp800",
+      "Rp18.000"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u15-d9",
+   "dars": 9,
+   "title_id": "Mengisi kartu berobat, imla'",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "الاِسْمُ",
+        "id": "nama",
+        "audio": {
+         "src": "/audio/o/3ef8fe9bb19c4bb0.mp3"
+        }
+       },
+       {
+        "ar": "العُمْرُ",
+        "id": "usia",
+        "audio": {
+         "src": "/audio/o/257cadc1392cdb36.mp3"
+        }
+       },
+       {
+        "ar": "العُنْوانُ",
+        "id": "alamat",
+        "audio": {
+         "src": "/audio/o/fd2e8f61d438f529.mp3"
+        }
+       },
+       {
+        "ar": "التّارِيخُ",
+        "id": "tanggal",
+        "audio": {
+         "src": "/audio/o/ac2f181229ed0708.mp3"
+        }
+       },
+       {
+        "ar": "الشَّكْوَى",
+        "id": "keluhan",
+        "audio": {
+         "src": "/audio/o/625a05ff3b642271.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kolom kartu berobat"
+      },
+      "instruction_id": "Ini kolom yang biasa ada di kartu berobat. Telusuri dan salin tiap kata."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "الاِسْمُ: عائِشَةُ",
+        "id": "Nama: Aisyah",
+        "audio": {
+         "src": "/audio/o/0b5058c14cbd636e.mp3"
+        }
+       },
+       {
+        "ar": "الجِنْسِيَّةُ: مالِيزِيَّةٌ",
+        "id": "Kewarganegaraan: Malaysia",
+        "audio": {
+         "src": "/audio/o/3e45064499bf95a4.mp3"
+        }
+       },
+       {
+        "ar": "الشَّكْوَى: أَلَمٌ فِي البَطْنِ",
+        "id": "Keluhan: sakit perut",
+        "audio": {
+         "src": "/audio/o/e346811abbaf03ad.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Contoh: kartu berobat Aisyah"
+      },
+      "instruction_id": "Aisyah mengisi kartunya di klinik. Salin isinya lengkap dengan harakat."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d9-kolom-nama",
+      "instruction": "Di kolom mana kamu menulis namamu?",
+      "prompt": {
+       "id": "Kartu berobat",
+       "emoji": "🪪"
+      },
+      "answer": "الاِسْمُ",
+      "options": [
+       "الاِسْمُ",
+       "العُنْوانُ",
+       "الشَّكْوَى"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "الاِسْمُ": {
+        "src": "/audio/o/3ef8fe9bb19c4bb0.mp3"
+       },
+       "العُنْوانُ": {
+        "src": "/audio/o/fd2e8f61d438f529.mp3"
+       },
+       "الشَّكْوَى": {
+        "src": "/audio/o/625a05ff3b642271.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d9-isi-keluhan-siti",
+      "instruction": "Siti sakit gigi. Apa yang dia tulis di kolom الشَّكْوَى?",
+      "prompt": {
+       "ar": "الشَّكْوَى: …",
+       "audio": {
+        "src": "/audio/o/ed6e250d76b151c2.mp3"
+       }
+      },
+      "answer": "أَلَمٌ فِي الأَسْنانِ",
+      "options": [
+       "أَلَمٌ فِي الأَسْنانِ",
+       "أَلَمٌ فِي البَطْنِ",
+       "صُداعٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَلَمٌ فِي الأَسْنانِ": {
+        "src": "/audio/o/1ca2adbf283b68f5.mp3"
+       },
+       "أَلَمٌ فِي البَطْنِ": {
+        "src": "/audio/o/1989806a8670e09a.mp3"
+       },
+       "صُداعٌ": {
+        "src": "/audio/o/df23246b93f5f7ae.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d9-isi-umur-rizki",
+      "instruction": "Rizki berusia 19 tahun. Kolom العُمْرُ diisi …",
+      "prompt": {
+       "ar": "العُمْرُ: …",
+       "audio": {
+        "src": "/audio/o/eb44f69fe6ef34eb.mp3"
+       }
+      },
+      "answer": "تِسْعَ عَشْرَةَ سَنَةً",
+      "options": [
+       "تِسْعَ عَشْرَةَ سَنَةً",
+       "تِسْعَةَ عَشَرَ سَنَةً",
+       "تِسْعُ سَنَواتٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تِسْعَ عَشْرَةَ سَنَةً": {
+        "src": "/audio/o/e4c22a49ae279d37.mp3"
+       },
+       "تِسْعَةَ عَشَرَ سَنَةً": {
+        "src": "/audio/o/f4a1183f72be80d1.mp3"
+       },
+       "تِسْعُ سَنَواتٍ": {
+        "src": "/audio/o/02b8a272bedb3438.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d9-imla-sudaa",
+      "instruction": "Imla'. Dengarkan, lalu pilih tulisan yang benar",
+      "prompt": {
+       "tts": "صُداعٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/df23246b93f5f7ae.mp3"
+       }
+      },
+      "answer": "صُداعٌ",
+      "options": [
+       "صُداعٌ",
+       "صُوداعٌ",
+       "سُداعٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صُداعٌ": {
+        "src": "/audio/o/df23246b93f5f7ae.mp3"
+       },
+       "صُوداعٌ": {
+        "src": "/audio/o/79a6db673d059ff2.mp3"
+       },
+       "سُداعٌ": {
+        "src": "/audio/o/93be5628bf962d0e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d9-imla-sual",
+      "instruction": "Imla'. Dengarkan, lalu pilih tulisan yang benar",
+      "prompt": {
+       "tts": "سُعالٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/cfa7d03d3c555f3a.mp3"
+       }
+      },
+      "answer": "سُعالٌ",
+      "options": [
+       "سُعالٌ",
+       "سُؤالٌ",
+       "سُوعالٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سُعالٌ": {
+        "src": "/audio/o/cfa7d03d3c555f3a.mp3"
+       },
+       "سُؤالٌ": {
+        "src": "/audio/o/6b3a28f24690f93f.mp3"
+       },
+       "سُوعالٌ": {
+        "src": "/audio/o/38d7a9968cc3ac16.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u15-d9-imla-mawid",
+      "instruction": "Imla'. Dengarkan, lalu pilih tulisan yang benar",
+      "prompt": {
+       "tts": "مَوْعِدٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/3150a5276262afcb.mp3"
+       }
+      },
+      "answer": "مَوْعِدٌ",
+      "options": [
+       "مَوْعِدٌ",
+       "مَوْئِدٌ",
+       "مُوعِدٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَوْعِدٌ": {
+        "src": "/audio/o/3150a5276262afcb.mp3"
+       },
+       "مَوْئِدٌ": {
+        "src": "/audio/o/b9c7251f3d057ff7.mp3"
+       },
+       "مُوعِدٌ": {
+        "src": "/audio/o/278cde85c0a1109b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d9-imla-eja-dawa",
+      "instruction": "Imla'. Dengarkan, lalu susun hurufnya",
+      "prompt": {
+       "tts": "دَواءٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/08c3636b4759b9ef.mp3"
+       },
+       "id": "obat"
+      },
+      "answer": "د و ا ء",
+      "tokens": [
+       "د",
+       "و",
+       "ا",
+       "ء",
+       "ع"
+      ],
+      "audioMap": {
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       },
+       "ا": {
+        "src": "/audio/o/4fc340bfb295d42f.mp3"
+       },
+       "ء": {
+        "src": "/audio/o/52e9982f7d450c2b.mp3"
+       },
+       "ع": {
+        "src": "/audio/o/3bd72853336f59da.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d9-imla-alam-rasi",
+      "instruction": "Imla'. Dengarkan, lalu susun kalimatnya",
+      "prompt": {
+       "tts": "الأَلَمُ فِي رَأْسِي.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/9e0689622ed7d2ad.mp3"
+       },
+       "id": "Sakitnya di kepala saya."
+      },
+      "answer": "الأَلَمُ فِي رَأْسِي",
+      "tokens": [
+       "الأَلَمُ",
+       "فِي",
+       "رَأْسِي",
+       "بَطْنِي"
+      ],
+      "audioMap": {
+       "الأَلَمُ": {
+        "src": "/audio/o/14fccfbd06f7ca81.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "رَأْسِي": {
+        "src": "/audio/o/187246006396b4fa.mp3"
+       },
+       "بَطْنِي": {
+        "src": "/audio/o/8e0ad42a061c02fe.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u15-d9-imla-humma-sual",
+      "instruction": "Imla'. Dengarkan, lalu susun kalimatnya",
+      "prompt": {
+       "tts": "أَشْعُرُ بِحُمَّى وَسُعالٍ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/27776fe9ff7ac5de.mp3"
+       },
+       "id": "Saya merasa demam dan batuk."
+      },
+      "answer": "أَشْعُرُ بِحُمَّى وَسُعالٍ",
+      "tokens": [
+       "أَشْعُرُ",
+       "بِحُمَّى",
+       "وَسُعالٍ",
+       "صُداعٍ"
+      ],
+      "audioMap": {
+       "أَشْعُرُ": {
+        "src": "/audio/o/8b50841a7f0e6410.mp3"
+       },
+       "بِحُمَّى": {
+        "src": "/audio/o/1aa2c122b32285f5.mp3"
+       },
+       "وَسُعالٍ": {
+        "src": "/audio/o/9c59c45b46a6018e.mp3"
+       },
+       "صُداعٍ": {
+        "src": "/audio/o/e14fbbc8f0f2b5b4.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u15-d9-lat-imla-humma",
+     "instruction": "Imla'. Dengarkan, lalu pilih tulisan yang benar",
+     "prompt": {
+      "tts": "حُمَّى",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/2b9cdcef618eb004.mp3"
+      }
+     },
+     "answer": "حُمَّى",
+     "options": [
+      "حُمَّى",
+      "هُمَّى",
+      "حُومَى"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "حُمَّى": {
+       "src": "/audio/o/2b9cdcef618eb004.mp3"
+      },
+      "هُمَّى": {
+       "src": "/audio/o/9f48e3c1700bfc77.mp3"
+      },
+      "حُومَى": {
+       "src": "/audio/o/56d9b741b48e4701.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u15-d9-lat-imla-eja-ras",
+     "instruction": "Imla'. Dengarkan, lalu susun hurufnya",
+     "prompt": {
+      "tts": "رَأْسٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/d05e904cbc11042a.mp3"
+      },
+      "id": "kepala"
+     },
+     "answer": "ر أ س",
+     "tokens": [
+      "ر",
+      "أ",
+      "س",
+      "ع"
+     ],
+     "audioMap": {
+      "ر": {
+       "src": "/audio/o/097dcac864b3884d.mp3"
+      },
+      "أ": {
+       "src": "/audio/o/16dfbde94d5f6724.mp3"
+      },
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      },
+      "ع": {
+       "src": "/audio/o/3bd72853336f59da.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u15-d9-lat-kolom-keluhan",
+     "instruction": "Kolom الشَّكْوَى diisi dengan …",
+     "prompt": {
+      "ar": "الشَّكْوَى",
+      "audio": {
+       "src": "/audio/o/625a05ff3b642271.mp3"
+      }
+     },
+     "answer": "keluhan sakit",
+     "options": [
+      "keluhan sakit",
+      "alamat",
+      "usia"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u15-d9-lat-imla-alam-asnan",
+     "instruction": "Imla'. Dengarkan, lalu susun kalimatnya",
+     "prompt": {
+      "tts": "الأَلَمُ فِي أَسْنانِي.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/86893865c159ce1e.mp3"
+      },
+      "id": "Sakitnya di gigi saya."
+     },
+     "answer": "الأَلَمُ فِي أَسْنانِي",
+     "tokens": [
+      "الأَلَمُ",
+      "فِي",
+      "أَسْنانِي",
+      "رَأْسِي"
+     ],
+     "audioMap": {
+      "الأَلَمُ": {
+       "src": "/audio/o/14fccfbd06f7ca81.mp3"
+      },
+      "فِي": {
+       "src": "/audio/o/795f40ec05f82a8d.mp3"
+      },
+      "أَسْنانِي": {
+       "src": "/audio/o/f77c0bd112e7d571.mp3"
+      },
+      "رَأْسِي": {
+       "src": "/audio/o/187246006396b4fa.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

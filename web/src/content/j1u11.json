@@ -1,0 +1,4383 @@
+{
+ "id": "j1u11",
+ "book": "1b",
+ "number": 11,
+ "title_ar": "النّاسُ وَالأَماكِنُ",
+ "title_id": "Orang dan tempat",
+ "lessons": [
+  {
+   "id": "j1u11-d1",
+   "dars": 1,
+   "title_id": "Pindah ke Yogyakarta",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا بُودِي، هَلْ أُسْرَتُكَ فِي يُوغْياكَرْتا؟",
+        "id": "Budi, apakah keluargamu di Yogyakarta?",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/759db9315d6df1a3.mp3"
+        }
+       },
+       {
+        "ar": "لا، أُسْرَتِي فِي سُورابايا. أَبِي صَيّادٌ هُناكَ.",
+        "id": "Tidak, keluargaku di Surabaya. Ayahku nelayan di sana.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/003416c7fd3b1485.mp3"
+        }
+       },
+       {
+        "ar": "لِماذا انْتَقَلْتَ إِلَى يُوغْياكَرْتا؟",
+        "id": "Kenapa kamu pindah ke Yogyakarta?",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/f01c5903ea6d3f05.mp3"
+        }
+       },
+       {
+        "ar": "اِنْتَقَلْتُ لِلدِّراسَةِ فِي المَعْهَدِ.",
+        "id": "Aku pindah untuk belajar di ma'had.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/cd645a350eece21d.mp3"
+        }
+       },
+       {
+        "ar": "ما رَأْيُكَ فِي يُوغْياكَرْتا؟",
+        "id": "Bagaimana pendapatmu tentang Yogyakarta?",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/c19315be436aed6f.mp3"
+        }
+       },
+       {
+        "ar": "هِيَ مَدِينَةٌ هادِئَةٌ، لٰكِنْ لَيْسَ فِيها بَحْرٌ.",
+        "id": "Kotanya tenang, tetapi tidak ada lautnya.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/caf051c0e3f8eb16.mp3"
+        }
+       },
+       {
+        "ar": "وَسُورابايا؟ هَلْ هِيَ هادِئَةٌ أَيْضًا؟",
+        "id": "Kalau Surabaya? Apakah tenang juga?",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/7e864764474b28fe.mp3"
+        }
+       },
+       {
+        "ar": "لا، لَيْسَتْ هادِئَةً. فِيها زِحامٌ كَثِيرٌ.",
+        "id": "Tidak, tidak tenang. Di sana macet sekali.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/db53434510d3f618.mp3"
+        }
+       },
+       {
+        "ar": "مِثْلُ إِسْطَنْبُول! هِيَ مَدِينَةٌ كَبِيرَةٌ أَيْضًا.",
+        "id": "Seperti Istanbul! Itu juga kota besar.",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/56111568c824e9af.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u11-pindah-jogja.webp"
+      ],
+      "instruction_id": "Sore hari di halaman ma'had. Yusuf bertanya kepada Budi tentang kota asalnya."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "لِماذا انْتَقَلْتَ؟",
+        "id": "kenapa kamu (lk) pindah?",
+        "emoji": "❓",
+        "audio": {
+         "src": "/audio/o/26735235cbfa10e9.mp3"
+        }
+       },
+       {
+        "ar": "اِنْتَقَلَ",
+        "id": "pindah (tempat tinggal)",
+        "emoji": "🚚",
+        "audio": {
+         "src": "/audio/o/e16614d2cf1706aa.mp3"
+        }
+       },
+       {
+        "ar": "ما رَأْيُكَ فِي …؟",
+        "id": "bagaimana pendapatmu (lk) tentang …?",
+        "emoji": "💬",
+        "audio": {
+         "src": "/audio/o/bee80cf1e1fa267a.mp3"
+        }
+       },
+       {
+        "ar": "مَدِينَةٌ",
+        "id": "kota",
+        "emoji": "🏙️",
+        "audio": {
+         "src": "/audio/o/335ba5ab415a0a82.mp3"
+        }
+       },
+       {
+        "ar": "هادِئٌ · هادِئَةٌ",
+        "id": "tenang (lk · pr)",
+        "emoji": "🍃",
+        "audio": {
+         "src": "/audio/o/32b649f0549aaccd.mp3"
+        }
+       },
+       {
+        "ar": "لٰكِنْ",
+        "id": "tetapi",
+        "emoji": "↔️",
+        "audio": {
+         "src": "/audio/o/41f808973f1b2b6b.mp3"
+        }
+       },
+       {
+        "ar": "لَيْسَ · لَيْسَتْ",
+        "id": "bukan, tidak (lk · pr)",
+        "emoji": "🚫",
+        "audio": {
+         "src": "/audio/o/33efdfd5cd2b8695.mp3"
+        }
+       },
+       {
+        "ar": "زِحامٌ",
+        "id": "kemacetan, keramaian",
+        "emoji": "🚗",
+        "audio": {
+         "src": "/audio/o/9c66e42e98d2a12c.mp3"
+        }
+       },
+       {
+        "ar": "كَبِيرٌ · كَبِيرَةٌ",
+        "id": "besar (lk · pr)",
+        "emoji": "🐘",
+        "audio": {
+         "src": "/audio/o/2f90746a636bd714.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d1-limadza-intaqalta-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "لِماذا انْتَقَلْتَ إِلَى يُوغْياكَرْتا؟",
+       "audio": {
+        "src": "/audio/o/cf97d8baa6ca9988.mp3"
+       }
+      },
+      "answer": "Kenapa kamu (lk) pindah ke Yogyakarta?",
+      "options": [
+       "Kenapa kamu (lk) pindah ke Yogyakarta?",
+       "Kapan kamu (lk) pindah ke Yogyakarta?",
+       "Bagaimana pendapatmu (lk) tentang Yogyakarta?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d1-budi-alasan-pindah",
+      "instruction": "Menurut dialog, kenapa Budi pindah ke Yogyakarta?",
+      "prompt": {
+       "ar": "لِماذا انْتَقَلَ بُودِي إِلَى يُوغْياكَرْتا؟",
+       "audio": {
+        "src": "/audio/o/60fe68b839570a41.mp3"
+       }
+      },
+      "answer": "Untuk belajar di ma'had",
+      "options": [
+       "Untuk belajar di ma'had",
+       "Untuk bekerja di pasar",
+       "Karena keluarganya pindah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d1-dengar-rayuka",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "ما رَأْيُكَ فِي يُوغْياكَرْتا؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/38e73c09ab1a7406.mp3"
+       }
+      },
+      "answer": "Bagaimana pendapatmu (lk) tentang Yogyakarta?",
+      "options": [
+       "Bagaimana pendapatmu (lk) tentang Yogyakarta?",
+       "Kenapa kamu (lk) pindah ke Yogyakarta?",
+       "Apakah Yogyakarta tenang?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d1-jogja-tidak-ada",
+      "instruction": "Menurut Budi, apa yang tidak ada di Yogyakarta?",
+      "prompt": {
+       "ar": "لَيْسَ فِيها …",
+       "audio": {
+        "src": "/audio/o/736cb1995016c5f3.mp3"
+       }
+      },
+      "answer": "laut",
+      "options": [
+       "laut",
+       "masjid",
+       "pasar"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d1-balas-rayuka-sby",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "ما رَأْيُكَ فِي سُورابايا؟",
+       "audio": {
+        "src": "/audio/o/138a386cf9ba39db.mp3"
+       }
+      },
+      "answer": "هِيَ مَدِينَةٌ كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ.",
+      "options": [
+       "هِيَ مَدِينَةٌ كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ.",
+       "اِنْتَقَلْتُ لِلدِّراسَةِ.",
+       "أُسْرَتِي فِي سُورابايا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هِيَ مَدِينَةٌ كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ.": {
+        "src": "/audio/o/905780b96a671232.mp3"
+       },
+       "اِنْتَقَلْتُ لِلدِّراسَةِ.": {
+        "src": "/audio/o/8be87638100991fd.mp3"
+       },
+       "أُسْرَتِي فِي سُورابايا.": {
+        "src": "/audio/o/e8167ae16974ce0b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d1-lakin-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "لٰكِنْ",
+       "audio": {
+        "src": "/audio/o/41f808973f1b2b6b.mp3"
+       }
+      },
+      "answer": "tetapi",
+      "options": [
+       "tetapi",
+       "juga",
+       "atau"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d1-susun-madinah-hadiah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Itu kota yang tenang."
+      },
+      "answer": "هِيَ مَدِينَةٌ هادِئَةٌ",
+      "tokens": [
+       "هِيَ",
+       "مَدِينَةٌ",
+       "هادِئَةٌ",
+       "لَيْسَ"
+      ],
+      "audioMap": {
+       "هِيَ": {
+        "src": "/audio/o/517ed049354d7a62.mp3"
+       },
+       "مَدِينَةٌ": {
+        "src": "/audio/o/335ba5ab415a0a82.mp3"
+       },
+       "هادِئَةٌ": {
+        "src": "/audio/o/f0d33d3cd7e1f991.mp3"
+       },
+       "لَيْسَ": {
+        "src": "/audio/o/e8895b5a5bec11cd.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u11-d1-ucap-rayuka",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "ما رَأْيُكَ فِي يُوغْياكَرْتا؟",
+       "id": "Bagaimana pendapatmu tentang Yogyakarta? (lk)",
+       "audio": {
+        "src": "/audio/o/c19315be436aed6f.mp3"
+       }
+      },
+      "target": "ما رَأْيُكَ فِي يُوغْياكَرْتا؟"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u11-d1-lat-hadiah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هادِئَةٌ",
+      "audio": {
+       "src": "/audio/o/f0d33d3cd7e1f991.mp3"
+      }
+     },
+     "answer": "tenang (pr)",
+     "options": [
+      "tenang (pr)",
+      "besar (pr)",
+      "jauh (pr)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d1-lat-usrah-budi",
+     "instruction": "Benar atau salah? \"Keluarga Budi tinggal di Yogyakarta.\"",
+     "prompt": {
+      "ar": "أُسْرَةُ بُودِي فِي يُوغْياكَرْتا.",
+      "audio": {
+       "src": "/audio/o/522c5ea57a208b4f.mp3"
+      }
+     },
+     "answer": "Salah",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d1-lat-dengar-laisat",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "لَيْسَتْ هادِئَةً.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/b21ddd148ceabc34.mp3"
+      }
+     },
+     "answer": "لَيْسَتْ هادِئَةً.",
+     "options": [
+      "لَيْسَتْ هادِئَةً.",
+      "هِيَ هادِئَةٌ.",
+      "لَيْسَتْ كَبِيرَةً."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "لَيْسَتْ هادِئَةً.": {
+       "src": "/audio/o/b21ddd148ceabc34.mp3"
+      },
+      "هِيَ هادِئَةٌ.": {
+       "src": "/audio/o/4f213b95e668026a.mp3"
+      },
+      "لَيْسَتْ كَبِيرَةً.": {
+       "src": "/audio/o/37f360627b8e8ba2.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u11-d1-lat-susun-abi-sayyad",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Ayahku nelayan."
+     },
+     "answer": "أَبِي صَيّادٌ",
+     "tokens": [
+      "أَبِي",
+      "صَيّادٌ",
+      "أُمِّي"
+     ],
+     "audioMap": {
+      "أَبِي": {
+       "src": "/audio/o/21fd285adcc5f188.mp3"
+      },
+      "صَيّادٌ": {
+       "src": "/audio/o/635d199fbcc8ddca.mp3"
+      },
+      "أُمِّي": {
+       "src": "/audio/o/c82062ed6beb1b12.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d1-lat-surabaya-budi",
+     "instruction": "Menurut Budi, Surabaya itu …",
+     "prompt": {
+      "ar": "سُورابايا لَيْسَتْ هادِئَةً.",
+      "audio": {
+       "src": "/audio/o/d98da6ecf4b3af33.mp3"
+      }
+     },
+     "answer": "tidak tenang, banyak macet",
+     "options": [
+      "tidak tenang, banyak macet",
+      "tenang dan kecil",
+      "tidak punya laut"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u11-d2",
+   "dars": 2,
+   "title_id": "Pulang dari Jakarta",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "أَهْلًا يا عائِشَةُ! مَتَى رَجَعْتِ مِنْ جاكَرْتا؟",
+        "id": "Halo, Aisyah! Kapan kamu pulang dari Jakarta?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/1c58dfa5b49e93f9.mp3"
+        }
+       },
+       {
+        "ar": "رَجَعْتُ صَباحًا بِالقِطارِ.",
+        "id": "Aku pulang tadi pagi naik kereta.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/37c849d88129c0dc.mp3"
+        }
+       },
+       {
+        "ar": "لِماذا ذَهَبْتِ إِلَى جاكَرْتا؟",
+        "id": "Kenapa kamu pergi ke Jakarta?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/00f8367db8aa7972.mp3"
+        }
+       },
+       {
+        "ar": "ذَهَبْتُ لِزِيارَةِ صَدِيقَتِي مِنْ مالِيزِيا.",
+        "id": "Aku pergi untuk mengunjungi temanku dari Malaysia.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/3db6a05109a80978.mp3"
+        }
+       },
+       {
+        "ar": "ما رَأْيُكِ فِي جاكَرْتا؟",
+        "id": "Bagaimana pendapatmu tentang Jakarta?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/99e51bec3344ddbd.mp3"
+        }
+       },
+       {
+        "ar": "هِيَ مَدِينَةٌ كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ كَثِيرٌ.",
+        "id": "Kotanya besar, tetapi macet sekali.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/2b660be9e480025a.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، سُكّانُها كَثِيرُونَ. أَنا أُحِبُّ القَرْيَةَ.",
+        "id": "Ya, penduduknya banyak. Aku suka desa.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/d05c3412d12c9199.mp3"
+        }
+       },
+       {
+        "ar": "لِماذا تُحِبِّينَ القَرْيَةَ؟",
+        "id": "Kenapa kamu suka desa?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/82e76cab1698e5ca.mp3"
+        }
+       },
+       {
+        "ar": "لِأَنَّ القَرْيَةَ صَغِيرَةٌ، وَلَيْسَ فِيها زِحامٌ.",
+        "id": "Karena desa itu kecil, dan di sana tidak ada kemacetan.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/b196224451f1ccee.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u11-pulang-jakarta.webp"
+      ],
+      "instruction_id": "Aisyah baru pulang ke asrama putri. Siti menyambutnya."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "رَجَعْتِ · رَجَعْتُ",
+        "id": "kamu (pr) pulang · aku pulang (lampau)",
+        "emoji": "🔙",
+        "audio": {
+         "src": "/audio/o/fce2a5d37b04fcaa.mp3"
+        }
+       },
+       {
+        "ar": "ذَهَبْتِ · ذَهَبْتُ",
+        "id": "kamu (pr) pergi · aku pergi (lampau)",
+        "emoji": "🚶‍♀️",
+        "audio": {
+         "src": "/audio/o/6497b2c384cfb203.mp3"
+        }
+       },
+       {
+        "ar": "قِطارٌ",
+        "id": "kereta api",
+        "emoji": "🚆",
+        "audio": {
+         "src": "/audio/o/3a9aeaea646bbc39.mp3"
+        }
+       },
+       {
+        "ar": "زِيارَةٌ",
+        "id": "kunjungan · ★ ziarah",
+        "emoji": "🤝",
+        "audio": {
+         "src": "/audio/o/9ff86959049229f3.mp3"
+        }
+       },
+       {
+        "ar": "سُكّانٌ",
+        "id": "penduduk",
+        "emoji": "👥",
+        "audio": {
+         "src": "/audio/o/6aa9074ca3c78685.mp3"
+        }
+       },
+       {
+        "ar": "قَرْيَةٌ",
+        "id": "desa, kampung",
+        "emoji": "🏡",
+        "audio": {
+         "src": "/audio/o/3f28c0e9b947df3e.mp3"
+        }
+       },
+       {
+        "ar": "لِأَنَّ",
+        "id": "karena",
+        "emoji": "💡",
+        "audio": {
+         "src": "/audio/o/5dfdc8732dd80b83.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d2-limadza-dzahabti-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "لِماذا ذَهَبْتِ إِلَى جاكَرْتا؟",
+       "audio": {
+        "src": "/audio/o/c3e9de2eee484806.mp3"
+       }
+      },
+      "answer": "Kenapa kamu (pr) pergi ke Jakarta?",
+      "options": [
+       "Kenapa kamu (pr) pergi ke Jakarta?",
+       "Kenapa kamu (lk) pergi ke Jakarta?",
+       "Kapan kamu (pr) pergi ke Jakarta?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d2-aisyah-alasan",
+      "instruction": "Menurut dialog, Aisyah pergi ke Jakarta untuk …",
+      "prompt": {
+       "ar": "ذَهَبَتْ عائِشَةُ إِلَى جاكَرْتا لِـ …",
+       "audio": {
+        "src": "/audio/o/f9991fd8bd08488d.mp3"
+       }
+      },
+      "answer": "mengunjungi temannya",
+      "options": [
+       "mengunjungi temannya",
+       "belajar di ma'had",
+       "mengunjungi neneknya"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d2-aisyah-kendaraan",
+      "instruction": "Aisyah pulang dari Jakarta naik apa?",
+      "prompt": {
+       "ar": "رَجَعَتْ عائِشَةُ مِنْ جاكَرْتا بِـ …",
+       "audio": {
+        "src": "/audio/o/5023cfdf97d49c4d.mp3"
+       }
+      },
+      "answer": "kereta api",
+      "options": [
+       "kereta api",
+       "bus",
+       "mobil"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d2-siti-alasan-desa",
+      "instruction": "Kenapa Siti suka desa?",
+      "prompt": {
+       "ar": "لِماذا تُحِبُّ سِيتِي القَرْيَةَ؟",
+       "audio": {
+        "src": "/audio/o/7d2ac4bc3f000b7c.mp3"
+       }
+      },
+      "answer": "Desa kecil dan tidak macet",
+      "options": [
+       "Desa kecil dan tidak macet",
+       "Desa besar dan penduduknya banyak",
+       "Desa dekat dengan Jakarta"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d2-tanya-rayuki",
+      "instruction": "Kamu ingin tahu pendapat Aisyah tentang Jakarta. Kamu bertanya …",
+      "prompt": {
+       "id": "Bagaimana pendapatmu (pr) tentang Jakarta?"
+      },
+      "answer": "ما رَأْيُكِ فِي جاكَرْتا؟",
+      "options": [
+       "ما رَأْيُكِ فِي جاكَرْتا؟",
+       "ما رَأْيُكَ فِي جاكَرْتا؟",
+       "مِنْ أَيْنَ رَجَعْتِ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ما رَأْيُكِ فِي جاكَرْتا؟": {
+        "src": "/audio/o/20dfab66104596e8.mp3"
+       },
+       "ما رَأْيُكَ فِي جاكَرْتا؟": {
+        "src": "/audio/o/072a1a71ade3403c.mp3"
+       },
+       "مِنْ أَيْنَ رَجَعْتِ؟": {
+        "src": "/audio/o/a8fed913ba151ee5.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d2-dengar-laisa-zihaam",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "لَيْسَ فِيها زِحامٌ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a950687cf7687436.mp3"
+       }
+      },
+      "answer": "Di sana tidak ada kemacetan.",
+      "options": [
+       "Di sana tidak ada kemacetan.",
+       "Di sana macet sekali.",
+       "Penduduknya banyak."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d2-susun-limadza-tuhibbina",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kenapa kamu (pr) suka desa?"
+      },
+      "answer": "لِماذا تُحِبِّينَ القَرْيَةَ",
+      "tokens": [
+       "لِماذا",
+       "تُحِبِّينَ",
+       "القَرْيَةَ",
+       "تُحِبُّ"
+      ],
+      "audioMap": {
+       "لِماذا": {
+        "src": "/audio/o/0ec5b75e5a78f167.mp3"
+       },
+       "تُحِبِّينَ": {
+        "src": "/audio/o/9f8555335950ff8d.mp3"
+       },
+       "القَرْيَةَ": {
+        "src": "/audio/o/adf276153a8d7550.mp3"
+       },
+       "تُحِبُّ": {
+        "src": "/audio/o/bd6fad438e829321.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u11-d2-ucap-uhibbu-qaryah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَنا أُحِبُّ القَرْيَةَ.",
+       "id": "Aku suka desa.",
+       "audio": {
+        "src": "/audio/o/e76ca856c3565a10.mp3"
+       }
+      },
+      "target": "أَنا أُحِبُّ القَرْيَةَ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u11-d2-lat-sukkan-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "سُكّانُها كَثِيرُونَ.",
+      "audio": {
+       "src": "/audio/o/f7b257ba12574d82.mp3"
+      }
+     },
+     "answer": "Penduduknya banyak.",
+     "options": [
+      "Penduduknya banyak.",
+      "Desanya kecil.",
+      "Desanya tenang."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d2-lat-lianna-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "لِأَنَّ",
+      "audio": {
+       "src": "/audio/o/5dfdc8732dd80b83.mp3"
+      }
+     },
+     "answer": "karena",
+     "options": [
+      "karena",
+      "kenapa",
+      "tetapi"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d2-lat-min-aina-rajati",
+     "instruction": "Pilih balasan yang tepat",
+     "prompt": {
+      "ar": "مِنْ أَيْنَ رَجَعْتِ؟",
+      "audio": {
+       "src": "/audio/o/a8fed913ba151ee5.mp3"
+      }
+     },
+     "answer": "رَجَعْتُ مِنْ جاكَرْتا.",
+     "options": [
+      "رَجَعْتُ مِنْ جاكَرْتا.",
+      "لِأَنَّ القَرْيَةَ هادِئَةٌ.",
+      "أَنا أُحِبُّ القَرْيَةَ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "رَجَعْتُ مِنْ جاكَرْتا.": {
+       "src": "/audio/o/72d5a8be218b1386.mp3"
+      },
+      "لِأَنَّ القَرْيَةَ هادِئَةٌ.": {
+       "src": "/audio/o/c73eb20ce0d5c605.mp3"
+      },
+      "أَنا أُحِبُّ القَرْيَةَ.": {
+       "src": "/audio/o/c34f15f8dadf7de6.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u11-d2-lat-susun-rajatu",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Aku pulang naik kereta."
+     },
+     "answer": "رَجَعْتُ بِالقِطارِ",
+     "tokens": [
+      "رَجَعْتُ",
+      "بِالقِطارِ",
+      "إِلَى"
+     ],
+     "audioMap": {
+      "رَجَعْتُ": {
+       "src": "/audio/o/94d055e8346b3578.mp3"
+      },
+      "بِالقِطارِ": {
+       "src": "/audio/o/9bf4ba4b4cb9b0c9.mp3"
+      },
+      "إِلَى": {
+       "src": "/audio/o/57551989bbc39ffa.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d2-lat-jakarta-aisyah",
+     "instruction": "Benar atau salah? \"Menurut Aisyah, Jakarta kota yang tenang.\"",
+     "prompt": {
+      "ar": "جاكَرْتا مَدِينَةٌ هادِئَةٌ.",
+      "audio": {
+       "src": "/audio/o/8f8335645cd9115f.mp3"
+      }
+     },
+     "answer": "Salah",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u11-d3",
+   "dars": 3,
+   "title_id": "Naik kereta ke Bandung",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ يا رِزْقِي. أَيْنَ أَنْتَ الآنَ؟",
+        "id": "Assalamualaikum, Rizki. Kamu di mana sekarang?",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/896b08c959764f8a.mp3"
+        }
+       },
+       {
+        "ar": "وَعَلَيْكُمُ السَّلامُ يا أَبِي. أَنا فِي القِطارِ.",
+        "id": "Waalaikumussalam, Ayah. Aku di kereta.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/a39cf9a1ef205a9a.mp3"
+        }
+       },
+       {
+        "ar": "مَتَى رَكِبْتَ القِطارَ؟",
+        "id": "Kapan kamu naik kereta?",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/a93a8cf2bedc6f6b.mp3"
+        }
+       },
+       {
+        "ar": "رَكِبْتُهُ فِي السّاعَةِ السّابِعَةِ صَباحًا.",
+        "id": "Aku naik kereta itu jam tujuh pagi.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/010bad085f5da3ba.mp3"
+        }
+       },
+       {
+        "ar": "مَعَ مَنْ أَنْتَ؟",
+        "id": "Kamu bersama siapa?",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/59de201f0e3d0e30.mp3"
+        }
+       },
+       {
+        "ar": "أَنا مَعَ صَدِيقِي بُودِي مِنْ سُورابايا.",
+        "id": "Aku bersama temanku, Budi dari Surabaya.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/fdeede4a845b3180.mp3"
+        }
+       },
+       {
+        "ar": "أَهْلًا وَسَهْلًا بِهِ فِي بَيْتِنا! ما رَأْيُكَ فِي الرِّحْلَةِ؟",
+        "id": "Kami senang menyambutnya di rumah! Bagaimana perjalananmu?",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/296c9680b581687e.mp3"
+        }
+       },
+       {
+        "ar": "الرِّحْلَةُ جَمِيلَةٌ. أَرَى جَبَلًا وَنَهْرًا مِنَ النّافِذَةِ.",
+        "id": "Perjalanannya indah. Dari jendela aku melihat gunung dan sungai.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/c6ecceb8f7407e8d.mp3"
+        }
+       },
+       {
+        "ar": "سَأَذْهَبُ إِلَى المَحَطَّةِ بِالسَّيّارَةِ، إِنْ شاءَ اللّٰهُ.",
+        "id": "Ayah akan ke stasiun naik mobil, insyaallah.",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/2f3039eb73943234.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u11-kereta-bandung.webp"
+      ],
+      "instruction_id": "Libur akhir pekan. Rizki naik kereta dari Yogyakarta ke Bandung, lalu ayahnya menelepon."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "رَكِبَ",
+        "id": "naik (kendaraan)",
+        "emoji": "🚉",
+        "audio": {
+         "src": "/audio/o/25c93f16ec400bbe.mp3"
+        }
+       },
+       {
+        "ar": "رَكِبْتُهُ",
+        "id": "aku menaikinya",
+        "emoji": "🧍",
+        "audio": {
+         "src": "/audio/o/ca9d54d61167a1e0.mp3"
+        }
+       },
+       {
+        "ar": "مَعَ مَنْ؟",
+        "id": "bersama siapa?",
+        "emoji": "👫",
+        "audio": {
+         "src": "/audio/o/125b705dffe07a80.mp3"
+        }
+       },
+       {
+        "ar": "رِحْلَةٌ",
+        "id": "perjalanan",
+        "emoji": "🧳",
+        "audio": {
+         "src": "/audio/o/8fc8d547b1ca150b.mp3"
+        }
+       },
+       {
+        "ar": "أَرَى",
+        "id": "aku melihat",
+        "emoji": "👀",
+        "audio": {
+         "src": "/audio/o/409eafaffca94c87.mp3"
+        }
+       },
+       {
+        "ar": "جَبَلٌ",
+        "id": "gunung",
+        "emoji": "⛰️",
+        "audio": {
+         "src": "/audio/o/7a6f79831f324e53.mp3"
+        }
+       },
+       {
+        "ar": "نَهْرٌ",
+        "id": "sungai",
+        "emoji": "🏞️",
+        "audio": {
+         "src": "/audio/o/36a44fead2fd62cb.mp3"
+        }
+       },
+       {
+        "ar": "مَحَطَّةٌ",
+        "id": "stasiun",
+        "emoji": "🚏",
+        "audio": {
+         "src": "/audio/o/bdec6623bf18453f.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d3-maa-man-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "مَعَ مَنْ أَنْتَ؟",
+       "audio": {
+        "src": "/audio/o/36596bf895abe89c.mp3"
+       }
+      },
+      "answer": "Kamu (lk) bersama siapa?",
+      "options": [
+       "Kamu (lk) bersama siapa?",
+       "Kamu (lk) di mana?",
+       "Kamu (lk) dari mana?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d3-rizki-jam-naik",
+      "instruction": "Menurut dialog, jam berapa Rizki naik kereta?",
+      "prompt": {
+       "ar": "رَكِبَ رِزْقِي القِطارَ فِي السّاعَةِ …",
+       "audio": {
+        "src": "/audio/o/b08d6382466a220d.mp3"
+       }
+      },
+      "answer": "jam tujuh pagi",
+      "options": [
+       "jam tujuh pagi",
+       "jam lima pagi",
+       "jam tujuh malam"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d3-rizki-lihat",
+      "instruction": "Apa yang Rizki lihat dari jendela kereta?",
+      "prompt": {
+       "ar": "أَرَى … مِنَ النّافِذَةِ.",
+       "audio": {
+        "src": "/audio/o/a6b64d833507cf86.mp3"
+       }
+      },
+      "answer": "gunung dan sungai",
+      "options": [
+       "gunung dan sungai",
+       "laut dan pulau",
+       "masjid dan pasar"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d3-balas-aina-anta",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "أَيْنَ أَنْتَ الآنَ؟",
+       "audio": {
+        "src": "/audio/o/c62c19b13960b830.mp3"
+       }
+      },
+      "answer": "أَنا فِي القِطارِ.",
+      "options": [
+       "أَنا فِي القِطارِ.",
+       "أَنا مَعَ صَدِيقِي.",
+       "رَكِبْتُهُ صَباحًا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَنا فِي القِطارِ.": {
+        "src": "/audio/o/6a625fb335504dec.mp3"
+       },
+       "أَنا مَعَ صَدِيقِي.": {
+        "src": "/audio/o/d857638e77edcc60.mp3"
+       },
+       "رَكِبْتُهُ صَباحًا.": {
+        "src": "/audio/o/0805b352c41496c6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d3-susun-maa-sadiqi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Aku bersama temanku."
+      },
+      "answer": "أَنا مَعَ صَدِيقِي",
+      "tokens": [
+       "أَنا",
+       "مَعَ",
+       "صَدِيقِي",
+       "مِنْ"
+      ],
+      "audioMap": {
+       "أَنا": {
+        "src": "/audio/o/9eee807a139555c1.mp3"
+       },
+       "مَعَ": {
+        "src": "/audio/o/7ee7ee0c5d3dc169.mp3"
+       },
+       "صَدِيقِي": {
+        "src": "/audio/o/a2b3a879730b9a69.mp3"
+       },
+       "مِنْ": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "تَذْكِرَةُ القِطارِ",
+        "id": "Tiket kereta api",
+        "emoji": "🎫",
+        "audio": {
+         "src": "/audio/o/d9634a03f78f76d6.mp3"
+        }
+       },
+       {
+        "ar": "الِاسْمُ: رِزْقِي",
+        "id": "Nama: Rizki",
+        "audio": {
+         "src": "/audio/o/3ad22ffc89270d11.mp3"
+        }
+       },
+       {
+        "ar": "مِنْ: يُوغْياكَرْتا",
+        "id": "Dari: Yogyakarta",
+        "audio": {
+         "src": "/audio/o/3b64f21b6ae41034.mp3"
+        }
+       },
+       {
+        "ar": "إِلَى: بانْدُونْغ",
+        "id": "Ke: Bandung",
+        "audio": {
+         "src": "/audio/o/d398121bbcdfdc04.mp3"
+        }
+       },
+       {
+        "ar": "اليَوْمُ: الجُمُعَةُ",
+        "id": "Hari: Jumat",
+        "audio": {
+         "src": "/audio/o/0bdda26b63486ea2.mp3"
+        }
+       },
+       {
+        "ar": "السّاعَةُ: السّابِعَةُ صَباحًا",
+        "id": "Jam: tujuh pagi",
+        "audio": {
+         "src": "/audio/o/917758808a257277.mp3"
+        }
+       },
+       {
+        "ar": "العَرَبَةُ: الثّالِثَةُ",
+        "id": "Gerbong: ketiga",
+        "audio": {
+         "src": "/audio/o/7344c16de3b42f56.mp3"
+        }
+       },
+       {
+        "ar": "رَقْمُ المَقْعَدِ: عِشْرُونَ",
+        "id": "Nomor kursi: dua puluh",
+        "audio": {
+         "src": "/audio/o/04ed005ad8801ee1.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kartu data: tiket kereta Rizki"
+      },
+      "imgs": [
+       "/img/o/u11-tiket-kereta.webp"
+      ],
+      "instruction_id": "Baca tiket Rizki, lalu jawab pertanyaannya.",
+      "note_id": "Kata baru: تَذْكِرَةٌ = tiket; العَرَبَةُ = gerbong; رَقْمُ المَقْعَدِ = nomor kursi."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d3-tiket-hari",
+      "instruction": "Menurut tiket, hari apa Rizki naik kereta?",
+      "prompt": {
+       "ar": "اليَوْمُ: …",
+       "audio": {
+        "src": "/audio/o/3a9880edbf6d81fd.mp3"
+       }
+      },
+      "answer": "Jumat",
+      "options": [
+       "Jumat",
+       "Kamis",
+       "Ahad"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d3-tiket-kursi",
+      "instruction": "Menurut tiket, berapa nomor kursi Rizki?",
+      "prompt": {
+       "ar": "رَقْمُ المَقْعَدِ: …",
+       "audio": {
+        "src": "/audio/o/1418c3c8b5bfbe50.mp3"
+       }
+      },
+      "answer": "عِشْرُونَ",
+      "options": [
+       "عِشْرُونَ",
+       "ثَلاثُونَ",
+       "أَرْبَعُونَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عِشْرُونَ": {
+        "src": "/audio/o/782cd0a8368d8643.mp3"
+       },
+       "ثَلاثُونَ": {
+        "src": "/audio/o/8e3bbe8ab3191e69.mp3"
+       },
+       "أَرْبَعُونَ": {
+        "src": "/audio/o/2f7edf0be33131dd.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d3-tiket-gerbong",
+      "instruction": "Rizki duduk di gerbong yang mana?",
+      "prompt": {
+       "ar": "العَرَبَةُ: الثّالِثَةُ",
+       "audio": {
+        "src": "/audio/o/7344c16de3b42f56.mp3"
+       }
+      },
+      "answer": "gerbong ketiga",
+      "options": [
+       "gerbong ketiga",
+       "gerbong pertama",
+       "gerbong kedua puluh"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u11-d3-ucap-fil-qitar",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَنا فِي القِطارِ.",
+       "id": "Aku di kereta.",
+       "audio": {
+        "src": "/audio/o/0478a4cb347f6364.mp3"
+       }
+      },
+      "target": "أَنا فِي القِطارِ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u11-d3-lat-mahattah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مَحَطَّةٌ",
+      "audio": {
+       "src": "/audio/o/bdec6623bf18453f.mp3"
+      }
+     },
+     "answer": "stasiun",
+     "options": [
+      "stasiun",
+      "sungai",
+      "perjalanan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d3-lat-dengar-rakibtuhu",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "رَكِبْتُهُ صَباحًا.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/0805b352c41496c6.mp3"
+      }
+     },
+     "answer": "Aku menaikinya pagi hari.",
+     "options": [
+      "Aku menaikinya pagi hari.",
+      "Aku melihatnya pagi hari.",
+      "Aku menaikinya malam hari."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d3-lat-rizki-maa",
+     "instruction": "Rizki naik kereta bersama siapa?",
+     "prompt": {
+      "ar": "رِزْقِي مَعَ …",
+      "audio": {
+       "src": "/audio/o/448655ba303241e0.mp3"
+      }
+     },
+     "answer": "Budi",
+     "options": [
+      "Budi",
+      "Yusuf",
+      "Pak Ahmad"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u11-d3-lat-susun-ara-jabal",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Aku melihat gunung dan sungai."
+     },
+     "answer": "أَرَى جَبَلًا وَنَهْرًا",
+     "tokens": [
+      "أَرَى",
+      "جَبَلًا",
+      "وَنَهْرًا",
+      "بَحْرًا"
+     ],
+     "audioMap": {
+      "أَرَى": {
+       "src": "/audio/o/409eafaffca94c87.mp3"
+      },
+      "جَبَلًا": {
+       "src": "/audio/o/15a0ec63ed92c1c5.mp3"
+      },
+      "وَنَهْرًا": {
+       "src": "/audio/o/de0cb201785ca8ce.mp3"
+      },
+      "بَحْرًا": {
+       "src": "/audio/o/a015429729ec032c.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d3-lat-tiket-ila",
+     "instruction": "Menurut tiket, kereta Rizki ke kota mana?",
+     "prompt": {
+      "ar": "إِلَى: …",
+      "audio": {
+       "src": "/audio/o/833bf9ca41d8f8a5.mp3"
+      }
+     },
+     "answer": "Bandung",
+     "options": [
+      "Bandung",
+      "Yogyakarta",
+      "Surabaya"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u11-d4",
+   "dars": 4,
+   "title_id": "Kosakata tempat & warna",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مَدِينَةٌ",
+        "id": "kota",
+        "emoji": "🏙️",
+        "audio": {
+         "src": "/audio/o/335ba5ab415a0a82.mp3"
+        }
+       },
+       {
+        "ar": "قَرْيَةٌ",
+        "id": "desa, kampung",
+        "emoji": "🏡",
+        "audio": {
+         "src": "/audio/o/3f28c0e9b947df3e.mp3"
+        }
+       },
+       {
+        "ar": "جَزِيرَةٌ",
+        "id": "pulau · ★ jazirah",
+        "emoji": "🏝️",
+        "audio": {
+         "src": "/audio/o/2a201c31d7d0303c.mp3"
+        }
+       },
+       {
+        "ar": "بَحْرٌ",
+        "id": "laut · ★ bahari",
+        "emoji": "🌊",
+        "audio": {
+         "src": "/audio/o/d194d7f0f453ae89.mp3"
+        }
+       },
+       {
+        "ar": "جَبَلٌ",
+        "id": "gunung",
+        "emoji": "⛰️",
+        "audio": {
+         "src": "/audio/o/7a6f79831f324e53.mp3"
+        }
+       },
+       {
+        "ar": "نَهْرٌ",
+        "id": "sungai",
+        "emoji": "🏞️",
+        "audio": {
+         "src": "/audio/o/36a44fead2fd62cb.mp3"
+        }
+       },
+       {
+        "ar": "شارِعٌ",
+        "id": "jalan (raya)",
+        "emoji": "🛣️",
+        "audio": {
+         "src": "/audio/o/48f7f15fe073e638.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Tempat"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "سُكّانٌ",
+        "id": "penduduk",
+        "emoji": "👥",
+        "audio": {
+         "src": "/audio/o/6aa9074ca3c78685.mp3"
+        }
+       },
+       {
+        "ar": "زِحامٌ",
+        "id": "kemacetan, keramaian",
+        "emoji": "🚗",
+        "audio": {
+         "src": "/audio/o/9c66e42e98d2a12c.mp3"
+        }
+       },
+       {
+        "ar": "هادِئٌ",
+        "id": "tenang",
+        "emoji": "🍃",
+        "audio": {
+         "src": "/audio/o/a6f4ed2810b01374.mp3"
+        }
+       },
+       {
+        "ar": "هَواءٌ",
+        "id": "udara · ★ hawa",
+        "emoji": "🌬️",
+        "audio": {
+         "src": "/audio/o/572a5cc82f906e5e.mp3"
+        }
+       },
+       {
+        "ar": "نَظِيفٌ",
+        "id": "bersih",
+        "emoji": "✨",
+        "audio": {
+         "src": "/audio/o/222051acdae5511e.mp3"
+        }
+       },
+       {
+        "ar": "كَبِيرٌ · صَغِيرٌ",
+        "id": "besar · kecil",
+        "emoji": "↕️",
+        "audio": {
+         "src": "/audio/o/8054d389317b4988.mp3"
+        }
+       },
+       {
+        "ar": "قِطارٌ",
+        "id": "kereta api",
+        "emoji": "🚆",
+        "audio": {
+         "src": "/audio/o/3a9aeaea646bbc39.mp3"
+        }
+       },
+       {
+        "ar": "رِحْلَةٌ",
+        "id": "perjalanan",
+        "emoji": "🧳",
+        "audio": {
+         "src": "/audio/o/8fc8d547b1ca150b.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Keadaan dan perjalanan"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "حَمْراءُ",
+        "id": "merah (pr) · lk: أَحْمَرُ",
+        "emoji": "🟥",
+        "audio": {
+         "src": "/audio/o/c79f208a7f54ae18.mp3"
+        }
+       },
+       {
+        "ar": "خَضْراءُ",
+        "id": "hijau (pr) · lk: أَخْضَرُ",
+        "emoji": "🟩",
+        "audio": {
+         "src": "/audio/o/0ad6a0db8c42f51a.mp3"
+        }
+       },
+       {
+        "ar": "زَرْقاءُ",
+        "id": "biru (pr) · lk: أَزْرَقُ",
+        "emoji": "🟦",
+        "audio": {
+         "src": "/audio/o/23ae2ebddf44af1a.mp3"
+        }
+       },
+       {
+        "ar": "صَفْراءُ",
+        "id": "kuning (pr) · lk: أَصْفَرُ",
+        "emoji": "🟨",
+        "audio": {
+         "src": "/audio/o/f782cba303e0b52a.mp3"
+        }
+       },
+       {
+        "ar": "بَيْضاءُ",
+        "id": "putih (pr) · lk: أَبْيَضُ",
+        "emoji": "⬜",
+        "audio": {
+         "src": "/audio/o/f5b8dde5e23167b6.mp3"
+        }
+       },
+       {
+        "ar": "سَوْداءُ",
+        "id": "hitam (pr) · lk: أَسْوَدُ",
+        "emoji": "⬛",
+        "audio": {
+         "src": "/audio/o/dbcb7f7cf110712b.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Warna untuk kata perempuan"
+      },
+      "note_id": "Untuk kata benda perempuan, warna berubah bentuk: أَحْمَرُ → حَمْراءُ. Kedua bentuk tidak pernah bertanwin (bukan حَمْراءٌ)."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-gambar-jabal",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "⛰️"
+      },
+      "answer": "جَبَلٌ",
+      "options": [
+       "جَبَلٌ",
+       "بَحْرٌ",
+       "نَهْرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "جَبَلٌ": {
+        "src": "/audio/o/7a6f79831f324e53.mp3"
+       },
+       "بَحْرٌ": {
+        "src": "/audio/o/d194d7f0f453ae89.mp3"
+       },
+       "نَهْرٌ": {
+        "src": "/audio/o/36a44fead2fd62cb.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-gambar-jazirah",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🏝️"
+      },
+      "answer": "جَزِيرَةٌ",
+      "options": [
+       "جَزِيرَةٌ",
+       "قَرْيَةٌ",
+       "مَدِينَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "جَزِيرَةٌ": {
+        "src": "/audio/o/2a201c31d7d0303c.mp3"
+       },
+       "قَرْيَةٌ": {
+        "src": "/audio/o/3f28c0e9b947df3e.mp3"
+       },
+       "مَدِينَةٌ": {
+        "src": "/audio/o/335ba5ab415a0a82.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-dengar-qitar",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "قِطارٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/3a9aeaea646bbc39.mp3"
+       }
+      },
+      "answer": "kereta api",
+      "options": [
+       "kereta api",
+       "mobil",
+       "bus"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-sukkan-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "سُكّانٌ",
+       "audio": {
+        "src": "/audio/o/6aa9074ca3c78685.mp3"
+       }
+      },
+      "answer": "penduduk",
+      "options": [
+       "penduduk",
+       "udara",
+       "kemacetan"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-hadi-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "هادِئٌ",
+       "audio": {
+        "src": "/audio/o/a6f4ed2810b01374.mp3"
+       }
+      },
+      "answer": "tenang",
+      "options": [
+       "tenang",
+       "bersih",
+       "kecil"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-warna-sayyarah",
+      "instruction": "Lengkapi: \"mobil merah\"",
+      "prompt": {
+       "ar": "سَيّارَةٌ …",
+       "audio": {
+        "src": "/audio/o/1b790967e368e6d5.mp3"
+       },
+       "emoji": "🚗"
+      },
+      "answer": "حَمْراءُ",
+      "options": [
+       "حَمْراءُ",
+       "أَحْمَرُ",
+       "خَضْراءُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "حَمْراءُ": {
+        "src": "/audio/o/c79f208a7f54ae18.mp3"
+       },
+       "أَحْمَرُ": {
+        "src": "/audio/o/9f53ced3fef70f35.mp3"
+       },
+       "خَضْراءُ": {
+        "src": "/audio/o/0ad6a0db8c42f51a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-warna-bahr",
+      "instruction": "Lengkapi: \"Laut itu biru.\"",
+      "prompt": {
+       "ar": "البَحْرُ …",
+       "audio": {
+        "src": "/audio/o/7dd7cc51cbda0944.mp3"
+       },
+       "emoji": "🌊"
+      },
+      "answer": "أَزْرَقُ",
+      "options": [
+       "أَزْرَقُ",
+       "زَرْقاءُ",
+       "أَخْضَرُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَزْرَقُ": {
+        "src": "/audio/o/68b5cceca206eab3.mp3"
+       },
+       "زَرْقاءُ": {
+        "src": "/audio/o/23ae2ebddf44af1a.mp3"
+       },
+       "أَخْضَرُ": {
+        "src": "/audio/o/b27d1549731a450f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-warna-jazirah",
+      "instruction": "Lengkapi: \"Pulau itu hijau.\"",
+      "prompt": {
+       "ar": "الجَزِيرَةُ …",
+       "audio": {
+        "src": "/audio/o/c9ddc1843202e83a.mp3"
+       },
+       "emoji": "🏝️"
+      },
+      "answer": "خَضْراءُ",
+      "options": [
+       "خَضْراءُ",
+       "أَخْضَرُ",
+       "بَيْضاءُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خَضْراءُ": {
+        "src": "/audio/o/0ad6a0db8c42f51a.mp3"
+       },
+       "أَخْضَرُ": {
+        "src": "/audio/o/b27d1549731a450f.mp3"
+       },
+       "بَيْضاءُ": {
+        "src": "/audio/o/f5b8dde5e23167b6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-dengar-safra",
+      "instruction": "Dengarkan. Warna apa?",
+      "prompt": {
+       "tts": "صَفْراءُ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/f782cba303e0b52a.mp3"
+       }
+      },
+      "answer": "kuning",
+      "options": [
+       "kuning",
+       "merah",
+       "putih"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d4-serapan-hawa",
+      "instruction": "Kata Indonesia \"hawa\" (udara) berasal dari kata …",
+      "prompt": {
+       "id": "hawa"
+      },
+      "answer": "هَواءٌ",
+      "options": [
+       "هَواءٌ",
+       "هادِئٌ",
+       "نَهْرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هَواءٌ": {
+        "src": "/audio/o/572a5cc82f906e5e.mp3"
+       },
+       "هادِئٌ": {
+        "src": "/audio/o/a6f4ed2810b01374.mp3"
+       },
+       "نَهْرٌ": {
+        "src": "/audio/o/36a44fead2fd62cb.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u11-d4-lat-gambar-nahr",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "🏞️"
+     },
+     "answer": "نَهْرٌ",
+     "options": [
+      "نَهْرٌ",
+      "جَبَلٌ",
+      "شارِعٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "نَهْرٌ": {
+       "src": "/audio/o/36a44fead2fd62cb.mp3"
+      },
+      "جَبَلٌ": {
+       "src": "/audio/o/7a6f79831f324e53.mp3"
+      },
+      "شارِعٌ": {
+       "src": "/audio/o/48f7f15fe073e638.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d4-lat-qaryah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "قَرْيَةٌ",
+      "audio": {
+       "src": "/audio/o/3f28c0e9b947df3e.mp3"
+      }
+     },
+     "answer": "desa",
+     "options": [
+      "desa",
+      "kota",
+      "pulau"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d4-lat-warna-hafilah",
+     "instruction": "Lengkapi: \"bus putih\"",
+     "prompt": {
+      "ar": "حافِلَةٌ …",
+      "audio": {
+       "src": "/audio/o/702ac930341a4862.mp3"
+      },
+      "emoji": "🚌"
+     },
+     "answer": "بَيْضاءُ",
+     "options": [
+      "بَيْضاءُ",
+      "أَبْيَضُ",
+      "سَوْداءُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "بَيْضاءُ": {
+       "src": "/audio/o/f5b8dde5e23167b6.mp3"
+      },
+      "أَبْيَضُ": {
+       "src": "/audio/o/81446f5fe68a6c77.mp3"
+      },
+      "سَوْداءُ": {
+       "src": "/audio/o/dbcb7f7cf110712b.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d4-lat-dengar-zihaam",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "زِحامٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/9c66e42e98d2a12c.mp3"
+      }
+     },
+     "answer": "kemacetan",
+     "options": [
+      "kemacetan",
+      "penduduk",
+      "perjalanan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d4-lat-serapan-bahari",
+     "instruction": "Kata Indonesia \"bahari\" (berkaitan dengan laut) berasal dari kata …",
+     "prompt": {
+      "id": "bahari"
+     },
+     "answer": "بَحْرٌ",
+     "options": [
+      "بَحْرٌ",
+      "نَهْرٌ",
+      "جَبَلٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "بَحْرٌ": {
+       "src": "/audio/o/d194d7f0f453ae89.mp3"
+      },
+      "نَهْرٌ": {
+       "src": "/audio/o/36a44fead2fd62cb.mp3"
+      },
+      "جَبَلٌ": {
+       "src": "/audio/o/7a6f79831f324e53.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u11-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Bertanya alasan dan pendapat"
+      },
+      "groups": [
+       {
+        "title_ar": "لِماذا + ذَهَبْتَ؟",
+        "note_id": "Untuk menanyakan alasan sesuatu yang sudah terjadi: لِماذا + kata kerja lampau. Jawabannya: لِـ + kata benda (untuk …) atau لِأَنَّ + kalimat (karena …).",
+        "rows": [
+         {
+          "ar": "لِماذا انْتَقَلْتَ إِلَى يُوغْياكَرْتا؟",
+          "id": "Kenapa kamu (lk) pindah ke Yogyakarta?",
+          "audio": {
+           "src": "/audio/o/cf97d8baa6ca9988.mp3"
+          }
+         },
+         {
+          "ar": "اِنْتَقَلْتُ لِلدِّراسَةِ.",
+          "id": "Aku pindah untuk belajar.",
+          "audio": {
+           "src": "/audio/o/8be87638100991fd.mp3"
+          }
+         },
+         {
+          "ar": "لِماذا ذَهَبْتِ إِلَى جاكَرْتا؟",
+          "id": "Kenapa kamu (pr) pergi ke Jakarta?",
+          "audio": {
+           "src": "/audio/o/c3e9de2eee484806.mp3"
+          }
+         },
+         {
+          "ar": "لِأَنَّ صَدِيقَتِي هُناكَ.",
+          "id": "Karena temanku ada di sana.",
+          "audio": {
+           "src": "/audio/o/fef6f44577b52aa1.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "ما رَأْيُكَ فِي …؟ · ما رَأْيُكِ فِي …؟",
+        "note_id": "رَأْيٌ = pendapat. ـكَ untuk laki-laki, ـكِ untuk perempuan.",
+        "rows": [
+         {
+          "ar": "ما رَأْيُكَ فِي القِطارِ؟",
+          "id": "Bagaimana pendapatmu (lk) tentang kereta itu?",
+          "audio": {
+           "src": "/audio/o/bd530b87f3862dae.mp3"
+          }
+         },
+         {
+          "ar": "هُوَ سَرِيعٌ وَجَمِيلٌ.",
+          "id": "Keretanya cepat dan bagus.",
+          "audio": {
+           "src": "/audio/o/94bce6bace81437f.mp3"
+          }
+         },
+         {
+          "ar": "ما رَأْيُكِ فِي القَرْيَةِ؟",
+          "id": "Bagaimana pendapatmu (pr) tentang desa itu?",
+          "audio": {
+           "src": "/audio/o/7b06ac46db5c97bd.mp3"
+          }
+         },
+         {
+          "ar": "هِيَ هادِئَةٌ.",
+          "id": "Desanya tenang.",
+          "audio": {
+           "src": "/audio/o/4f213b95e668026a.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Tetapi, tidak, dari-ke-bersama"
+      },
+      "groups": [
+       {
+        "title_ar": "لٰكِنْ",
+        "rows": [
+         {
+          "ar": "جاكَرْتا كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ.",
+          "id": "Jakarta besar, tetapi macet.",
+          "audio": {
+           "src": "/audio/o/e4d24cd2a8d99fdc.mp3"
+          }
+         },
+         {
+          "ar": "القَرْيَةُ صَغِيرَةٌ، لٰكِنْ هَواؤُها نَظِيفٌ.",
+          "id": "Desa itu kecil, tetapi udaranya bersih.",
+          "audio": {
+           "src": "/audio/o/6159e6674c9eca89.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "لَيْسَ · لَيْسَتْ",
+        "note_id": "لَيْسَ untuk laki-laki, لَيْسَتْ untuk perempuan. Kata sesudahnya berakhiran -an/-atan: بَعِيدًا، كَبِيرَةً. Dalam pola لَيْسَ فِي … (tidak ada … di …), kata bendanya tetap -un.",
+        "rows": [
+         {
+          "ar": "المَسْجِدُ لَيْسَ بَعِيدًا.",
+          "id": "Masjid itu tidak jauh.",
+          "audio": {
+           "src": "/audio/o/4c8d974f18d07ef4.mp3"
+          }
+         },
+         {
+          "ar": "القَرْيَةُ لَيْسَتْ كَبِيرَةً.",
+          "id": "Desa itu tidak besar.",
+          "audio": {
+           "src": "/audio/o/ec3aa414eae97776.mp3"
+          }
+         },
+         {
+          "ar": "لَيْسَ فِي القَرْيَةِ زِحامٌ.",
+          "id": "Di desa itu tidak ada kemacetan.",
+          "audio": {
+           "src": "/audio/o/846bb3af0a46a118.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "مِنْ · إِلَى · مَعَ",
+        "rows": [
+         {
+          "ar": "ذَهَبْتُ مِنْ يُوغْياكَرْتا إِلَى بانْدُونْغ.",
+          "id": "Aku pergi dari Yogyakarta ke Bandung.",
+          "audio": {
+           "src": "/audio/o/5326f58b61fdd728.mp3"
+          }
+         },
+         {
+          "ar": "رَكِبْتُ القِطارَ مَعَ صَدِيقِي.",
+          "id": "Aku naik kereta bersama temanku.",
+          "audio": {
+           "src": "/audio/o/e35439fc40e78a45.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d5-laisa-baid",
+      "instruction": "Lengkapi: \"Masjid itu tidak jauh.\"",
+      "prompt": {
+       "ar": "المَسْجِدُ لَيْسَ …",
+       "audio": {
+        "src": "/audio/o/b560c59735f76223.mp3"
+       }
+      },
+      "answer": "بَعِيدًا",
+      "options": [
+       "بَعِيدًا",
+       "بَعِيدٌ",
+       "بَعِيدَةً"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بَعِيدًا": {
+        "src": "/audio/o/26949fc9d31f0a77.mp3"
+       },
+       "بَعِيدٌ": {
+        "src": "/audio/o/9e159748fce4ffbb.mp3"
+       },
+       "بَعِيدَةً": {
+        "src": "/audio/o/314475f2d5d519ed.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d5-laisat-qaryah",
+      "instruction": "Lengkapi: \"Desa itu tidak besar.\"",
+      "prompt": {
+       "ar": "القَرْيَةُ … كَبِيرَةً.",
+       "audio": {
+        "src": "/audio/o/a4af5dfe7b909264.mp3"
+       }
+      },
+      "answer": "لَيْسَتْ",
+      "options": [
+       "لَيْسَتْ",
+       "لَيْسَ",
+       "لِأَنَّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لَيْسَتْ": {
+        "src": "/audio/o/de77c24ca4421c21.mp3"
+       },
+       "لَيْسَ": {
+        "src": "/audio/o/e8895b5a5bec11cd.mp3"
+       },
+       "لِأَنَّ": {
+        "src": "/audio/o/5dfdc8732dd80b83.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d5-tanya-rayuki-medan",
+      "instruction": "Kamu bertanya pendapat Siti tentang Medan. Pilih kalimatnya",
+      "prompt": {
+       "id": "Bagaimana pendapatmu (pr) tentang Medan?",
+       "emoji": "👩"
+      },
+      "answer": "ما رَأْيُكِ فِي مِيدان؟",
+      "options": [
+       "ما رَأْيُكِ فِي مِيدان؟",
+       "ما رَأْيُكَ فِي مِيدان؟",
+       "لِماذا ذَهَبْتِ إِلَى مِيدان؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ما رَأْيُكِ فِي مِيدان؟": {
+        "src": "/audio/o/1f2f7919a18fa92a.mp3"
+       },
+       "ما رَأْيُكَ فِي مِيدان؟": {
+        "src": "/audio/o/c05f4cdeb2ad5c2d.mp3"
+       },
+       "لِماذا ذَهَبْتِ إِلَى مِيدان؟": {
+        "src": "/audio/o/e7a38286ca820d58.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d5-isi-lakin",
+      "instruction": "Lengkapi: \"Kota itu besar, tetapi macet.\"",
+      "prompt": {
+       "ar": "المَدِينَةُ كَبِيرَةٌ، … فِيها زِحامٌ.",
+       "audio": {
+        "src": "/audio/o/746c1dd5a6c675be.mp3"
+       }
+      },
+      "answer": "لٰكِنْ",
+      "options": [
+       "لٰكِنْ",
+       "أَوْ",
+       "مَعَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لٰكِنْ": {
+        "src": "/audio/o/41f808973f1b2b6b.mp3"
+       },
+       "أَوْ": {
+        "src": "/audio/o/37af3e6895e26b74.mp3"
+       },
+       "مَعَ": {
+        "src": "/audio/o/7ee7ee0c5d3dc169.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d5-jawab-limadza-masjid",
+      "instruction": "Pilih jawaban yang cocok",
+      "prompt": {
+       "ar": "لِماذا ذَهَبْتَ إِلَى المَسْجِدِ؟",
+       "audio": {
+        "src": "/audio/o/2270ca67c34bf464.mp3"
+       }
+      },
+      "answer": "ذَهَبْتُ لِلصَّلاةِ.",
+      "options": [
+       "ذَهَبْتُ لِلصَّلاةِ.",
+       "ذَهَبْتُ مَعَ أَبِي.",
+       "ذَهَبْتُ فِي المَساءِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ذَهَبْتُ لِلصَّلاةِ.": {
+        "src": "/audio/o/202e7cb91fd224f3.mp3"
+       },
+       "ذَهَبْتُ مَعَ أَبِي.": {
+        "src": "/audio/o/49e0de307536e0d3.mp3"
+       },
+       "ذَهَبْتُ فِي المَساءِ.": {
+        "src": "/audio/o/2fc147027d72fd7d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d5-lianna-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "لِأَنَّ صَدِيقَتِي هُناكَ.",
+       "audio": {
+        "src": "/audio/o/fef6f44577b52aa1.mp3"
+       }
+      },
+      "answer": "Karena temanku (pr) ada di sana.",
+      "options": [
+       "Karena temanku (pr) ada di sana.",
+       "Kenapa temanku (pr) di sana?",
+       "Temanku (pr) tidak di sana."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d5-susun-ila-bandung-maa",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Aku pergi bersama ayahku."
+      },
+      "answer": "ذَهَبْتُ مَعَ أَبِي",
+      "tokens": [
+       "ذَهَبْتُ",
+       "مَعَ",
+       "أَبِي",
+       "مِنْ"
+      ],
+      "audioMap": {
+       "ذَهَبْتُ": {
+        "src": "/audio/o/db0fdc52507eaa75.mp3"
+       },
+       "مَعَ": {
+        "src": "/audio/o/7ee7ee0c5d3dc169.mp3"
+       },
+       "أَبِي": {
+        "src": "/audio/o/21fd285adcc5f188.mp3"
+       },
+       "مِنْ": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d5-susun-limadza-rajati",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kenapa kamu (pr) pulang ke rumah?"
+      },
+      "answer": "لِماذا رَجَعْتِ إِلَى البَيْتِ",
+      "tokens": [
+       "لِماذا",
+       "رَجَعْتِ",
+       "إِلَى",
+       "البَيْتِ",
+       "رَجَعْتَ"
+      ],
+      "audioMap": {
+       "لِماذا": {
+        "src": "/audio/o/0ec5b75e5a78f167.mp3"
+       },
+       "رَجَعْتِ": {
+        "src": "/audio/o/2ef1ebb198d0ef88.mp3"
+       },
+       "إِلَى": {
+        "src": "/audio/o/57551989bbc39ffa.mp3"
+       },
+       "البَيْتِ": {
+        "src": "/audio/o/15cd26df8ad762f5.mp3"
+       },
+       "رَجَعْتَ": {
+        "src": "/audio/o/dc5b800298055589.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d5-susun-qaryah-laisat",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Desa itu tidak besar."
+      },
+      "answer": "القَرْيَةُ لَيْسَتْ كَبِيرَةً",
+      "tokens": [
+       "القَرْيَةُ",
+       "لَيْسَتْ",
+       "كَبِيرَةً",
+       "لَيْسَ"
+      ],
+      "audioMap": {
+       "القَرْيَةُ": {
+        "src": "/audio/o/fdfc028067c03fb0.mp3"
+       },
+       "لَيْسَتْ": {
+        "src": "/audio/o/de77c24ca4421c21.mp3"
+       },
+       "كَبِيرَةً": {
+        "src": "/audio/o/16cd76945f07efc2.mp3"
+       },
+       "لَيْسَ": {
+        "src": "/audio/o/e8895b5a5bec11cd.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u11-d5-lat-laisa-qitar",
+     "instruction": "Lengkapi: \"Kereta itu tidak kecil.\"",
+     "prompt": {
+      "ar": "القِطارُ لَيْسَ …",
+      "audio": {
+       "src": "/audio/o/70cd00e4070c158c.mp3"
+      }
+     },
+     "answer": "صَغِيرًا",
+     "options": [
+      "صَغِيرًا",
+      "صَغِيرٌ",
+      "صَغِيرَةً"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "صَغِيرًا": {
+       "src": "/audio/o/8786fe339d7fa416.mp3"
+      },
+      "صَغِيرٌ": {
+       "src": "/audio/o/e0f490aaa8f1e871.mp3"
+      },
+      "صَغِيرَةً": {
+       "src": "/audio/o/ba6d0a27fb3648bc.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d5-lat-tanya-rayuka-budi",
+     "instruction": "Kamu bertanya pendapat Budi tentang kereta. Pilih kalimatnya",
+     "prompt": {
+      "id": "Bagaimana pendapatmu (lk) tentang kereta itu?",
+      "emoji": "👦"
+     },
+     "answer": "ما رَأْيُكَ فِي القِطارِ؟",
+     "options": [
+      "ما رَأْيُكَ فِي القِطارِ؟",
+      "ما رَأْيُكِ فِي القِطارِ؟",
+      "مَتَى رَكِبْتَ القِطارَ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ما رَأْيُكَ فِي القِطارِ؟": {
+       "src": "/audio/o/bd530b87f3862dae.mp3"
+      },
+      "ما رَأْيُكِ فِي القِطارِ؟": {
+       "src": "/audio/o/5f7b9373d2ad6f56.mp3"
+      },
+      "مَتَى رَكِبْتَ القِطارَ؟": {
+       "src": "/audio/o/2c5b15fddf1d3dd9.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d5-lat-jawab-limadza-dzahabti",
+     "instruction": "Pilih jawaban yang cocok",
+     "prompt": {
+      "ar": "لِماذا ذَهَبْتِ إِلَى المَكْتَبَةِ؟",
+      "audio": {
+       "src": "/audio/o/c63f5551caf3a4d1.mp3"
+      }
+     },
+     "answer": "لِأَنَّ عِنْدِي امْتِحانًا.",
+     "options": [
+      "لِأَنَّ عِنْدِي امْتِحانًا.",
+      "ذَهَبْتُ مَعَ عائِشَةَ.",
+      "المَكْتَبَةُ كَبِيرَةٌ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "لِأَنَّ عِنْدِي امْتِحانًا.": {
+       "src": "/audio/o/55cc849c8f6075b8.mp3"
+      },
+      "ذَهَبْتُ مَعَ عائِشَةَ.": {
+       "src": "/audio/o/cb3fe51d8ac6cc67.mp3"
+      },
+      "المَكْتَبَةُ كَبِيرَةٌ.": {
+       "src": "/audio/o/5422eef1522b20f3.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u11-d5-lat-susun-laisa-fiha",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Di desa itu tidak ada kemacetan."
+     },
+     "answer": "لَيْسَ فِي القَرْيَةِ زِحامٌ",
+     "tokens": [
+      "لَيْسَ",
+      "فِي",
+      "القَرْيَةِ",
+      "زِحامٌ",
+      "لَيْسَتْ"
+     ],
+     "audioMap": {
+      "لَيْسَ": {
+       "src": "/audio/o/e8895b5a5bec11cd.mp3"
+      },
+      "فِي": {
+       "src": "/audio/o/795f40ec05f82a8d.mp3"
+      },
+      "القَرْيَةِ": {
+       "src": "/audio/o/0a409c2e139e72ba.mp3"
+      },
+      "زِحامٌ": {
+       "src": "/audio/o/9c66e42e98d2a12c.mp3"
+      },
+      "لَيْسَتْ": {
+       "src": "/audio/o/de77c24ca4421c21.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u11-d5-lat-susun-min-ila",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Aku pulang dari Jakarta."
+     },
+     "answer": "رَجَعْتُ مِنْ جاكَرْتا",
+     "tokens": [
+      "رَجَعْتُ",
+      "مِنْ",
+      "جاكَرْتا",
+      "إِلَى"
+     ],
+     "audioMap": {
+      "رَجَعْتُ": {
+       "src": "/audio/o/94d055e8346b3578.mp3"
+      },
+      "مِنْ": {
+       "src": "/audio/o/b112ec2cecfd09bc.mp3"
+      },
+      "جاكَرْتا": {
+       "src": "/audio/o/e8fc9458952a4433.mp3"
+      },
+      "إِلَى": {
+       "src": "/audio/o/57551989bbc39ffa.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u11-d6",
+   "dars": 6,
+   "title_id": "Bunyi ش dan س, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "سِعْرٌ",
+        "audio": {
+         "src": "/audio/o/fad3862c331f97ff.mp3"
+        },
+        "pair_ar": "شِعْرٌ"
+       },
+       {
+        "ar": "شِعْرٌ",
+        "audio": {
+         "src": "/audio/o/4c8f4f75e5cdc0e2.mp3"
+        },
+        "pair_ar": "سِعْرٌ"
+       },
+       {
+        "ar": "عُسْرٌ",
+        "audio": {
+         "src": "/audio/o/831cfd9606dbab17.mp3"
+        },
+        "pair_ar": "عُشْرٌ"
+       },
+       {
+        "ar": "عُشْرٌ",
+        "audio": {
+         "src": "/audio/o/9bfc14da81f49f2f.mp3"
+        },
+        "pair_ar": "عُسْرٌ"
+       },
+       {
+        "ar": "سَرابٌ",
+        "audio": {
+         "src": "/audio/o/f30b05389ee11181.mp3"
+        },
+        "pair_ar": "شَرابٌ"
+       },
+       {
+        "ar": "شَرابٌ",
+        "audio": {
+         "src": "/audio/o/fdca2ec4a86ac8f0.mp3"
+        },
+        "pair_ar": "سَرابٌ"
+       },
+       {
+        "ar": "سَمْعٌ",
+        "audio": {
+         "src": "/audio/o/88e1f59a2c0aec23.mp3"
+        },
+        "pair_ar": "شَمْعٌ"
+       },
+       {
+        "ar": "شَمْعٌ",
+        "audio": {
+         "src": "/audio/o/ee7cdfeccc48ad07.mp3"
+        },
+        "pair_ar": "سَمْعٌ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi ش dan س"
+      },
+      "note_id": "س (sin) diucapkan tipis seperti \"s\" pada \"sapu\": ujung lidah dekat gigi depan. ش (syin) seperti \"sy\" pada \"syukur\": bibir sedikit maju, lidah lebih ke belakang dan udara keluar lebih lebar. Artinya bisa berubah: سِعْرٌ = harga, شِعْرٌ = syair; عُسْرٌ = kesulitan, عُشْرٌ = sepersepuluh; سَرابٌ = fatamorgana, شَرابٌ = minuman; سَمْعٌ = pendengaran, شَمْعٌ = lilin."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d6-dengar-sir",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "شِعْرٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/4c8f4f75e5cdc0e2.mp3"
+       }
+      },
+      "answer": "شِعْرٌ",
+      "options": [
+       "شِعْرٌ",
+       "سِعْرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شِعْرٌ": {
+        "src": "/audio/o/4c8f4f75e5cdc0e2.mp3"
+       },
+       "سِعْرٌ": {
+        "src": "/audio/o/fad3862c331f97ff.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d6-dengar-usr",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "عُسْرٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/831cfd9606dbab17.mp3"
+       }
+      },
+      "answer": "عُسْرٌ",
+      "options": [
+       "عُسْرٌ",
+       "عُشْرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عُسْرٌ": {
+        "src": "/audio/o/831cfd9606dbab17.mp3"
+       },
+       "عُشْرٌ": {
+        "src": "/audio/o/9bfc14da81f49f2f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d6-dengar-syarab",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "شَرابٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/fdca2ec4a86ac8f0.mp3"
+       }
+      },
+      "answer": "شَرابٌ",
+      "options": [
+       "شَرابٌ",
+       "سَرابٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شَرابٌ": {
+        "src": "/audio/o/fdca2ec4a86ac8f0.mp3"
+       },
+       "سَرابٌ": {
+        "src": "/audio/o/f30b05389ee11181.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d6-dengar-sam",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "سَمْعٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/88e1f59a2c0aec23.mp3"
+       }
+      },
+      "answer": "سَمْعٌ",
+      "options": [
+       "سَمْعٌ",
+       "شَمْعٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سَمْعٌ": {
+        "src": "/audio/o/88e1f59a2c0aec23.mp3"
+       },
+       "شَمْعٌ": {
+        "src": "/audio/o/ee7cdfeccc48ad07.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d6-awal-syin",
+      "instruction": "Kata mana yang diawali huruf ش?",
+      "prompt": {
+       "id": "Cari huruf syin (ش) di awal kata"
+      },
+      "answer": "شارِعٌ",
+      "options": [
+       "شارِعٌ",
+       "سُكّانٌ",
+       "سَيّارَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شارِعٌ": {
+        "src": "/audio/o/48f7f15fe073e638.mp3"
+       },
+       "سُكّانٌ": {
+        "src": "/audio/o/6aa9074ca3c78685.mp3"
+       },
+       "سَيّارَةٌ": {
+        "src": "/audio/o/cd24467705ec268a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u11-d6-ucap-syams",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "شَمْسٌ",
+       "id": "matahari (ada ش dan س)",
+       "audio": {
+        "src": "/audio/o/3652e4c2441acdde.mp3"
+       }
+      },
+      "target": "شَمْسٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u11-d6-ucap-sukkan-madinah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "سُكّانُ المَدِينَةِ",
+       "id": "penduduk kota",
+       "audio": {
+        "src": "/audio/o/ed179f56b97d7edd.mp3"
+       }
+      },
+      "target": "سُكّانُ المَدِينَةِ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d6-simak-qaryah",
+      "instruction": "Dengarkan. Dia berasal dari mana?",
+      "prompt": {
+       "tts": "أَنا مِنْ قَرْيَةٍ صَغِيرَةٍ، وَهَواؤُها نَظِيفٌ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/9d08ec6b0e02129c.mp3"
+       }
+      },
+      "answer": "Dari desa kecil yang udaranya bersih",
+      "options": [
+       "Dari desa kecil yang udaranya bersih",
+       "Dari kota besar yang macet",
+       "Dari pulau kecil di laut"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d6-simak-qitar",
+      "instruction": "Dengarkan. Ke kota mana dia pergi?",
+      "prompt": {
+       "tts": "رَكِبْتُ القِطارَ مِنْ سُورابايا إِلَى جاكَرْتا.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/c3b5939d0703b873.mp3"
+       }
+      },
+      "answer": "Jakarta",
+      "options": [
+       "Jakarta",
+       "Surabaya",
+       "Bandung"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u11-d6-lat-dengar-sir2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "سِعْرٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/fad3862c331f97ff.mp3"
+      }
+     },
+     "answer": "سِعْرٌ",
+     "options": [
+      "سِعْرٌ",
+      "شِعْرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سِعْرٌ": {
+       "src": "/audio/o/fad3862c331f97ff.mp3"
+      },
+      "شِعْرٌ": {
+       "src": "/audio/o/4c8f4f75e5cdc0e2.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d6-lat-dengar-usyr2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "عُشْرٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/9bfc14da81f49f2f.mp3"
+      }
+     },
+     "answer": "عُشْرٌ",
+     "options": [
+      "عُشْرٌ",
+      "عُسْرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "عُشْرٌ": {
+       "src": "/audio/o/9bfc14da81f49f2f.mp3"
+      },
+      "عُسْرٌ": {
+       "src": "/audio/o/831cfd9606dbab17.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d6-lat-dengar-sarab2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "سَرابٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/f30b05389ee11181.mp3"
+      }
+     },
+     "answer": "سَرابٌ",
+     "options": [
+      "سَرابٌ",
+      "شَرابٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سَرابٌ": {
+       "src": "/audio/o/f30b05389ee11181.mp3"
+      },
+      "شَرابٌ": {
+       "src": "/audio/o/fdca2ec4a86ac8f0.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d6-lat-simak-zihaam",
+     "instruction": "Dengarkan. Bagaimana kota itu?",
+     "prompt": {
+      "tts": "المَدِينَةُ كَبِيرَةٌ، لٰكِنْ فِيها زِحامٌ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/2a5ed49ae1543ec4.mp3"
+      }
+     },
+     "answer": "Besar, tetapi macet",
+     "options": [
+      "Besar, tetapi macet",
+      "Kecil dan tenang",
+      "Besar dan tenang"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u11-d7",
+   "dars": 7,
+   "title_id": "Berbicara: kotaku dan desaku",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "فِي رَأْيِي",
+        "id": "menurut pendapatku",
+        "emoji": "💭",
+        "audio": {
+         "src": "/audio/o/3e5fda14f7969336.mp3"
+        }
+       },
+       {
+        "ar": "مَدِينَتِي",
+        "id": "kotaku",
+        "emoji": "🏙️",
+        "audio": {
+         "src": "/audio/o/e5fee6751ea6395c.mp3"
+        }
+       },
+       {
+        "ar": "قَرْيَتِي",
+        "id": "desaku",
+        "emoji": "🏡",
+        "audio": {
+         "src": "/audio/o/8820e933fd5814b4.mp3"
+        }
+       },
+       {
+        "ar": "صَغِيرٌ · صَغِيرَةٌ",
+        "id": "kecil (lk · pr)",
+        "emoji": "🐜",
+        "audio": {
+         "src": "/audio/o/4f552e6332beed79.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Untuk bercerita"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u11-d7-cerita-kota",
+      "instruction": "Ceritakan kotamu: namanya, besar atau kecil, dan udaranya",
+      "prompt": {
+       "id": "Pakai nama kotamu sendiri. Coba pakai لٰكِنْ."
+      },
+      "model": [
+       {
+        "ar": "أَنا مِنْ بانْدُونْغ.",
+        "id": "Aku dari Bandung.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/e4580a1949b7d6da.mp3"
+        }
+       },
+       {
+        "ar": "بانْدُونْغ مَدِينَةٌ كَبِيرَةٌ.",
+        "id": "Bandung kota yang besar.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/3babca366620ae9b.mp3"
+        }
+       },
+       {
+        "ar": "هَواؤُها بارِدٌ، لٰكِنْ فِيها زِحامٌ.",
+        "id": "Udaranya sejuk, tetapi macet.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/74d2d8b263b4f905.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u11-d7-ucap-madinati",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "مَدِينَتِي كَبِيرَةٌ.",
+       "id": "Kotaku besar.",
+       "audio": {
+        "src": "/audio/o/d00d4d09178bb3d7.mp3"
+       }
+      },
+      "target": "مَدِينَتِي كَبِيرَةٌ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u11-d7-ucap-qaryati",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "قَرْيَتِي هادِئَةٌ.",
+       "id": "Desaku tenang.",
+       "audio": {
+        "src": "/audio/o/ec8a94305f883e50.mp3"
+       }
+      },
+      "target": "قَرْيَتِي هادِئَةٌ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d7-jawab-rayuka-jogja",
+      "instruction": "Ustazah Zainab bertanya pendapatmu tentang Yogyakarta. Jawabanmu …",
+      "prompt": {
+       "ar": "ما رَأْيُكَ فِي يُوغْياكَرْتا؟",
+       "audio": {
+        "src": "/audio/o/38e73c09ab1a7406.mp3"
+       }
+      },
+      "answer": "فِي رَأْيِي هِيَ مَدِينَةٌ جَمِيلَةٌ.",
+      "options": [
+       "فِي رَأْيِي هِيَ مَدِينَةٌ جَمِيلَةٌ.",
+       "أَنا مِنْ يُوغْياكَرْتا.",
+       "ذَهَبْتُ إِلَى يُوغْياكَرْتا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فِي رَأْيِي هِيَ مَدِينَةٌ جَمِيلَةٌ.": {
+        "src": "/audio/o/b1ce3fa8d4e3385e.mp3"
+       },
+       "أَنا مِنْ يُوغْياكَرْتا.": {
+        "src": "/audio/o/f05d069ecfa1a269.mp3"
+       },
+       "ذَهَبْتُ إِلَى يُوغْياكَرْتا.": {
+        "src": "/audio/o/0ff0d7903770985a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u11-d7-tanya-alasan-pr",
+      "instruction": "Tanyakan alasan kepada teman perempuanmu, lalu jawab",
+      "prompt": {
+       "id": "Pakai لِماذا + kata kerja lampau, dan jawab dengan لِأَنَّ."
+      },
+      "model": [
+       {
+        "ar": "لِماذا ذَهَبْتِ إِلَى المَكْتَبَةِ؟",
+        "id": "Kenapa kamu (pr) pergi ke perpustakaan?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/7b8934a1f1c74b13.mp3"
+        }
+       },
+       {
+        "ar": "لِأَنَّ عِنْدِي امْتِحانًا.",
+        "id": "Karena aku ada ujian.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/46f834d7426549b7.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d7-pilih-qaryati-laisat",
+      "instruction": "Kamu ingin berkata: \"Desaku tidak besar, tetapi indah.\"",
+      "prompt": {
+       "id": "Desaku tidak besar, tetapi indah."
+      },
+      "answer": "قَرْيَتِي لَيْسَتْ كَبِيرَةً، لٰكِنْ هِيَ جَمِيلَةٌ.",
+      "options": [
+       "قَرْيَتِي لَيْسَتْ كَبِيرَةً، لٰكِنْ هِيَ جَمِيلَةٌ.",
+       "قَرْيَتِي كَبِيرَةٌ، لٰكِنْ هِيَ لَيْسَتْ جَمِيلَةً.",
+       "قَرْيَتِي لَيْسَتْ جَمِيلَةً، لٰكِنْ هِيَ كَبِيرَةٌ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَرْيَتِي لَيْسَتْ كَبِيرَةً، لٰكِنْ هِيَ جَمِيلَةٌ.": {
+        "src": "/audio/o/729bb6b29766f5be.mp3"
+       },
+       "قَرْيَتِي كَبِيرَةٌ، لٰكِنْ هِيَ لَيْسَتْ جَمِيلَةً.": {
+        "src": "/audio/o/b629fae09d6280bb.mp3"
+       },
+       "قَرْيَتِي لَيْسَتْ جَمِيلَةً، لٰكِنْ هِيَ كَبِيرَةٌ.": {
+        "src": "/audio/o/35519f16be7ec642.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u11-d7-banding-kota-desa",
+      "instruction": "Bandingkan kota dan desa, lalu sebut mana yang kamu suka",
+      "prompt": {
+       "id": "Pakai كَبِيرٌ/صَغِيرٌ، زِحامٌ، هادِئٌ."
+      },
+      "model": [
+       {
+        "ar": "المَدِينَةُ كَبِيرَةٌ، وَفِيها زِحامٌ.",
+        "id": "Kota itu besar, dan macet.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/123a349ea688f494.mp3"
+        }
+       },
+       {
+        "ar": "القَرْيَةُ صَغِيرَةٌ وَهادِئَةٌ.",
+        "id": "Desa itu kecil dan tenang.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/dc5bdacfee6c902b.mp3"
+        }
+       },
+       {
+        "ar": "أَنا أُحِبُّ القَرْيَةَ.",
+        "id": "Aku suka desa.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/733163e794aadc04.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u11-d7-ucap-fiha-zihaam",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "فِيها زِحامٌ كَثِيرٌ.",
+       "id": "Di sana macet sekali.",
+       "audio": {
+        "src": "/audio/o/052c09bdafbf6cf7.mp3"
+       }
+      },
+      "target": "فِيها زِحامٌ كَثِيرٌ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d7-jawab-maa-man",
+      "instruction": "Temanmu bertanya: \"Kamu pergi ke Malioboro bersama siapa?\" Jawabanmu …",
+      "prompt": {
+       "ar": "مَعَ مَنْ ذَهَبْتَ إِلَى مالِيُوبُورُو؟",
+       "audio": {
+        "src": "/audio/o/366c98578fd40048.mp3"
+       }
+      },
+      "answer": "ذَهَبْتُ مَعَ يُوسُفَ.",
+      "options": [
+       "ذَهَبْتُ مَعَ يُوسُفَ.",
+       "ذَهَبْتُ بِالحافِلَةِ.",
+       "ذَهَبْتُ فِي المَساءِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ذَهَبْتُ مَعَ يُوسُفَ.": {
+        "src": "/audio/o/10e6336915c135c8.mp3"
+       },
+       "ذَهَبْتُ بِالحافِلَةِ.": {
+        "src": "/audio/o/5ae7792bed9f292d.mp3"
+       },
+       "ذَهَبْتُ فِي المَساءِ.": {
+        "src": "/audio/o/2fc147027d72fd7d.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u11-d7-lat-fi-rayi-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "فِي رَأْيِي",
+      "audio": {
+       "src": "/audio/o/3e5fda14f7969336.mp3"
+      }
+     },
+     "answer": "menurut pendapatku",
+     "options": [
+      "menurut pendapatku",
+      "di kotaku",
+      "bagaimana pendapatmu?"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d7-lat-qaryati-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "قَرْيَتِي هادِئَةٌ.",
+      "audio": {
+       "src": "/audio/o/f88af1cdaae3a877.mp3"
+      }
+     },
+     "answer": "Desaku tenang.",
+     "options": [
+      "Desaku tenang.",
+      "Kotaku besar.",
+      "Desaku kecil."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d7-lat-jawab-limadza-intaqalta",
+     "instruction": "Temanmu bertanya: لِماذا انْتَقَلْتَ إِلَى بانْدُونْغ؟ Jawabanmu …",
+     "prompt": {
+      "ar": "لِماذا انْتَقَلْتَ إِلَى بانْدُونْغ؟",
+      "audio": {
+       "src": "/audio/o/95af792f63c49425.mp3"
+      }
+     },
+     "answer": "لِأَنَّ أَبِي يَعْمَلُ هُناكَ.",
+     "options": [
+      "لِأَنَّ أَبِي يَعْمَلُ هُناكَ.",
+      "اِنْتَقَلْتُ بِالقِطارِ.",
+      "اِنْتَقَلْتُ فِي المَساءِ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "لِأَنَّ أَبِي يَعْمَلُ هُناكَ.": {
+       "src": "/audio/o/a8ad5dde0e69aad7.mp3"
+      },
+      "اِنْتَقَلْتُ بِالقِطارِ.": {
+       "src": "/audio/o/bf8f63a21031ad1e.mp3"
+      },
+      "اِنْتَقَلْتُ فِي المَساءِ.": {
+       "src": "/audio/o/5ea729efd32a3620.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u11-d7-lat-susun-madinati",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kotaku besar."
+     },
+     "answer": "مَدِينَتِي كَبِيرَةٌ",
+     "tokens": [
+      "مَدِينَتِي",
+      "كَبِيرَةٌ",
+      "قَرْيَتِي"
+     ],
+     "audioMap": {
+      "مَدِينَتِي": {
+       "src": "/audio/o/e5fee6751ea6395c.mp3"
+      },
+      "كَبِيرَةٌ": {
+       "src": "/audio/o/f7329d77d4743657.mp3"
+      },
+      "قَرْيَتِي": {
+       "src": "/audio/o/8820e933fd5814b4.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u11-d8",
+   "dars": 8,
+   "title_id": "Membaca: kampung dan kepulauan",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "أَنا الأُسْتاذَةُ زَيْنَبُ، مِنْ سُولاوِيسِي.",
+        "id": "Saya Ustazah Zainab, dari Sulawesi.",
+        "audio": {
+         "src": "/audio/o/072fe404bf3bb4f8.mp3"
+        }
+       },
+       {
+        "ar": "قَرْيَتِي قَرِيبَةٌ مِنْ ماكاسار.",
+        "id": "Desaku dekat dengan Makassar.",
+        "audio": {
+         "src": "/audio/o/82aba2ee4ec73a15.mp3"
+        }
+       },
+       {
+        "ar": "أَمامَ القَرْيَةِ بَحْرٌ، وَخَلْفَها جَبَلٌ.",
+        "id": "Di depan desa ada laut, dan di belakangnya ada gunung.",
+        "audio": {
+         "src": "/audio/o/183742039363662b.mp3"
+        }
+       },
+       {
+        "ar": "سُكّانُ القَرْيَةِ صَيّادُونَ وَفَلّاحُونَ.",
+        "id": "Penduduk desa itu nelayan dan petani.",
+        "audio": {
+         "src": "/audio/o/eabd077cbbbc4741.mp3"
+        }
+       },
+       {
+        "ar": "هَواءُ القَرْيَةِ نَظِيفٌ، وَلَيْسَ فِيها زِحامٌ.",
+        "id": "Udara desa itu bersih, dan di sana tidak ada kemacetan.",
+        "audio": {
+         "src": "/audio/o/f0b7e4c130a2323d.mp3"
+        }
+       },
+       {
+        "ar": "لٰكِنْ لَيْسَ فِيها مَكْتَبَةٌ.",
+        "id": "Tetapi di sana tidak ada perpustakaan.",
+        "audio": {
+         "src": "/audio/o/171f4310a01f246c.mp3"
+        }
+       },
+       {
+        "ar": "لِذٰلِكَ ذَهَبْتُ إِلَى ماكاسار لِلدِّراسَةِ.",
+        "id": "Karena itu aku pergi ke Makassar untuk belajar.",
+        "audio": {
+         "src": "/audio/o/eb067f76313b5fce.mp3"
+        }
+       },
+       {
+        "ar": "وَالآنَ أَنا أُسْتاذَةٌ فِي يُوغْياكَرْتا.",
+        "id": "Dan sekarang aku guru di Yogyakarta.",
+        "audio": {
+         "src": "/audio/o/6e0a694c51d0c2dc.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Kampung Ustazah Zainab"
+      },
+      "imgs": [
+       "/img/o/u11-kampung-zainab.webp"
+      ],
+      "instruction_id": "Ustazah Zainab bercerita tentang kampung halamannya di Sulawesi.",
+      "note_id": "Kata baru: لِذٰلِكَ = karena itu."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d8-baca-amam-qaryah",
+      "instruction": "Benar atau salah? \"Di depan desa ada gunung.\"",
+      "prompt": {
+       "ar": "أَمامَ القَرْيَةِ جَبَلٌ.",
+       "audio": {
+        "src": "/audio/o/e9a0980e7e1426a1.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d8-baca-sukkan-qaryah",
+      "instruction": "Benar atau salah? \"Penduduk desa itu nelayan dan petani.\"",
+      "prompt": {
+       "ar": "سُكّانُ القَرْيَةِ صَيّادُونَ وَفَلّاحُونَ.",
+       "audio": {
+        "src": "/audio/o/eabd077cbbbc4741.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d8-baca-laisa-fiha",
+      "instruction": "Apa yang tidak ada di desa Ustazah Zainab?",
+      "prompt": {
+       "ar": "لَيْسَ فِي القَرْيَةِ …",
+       "audio": {
+        "src": "/audio/o/bbcf66ce09430386.mp3"
+       }
+      },
+      "answer": "perpustakaan",
+      "options": [
+       "perpustakaan",
+       "laut",
+       "gunung"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d8-baca-limadza-makassar",
+      "instruction": "Kenapa Ustazah Zainab pergi ke Makassar?",
+      "prompt": {
+       "ar": "لِماذا ذَهَبَتْ إِلَى ماكاسار؟",
+       "audio": {
+        "src": "/audio/o/5ed753463671777d.mp3"
+       }
+      },
+      "answer": "Untuk belajar",
+      "options": [
+       "Untuk belajar",
+       "Untuk bekerja sebagai guru",
+       "Untuk mengunjungi nenek"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "إِنْدُونِيسِيا بَلَدٌ كَبِيرٌ.",
+        "id": "Indonesia negeri yang besar.",
+        "audio": {
+         "src": "/audio/o/f7fe2b4488e6e387.mp3"
+        }
+       },
+       {
+        "ar": "فِيها آلافُ الجُزُرِ.",
+        "id": "Di sana ada ribuan pulau.",
+        "audio": {
+         "src": "/audio/o/ea19c792691b602f.mp3"
+        }
+       },
+       {
+        "ar": "مِنْ جُزُرِها جاوَا وَسُومَطْرا وَسُولاوِيسِي وَبالِي.",
+        "id": "Di antara pulau-pulaunya ada Jawa, Sumatra, Sulawesi, dan Bali.",
+        "audio": {
+         "src": "/audio/o/39352b5688b0c823.mp3"
+        }
+       },
+       {
+        "ar": "بَيْنَ الجُزُرِ بَحْرٌ واسِعٌ.",
+        "id": "Di antara pulau-pulau itu ada laut yang luas.",
+        "audio": {
+         "src": "/audio/o/821e64cc7b118978.mp3"
+        }
+       },
+       {
+        "ar": "فِي إِنْدُونِيسِيا جِبالٌ وَأَنْهارٌ كَثِيرَةٌ.",
+        "id": "Di Indonesia ada banyak gunung dan sungai.",
+        "audio": {
+         "src": "/audio/o/131781017e42ed63.mp3"
+        }
+       },
+       {
+        "ar": "سُكّانُ جاكَرْتا كَثِيرُونَ، وَفِيها زِحامٌ.",
+        "id": "Penduduk Jakarta banyak, dan di sana macet.",
+        "audio": {
+         "src": "/audio/o/e63e269f3e011fd0.mp3"
+        }
+       },
+       {
+        "ar": "نَذْهَبُ بَيْنَ الجُزُرِ بِالسَّفِينَةِ أَوْ بِالطّائِرَةِ.",
+        "id": "Kita bepergian antarpulau dengan kapal laut atau pesawat.",
+        "audio": {
+         "src": "/audio/o/dd42c7cd27758d19.mp3"
+        }
+       },
+       {
+        "ar": "إِنْدُونِيسِيا جَمِيلَةٌ، وَنَحْنُ نُحِبُّها.",
+        "id": "Indonesia indah, dan kita mencintainya.",
+        "audio": {
+         "src": "/audio/o/1a34588fe55e259a.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Indonesia, negeri kepulauan"
+      },
+      "imgs": [
+       "/img/o/u11-negeri-kepulauan.webp"
+      ],
+      "instruction_id": "Bacaan faktual. Baca pelan-pelan.",
+      "note_id": "Kata baru: بَلَدٌ = negeri; آلافٌ = ribuan; جُزُرٌ = pulau-pulau (jamak جَزِيرَةٌ); واسِعٌ = luas; سَفِينَةٌ = kapal laut."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d8-baca-bali-jazirah",
+      "instruction": "Benar atau salah? \"Bali adalah pulau di Indonesia.\"",
+      "prompt": {
+       "ar": "بالِي جَزِيرَةٌ فِي إِنْدُونِيسِيا.",
+       "audio": {
+        "src": "/audio/o/3ed889c7982f9588.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d8-baca-balad-saghir",
+      "instruction": "Benar atau salah? \"Indonesia negeri yang kecil.\"",
+      "prompt": {
+       "ar": "إِنْدُونِيسِيا بَلَدٌ صَغِيرٌ.",
+       "audio": {
+        "src": "/audio/o/047305e7f610277b.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d8-baca-baina-juzur",
+      "instruction": "Menurut bacaan, apa yang ada di antara pulau-pulau?",
+      "prompt": {
+       "ar": "بَيْنَ الجُزُرِ …",
+       "audio": {
+        "src": "/audio/o/c5a5ad1e82272d70.mp3"
+       }
+      },
+      "answer": "بَحْرٌ واسِعٌ",
+      "options": [
+       "بَحْرٌ واسِعٌ",
+       "جَبَلٌ كَبِيرٌ",
+       "نَهْرٌ صَغِيرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بَحْرٌ واسِعٌ": {
+        "src": "/audio/o/fb9558b4dfa1ed5e.mp3"
+       },
+       "جَبَلٌ كَبِيرٌ": {
+        "src": "/audio/o/7f33457cb4c2a11f.mp3"
+       },
+       "نَهْرٌ صَغِيرٌ": {
+        "src": "/audio/o/056001111f477677.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d8-baca-kendaraan-pulau",
+      "instruction": "Menurut bacaan, kita bepergian antarpulau naik apa?",
+      "prompt": {
+       "ar": "نَذْهَبُ بَيْنَ الجُزُرِ بِـ …",
+       "audio": {
+        "src": "/audio/o/c993877492267365.mp3"
+       }
+      },
+      "answer": "kapal laut atau pesawat",
+      "options": [
+       "kapal laut atau pesawat",
+       "kereta atau bus",
+       "sepeda motor atau mobil"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u11-d8-lat-baca-zainab-asal",
+     "instruction": "Ustazah Zainab berasal dari pulau mana?",
+     "prompt": {
+      "id": "Menurut bacaan 1"
+     },
+     "answer": "Sulawesi",
+     "options": [
+      "Sulawesi",
+      "Jawa",
+      "Sumatra"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d8-lat-baca-khalfaha",
+     "instruction": "Benar atau salah? \"Di belakang desa ada gunung.\"",
+     "prompt": {
+      "ar": "خَلْفَ القَرْيَةِ جَبَلٌ.",
+      "audio": {
+       "src": "/audio/o/1163ce179a3bf192.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d8-lat-baca-hawauha",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هَواءُ القَرْيَةِ نَظِيفٌ، وَلَيْسَ فِيها زِحامٌ.",
+      "audio": {
+       "src": "/audio/o/f0b7e4c130a2323d.mp3"
+      }
+     },
+     "answer": "Udara desa itu bersih, dan di sana tidak ada kemacetan.",
+     "options": [
+      "Udara desa itu bersih, dan di sana tidak ada kemacetan.",
+      "Desa itu besar, dan penduduknya banyak.",
+      "Udara kota itu panas, dan di sana macet."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d8-lat-baca-alaf-juzur",
+     "instruction": "Menurut bacaan 2, berapa banyak pulau di Indonesia?",
+     "prompt": {
+      "ar": "فِيها آلافُ الجُزُرِ.",
+      "audio": {
+       "src": "/audio/o/ea19c792691b602f.mp3"
+      }
+     },
+     "answer": "ribuan",
+     "options": [
+      "ribuan",
+      "sepuluh",
+      "dua puluh"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u11-d9",
+   "dars": 9,
+   "title_id": "Menulis tentang kotaku",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "شارِعٌ",
+        "id": "jalan",
+        "audio": {
+         "src": "/audio/o/48f7f15fe073e638.mp3"
+        }
+       },
+       {
+        "ar": "شَمْسٌ",
+        "id": "matahari",
+        "audio": {
+         "src": "/audio/o/3652e4c2441acdde.mp3"
+        }
+       },
+       {
+        "ar": "سُكّانٌ",
+        "id": "penduduk",
+        "audio": {
+         "src": "/audio/o/6aa9074ca3c78685.mp3"
+        }
+       },
+       {
+        "ar": "مَدْرَسَةٌ",
+        "id": "sekolah",
+        "audio": {
+         "src": "/audio/o/0931909e67065620.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf ش dan س dalam kata"
+      },
+      "instruction_id": "ش bertitik tiga di atas, س tanpa titik. Telusuri kata-kata ini."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d9-tulis-syari",
+      "instruction": "Mana tulisan \"jalan\" yang benar?",
+      "prompt": {
+       "id": "jalan (syāri')"
+      },
+      "answer": "شارِعٌ",
+      "options": [
+       "شارِعٌ",
+       "سارِعٌ",
+       "شارِحٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شارِعٌ": {
+        "src": "/audio/o/48f7f15fe073e638.mp3"
+       },
+       "سارِعٌ": {
+        "src": "/audio/o/c14fc974b71eee7f.mp3"
+       },
+       "شارِحٌ": {
+        "src": "/audio/o/f9ea918a16df3f31.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d9-eja-syams",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "شَمْسٌ (matahari)"
+      },
+      "answer": "ش م س",
+      "tokens": [
+       "ش",
+       "م",
+       "س",
+       "ص"
+      ],
+      "audioMap": {
+       "ش": {
+        "src": "/audio/o/b797d01357f7f304.mp3"
+       },
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       },
+       "ص": {
+        "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d9-eja-sukkan",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "سُكّانٌ (penduduk)"
+      },
+      "answer": "س ك ا ن",
+      "tokens": [
+       "س",
+       "ك",
+       "ا",
+       "ن",
+       "ش"
+      ],
+      "audioMap": {
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       },
+       "ك": {
+        "src": "/audio/o/58fba7de9c43a599.mp3"
+       },
+       "ا": {
+        "src": "/audio/o/4fc340bfb295d42f.mp3"
+       },
+       "ن": {
+        "src": "/audio/o/ce5720365c20c36e.mp3"
+       },
+       "ش": {
+        "src": "/audio/o/b797d01357f7f304.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "مَدِينَتِي بانْدُونْغ.",
+        "id": "Kotaku Bandung.",
+        "audio": {
+         "src": "/audio/o/9713dba4011a9704.mp3"
+        }
+       },
+       {
+        "ar": "هِيَ مَدِينَةٌ كَبِيرَةٌ.",
+        "id": "Kota itu besar.",
+        "audio": {
+         "src": "/audio/o/33fc8df476f90a17.mp3"
+        }
+       },
+       {
+        "ar": "هَواؤُها بارِدٌ.",
+        "id": "Udaranya sejuk.",
+        "audio": {
+         "src": "/audio/o/15b8ba9924b2c5b5.mp3"
+        }
+       },
+       {
+        "ar": "فِيها زِحامٌ، لٰكِنْ هِيَ جَمِيلَةٌ.",
+        "id": "Di sana macet, tetapi kotanya indah.",
+        "audio": {
+         "src": "/audio/o/4c2570002a62f1c2.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kalimat tentang kotaku"
+      },
+      "instruction_id": "Contoh tulisan Rizki tentang kotanya. Telusuri, lalu tulis tentang kotamu sendiri."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d9-susun-madinati-bandung",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ini kotaku."
+      },
+      "answer": "هٰذِهِ مَدِينَتِي",
+      "tokens": [
+       "هٰذِهِ",
+       "مَدِينَتِي",
+       "مَدِينَةٌ"
+      ],
+      "audioMap": {
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       },
+       "مَدِينَتِي": {
+        "src": "/audio/o/e5fee6751ea6395c.mp3"
+       },
+       "مَدِينَةٌ": {
+        "src": "/audio/o/335ba5ab415a0a82.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d9-susun-hawauha-barid",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Udaranya sejuk."
+      },
+      "answer": "هَواؤُها بارِدٌ",
+      "tokens": [
+       "هَواؤُها",
+       "بارِدٌ",
+       "حارٌّ"
+      ],
+      "audioMap": {
+       "هَواؤُها": {
+        "src": "/audio/o/88fa2ad761bd13e9.mp3"
+       },
+       "بارِدٌ": {
+        "src": "/audio/o/de80f7cc6e55713c.mp3"
+       },
+       "حارٌّ": {
+        "src": "/audio/o/98c8ba97129cbd76.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d9-susun-madinati-laisat",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kota itu tidak tenang."
+      },
+      "answer": "المَدِينَةُ لَيْسَتْ هادِئَةً",
+      "tokens": [
+       "المَدِينَةُ",
+       "لَيْسَتْ",
+       "هادِئَةً",
+       "لَيْسَ"
+      ],
+      "audioMap": {
+       "المَدِينَةُ": {
+        "src": "/audio/o/f4592123fc18ca54.mp3"
+       },
+       "لَيْسَتْ": {
+        "src": "/audio/o/de77c24ca4421c21.mp3"
+       },
+       "هادِئَةً": {
+        "src": "/audio/o/a54b6ef857ec3215.mp3"
+       },
+       "لَيْسَ": {
+        "src": "/audio/o/e8895b5a5bec11cd.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u11-d9-susun-fiha-zihaam-lakin",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Di sana macet, tetapi kotanya indah."
+      },
+      "answer": "فِيها زِحامٌ لٰكِنْ هِيَ جَمِيلَةٌ",
+      "tokens": [
+       "فِيها",
+       "زِحامٌ",
+       "لٰكِنْ",
+       "هِيَ",
+       "جَمِيلَةٌ",
+       "أَوْ"
+      ],
+      "audioMap": {
+       "فِيها": {
+        "src": "/audio/o/ed88d95ac7a54184.mp3"
+       },
+       "زِحامٌ": {
+        "src": "/audio/o/9c66e42e98d2a12c.mp3"
+       },
+       "لٰكِنْ": {
+        "src": "/audio/o/41f808973f1b2b6b.mp3"
+       },
+       "هِيَ": {
+        "src": "/audio/o/517ed049354d7a62.mp3"
+       },
+       "جَمِيلَةٌ": {
+        "src": "/audio/o/6e249705196e5041.mp3"
+       },
+       "أَوْ": {
+        "src": "/audio/o/37af3e6895e26b74.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u11-d9-tulis-sukkan-benar",
+      "instruction": "Mana kalimat yang ditulis dengan benar?",
+      "prompt": {
+       "id": "Penduduk kota itu banyak."
+      },
+      "answer": "سُكّانُ المَدِينَةِ كَثِيرُونَ.",
+      "options": [
+       "سُكّانُ المَدِينَةِ كَثِيرُونَ.",
+       "شُكّانُ المَدِينَةِ كَثِيرُونَ.",
+       "سُكّانُ المَدِينَةِ كَسِيرُونَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سُكّانُ المَدِينَةِ كَثِيرُونَ.": {
+        "src": "/audio/o/454c6985e1ac2dc3.mp3"
+       },
+       "شُكّانُ المَدِينَةِ كَثِيرُونَ.": {
+        "src": "/audio/o/c2de29ebed8ab380.mp3"
+       },
+       "سُكّانُ المَدِينَةِ كَسِيرُونَ.": {
+        "src": "/audio/o/bbe1906e475738e4.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u11-d9-lat-tulis-syams",
+     "instruction": "Mana tulisan \"matahari\" yang benar?",
+     "prompt": {
+      "id": "matahari (syams)"
+     },
+     "answer": "شَمْسٌ",
+     "options": [
+      "شَمْسٌ",
+      "سَمْسٌ",
+      "شَمْشٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "شَمْسٌ": {
+       "src": "/audio/o/3652e4c2441acdde.mp3"
+      },
+      "سَمْسٌ": {
+       "src": "/audio/o/63814f3a859783cf.mp3"
+      },
+      "شَمْشٌ": {
+       "src": "/audio/o/77ac2bbacec67eaa.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u11-d9-lat-eja-syari",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "شارِعٌ (jalan)"
+     },
+     "answer": "ش ا ر ع",
+     "tokens": [
+      "ش",
+      "ا",
+      "ر",
+      "ع",
+      "س"
+     ],
+     "audioMap": {
+      "ش": {
+       "src": "/audio/o/b797d01357f7f304.mp3"
+      },
+      "ا": {
+       "src": "/audio/o/4fc340bfb295d42f.mp3"
+      },
+      "ر": {
+       "src": "/audio/o/097dcac864b3884d.mp3"
+      },
+      "ع": {
+       "src": "/audio/o/3bd72853336f59da.mp3"
+      },
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u11-d9-lat-susun-qaryati-saghirah",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Desaku kecil dan tenang."
+     },
+     "answer": "قَرْيَتِي صَغِيرَةٌ وَهادِئَةٌ",
+     "tokens": [
+      "قَرْيَتِي",
+      "صَغِيرَةٌ",
+      "وَهادِئَةٌ",
+      "كَبِيرَةٌ"
+     ],
+     "audioMap": {
+      "قَرْيَتِي": {
+       "src": "/audio/o/8820e933fd5814b4.mp3"
+      },
+      "صَغِيرَةٌ": {
+       "src": "/audio/o/00a79ccabc0a00db.mp3"
+      },
+      "وَهادِئَةٌ": {
+       "src": "/audio/o/2d42a6337475c7c0.mp3"
+      },
+      "كَبِيرَةٌ": {
+       "src": "/audio/o/f7329d77d4743657.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u11-d9-lat-huruf-awal-syari",
+     "instruction": "Huruf pertama kata شارِعٌ adalah …",
+     "prompt": {
+      "ar": "شارِعٌ",
+      "audio": {
+       "src": "/audio/o/48f7f15fe073e638.mp3"
+      }
+     },
+     "answer": "ش",
+     "options": [
+      "ش",
+      "س",
+      "ص"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ش": {
+       "src": "/audio/o/b797d01357f7f304.mp3"
+      },
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      },
+      "ص": {
+       "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

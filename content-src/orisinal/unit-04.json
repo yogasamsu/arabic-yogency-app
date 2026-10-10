@@ -1,0 +1,484 @@
+{
+  "unit": 4,
+  "book": "1a",
+  "title_ar": "الحَياةُ اليَوْمِيَّةُ",
+  "title_id": "Kegiatan sehari-hari",
+  "notes": "Dialog 1: Rizki–Budi (Budi dari kos naik ojek, jam bangun). Dialog 2: Bu Fatimah menelepon Ayu di pesantren Garut (rutinitas santri). Dialog 3: Siti–Aisyah di halte Trans Jogja, hari Sabtu ke Malioboro dan Pasar Beringharjo. Pola: مَتَى، fi'il mudhari' kebiasaan (أَنا/أَنْتَ/أَنْتِ/هُوَ/هِيَ)، لا + mudhari'، سَـ + mudhari'، ماذا سَتَفْعَلُ/سَتَفْعَلِينَ، كَمِ السّاعَةُ؟. Bilangan tingkat 1–5 (mudzakkar); jam memakai bentuk ـَة. Bunyi ق/ك. Menulis س ش ص ض. Cek kemiripan ABY (tanggal 2026-10-04): halaman dialog ABY 1/4 (hlm. 104–111: Thariq–Thahir soal bangun/salat/ke sekolah, keluarga bersih-bersih hari libur, Adil–Faishal) dibandingkan; tidak ada lebih dari 2 kalimat berurutan yang identik/hampir identik. Kemiripan hanya kalimat pendek generik (مَتَى تَسْتَيْقِظُ؟، هَلْ تَذْهَبُ بِالحافِلَةِ؟) dalam situasi berbeda; tidak diubah. Revisi 2026-10-04 (arrange satu urutan): keterangan jam bisa di depan, jadi lat-susun-arjiu-tsaniyah → مَتَى تَرْجِعِينَ; susun-saarjiu-khamisah → سَأَرْجِعُ إِلَى المَعْهَدِ.",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Naik ojek ke ma'had",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "img": "u4-ojek",
+          "scene": "Morning in front of a classroom building at an Arabic institute in Yogyakarta; Budi climbs off the back of a motorcycle taxi and Rizki waves to greet him.",
+          "instruction_id": "Pagi hari di depan kelas. Budi sekarang tinggal di kos. Rizki bertanya bagaimana Budi datang ke ma'had.",
+          "rows": [
+            { "who": "rizki", "ar": "صَباحَ الخَيْرِ يا بُودِي!", "id": "Selamat pagi, Budi!" },
+            { "who": "budi", "ar": "صَباحَ النُّورِ يا رِزْقِي.", "id": "Selamat pagi juga, Rizki." },
+            { "who": "rizki", "ar": "كَيْفَ تَذْهَبُ إِلَى المَعْهَدِ؟", "id": "Kamu ke ma'had naik apa? (lk)" },
+            { "who": "budi", "ar": "أَذْهَبُ بِالدَّرّاجَةِ النّارِيَّةِ.", "id": "Saya naik sepeda motor (ojek)." },
+            { "who": "rizki", "ar": "هَلْ تَذْهَبُ بِالحافِلَةِ؟", "id": "Apakah kamu naik bus? (lk)" },
+            { "who": "budi", "ar": "لا، لا أَذْهَبُ بِالحافِلَةِ. الدَّرّاجَةُ النّارِيَّةُ سَرِيعَةٌ.", "id": "Tidak, saya tidak naik bus. Sepeda motor itu cepat." },
+            { "who": "rizki", "ar": "مَتَى تَسْتَيْقِظُ؟", "id": "Kapan kamu bangun? (lk)" },
+            { "who": "budi", "ar": "فِي السّاعَةِ الرّابِعَةِ. وَأَنْتَ يا رِزْقِي؟", "id": "Jam empat. Kalau kamu, Rizki?" },
+            { "who": "rizki", "ar": "أَنا؟ فِي السّاعَةِ الخامِسَةِ!", "id": "Saya? Jam lima!" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "كَيْفَ تَذْهَبُ؟", "id": "naik apa? (lit. bagaimana kamu pergi?) (lk)", "emoji": "🧭" },
+            { "ar": "أَذْهَبُ", "id": "saya pergi", "emoji": "🚶" },
+            { "ar": "تَذْهَبُ", "id": "kamu (lk) pergi", "emoji": "👉" },
+            { "ar": "بِالحافِلَةِ", "id": "naik bus", "emoji": "🚌" },
+            { "ar": "بِالدَّرّاجَةِ النّارِيَّةِ", "id": "naik sepeda motor (ojek)", "emoji": "🏍️" },
+            { "ar": "سَرِيعَةٌ", "id": "cepat (pr)", "emoji": "💨" },
+            { "ar": "مَتَى؟", "id": "kapan?", "emoji": "⏰" },
+            { "ar": "أَسْتَيْقِظُ", "id": "saya bangun", "emoji": "🌄" },
+            { "ar": "فِي السّاعَةِ الرّابِعَةِ", "id": "pada jam empat", "emoji": "🕓", "serapan": "saat" }
+          ]
+        },
+        { "q": "choice", "k": "mata-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مَتَى؟" }, "answer": "kapan?", "options": ["kapan?", "dari mana?", "naik apa?"], "lang": "id" },
+        { "q": "choice", "k": "budi-kendaraan", "instruction": "Menurut dialog, Budi ke ma'had naik apa?", "prompt": { "ar": "بُودِي يَذْهَبُ إِلَى المَعْهَدِ بِـ…" }, "answer": "Sepeda motor (ojek)", "options": ["Sepeda motor (ojek)", "Bus", "Mobil"], "lang": "id" },
+        { "q": "choice", "k": "dengar-mata-tastaiqizu", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "مَتَى تَسْتَيْقِظُ؟" }, "answer": "Kapan kamu bangun? (lk)", "options": ["Kapan kamu bangun? (lk)", "Kamu ke ma'had naik apa? (lk)", "Apakah kamu naik bus? (lk)"], "lang": "id" },
+        { "q": "choice", "k": "balas-kaifa-tadzhabu", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "كَيْفَ تَذْهَبُ إِلَى المَعْهَدِ؟" }, "answer": "أَذْهَبُ بِالحافِلَةِ.", "options": ["أَذْهَبُ بِالحافِلَةِ.", "فِي السّاعَةِ الرّابِعَةِ.", "صَباحَ النُّورِ."], "lang": "ar" },
+        { "q": "choice", "k": "budi-bangun", "instruction": "Menurut dialog, jam berapa Budi bangun?", "prompt": { "ar": "بُودِي يَسْتَيْقِظُ فِي السّاعَةِ …" }, "answer": "Jam empat", "options": ["Jam empat", "Jam lima", "Jam tiga"], "lang": "id" },
+        { "q": "arrange", "k": "susun-adzhabu-darrajah", "prompt": { "id": "Saya naik sepeda motor." }, "answer": "أَذْهَبُ بِالدَّرّاجَةِ النّارِيَّةِ", "extra": ["بِالحافِلَةِ"] },
+        { "q": "arrange", "k": "susun-mata-tastaiqizu", "prompt": { "id": "Kapan kamu bangun? (lk)" }, "answer": "مَتَى تَسْتَيْقِظُ", "extra": ["أَسْتَيْقِظُ"] },
+        { "q": "repeat", "k": "ucap-mata-tastaiqizu", "who": "rizki", "ar": "مَتَى تَسْتَيْقِظُ؟", "id": "Kapan kamu bangun? (lk)" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-hafilah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "بِالحافِلَةِ" }, "answer": "naik bus", "options": ["naik bus", "naik sepeda motor", "naik mobil"], "lang": "id" },
+        { "q": "choice", "k": "lat-rizki-bangun", "instruction": "Menurut dialog, jam berapa Rizki bangun?", "prompt": { "ar": "رِزْقِي يَسْتَيْقِظُ فِي السّاعَةِ …" }, "answer": "Jam lima", "options": ["Jam lima", "Jam empat", "Jam dua"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-kaifa-tadzhabu", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "كَيْفَ تَذْهَبُ إِلَى المَعْهَدِ؟" }, "answer": "كَيْفَ تَذْهَبُ إِلَى المَعْهَدِ؟", "options": ["كَيْفَ تَذْهَبُ إِلَى المَعْهَدِ؟", "مَتَى تَذْهَبُ إِلَى المَعْهَدِ؟", "هَلْ تَذْهَبُ بِالحافِلَةِ؟"], "lang": "ar" },
+        { "q": "choice", "k": "lat-budi-tidak-bus", "instruction": "Benar atau salah? \"Budi naik bus ke ma'had.\"", "prompt": { "ar": "بُودِي يَذْهَبُ بِالحافِلَةِ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-hal-hafilah", "prompt": { "id": "Apakah kamu naik bus? (lk)" }, "answer": "هَلْ تَذْهَبُ بِالحافِلَةِ", "extra": ["أَذْهَبُ"] }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Telepon dari Ibu",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "img": "u4-telepon-ayu",
+          "scene": "Split scene: Bu Fatimah at home in Bandung talking on a mobile phone, and Ayu in her pesantren dormitory in Garut answering the phone with a small Qur'an in her other hand.",
+          "instruction_id": "Jumat siang. Bu Fatimah di Bandung menelepon Ayu di pesantren di Garut dan menanyakan kegiatannya.",
+          "rows": [
+            { "who": "bu_fatimah", "ar": "السَّلامُ عَلَيْكُمْ يا أَيُو. كَيْفَ الحالُ؟", "id": "Assalamualaikum, Ayu. Apa kabar?" },
+            { "who": "ayu", "ar": "وَعَلَيْكُمُ السَّلامُ يا أُمِّي. بِخَيْرٍ، الحَمْدُ لِلّٰهِ.", "id": "Waalaikumussalam, Bu. Baik, alhamdulillah." },
+            { "who": "bu_fatimah", "ar": "مَتَى تَسْتَيْقِظِينَ فِي المَعْهَدِ؟", "id": "Jam berapa kamu bangun di pesantren? (pr)" },
+            { "who": "ayu", "ar": "أَسْتَيْقِظُ فِي السّاعَةِ الرّابِعَةِ، ثُمَّ أَقْرَأُ القُرْآنَ.", "id": "Saya bangun jam empat, lalu membaca Al-Qur'an." },
+            { "who": "bu_fatimah", "ar": "مَتَى تَرْجِعِينَ مِنَ المَدْرَسَةِ؟", "id": "Kapan kamu pulang dari sekolah? (pr)" },
+            { "who": "ayu", "ar": "أَرْجِعُ فِي السّاعَةِ الثّانِيَةِ.", "id": "Saya pulang jam dua." },
+            { "who": "bu_fatimah", "ar": "وَماذا تَفْعَلِينَ فِي المَساءِ؟", "id": "Lalu apa yang kamu lakukan pada malam hari? (pr)" },
+            { "who": "ayu", "ar": "أَدْرُسُ، ثُمَّ أَنامُ.", "id": "Saya belajar, lalu tidur." },
+            { "who": "bu_fatimah", "ar": "ما شاءَ اللّٰهُ! بارَكَ اللّٰهُ فِيكِ.", "id": "Masyaallah! Semoga Allah memberkahimu. (pr)" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "أُمِّي", "id": "ibu saya", "emoji": "👩" },
+            { "ar": "تَسْتَيْقِظِينَ", "id": "kamu (pr) bangun", "emoji": "🌄" },
+            { "ar": "ثُمَّ", "id": "lalu, kemudian", "emoji": "➡️" },
+            { "ar": "أَقْرَأُ", "id": "saya membaca", "emoji": "📖" },
+            { "ar": "تَرْجِعِينَ", "id": "kamu (pr) pulang/kembali", "emoji": "🏠" },
+            { "ar": "ماذا تَفْعَلِينَ؟", "id": "apa yang kamu (pr) lakukan?", "emoji": "❓" },
+            { "ar": "المَساءُ", "id": "sore/malam hari", "emoji": "🌆" },
+            { "ar": "أَدْرُسُ", "id": "saya belajar", "emoji": "📚" },
+            { "ar": "أَنامُ", "id": "saya tidur", "emoji": "😴" },
+            { "ar": "ما شاءَ اللّٰهُ", "id": "masyaallah (ungkapan kagum)", "emoji": "✨", "serapan": "masyaallah" }
+          ]
+        },
+        { "q": "choice", "k": "tastaiqizina-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مَتَى تَسْتَيْقِظِينَ؟" }, "answer": "Kapan kamu bangun? (pr)", "options": ["Kapan kamu bangun? (pr)", "Kapan kamu bangun? (lk)", "Kapan kamu pulang? (pr)"], "lang": "id" },
+        { "q": "choice", "k": "ayu-bangun", "instruction": "Menurut dialog, jam berapa Ayu bangun?", "prompt": { "ar": "أَيُو تَسْتَيْقِظُ فِي السّاعَةِ …" }, "answer": "Jam empat", "options": ["Jam empat", "Jam dua", "Jam lima"], "lang": "id" },
+        { "q": "choice", "k": "ayu-pulang", "instruction": "Menurut dialog, jam berapa Ayu pulang dari sekolah?", "prompt": { "ar": "أَيُو تَرْجِعُ مِنَ المَدْرَسَةِ فِي السّاعَةِ …" }, "answer": "Jam dua", "options": ["Jam dua", "Jam empat", "Jam tiga"], "lang": "id" },
+        { "q": "choice", "k": "dengar-madza-tafalina", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "ماذا تَفْعَلِينَ فِي المَساءِ؟" }, "answer": "Apa yang kamu (pr) lakukan pada malam hari?", "options": ["Apa yang kamu (pr) lakukan pada malam hari?", "Kapan kamu (pr) tidur?", "Kapan kamu (pr) pulang dari sekolah?"], "lang": "id" },
+        { "q": "choice", "k": "balas-mata-tarjiina", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "مَتَى تَرْجِعِينَ مِنَ المَدْرَسَةِ؟" }, "answer": "أَرْجِعُ فِي السّاعَةِ الثّانِيَةِ.", "options": ["أَرْجِعُ فِي السّاعَةِ الثّانِيَةِ.", "أَقْرَأُ القُرْآنَ.", "بِخَيْرٍ، الحَمْدُ لِلّٰهِ."], "lang": "ar" },
+        { "q": "choice", "k": "tanya-ayu-bangun", "instruction": "Kamu ingin tahu jam berapa Ayu bangun. Kamu bertanya …", "prompt": { "id": "Kapan kamu bangun? (pr)", "emoji": "👧" }, "answer": "مَتَى تَسْتَيْقِظِينَ؟", "options": ["مَتَى تَسْتَيْقِظِينَ؟", "مَتَى تَسْتَيْقِظُ؟", "مَتَى أَسْتَيْقِظُ؟"], "lang": "ar" },
+        { "q": "arrange", "k": "susun-tsumma-madrasah", "prompt": { "id": "Lalu saya pergi ke sekolah." }, "answer": "ثُمَّ أَذْهَبُ إِلَى المَدْرَسَةِ", "extra": ["تَذْهَبِينَ"] },
+        { "q": "repeat", "k": "ucap-aqrau-quran", "who": "ayu", "ar": "أَقْرَأُ القُرْآنَ.", "id": "Saya membaca Al-Qur'an." }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-tsumma-arti", "instruction": "Apa artinya?", "prompt": { "ar": "ثُمَّ" }, "answer": "lalu, kemudian", "options": ["lalu, kemudian", "kapan", "sekarang"], "lang": "id" },
+        { "q": "choice", "k": "lat-ayu-pagi", "instruction": "Menurut dialog, apa yang Ayu lakukan setelah bangun?", "prompt": { "id": "Setelah bangun jam empat, Ayu …" }, "answer": "membaca Al-Qur'an", "options": ["membaca Al-Qur'an", "pergi ke pasar", "tidur lagi"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-anamu", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "أَدْرُسُ، ثُمَّ أَنامُ." }, "answer": "أَدْرُسُ، ثُمَّ أَنامُ.", "options": ["أَدْرُسُ، ثُمَّ أَنامُ.", "أَنامُ، ثُمَّ أَدْرُسُ.", "أَقْرَأُ، ثُمَّ أَنامُ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-anamu-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أَنامُ" }, "answer": "saya tidur", "options": ["saya tidur", "saya belajar", "saya pulang"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-arjiu-tsaniyah", "prompt": { "id": "Kapan kamu pulang? (pr)" }, "answer": "مَتَى تَرْجِعِينَ", "extra": ["أَرْجِعُ"] }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Di halte Trans Jogja",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "img": "u4-halte",
+          "scene": "Siti and Aisyah at a raised city bus shelter in Yogyakarta as a plain bus without lettering pulls up; Siti politely gestures for Aisyah to board first.",
+          "instruction_id": "Sabtu siang, hari libur. Siti dan Aisyah menunggu bus Trans Jogja ke Malioboro.",
+          "rows": [
+            { "who": "aisyah", "ar": "كَمِ السّاعَةُ الآنَ يا سِيتِي؟", "id": "Jam berapa sekarang, Siti?" },
+            { "who": "siti", "ar": "السّاعَةُ الثّانِيَةُ.", "id": "Jam dua." },
+            { "who": "aisyah", "ar": "مَتَى تَذْهَبُ الحافِلَةُ إِلَى مالِيُوبُورُو؟", "id": "Kapan bus ke Malioboro berangkat?" },
+            { "who": "siti", "ar": "الآنَ! هِيَ هُنا. تَفَضَّلِي.", "id": "Sekarang! Busnya sudah di sini. Silakan. (pr)" },
+            { "who": "aisyah", "ar": "ماذا سَتَفْعَلِينَ فِي مالِيُوبُورُو؟", "id": "Apa yang akan kamu lakukan di Malioboro? (pr)" },
+            { "who": "siti", "ar": "سَأَذْهَبُ إِلَى سُوقِ بِرِينْغْهارْجُو.", "id": "Saya akan pergi ke Pasar Beringharjo." },
+            { "who": "aisyah", "ar": "وَمَتَى سَتَرْجِعِينَ إِلَى المَعْهَدِ؟", "id": "Lalu kapan kamu akan pulang ke ma'had? (pr)" },
+            { "who": "siti", "ar": "سَأَرْجِعُ فِي السّاعَةِ الخامِسَةِ، إِنْ شاءَ اللّٰهُ.", "id": "Saya akan pulang jam lima, insyaallah." },
+            { "who": "aisyah", "ar": "طَيِّبٌ، سَأَذْهَبُ مَعَكِ.", "id": "Baiklah, saya ikut bersamamu. (pr)" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "كَمِ السّاعَةُ؟", "id": "jam berapa?", "emoji": "🕑" },
+            { "ar": "الآنَ", "id": "sekarang", "emoji": "⏱️" },
+            { "ar": "هُنا", "id": "di sini", "emoji": "📍" },
+            { "ar": "تَفَضَّلِي", "id": "silakan (pr)", "emoji": "🙏" },
+            { "ar": "سَـ", "id": "akan (awalan pada kata kerja)", "emoji": "🔜" },
+            { "ar": "ماذا سَتَفْعَلِينَ؟", "id": "apa yang akan kamu (pr) lakukan?", "emoji": "🗓️" },
+            { "ar": "سُوقٌ", "id": "pasar", "emoji": "🛍️" },
+            { "ar": "إِنْ شاءَ اللّٰهُ", "id": "insyaallah", "emoji": "🤲", "serapan": "insyaallah" },
+            { "ar": "طَيِّبٌ", "id": "baiklah, oke", "emoji": "👌" },
+            { "ar": "مَعَكِ", "id": "bersamamu (pr)", "emoji": "👭" }
+          ]
+        },
+        { "q": "choice", "k": "kam-saah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "كَمِ السّاعَةُ الآنَ؟" }, "answer": "Jam berapa sekarang?", "options": ["Jam berapa sekarang?", "Kapan kamu pulang?", "Kapan bus berangkat?"], "lang": "id" },
+        { "q": "choice", "k": "siti-ke-pasar", "instruction": "Menurut dialog, Siti akan pergi ke mana di Malioboro?", "prompt": { "ar": "سِيتِي سَتَذْهَبُ إِلَى …" }, "answer": "Pasar Beringharjo", "options": ["Pasar Beringharjo", "Masjid", "Sekolah"], "lang": "id" },
+        { "q": "choice", "k": "siti-pulang-jam", "instruction": "Menurut dialog, jam berapa Siti akan pulang ke ma'had?", "prompt": { "ar": "سِيتِي سَتَرْجِعُ فِي السّاعَةِ …" }, "answer": "Jam lima", "options": ["Jam lima", "Jam dua", "Jam empat"], "lang": "id" },
+        { "q": "choice", "k": "dengar-satafalina", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "ماذا سَتَفْعَلِينَ؟" }, "answer": "Apa yang akan kamu (pr) lakukan?", "options": ["Apa yang akan kamu (pr) lakukan?", "Apa yang kamu (pr) lakukan?", "Apa yang akan kamu (lk) lakukan?"], "lang": "id" },
+        { "q": "choice", "k": "balas-kam-saah", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "كَمِ السّاعَةُ الآنَ؟" }, "answer": "السّاعَةُ الثّانِيَةُ.", "options": ["السّاعَةُ الثّانِيَةُ.", "سَأَذْهَبُ إِلَى السُّوقِ.", "إِنْ شاءَ اللّٰهُ."], "lang": "ar" },
+        { "q": "choice", "k": "siapa-ikut", "instruction": "Menurut dialog, siapa yang ikut bersama Siti?", "prompt": { "ar": "طَيِّبٌ، سَأَذْهَبُ مَعَكِ." }, "answer": "Aisyah", "options": ["Aisyah", "Ayu", "Budi"], "lang": "id" },
+        { "q": "arrange", "k": "susun-saarjiu-khamisah", "prompt": { "id": "Saya akan pulang ke ma'had." }, "answer": "سَأَرْجِعُ إِلَى المَعْهَدِ", "extra": ["سَتَرْجِعِينَ"] },
+        { "q": "repeat", "k": "ucap-kam-saah", "who": "aisyah", "ar": "كَمِ السّاعَةُ الآنَ؟", "id": "Jam berapa sekarang?" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-huna-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هُنا" }, "answer": "di sini", "options": ["di sini", "sekarang", "pasar"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-saarjiu", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "سَأَرْجِعُ فِي السّاعَةِ الخامِسَةِ." }, "answer": "سَأَرْجِعُ فِي السّاعَةِ الخامِسَةِ.", "options": ["سَأَرْجِعُ فِي السّاعَةِ الخامِسَةِ.", "أَرْجِعُ فِي السّاعَةِ الخامِسَةِ.", "سَأَرْجِعُ فِي السّاعَةِ الثّانِيَةِ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-tafaddali", "instruction": "Kamu mempersilakan Aisyah naik bus lebih dulu. Kamu mengucapkan …", "prompt": { "id": "Silakan. (pr)", "emoji": "🚌" }, "answer": "تَفَضَّلِي.", "options": ["تَفَضَّلِي.", "تَفَضَّلْ.", "مَعَ السَّلامَةِ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-hari-siti", "instruction": "Menurut dialog, hari apa Siti dan Aisyah pergi ke Malioboro?", "prompt": { "id": "Lihat keterangan dialog 3" }, "answer": "Sabtu", "options": ["Sabtu", "Senin", "Rabu"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-madza-satafalina", "prompt": { "id": "Apa yang akan kamu lakukan? (pr)" }, "answer": "ماذا سَتَفْعَلِينَ", "extra": ["سَتَفْعَلُ"] }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & bilangan urutan 1–5",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Kegiatan (lampau – sekarang/kebiasaan)",
+          "rows": [
+            { "ar": "اِسْتَيْقَظَ – يَسْتَيْقِظُ", "id": "bangun tidur", "emoji": "⏰" },
+            { "ar": "ذَهَبَ – يَذْهَبُ", "id": "pergi", "emoji": "🚶" },
+            { "ar": "رَجَعَ – يَرْجِعُ", "id": "pulang, kembali", "emoji": "🏠" },
+            { "ar": "نامَ – يَنامُ", "id": "tidur", "emoji": "😴" },
+            { "ar": "أَكَلَ – يَأْكُلُ", "id": "makan", "emoji": "🍽️" },
+            { "ar": "قَرَأَ – يَقْرَأُ", "id": "membaca", "emoji": "📖" },
+            { "ar": "دَرَسَ – يَدْرُسُ", "id": "belajar", "emoji": "📚" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Waktu dan kendaraan",
+          "rows": [
+            { "ar": "صَباحٌ", "id": "pagi", "emoji": "🌅" },
+            { "ar": "مَساءٌ", "id": "sore/malam", "emoji": "🌆" },
+            { "ar": "وَقْتٌ", "id": "waktu", "emoji": "⏳", "serapan": "waktu" },
+            { "ar": "ساعَةٌ", "id": "jam", "emoji": "🕓", "serapan": "saat" },
+            { "ar": "عُطْلَةٌ", "id": "libur", "emoji": "🏖️" },
+            { "ar": "حافِلَةٌ", "id": "bus", "emoji": "🚌" },
+            { "ar": "سَيّارَةٌ", "id": "mobil", "emoji": "🚗" },
+            { "ar": "دَرّاجَةٌ نارِيَّةٌ", "id": "sepeda motor", "emoji": "🏍️" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Bilangan urutan 1–5 (lk)",
+          "note_id": "Dipakai untuk kata benda laki-laki, misalnya اليَوْمُ الأَوَّلُ (hari pertama).",
+          "rows": [
+            { "ar": "الأَوَّلُ", "id": "pertama", "emoji": "1️⃣" },
+            { "ar": "الثّانِي", "id": "kedua", "emoji": "2️⃣" },
+            { "ar": "الثّالِثُ", "id": "ketiga", "emoji": "3️⃣" },
+            { "ar": "الرّابِعُ", "id": "keempat", "emoji": "4️⃣" },
+            { "ar": "الخامِسُ", "id": "kelima", "emoji": "5️⃣" }
+          ]
+        },
+        { "q": "choice", "k": "gambar-hafilah", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🚌" }, "answer": "حافِلَةٌ", "options": ["حافِلَةٌ", "سَيّارَةٌ", "دَرّاجَةٌ نارِيَّةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-sayyarah", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "سَيّارَةٌ" }, "answer": "mobil", "options": ["mobil", "bus", "sepeda motor"], "lang": "id" },
+        { "q": "choice", "k": "nama-arti", "instruction": "Apa artinya?", "prompt": { "ar": "نامَ – يَنامُ" }, "answer": "tidur", "options": ["tidur", "bangun tidur", "makan"], "lang": "id" },
+        { "q": "choice", "k": "gambar-akala", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🍽️" }, "answer": "أَكَلَ – يَأْكُلُ", "options": ["أَكَلَ – يَأْكُلُ", "قَرَأَ – يَقْرَأُ", "رَجَعَ – يَرْجِعُ"], "lang": "ar" },
+        { "q": "choice", "k": "urutan-3", "instruction": "Bahasa Arabnya \"ketiga\" (lk) adalah …", "prompt": { "emoji": "3️⃣", "id": "ketiga" }, "answer": "الثّالِثُ", "options": ["الثّالِثُ", "ثَلاثَةٌ", "الثّانِي"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-rabi", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "الرّابِعُ" }, "answer": "keempat", "options": ["keempat", "kelima", "kedua"], "lang": "id" },
+        { "q": "choice", "k": "masa-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مَساءٌ" }, "answer": "sore/malam", "options": ["sore/malam", "pagi", "waktu"], "lang": "id" },
+        { "q": "choice", "k": "utlah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "عُطْلَةٌ" }, "answer": "libur", "options": ["libur", "jam", "sekolah"], "lang": "id" },
+        { "q": "choice", "k": "waqt-serapan", "instruction": "Kata Arab وَقْتٌ menjadi kata Indonesia …", "prompt": { "ar": "وَقْتٌ" }, "answer": "waktu", "options": ["waktu", "saat", "sore"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-gambar-darrajah", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🏍️" }, "answer": "دَرّاجَةٌ نارِيَّةٌ", "options": ["دَرّاجَةٌ نارِيَّةٌ", "حافِلَةٌ", "سَيّارَةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-qaraa-arti", "instruction": "Apa artinya?", "prompt": { "ar": "قَرَأَ – يَقْرَأُ" }, "answer": "membaca", "options": ["membaca", "belajar", "pergi"], "lang": "id" },
+        { "q": "choice", "k": "lat-urutan-1", "instruction": "Bahasa Arabnya \"pertama\" (lk) adalah …", "prompt": { "emoji": "1️⃣", "id": "pertama" }, "answer": "الأَوَّلُ", "options": ["الأَوَّلُ", "واحِدٌ", "الخامِسُ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-khamis", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "الخامِسُ" }, "answer": "kelima", "options": ["kelima", "keempat", "ketiga"], "lang": "id" },
+        { "q": "choice", "k": "lat-gambar-sabah", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🌅" }, "answer": "صَباحٌ", "options": ["صَباحٌ", "مَساءٌ", "عُطْلَةٌ"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Kata kerja untuk kebiasaan",
+          "groups": [
+            {
+              "title_ar": "يَذْهَبُ",
+              "note_id": "Fi'il mudhari' menyatakan kegiatan yang biasa dilakukan atau sedang dilakukan. Awalannya berubah menurut pelakunya. Perhatikan: أَنْتَ dan هِيَ sama-sama memakai تَـ, sedangkan أَنْتِ memakai تَـ…ـِينَ.",
+              "rows": [
+                { "ar": "أَنا أَذْهَبُ", "id": "saya pergi" },
+                { "ar": "أَنْتَ تَذْهَبُ", "id": "kamu (lk) pergi" },
+                { "ar": "أَنْتِ تَذْهَبِينَ", "id": "kamu (pr) pergi" },
+                { "ar": "هُوَ يَذْهَبُ", "id": "dia (lk) pergi" },
+                { "ar": "هِيَ تَذْهَبُ", "id": "dia (pr) pergi" }
+              ]
+            },
+            {
+              "title_ar": "لا + يَذْهَبُ",
+              "note_id": "لا di depan fi'il mudhari' = tidak.",
+              "rows": [
+                { "ar": "لا أَذْهَبُ بِالسَّيّارَةِ.", "id": "Saya tidak naik mobil." },
+                { "ar": "هِيَ لا تَنامُ فِي الصَّباحِ.", "id": "Dia (pr) tidak tidur pada pagi hari." }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Kapan, jam, dan rencana",
+          "groups": [
+            {
+              "title_ar": "مَتَى …؟",
+              "note_id": "مَتَى = kapan. Jawabannya bisa memakai فِي السّاعَةِ … (pada jam …).",
+              "rows": [
+                { "ar": "مَتَى تَسْتَيْقِظُ؟", "id": "Kapan kamu bangun? (lk)" },
+                { "ar": "أَسْتَيْقِظُ فِي السّاعَةِ الرّابِعَةِ.", "id": "Saya bangun jam empat." }
+              ]
+            },
+            {
+              "title_ar": "كَمِ السّاعَةُ؟",
+              "note_id": "Kata ساعَةٌ berjenis perempuan, jadi bilangan urutannya memakai ـَة: الثّانِيَةُ، الثّالِثَةُ، الرّابِعَةُ، الخامِسَةُ. Khusus jam satu: السّاعَةُ الواحِدَةُ.",
+              "rows": [
+                { "ar": "كَمِ السّاعَةُ الآنَ؟", "id": "Jam berapa sekarang?" },
+                { "ar": "السّاعَةُ الثّالِثَةُ.", "id": "Jam tiga." }
+              ]
+            },
+            {
+              "title_ar": "سَـ + يَذْهَبُ ← سَيَذْهَبُ",
+              "note_id": "Awalan سَـ pada fi'il mudhari' = akan.",
+              "rows": [
+                { "ar": "ماذا سَتَفْعَلُ يَوْمَ الأَحَدِ؟", "id": "Apa yang akan kamu lakukan hari Ahad? (lk)" },
+                { "ar": "سَأَذْهَبُ إِلَى مالِيُوبُورُو.", "id": "Saya akan pergi ke Malioboro." },
+                { "ar": "ماذا سَتَفْعَلِينَ؟", "id": "Apa yang akan kamu lakukan? (pr)" }
+              ]
+            }
+          ]
+        },
+        { "q": "choice", "k": "isi-anti-tadzhabina", "instruction": "Lengkapi kalimatnya", "prompt": { "ar": "أَنْتِ … إِلَى المَدْرَسَةِ.", "id": "Kamu (pr) pergi ke sekolah." }, "answer": "تَذْهَبِينَ", "options": ["تَذْهَبِينَ", "تَذْهَبُ", "يَذْهَبُ"], "lang": "ar" },
+        { "q": "choice", "k": "isi-huwa-yastaiqizu", "instruction": "Lengkapi kalimatnya", "prompt": { "ar": "هُوَ … فِي السّاعَةِ الخامِسَةِ.", "id": "Dia (lk) bangun jam lima." }, "answer": "يَسْتَيْقِظُ", "options": ["يَسْتَيْقِظُ", "تَسْتَيْقِظُ", "أَسْتَيْقِظُ"], "lang": "ar" },
+        { "q": "choice", "k": "isi-hiya-taqrau", "instruction": "Lengkapi kalimatnya", "prompt": { "ar": "هِيَ … القُرْآنَ.", "id": "Dia (pr) membaca Al-Qur'an." }, "answer": "تَقْرَأُ", "options": ["تَقْرَأُ", "يَقْرَأُ", "تَقْرَئِينَ"], "lang": "ar" },
+        { "q": "choice", "k": "isi-ana-adrusu", "instruction": "Lengkapi kalimatnya", "prompt": { "ar": "أَنا … فِي المَساءِ.", "id": "Saya belajar pada malam hari." }, "answer": "أَدْرُسُ", "options": ["أَدْرُسُ", "تَدْرُسُ", "يَدْرُسُ"], "lang": "ar" },
+        { "q": "choice", "k": "pilih-saarjiu", "instruction": "Pilih kalimat yang benar", "prompt": { "id": "Saya akan pulang jam lima." }, "answer": "سَأَرْجِعُ فِي السّاعَةِ الخامِسَةِ.", "options": ["سَأَرْجِعُ فِي السّاعَةِ الخامِسَةِ.", "أَرْجِعُ فِي السّاعَةِ الخامِسَةِ.", "سَتَرْجِعُ فِي السّاعَةِ الخامِسَةِ."], "lang": "ar" },
+        { "q": "choice", "k": "pilih-jam-tiga", "instruction": "Pilih kalimat yang benar", "prompt": { "id": "Jam tiga.", "emoji": "🕒" }, "answer": "السّاعَةُ الثّالِثَةُ.", "options": ["السّاعَةُ الثّالِثَةُ.", "السّاعَةُ الثّالِثُ.", "السّاعَةُ الثّانِيَةُ."], "lang": "ar" },
+        { "q": "arrange", "k": "susun-la-akulu", "prompt": { "id": "Saya tidak makan di kamar." }, "answer": "لا آكُلُ فِي الغُرْفَةِ", "extra": ["سَآكُلُ"] },
+        { "q": "arrange", "k": "susun-mata-tanamina", "prompt": { "id": "Kapan kamu tidur? (pr)" }, "answer": "مَتَى تَنامِينَ", "extra": ["تَنامُ"] },
+        { "q": "arrange", "k": "susun-madza-satafalu", "prompt": { "id": "Apa yang akan kamu lakukan hari Ahad? (lk)" }, "answer": "ماذا سَتَفْعَلُ يَوْمَ الأَحَدِ", "extra": ["سَتَفْعَلِينَ"] }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-isi-anta", "instruction": "Lengkapi kalimatnya", "prompt": { "ar": "أَنْتَ … إِلَى المَعْهَدِ بِالحافِلَةِ.", "id": "Kamu (lk) pergi ke ma'had naik bus." }, "answer": "تَذْهَبُ", "options": ["تَذْهَبُ", "تَذْهَبِينَ", "أَذْهَبُ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-isi-hiya-tanamu", "instruction": "Lengkapi kalimatnya", "prompt": { "ar": "هِيَ … فِي المَساءِ.", "id": "Dia (pr) tidur pada malam hari." }, "answer": "تَنامُ", "options": ["تَنامُ", "يَنامُ", "تَنامِينَ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-nafi", "instruction": "Ubah menjadi kalimat \"tidak\": أَذْهَبُ بِالسَّيّارَةِ.", "prompt": { "id": "Saya tidak naik mobil." }, "answer": "لا أَذْهَبُ بِالسَّيّارَةِ.", "options": ["لا أَذْهَبُ بِالسَّيّارَةِ.", "سَأَذْهَبُ بِالسَّيّارَةِ.", "لا تَذْهَبُ بِالسَّيّارَةِ."], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-kam-saah", "prompt": { "id": "Jam berapa sekarang?" }, "answer": "كَمِ السّاعَةُ الآنَ", "extra": ["مَتَى"] },
+        { "q": "choice", "k": "lat-sa-arti", "instruction": "Awalan سَـ pada سَأَذْهَبُ artinya …", "prompt": { "ar": "سَأَذْهَبُ" }, "answer": "akan", "options": ["akan", "tidak", "sudah"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ق dan ك, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ق dan ك",
+          "note_id": "ق (qaf) diucapkan dari pangkal lidah yang menyentuh anak tekak, jauh di belakang; suaranya berat. ك (kaf) diucapkan lebih ke depan, seperti \"k\" dalam bahasa Indonesia. Kalau tertukar, artinya berubah: قَلْبٌ (hati) dan كَلْبٌ (anjing). Ketuk tiap kotak dan bandingkan.",
+          "pairs": [["قَلْبٌ", "كَلْبٌ"], ["قالَ", "كالَ"], ["شَوْقٌ", "شَوْكٌ"], ["حَقٌّ", "حَكٌّ"], ["رَقِيقٌ", "رَكِيكٌ"]]
+        },
+        { "q": "choice", "k": "dengar-qalb", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "قَلْبٌ" }, "answer": "قَلْبٌ", "options": ["قَلْبٌ", "كَلْبٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-kala", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "كالَ" }, "answer": "كالَ", "options": ["كالَ", "قالَ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-syauq", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "شَوْقٌ" }, "answer": "شَوْقٌ", "options": ["شَوْقٌ", "شَوْكٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-hakk", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "حَكٌّ" }, "answer": "حَكٌّ", "options": ["حَكٌّ", "حَقٌّ"], "lang": "ar" },
+        { "q": "choice", "k": "kata-berqaf", "instruction": "Kata mana yang memakai huruf ق?", "prompt": { "id": "Cari huruf qaf (ق)" }, "answer": "وَقْتٌ", "options": ["وَقْتٌ", "سَيّارَةٌ", "مَساءٌ"], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-qalb", "ar": "قَلْبٌ", "id": "hati" },
+        { "q": "repeat", "k": "ucap-waqt", "ar": "وَقْتٌ", "id": "waktu" },
+        { "q": "choice", "k": "simak-bangun", "instruction": "Dengarkan. Jam berapa dia bangun?", "prompt": { "listen": "أَسْتَيْقِظُ فِي السّاعَةِ الثّالِثَةِ." }, "answer": "Jam tiga", "options": ["Jam tiga", "Jam dua", "Jam lima"], "lang": "id" },
+        { "q": "choice", "k": "simak-kendaraan", "instruction": "Dengarkan. Dia naik apa?", "prompt": { "listen": "أَذْهَبُ إِلَى المَعْهَدِ بِالسَّيّارَةِ." }, "answer": "Mobil", "options": ["Mobil", "Bus", "Sepeda motor"], "lang": "id" },
+        { "q": "choice", "k": "simak-rencana", "instruction": "Dengarkan. Apa rencananya?", "prompt": { "listen": "سَأَذْهَبُ إِلَى السُّوقِ يَوْمَ السَّبْتِ." }, "answer": "Pergi ke pasar hari Sabtu", "options": ["Pergi ke pasar hari Sabtu", "Pergi ke pasar hari Ahad", "Pergi ke masjid hari Sabtu"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-dengar-kalb", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "كَلْبٌ" }, "answer": "كَلْبٌ", "options": ["كَلْبٌ", "قَلْبٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-qala", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "قالَ" }, "answer": "قالَ", "options": ["قالَ", "كالَ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-raqiq", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "رَقِيقٌ" }, "answer": "رَقِيقٌ", "options": ["رَقِيقٌ", "رَكِيكٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-simak-pulang", "instruction": "Dengarkan. Kapan dia pulang?", "prompt": { "listen": "أَرْجِعُ فِي المَساءِ." }, "answer": "Sore/malam hari", "options": ["Sore/malam hari", "Pagi hari", "Jam dua"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Kata bantu untuk bercerita",
+          "rows": [
+            { "ar": "فِي الصَّباحِ", "id": "pada pagi hari", "emoji": "🌅" },
+            { "ar": "فِي المَساءِ", "id": "pada sore/malam hari", "emoji": "🌆" },
+            { "ar": "ثُمَّ", "id": "lalu, kemudian", "emoji": "➡️" },
+            { "ar": "كُلَّ يَوْمٍ", "id": "setiap hari", "emoji": "📅" }
+          ]
+        },
+        { "q": "speak", "k": "cerita-pagi", "instruction": "Ceritakan kegiatan pagimu: jam berapa kamu bangun dan apa yang kamu lakukan", "prompt": { "id": "Pakai ثُمَّ untuk menyambung kegiatan." }, "model": [
+          { "who": "ayu", "ar": "أَسْتَيْقِظُ فِي السّاعَةِ الرّابِعَةِ.", "id": "Saya bangun jam empat." },
+          { "who": "ayu", "ar": "ثُمَّ أَقْرَأُ القُرْآنَ.", "id": "Lalu saya membaca Al-Qur'an." },
+          { "who": "ayu", "ar": "ثُمَّ أَذْهَبُ إِلَى المَدْرَسَةِ.", "id": "Lalu saya pergi ke sekolah." }
+        ] },
+        { "q": "repeat", "k": "ucap-astaiqizu-sabah", "who": "rizki", "ar": "أَسْتَيْقِظُ فِي الصَّباحِ.", "id": "Saya bangun pada pagi hari." },
+        { "q": "choice", "k": "jawab-kaifa-bus", "instruction": "Temanmu bertanya: كَيْفَ تَذْهَبُ إِلَى المَعْهَدِ؟ Kamu naik bus. Jawabanmu …", "prompt": { "ar": "كَيْفَ تَذْهَبُ إِلَى المَعْهَدِ؟", "emoji": "🚌" }, "answer": "أَذْهَبُ بِالحافِلَةِ.", "options": ["أَذْهَبُ بِالحافِلَةِ.", "أَذْهَبُ بِالسَّيّارَةِ.", "تَذْهَبُ بِالحافِلَةِ."], "lang": "ar" },
+        { "q": "choice", "k": "tanya-aisyah-tidur", "instruction": "Kamu ingin tahu kapan Aisyah tidur. Kamu bertanya …", "prompt": { "id": "Kapan kamu tidur? (pr)", "emoji": "👧" }, "answer": "مَتَى تَنامِينَ؟", "options": ["مَتَى تَنامِينَ؟", "مَتَى تَنامُ؟", "مَتَى يَنامُ؟"], "lang": "ar" },
+        { "q": "speak", "k": "rencana-ahad", "instruction": "Tanyakan rencana hari Ahad kepada teman laki-lakimu, lalu jawab untuk dirimu sendiri", "prompt": { "id": "Pakai سَـ untuk rencana." }, "model": [
+          { "who": "budi", "ar": "ماذا سَتَفْعَلُ يَوْمَ الأَحَدِ؟", "id": "Apa yang akan kamu lakukan hari Ahad? (lk)" },
+          { "who": "rizki", "ar": "سَأَذْهَبُ إِلَى مالِيُوبُورُو.", "id": "Saya akan pergi ke Malioboro." },
+          { "who": "rizki", "ar": "سَأَذْهَبُ بِالحافِلَةِ.", "id": "Saya akan naik bus." }
+        ] },
+        { "q": "repeat", "k": "ucap-saadzhabu-hafilah", "who": "siti", "ar": "سَأَذْهَبُ بِالحافِلَةِ.", "id": "Saya akan naik bus." },
+        { "q": "choice", "k": "jawab-jam-lima", "instruction": "Temanmu bertanya: كَمِ السّاعَةُ الآنَ؟ Lihat jamnya. Jawabanmu …", "prompt": { "ar": "كَمِ السّاعَةُ الآنَ؟", "emoji": "🕔" }, "answer": "السّاعَةُ الخامِسَةُ.", "options": ["السّاعَةُ الخامِسَةُ.", "السّاعَةُ الرّابِعَةُ.", "السّاعَةُ الثّانِيَةُ."], "lang": "ar" },
+        { "q": "speak", "k": "cerita-malam", "instruction": "Ceritakan apa yang kamu lakukan pada malam hari", "prompt": { "id": "Sebut dua kegiatan, lalu jam tidurmu bila bisa." }, "model": [
+          { "who": "budi", "ar": "فِي المَساءِ أَدْرُسُ.", "id": "Pada malam hari saya belajar." },
+          { "who": "budi", "ar": "ثُمَّ آكُلُ، ثُمَّ أَنامُ.", "id": "Lalu saya makan, lalu tidur." }
+        ] },
+        { "q": "repeat", "k": "ucap-la-adzhabu-sayyarah", "who": "budi", "ar": "لا أَذْهَبُ بِالسَّيّارَةِ.", "id": "Saya tidak naik mobil." }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-kulla-yaum", "instruction": "Apa artinya?", "prompt": { "ar": "كُلَّ يَوْمٍ" }, "answer": "setiap hari", "options": ["setiap hari", "hari libur", "pada pagi hari"], "lang": "id" },
+        { "q": "choice", "k": "lat-jawab-mata-ayu", "instruction": "Ibumu bertanya: مَتَى تَسْتَيْقِظِينَ؟ Kamu bangun jam empat. Jawabanmu …", "prompt": { "ar": "مَتَى تَسْتَيْقِظِينَ؟" }, "answer": "أَسْتَيْقِظُ فِي السّاعَةِ الرّابِعَةِ.", "options": ["أَسْتَيْقِظُ فِي السّاعَةِ الرّابِعَةِ.", "تَسْتَيْقِظِينَ فِي السّاعَةِ الرّابِعَةِ.", "أَسْتَيْقِظُ فِي السّاعَةِ الخامِسَةِ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-tanya-rencana-pr", "instruction": "Kamu bertanya kepada Siti tentang rencananya. Pilih kalimatnya", "prompt": { "id": "Apa yang akan kamu lakukan? (pr)", "emoji": "👩" }, "answer": "ماذا سَتَفْعَلِينَ؟", "options": ["ماذا سَتَفْعَلِينَ؟", "ماذا سَتَفْعَلُ؟", "ماذا تَفْعَلِينَ؟"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-tsumma-anamu", "prompt": { "id": "Saya belajar, lalu tidur." }, "answer": "أَدْرُسُ ثُمَّ أَنامُ", "extra": ["تَنامِينَ"] }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Sehari bersama Ayu",
+          "img": "u4-hari-ayu",
+          "scene": "Ayu's day at a girls' pesantren in Garut: before dawn she reads a small Qur'an by lamplight, and behind her a window shows the morning path to the school building.",
+          "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            { "ar": "هٰذِهِ أَيُو.", "id": "Ini Ayu.", "emoji": "👧" },
+            { "ar": "هِيَ طالِبَةٌ فِي مَعْهَدٍ فِي غارُوت.", "id": "Dia pelajar di sebuah pesantren di Garut." },
+            { "ar": "هِيَ تَسْتَيْقِظُ فِي السّاعَةِ الرّابِعَةِ.", "id": "Dia bangun jam empat.", "emoji": "🕓" },
+            { "ar": "فِي الصَّباحِ تَقْرَأُ القُرْآنَ.", "id": "Pada pagi hari dia membaca Al-Qur'an.", "emoji": "📖" },
+            { "ar": "ثُمَّ تَذْهَبُ إِلَى المَدْرَسَةِ.", "id": "Lalu dia pergi ke sekolah." },
+            { "ar": "تَرْجِعُ إِلَى الغُرْفَةِ فِي السّاعَةِ الثّانِيَةِ.", "id": "Dia kembali ke kamar jam dua." },
+            { "ar": "فِي المَساءِ تَدْرُسُ، ثُمَّ تَنامُ.", "id": "Pada malam hari dia belajar, lalu tidur.", "emoji": "😴" },
+            { "ar": "يَوْمُ الجُمُعَةِ يَوْمُ عُطْلَةٍ.", "id": "Hari Jumat adalah hari libur." }
+          ]
+        },
+        { "q": "choice", "k": "baca-ayu-jam-lima", "instruction": "Benar atau salah? \"Ayu bangun jam lima.\"", "prompt": { "ar": "أَيُو تَسْتَيْقِظُ فِي السّاعَةِ الخامِسَةِ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-ayu-pagi", "instruction": "Apa yang Ayu lakukan pada pagi hari?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Membaca Al-Qur'an", "options": ["Membaca Al-Qur'an", "Tidur", "Pergi ke pasar"], "lang": "id" },
+        { "q": "choice", "k": "baca-ayu-libur", "instruction": "Hari apa Ayu libur?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Jumat", "options": ["Jumat", "Sabtu", "Ahad"], "lang": "id" },
+        { "q": "choice", "k": "baca-ayu-kamar", "instruction": "Benar atau salah? \"Ayu kembali ke kamar jam dua.\"", "prompt": { "ar": "أَيُو تَرْجِعُ إِلَى الغُرْفَةِ فِي السّاعَةِ الثّانِيَةِ." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Hari Ahad Rizki",
+          "img": "u4-ahad-rizki",
+          "scene": "Sunday in Yogyakarta: Rizki looks out the window of a city bus heading to a busy shopping street, while Budi rides a motorcycle alongside.",
+          "rows": [
+            { "ar": "يَوْمُ الأَحَدِ يَوْمُ عُطْلَةٍ فِي المَعْهَدِ.", "id": "Hari Ahad adalah hari libur di ma'had." },
+            { "ar": "رِزْقِي لا يَدْرُسُ يَوْمَ الأَحَدِ.", "id": "Rizki tidak belajar pada hari Ahad." },
+            { "ar": "هُوَ يَذْهَبُ إِلَى مالِيُوبُورُو بِالحافِلَةِ.", "id": "Dia pergi ke Malioboro naik bus.", "emoji": "🚌" },
+            { "ar": "اِسْمُ الحافِلَةِ تِرانْس جُوكْجا.", "id": "Nama busnya Trans Jogja." },
+            { "ar": "صَدِيقُهُ بُودِي يَذْهَبُ بِالدَّرّاجَةِ النّارِيَّةِ.", "id": "Temannya, Budi, naik sepeda motor.", "emoji": "🏍️" },
+            { "ar": "رِزْقِي يَرْجِعُ إِلَى المَعْهَدِ فِي المَساءِ.", "id": "Rizki kembali ke ma'had pada sore hari." }
+          ]
+        },
+        { "q": "choice", "k": "baca-rizki-belajar", "instruction": "Benar atau salah? \"Rizki belajar pada hari Ahad.\"", "prompt": { "ar": "رِزْقِي يَدْرُسُ يَوْمَ الأَحَدِ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-rizki-naik", "instruction": "Rizki pergi ke Malioboro naik apa?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Bus Trans Jogja", "options": ["Bus Trans Jogja", "Sepeda motor", "Mobil"], "lang": "id" },
+        { "q": "choice", "k": "baca-budi-naik", "instruction": "Budi naik apa?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Sepeda motor", "options": ["Sepeda motor", "Bus Trans Jogja", "Mobil"], "lang": "id" },
+        { "q": "choice", "k": "baca-rizki-pulang", "instruction": "Kapan Rizki kembali ke ma'had?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Pada sore hari", "options": ["Pada sore hari", "Pada pagi hari", "Hari Senin"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-baca-ayu-garut", "instruction": "Benar atau salah? \"Ayu belajar di pesantren di Garut.\"", "prompt": { "ar": "أَيُو طالِبَةٌ فِي مَعْهَدٍ فِي غارُوت." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-ayu-malam", "instruction": "Apa yang Ayu lakukan pada malam hari?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Belajar, lalu tidur", "options": ["Belajar, lalu tidur", "Pergi ke sekolah", "Membaca Al-Qur'an, lalu makan"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-arti-la-yadrusu", "instruction": "Apa artinya?", "prompt": { "ar": "رِزْقِي لا يَدْرُسُ يَوْمَ الأَحَدِ." }, "answer": "Rizki tidak belajar pada hari Ahad.", "options": ["Rizki tidak belajar pada hari Ahad.", "Rizki belajar pada hari Ahad.", "Rizki akan belajar pada hari Ahad."], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-ahad-libur", "instruction": "Benar atau salah? \"Hari Ahad libur di ma'had.\"", "prompt": { "ar": "يَوْمُ الأَحَدِ يَوْمُ عُطْلَةٍ فِي المَعْهَدِ." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis س ش ص ض",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Empat huruf bergerigi dan berperut",
+          "instruction_id": "س dan ش bergigi tiga; ص dan ض berperut bulat. Bedanya hanya titik. Telusuri bentuknya.",
+          "rows": [
+            { "ar": "س", "id": "sin" },
+            { "ar": "ش", "id": "syin (titik tiga)" },
+            { "ar": "ص", "id": "shad" },
+            { "ar": "ض", "id": "dhad (titik satu)" }
+          ]
+        },
+        { "q": "choice", "k": "huruf-syin", "instruction": "Huruf apa ini?", "prompt": { "ar": "ش" }, "answer": "syin", "options": ["syin", "sin", "shad"], "lang": "id" },
+        { "q": "choice", "k": "titik-tiga", "instruction": "Huruf mana yang bertitik tiga di atas?", "prompt": { "id": "sin + tiga titik = …" }, "answer": "ش", "options": ["ش", "س", "ض"], "lang": "ar" },
+        { "q": "choice", "k": "huruf-dhad", "instruction": "Huruf mana yang bentuknya seperti ص tetapi bertitik satu di atas?", "prompt": { "id": "shad + titik = …" }, "answer": "ض", "options": ["ض", "ش", "س"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-shad", "instruction": "Dengarkan. Huruf apa yang kamu dengar?", "prompt": { "listen": "صَ" }, "answer": "ص", "options": ["ص", "س", "ض"], "lang": "ar" },
+        {
+          "card": "writing",
+          "section": "Huruf itu dalam kata",
+          "instruction_id": "Perhatikan bentuk huruf di awal kata. Telusuri kata-kata ini.",
+          "rows": [
+            { "ar": "سَيّارَةٌ", "id": "mobil" },
+            { "ar": "شُكْرًا", "id": "terima kasih" },
+            { "ar": "صَباحٌ", "id": "pagi" },
+            { "ar": "رَمَضانُ", "id": "Ramadan" }
+          ]
+        },
+        { "q": "arrange", "k": "eja-sabah", "instruction": "Susun hurufnya", "prompt": { "id": "صَباحٌ (pagi)" }, "answer": "ص ب ا ح", "extra": ["س"] },
+        { "q": "arrange", "k": "eja-sayyarah", "instruction": "Susun hurufnya", "prompt": { "id": "سَيّارَةٌ (mobil)" }, "answer": "س ي ا ر ة", "extra": ["ش"] },
+        { "q": "choice", "k": "tulis-sabah", "instruction": "Mana tulisan \"pagi\" yang benar?", "prompt": { "id": "pagi" }, "answer": "صَباحٌ", "options": ["صَباحٌ", "سَباحٌ", "ضَباحٌ"], "lang": "ar" },
+        { "q": "choice", "k": "kata-berdhad", "instruction": "Huruf ض ada di kata …", "prompt": { "id": "Cari huruf dhad (ض)" }, "answer": "رَمَضانُ", "options": ["رَمَضانُ", "مَدْرَسَةٌ", "ساعَةٌ"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-huruf-sin", "instruction": "Huruf apa ini?", "prompt": { "ar": "س" }, "answer": "sin", "options": ["sin", "syin", "dhad"], "lang": "id" },
+        { "q": "choice", "k": "lat-awal-syukran", "instruction": "Huruf pertama kata شُكْرًا adalah …", "prompt": { "ar": "شُكْرًا" }, "answer": "ش", "options": ["ش", "س", "ص"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-eja-darasa", "instruction": "Susun hurufnya", "prompt": { "id": "دَرَسَ (belajar)" }, "answer": "د ر س", "extra": ["ص"] },
+        { "q": "choice", "k": "lat-dengar-dha", "instruction": "Dengarkan. Huruf apa yang kamu dengar?", "prompt": { "listen": "ضَ" }, "answer": "ض", "options": ["ض", "د", "ص"], "lang": "ar" }
+      ]
+    }
+  ]
+}

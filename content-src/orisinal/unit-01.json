@@ -1,0 +1,2311 @@
+{
+  "unit": 1,
+  "book": "1a",
+  "title_ar": "التَّحِيَّةُ وَالتَّعارُفُ",
+  "title_id": "Salam dan perkenalan",
+  "notes": "Hari pertama di Ma'had al-Huda Yogyakarta. Dialog 1: Rizki–Budi (asrama putra). Dialog 2: Siti–Aisyah (asrama putri). Dialog 3: Ustaz Mahmud menyapa kelas. Pola: ما اسْمُكَ/كِ، مِنْ أَيْنَ أَنْتَ/تِ، هٰذا/هٰذِهِ، هَلْ…؟ نَعَمْ/لا، nisbah. Bilangan 1–5. Bunyi ع/ء. Menulis huruf yang tidak menyambung ke kiri. Cek kemiripan ABY (tanggal 2026-10-04): halaman dialog ABY 1/1 (hlm. PDF 24–31) dibandingkan secara visual dan dengan cek_kemiripan.py; yang sama hanya ungkapan baku (السلام عليكم، ما اسمك، من أين أنت، أهلا وسهلا، بخير الحمد لله), baris berurutan identik terpanjang 1, tidak ada bagian yang perlu ditulis ulang. Tokoh, situasi, dan urutan dialog berbeda dari ABY. Revisi 2026-10-04 (arrange satu urutan): susun-hadza-sadiqi → هٰذا صَدِيقِي (رِزْقِي bisa pindah); lat-susun-bikhair → أَنا بِخَيْرٍ (الحَمْدُ لِلّٰهِ bisa di depan).",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Kenalan di asrama",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Hari pertama di asrama ma'had. Rizki bertemu teman sekamarnya.",
+          "rows": [
+            {
+              "who": "rizki",
+              "ar": "السَّلامُ عَلَيْكُمْ.",
+              "id": "Assalamualaikum."
+            },
+            {
+              "who": "budi",
+              "ar": "وَعَلَيْكُمُ السَّلامُ وَرَحْمَةُ اللّٰهِ.",
+              "id": "Waalaikumussalam warahmatullah."
+            },
+            {
+              "who": "rizki",
+              "ar": "أَنا رِزْقِي. ما اسْمُكَ؟",
+              "id": "Saya Rizki. Siapa namamu? (lk)"
+            },
+            {
+              "who": "budi",
+              "ar": "اِسْمِي بُودِي.",
+              "id": "Nama saya Budi."
+            },
+            {
+              "who": "rizki",
+              "ar": "أَهْلًا يا بُودِي. مِنْ أَيْنَ أَنْتَ؟",
+              "id": "Halo, Budi. Kamu dari mana? (lk)"
+            },
+            {
+              "who": "budi",
+              "ar": "أَنا مِنْ سُورابايا. وَأَنْتَ؟",
+              "id": "Saya dari Surabaya. Kalau kamu?"
+            },
+            {
+              "who": "rizki",
+              "ar": "أَنا مِنْ بانْدُونْغ.",
+              "id": "Saya dari Bandung."
+            },
+            {
+              "who": "budi",
+              "ar": "أَهْلًا وَسَهْلًا!",
+              "id": "Selamat datang!"
+            }
+          ],
+          "img": "u1-asrama",
+          "scene": "Rizki and Budi shaking hands and smiling in a simple shared dormitory room with two single beds and a small desk, first day at an Islamic language institute in Yogyakarta, suitcases on the floor."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "اِسْمٌ",
+              "id": "nama",
+              "emoji": "🏷️",
+              "serapan": "isim"
+            },
+            {
+              "ar": "أَنا",
+              "id": "saya",
+              "emoji": "🙋"
+            },
+            {
+              "ar": "أَنْتَ",
+              "id": "kamu (lk)",
+              "emoji": "👉"
+            },
+            {
+              "ar": "مِنْ أَيْنَ؟",
+              "id": "dari mana?",
+              "emoji": "🗺️"
+            },
+            {
+              "ar": "أَهْلًا وَسَهْلًا",
+              "id": "selamat datang",
+              "emoji": "🤝"
+            },
+            {
+              "ar": "يا",
+              "id": "wahai (memanggil nama)",
+              "emoji": "📣"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "ma-ismuka-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "ما اسْمُكَ؟"
+          },
+          "answer": "Siapa namamu? (lk)",
+          "options": [
+            "Siapa namamu? (lk)",
+            "Kamu dari mana? (lk)",
+            "Selamat datang!"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-salam",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "السَّلامُ عَلَيْكُمْ."
+          },
+          "answer": "وَعَلَيْكُمُ السَّلامُ.",
+          "options": [
+            "وَعَلَيْكُمُ السَّلامُ.",
+            "أَنا مِنْ بانْدُونْغ.",
+            "اِسْمِي بُودِي."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-min-aina",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "مِنْ أَيْنَ أَنْتَ؟"
+          },
+          "answer": "Kamu dari mana? (lk)",
+          "options": [
+            "Kamu dari mana? (lk)",
+            "Siapa namamu? (lk)",
+            "Saya dari Bandung."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "budi-asal",
+          "instruction": "Menurut dialog, Budi dari mana?",
+          "prompt": {
+            "id": "بُودِي مِنْ …",
+            "emoji": "🏙️"
+          },
+          "answer": "Surabaya",
+          "options": [
+            "Surabaya",
+            "Bandung",
+            "Yogyakarta"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-ismi-budi",
+          "prompt": {
+            "id": "Nama saya Budi."
+          },
+          "answer": "اِسْمِي بُودِي",
+          "extra": [
+            "أَنْتَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-ana-min-bandung",
+          "prompt": {
+            "id": "Saya dari Bandung."
+          },
+          "answer": "أَنا مِنْ بانْدُونْغ",
+          "extra": [
+            "أَيْنَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "anta-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَنْتَ"
+          },
+          "answer": "kamu (lk)",
+          "options": [
+            "kamu (lk)",
+            "saya",
+            "nama"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-salam",
+          "who": "rizki",
+          "ar": "السَّلامُ عَلَيْكُمْ.",
+          "id": "Assalamualaikum."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-ismi-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "اِسْمِي بُودِي."
+          },
+          "answer": "Nama saya Budi.",
+          "options": [
+            "Nama saya Budi.",
+            "Saya dari Surabaya.",
+            "Siapa namamu? (lk)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-ahlan-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَهْلًا وَسَهْلًا!"
+          },
+          "answer": "Selamat datang!",
+          "options": [
+            "Selamat datang!",
+            "Assalamualaikum.",
+            "Kalau kamu?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-ismi",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "ما اسْمُكَ؟"
+          },
+          "answer": "ما اسْمُكَ؟",
+          "options": [
+            "ما اسْمُكَ؟",
+            "مِنْ أَيْنَ أَنْتَ؟",
+            "أَهْلًا وَسَهْلًا!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-min-aina",
+          "prompt": {
+            "id": "Kamu dari mana? (lk)"
+          },
+          "answer": "مِنْ أَيْنَ أَنْتَ",
+          "extra": [
+            "أَنا"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-rizki-asal",
+          "instruction": "Menurut dialog, Rizki dari mana?",
+          "prompt": {
+            "id": "رِزْقِي مِنْ …"
+          },
+          "answer": "Bandung",
+          "options": [
+            "Bandung",
+            "Surabaya",
+            "Medan"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Teman dari Malaysia",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Pagi hari di asrama putri. Siti menyapa teman barunya.",
+          "rows": [
+            {
+              "who": "siti",
+              "ar": "صَباحَ الخَيْرِ!",
+              "id": "Selamat pagi!"
+            },
+            {
+              "who": "aisyah",
+              "ar": "صَباحَ النُّورِ!",
+              "id": "Selamat pagi juga!"
+            },
+            {
+              "who": "siti",
+              "ar": "أَنا سِيتِي. ما اسْمُكِ؟",
+              "id": "Saya Siti. Siapa namamu? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "اِسْمِي عائِشَةُ.",
+              "id": "Nama saya Aisyah."
+            },
+            {
+              "who": "siti",
+              "ar": "هَلْ أَنْتِ إِنْدُونِيسِيَّةٌ؟",
+              "id": "Apakah kamu orang Indonesia? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "لا، أَنا مالِيزِيَّةٌ، مِنْ كُوالالُمْبُور.",
+              "id": "Bukan, saya orang Malaysia, dari Kuala Lumpur."
+            },
+            {
+              "who": "siti",
+              "ar": "أَهْلًا وَسَهْلًا يا عائِشَةُ!",
+              "id": "Selamat datang, Aisyah!"
+            },
+            {
+              "who": "aisyah",
+              "ar": "أَهْلًا بِكِ.",
+              "id": "Terima kasih, senang bertemu denganmu. (pr)"
+            }
+          ],
+          "img": "u1-asrama-putri",
+          "scene": "Siti greeting Aisyah in the morning in a tidy female dormitory room of an Islamic language institute in Yogyakarta, Indonesia; morning sunlight through the window, Aisyah unpacking a small suitcase."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "صَباحَ الخَيْرِ",
+              "id": "selamat pagi",
+              "emoji": "🌅"
+            },
+            {
+              "ar": "صَباحَ النُّورِ",
+              "id": "selamat pagi juga (balasan)",
+              "emoji": "☀️"
+            },
+            {
+              "ar": "أَنْتِ",
+              "id": "kamu (pr)",
+              "emoji": "👉"
+            },
+            {
+              "ar": "هَلْ",
+              "id": "apakah",
+              "emoji": "❓"
+            },
+            {
+              "ar": "نَعَمْ",
+              "id": "ya",
+              "emoji": "✅"
+            },
+            {
+              "ar": "لا",
+              "id": "tidak / bukan",
+              "emoji": "❌"
+            },
+            {
+              "ar": "إِنْدُونِيسِيَّةٌ",
+              "id": "orang Indonesia (pr)",
+              "emoji": "👩"
+            },
+            {
+              "ar": "مالِيزِيَّةٌ",
+              "id": "orang Malaysia (pr)",
+              "emoji": "👩"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "ma-ismuki-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "ما اسْمُكِ؟"
+          },
+          "answer": "Siapa namamu? (pr)",
+          "options": [
+            "Siapa namamu? (pr)",
+            "Siapa namamu? (lk)",
+            "Kamu dari mana? (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-sabah",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "صَباحَ الخَيْرِ!"
+          },
+          "answer": "صَباحَ النُّورِ!",
+          "options": [
+            "صَباحَ النُّورِ!",
+            "وَعَلَيْكُمُ السَّلامُ.",
+            "أَهْلًا يا بُودِي."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "kamu-pr",
+          "instruction": "Kata \"kamu\" untuk perempuan adalah …",
+          "prompt": {
+            "id": "kamu (pr)"
+          },
+          "answer": "أَنْتِ",
+          "options": [
+            "أَنْتِ",
+            "أَنْتَ",
+            "أَنا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-hal-anti",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "هَلْ أَنْتِ إِنْدُونِيسِيَّةٌ؟"
+          },
+          "answer": "Apakah kamu orang Indonesia? (pr)",
+          "options": [
+            "Apakah kamu orang Indonesia? (pr)",
+            "Apakah kamu orang Malaysia? (pr)",
+            "Kamu dari mana? (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "aisyah-asal",
+          "instruction": "Menurut dialog, Aisyah orang mana?",
+          "prompt": {
+            "id": "عائِشَةُ …"
+          },
+          "answer": "Malaysia",
+          "options": [
+            "Malaysia",
+            "Indonesia",
+            "Mesir"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hal-anti",
+          "prompt": {
+            "id": "Apakah kamu orang Indonesia? (pr)"
+          },
+          "answer": "هَلْ أَنْتِ إِنْدُونِيسِيَّةٌ",
+          "extra": [
+            "أَنْتَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "naam-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "نَعَمْ"
+          },
+          "answer": "ya",
+          "options": [
+            "ya",
+            "tidak",
+            "apakah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-sabah",
+          "who": "siti",
+          "ar": "صَباحَ الخَيْرِ!",
+          "id": "Selamat pagi!"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-la-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "لا"
+          },
+          "answer": "tidak / bukan",
+          "options": [
+            "tidak / bukan",
+            "ya",
+            "apakah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-sabah",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "صَباحَ النُّورِ!"
+          },
+          "answer": "صَباحَ النُّورِ!",
+          "options": [
+            "صَباحَ النُّورِ!",
+            "صَباحَ الخَيْرِ!",
+            "أَهْلًا بِكِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-malaysia",
+          "prompt": {
+            "id": "Saya orang Malaysia. (pr)"
+          },
+          "answer": "أَنا مالِيزِيَّةٌ",
+          "extra": [
+            "أَنْتِ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-tanya-nama-pr",
+          "instruction": "Kamu ingin tahu nama Aisyah. Kamu bertanya …",
+          "prompt": {
+            "id": "Siapa namamu? (pr)"
+          },
+          "answer": "ما اسْمُكِ؟",
+          "options": [
+            "ما اسْمُكِ؟",
+            "ما اسْمُكَ؟",
+            "مِنْ أَيْنَ أَنْتِ؟"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Ustaz dari Mesir",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Jam pertama di kelas. Ustaz Mahmud, pengajar tamu dari Mesir, berkenalan dengan murid-muridnya.",
+          "rows": [
+            {
+              "who": "ustaz_mahmud",
+              "ar": "السَّلامُ عَلَيْكُمْ، أَنا الأُسْتاذُ مَحْمُودٌ.",
+              "id": "Assalamualaikum, saya Ustaz Mahmud."
+            },
+            {
+              "who": "siti",
+              "ar": "وَعَلَيْكُمُ السَّلامُ يا أُسْتاذُ.",
+              "id": "Waalaikumussalam, Ustaz."
+            },
+            {
+              "who": "ustaz_mahmud",
+              "ar": "أَنا مِصْرِيٌّ، مِنَ القاهِرَةِ. مِنْ أَيْنَ أَنْتِ؟",
+              "id": "Saya orang Mesir, dari Kairo. Kamu dari mana? (pr)"
+            },
+            {
+              "who": "siti",
+              "ar": "أَنا سِيتِي، إِنْدُونِيسِيَّةٌ مِنْ مِيدان.",
+              "id": "Saya Siti, orang Indonesia dari Medan."
+            },
+            {
+              "who": "siti",
+              "ar": "هٰذِهِ صَدِيقَتِي عائِشَةُ، هِيَ مالِيزِيَّةٌ.",
+              "id": "Ini teman saya, Aisyah. Dia orang Malaysia."
+            },
+            {
+              "who": "ustaz_mahmud",
+              "ar": "أَهْلًا وَسَهْلًا. وَهٰذا؟",
+              "id": "Selamat datang. Kalau ini?"
+            },
+            {
+              "who": "budi",
+              "ar": "هٰذا صَدِيقِي رِزْقِي، هُوَ مِنْ بانْدُونْغ.",
+              "id": "Ini teman saya, Rizki. Dia dari Bandung."
+            },
+            {
+              "who": "ustaz_mahmud",
+              "ar": "كَيْفَ الحالُ يا رِزْقِي؟",
+              "id": "Apa kabar, Rizki?"
+            },
+            {
+              "who": "rizki",
+              "ar": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ.",
+              "id": "Baik, alhamdulillah."
+            }
+          ],
+          "img": "u1-kelas",
+          "scene": "Ustaz Mahmud standing at the front of a bright classroom greeting his students; Siti, Aisyah, Budi and Rizki sit at desks and smile; a plain whiteboard with no writing."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "أُسْتاذٌ",
+              "id": "guru (lk)",
+              "emoji": "👨‍🏫",
+              "serapan": "ustaz"
+            },
+            {
+              "ar": "مِصْرِيٌّ",
+              "id": "orang Mesir (lk)",
+              "emoji": "🧔"
+            },
+            {
+              "ar": "هٰذا",
+              "id": "ini (lk)",
+              "emoji": "👇"
+            },
+            {
+              "ar": "هٰذِهِ",
+              "id": "ini (pr)",
+              "emoji": "👇"
+            },
+            {
+              "ar": "هُوَ",
+              "id": "dia (lk)",
+              "emoji": "👦"
+            },
+            {
+              "ar": "هِيَ",
+              "id": "dia (pr)",
+              "emoji": "👧"
+            },
+            {
+              "ar": "صَدِيقِي",
+              "id": "teman saya (lk)",
+              "emoji": "🧑‍🤝‍🧑"
+            },
+            {
+              "ar": "صَدِيقَتِي",
+              "id": "teman saya (pr)",
+              "emoji": "👭"
+            },
+            {
+              "ar": "كَيْفَ الحالُ؟",
+              "id": "apa kabar?",
+              "emoji": "😊"
+            },
+            {
+              "ar": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ",
+              "id": "baik, alhamdulillah",
+              "emoji": "👍",
+              "serapan": "alhamdulillah"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "hadzihi-sadiqati",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هٰذِهِ صَدِيقَتِي."
+          },
+          "answer": "Ini teman saya. (pr)",
+          "options": [
+            "Ini teman saya. (pr)",
+            "Ini teman saya. (lk)",
+            "Dia orang Malaysia. (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "ini-rizki",
+          "instruction": "Pilih kalimat yang benar",
+          "prompt": {
+            "id": "Ini Rizki.",
+            "emoji": "👦"
+          },
+          "answer": "هٰذا رِزْقِي.",
+          "options": [
+            "هٰذا رِزْقِي.",
+            "هٰذِهِ رِزْقِي.",
+            "أَنا رِزْقِي."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "ustaz-asal",
+          "instruction": "Menurut dialog, Ustaz Mahmud dari mana?",
+          "prompt": {
+            "id": "الأُسْتاذُ مَحْمُودٌ مِنْ …"
+          },
+          "answer": "Mesir (Kairo)",
+          "options": [
+            "Mesir (Kairo)",
+            "Malaysia (Kuala Lumpur)",
+            "Indonesia (Medan)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-kaifa",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "كَيْفَ الحالُ؟"
+          },
+          "answer": "Apa kabar?",
+          "options": [
+            "Apa kabar?",
+            "Siapa namamu?",
+            "Kamu dari mana?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-kaifa",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "كَيْفَ الحالُ؟"
+          },
+          "answer": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ.",
+          "options": [
+            "بِخَيْرٍ، الحَمْدُ لِلّٰهِ.",
+            "أَنا مِنْ مِصْرَ.",
+            "صَباحَ النُّورِ!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hiya-malaysia",
+          "prompt": {
+            "id": "Dia orang Malaysia. (pr)"
+          },
+          "answer": "هِيَ مالِيزِيَّةٌ",
+          "extra": [
+            "هُوَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hadza-sadiqi",
+          "prompt": {
+            "id": "Ini teman saya."
+          },
+          "answer": "هٰذا صَدِيقِي",
+          "extra": [
+            "هٰذِهِ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-kaifa",
+          "who": "ustaz_mahmud",
+          "ar": "كَيْفَ الحالُ؟",
+          "id": "Apa kabar?"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-huwa-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هُوَ مِنْ بانْدُونْغ."
+          },
+          "answer": "Dia (lk) dari Bandung.",
+          "options": [
+            "Dia (lk) dari Bandung.",
+            "Dia (pr) dari Bandung.",
+            "Saya dari Bandung."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-ustaz-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أُسْتاذٌ"
+          },
+          "answer": "guru (lk)",
+          "options": [
+            "guru (lk)",
+            "teman (lk)",
+            "orang Mesir (lk)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-ini-aisyah",
+          "instruction": "Pilih kalimat yang benar",
+          "prompt": {
+            "id": "Ini Aisyah.",
+            "emoji": "👧"
+          },
+          "answer": "هٰذِهِ عائِشَةُ.",
+          "options": [
+            "هٰذِهِ عائِشَةُ.",
+            "هٰذا عائِشَةُ.",
+            "هُوَ عائِشَةُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-bikhair",
+          "prompt": {
+            "id": "Saya baik-baik saja."
+          },
+          "answer": "أَنا بِخَيْرٍ",
+          "extra": [
+            "كَيْفَ"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & angka 1–5",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Orang dan negara",
+          "rows": [
+            {
+              "ar": "طالِبٌ",
+              "id": "pelajar (lk)",
+              "emoji": "👨‍🎓"
+            },
+            {
+              "ar": "طالِبَةٌ",
+              "id": "pelajar (pr)",
+              "emoji": "👩‍🎓"
+            },
+            {
+              "ar": "أُسْتاذٌ",
+              "id": "guru (lk)",
+              "emoji": "👨‍🏫",
+              "serapan": "ustaz"
+            },
+            {
+              "ar": "أُسْتاذَةٌ",
+              "id": "guru (pr)",
+              "emoji": "👩‍🏫",
+              "serapan": "ustazah"
+            },
+            {
+              "ar": "إِنْدُونِيسِيا",
+              "id": "Indonesia",
+              "emoji": "🇮🇩"
+            },
+            {
+              "ar": "مالِيزِيا",
+              "id": "Malaysia",
+              "emoji": "🇲🇾"
+            },
+            {
+              "ar": "مِصْرُ",
+              "id": "Mesir",
+              "emoji": "🇪🇬"
+            },
+            {
+              "ar": "تُرْكِيا",
+              "id": "Turki",
+              "emoji": "🇹🇷"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Angka 1–5",
+          "rows": [
+            {
+              "ar": "واحِدٌ",
+              "id": "satu",
+              "emoji": "1️⃣"
+            },
+            {
+              "ar": "اِثْنانِ",
+              "id": "dua",
+              "emoji": "2️⃣"
+            },
+            {
+              "ar": "ثَلاثَةٌ",
+              "id": "tiga",
+              "emoji": "3️⃣"
+            },
+            {
+              "ar": "أَرْبَعَةٌ",
+              "id": "empat",
+              "emoji": "4️⃣"
+            },
+            {
+              "ar": "خَمْسَةٌ",
+              "id": "lima",
+              "emoji": "5️⃣"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "angka-3",
+          "instruction": "Angka berapa ini dalam bahasa Arab?",
+          "prompt": {
+            "emoji": "3️⃣",
+            "id": "tiga"
+          },
+          "answer": "ثَلاثَةٌ",
+          "options": [
+            "ثَلاثَةٌ",
+            "خَمْسَةٌ",
+            "واحِدٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-5",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "خَمْسَةٌ"
+          },
+          "answer": "5",
+          "options": [
+            "5",
+            "2",
+            "4"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "talibah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "طالِبَةٌ"
+          },
+          "answer": "pelajar (pr)",
+          "options": [
+            "pelajar (pr)",
+            "pelajar (lk)",
+            "guru (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-ustazah",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "👩‍🏫"
+          },
+          "answer": "أُسْتاذَةٌ",
+          "options": [
+            "أُسْتاذَةٌ",
+            "طالِبَةٌ",
+            "أُسْتاذٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "misr-arti",
+          "instruction": "Negara apa ini?",
+          "prompt": {
+            "ar": "مِصْرُ"
+          },
+          "answer": "Mesir",
+          "options": [
+            "Mesir",
+            "Turki",
+            "Malaysia"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "hitung-2-3",
+          "instruction": "Berapa hasilnya?",
+          "prompt": {
+            "ar": "اِثْنانِ + ثَلاثَةٌ = ؟"
+          },
+          "answer": "خَمْسَةٌ",
+          "options": [
+            "خَمْسَةٌ",
+            "أَرْبَعَةٌ",
+            "واحِدٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-4",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "أَرْبَعَةٌ"
+          },
+          "answer": "4",
+          "options": [
+            "4",
+            "3",
+            "1"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "turki-ar",
+          "instruction": "Bahasa Arabnya \"Turki\" adalah …",
+          "prompt": {
+            "id": "Turki",
+            "emoji": "🇹🇷"
+          },
+          "answer": "تُرْكِيا",
+          "options": [
+            "تُرْكِيا",
+            "مِصْرُ",
+            "إِنْدُونِيسِيا"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-angka-1",
+          "instruction": "Angka berapa ini dalam bahasa Arab?",
+          "prompt": {
+            "emoji": "1️⃣",
+            "id": "satu"
+          },
+          "answer": "واحِدٌ",
+          "options": [
+            "واحِدٌ",
+            "اِثْنانِ",
+            "ثَلاثَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-2",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "اِثْنانِ"
+          },
+          "answer": "2",
+          "options": [
+            "2",
+            "5",
+            "3"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-talib-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "طالِبٌ"
+          },
+          "answer": "pelajar (lk)",
+          "options": [
+            "pelajar (lk)",
+            "guru (lk)",
+            "teman (lk)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-hitung-1-3",
+          "instruction": "Berapa hasilnya?",
+          "prompt": {
+            "ar": "واحِدٌ + ثَلاثَةٌ = ؟"
+          },
+          "answer": "أَرْبَعَةٌ",
+          "options": [
+            "أَرْبَعَةٌ",
+            "خَمْسَةٌ",
+            "اِثْنانِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-indonesia-ar",
+          "instruction": "Bahasa Arabnya \"Indonesia\" adalah …",
+          "prompt": {
+            "id": "Indonesia",
+            "emoji": "🇮🇩"
+          },
+          "answer": "إِنْدُونِيسِيا",
+          "options": [
+            "إِنْدُونِيسِيا",
+            "مالِيزِيا",
+            "تُرْكِيا"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Bertanya nama dan asal",
+          "groups": [
+            {
+              "title_ar": "ما اسْمُكَ؟ · ما اسْمُكِ؟",
+              "note_id": "Akhiran ـكَ (-ka) untuk lawan bicara laki-laki, ـكِ (-ki) untuk perempuan. Jawabannya: اِسْمِي … (nama saya …).",
+              "rows": [
+                {
+                  "ar": "ما اسْمُكَ؟",
+                  "id": "Siapa namamu? (lk)"
+                },
+                {
+                  "ar": "ما اسْمُكِ؟",
+                  "id": "Siapa namamu? (pr)"
+                },
+                {
+                  "ar": "اِسْمِي رِزْقِي.",
+                  "id": "Nama saya Rizki."
+                }
+              ]
+            },
+            {
+              "title_ar": "مِنْ أَيْنَ أَنْتَ؟ · مِنْ أَيْنَ أَنْتِ؟",
+              "note_id": "أَنْتَ untuk laki-laki, أَنْتِ untuk perempuan. Jawabannya: أَنا مِنْ … (saya dari …).",
+              "rows": [
+                {
+                  "ar": "مِنْ أَيْنَ أَنْتَ؟",
+                  "id": "Kamu dari mana? (lk)"
+                },
+                {
+                  "ar": "مِنْ أَيْنَ أَنْتِ؟",
+                  "id": "Kamu dari mana? (pr)"
+                },
+                {
+                  "ar": "أَنا مِنْ جاكَرْتا.",
+                  "id": "Saya dari Jakarta."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Ini, apakah, dan asal negara",
+          "groups": [
+            {
+              "title_ar": "هٰذا · هٰذِهِ",
+              "note_id": "هٰذا untuk laki-laki, هٰذِهِ untuk perempuan.",
+              "rows": [
+                {
+                  "ar": "هٰذا طالِبٌ.",
+                  "id": "Ini pelajar (lk)."
+                },
+                {
+                  "ar": "هٰذِهِ طالِبَةٌ.",
+                  "id": "Ini pelajar (pr)."
+                }
+              ]
+            },
+            {
+              "title_ar": "إِنْدُونِيسِيا ← إِنْدُونِيسِيٌّ · إِنْدُونِيسِيَّةٌ",
+              "note_id": "Nama negara + ـِيٌّ = orang dari negara itu (lk); + ـِيَّةٌ untuk perempuan.",
+              "rows": [
+                {
+                  "ar": "مِصْرُ ← مِصْرِيٌّ · مِصْرِيَّةٌ",
+                  "id": "Mesir → orang Mesir (lk · pr)"
+                },
+                {
+                  "ar": "تُرْكِيا ← تُرْكِيٌّ · تُرْكِيَّةٌ",
+                  "id": "Turki → orang Turki (lk · pr)"
+                }
+              ]
+            },
+            {
+              "title_ar": "هَلْ …؟ ← نَعَمْ · لا",
+              "note_id": "هَلْ membuat kalimat tanya ya/tidak.",
+              "rows": [
+                {
+                  "ar": "هَلْ أَنْتَ مِصْرِيٌّ؟",
+                  "id": "Apakah kamu orang Mesir? (lk)"
+                },
+                {
+                  "ar": "لا، أَنا إِنْدُونِيسِيٌّ.",
+                  "id": "Bukan, saya orang Indonesia."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tanya-nama-siti",
+          "instruction": "Kamu bertanya nama kepada Siti. Pilih kalimatnya",
+          "prompt": {
+            "id": "Siapa namamu? (pr)",
+            "emoji": "👩"
+          },
+          "answer": "ما اسْمُكِ؟",
+          "options": [
+            "ما اسْمُكِ؟",
+            "ما اسْمُكَ؟",
+            "مِنْ أَيْنَ أَنْتِ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "nisbah-siti",
+          "instruction": "Lengkapi: Siti orang Indonesia",
+          "prompt": {
+            "ar": "سِيتِي …"
+          },
+          "answer": "إِنْدُونِيسِيَّةٌ",
+          "options": [
+            "إِنْدُونِيسِيَّةٌ",
+            "إِنْدُونِيسِيٌّ",
+            "إِنْدُونِيسِيا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "nisbah-budi",
+          "instruction": "Lengkapi: Budi orang Indonesia",
+          "prompt": {
+            "ar": "بُودِي …"
+          },
+          "answer": "إِنْدُونِيسِيٌّ",
+          "options": [
+            "إِنْدُونِيسِيٌّ",
+            "إِنْدُونِيسِيَّةٌ",
+            "مِصْرِيَّةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "ini-talibah",
+          "instruction": "Pilih kalimat yang benar",
+          "prompt": {
+            "id": "Ini pelajar (pr).",
+            "emoji": "👩‍🎓"
+          },
+          "answer": "هٰذِهِ طالِبَةٌ.",
+          "options": [
+            "هٰذِهِ طالِبَةٌ.",
+            "هٰذا طالِبٌ.",
+            "هٰذِهِ طالِبٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jawab-hal-misri",
+          "instruction": "Ustaz bertanya kepada Rizki. Jawaban yang benar?",
+          "prompt": {
+            "ar": "هَلْ أَنْتَ مِصْرِيٌّ؟"
+          },
+          "answer": "لا، أَنا إِنْدُونِيسِيٌّ.",
+          "options": [
+            "لا، أَنا إِنْدُونِيسِيٌّ.",
+            "نَعَمْ، أَنا إِنْدُونِيسِيٌّ.",
+            "لا، أَنا مِصْرِيٌّ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-min-aina-anti",
+          "prompt": {
+            "id": "Kamu dari mana? (pr)"
+          },
+          "answer": "مِنْ أَيْنَ أَنْتِ",
+          "extra": [
+            "أَنْتَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-talib-misri",
+          "prompt": {
+            "id": "Ini pelajar Mesir. (lk)"
+          },
+          "answer": "هٰذا طالِبٌ مِصْرِيٌّ",
+          "extra": [
+            "هٰذِهِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hal-turki",
+          "prompt": {
+            "id": "Apakah kamu orang Turki? (lk)"
+          },
+          "answer": "هَلْ أَنْتَ تُرْكِيٌّ",
+          "extra": [
+            "أَنْتِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-naam-jogja",
+          "prompt": {
+            "id": "Ya, saya dari Yogyakarta."
+          },
+          "answer": "نَعَمْ أَنا مِنْ يُوغْياكَرْتا",
+          "extra": [
+            "لا"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-nisbah-aisyah",
+          "instruction": "Lengkapi: Aisyah orang Malaysia",
+          "prompt": {
+            "ar": "عائِشَةُ …"
+          },
+          "answer": "مالِيزِيَّةٌ",
+          "options": [
+            "مالِيزِيَّةٌ",
+            "مالِيزِيٌّ",
+            "مالِيزِيا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-tanya-asal-budi",
+          "instruction": "Kamu bertanya asal kepada Budi. Pilih kalimatnya",
+          "prompt": {
+            "id": "Kamu dari mana? (lk)",
+            "emoji": "👦"
+          },
+          "answer": "مِنْ أَيْنَ أَنْتَ؟",
+          "options": [
+            "مِنْ أَيْنَ أَنْتَ؟",
+            "مِنْ أَيْنَ أَنْتِ؟",
+            "ما اسْمُكَ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-ismuki",
+          "prompt": {
+            "id": "Siapa namamu? (pr)"
+          },
+          "answer": "ما اسْمُكِ",
+          "extra": [
+            "اسْمُكَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-hadzihi-ustazah",
+          "prompt": {
+            "id": "Ini guru (pr) Indonesia."
+          },
+          "answer": "هٰذِهِ أُسْتاذَةٌ إِنْدُونِيسِيَّةٌ",
+          "extra": [
+            "هٰذا"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-nisbah-misr-pr",
+          "instruction": "Orang Mesir (perempuan) dalam bahasa Arab adalah …",
+          "prompt": {
+            "id": "orang Mesir (pr)"
+          },
+          "answer": "مِصْرِيَّةٌ",
+          "options": [
+            "مِصْرِيَّةٌ",
+            "مِصْرِيٌّ",
+            "مِصْرُ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ع dan ء, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ع dan ء",
+          "note_id": "ع ('ain) diucapkan dari tengah tenggorokan, seperti menekan suara \"a\" dari dalam. ء (hamzah, sering ditulis di atas alif: أ) hanya hentakan singkat, seperti awal kata \"apa\". Banyak pelajar Indonesia menyamakan keduanya, padahal artinya bisa berubah: عَلِمَ = tahu, أَلِمَ = merasa sakit; عَمَلٌ = pekerjaan, أَمَلٌ = harapan; سَعَلَ = batuk, سَأَلَ = bertanya. Ketuk tiap kotak dan bandingkan.",
+          "pairs": [
+            [
+              "عَ",
+              "أَ"
+            ],
+            [
+              "عِ",
+              "إِ"
+            ],
+            [
+              "عُ",
+              "أُ"
+            ],
+            [
+              "عَلِمَ",
+              "أَلِمَ"
+            ],
+            [
+              "عَمَلٌ",
+              "أَمَلٌ"
+            ],
+            [
+              "سَعَلَ",
+              "سَأَلَ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-alima",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "عَلِمَ"
+          },
+          "answer": "عَلِمَ",
+          "options": [
+            "عَلِمَ",
+            "أَلِمَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-amal",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "أَمَلٌ"
+          },
+          "answer": "أَمَلٌ",
+          "options": [
+            "أَمَلٌ",
+            "عَمَلٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-saala",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سَأَلَ"
+          },
+          "answer": "سَأَلَ",
+          "options": [
+            "سَأَلَ",
+            "سَعَلَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-u",
+          "instruction": "Dengarkan. Bunyi mana yang kamu dengar?",
+          "prompt": {
+            "listen": "عُ"
+          },
+          "answer": "عُ",
+          "options": [
+            "عُ",
+            "أُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "awal-ain",
+          "instruction": "Kata mana yang diawali huruf ع?",
+          "prompt": {
+            "id": "Cari huruf 'ain (ع) di awal kata"
+          },
+          "answer": "عائِشَةُ",
+          "options": [
+            "عائِشَةُ",
+            "أَحْمَدُ",
+            "أَنا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-alima",
+          "ar": "عَلِمَ",
+          "id": "dia (lk) tahu"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-amal",
+          "ar": "عَمَلٌ",
+          "id": "pekerjaan"
+        },
+        {
+          "q": "choice",
+          "k": "simak-aisyah",
+          "instruction": "Dengarkan. Dari mana dia?",
+          "prompt": {
+            "listen": "أَنا عائِشَةُ، أَنا مِنْ مالِيزِيا."
+          },
+          "answer": "Malaysia",
+          "options": [
+            "Malaysia",
+            "Mesir",
+            "Indonesia"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-ustaz",
+          "instruction": "Dengarkan. Siapa dia?",
+          "prompt": {
+            "listen": "أَنا أُسْتاذٌ مِنْ مِصْرَ."
+          },
+          "answer": "Guru dari Mesir",
+          "options": [
+            "Guru dari Mesir",
+            "Pelajar dari Mesir",
+            "Guru dari Turki"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-alima2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "أَلِمَ"
+          },
+          "answer": "أَلِمَ",
+          "options": [
+            "أَلِمَ",
+            "عَلِمَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-amal2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "عَمَلٌ"
+          },
+          "answer": "عَمَلٌ",
+          "options": [
+            "عَمَلٌ",
+            "أَمَلٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-saala2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سَعَلَ"
+          },
+          "answer": "سَعَلَ",
+          "options": [
+            "سَعَلَ",
+            "سَأَلَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-budi",
+          "instruction": "Dengarkan. Dari mana dia?",
+          "prompt": {
+            "listen": "أَنا بُودِي، أَنا مِنْ سُورابايا."
+          },
+          "answer": "Surabaya",
+          "options": [
+            "Surabaya",
+            "Bandung",
+            "Medan"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Berpamitan",
+          "rows": [
+            {
+              "ar": "مَعَ السَّلامَةِ",
+              "id": "selamat jalan / selamat tinggal",
+              "emoji": "👋",
+              "serapan": "selamat"
+            },
+            {
+              "ar": "إِلَى اللِّقاءِ",
+              "id": "sampai jumpa",
+              "emoji": "🙌"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "kenalkan-diri",
+          "instruction": "Perkenalkan dirimu: salam, nama, dan kota asalmu",
+          "prompt": {
+            "id": "Pakai nama dan kotamu sendiri."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "السَّلامُ عَلَيْكُمْ.",
+              "id": "Assalamualaikum."
+            },
+            {
+              "who": "rizki",
+              "ar": "اِسْمِي رِزْقِي.",
+              "id": "Nama saya Rizki."
+            },
+            {
+              "who": "rizki",
+              "ar": "أَنا مِنْ بانْدُونْغ.",
+              "id": "Saya dari Bandung."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-indonesi",
+          "who": "rizki",
+          "ar": "أَنا إِنْدُونِيسِيٌّ.",
+          "id": "Saya orang Indonesia. (lk)"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-indonesiyyah",
+          "who": "siti",
+          "ar": "أَنا إِنْدُونِيسِيَّةٌ.",
+          "id": "Saya orang Indonesia. (pr)"
+        },
+        {
+          "q": "choice",
+          "k": "sapa-pagi-ustaz",
+          "instruction": "Pagi hari kamu bertemu Ustaz Mahmud. Kamu mengucapkan …",
+          "prompt": {
+            "id": "Menyapa di pagi hari",
+            "emoji": "🌅"
+          },
+          "answer": "صَباحَ الخَيْرِ يا أُسْتاذُ.",
+          "options": [
+            "صَباحَ الخَيْرِ يا أُسْتاذُ.",
+            "صَباحَ النُّورِ يا أُسْتاذُ.",
+            "مَعَ السَّلامَةِ يا أُسْتاذُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "pamit",
+          "instruction": "Kelas selesai dan kamu pulang. Kamu mengucapkan …",
+          "prompt": {
+            "id": "Berpamitan",
+            "emoji": "👋"
+          },
+          "answer": "مَعَ السَّلامَةِ.",
+          "options": [
+            "مَعَ السَّلامَةِ.",
+            "أَهْلًا وَسَهْلًا.",
+            "صَباحَ النُّورِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "tanya-teman-pr",
+          "instruction": "Tanyakan nama dan asal teman perempuanmu",
+          "prompt": {
+            "id": "Ingat: pakai bentuk perempuan (ـكِ, أَنْتِ)."
+          },
+          "model": [
+            {
+              "who": "siti",
+              "ar": "ما اسْمُكِ؟",
+              "id": "Siapa namamu? (pr)"
+            },
+            {
+              "who": "siti",
+              "ar": "مِنْ أَيْنَ أَنْتِ؟",
+              "id": "Kamu dari mana? (pr)"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "jawab-siti",
+          "instruction": "Kamu Siti dari Medan. Ustaz bertanya: هَلْ أَنْتِ مالِيزِيَّةٌ؟ Jawabanmu …",
+          "prompt": {
+            "ar": "هَلْ أَنْتِ مالِيزِيَّةٌ؟"
+          },
+          "answer": "لا، أَنا إِنْدُونِيسِيَّةٌ.",
+          "options": [
+            "لا، أَنا إِنْدُونِيسِيَّةٌ.",
+            "نَعَمْ، أَنا مالِيزِيَّةٌ.",
+            "لا، أَنا إِنْدُونِيسِيٌّ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-maassalamah",
+          "who": "budi",
+          "ar": "مَعَ السَّلامَةِ.",
+          "id": "Selamat jalan."
+        },
+        {
+          "q": "speak",
+          "k": "kenalkan-teman",
+          "instruction": "Perkenalkan temanmu kepada ustaz",
+          "prompt": {
+            "id": "Sebut nama dan asal kotanya."
+          },
+          "model": [
+            {
+              "who": "budi",
+              "ar": "هٰذا صَدِيقِي رِزْقِي.",
+              "id": "Ini teman saya, Rizki."
+            },
+            {
+              "who": "budi",
+              "ar": "هُوَ مِنْ بانْدُونْغ.",
+              "id": "Dia dari Bandung."
+            }
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-ilal-liqa",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "إِلَى اللِّقاءِ"
+          },
+          "answer": "sampai jumpa",
+          "options": [
+            "sampai jumpa",
+            "selamat pagi",
+            "selamat datang"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-maassalamah",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مَعَ السَّلامَةِ"
+          },
+          "answer": "selamat jalan / selamat tinggal",
+          "options": [
+            "selamat jalan / selamat tinggal",
+            "apa kabar?",
+            "selamat datang"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-budi",
+          "instruction": "Kamu Budi dari Surabaya. Ustaz bertanya: هَلْ أَنْتَ مِنْ بانْدُونْغ؟ Jawabanmu …",
+          "prompt": {
+            "ar": "هَلْ أَنْتَ مِنْ بانْدُونْغ؟"
+          },
+          "answer": "لا، أَنا مِنْ سُورابايا.",
+          "options": [
+            "لا، أَنا مِنْ سُورابايا.",
+            "نَعَمْ، أَنا مِنْ بانْدُونْغ.",
+            "لا، أَنا مِنْ مِصْرَ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-balas-ahlan",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "أَهْلًا وَسَهْلًا يا عائِشَةُ!"
+          },
+          "answer": "أَهْلًا بِكِ.",
+          "options": [
+            "أَهْلًا بِكِ.",
+            "مَعَ السَّلامَةِ.",
+            "صَباحَ الخَيْرِ!"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Siti",
+          "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            {
+              "ar": "السَّلامُ عَلَيْكُمْ.",
+              "id": "Assalamualaikum."
+            },
+            {
+              "ar": "اِسْمِي سِيتِي.",
+              "id": "Nama saya Siti."
+            },
+            {
+              "ar": "أَنا طالِبَةٌ فِي مَعْهَدِ الهُدَى.",
+              "id": "Saya pelajar (pr) di Ma'had al-Huda."
+            },
+            {
+              "ar": "أَنا إِنْدُونِيسِيَّةٌ مِنْ مِيدان.",
+              "id": "Saya orang Indonesia dari Medan."
+            },
+            {
+              "ar": "صَدِيقَتِي عائِشَةُ، هِيَ مالِيزِيَّةٌ.",
+              "id": "Teman saya Aisyah, dia orang Malaysia."
+            },
+            {
+              "ar": "الأُسْتاذُ مَحْمُودٌ مِصْرِيٌّ.",
+              "id": "Ustaz Mahmud orang Mesir."
+            }
+          ],
+          "img": "u1-baca-siti",
+          "scene": "Siti holding a book and smiling in the courtyard of an Islamic language institute in Yogyakarta, Indonesia, with Aisyah waving beside her; frangipani trees, no signboard."
+        },
+        {
+          "q": "choice",
+          "k": "baca-siti-malaysia",
+          "instruction": "Benar atau salah? \"Siti orang Malaysia.\"",
+          "prompt": {
+            "ar": "سِيتِي مالِيزِيَّةٌ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-siti-mahad",
+          "instruction": "Benar atau salah? \"Siti pelajar di Ma'had al-Huda.\"",
+          "prompt": {
+            "ar": "سِيتِي طالِبَةٌ فِي مَعْهَدِ الهُدَى."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-sadiqah",
+          "instruction": "Siapa teman Siti?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Aisyah",
+          "options": [
+            "Aisyah",
+            "Budi",
+            "Ustaz Mahmud"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-hiya-malaysia",
+          "instruction": "Pilih kalimat yang artinya \"Dia orang Malaysia (pr)\"",
+          "prompt": {
+            "id": "Dia orang Malaysia. (pr)"
+          },
+          "answer": "هِيَ مالِيزِيَّةٌ.",
+          "options": [
+            "هِيَ مالِيزِيَّةٌ.",
+            "هُوَ مالِيزِيٌّ.",
+            "هِيَ إِنْدُونِيسِيَّةٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Budi",
+          "rows": [
+            {
+              "ar": "هٰذا بُودِي.",
+              "id": "Ini Budi.",
+              "emoji": "👦"
+            },
+            {
+              "ar": "هُوَ طالِبٌ إِنْدُونِيسِيٌّ.",
+              "id": "Dia pelajar (lk) Indonesia."
+            },
+            {
+              "ar": "هُوَ مِنْ سُورابايا.",
+              "id": "Dia dari Surabaya."
+            },
+            {
+              "ar": "صَدِيقُهُ رِزْقِي مِنْ بانْدُونْغ.",
+              "id": "Temannya, Rizki, dari Bandung."
+            }
+          ],
+          "img": "u1-baca-budi",
+          "scene": "Budi with a backpack, smiling, standing next to Rizki on a tree-lined campus path of an Islamic language institute in Yogyakarta, Indonesia."
+        },
+        {
+          "q": "choice",
+          "k": "baca-budi-asal",
+          "instruction": "Budi dari mana?",
+          "prompt": {
+            "id": "Menurut bacaan 2"
+          },
+          "answer": "Surabaya",
+          "options": [
+            "Surabaya",
+            "Bandung",
+            "Medan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-budi-talib",
+          "instruction": "Benar atau salah? \"Budi seorang guru.\"",
+          "prompt": {
+            "ar": "بُودِي أُسْتاذٌ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-gambar-talibah",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "👩‍🎓"
+          },
+          "answer": "طالِبَةٌ",
+          "options": [
+            "طالِبَةٌ",
+            "أُسْتاذَةٌ",
+            "صَدِيقٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "baca-ustaz-misri",
+          "instruction": "Ustaz Mahmud orang …",
+          "prompt": {
+            "ar": "الأُسْتاذُ مَحْمُودٌ …"
+          },
+          "answer": "مِصْرِيٌّ",
+          "options": [
+            "مِصْرِيٌّ",
+            "مِصْرِيَّةٌ",
+            "تُرْكِيٌّ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-rizki",
+          "instruction": "Benar atau salah? \"Rizki dari Bandung.\"",
+          "prompt": {
+            "ar": "رِزْقِي مِنْ بانْدُونْغ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-siti-asal",
+          "instruction": "Siti dari kota mana?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Medan",
+          "options": [
+            "Medan",
+            "Jakarta",
+            "Kuala Lumpur"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-huwa",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هُوَ طالِبٌ إِنْدُونِيسِيٌّ."
+          },
+          "answer": "Dia pelajar (lk) Indonesia.",
+          "options": [
+            "Dia pelajar (lk) Indonesia.",
+            "Saya pelajar (lk) Indonesia.",
+            "Dia guru (lk) Indonesia."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-aisyah",
+          "instruction": "Benar atau salah? \"Aisyah orang Indonesia.\"",
+          "prompt": {
+            "ar": "عائِشَةُ إِنْدُونِيسِيَّةٌ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis ا د ذ ر ز و",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Huruf yang tidak menyambung ke kiri",
+          "instruction_id": "Enam huruf ini menyambung ke huruf sebelumnya, tetapi tidak ke huruf sesudahnya. Telusuri bentuknya.",
+          "rows": [
+            {
+              "ar": "ا",
+              "id": "alif"
+            },
+            {
+              "ar": "د",
+              "id": "dal"
+            },
+            {
+              "ar": "ذ",
+              "id": "dzal"
+            },
+            {
+              "ar": "ر",
+              "id": "ra"
+            },
+            {
+              "ar": "ز",
+              "id": "zai"
+            },
+            {
+              "ar": "و",
+              "id": "wau"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "huruf-ra",
+          "instruction": "Huruf apa ini?",
+          "prompt": {
+            "ar": "ر"
+          },
+          "answer": "ra",
+          "options": [
+            "ra",
+            "zai",
+            "dal"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "huruf-zai",
+          "instruction": "Huruf mana yang bentuknya seperti ر tetapi bertitik satu di atas?",
+          "prompt": {
+            "id": "ra + titik = …"
+          },
+          "answer": "ز",
+          "options": [
+            "ز",
+            "ذ",
+            "د"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tidak-sambung",
+          "instruction": "Huruf mana yang TIDAK menyambung ke huruf sesudahnya?",
+          "prompt": {
+            "id": "Pilih satu"
+          },
+          "answer": "د",
+          "options": [
+            "د",
+            "ب",
+            "س"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-za",
+          "instruction": "Dengarkan. Huruf apa yang kamu dengar?",
+          "prompt": {
+            "listen": "زَ"
+          },
+          "answer": "ز",
+          "options": [
+            "ز",
+            "ذ",
+            "ر"
+          ],
+          "lang": "ar"
+        },
+        {
+          "card": "writing",
+          "section": "Huruf itu dalam nama",
+          "instruction_id": "Perhatikan: setelah ا، د، ر، ز، و, huruf berikutnya ditulis terpisah.",
+          "rows": [
+            {
+              "ar": "رِزْقِي",
+              "id": "Rizki"
+            },
+            {
+              "ar": "بُودِي",
+              "id": "Budi"
+            },
+            {
+              "ar": "أَنا",
+              "id": "saya"
+            },
+            {
+              "ar": "مِصْرُ",
+              "id": "Mesir"
+            }
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "eja-rizki",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "رِزْقِي (Rizki)"
+          },
+          "answer": "ر ز ق ي",
+          "extra": [
+            "د"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "eja-budi",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "بُودِي (Budi)"
+          },
+          "answer": "ب و د ي",
+          "extra": [
+            "ذ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tulis-budi",
+          "instruction": "Mana tulisan \"Budi\" yang benar?",
+          "prompt": {
+            "id": "Budi"
+          },
+          "answer": "بُودِي",
+          "options": [
+            "بُودِي",
+            "بُوذِي",
+            "بُورِي"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dzal-bunyi",
+          "instruction": "Huruf ذ dibaca …",
+          "prompt": {
+            "ar": "ذ"
+          },
+          "answer": "dz, seperti \"th\" pada kata Inggris \"this\"",
+          "options": [
+            "dz, seperti \"th\" pada kata Inggris \"this\"",
+            "d biasa",
+            "z biasa"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-huruf-wau",
+          "instruction": "Huruf apa ini?",
+          "prompt": {
+            "ar": "و"
+          },
+          "answer": "wau",
+          "options": [
+            "wau",
+            "ra",
+            "alif"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-huruf-dzal",
+          "instruction": "Huruf mana yang bentuknya seperti د tetapi bertitik satu di atas?",
+          "prompt": {
+            "id": "dal + titik = …"
+          },
+          "answer": "ذ",
+          "options": [
+            "ذ",
+            "ز",
+            "ر"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-awal-rizki",
+          "instruction": "Huruf pertama nama رِزْقِي adalah …",
+          "prompt": {
+            "ar": "رِزْقِي"
+          },
+          "answer": "ر",
+          "options": [
+            "ر",
+            "ز",
+            "د"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-eja-misr",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "مِصْرُ (Mesir)"
+          },
+          "answer": "م ص ر",
+          "extra": [
+            "ز"
+          ]
+        }
+      ]
+    }
+  ]
+}

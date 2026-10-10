@@ -1,0 +1,4720 @@
+{
+ "id": "j1u12",
+ "book": "1b",
+ "number": 12,
+ "title_ar": "الهِواياتُ",
+ "title_id": "Hobi",
+ "lessons": [
+  {
+   "id": "j1u12-d1",
+   "dars": 1,
+   "title_id": "Budi dan sepak bola",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا رِزْقِي، اِلْعَبْ مَعَنا كُرَةَ القَدَمِ اليَوْمَ!",
+        "id": "Rizki, main sepak bola bersama kami hari ini!",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/0c7126b2656e5793.mp3"
+        }
+       },
+       {
+        "ar": "آسِفٌ يا بُودِي، أَقْرَأُ قِصَّةً الآنَ.",
+        "id": "Maaf, Budi, aku sedang membaca cerita.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/6fa94c0b4212a440.mp3"
+        }
+       },
+       {
+        "ar": "هَلِ القِراءَةُ هِوايَتُكَ؟",
+        "id": "Apakah membaca itu hobimu?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/baa8a2df1273ace5.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، هِوايَتِي القِراءَةُ. أُحِبُّ القِصَصَ كَثِيرًا.",
+        "id": "Ya, hobiku membaca. Aku sangat suka cerita.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/8f5e109cfc6d4783.mp3"
+        }
+       },
+       {
+        "ar": "وَأَنا هِوايَتِي كُرَةُ القَدَمِ. أَلْعَبُها كُلَّ يَوْمِ جُمُعَةٍ.",
+        "id": "Kalau aku, hobiku sepak bola. Aku memainkannya setiap hari Jumat.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/108672d68d9d945d.mp3"
+        }
+       },
+       {
+        "ar": "اليَوْمَ أَخْتارُ القِراءَةَ.",
+        "id": "Hari ini aku memilih membaca.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/39d8edc1efdf697e.mp3"
+        }
+       },
+       {
+        "ar": "طَيِّبٌ. فِي المَساءِ مُباراةٌ فِي التِّلْفازِ.",
+        "id": "Baiklah. Nanti malam ada pertandingan di televisi.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/2ddbde01f68b7a63.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ تُشاهِدُها مَعِي؟",
+        "id": "Kamu mau menontonnya bersamaku?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/a3b90949111ac712.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، إِنْ شاءَ اللّٰهُ!",
+        "id": "Ya, insyaallah!",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/bff248b90d799bd1.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u12-budi-bola.webp"
+      ],
+      "instruction_id": "Jumat sore di kamar asrama putra. Budi sudah memakai kaus bola, sedangkan Rizki memegang buku cerita."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "ما هِوايَتُكَ؟",
+        "id": "apa hobimu? (lk)",
+        "emoji": "❓",
+        "audio": {
+         "src": "/audio/o/2579b36fbe6728fd.mp3"
+        }
+       },
+       {
+        "ar": "هِوايَةٌ",
+        "id": "hobi",
+        "emoji": "⭐",
+        "audio": {
+         "src": "/audio/o/f6e1176a472a6538.mp3"
+        }
+       },
+       {
+        "ar": "قِراءَةٌ",
+        "id": "membaca, bacaan · ★ kiraah",
+        "emoji": "📖",
+        "audio": {
+         "src": "/audio/o/b636b649eb7e1eb5.mp3"
+        }
+       },
+       {
+        "ar": "قِصَّةٌ ← قِصَصٌ",
+        "id": "cerita → cerita-cerita · ★ kisah",
+        "emoji": "📚",
+        "audio": {
+         "src": "/audio/o/d221a721ca820ab3.mp3"
+        }
+       },
+       {
+        "ar": "كُرَةُ القَدَمِ",
+        "id": "sepak bola",
+        "emoji": "⚽",
+        "audio": {
+         "src": "/audio/o/0cd2084cb653d99c.mp3"
+        }
+       },
+       {
+        "ar": "لَعِبَ – يَلْعَبُ",
+        "id": "bermain",
+        "emoji": "🤾",
+        "audio": {
+         "src": "/audio/o/065d6445ad8c5e54.mp3"
+        }
+       },
+       {
+        "ar": "اِخْتارَ – يَخْتارُ",
+        "id": "memilih",
+        "emoji": "👆",
+        "audio": {
+         "src": "/audio/o/8843ae1af49eab13.mp3"
+        }
+       },
+       {
+        "ar": "اليَوْمَ",
+        "id": "hari ini",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/f4558cc37c35356c.mp3"
+        }
+       },
+       {
+        "ar": "مُباراةٌ",
+        "id": "pertandingan",
+        "emoji": "🏟️",
+        "audio": {
+         "src": "/audio/o/5c9a8e0d24a17839.mp3"
+        }
+       },
+       {
+        "ar": "تِلْفازٌ",
+        "id": "televisi",
+        "emoji": "📺",
+        "audio": {
+         "src": "/audio/o/8e8465ec9fb5a88d.mp3"
+        }
+       },
+       {
+        "ar": "شاهَدَ – يُشاهِدُ",
+        "id": "menonton",
+        "emoji": "👀",
+        "audio": {
+         "src": "/audio/o/6f6551b93d18e6e1.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d1-ma-hiwayatuka-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "ما هِوايَتُكَ؟",
+       "audio": {
+        "src": "/audio/o/2579b36fbe6728fd.mp3"
+       }
+      },
+      "answer": "Apa hobimu? (lk)",
+      "options": [
+       "Apa hobimu? (lk)",
+       "Siapa namamu? (lk)",
+       "Apa pekerjaanmu? (lk)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d1-budi-hobi",
+      "instruction": "Menurut dialog, apa hobi Budi?",
+      "prompt": {
+       "ar": "هِوايَةُ بُودِي …",
+       "audio": {
+        "src": "/audio/o/681a5da70e75a1c3.mp3"
+       },
+       "emoji": "👦"
+      },
+      "answer": "Sepak bola",
+      "options": [
+       "Sepak bola",
+       "Membaca cerita",
+       "Bulu tangkis"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d1-dengar-yalab-jumuah",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "أَلْعَبُها كُلَّ يَوْمِ جُمُعَةٍ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a2cc85ae92d8a4f4.mp3"
+       }
+      },
+      "answer": "Saya memainkannya setiap hari Jumat.",
+      "options": [
+       "Saya memainkannya setiap hari Jumat.",
+       "Saya menontonnya setiap hari Jumat.",
+       "Saya memainkannya hari ini."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d1-balas-ma-hiwayatuka",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "ما هِوايَتُكَ؟",
+       "audio": {
+        "src": "/audio/o/2579b36fbe6728fd.mp3"
+       }
+      },
+      "answer": "هِوايَتِي القِراءَةُ.",
+      "options": [
+       "هِوايَتِي القِراءَةُ.",
+       "أَنا مِنْ بانْدُونْغ.",
+       "أَبِي مُهَنْدِسٌ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هِوايَتِي القِراءَةُ.": {
+        "src": "/audio/o/9d677a528bd93746.mp3"
+       },
+       "أَنا مِنْ بانْدُونْغ.": {
+        "src": "/audio/o/2294a5799e9e7c3d.mp3"
+       },
+       "أَبِي مُهَنْدِسٌ.": {
+        "src": "/audio/o/9d2532fccece19f9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d1-rizki-pilih",
+      "instruction": "Menurut dialog, apa yang dipilih Rizki hari ini?",
+      "prompt": {
+       "ar": "رِزْقِي يَخْتارُ …",
+       "audio": {
+        "src": "/audio/o/f40dff4306c428b9.mp3"
+       }
+      },
+      "answer": "Membaca",
+      "options": [
+       "Membaca",
+       "Bermain sepak bola",
+       "Menonton televisi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d1-mubarah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "فِي المَساءِ مُباراةٌ فِي التِّلْفازِ.",
+       "audio": {
+        "src": "/audio/o/fef6266d0218c518.mp3"
+       }
+      },
+      "answer": "Nanti malam ada pertandingan di televisi.",
+      "options": [
+       "Nanti malam ada pertandingan di televisi.",
+       "Pagi ini ada pertandingan di lapangan.",
+       "Nanti malam ada film di televisi."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d1-susun-hiwayati-qiraah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Apakah membaca itu hobimu? (lk)"
+      },
+      "answer": "هَلِ القِراءَةُ هِوايَتُكَ",
+      "tokens": [
+       "هَلِ",
+       "القِراءَةُ",
+       "هِوايَتُكَ",
+       "هِوايَتِي"
+      ],
+      "audioMap": {
+       "هَلِ": {
+        "src": "/audio/o/e8c50fb3a1e04754.mp3"
+       },
+       "القِراءَةُ": {
+        "src": "/audio/o/153c8caea6a5f8b5.mp3"
+       },
+       "هِوايَتُكَ": {
+        "src": "/audio/o/4a60481533d79223.mp3"
+       },
+       "هِوايَتِي": {
+        "src": "/audio/o/12afdaaaf4237e36.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d1-susun-ilab-maana",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Main bersama kami! (lk)"
+      },
+      "answer": "اِلْعَبْ مَعَنا",
+      "tokens": [
+       "اِلْعَبْ",
+       "مَعَنا",
+       "أَلْعَبُ"
+      ],
+      "audioMap": {
+       "اِلْعَبْ": {
+        "src": "/audio/o/7cce05869bcceba3.mp3"
+       },
+       "مَعَنا": {
+        "src": "/audio/o/8e0a99e59fa4f368.mp3"
+       },
+       "أَلْعَبُ": {
+        "src": "/audio/o/4a3c1fb357a80306.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u12-d1-ucap-hiwayati-qiraah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "هِوايَتِي القِراءَةُ.",
+       "id": "Hobi saya membaca.",
+       "audio": {
+        "src": "/audio/o/74288f92621df6dd.mp3"
+       }
+      },
+      "target": "هِوايَتِي القِراءَةُ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u12-d1-lat-yakhtaru-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أَخْتارُ القِراءَةَ.",
+      "audio": {
+       "src": "/audio/o/07d6f4c1bd88a4e2.mp3"
+      }
+     },
+     "answer": "Saya memilih membaca.",
+     "options": [
+      "Saya memilih membaca.",
+      "Saya suka membaca.",
+      "Saya belajar membaca."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d1-lat-dengar-tusyahid",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "هَلْ تُشاهِدُها مَعِي؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/f95c7107256ceee1.mp3"
+      }
+     },
+     "answer": "هَلْ تُشاهِدُها مَعِي؟",
+     "options": [
+      "هَلْ تُشاهِدُها مَعِي؟",
+      "هَلْ تَلْعَبُها مَعِي؟",
+      "هَلْ تَقْرَؤُها مَعِي؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "هَلْ تُشاهِدُها مَعِي؟": {
+       "src": "/audio/o/f95c7107256ceee1.mp3"
+      },
+      "هَلْ تَلْعَبُها مَعِي؟": {
+       "src": "/audio/o/903dec293c8b767d.mp3"
+      },
+      "هَلْ تَقْرَؤُها مَعِي؟": {
+       "src": "/audio/o/7b9934b934fe670c.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d1-lat-kurah-qadam-ar",
+     "instruction": "Bahasa Arabnya \"sepak bola\" adalah …",
+     "prompt": {
+      "id": "sepak bola",
+      "emoji": "⚽"
+     },
+     "answer": "كُرَةُ القَدَمِ",
+     "options": [
+      "كُرَةُ القَدَمِ",
+      "كُرَةُ الرِّيشَةِ",
+      "مُباراةٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كُرَةُ القَدَمِ": {
+       "src": "/audio/o/0cd2084cb653d99c.mp3"
+      },
+      "كُرَةُ الرِّيشَةِ": {
+       "src": "/audio/o/0845ae7256029733.mp3"
+      },
+      "مُباراةٌ": {
+       "src": "/audio/o/5c9a8e0d24a17839.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u12-d1-lat-susun-hiwayati-kurah",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Apa hobimu? (pr)"
+     },
+     "answer": "ما هِوايَتُكِ",
+     "tokens": [
+      "ما",
+      "هِوايَتُكِ",
+      "هِوايَتُكَ"
+     ],
+     "audioMap": {
+      "ما": {
+       "src": "/audio/o/139f5e1cbdfbddfd.mp3"
+      },
+      "هِوايَتُكِ": {
+       "src": "/audio/o/c2a389a85fca2935.mp3"
+      },
+      "هِوايَتُكَ": {
+       "src": "/audio/o/4a60481533d79223.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d1-lat-qisas-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أُحِبُّ القِصَصَ كَثِيرًا.",
+      "audio": {
+       "src": "/audio/o/c5fff10cd629abfc.mp3"
+      }
+     },
+     "answer": "Saya sangat suka cerita.",
+     "options": [
+      "Saya sangat suka cerita.",
+      "Saya sangat suka sepak bola.",
+      "Saya menulis banyak cerita."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u12-d2",
+   "dars": 2,
+   "title_id": "Kaligrafi dan bulu tangkis",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "صَباحَ الخَيْرِ يا سِيتِي! ماذا تَكْتُبِينَ؟",
+        "id": "Selamat pagi, Siti! Kamu menulis apa?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/b26d8ace7ac1cfb9.mp3"
+        }
+       },
+       {
+        "ar": "صَباحَ النُّورِ! أَتَعَلَّمُ الخَطَّ النَّسْخِيَّ.",
+        "id": "Selamat pagi! Saya sedang belajar khat naskhi.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/32fd43a142cb5779.mp3"
+        }
+       },
+       {
+        "ar": "خَطُّكِ جَمِيلٌ! هَلْ هٰذِهِ هِوايَتُكِ؟",
+        "id": "Tulisanmu indah! Apakah ini hobimu?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/e4d22d35b0bf7fe4.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، أُحِبُّ الخَطَّ كَثِيرًا. وَما هِوايَتُكِ؟",
+        "id": "Ya, saya sangat suka kaligrafi. Kalau hobimu apa?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/552687337638023b.mp3"
+        }
+       },
+       {
+        "ar": "هِوايَتِي كُرَةُ الرِّيشَةِ. اُنْظُرِي، هٰذا مِضْرَبِي الجَدِيدُ.",
+        "id": "Hobi saya bulu tangkis. Lihat, ini raket baru saya.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/6041574100107d9c.mp3"
+        }
+       },
+       {
+        "ar": "ما أَجْمَلَهُ! لَوْنُهُ أَزْرَقُ.",
+        "id": "Bagus sekali! Warnanya biru.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/3faf7deed9cd1a96.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ تُحِبِّينَ كُرَةَ الرِّيشَةِ؟",
+        "id": "Apakah kamu suka bulu tangkis? (pr)",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/55a2316365759843.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، هِيَ رِياضَةٌ مَشْهُورَةٌ فِي إِنْدُونِيسِيا.",
+        "id": "Ya, itu olahraga yang terkenal di Indonesia.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/72832d54674c49a2.mp3"
+        }
+       },
+       {
+        "ar": "وَفِي مالِيزِيا أَيْضًا! هَيّا نَلْعَبْ بَعْدَ العَصْرِ.",
+        "id": "Di Malaysia juga! Ayo kita main sesudah asar.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/f8f9d7a69d7a0519.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u12-siti-khat.webp"
+      ],
+      "instruction_id": "Sabtu pagi di asrama putri. Siti berlatih menulis kaligrafi, lalu Aisyah datang membawa raket."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "تَعَلَّمَ – يَتَعَلَّمُ",
+        "id": "belajar, mempelajari",
+        "emoji": "🧑‍🎓",
+        "audio": {
+         "src": "/audio/o/ee084c00e3ef26a9.mp3"
+        }
+       },
+       {
+        "ar": "خَطٌّ",
+        "id": "kaligrafi, tulisan indah · ★ khat",
+        "emoji": "🖋️",
+        "audio": {
+         "src": "/audio/o/29cfce8c91edd5bd.mp3"
+        }
+       },
+       {
+        "ar": "الخَطُّ النَّسْخِيُّ",
+        "id": "khat naskhi",
+        "emoji": "✒️",
+        "audio": {
+         "src": "/audio/o/a6f4bc9eb1e194e6.mp3"
+        }
+       },
+       {
+        "ar": "ما أَجْمَلَهُ!",
+        "id": "indah/bagus sekali (benda lk)!",
+        "emoji": "😍",
+        "audio": {
+         "src": "/audio/o/62d7a21c089892f7.mp3"
+        }
+       },
+       {
+        "ar": "كُرَةُ الرِّيشَةِ",
+        "id": "bulu tangkis",
+        "emoji": "🏸",
+        "audio": {
+         "src": "/audio/o/0845ae7256029733.mp3"
+        }
+       },
+       {
+        "ar": "مِضْرَبٌ",
+        "id": "raket",
+        "emoji": "🏸",
+        "audio": {
+         "src": "/audio/o/d9cf74ab88d5afce.mp3"
+        }
+       },
+       {
+        "ar": "جَدِيدٌ · جَدِيدَةٌ",
+        "id": "baru (lk · pr)",
+        "emoji": "✨",
+        "audio": {
+         "src": "/audio/o/438f21d5fdccb844.mp3"
+        }
+       },
+       {
+        "ar": "تُحِبِّينَ",
+        "id": "kamu (pr) suka",
+        "emoji": "💗",
+        "audio": {
+         "src": "/audio/o/9f8555335950ff8d.mp3"
+        }
+       },
+       {
+        "ar": "رِياضَةٌ",
+        "id": "olahraga",
+        "emoji": "🏃",
+        "audio": {
+         "src": "/audio/o/97faccb84c7fdeba.mp3"
+        }
+       },
+       {
+        "ar": "مَشْهُورٌ · مَشْهُورَةٌ",
+        "id": "terkenal (lk · pr) · ★ masyhur",
+        "emoji": "🌟",
+        "audio": {
+         "src": "/audio/o/4120621e30a7127c.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d2-ma-hiwayatuki-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "وَما هِوايَتُكِ؟",
+       "audio": {
+        "src": "/audio/o/d034d79633fb5848.mp3"
+       }
+      },
+      "answer": "Kalau hobimu apa? (pr)",
+      "options": [
+       "Kalau hobimu apa? (pr)",
+       "Kalau hobimu apa? (lk)",
+       "Kamu menulis apa? (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d2-siti-belajar",
+      "instruction": "Menurut dialog, Siti sedang belajar apa?",
+      "prompt": {
+       "ar": "سِيتِي تَتَعَلَّمُ …",
+       "audio": {
+        "src": "/audio/o/a4296f5b062294e3.mp3"
+       }
+      },
+      "answer": "Khat naskhi",
+      "options": [
+       "Khat naskhi",
+       "Bulu tangkis",
+       "Bahasa Melayu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d2-aisyah-hobi",
+      "instruction": "Menurut dialog, apa hobi Aisyah?",
+      "prompt": {
+       "ar": "هِوايَةُ عائِشَةَ …",
+       "audio": {
+        "src": "/audio/o/7b2060af636c34ff.mp3"
+       },
+       "emoji": "👧"
+      },
+      "answer": "Bulu tangkis",
+      "options": [
+       "Bulu tangkis",
+       "Kaligrafi",
+       "Sepak bola"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d2-warna-raket",
+      "instruction": "Apa warna raket Aisyah?",
+      "prompt": {
+       "ar": "لَوْنُ المِضْرَبِ …",
+       "audio": {
+        "src": "/audio/o/59459431804782bc.mp3"
+       },
+       "emoji": "🏸"
+      },
+      "answer": "Biru",
+      "options": [
+       "Biru",
+       "Merah",
+       "Hijau"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d2-dengar-tuhibbina",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "هَلْ تُحِبِّينَ كُرَةَ الرِّيشَةِ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/5cd63d7bc401f678.mp3"
+       }
+      },
+      "answer": "Apakah kamu (pr) suka bulu tangkis?",
+      "options": [
+       "Apakah kamu (pr) suka bulu tangkis?",
+       "Apakah kamu (lk) suka bulu tangkis?",
+       "Apakah kamu (pr) suka sepak bola?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d2-balas-madza-taktubina",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "ماذا تَكْتُبِينَ؟",
+       "audio": {
+        "src": "/audio/o/fd3d880f3c55ff04.mp3"
+       }
+      },
+      "answer": "أَتَعَلَّمُ الخَطَّ النَّسْخِيَّ.",
+      "options": [
+       "أَتَعَلَّمُ الخَطَّ النَّسْخِيَّ.",
+       "هِوايَتِي كُرَةُ الرِّيشَةِ.",
+       "لَوْنُهُ أَزْرَقُ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَتَعَلَّمُ الخَطَّ النَّسْخِيَّ.": {
+        "src": "/audio/o/e683bbf5b48d28bf.mp3"
+       },
+       "هِوايَتِي كُرَةُ الرِّيشَةِ.": {
+        "src": "/audio/o/3bffa0a702b4b965.mp3"
+       },
+       "لَوْنُهُ أَزْرَقُ.": {
+        "src": "/audio/o/e1bb618686986c37.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d2-susun-hal-tuhibbina",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Apakah kamu suka bulu tangkis? (pr)"
+      },
+      "answer": "هَلْ تُحِبِّينَ كُرَةَ الرِّيشَةِ",
+      "tokens": [
+       "هَلْ",
+       "تُحِبِّينَ",
+       "كُرَةَ",
+       "الرِّيشَةِ",
+       "تُحِبُّ"
+      ],
+      "audioMap": {
+       "هَلْ": {
+        "src": "/audio/o/88964434a18c7513.mp3"
+       },
+       "تُحِبِّينَ": {
+        "src": "/audio/o/9f8555335950ff8d.mp3"
+       },
+       "كُرَةَ": {
+        "src": "/audio/o/1e7fedf12c688bb4.mp3"
+       },
+       "الرِّيشَةِ": {
+        "src": "/audio/o/284b871ff6536e6f.mp3"
+       },
+       "تُحِبُّ": {
+        "src": "/audio/o/bd6fad438e829321.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d2-susun-hadza-midrabi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ini raket baru."
+      },
+      "answer": "هٰذا مِضْرَبٌ جَدِيدٌ",
+      "tokens": [
+       "هٰذا",
+       "مِضْرَبٌ",
+       "جَدِيدٌ",
+       "هٰذِهِ"
+      ],
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "مِضْرَبٌ": {
+        "src": "/audio/o/d9cf74ab88d5afce.mp3"
+       },
+       "جَدِيدٌ": {
+        "src": "/audio/o/83d4cacac52f85ff.mp3"
+       },
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u12-d2-ucap-ma-ajmalahu",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "ما أَجْمَلَهُ!",
+       "id": "Indah sekali!",
+       "audio": {
+        "src": "/audio/o/91ab25439d9d2d98.mp3"
+       }
+      },
+      "target": "ما أَجْمَلَهُ!"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u12-d2-lat-masyhurah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هِيَ رِياضَةٌ مَشْهُورَةٌ.",
+      "audio": {
+       "src": "/audio/o/4255a2b694e66843.mp3"
+      }
+     },
+     "answer": "Itu olahraga yang terkenal.",
+     "options": [
+      "Itu olahraga yang terkenal.",
+      "Itu olahraga yang mudah.",
+      "Itu olahraga yang baru."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d2-lat-tanya-hobi-pr",
+     "instruction": "Kamu ingin tahu hobi Aisyah. Kamu bertanya …",
+     "prompt": {
+      "id": "Apa hobimu? (pr)"
+     },
+     "answer": "ما هِوايَتُكِ؟",
+     "options": [
+      "ما هِوايَتُكِ؟",
+      "ما هِوايَتُكَ؟",
+      "ماذا تَكْتُبِينَ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ما هِوايَتُكِ؟": {
+       "src": "/audio/o/cd191c0a315efd56.mp3"
+      },
+      "ما هِوايَتُكَ؟": {
+       "src": "/audio/o/2579b36fbe6728fd.mp3"
+      },
+      "ماذا تَكْتُبِينَ؟": {
+       "src": "/audio/o/fd3d880f3c55ff04.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d2-lat-dengar-midrab",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "هٰذا مِضْرَبِي الجَدِيدُ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/b0ab1e4651351aa0.mp3"
+      }
+     },
+     "answer": "هٰذا مِضْرَبِي الجَدِيدُ.",
+     "options": [
+      "هٰذا مِضْرَبِي الجَدِيدُ.",
+      "هٰذا قَلَمِي الجَدِيدُ.",
+      "هٰذا كِتابِي الجَدِيدُ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "هٰذا مِضْرَبِي الجَدِيدُ.": {
+       "src": "/audio/o/b0ab1e4651351aa0.mp3"
+      },
+      "هٰذا قَلَمِي الجَدِيدُ.": {
+       "src": "/audio/o/96e7e9cd284e82a2.mp3"
+      },
+      "هٰذا كِتابِي الجَدِيدُ.": {
+       "src": "/audio/o/2ceaea6e8cd21399.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u12-d2-lat-susun-atalammu-khat",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya belajar kaligrafi."
+     },
+     "answer": "أَتَعَلَّمُ الخَطَّ",
+     "tokens": [
+      "أَتَعَلَّمُ",
+      "الخَطَّ",
+      "الكِتابَ"
+     ],
+     "audioMap": {
+      "أَتَعَلَّمُ": {
+       "src": "/audio/o/976666222d98d84c.mp3"
+      },
+      "الخَطَّ": {
+       "src": "/audio/o/e67fadb0d6c0d454.mp3"
+      },
+      "الكِتابَ": {
+       "src": "/audio/o/46fa4d359441fadc.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d2-lat-kapan-main",
+     "instruction": "Kapan Siti dan Aisyah akan bermain?",
+     "prompt": {
+      "id": "Menurut dialog",
+      "emoji": "🕒"
+     },
+     "answer": "Sesudah asar",
+     "options": [
+      "Sesudah asar",
+      "Sesudah subuh",
+      "Sesudah isya"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u12-d3",
+   "dars": 3,
+   "title_id": "Memilih klub ma'had",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "اُنْظُرْ يا يُوسُفُ، هٰذِهِ نَوادِي المَعْهَدِ.",
+        "id": "Lihat, Yusuf, ini klub-klub ma'had.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/f549bae8c374bec5.mp3"
+        }
+       },
+       {
+        "ar": "ما شاءَ اللّٰهُ! هٰذا نادِي بِنْتْشاك سِيلات.",
+        "id": "Masyaallah! Ini klub pencak silat.",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/5fd5dde81d8fe4d8.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ لَعِبْتَ بِنْتْشاك سِيلات فِي إِسْطَنْبُول؟",
+        "id": "Kamu pernah main pencak silat di Istanbul?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/0da5e85d04b30a6f.mp3"
+        }
+       },
+       {
+        "ar": "لا، ما لَعِبْتُهُ. لٰكِنْ أُرِيدُ أَنْ أَتَعَلَّمَهُ.",
+        "id": "Belum, aku belum pernah memainkannya. Tetapi aku ingin mempelajarinya.",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/a7c644ddd1baf001.mp3"
+        }
+       },
+       {
+        "ar": "طَيِّبٌ! هِيَ رِياضَةٌ إِنْدُونِيسِيَّةٌ قَدِيمَةٌ.",
+        "id": "Bagus! Itu olahraga Indonesia yang sudah lama ada.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/d20833f0753c2f66.mp3"
+        }
+       },
+       {
+        "ar": "وَأَنْتَ يا بُودِي، أَيَّ نادٍ تَخْتارُ؟",
+        "id": "Kalau kamu, Budi, klub mana yang kamu pilih?",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/f6a50f63777a358e.mp3"
+        }
+       },
+       {
+        "ar": "نادِيَ النَّشِيدِ! الغِناءُ هِوايَتِي.",
+        "id": "Klub nasyid! Bernyanyi itu hobiku.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/64c087b5e1783ec0.mp3"
+        }
+       },
+       {
+        "ar": "مَتَى تَدْرِيبُ بِنْتْشاك سِيلات؟",
+        "id": "Kapan latihan pencak silat?",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/5193a5a28e26ba20.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمَ الخَمِيسِ بَعْدَ العَصْرِ.",
+        "id": "Hari Kamis sesudah asar.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/a7f71b2b8c50cc55.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u12-daftar-klub.webp"
+      ],
+      "instruction_id": "Di depan papan pengumuman ma'had ada daftar klub. Yusuf dan Budi membacanya bersama."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "نادٍ · النّادِي",
+        "id": "klub",
+        "emoji": "🏫",
+        "audio": {
+         "src": "/audio/o/b681bd502aa8eb58.mp3"
+        }
+       },
+       {
+        "ar": "نَوادٍ · النَّوادِي",
+        "id": "klub-klub (jamak)",
+        "emoji": "🏫",
+        "audio": {
+         "src": "/audio/o/caaae1ef43f269cb.mp3"
+        }
+       },
+       {
+        "ar": "أَيَّ نادٍ؟",
+        "id": "klub yang mana?",
+        "emoji": "❓",
+        "audio": {
+         "src": "/audio/o/f21b0b58b874f95a.mp3"
+        }
+       },
+       {
+        "ar": "ما لَعِبْتُهُ",
+        "id": "aku belum pernah memainkannya",
+        "emoji": "🙅",
+        "audio": {
+         "src": "/audio/o/7d1fb3fd4c7ed315.mp3"
+        }
+       },
+       {
+        "ar": "بِنْتْشاك سِيلات",
+        "id": "pencak silat",
+        "emoji": "🥋",
+        "audio": {
+         "src": "/audio/o/8756c29e4b957560.mp3"
+        }
+       },
+       {
+        "ar": "قَدِيمٌ · قَدِيمَةٌ",
+        "id": "lama, kuno (lk · pr)",
+        "emoji": "🏛️",
+        "audio": {
+         "src": "/audio/o/756ce0efee6495a5.mp3"
+        }
+       },
+       {
+        "ar": "نَشِيدٌ",
+        "id": "nasyid, lagu islami · ★ nasyid",
+        "emoji": "🎤",
+        "audio": {
+         "src": "/audio/o/cbc83f640b3fed6c.mp3"
+        }
+       },
+       {
+        "ar": "غِناءٌ",
+        "id": "bernyanyi, nyanyian",
+        "emoji": "🎶",
+        "audio": {
+         "src": "/audio/o/e92e353a66f0f28c.mp3"
+        }
+       },
+       {
+        "ar": "تَدْرِيبٌ",
+        "id": "latihan",
+        "emoji": "💪",
+        "audio": {
+         "src": "/audio/o/508eeb3f2fe823f8.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d3-ayya-nadin-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "أَيَّ نادٍ تَخْتارُ؟",
+       "audio": {
+        "src": "/audio/o/758f1301584eb661.mp3"
+       }
+      },
+      "answer": "Klub mana yang kamu pilih? (lk)",
+      "options": [
+       "Klub mana yang kamu pilih? (lk)",
+       "Kapan latihannya?",
+       "Di mana klubnya?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d3-yusuf-klub",
+      "instruction": "Menurut dialog, Yusuf ingin belajar apa?",
+      "prompt": {
+       "ar": "يُوسُفُ يُرِيدُ أَنْ يَتَعَلَّمَ …",
+       "audio": {
+        "src": "/audio/o/2d150c6eb706e471.mp3"
+       },
+       "emoji": "🥋"
+      },
+      "answer": "Pencak silat",
+      "options": [
+       "Pencak silat",
+       "Nasyid",
+       "Kaligrafi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d3-budi-klub",
+      "instruction": "Menurut dialog, klub apa yang dipilih Budi?",
+      "prompt": {
+       "ar": "بُودِي يَخْتارُ …",
+       "audio": {
+        "src": "/audio/o/b0d1d768d0fbb5f4.mp3"
+       }
+      },
+      "answer": "Klub nasyid",
+      "options": [
+       "Klub nasyid",
+       "Klub pencak silat",
+       "Klub sepak bola"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d3-kapan-latihan",
+      "instruction": "Kapan latihan pencak silat?",
+      "prompt": {
+       "id": "Menurut dialog",
+       "emoji": "📅"
+      },
+      "answer": "Kamis sesudah asar",
+      "options": [
+       "Kamis sesudah asar",
+       "Jumat sesudah asar",
+       "Kamis sesudah magrib"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d3-dengar-ghina",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "الغِناءُ هِوايَتِي.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/c0d8f552145618aa.mp3"
+       }
+      },
+      "answer": "Bernyanyi itu hobiku.",
+      "options": [
+       "Bernyanyi itu hobiku.",
+       "Membaca itu hobiku.",
+       "Berenang itu hobiku."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d3-balas-ayya-nadin",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "أَيَّ نادٍ تَخْتارُ؟",
+       "audio": {
+        "src": "/audio/o/758f1301584eb661.mp3"
+       }
+      },
+      "answer": "أَخْتارُ نادِيَ النَّشِيدِ.",
+      "options": [
+       "أَخْتارُ نادِيَ النَّشِيدِ.",
+       "يَوْمَ الخَمِيسِ بَعْدَ العَصْرِ.",
+       "هِيَ رِياضَةٌ قَدِيمَةٌ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَخْتارُ نادِيَ النَّشِيدِ.": {
+        "src": "/audio/o/0a5b312c9997c7d3.mp3"
+       },
+       "يَوْمَ الخَمِيسِ بَعْدَ العَصْرِ.": {
+        "src": "/audio/o/f937cd7e8751ebad.mp3"
+       },
+       "هِيَ رِياضَةٌ قَدِيمَةٌ.": {
+        "src": "/audio/o/017380a07a9e9759.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d3-susun-akhtaru-nasyid",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya memilih klub nasyid."
+      },
+      "answer": "أَخْتارُ نادِيَ النَّشِيدِ",
+      "tokens": [
+       "أَخْتارُ",
+       "نادِيَ",
+       "النَّشِيدِ",
+       "تَخْتارُ"
+      ],
+      "audioMap": {
+       "أَخْتارُ": {
+        "src": "/audio/o/4ef17fa15500222e.mp3"
+       },
+       "نادِيَ": {
+        "src": "/audio/o/d1703fc71ace7c60.mp3"
+       },
+       "النَّشِيدِ": {
+        "src": "/audio/o/61ab1602a9d12849.mp3"
+       },
+       "تَخْتارُ": {
+        "src": "/audio/o/1056cd81263267a9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d3-susun-uhibbu-hadzihi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya suka olahraga ini."
+      },
+      "answer": "أُحِبُّ هٰذِهِ الرِّياضَةَ",
+      "tokens": [
+       "أُحِبُّ",
+       "هٰذِهِ",
+       "الرِّياضَةَ",
+       "هٰذا"
+      ],
+      "audioMap": {
+       "أُحِبُّ": {
+        "src": "/audio/o/10a5d03903e7b7c3.mp3"
+       },
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       },
+       "الرِّياضَةَ": {
+        "src": "/audio/o/f1b2a3f002f9651a.mp3"
+       },
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u12-d3-ucap-ayya-nadin",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَيَّ نادٍ تَخْتارُ؟",
+       "id": "Klub mana yang kamu pilih? (lk)",
+       "audio": {
+        "src": "/audio/o/527fe02a645374a2.mp3"
+       }
+      },
+      "target": "أَيَّ نادٍ تَخْتارُ؟"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u12-d3-lat-qadimah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هِيَ رِياضَةٌ إِنْدُونِيسِيَّةٌ قَدِيمَةٌ.",
+      "audio": {
+       "src": "/audio/o/7da1007aa294a645.mp3"
+      }
+     },
+     "answer": "Itu olahraga Indonesia yang sudah lama ada.",
+     "options": [
+      "Itu olahraga Indonesia yang sudah lama ada.",
+      "Itu olahraga Indonesia yang baru.",
+      "Itu olahraga Malaysia yang terkenal."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d3-lat-tadrib-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مَتَى التَّدْرِيبُ؟",
+      "audio": {
+       "src": "/audio/o/9b72578c705cd4e2.mp3"
+      }
+     },
+     "answer": "Kapan latihannya?",
+     "options": [
+      "Kapan latihannya?",
+      "Di mana latihannya?",
+      "Siapa pelatihnya?"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d3-lat-dengar-uktub",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "اُكْتُبِ اسْمَكَ هُنا.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/afc4cfae4c55c26e.mp3"
+      }
+     },
+     "answer": "اُكْتُبِ اسْمَكَ هُنا.",
+     "options": [
+      "اُكْتُبِ اسْمَكَ هُنا.",
+      "اُكْتُبِي اسْمَكِ هُنا.",
+      "اِقْرَأِ اسْمَكَ هُنا."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "اُكْتُبِ اسْمَكَ هُنا.": {
+       "src": "/audio/o/afc4cfae4c55c26e.mp3"
+      },
+      "اُكْتُبِي اسْمَكِ هُنا.": {
+       "src": "/audio/o/e82e5af417c71a4a.mp3"
+      },
+      "اِقْرَأِ اسْمَكَ هُنا.": {
+       "src": "/audio/o/fbb0f2376b75e6b7.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u12-d3-lat-susun-mata-tadrib",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kapan latihannya?"
+     },
+     "answer": "مَتَى التَّدْرِيبُ",
+     "tokens": [
+      "مَتَى",
+      "التَّدْرِيبُ",
+      "أَيْنَ"
+     ],
+     "audioMap": {
+      "مَتَى": {
+       "src": "/audio/o/b914cba783c69620.mp3"
+      },
+      "التَّدْرِيبُ": {
+       "src": "/audio/o/224a7a2bc750948c.mp3"
+      },
+      "أَيْنَ": {
+       "src": "/audio/o/2c4225894606e007.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d3-lat-nasyid-ar",
+     "instruction": "Bahasa Arabnya \"bernyanyi\" adalah …",
+     "prompt": {
+      "id": "bernyanyi",
+      "emoji": "🎶"
+     },
+     "answer": "غِناءٌ",
+     "options": [
+      "غِناءٌ",
+      "نَشِيدٌ",
+      "تَدْرِيبٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "غِناءٌ": {
+       "src": "/audio/o/e92e353a66f0f28c.mp3"
+      },
+      "نَشِيدٌ": {
+       "src": "/audio/o/cbc83f640b3fed6c.mp3"
+      },
+      "تَدْرِيبٌ": {
+       "src": "/audio/o/508eeb3f2fe823f8.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u12-d4",
+   "dars": 4,
+   "title_id": "Kosakata hobi",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "هِوايَةٌ",
+        "id": "hobi",
+        "emoji": "⭐",
+        "audio": {
+         "src": "/audio/o/f6e1176a472a6538.mp3"
+        }
+       },
+       {
+        "ar": "رِياضَةٌ",
+        "id": "olahraga",
+        "emoji": "🏃",
+        "audio": {
+         "src": "/audio/o/97faccb84c7fdeba.mp3"
+        }
+       },
+       {
+        "ar": "كُرَةُ القَدَمِ",
+        "id": "sepak bola",
+        "emoji": "⚽",
+        "audio": {
+         "src": "/audio/o/0cd2084cb653d99c.mp3"
+        }
+       },
+       {
+        "ar": "كُرَةُ الرِّيشَةِ",
+        "id": "bulu tangkis",
+        "emoji": "🏸",
+        "audio": {
+         "src": "/audio/o/0845ae7256029733.mp3"
+        }
+       },
+       {
+        "ar": "سِباحَةٌ",
+        "id": "berenang",
+        "emoji": "🏊",
+        "audio": {
+         "src": "/audio/o/bffa800c21a2cc41.mp3"
+        }
+       },
+       {
+        "ar": "بِنْتْشاك سِيلات",
+        "id": "pencak silat",
+        "emoji": "🥋",
+        "audio": {
+         "src": "/audio/o/8756c29e4b957560.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Olahraga"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "قِراءَةٌ",
+        "id": "membaca · ★ qiraah",
+        "emoji": "📖",
+        "audio": {
+         "src": "/audio/o/b636b649eb7e1eb5.mp3"
+        }
+       },
+       {
+        "ar": "خَطٌّ",
+        "id": "kaligrafi · ★ khat",
+        "emoji": "🖋️",
+        "audio": {
+         "src": "/audio/o/29cfce8c91edd5bd.mp3"
+        }
+       },
+       {
+        "ar": "رَسْمٌ",
+        "id": "menggambar, gambar",
+        "emoji": "🎨",
+        "audio": {
+         "src": "/audio/o/8d7b4234af42a0ac.mp3"
+        }
+       },
+       {
+        "ar": "طَبْخٌ",
+        "id": "memasak",
+        "emoji": "🍳",
+        "audio": {
+         "src": "/audio/o/cd0b5c47520d221f.mp3"
+        }
+       },
+       {
+        "ar": "مَجَلَّةٌ",
+        "id": "majalah · ★ majalah",
+        "emoji": "📰",
+        "audio": {
+         "src": "/audio/o/497b048c0f25f1e5.mp3"
+        }
+       },
+       {
+        "ar": "مَجَلَّةُ الحائِطِ",
+        "id": "majalah dinding (mading)",
+        "emoji": "🧱",
+        "audio": {
+         "src": "/audio/o/4651209749f58b80.mp3"
+        }
+       },
+       {
+        "ar": "قِصَّةٌ",
+        "id": "cerita · ★ kisah",
+        "emoji": "📚",
+        "audio": {
+         "src": "/audio/o/949516491c19f3ea.mp3"
+        }
+       },
+       {
+        "ar": "شِعْرٌ",
+        "id": "puisi · ★ syair",
+        "emoji": "📜",
+        "audio": {
+         "src": "/audio/o/4c8f4f75e5cdc0e2.mp3"
+        }
+       },
+       {
+        "ar": "نَشِيدٌ",
+        "id": "nasyid · ★ nasyid",
+        "emoji": "🎤",
+        "audio": {
+         "src": "/audio/o/cbc83f640b3fed6c.mp3"
+        }
+       },
+       {
+        "ar": "وَقْتُ الفَراغِ",
+        "id": "waktu luang",
+        "emoji": "⏳",
+        "audio": {
+         "src": "/audio/o/6f92fb63d855afc8.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Seni dan bacaan"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "كَبِيرٌ · كَبِيرَةٌ",
+        "id": "besar (lk · pr)",
+        "emoji": "🐘",
+        "audio": {
+         "src": "/audio/o/2f90746a636bd714.mp3"
+        }
+       },
+       {
+        "ar": "صَغِيرٌ · صَغِيرَةٌ",
+        "id": "kecil (lk · pr)",
+        "emoji": "🐜",
+        "audio": {
+         "src": "/audio/o/4f552e6332beed79.mp3"
+        }
+       },
+       {
+        "ar": "جَدِيدٌ · جَدِيدَةٌ",
+        "id": "baru (lk · pr)",
+        "emoji": "✨",
+        "audio": {
+         "src": "/audio/o/438f21d5fdccb844.mp3"
+        }
+       },
+       {
+        "ar": "قَدِيمٌ · قَدِيمَةٌ",
+        "id": "lama (lk · pr)",
+        "emoji": "🏛️",
+        "audio": {
+         "src": "/audio/o/756ce0efee6495a5.mp3"
+        }
+       },
+       {
+        "ar": "سَهْلٌ · سَهْلَةٌ",
+        "id": "mudah (lk · pr)",
+        "emoji": "👍",
+        "audio": {
+         "src": "/audio/o/45eb8c0599919a3e.mp3"
+        }
+       },
+       {
+        "ar": "صَعْبٌ · صَعْبَةٌ",
+        "id": "sulit (lk · pr)",
+        "emoji": "🧗",
+        "audio": {
+         "src": "/audio/o/a49ed347cbf33a89.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Sifat benda"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-gambar-kurah-qadam",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "⚽"
+      },
+      "answer": "كُرَةُ القَدَمِ",
+      "options": [
+       "كُرَةُ القَدَمِ",
+       "كُرَةُ الرِّيشَةِ",
+       "سِباحَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كُرَةُ القَدَمِ": {
+        "src": "/audio/o/0cd2084cb653d99c.mp3"
+       },
+       "كُرَةُ الرِّيشَةِ": {
+        "src": "/audio/o/0845ae7256029733.mp3"
+       },
+       "سِباحَةٌ": {
+        "src": "/audio/o/bffa800c21a2cc41.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-gambar-kurah-risyah",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🏸"
+      },
+      "answer": "كُرَةُ الرِّيشَةِ",
+      "options": [
+       "كُرَةُ الرِّيشَةِ",
+       "كُرَةُ القَدَمِ",
+       "رَسْمٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كُرَةُ الرِّيشَةِ": {
+        "src": "/audio/o/0845ae7256029733.mp3"
+       },
+       "كُرَةُ القَدَمِ": {
+        "src": "/audio/o/0cd2084cb653d99c.mp3"
+       },
+       "رَسْمٌ": {
+        "src": "/audio/o/8d7b4234af42a0ac.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-dengar-sibahah",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "سِباحَةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/bffa800c21a2cc41.mp3"
+       }
+      },
+      "answer": "berenang",
+      "options": [
+       "berenang",
+       "menggambar",
+       "memasak"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-rasm-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "رَسْمٌ",
+       "audio": {
+        "src": "/audio/o/8d7b4234af42a0ac.mp3"
+       }
+      },
+      "answer": "menggambar",
+      "options": [
+       "menggambar",
+       "memasak",
+       "membaca"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-serapan-majalah",
+      "instruction": "Kata Arab mana yang menjadi kata Indonesia \"majalah\"?",
+      "prompt": {
+       "id": "majalah",
+       "emoji": "📰"
+      },
+      "answer": "مَجَلَّةٌ",
+      "options": [
+       "مَجَلَّةٌ",
+       "قِصَّةٌ",
+       "شِعْرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَجَلَّةٌ": {
+        "src": "/audio/o/497b048c0f25f1e5.mp3"
+       },
+       "قِصَّةٌ": {
+        "src": "/audio/o/949516491c19f3ea.mp3"
+       },
+       "شِعْرٌ": {
+        "src": "/audio/o/4c8f4f75e5cdc0e2.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-waqt-faragh-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "وَقْتُ الفَراغِ",
+       "audio": {
+        "src": "/audio/o/6f92fb63d855afc8.mp3"
+       }
+      },
+      "answer": "waktu luang",
+      "options": [
+       "waktu luang",
+       "waktu makan",
+       "hari libur"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-lawan-kabir",
+      "instruction": "Lawan kata كَبِيرٌ adalah …",
+      "prompt": {
+       "ar": "كَبِيرٌ",
+       "audio": {
+        "src": "/audio/o/baa09bcf592f0c5a.mp3"
+       },
+       "emoji": "🐘"
+      },
+      "answer": "صَغِيرٌ",
+      "options": [
+       "صَغِيرٌ",
+       "جَدِيدٌ",
+       "قَدِيمٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صَغِيرٌ": {
+        "src": "/audio/o/e0f490aaa8f1e871.mp3"
+       },
+       "جَدِيدٌ": {
+        "src": "/audio/o/83d4cacac52f85ff.mp3"
+       },
+       "قَدِيمٌ": {
+        "src": "/audio/o/5d2edc7b02e2ebd9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-sab-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "صَعْبٌ",
+       "audio": {
+        "src": "/audio/o/82115317c5c37b3e.mp3"
+       }
+      },
+      "answer": "sulit",
+      "options": [
+       "sulit",
+       "mudah",
+       "baru"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-dengar-qissah",
+      "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+      "prompt": {
+       "tts": "قِصَّةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/949516491c19f3ea.mp3"
+       }
+      },
+      "answer": "قِصَّةٌ",
+      "options": [
+       "قِصَّةٌ",
+       "قِراءَةٌ",
+       "رِياضَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قِصَّةٌ": {
+        "src": "/audio/o/949516491c19f3ea.mp3"
+       },
+       "قِراءَةٌ": {
+        "src": "/audio/o/b636b649eb7e1eb5.mp3"
+       },
+       "رِياضَةٌ": {
+        "src": "/audio/o/97faccb84c7fdeba.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d4-bukan-olahraga",
+      "instruction": "Mana yang BUKAN olahraga?",
+      "prompt": {
+       "id": "Pilih satu"
+      },
+      "answer": "شِعْرٌ",
+      "options": [
+       "شِعْرٌ",
+       "كُرَةُ الرِّيشَةِ",
+       "بِنْتْشاك سِيلات"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شِعْرٌ": {
+        "src": "/audio/o/4c8f4f75e5cdc0e2.mp3"
+       },
+       "كُرَةُ الرِّيشَةِ": {
+        "src": "/audio/o/0845ae7256029733.mp3"
+       },
+       "بِنْتْشاك سِيلات": {
+        "src": "/audio/o/8756c29e4b957560.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u12-d4-lat-gambar-sibahah",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "🏊"
+     },
+     "answer": "سِباحَةٌ",
+     "options": [
+      "سِباحَةٌ",
+      "طَبْخٌ",
+      "خَطٌّ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سِباحَةٌ": {
+       "src": "/audio/o/bffa800c21a2cc41.mp3"
+      },
+      "طَبْخٌ": {
+       "src": "/audio/o/cd0b5c47520d221f.mp3"
+      },
+      "خَطٌّ": {
+       "src": "/audio/o/29cfce8c91edd5bd.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d4-lat-tabkh-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "طَبْخٌ",
+      "audio": {
+       "src": "/audio/o/cd0b5c47520d221f.mp3"
+      }
+     },
+     "answer": "memasak",
+     "options": [
+      "memasak",
+      "menggambar",
+      "berenang"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d4-lat-lawan-jadid",
+     "instruction": "Lawan kata جَدِيدٌ adalah …",
+     "prompt": {
+      "ar": "جَدِيدٌ",
+      "audio": {
+       "src": "/audio/o/83d4cacac52f85ff.mp3"
+      }
+     },
+     "answer": "قَدِيمٌ",
+     "options": [
+      "قَدِيمٌ",
+      "كَبِيرٌ",
+      "سَهْلٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "قَدِيمٌ": {
+       "src": "/audio/o/5d2edc7b02e2ebd9.mp3"
+      },
+      "كَبِيرٌ": {
+       "src": "/audio/o/baa09bcf592f0c5a.mp3"
+      },
+      "سَهْلٌ": {
+       "src": "/audio/o/8e15dff2bddb56ad.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d4-lat-syir-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "شِعْرٌ",
+      "audio": {
+       "src": "/audio/o/4c8f4f75e5cdc0e2.mp3"
+      }
+     },
+     "answer": "puisi",
+     "options": [
+      "puisi",
+      "cerita",
+      "majalah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d4-lat-dengar-khatt",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "خَطٌّ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/29cfce8c91edd5bd.mp3"
+      }
+     },
+     "answer": "kaligrafi",
+     "options": [
+      "kaligrafi",
+      "olahraga",
+      "nasyid"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u12-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Hobi dan kesukaan"
+      },
+      "groups": [
+       {
+        "title_ar": "ما هِوايَتُكَ؟ · ما هِوايَتُكِ؟ ← هِوايَتِي …",
+        "note_id": "هِوايَةٌ + akhiran: ة berubah menjadi ت. ـكَ untuk kamu (lk), ـكِ untuk kamu (pr), ـهُ dia (lk), ـها dia (pr).",
+        "rows": [
+         {
+          "ar": "ما هِوايَتُكَ؟",
+          "id": "Apa hobimu? (lk)",
+          "audio": {
+           "src": "/audio/o/2579b36fbe6728fd.mp3"
+          }
+         },
+         {
+          "ar": "ما هِوايَتُكِ؟",
+          "id": "Apa hobimu? (pr)",
+          "audio": {
+           "src": "/audio/o/cd191c0a315efd56.mp3"
+          }
+         },
+         {
+          "ar": "هِوايَتِي الرَّسْمُ.",
+          "id": "Hobi saya menggambar.",
+          "audio": {
+           "src": "/audio/o/6c2417069a69612f.mp3"
+          }
+         },
+         {
+          "ar": "هِوايَتُهُ السِّباحَةُ.",
+          "id": "Hobinya (lk) berenang.",
+          "audio": {
+           "src": "/audio/o/bb6de5946efbb716.mp3"
+          }
+         },
+         {
+          "ar": "هِوايَتُها الطَّبْخُ.",
+          "id": "Hobinya (pr) memasak.",
+          "audio": {
+           "src": "/audio/o/7bd860cb8dbc6980.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "أُحِبُّ · تُحِبُّ · تُحِبِّينَ · يُحِبُّ — أَخْتارُ · تَخْتارُ · تَخْتارِينَ · يَخْتارُ",
+        "note_id": "Pola yang sama untuk يُحِبُّ (suka) dan يَخْتارُ (memilih). تُحِبُّ = kamu (lk) suka atau dia (pr) suka; تُحِبِّينَ = kamu (pr) suka.",
+        "rows": [
+         {
+          "ar": "هَلْ تُحِبُّ الرَّسْمَ يا رِزْقِي؟",
+          "id": "Apakah kamu suka menggambar, Rizki?",
+          "audio": {
+           "src": "/audio/o/2cb975ad6a20a80c.mp3"
+          }
+         },
+         {
+          "ar": "هَلْ تُحِبِّينَ الطَّبْخَ يا سِيتِي؟",
+          "id": "Apakah kamu suka memasak, Siti?",
+          "audio": {
+           "src": "/audio/o/b59ae4a210fde4ff.mp3"
+          }
+         },
+         {
+          "ar": "أَيَّ رِياضَةٍ تَخْتارِينَ؟",
+          "id": "Olahraga apa yang kamu (pr) pilih?",
+          "audio": {
+           "src": "/audio/o/3136fc0b53ccb018.mp3"
+          }
+         },
+         {
+          "ar": "يُوسُفُ يَخْتارُ بِنْتْشاك سِيلات.",
+          "id": "Yusuf memilih pencak silat.",
+          "audio": {
+           "src": "/audio/o/a3aa304d50d1c12c.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Ini, itu, dan sifat benda"
+      },
+      "groups": [
+       {
+        "title_ar": "هٰذا · ذٰلِكَ · هٰذِهِ · تِلْكَ",
+        "note_id": "هٰذا/هٰذِهِ = ini (dekat), ذٰلِكَ/تِلْكَ = itu (jauh). ذٰلِكَ untuk benda lk, تِلْكَ untuk benda pr. Sifat ikut jenis bendanya dan ikut akhiran -un.",
+        "rows": [
+         {
+          "ar": "هٰذا كِتابٌ جَدِيدٌ.",
+          "id": "Ini buku baru.",
+          "audio": {
+           "src": "/audio/o/97109639421b67c1.mp3"
+          }
+         },
+         {
+          "ar": "ذٰلِكَ مِضْرَبٌ قَدِيمٌ.",
+          "id": "Itu raket lama.",
+          "audio": {
+           "src": "/audio/o/66d31343de4a856c.mp3"
+          }
+         },
+         {
+          "ar": "هٰذِهِ مَجَلَّةٌ صَغِيرَةٌ.",
+          "id": "Ini majalah kecil.",
+          "audio": {
+           "src": "/audio/o/28703a1b21ed4a93.mp3"
+          }
+         },
+         {
+          "ar": "تِلْكَ كُرَةٌ كَبِيرَةٌ.",
+          "id": "Itu bola besar.",
+          "audio": {
+           "src": "/audio/o/241b1026a25738ed.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "هٰذِهِ المَجَلَّةُ جَدِيدَةٌ",
+        "note_id": "Bila bendanya memakai ال, artinya \"… ini/itu\", dan sifatnya menjadi keterangan.",
+        "rows": [
+         {
+          "ar": "هٰذِهِ المَجَلَّةُ جَدِيدَةٌ.",
+          "id": "Majalah ini baru.",
+          "audio": {
+           "src": "/audio/o/96339bbf72c4afc0.mp3"
+          }
+         },
+         {
+          "ar": "ذٰلِكَ الدَّرْسُ صَعْبٌ.",
+          "id": "Pelajaran itu sulit.",
+          "audio": {
+           "src": "/audio/o/73f9260d4b153a0c.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Belum/tidak …-nya, dan ungkapan kagum"
+      },
+      "groups": [
+       {
+        "title_ar": "ما + فَعَلْتُ + ـهُ / ـها",
+        "note_id": "ما sebelum kata kerja lampau berarti \"tidak/belum\". Akhiran ـهُ (benda lk) atau ـها (benda pr) menggantikan benda yang sudah disebut, seperti تَرَكْتُهُ di Unit 10.",
+        "rows": [
+         {
+          "ar": "هَلْ شاهَدْتَ المُباراةَ؟",
+          "id": "Kamu sudah menonton pertandingan itu? (lk)",
+          "audio": {
+           "src": "/audio/o/846275af9cc0b5b8.mp3"
+          }
+         },
+         {
+          "ar": "لا، ما شاهَدْتُها.",
+          "id": "Belum, aku belum menontonnya.",
+          "audio": {
+           "src": "/audio/o/f2b85cd9aae1e27b.mp3"
+          }
+         },
+         {
+          "ar": "هَلْ قَرَأْتِ هٰذِهِ القِصَّةَ؟",
+          "id": "Kamu sudah membaca cerita ini? (pr)",
+          "audio": {
+           "src": "/audio/o/78ffcb71d8517ba9.mp3"
+          }
+         },
+         {
+          "ar": "لا، ما قَرَأْتُها.",
+          "id": "Belum, aku belum membacanya.",
+          "audio": {
+           "src": "/audio/o/7596e83a4d3a6281.mp3"
+          }
+         },
+         {
+          "ar": "ما لَعِبْتُهُ فِي إِسْطَنْبُول.",
+          "id": "Aku belum pernah memainkannya di Istanbul.",
+          "audio": {
+           "src": "/audio/o/567a47aebc469ee3.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "ما أَجْمَلَهُ! · ما أَجْمَلَها!",
+        "note_id": "Ungkapan kagum yang dihafal saja: \"Indah sekali!\". Bentuknya mirip, tetapi artinya bukan \"tidak\". ـهُ untuk benda lk, ـها untuk benda pr.",
+        "rows": [
+         {
+          "ar": "ما أَجْمَلَ الخَطَّ!",
+          "id": "Indah sekali kaligrafi itu!",
+          "audio": {
+           "src": "/audio/o/626739e19f1573f5.mp3"
+          }
+         },
+         {
+          "ar": "اُنْظُرْ إِلَى هٰذِهِ الصُّورَةِ. ما أَجْمَلَها!",
+          "id": "Lihat foto ini. Indah sekali!",
+          "audio": {
+           "src": "/audio/o/96da1fc591a3d5ba.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d5-tanya-hobi-aisyah",
+      "instruction": "Kamu bertanya hobi kepada Aisyah. Pilih kalimatnya",
+      "prompt": {
+       "id": "Apa hobimu? (pr)",
+       "emoji": "👧"
+      },
+      "answer": "ما هِوايَتُكِ؟",
+      "options": [
+       "ما هِوايَتُكِ؟",
+       "ما هِوايَتُكَ؟",
+       "ما هِوايَتُها؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ما هِوايَتُكِ؟": {
+        "src": "/audio/o/cd191c0a315efd56.mp3"
+       },
+       "ما هِوايَتُكَ؟": {
+        "src": "/audio/o/2579b36fbe6728fd.mp3"
+       },
+       "ما هِوايَتُها؟": {
+        "src": "/audio/o/76511d3750f7c0a0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d5-isi-tuhibbina",
+      "instruction": "Lengkapi kalimat untuk Aisyah",
+      "prompt": {
+       "ar": "هَلْ … كُرَةَ الرِّيشَةِ يا عائِشَةُ؟",
+       "audio": {
+        "src": "/audio/o/99a36aee33ab46a1.mp3"
+       }
+      },
+      "answer": "تُحِبِّينَ",
+      "options": [
+       "تُحِبِّينَ",
+       "تُحِبُّ",
+       "يُحِبُّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تُحِبِّينَ": {
+        "src": "/audio/o/9f8555335950ff8d.mp3"
+       },
+       "تُحِبُّ": {
+        "src": "/audio/o/bd6fad438e829321.mp3"
+       },
+       "يُحِبُّ": {
+        "src": "/audio/o/191bf3b2b4156f21.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d5-isi-yuhibbu",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "بُودِي … كُرَةَ القَدَمِ.",
+       "audio": {
+        "src": "/audio/o/47575981c3e5bb01.mp3"
+       }
+      },
+      "answer": "يُحِبُّ",
+      "options": [
+       "يُحِبُّ",
+       "تُحِبُّ",
+       "تُحِبِّينَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "يُحِبُّ": {
+        "src": "/audio/o/191bf3b2b4156f21.mp3"
+       },
+       "تُحِبُّ": {
+        "src": "/audio/o/bd6fad438e829321.mp3"
+       },
+       "تُحِبِّينَ": {
+        "src": "/audio/o/9f8555335950ff8d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d5-isi-tilka",
+      "instruction": "Lengkapi: \"Itu majalah baru.\"",
+      "prompt": {
+       "ar": "… مَجَلَّةٌ جَدِيدَةٌ.",
+       "audio": {
+        "src": "/audio/o/facec8c00cf8956f.mp3"
+       }
+      },
+      "answer": "تِلْكَ",
+      "options": [
+       "تِلْكَ",
+       "ذٰلِكَ",
+       "هٰذا"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تِلْكَ": {
+        "src": "/audio/o/abd312b64962b7eb.mp3"
+       },
+       "ذٰلِكَ": {
+        "src": "/audio/o/7df36c4a662f1894.mp3"
+       },
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d5-isi-sifat-shaghirah",
+      "instruction": "Lengkapi: \"Ini bola kecil.\"",
+      "prompt": {
+       "ar": "هٰذِهِ كُرَةٌ …",
+       "audio": {
+        "src": "/audio/o/fcd14420613737db.mp3"
+       }
+      },
+      "answer": "صَغِيرَةٌ",
+      "options": [
+       "صَغِيرَةٌ",
+       "صَغِيرٌ",
+       "صَغِيرًا"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صَغِيرَةٌ": {
+        "src": "/audio/o/00a79ccabc0a00db.mp3"
+       },
+       "صَغِيرٌ": {
+        "src": "/audio/o/e0f490aaa8f1e871.mp3"
+       },
+       "صَغِيرًا": {
+        "src": "/audio/o/8786fe339d7fa416.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d5-kagum-rasm",
+      "instruction": "Rizki menunjukkan gambarnya (رَسْمٌ) kepada Budi. Budi berkata …",
+      "prompt": {
+       "id": "Indah sekali!",
+       "emoji": "🎨"
+      },
+      "answer": "ما أَجْمَلَهُ!",
+      "options": [
+       "ما أَجْمَلَهُ!",
+       "ما أَجْمَلَها!",
+       "ما أَجْمَلَكِ!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ما أَجْمَلَهُ!": {
+        "src": "/audio/o/62d7a21c089892f7.mp3"
+       },
+       "ما أَجْمَلَها!": {
+        "src": "/audio/o/8c6ceb5c18ac4a05.mp3"
+       },
+       "ما أَجْمَلَكِ!": {
+        "src": "/audio/o/cf9f9176c629938f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d5-nafi-syahadtuha",
+      "instruction": "Budi bertanya. Kamu belum menonton pertandingan itu. Jawabanmu …",
+      "prompt": {
+       "ar": "هَلْ شاهَدْتَ المُباراةَ؟",
+       "audio": {
+        "src": "/audio/o/846275af9cc0b5b8.mp3"
+       }
+      },
+      "answer": "لا، ما شاهَدْتُها.",
+      "options": [
+       "لا، ما شاهَدْتُها.",
+       "لا، ما شاهَدْتُهُ.",
+       "نَعَمْ، ما شاهَدْتُها."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا، ما شاهَدْتُها.": {
+        "src": "/audio/o/f2b85cd9aae1e27b.mp3"
+       },
+       "لا، ما شاهَدْتُهُ.": {
+        "src": "/audio/o/1ee371be0eae197a.mp3"
+       },
+       "نَعَمْ، ما شاهَدْتُها.": {
+        "src": "/audio/o/3970b8226836945b.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d5-susun-hiwayatuha-tabkh",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Apakah memasak itu hobinya? (pr)"
+      },
+      "answer": "هَلِ الطَّبْخُ هِوايَتُها",
+      "tokens": [
+       "هَلِ",
+       "الطَّبْخُ",
+       "هِوايَتُها",
+       "هِوايَتُهُ"
+      ],
+      "audioMap": {
+       "هَلِ": {
+        "src": "/audio/o/e8c50fb3a1e04754.mp3"
+       },
+       "الطَّبْخُ": {
+        "src": "/audio/o/6a3e4cee19cd83f3.mp3"
+       },
+       "هِوايَتُها": {
+        "src": "/audio/o/97d2353c332ca420.mp3"
+       },
+       "هِوايَتُهُ": {
+        "src": "/audio/o/cef5ef6ffa0b4194.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d5-susun-ayya-riyadah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Olahraga apa yang kamu pilih? (pr)"
+      },
+      "answer": "أَيَّ رِياضَةٍ تَخْتارِينَ",
+      "tokens": [
+       "أَيَّ",
+       "رِياضَةٍ",
+       "تَخْتارِينَ",
+       "تَخْتارُ"
+      ],
+      "audioMap": {
+       "أَيَّ": {
+        "src": "/audio/o/390adc608ab48496.mp3"
+       },
+       "رِياضَةٍ": {
+        "src": "/audio/o/faa432fbdb236d34.mp3"
+       },
+       "تَخْتارِينَ": {
+        "src": "/audio/o/82aee63604df7ea6.mp3"
+       },
+       "تَخْتارُ": {
+        "src": "/audio/o/1056cd81263267a9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d5-susun-dzalika-qadim",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Itu buku lama."
+      },
+      "answer": "ذٰلِكَ كِتابٌ قَدِيمٌ",
+      "tokens": [
+       "ذٰلِكَ",
+       "كِتابٌ",
+       "قَدِيمٌ",
+       "تِلْكَ"
+      ],
+      "audioMap": {
+       "ذٰلِكَ": {
+        "src": "/audio/o/7df36c4a662f1894.mp3"
+       },
+       "كِتابٌ": {
+        "src": "/audio/o/9ab46029409a862b.mp3"
+       },
+       "قَدِيمٌ": {
+        "src": "/audio/o/5d2edc7b02e2ebd9.mp3"
+       },
+       "تِلْكَ": {
+        "src": "/audio/o/abd312b64962b7eb.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d5-susun-majallah-jadidah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Majalah ini baru."
+      },
+      "answer": "هٰذِهِ المَجَلَّةُ جَدِيدَةٌ",
+      "tokens": [
+       "هٰذِهِ",
+       "المَجَلَّةُ",
+       "جَدِيدَةٌ",
+       "جَدِيدٌ"
+      ],
+      "audioMap": {
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       },
+       "المَجَلَّةُ": {
+        "src": "/audio/o/e50d34eada5a0250.mp3"
+       },
+       "جَدِيدَةٌ": {
+        "src": "/audio/o/682c0ce3f70e57cf.mp3"
+       },
+       "جَدِيدٌ": {
+        "src": "/audio/o/83d4cacac52f85ff.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d5-susun-ma-qaratuha",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "(Tentang قِصَّةٌ) Belum, aku belum membacanya."
+      },
+      "answer": "لا، ما قَرَأْتُها",
+      "tokens": [
+       "لا،",
+       "ما",
+       "قَرَأْتُها",
+       "قَرَأْتُهُ"
+      ],
+      "audioMap": {
+       "لا،": {
+        "src": "/audio/o/d7a4b73d4840fda4.mp3"
+       },
+       "ما": {
+        "src": "/audio/o/139f5e1cbdfbddfd.mp3"
+       },
+       "قَرَأْتُها": {
+        "src": "/audio/o/03a79a57b7788c55.mp3"
+       },
+       "قَرَأْتُهُ": {
+        "src": "/audio/o/98091684f2707871.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u12-d5-lat-tanya-hobi-budi",
+     "instruction": "Kamu bertanya hobi kepada Budi. Pilih kalimatnya",
+     "prompt": {
+      "id": "Apa hobimu? (lk)",
+      "emoji": "👦"
+     },
+     "answer": "ما هِوايَتُكَ؟",
+     "options": [
+      "ما هِوايَتُكَ؟",
+      "ما هِوايَتُكِ؟",
+      "ما هِوايَتِي؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ما هِوايَتُكَ؟": {
+       "src": "/audio/o/2579b36fbe6728fd.mp3"
+      },
+      "ما هِوايَتُكِ؟": {
+       "src": "/audio/o/cd191c0a315efd56.mp3"
+      },
+      "ما هِوايَتِي؟": {
+       "src": "/audio/o/b8548788a35b8d3a.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d5-lat-isi-takhtarina",
+     "instruction": "Lengkapi kalimat untuk Siti",
+     "prompt": {
+      "ar": "أَيَّ نادٍ … يا سِيتِي؟",
+      "audio": {
+       "src": "/audio/o/e761330d5185988f.mp3"
+      }
+     },
+     "answer": "تَخْتارِينَ",
+     "options": [
+      "تَخْتارِينَ",
+      "تَخْتارُ",
+      "أَخْتارُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "تَخْتارِينَ": {
+       "src": "/audio/o/82aee63604df7ea6.mp3"
+      },
+      "تَخْتارُ": {
+       "src": "/audio/o/1056cd81263267a9.mp3"
+      },
+      "أَخْتارُ": {
+       "src": "/audio/o/4ef17fa15500222e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d5-lat-isi-dzalika",
+     "instruction": "Lengkapi: \"Itu raket lama.\"",
+     "prompt": {
+      "ar": "… مِضْرَبٌ قَدِيمٌ.",
+      "audio": {
+       "src": "/audio/o/aed14d47ea4d60ce.mp3"
+      }
+     },
+     "answer": "ذٰلِكَ",
+     "options": [
+      "ذٰلِكَ",
+      "تِلْكَ",
+      "هٰذِهِ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ذٰلِكَ": {
+       "src": "/audio/o/7df36c4a662f1894.mp3"
+      },
+      "تِلْكَ": {
+       "src": "/audio/o/abd312b64962b7eb.mp3"
+      },
+      "هٰذِهِ": {
+       "src": "/audio/o/9f0d8c22c49e755d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d5-lat-kagum-shurah",
+     "instruction": "Siti melihat foto (صُورَةٌ) yang indah. Dia berkata …",
+     "prompt": {
+      "id": "Indah sekali!",
+      "emoji": "🖼️"
+     },
+     "answer": "ما أَجْمَلَها!",
+     "options": [
+      "ما أَجْمَلَها!",
+      "ما أَجْمَلَهُ!",
+      "ما أَكْبَرَهُ!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ما أَجْمَلَها!": {
+       "src": "/audio/o/8c6ceb5c18ac4a05.mp3"
+      },
+      "ما أَجْمَلَهُ!": {
+       "src": "/audio/o/62d7a21c089892f7.mp3"
+      },
+      "ما أَكْبَرَهُ!": {
+       "src": "/audio/o/302c7c4a62169583.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u12-d5-lat-susun-hiwayatuhu-sibahah",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Apakah berenang itu hobinya? (lk)"
+     },
+     "answer": "هَلِ السِّباحَةُ هِوايَتُهُ",
+     "tokens": [
+      "هَلِ",
+      "السِّباحَةُ",
+      "هِوايَتُهُ",
+      "هِوايَتُها"
+     ],
+     "audioMap": {
+      "هَلِ": {
+       "src": "/audio/o/e8c50fb3a1e04754.mp3"
+      },
+      "السِّباحَةُ": {
+       "src": "/audio/o/d4cc1c6f187b38b5.mp3"
+      },
+      "هِوايَتُهُ": {
+       "src": "/audio/o/cef5ef6ffa0b4194.mp3"
+      },
+      "هِوايَتُها": {
+       "src": "/audio/o/97d2353c332ca420.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d5-lat-ma-laibtuha-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "ما لَعِبْتُها.",
+      "audio": {
+       "src": "/audio/o/a895a6631902ac6f.mp3"
+      }
+     },
+     "answer": "Aku belum pernah memainkannya.",
+     "options": [
+      "Aku belum pernah memainkannya.",
+      "Aku sudah memainkannya.",
+      "Aku ingin memainkannya."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u12-d6",
+   "dars": 6,
+   "title_id": "Bunyi غ, ج, dan ك, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "غَ",
+        "audio": {
+         "src": "/audio/o/9978fbd85b9a3b71.mp3"
+        },
+        "pair_ar": "جَ"
+       },
+       {
+        "ar": "جَ",
+        "audio": {
+         "src": "/audio/o/328a50e7a7969604.mp3"
+        },
+        "pair_ar": "غَ"
+       },
+       {
+        "ar": "غَ",
+        "audio": {
+         "src": "/audio/o/9978fbd85b9a3b71.mp3"
+        },
+        "pair_ar": "كَ"
+       },
+       {
+        "ar": "كَ",
+        "audio": {
+         "src": "/audio/o/8cc9c2ea635064ab.mp3"
+        },
+        "pair_ar": "غَ"
+       },
+       {
+        "ar": "غارٌ",
+        "audio": {
+         "src": "/audio/o/618a52954a10d5c2.mp3"
+        },
+        "pair_ar": "جارٌ"
+       },
+       {
+        "ar": "جارٌ",
+        "audio": {
+         "src": "/audio/o/88bcd627f7c8b0c8.mp3"
+        },
+        "pair_ar": "غارٌ"
+       },
+       {
+        "ar": "غَدِيرٌ",
+        "audio": {
+         "src": "/audio/o/582f6fc421ad78f8.mp3"
+        },
+        "pair_ar": "جَدِيرٌ"
+       },
+       {
+        "ar": "جَدِيرٌ",
+        "audio": {
+         "src": "/audio/o/8dee5db88ff15e29.mp3"
+        },
+        "pair_ar": "غَدِيرٌ"
+       },
+       {
+        "ar": "غَرْبٌ",
+        "audio": {
+         "src": "/audio/o/288dc4982759e47e.mp3"
+        },
+        "pair_ar": "كَرْبٌ"
+       },
+       {
+        "ar": "كَرْبٌ",
+        "audio": {
+         "src": "/audio/o/6306ad16f8846a78.mp3"
+        },
+        "pair_ar": "غَرْبٌ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi غ dengan ج dan ك"
+      },
+      "note_id": "غ (ghain) diucapkan di pangkal lidah dekat tekak, seperti bunyi berkumur, mirip \"r\" dalam bahasa Prancis. Jangan ucapkan غ sebagai \"g\". ج (jim) seperti \"j\" Indonesia, dan ك (kaf) seperti \"k\" biasa. Artinya bisa berubah: غارٌ = gua, جارٌ = tetangga; غَدِيرٌ = kolam, anak sungai, جَدِيرٌ = layak; غَرْبٌ = barat, كَرْبٌ = kesusahan. Ketuk tiap kotak dan bandingkan."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d6-dengar-ghadir",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "غَدِيرٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/582f6fc421ad78f8.mp3"
+       }
+      },
+      "answer": "غَدِيرٌ",
+      "options": [
+       "غَدِيرٌ",
+       "جَدِيرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غَدِيرٌ": {
+        "src": "/audio/o/582f6fc421ad78f8.mp3"
+       },
+       "جَدِيرٌ": {
+        "src": "/audio/o/8dee5db88ff15e29.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d6-dengar-jar",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "جارٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/88bcd627f7c8b0c8.mp3"
+       }
+      },
+      "answer": "جارٌ",
+      "options": [
+       "جارٌ",
+       "غارٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "جارٌ": {
+        "src": "/audio/o/88bcd627f7c8b0c8.mp3"
+       },
+       "غارٌ": {
+        "src": "/audio/o/618a52954a10d5c2.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d6-dengar-ghar",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "غارٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/618a52954a10d5c2.mp3"
+       }
+      },
+      "answer": "غارٌ",
+      "options": [
+       "غارٌ",
+       "جارٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غارٌ": {
+        "src": "/audio/o/618a52954a10d5c2.mp3"
+       },
+       "جارٌ": {
+        "src": "/audio/o/88bcd627f7c8b0c8.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d6-dengar-gharb",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "غَرْبٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/288dc4982759e47e.mp3"
+       }
+      },
+      "answer": "غَرْبٌ",
+      "options": [
+       "غَرْبٌ",
+       "كَرْبٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غَرْبٌ": {
+        "src": "/audio/o/288dc4982759e47e.mp3"
+       },
+       "كَرْبٌ": {
+        "src": "/audio/o/6306ad16f8846a78.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d6-cari-ghain",
+      "instruction": "Kata mana yang mengandung huruf غ?",
+      "prompt": {
+       "id": "Cari huruf ghain (غ)"
+      },
+      "answer": "الفَراغِ",
+      "options": [
+       "الفَراغِ",
+       "الجَدِيدِ",
+       "الكَبِيرِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "الفَراغِ": {
+        "src": "/audio/o/dc7d72a8e1f2a0ae.mp3"
+       },
+       "الجَدِيدِ": {
+        "src": "/audio/o/a2175513fabc9f84.mp3"
+       },
+       "الكَبِيرِ": {
+        "src": "/audio/o/313827ad4a969e01.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u12-d6-ucap-waqt-faragh",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "وَقْتُ الفَراغِ",
+       "id": "waktu luang",
+       "audio": {
+        "src": "/audio/o/6f92fb63d855afc8.mp3"
+       }
+      },
+      "target": "وَقْتُ الفَراغِ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u12-d6-ucap-ghina",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أُحِبُّ الغِناءَ.",
+       "id": "Saya suka bernyanyi.",
+       "audio": {
+        "src": "/audio/o/232380cf6a48609b.mp3"
+       }
+      },
+      "target": "أُحِبُّ الغِناءَ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d6-simak-hobi-nyanyi",
+      "instruction": "Dengarkan. Apa hobinya?",
+      "prompt": {
+       "tts": "هِوايَتِي الغِناءُ، أَنا فِي نادِي النَّشِيدِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/48df8142c420de2a.mp3"
+       }
+      },
+      "answer": "Bernyanyi",
+      "options": [
+       "Bernyanyi",
+       "Menggambar",
+       "Berenang"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d6-simak-hari-badminton",
+      "instruction": "Dengarkan. Hari apa dia bermain bulu tangkis?",
+      "prompt": {
+       "tts": "أَلْعَبُ كُرَةَ الرِّيشَةِ يَوْمَ السَّبْتِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/c9c1b565594ae9e2.mp3"
+       }
+      },
+      "answer": "Sabtu",
+      "options": [
+       "Sabtu",
+       "Jumat",
+       "Kamis"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d6-simak-waktu-luang",
+      "instruction": "Dengarkan. Apa yang dia lakukan pada waktu luang?",
+      "prompt": {
+       "tts": "فِي وَقْتِ الفَراغِ أُحِبُّ الرَّسْمَ وَقِراءَةَ المَجَلّاتِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/8d38b4fb5faad305.mp3"
+       }
+      },
+      "answer": "Menggambar dan membaca majalah",
+      "options": [
+       "Menggambar dan membaca majalah",
+       "Memasak dan menggambar",
+       "Berenang dan membaca cerita"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u12-d6-lat-dengar-jadir",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "جَدِيرٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/8dee5db88ff15e29.mp3"
+      }
+     },
+     "answer": "جَدِيرٌ",
+     "options": [
+      "جَدِيرٌ",
+      "غَدِيرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "جَدِيرٌ": {
+       "src": "/audio/o/8dee5db88ff15e29.mp3"
+      },
+      "غَدِيرٌ": {
+       "src": "/audio/o/582f6fc421ad78f8.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d6-lat-dengar-ghar2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "غارٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/618a52954a10d5c2.mp3"
+      }
+     },
+     "answer": "غارٌ",
+     "options": [
+      "غارٌ",
+      "جارٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "غارٌ": {
+       "src": "/audio/o/618a52954a10d5c2.mp3"
+      },
+      "جارٌ": {
+       "src": "/audio/o/88bcd627f7c8b0c8.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d6-lat-dengar-karb",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "كَرْبٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/6306ad16f8846a78.mp3"
+      }
+     },
+     "answer": "كَرْبٌ",
+     "options": [
+      "كَرْبٌ",
+      "غَرْبٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كَرْبٌ": {
+       "src": "/audio/o/6306ad16f8846a78.mp3"
+      },
+      "غَرْبٌ": {
+       "src": "/audio/o/288dc4982759e47e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d6-lat-dengar-jar2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "جارٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/88bcd627f7c8b0c8.mp3"
+      }
+     },
+     "answer": "جارٌ",
+     "options": [
+      "جارٌ",
+      "غارٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "جارٌ": {
+       "src": "/audio/o/88bcd627f7c8b0c8.mp3"
+      },
+      "غارٌ": {
+       "src": "/audio/o/618a52954a10d5c2.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d6-lat-simak-khat",
+     "instruction": "Dengarkan. Apa hobinya?",
+     "prompt": {
+      "tts": "هِوايَتِي الخَطُّ، أَكْتُبُ كُلَّ يَوْمٍ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/dfcb85d41786193c.mp3"
+      }
+     },
+     "answer": "Kaligrafi",
+     "options": [
+      "Kaligrafi",
+      "Sepak bola",
+      "Memasak"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u12-d7",
+   "dars": 7,
+   "title_id": "Berbicara tentang hobi",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "هِوايَتِي …",
+        "id": "hobi saya …",
+        "emoji": "⭐",
+        "audio": {
+         "src": "/audio/o/e3db022fbb2bddf9.mp3"
+        }
+       },
+       {
+        "ar": "أُحِبُّ … كَثِيرًا.",
+        "id": "saya sangat suka …",
+        "emoji": "💗",
+        "audio": {
+         "src": "/audio/o/6c6b5a86ae784cc7.mp3"
+        }
+       },
+       {
+        "ar": "لا أُحِبُّ …",
+        "id": "saya tidak suka …",
+        "emoji": "🙅",
+        "audio": {
+         "src": "/audio/o/bb9fa1b438ca44a1.mp3"
+        }
+       },
+       {
+        "ar": "أَخْتارُ …",
+        "id": "saya memilih …",
+        "emoji": "👆",
+        "audio": {
+         "src": "/audio/o/680f032260dd0d66.mp3"
+        }
+       },
+       {
+        "ar": "فِي وَقْتِ الفَراغِ",
+        "id": "pada waktu luang",
+        "emoji": "⏳",
+        "audio": {
+         "src": "/audio/o/ff08c40ccafa24c3.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Menyatakan suka dan tidak suka"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u12-d7-cerita-hobi",
+      "instruction": "Ceritakan hobimu dan kapan kamu melakukannya",
+      "prompt": {
+       "id": "Pakai hobimu sendiri."
+      },
+      "model": [
+       {
+        "ar": "هِوايَتِي القِراءَةُ.",
+        "id": "Hobi saya membaca.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/74288f92621df6dd.mp3"
+        }
+       },
+       {
+        "ar": "أَقْرَأُ القِصَصَ فِي وَقْتِ الفَراغِ.",
+        "id": "Saya membaca cerita pada waktu luang.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/5631ba8bb8f95e78.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u12-d7-ucap-hiwayati-khat",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "هِوايَتِي الخَطُّ.",
+       "id": "Hobi saya kaligrafi.",
+       "audio": {
+        "src": "/audio/o/b1589dea74f0d28f.mp3"
+       }
+      },
+      "target": "هِوايَتِي الخَطُّ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u12-d7-ucap-ma-hiwayatuki",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "ما هِوايَتُكِ؟",
+       "id": "Apa hobimu? (pr)",
+       "audio": {
+        "src": "/audio/o/25745121893479b8.mp3"
+       }
+      },
+      "target": "ما هِوايَتُكِ؟"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d7-jawab-tuhibbina-sibahah",
+      "instruction": "Aisyah bertanya: هَلْ تُحِبِّينَ السِّباحَةَ؟ Kamu (pr) tidak suka berenang. Jawabanmu …",
+      "prompt": {
+       "ar": "هَلْ تُحِبِّينَ السِّباحَةَ؟",
+       "audio": {
+        "src": "/audio/o/bae13e59ebb42d17.mp3"
+       }
+      },
+      "answer": "لا، لا أُحِبُّ السِّباحَةَ.",
+      "options": [
+       "لا، لا أُحِبُّ السِّباحَةَ.",
+       "نَعَمْ، أُحِبُّ السِّباحَةَ.",
+       "لا، هِوايَتِي السِّباحَةُ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا، لا أُحِبُّ السِّباحَةَ.": {
+        "src": "/audio/o/5dd82882ebe3f1cf.mp3"
+       },
+       "نَعَمْ، أُحِبُّ السِّباحَةَ.": {
+        "src": "/audio/o/a38295f261fd7aa0.mp3"
+       },
+       "لا، هِوايَتِي السِّباحَةُ.": {
+        "src": "/audio/o/9d2e8057e6ee917e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d7-situasi-kagum",
+      "instruction": "Temanmu menunjukkan majalah dinding (مَجَلَّةُ الحائِطِ) buatannya. Kamu berkata …",
+      "prompt": {
+       "id": "Memuji hasil karya teman",
+       "emoji": "🧱"
+      },
+      "answer": "ما أَجْمَلَها!",
+      "options": [
+       "ما أَجْمَلَها!",
+       "ما أَجْمَلَهُ!",
+       "لا أُحِبُّها."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ما أَجْمَلَها!": {
+        "src": "/audio/o/8c6ceb5c18ac4a05.mp3"
+       },
+       "ما أَجْمَلَهُ!": {
+        "src": "/audio/o/62d7a21c089892f7.mp3"
+       },
+       "لا أُحِبُّها.": {
+        "src": "/audio/o/9b79e8971a052210.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u12-d7-tanya-hobi-teman-pr",
+      "instruction": "Tanyakan hobi teman perempuanmu, lalu ajak dia bermain",
+      "prompt": {
+       "id": "Ingat: pakai bentuk perempuan (ـكِ, تُحِبِّينَ)."
+      },
+      "model": [
+       {
+        "ar": "ما هِوايَتُكِ؟",
+        "id": "Apa hobimu? (pr)",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/32fe6ce96daaa39c.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ تُحِبِّينَ كُرَةَ الرِّيشَةِ؟",
+        "id": "Apakah kamu suka bulu tangkis? (pr)",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/55a2316365759843.mp3"
+        }
+       },
+       {
+        "ar": "هَيّا نَلْعَبْ بَعْدَ العَصْرِ.",
+        "id": "Ayo kita main sesudah asar.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/3f4c4da5279c7142.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u12-d7-ucap-uhibbu-kurah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أُحِبُّ كُرَةَ القَدَمِ.",
+       "id": "Saya suka sepak bola.",
+       "audio": {
+        "src": "/audio/o/ea14b1ba3323f29d.mp3"
+       }
+      },
+      "target": "أُحِبُّ كُرَةَ القَدَمِ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d7-jawab-ayya-nadin",
+      "instruction": "Ustazah bertanya: أَيَّ نادٍ تَخْتارُ؟ Kamu (lk) ingin masuk klub kaligrafi. Jawabanmu …",
+      "prompt": {
+       "ar": "أَيَّ نادٍ تَخْتارُ؟",
+       "audio": {
+        "src": "/audio/o/758f1301584eb661.mp3"
+       }
+      },
+      "answer": "أَخْتارُ نادِيَ الخَطِّ.",
+      "options": [
+       "أَخْتارُ نادِيَ الخَطِّ.",
+       "أَخْتارُ نادِيَ النَّشِيدِ.",
+       "تَخْتارُ نادِيَ الخَطِّ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَخْتارُ نادِيَ الخَطِّ.": {
+        "src": "/audio/o/17045c5654a384f9.mp3"
+       },
+       "أَخْتارُ نادِيَ النَّشِيدِ.": {
+        "src": "/audio/o/0a5b312c9997c7d3.mp3"
+       },
+       "تَخْتارُ نادِيَ الخَطِّ.": {
+        "src": "/audio/o/5870ba0eb2a6fcd8.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u12-d7-cerita-gambar-yusuf",
+      "instruction": "Lihat gambar dialog 3. Ceritakan apa yang dipilih Yusuf dan Budi",
+      "prompt": {
+       "id": "Pakai يَخْتارُ dan يُحِبُّ."
+      },
+      "model": [
+       {
+        "ar": "يُوسُفُ يَخْتارُ بِنْتْشاك سِيلات.",
+        "id": "Yusuf memilih pencak silat.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/449dbdaf97dd97a1.mp3"
+        }
+       },
+       {
+        "ar": "بُودِي يُحِبُّ الغِناءَ.",
+        "id": "Budi suka bernyanyi.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/7a7ecc72b8c88407.mp3"
+        }
+       }
+      ]
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u12-d7-lat-la-uhibbu-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "لا أُحِبُّ الطَّبْخَ.",
+      "audio": {
+       "src": "/audio/o/c21981276360fc7d.mp3"
+      }
+     },
+     "answer": "Saya tidak suka memasak.",
+     "options": [
+      "Saya tidak suka memasak.",
+      "Saya suka memasak.",
+      "Saya memilih memasak."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d7-lat-jawab-hiwayatuka",
+     "instruction": "Budi bertanya: ما هِوايَتُكَ؟ Hobimu (lk) menggambar. Jawabanmu …",
+     "prompt": {
+      "ar": "ما هِوايَتُكَ؟",
+      "audio": {
+       "src": "/audio/o/2579b36fbe6728fd.mp3"
+      }
+     },
+     "answer": "هِوايَتِي الرَّسْمُ.",
+     "options": [
+      "هِوايَتِي الرَّسْمُ.",
+      "هِوايَتُكَ الرَّسْمُ.",
+      "هِوايَتُها الرَّسْمُ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "هِوايَتِي الرَّسْمُ.": {
+       "src": "/audio/o/6c2417069a69612f.mp3"
+      },
+      "هِوايَتُكَ الرَّسْمُ.": {
+       "src": "/audio/o/b481a86d004764c4.mp3"
+      },
+      "هِوايَتُها الرَّسْمُ.": {
+       "src": "/audio/o/2d84e330a3ffee43.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d7-lat-fi-waqt-faragh",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "فِي وَقْتِ الفَراغِ",
+      "audio": {
+       "src": "/audio/o/ff08c40ccafa24c3.mp3"
+      }
+     },
+     "answer": "pada waktu luang",
+     "options": [
+      "pada waktu luang",
+      "pada hari libur",
+      "pada pagi hari"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u12-d7-lat-susun-la-uhibbu",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya tidak suka berenang."
+     },
+     "answer": "لا أُحِبُّ السِّباحَةَ",
+     "tokens": [
+      "لا",
+      "أُحِبُّ",
+      "السِّباحَةَ",
+      "تُحِبُّ"
+     ],
+     "audioMap": {
+      "لا": {
+       "src": "/audio/o/de6b0a90d4d0c2cb.mp3"
+      },
+      "أُحِبُّ": {
+       "src": "/audio/o/10a5d03903e7b7c3.mp3"
+      },
+      "السِّباحَةَ": {
+       "src": "/audio/o/d9f513cbe11e4183.mp3"
+      },
+      "تُحِبُّ": {
+       "src": "/audio/o/bd6fad438e829321.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u12-d8",
+   "dars": 8,
+   "title_id": "Membaca",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "فِي مَعْهَدِ الهُدَى نَوادٍ كَثِيرَةٌ.",
+        "id": "Di Ma'had al-Huda ada banyak klub.",
+        "emoji": "🏫",
+        "audio": {
+         "src": "/audio/o/5b9dd93a9456b3c3.mp3"
+        }
+       },
+       {
+        "ar": "يَذْهَبُ الطُّلّابُ إِلَى النَّوادِي فِي وَقْتِ الفَراغِ.",
+        "id": "Para pelajar pergi ke klub-klub pada waktu luang.",
+        "audio": {
+         "src": "/audio/o/8be2fb0702efb57c.mp3"
+        }
+       },
+       {
+        "ar": "سِيتِي تَتَعَلَّمُ الخَطَّ النَّسْخِيَّ فِي نادِي الخَطِّ.",
+        "id": "Siti belajar khat naskhi di klub kaligrafi.",
+        "emoji": "🖋️",
+        "audio": {
+         "src": "/audio/o/f77201bb4dcb9ffb.mp3"
+        }
+       },
+       {
+        "ar": "بُودِي يُغَنِّي فِي نادِي النَّشِيدِ.",
+        "id": "Budi bernyanyi di klub nasyid.",
+        "emoji": "🎤",
+        "audio": {
+         "src": "/audio/o/79a972224da30b6e.mp3"
+        }
+       },
+       {
+        "ar": "يُوسُفُ يَتَعَلَّمُ بِنْتْشاك سِيلات يَوْمَ الخَمِيسِ.",
+        "id": "Yusuf belajar pencak silat pada hari Kamis.",
+        "emoji": "🥋",
+        "audio": {
+         "src": "/audio/o/e73a74f5097fede3.mp3"
+        }
+       },
+       {
+        "ar": "رِزْقِي يَكْتُبُ قِصَّةً جَدِيدَةً لِمَجَلَّةِ الحائِطِ.",
+        "id": "Rizki menulis cerita baru untuk majalah dinding.",
+        "emoji": "🧱",
+        "audio": {
+         "src": "/audio/o/64a0a2dec1a76695.mp3"
+        }
+       },
+       {
+        "ar": "عائِشَةُ تَلْعَبُ كُرَةَ الرِّيشَةِ بَعْدَ العَصْرِ.",
+        "id": "Aisyah bermain bulu tangkis sesudah asar.",
+        "emoji": "🏸",
+        "audio": {
+         "src": "/audio/o/e508de76c1ba8874.mp3"
+        }
+       },
+       {
+        "ar": "ما أَجْمَلَ وَقْتَ الفَراغِ فِي المَعْهَدِ!",
+        "id": "Indah sekali waktu luang di ma'had!",
+        "audio": {
+         "src": "/audio/o/3ebab4204ecedb96.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Klub-klub ma'had"
+      },
+      "imgs": [
+       "/img/o/u12-baca-klub.webp"
+      ],
+      "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+      "note_id": "Kata baru: الطُّلّابُ = para pelajar; يُغَنِّي = bernyanyi (dia lk)."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d8-baca-siti-khat",
+      "instruction": "Benar atau salah? \"Siti belajar khat naskhi.\"",
+      "prompt": {
+       "ar": "سِيتِي تَتَعَلَّمُ الخَطَّ النَّسْخِيَّ.",
+       "audio": {
+        "src": "/audio/o/708e5bcfdcf17350.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d8-baca-budi-silat",
+      "instruction": "Benar atau salah? \"Budi belajar pencak silat.\"",
+      "prompt": {
+       "ar": "بُودِي يَتَعَلَّمُ بِنْتْشاك سِيلات.",
+       "audio": {
+        "src": "/audio/o/edb7aaa785138155.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d8-baca-rizki-tulis",
+      "instruction": "Apa yang ditulis Rizki?",
+      "prompt": {
+       "id": "Menurut bacaan 1",
+       "emoji": "📝"
+      },
+      "answer": "Cerita baru untuk majalah dinding",
+      "options": [
+       "Cerita baru untuk majalah dinding",
+       "Puisi untuk majalah dinding",
+       "Cerita baru untuk Ustazah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d8-baca-kapan-aisyah",
+      "instruction": "Kapan Aisyah bermain bulu tangkis?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "Sesudah asar",
+      "options": [
+       "Sesudah asar",
+       "Pada hari Kamis",
+       "Sesudah subuh"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d8-baca-yughanni-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "بُودِي يُغَنِّي فِي نادِي النَّشِيدِ.",
+       "audio": {
+        "src": "/audio/o/79a972224da30b6e.mp3"
+       }
+      },
+      "answer": "Budi bernyanyi di klub nasyid.",
+      "options": [
+       "Budi bernyanyi di klub nasyid.",
+       "Budi menulis di klub nasyid.",
+       "Budi bermain di klub silat."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "الِاسْمُ: يُوسُفُ",
+        "id": "Nama: Yusuf",
+        "emoji": "🪪",
+        "audio": {
+         "src": "/audio/o/2748d73785dda911.mp3"
+        }
+       },
+       {
+        "ar": "المَدِينَةُ: إِسْطَنْبُول",
+        "id": "Kota: Istanbul",
+        "emoji": "🏙️",
+        "audio": {
+         "src": "/audio/o/7bf48922a26e2410.mp3"
+        }
+       },
+       {
+        "ar": "الهِوايَةُ: الرِّياضَةُ",
+        "id": "Hobi: olahraga",
+        "emoji": "🏃",
+        "audio": {
+         "src": "/audio/o/6606102c9bfd2794.mp3"
+        }
+       },
+       {
+        "ar": "النّادِي: بِنْتْشاك سِيلات",
+        "id": "Klub: pencak silat",
+        "emoji": "🥋",
+        "audio": {
+         "src": "/audio/o/831e668b2632ee9e.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمُ التَّدْرِيبِ: الخَمِيسُ",
+        "id": "Hari latihan: Kamis",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/159da952cf8f701e.mp3"
+        }
+       },
+       {
+        "ar": "وَقْتُ التَّدْرِيبِ: السّاعَةُ الرّابِعَةُ",
+        "id": "Waktu latihan: jam empat",
+        "emoji": "🕓",
+        "audio": {
+         "src": "/audio/o/20bed069781a6e8e.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Formulir pendaftaran klub"
+      },
+      "imgs": [
+       "/img/o/u12-baca-formulir.webp"
+      ],
+      "title_ar": "اِسْتِمارَةُ التَّسْجِيلِ فِي النّادِي",
+      "instruction_id": "Ini formulir yang diisi Yusuf. اِسْتِمارَةٌ = formulir, تَسْجِيلٌ = pendaftaran."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d8-form-kota",
+      "instruction": "Yusuf dari kota mana?",
+      "prompt": {
+       "id": "Menurut formulir"
+      },
+      "answer": "Istanbul",
+      "options": [
+       "Istanbul",
+       "Yogyakarta",
+       "Kairo"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d8-form-klub",
+      "instruction": "Klub apa yang dipilih Yusuf?",
+      "prompt": {
+       "id": "Menurut formulir",
+       "emoji": "🥋"
+      },
+      "answer": "Pencak silat",
+      "options": [
+       "Pencak silat",
+       "Nasyid",
+       "Kaligrafi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d8-form-hobi-qiraah",
+      "instruction": "Benar atau salah? \"Hobi Yusuf membaca.\"",
+      "prompt": {
+       "ar": "هِوايَةُ يُوسُفَ القِراءَةُ.",
+       "audio": {
+        "src": "/audio/o/f06e81118cbbfc8d.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d8-form-jam",
+      "instruction": "Jam berapa latihannya?",
+      "prompt": {
+       "id": "Menurut formulir",
+       "emoji": "🕓"
+      },
+      "answer": "Jam empat",
+      "options": [
+       "Jam empat",
+       "Jam tiga",
+       "Jam lima"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u12-d8-lat-baca-nawadi",
+     "instruction": "Benar atau salah? \"Di ma'had ada banyak klub.\"",
+     "prompt": {
+      "ar": "فِي المَعْهَدِ نَوادٍ كَثِيرَةٌ.",
+      "audio": {
+       "src": "/audio/o/47c3867d0e3c7371.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d8-lat-baca-aisyah-kurah",
+     "instruction": "Benar atau salah? \"Aisyah bermain sepak bola.\"",
+     "prompt": {
+      "ar": "عائِشَةُ تَلْعَبُ كُرَةَ القَدَمِ.",
+      "audio": {
+       "src": "/audio/o/a82166bf949d8959.mp3"
+      }
+     },
+     "answer": "Salah",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d8-lat-baca-yusuf-hari",
+     "instruction": "Hari apa Yusuf belajar pencak silat?",
+     "prompt": {
+      "id": "Menurut bacaan"
+     },
+     "answer": "Kamis",
+     "options": [
+      "Kamis",
+      "Jumat",
+      "Sabtu"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d8-lat-istimarah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "اِسْتِمارَةٌ",
+      "audio": {
+       "src": "/audio/o/8c4c466cae5efcfb.mp3"
+      }
+     },
+     "answer": "formulir",
+     "options": [
+      "formulir",
+      "latihan",
+      "klub"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u12-d8-lat-baca-tullab-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "يَذْهَبُ الطُّلّابُ إِلَى النَّوادِي.",
+      "audio": {
+       "src": "/audio/o/468632e2da673d52.mp3"
+      }
+     },
+     "answer": "Para pelajar pergi ke klub-klub.",
+     "options": [
+      "Para pelajar pergi ke klub-klub.",
+      "Para guru pergi ke klub-klub.",
+      "Para pelajar pergi ke perpustakaan."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u12-d9",
+   "dars": 9,
+   "title_id": "Menulis paragraf hobi",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "غِناءٌ",
+        "id": "bernyanyi",
+        "audio": {
+         "src": "/audio/o/e92e353a66f0f28c.mp3"
+        }
+       },
+       {
+        "ar": "فَراغٌ",
+        "id": "kosong, luang",
+        "audio": {
+         "src": "/audio/o/d3ec79163a4fe717.mp3"
+        }
+       },
+       {
+        "ar": "غُرْفَةٌ",
+        "id": "kamar",
+        "audio": {
+         "src": "/audio/o/19bd10c01bde13a7.mp3"
+        }
+       },
+       {
+        "ar": "المَغْرِبُ",
+        "id": "magrib",
+        "audio": {
+         "src": "/audio/o/f37421d5d18eb049.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata dengan غ"
+      },
+      "instruction_id": "Telusuri kata-kata ini. Perhatikan titik di atas غ; tanpa titik hurufnya ع."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d9-tulis-faragh",
+      "instruction": "Mana tulisan \"waktu luang\" yang benar?",
+      "prompt": {
+       "id": "waktu luang",
+       "emoji": "⏳"
+      },
+      "answer": "وَقْتُ الفَراغِ",
+      "options": [
+       "وَقْتُ الفَراغِ",
+       "وَقْتُ الفَراجِ",
+       "وَقْتُ الفَراعِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "وَقْتُ الفَراغِ": {
+        "src": "/audio/o/6f92fb63d855afc8.mp3"
+       },
+       "وَقْتُ الفَراجِ": {
+        "src": "/audio/o/7ead5d23131278af.mp3"
+       },
+       "وَقْتُ الفَراعِ": {
+        "src": "/audio/o/6497d2314aca2a07.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d9-tulis-hiwayah",
+      "instruction": "Mana tulisan \"hobi\" yang benar?",
+      "prompt": {
+       "id": "hobi",
+       "emoji": "⭐"
+      },
+      "answer": "هِوايَةٌ",
+      "options": [
+       "هِوايَةٌ",
+       "هِوايَتٌ",
+       "حِوايَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هِوايَةٌ": {
+        "src": "/audio/o/f6e1176a472a6538.mp3"
+       },
+       "هِوايَتٌ": {
+        "src": "/audio/o/c0d858bf627c4a12.mp3"
+       },
+       "حِوايَةٌ": {
+        "src": "/audio/o/e210f1075e03d85c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d9-eja-ghina",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "غِناءٌ (bernyanyi)"
+      },
+      "answer": "غ ن ا ء",
+      "tokens": [
+       "غ",
+       "ن",
+       "ا",
+       "ء",
+       "ج"
+      ],
+      "audioMap": {
+       "غ": {
+        "src": "/audio/o/3cdd5eebff7806a0.mp3"
+       },
+       "ن": {
+        "src": "/audio/o/ce5720365c20c36e.mp3"
+       },
+       "ا": {
+        "src": "/audio/o/4fc340bfb295d42f.mp3"
+       },
+       "ء": {
+        "src": "/audio/o/52e9982f7d450c2b.mp3"
+       },
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "اِسْمِي سِيتِي.",
+        "id": "Nama saya Siti.",
+        "audio": {
+         "src": "/audio/o/9772a3aa7b71ecda.mp3"
+        }
+       },
+       {
+        "ar": "هِوايَتِي الخَطُّ العَرَبِيُّ.",
+        "id": "Hobi saya kaligrafi Arab.",
+        "audio": {
+         "src": "/audio/o/6e40a71eb841c4fe.mp3"
+        }
+       },
+       {
+        "ar": "أَكْتُبُ فِي وَقْتِ الفَراغِ كُلَّ يَوْمٍ.",
+        "id": "Saya menulis pada waktu luang setiap hari.",
+        "audio": {
+         "src": "/audio/o/f5d657409ecff12e.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Paragraf tentang hobi"
+      },
+      "instruction_id": "Contoh paragraf tiga kalimat: nama, hobi, dan kapan melakukannya. Salin lengkap dengan harakatnya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d9-kalimat-hiwayati-kurah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Nama saya Budi, dan hobi saya sepak bola."
+      },
+      "answer": "اِسْمِي بُودِي وَهِوايَتِي كُرَةُ القَدَمِ",
+      "tokens": [
+       "اِسْمِي",
+       "بُودِي",
+       "وَهِوايَتِي",
+       "كُرَةُ",
+       "القَدَمِ",
+       "هِوايَتُكَ"
+      ],
+      "audioMap": {
+       "اِسْمِي": {
+        "src": "/audio/o/c20c1541a98f10a8.mp3"
+       },
+       "بُودِي": {
+        "src": "/audio/o/3901a2ba60debb4a.mp3"
+       },
+       "وَهِوايَتِي": {
+        "src": "/audio/o/260bb5a2650988b0.mp3"
+       },
+       "كُرَةُ": {
+        "src": "/audio/o/ec389ddda731936e.mp3"
+       },
+       "القَدَمِ": {
+        "src": "/audio/o/9401fea082215af6.mp3"
+       },
+       "هِوايَتُكَ": {
+        "src": "/audio/o/4a60481533d79223.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d9-kalimat-alab-badal-asr",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya bermain bulu tangkis."
+      },
+      "answer": "أَلْعَبُ كُرَةَ الرِّيشَةِ",
+      "tokens": [
+       "أَلْعَبُ",
+       "كُرَةَ",
+       "الرِّيشَةِ",
+       "يَلْعَبُ"
+      ],
+      "audioMap": {
+       "أَلْعَبُ": {
+        "src": "/audio/o/4a3c1fb357a80306.mp3"
+       },
+       "كُرَةَ": {
+        "src": "/audio/o/1e7fedf12c688bb4.mp3"
+       },
+       "الرِّيشَةِ": {
+        "src": "/audio/o/284b871ff6536e6f.mp3"
+       },
+       "يَلْعَبُ": {
+        "src": "/audio/o/1b9ac79588aa9817.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u12-d9-kalimat-aqra-qisas",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya membaca cerita-cerita."
+      },
+      "answer": "أَقْرَأُ القِصَصَ",
+      "tokens": [
+       "أَقْرَأُ",
+       "القِصَصَ",
+       "قِصَّةٌ"
+      ],
+      "audioMap": {
+       "أَقْرَأُ": {
+        "src": "/audio/o/5215fcb1958750e0.mp3"
+       },
+       "القِصَصَ": {
+        "src": "/audio/o/c2bb27c3510f5988.mp3"
+       },
+       "قِصَّةٌ": {
+        "src": "/audio/o/949516491c19f3ea.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d9-kalimat-ketiga",
+      "instruction": "Paragraf Budi: اِسْمِي بُودِي. هِوايَتِي كُرَةُ القَدَمِ. Kalimat ketiga yang paling cocok adalah …",
+      "prompt": {
+       "id": "Pilih kalimat penutup"
+      },
+      "answer": "أَلْعَبُها يَوْمَ الجُمُعَةِ.",
+      "options": [
+       "أَلْعَبُها يَوْمَ الجُمُعَةِ.",
+       "هِوايَتِي الخَطُّ.",
+       "لا أُحِبُّ الرِّياضَةَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَلْعَبُها يَوْمَ الجُمُعَةِ.": {
+        "src": "/audio/o/edb99e8dfd0d2279.mp3"
+       },
+       "هِوايَتِي الخَطُّ.": {
+        "src": "/audio/o/fa30547f7f74e0b2.mp3"
+       },
+       "لا أُحِبُّ الرِّياضَةَ.": {
+        "src": "/audio/o/b1e4d2aafd6bdf27.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u12-d9-isi-hiwayatuha",
+      "instruction": "Lengkapi tulisan tentang Aisyah",
+      "prompt": {
+       "ar": "عائِشَةُ مِنْ مالِيزِيا. … كُرَةُ الرِّيشَةِ.",
+       "audio": {
+        "src": "/audio/o/136c95b1f237e9f2.mp3"
+       }
+      },
+      "answer": "هِوايَتُها",
+      "options": [
+       "هِوايَتُها",
+       "هِوايَتُهُ",
+       "هِوايَتِي"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هِوايَتُها": {
+        "src": "/audio/o/97d2353c332ca420.mp3"
+       },
+       "هِوايَتُهُ": {
+        "src": "/audio/o/cef5ef6ffa0b4194.mp3"
+       },
+       "هِوايَتِي": {
+        "src": "/audio/o/12afdaaaf4237e36.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u12-d9-lat-tulis-ghina",
+     "instruction": "Mana tulisan \"bernyanyi\" yang benar?",
+     "prompt": {
+      "id": "bernyanyi",
+      "emoji": "🎶"
+     },
+     "answer": "غِناءٌ",
+     "options": [
+      "غِناءٌ",
+      "عِناءٌ",
+      "جِناءٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "غِناءٌ": {
+       "src": "/audio/o/e92e353a66f0f28c.mp3"
+      },
+      "عِناءٌ": {
+       "src": "/audio/o/d6c70d90911accd9.mp3"
+      },
+      "جِناءٌ": {
+       "src": "/audio/o/70c27d2b91cfc8d4.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u12-d9-lat-eja-faragh",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "فَراغٌ (luang)"
+     },
+     "answer": "ف ر ا غ",
+     "tokens": [
+      "ف",
+      "ر",
+      "ا",
+      "غ",
+      "ع"
+     ],
+     "audioMap": {
+      "ف": {
+       "src": "/audio/o/da15928288f0c438.mp3"
+      },
+      "ر": {
+       "src": "/audio/o/097dcac864b3884d.mp3"
+      },
+      "ا": {
+       "src": "/audio/o/4fc340bfb295d42f.mp3"
+      },
+      "غ": {
+       "src": "/audio/o/3cdd5eebff7806a0.mp3"
+      },
+      "ع": {
+       "src": "/audio/o/3bd72853336f59da.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u12-d9-lat-kalimat-hiwayati-rasm",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Nama saya Ayu, dan hobi saya menggambar."
+     },
+     "answer": "اِسْمِي أَيُو وَهِوايَتِي الرَّسْمُ",
+     "tokens": [
+      "اِسْمِي",
+      "أَيُو",
+      "وَهِوايَتِي",
+      "الرَّسْمُ",
+      "هِوايَتُها"
+     ],
+     "audioMap": {
+      "اِسْمِي": {
+       "src": "/audio/o/c20c1541a98f10a8.mp3"
+      },
+      "أَيُو": {
+       "src": "/audio/o/f2b7934c7041d65e.mp3"
+      },
+      "وَهِوايَتِي": {
+       "src": "/audio/o/260bb5a2650988b0.mp3"
+      },
+      "الرَّسْمُ": {
+       "src": "/audio/o/c11128dd1ff013e8.mp3"
+      },
+      "هِوايَتُها": {
+       "src": "/audio/o/97d2353c332ca420.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u12-d9-lat-kalimat-atalammu-silat",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya belajar pencak silat."
+     },
+     "answer": "أَتَعَلَّمُ بِنْتْشاك سِيلات",
+     "tokens": [
+      "أَتَعَلَّمُ",
+      "بِنْتْشاك",
+      "سِيلات",
+      "يَتَعَلَّمُ"
+     ],
+     "audioMap": {
+      "أَتَعَلَّمُ": {
+       "src": "/audio/o/976666222d98d84c.mp3"
+      },
+      "بِنْتْشاك": {
+       "src": "/audio/o/0ad8077c35e37d4e.mp3"
+      },
+      "سِيلات": {
+       "src": "/audio/o/18a80ff1c2be9f46.mp3"
+      },
+      "يَتَعَلَّمُ": {
+       "src": "/audio/o/e563ea844713d532.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+.DS_Store
+# Buku & audio sumber (hak cipta penerbit, 2,2 GB)
+books/
+# Render halaman scan (dibuat ulang dengan pdftoppm)
+content-src/pages/
+__pycache__/
+content-src/pages-hi/
+
+# Ilustrasi mentah (hasil Codex); yang dipakai aplikasi ada di web/public/img/o
+content-src/ilustrasi/png/
+
+# Materi ABY (hak cipta penerbit): hanya rujukan lokal, tidak di-commit (komitmen kepada Arabic For All)
+web/private-audio/
+web/private-images/
+web/src/content/unit-1.json
+content-src/pages-json/
+content-src/image-map/
+content-src/image-boxes.json
+content-src/whisper/
+
+# Berkas sementara alat
+.claude/scheduled_tasks.lock

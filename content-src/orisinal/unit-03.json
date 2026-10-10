@@ -1,0 +1,480 @@
+{
+  "unit": 3,
+  "book": "1a",
+  "title_ar": "السَّكَنُ",
+  "title_id": "Tempat tinggal",
+  "notes": "Dialog 1: Rizki mengunjungi kamar kos baru Budi di rumah Bu Sri (Bu Sri tidak bersuara; muncul di bacaan). Dialog 2: Siti menunjukkan foto rumahnya di Medan kepada Aisyah. Dialog 3: Rizki meminta jadwal piket asrama kepada Ustazah Zainab. Pola: ماذا تُرِيدُ/تُرِيدِينَ؟ ← أُرِيدُ + manshub; كَمْ + tamyiz manshub (hanya benda mudzakkar supaya jawabannya bentuk hitung yang sudah dikenal); فِي أَيِّ + majrur; عِنْدِي/عِنْدَكَ/عِنْدَكِ; مِنْ فَضْلِكَ/كِ، تَفَضَّلْ/تَفَضَّلِي، شُكْرًا، عَفْوًا. Nama hari ★. Bunyi خ/ك/هـ + latihan tambahan ف/ب. Menulis ج ح خ. Cek kemiripan ABY (tanggal 2026-10-04): halaman ABY 1/3 (hlm. PDF 78–85) dibandingkan secara visual. Situasi ABY (tinggal di rumah/apartemen dan nomornya, menyewa apartemen, membeli perabot) berbeda dari dialog kita (kos Budi, foto rumah Siti, jadwal piket). Yang sama hanya ungkapan baku dan pola sasaran (أُرِيدُ…، كَمْ…؟، فِي أَيِّ…؟، تَفَضَّلْ، مِنْ فَضْلِكَ), tidak ada kalimat berurutan yang identik; tidak ada bagian yang perlu ditulis ulang. Revisi 2026-10-04 (arrange satu urutan): susun-maan-fadlika → عِنْدِي ماءٌ وَشايٌ; lat-susun-urid-ghurfah → أُرِيدُ ماءً وَشايًا (مِنْ فَضْلِكَ/كِ bisa di depan); susun-naubatuka → هٰذِهِ نَوْبَتُكَ (يَوْمَ الخَمِيسِ bisa di depan).",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Kamar kos Budi",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Budi pindah dari asrama ke kamar kos di rumah Bu Sri, dekat ma'had. Rizki datang berkunjung.",
+          "rows": [
+            { "who": "rizki", "ar": "السَّلامُ عَلَيْكُمْ يا بُودِي!", "id": "Assalamualaikum, Budi!" },
+            { "who": "budi", "ar": "وَعَلَيْكُمُ السَّلامُ. تَفَضَّلْ!", "id": "Waalaikumussalam. Silakan masuk! (lk)" },
+            { "who": "rizki", "ar": "هَلْ هٰذِهِ غُرْفَتُكَ؟", "id": "Apakah ini kamarmu? (lk)" },
+            { "who": "budi", "ar": "نَعَمْ، رَقْمُها سَبْعَةٌ.", "id": "Ya, nomornya tujuh." },
+            { "who": "rizki", "ar": "وَأَيْنَ الحَمّامُ؟", "id": "Kamar mandinya di mana?" },
+            { "who": "budi", "ar": "الحَمّامُ وَالمَطْبَخُ هُناكَ.", "id": "Kamar mandi dan dapurnya di sana." },
+            { "who": "budi", "ar": "ماذا تُرِيدُ؟ عِنْدِي ماءٌ وَشايٌ.", "id": "Kamu mau apa? (lk) Saya punya air dan teh." },
+            { "who": "rizki", "ar": "ماءً، مِنْ فَضْلِكَ.", "id": "Air saja, tolong. (kepada lk)" },
+            { "who": "budi", "ar": "تَفَضَّلْ.", "id": "Silakan. (lk)" }
+          ],
+          "img": "u3-kos-budi",
+          "scene": "Budi welcoming Rizki at the door of his small rented room in a modest Yogyakarta boarding house, a single bed and a desk inside; Budi offers Rizki a glass of water."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "تَفَضَّلْ", "id": "silakan (kepada lk)", "emoji": "🤲" },
+            { "ar": "غُرْفَةٌ", "id": "kamar", "emoji": "🛋️" },
+            { "ar": "رَقْمٌ", "id": "nomor", "emoji": "🔢" },
+            { "ar": "حَمّامٌ", "id": "kamar mandi", "emoji": "🚿" },
+            { "ar": "مَطْبَخٌ", "id": "dapur", "emoji": "🍳" },
+            { "ar": "هُناكَ", "id": "di sana", "emoji": "👉" },
+            { "ar": "ماذا تُرِيدُ؟", "id": "kamu mau apa? (lk)", "emoji": "❓" },
+            { "ar": "عِنْدِي", "id": "saya punya", "emoji": "🙋" },
+            { "ar": "ماءٌ", "id": "air", "emoji": "💧" },
+            { "ar": "شايٌ", "id": "teh", "emoji": "🍵" },
+            { "ar": "مِنْ فَضْلِكَ", "id": "tolong (kepada lk)", "emoji": "🙏" }
+          ]
+        },
+        { "q": "choice", "k": "tafaddal-arti", "instruction": "Apa artinya?", "prompt": { "ar": "تَفَضَّلْ!" }, "answer": "Silakan! (lk)", "options": ["Silakan! (lk)", "Terima kasih!", "Tolong! (lk)"], "lang": "id" },
+        { "q": "choice", "k": "dengar-madza-turid", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "ماذا تُرِيدُ؟" }, "answer": "Kamu mau apa? (lk)", "options": ["Kamu mau apa? (lk)", "Apakah ini kamarmu? (lk)", "Kamar mandinya di mana?"], "lang": "id" },
+        { "q": "choice", "k": "balas-madza-turid", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "ماذا تُرِيدُ؟" }, "answer": "ماءً، مِنْ فَضْلِكَ.", "options": ["ماءً، مِنْ فَضْلِكَ.", "وَعَلَيْكُمُ السَّلامُ.", "الحَمّامُ هُناكَ."], "lang": "ar" },
+        { "q": "choice", "k": "kamar-budi-nomor", "instruction": "Menurut dialog, nomor kamar Budi berapa?", "prompt": { "ar": "رَقْمُ غُرْفَةِ بُودِي …", "emoji": "🚪" }, "answer": "7", "options": ["7", "8", "5"], "lang": "id" },
+        { "q": "choice", "k": "gambar-hammam", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🚿" }, "answer": "حَمّامٌ", "options": ["حَمّامٌ", "مَطْبَخٌ", "غُرْفَةٌ"], "lang": "ar" },
+        { "q": "arrange", "k": "susun-hal-ghurfatuka", "prompt": { "id": "Apakah ini kamarmu? (lk)" }, "answer": "هَلْ هٰذِهِ غُرْفَتُكَ", "extra": ["غُرْفَتُكِ"] },
+        { "q": "arrange", "k": "susun-maan-fadlika", "prompt": { "id": "Saya punya air dan teh." }, "answer": "عِنْدِي ماءٌ وَشايٌ", "extra": ["تُرِيدُ"] },
+        { "q": "choice", "k": "hunaka-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هُناكَ" }, "answer": "di sana", "options": ["di sana", "di mana", "saya punya"], "lang": "id" },
+        { "q": "repeat", "k": "ucap-tafaddal", "who": "budi", "ar": "تَفَضَّلْ!", "id": "Silakan! (lk)" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-indi-arti", "instruction": "Apa artinya?", "prompt": { "ar": "عِنْدِي ماءٌ وَشايٌ." }, "answer": "Saya punya air dan teh.", "options": ["Saya punya air dan teh.", "Saya mau air dan teh.", "Kamu punya air dan teh? (lk)"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-aina-hammam", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "أَيْنَ الحَمّامُ؟" }, "answer": "أَيْنَ الحَمّامُ؟", "options": ["أَيْنَ الحَمّامُ؟", "أَيْنَ المَطْبَخُ؟", "أَيْنَ الغُرْفَةُ؟"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-indi-maa", "prompt": { "id": "Saya punya air." }, "answer": "عِنْدِي ماءٌ", "extra": ["تُرِيدُ"] },
+        { "q": "choice", "k": "lat-matbakh-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مَطْبَخٌ" }, "answer": "dapur", "options": ["dapur", "kamar mandi", "kamar"], "lang": "id" },
+        { "q": "choice", "k": "lat-hunaka-apa", "instruction": "Menurut dialog, apa yang ada \"di sana\" (هُناكَ)?", "prompt": { "ar": "… هُناكَ." }, "answer": "Kamar mandi dan dapur", "options": ["Kamar mandi dan dapur", "Kamar Budi", "Air dan teh"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Rumah Siti di Medan",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Sore hari di kamar asrama putri. Siti menunjukkan foto di ponselnya kepada Aisyah.",
+          "rows": [
+            { "who": "aisyah", "ar": "ما هٰذا يا سِيتِي؟", "id": "Ini apa, Siti?" },
+            { "who": "siti", "ar": "هٰذِهِ صُورَةُ بَيْتِي فِي مِيدان.", "id": "Ini foto rumah saya di Medan." },
+            { "who": "aisyah", "ar": "ما شاءَ اللّٰهُ! بَيْتٌ جَمِيلٌ.", "id": "Masyaallah! Rumahnya bagus." },
+            { "who": "siti", "ar": "شُكْرًا. هٰذِهِ غُرْفَتِي، وَهُنا المَطْبَخُ.", "id": "Terima kasih. Ini kamar saya, dan di sini dapurnya." },
+            { "who": "aisyah", "ar": "كَمْ حَمّامًا فِي البَيْتِ؟", "id": "Ada berapa kamar mandi di rumah itu?" },
+            { "who": "siti", "ar": "واحِدٌ فَقَطْ.", "id": "Satu saja." },
+            { "who": "aisyah", "ar": "وَمَنْ هٰذِهِ فِي المَطْبَخِ؟", "id": "Lalu siapa ini yang di dapur?" },
+            { "who": "siti", "ar": "هٰذِهِ أُمِّي.", "id": "Ini ibu saya." }
+          ],
+          "img": "u3-rumah-siti",
+          "scene": "Siti showing Aisyah a photo on her phone in their female dormitory room; a small thought-bubble style inset shows a simple one-storey house in Medan with a kitchen where Siti's mother is cooking."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "بَيْتِي", "id": "rumah saya", "emoji": "🏠" },
+            { "ar": "غُرْفَتِي", "id": "kamar saya", "emoji": "🛋️" },
+            { "ar": "هُنا", "id": "di sini", "emoji": "👇" },
+            { "ar": "جَمِيلٌ", "id": "indah, bagus", "emoji": "✨" },
+            { "ar": "كَمْ …؟", "id": "berapa …?", "emoji": "🔢" },
+            { "ar": "فَقَطْ", "id": "saja, hanya", "emoji": "☝️" },
+            { "ar": "ما شاءَ اللّٰهُ", "id": "masyaallah (ungkapan kagum)", "emoji": "🤩", "serapan": "masyaallah" },
+            { "ar": "شُكْرًا", "id": "terima kasih", "emoji": "🙏" }
+          ]
+        },
+        { "q": "choice", "k": "surah-baiti-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هٰذِهِ صُورَةُ بَيْتِي." }, "answer": "Ini foto rumah saya.", "options": ["Ini foto rumah saya.", "Ini kamar saya.", "Ini ibu saya."], "lang": "id" },
+        { "q": "choice", "k": "siti-bait-kota", "instruction": "Menurut dialog, rumah Siti di kota mana?", "prompt": { "ar": "بَيْتُ سِيتِي فِي …", "emoji": "🏠" }, "answer": "Medan", "options": ["Medan", "Kuala Lumpur", "Yogyakarta"], "lang": "id" },
+        { "q": "choice", "k": "siti-jumlah-hammam", "instruction": "Menurut dialog, ada berapa kamar mandi di rumah Siti?", "prompt": { "ar": "كَمْ حَمّامًا فِي بَيْتِ سِيتِي؟", "emoji": "🚿" }, "answer": "Satu", "options": ["Satu", "Dua", "Tiga"], "lang": "id" },
+        { "q": "choice", "k": "dengar-kam-hammam", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "كَمْ حَمّامًا فِي البَيْتِ؟" }, "answer": "Ada berapa kamar mandi di rumah itu?", "options": ["Ada berapa kamar mandi di rumah itu?", "Di mana kamar mandinya?", "Ini dapur rumah saya."], "lang": "id" },
+        { "q": "choice", "k": "balas-masyaallah", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "ما شاءَ اللّٰهُ! بَيْتٌ جَمِيلٌ." }, "answer": "شُكْرًا.", "options": ["شُكْرًا.", "وَعَلَيْكُمُ السَّلامُ.", "واحِدٌ فَقَطْ."], "lang": "ar" },
+        { "q": "choice", "k": "huna-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هُنا" }, "answer": "di sini", "options": ["di sini", "di sana", "di mana"], "lang": "id" },
+        { "q": "arrange", "k": "susun-hadzihi-ghurfati", "prompt": { "id": "Ini kamar saya." }, "answer": "هٰذِهِ غُرْفَتِي", "extra": ["هُناكَ"] },
+        { "q": "arrange", "k": "susun-wahid-faqat", "prompt": { "id": "Satu saja." }, "answer": "واحِدٌ فَقَطْ", "extra": ["اِثْنانِ"] },
+        { "q": "repeat", "k": "ucap-masyaallah", "who": "aisyah", "ar": "ما شاءَ اللّٰهُ!", "id": "Masyaallah!" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-ghurfati-arti", "instruction": "Apa artinya?", "prompt": { "ar": "غُرْفَتِي" }, "answer": "kamar saya", "options": ["kamar saya", "rumah saya", "kamarmu"], "lang": "id" },
+        { "q": "choice", "k": "lat-siapa-di-dapur", "instruction": "Menurut dialog, siapa yang ada di dapur?", "prompt": { "ar": "مَنْ هٰذِهِ فِي المَطْبَخِ؟", "emoji": "🍳" }, "answer": "Ibu Siti", "options": ["Ibu Siti", "Aisyah", "Nenek Siti"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-huna-matbakh", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "وَهُنا المَطْبَخُ." }, "answer": "وَهُنا المَطْبَخُ.", "options": ["وَهُنا المَطْبَخُ.", "وَهُناكَ المَطْبَخُ.", "وَهُنا الحَمّامُ."], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-bait-jamil", "prompt": { "id": "Rumah yang indah." }, "answer": "بَيْتٌ جَمِيلٌ", "extra": ["فَقَطْ"] },
+        { "q": "choice", "k": "lat-syukran-arti", "instruction": "Apa artinya?", "prompt": { "ar": "شُكْرًا" }, "answer": "terima kasih", "options": ["terima kasih", "silakan", "tolong"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Jadwal piket asrama",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Setiap kamar asrama punya giliran piket bersih-bersih. Rizki menemui Ustazah Zainab, wali kelas yang mengurus jadwal.",
+          "rows": [
+            { "who": "rizki", "ar": "السَّلامُ عَلَيْكُمْ يا أُسْتاذَةُ.", "id": "Assalamualaikum, Ustazah." },
+            { "who": "ustazah_zainab", "ar": "وَعَلَيْكُمُ السَّلامُ. ماذا تُرِيدُ يا رِزْقِي؟", "id": "Waalaikumussalam. Ada perlu apa, Rizki?" },
+            { "who": "rizki", "ar": "أُرِيدُ جَدْوَلَ التَّنْظِيفِ، مِنْ فَضْلِكِ.", "id": "Saya mau jadwal piket, tolong. (kepada pr)" },
+            { "who": "ustazah_zainab", "ar": "تَفَضَّلْ. فِي أَيِّ غُرْفَةٍ أَنْتَ؟", "id": "Silakan. Kamu di kamar yang mana? (lk)" },
+            { "who": "rizki", "ar": "رَقْمُ غُرْفَتِي ثَمانِيَةٌ.", "id": "Nomor kamar saya delapan." },
+            { "who": "ustazah_zainab", "ar": "نَوْبَتُكَ يَوْمَ الأَحَدِ وَيَوْمَ الخَمِيسِ.", "id": "Giliranmu hari Ahad dan hari Kamis. (lk)" },
+            { "who": "rizki", "ar": "الأَحَدُ وَالخَمِيسُ. شُكْرًا يا أُسْتاذَةُ.", "id": "Ahad dan Kamis. Terima kasih, Ustazah." },
+            { "who": "ustazah_zainab", "ar": "عَفْوًا.", "id": "Sama-sama." }
+          ],
+          "img": "u3-jadwal-piket",
+          "scene": "Rizki standing politely at the office desk of Ustazah Zainab in the institute; she hands him a sheet showing a cleaning roster drawn as a blank grid with small broom icons and no writing."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "جَدْوَلٌ", "id": "jadwal", "emoji": "🗓️", "serapan": "jadwal" },
+            { "ar": "تَنْظِيفٌ", "id": "bersih-bersih", "emoji": "🧹" },
+            { "ar": "نَوْبَةٌ", "id": "giliran (piket)", "emoji": "🔁" },
+            { "ar": "يَوْمٌ", "id": "hari", "emoji": "📅" },
+            { "ar": "فِي أَيِّ …؟", "id": "di … yang mana? / pada … apa?", "emoji": "❓" },
+            { "ar": "مِنْ فَضْلِكِ", "id": "tolong (kepada pr)", "emoji": "🙏" },
+            { "ar": "عَفْوًا", "id": "sama-sama", "emoji": "😊" },
+            { "ar": "يَوْمُ الأَحَدِ", "id": "hari Ahad (Minggu)", "emoji": "📅", "serapan": "Ahad" },
+            { "ar": "يَوْمُ الخَمِيسِ", "id": "hari Kamis", "emoji": "📅", "serapan": "Kamis" }
+          ]
+        },
+        { "q": "choice", "k": "jadwal-tanzif-arti", "instruction": "Apa artinya?", "prompt": { "ar": "جَدْوَلُ التَّنْظِيفِ" }, "answer": "jadwal piket (bersih-bersih)", "options": ["jadwal piket (bersih-bersih)", "nomor kamar", "kamar mandi"], "lang": "id" },
+        { "q": "choice", "k": "nomor-kamar-rizki", "instruction": "Menurut dialog, nomor kamar Rizki berapa?", "prompt": { "ar": "رَقْمُ غُرْفَةِ رِزْقِي …", "emoji": "🚪" }, "answer": "8", "options": ["8", "7", "10"], "lang": "id" },
+        { "q": "choice", "k": "hari-piket-rizki", "instruction": "Menurut dialog, Rizki piket hari apa?", "prompt": { "ar": "نَوْبَةُ رِزْقِي …", "emoji": "🧹" }, "answer": "Ahad dan Kamis", "options": ["Ahad dan Kamis", "Senin dan Kamis", "Ahad dan Jumat"], "lang": "id" },
+        { "q": "choice", "k": "fadliki-pr", "instruction": "Rizki meminta dengan sopan kepada Ustazah Zainab. Kata yang tepat …", "prompt": { "id": "tolong (kepada perempuan)", "emoji": "🙏" }, "answer": "مِنْ فَضْلِكِ", "options": ["مِنْ فَضْلِكِ", "مِنْ فَضْلِكَ", "تَفَضَّلْ"], "lang": "ar" },
+        { "q": "choice", "k": "balas-syukran", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "شُكْرًا يا أُسْتاذَةُ." }, "answer": "عَفْوًا.", "options": ["عَفْوًا.", "مِنْ فَضْلِكَ.", "ماذا تُرِيدُ؟"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-fi-ayyi-ghurfah", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "فِي أَيِّ غُرْفَةٍ أَنْتَ؟" }, "answer": "Kamu di kamar yang mana? (lk)", "options": ["Kamu di kamar yang mana? (lk)", "Nomor kamar saya delapan.", "Kamu mau apa? (lk)"], "lang": "id" },
+        { "q": "arrange", "k": "susun-raqmu-ghurfati", "prompt": { "id": "Nomor kamar saya delapan." }, "answer": "رَقْمُ غُرْفَتِي ثَمانِيَةٌ", "extra": ["غُرْفَتُكَ"] },
+        { "q": "arrange", "k": "susun-naubatuka", "prompt": { "id": "Ini giliranmu. (lk)" }, "answer": "هٰذِهِ نَوْبَتُكَ", "extra": ["نَوْبَتُكِ"] },
+        { "q": "repeat", "k": "ucap-afwan", "who": "ustazah_zainab", "ar": "عَفْوًا.", "id": "Sama-sama." }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-yaum-arti", "instruction": "Apa artinya?", "prompt": { "ar": "يَوْمٌ" }, "answer": "hari", "options": ["hari", "giliran", "jadwal"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-naubah-ahad", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "نَوْبَتُكَ يَوْمَ الأَحَدِ." }, "answer": "Giliranmu hari Ahad. (lk)", "options": ["Giliranmu hari Ahad. (lk)", "Giliranmu hari Kamis. (lk)", "Giliranmu hari Sabtu. (lk)"], "lang": "id" },
+        { "q": "choice", "k": "lat-zainab-beri-jadwal", "instruction": "Ustazah Zainab memberikan jadwal kepada Rizki. Dia berkata …", "prompt": { "id": "Memberikan sesuatu kepada laki-laki", "emoji": "🗓️" }, "answer": "تَفَضَّلْ.", "options": ["تَفَضَّلْ.", "شُكْرًا.", "عَفْوًا."], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-urid-jadwal", "prompt": { "id": "Saya mau jadwal piket." }, "answer": "أُرِيدُ جَدْوَلَ التَّنْظِيفِ", "extra": ["تُرِيدُ"] },
+        { "q": "choice", "k": "lat-fi-ayyi-yaum-arti", "instruction": "Apa artinya?", "prompt": { "ar": "فِي أَيِّ يَوْمٍ؟" }, "answer": "Pada hari apa?", "options": ["Pada hari apa?", "Di kamar yang mana?", "Ada berapa hari?"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & nama hari",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Rumah dan ruangan",
+          "rows": [
+            { "ar": "بَيْتٌ", "id": "rumah", "emoji": "🏠", "serapan": "bait" },
+            { "ar": "غُرْفَةٌ", "id": "kamar", "emoji": "🛋️" },
+            { "ar": "مَطْبَخٌ", "id": "dapur", "emoji": "🍳" },
+            { "ar": "حَمّامٌ", "id": "kamar mandi", "emoji": "🚿" },
+            { "ar": "بابٌ", "id": "pintu", "emoji": "🚪" },
+            { "ar": "نافِذَةٌ", "id": "jendela", "emoji": "🪟" },
+            { "ar": "رَقْمٌ", "id": "nomor", "emoji": "🔢" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Perabot dan sewa",
+          "rows": [
+            { "ar": "سَرِيرٌ", "id": "tempat tidur", "emoji": "🛏️" },
+            { "ar": "كُرْسِيٌّ", "id": "kursi", "emoji": "🪑", "serapan": "kursi" },
+            { "ar": "مَكْتَبٌ", "id": "meja belajar", "emoji": "📝" },
+            { "ar": "سَجّادَةٌ", "id": "sajadah, karpet", "emoji": "🧎", "serapan": "sajadah" },
+            { "ar": "ثَلّاجَةٌ", "id": "kulkas", "emoji": "🧊" },
+            { "ar": "إِيجارٌ", "id": "sewa", "emoji": "💵" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Nama hari: semuanya sudah kamu kenal!",
+          "note_id": "Nama hari dalam bahasa Indonesia berasal dari bahasa Arab. Senin dari الِاثْنَيْنِ (hari kedua), Selasa dari الثُّلاثاءِ (hari ketiga), Rabu dari الأَرْبِعاءِ (hari keempat).",
+          "rows": [
+            { "ar": "يَوْمُ الأَحَدِ", "id": "Ahad (Minggu)", "emoji": "📅", "serapan": "Ahad" },
+            { "ar": "يَوْمُ الِاثْنَيْنِ", "id": "Senin", "emoji": "📅", "serapan": "Senin" },
+            { "ar": "يَوْمُ الثُّلاثاءِ", "id": "Selasa", "emoji": "📅", "serapan": "Selasa" },
+            { "ar": "يَوْمُ الأَرْبِعاءِ", "id": "Rabu", "emoji": "📅", "serapan": "Rabu" },
+            { "ar": "يَوْمُ الخَمِيسِ", "id": "Kamis", "emoji": "📅", "serapan": "Kamis" },
+            { "ar": "يَوْمُ الجُمُعَةِ", "id": "Jumat", "emoji": "🕌", "serapan": "Jumat" },
+            { "ar": "يَوْمُ السَّبْتِ", "id": "Sabtu", "emoji": "📅", "serapan": "Sabtu" }
+          ]
+        },
+        { "q": "choice", "k": "gambar-kursi", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🪑" }, "answer": "كُرْسِيٌّ", "options": ["كُرْسِيٌّ", "سَرِيرٌ", "مَكْتَبٌ"], "lang": "ar" },
+        { "q": "choice", "k": "thallajah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "ثَلّاجَةٌ" }, "answer": "kulkas", "options": ["kulkas", "sajadah", "jendela"], "lang": "id" },
+        { "q": "choice", "k": "dengar-nafidzah", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "نافِذَةٌ" }, "answer": "jendela", "options": ["jendela", "pintu", "kamar"], "lang": "id" },
+        { "q": "choice", "k": "hari-jumat-ar", "instruction": "Bahasa Arabnya \"hari Jumat\" adalah …", "prompt": { "id": "hari Jumat", "emoji": "🕌" }, "answer": "يَوْمُ الجُمُعَةِ", "options": ["يَوْمُ الجُمُعَةِ", "يَوْمُ الخَمِيسِ", "يَوْمُ السَّبْتِ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-tsulatsa", "instruction": "Dengarkan. Hari apa?", "prompt": { "listen": "يَوْمُ الثُّلاثاءِ" }, "answer": "Selasa", "options": ["Selasa", "Sabtu", "Senin"], "lang": "id" },
+        { "q": "choice", "k": "hari-sesudah-senin", "instruction": "Hari sesudah Senin adalah …", "prompt": { "ar": "يَوْمُ الِاثْنَيْنِ ← ؟" }, "answer": "يَوْمُ الثُّلاثاءِ", "options": ["يَوْمُ الثُّلاثاءِ", "يَوْمُ الأَرْبِعاءِ", "يَوْمُ الأَحَدِ"], "lang": "ar" },
+        { "q": "choice", "k": "gambar-sajadah", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🧎" }, "answer": "سَجّادَةٌ", "options": ["سَجّادَةٌ", "ثَلّاجَةٌ", "نافِذَةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "ijar-arti", "instruction": "Apa artinya?", "prompt": { "ar": "غُرْفَةٌ لِلْإِيجارِ" }, "answer": "kamar disewakan", "options": ["kamar disewakan", "nomor kamar", "kamar mandi"], "lang": "id" },
+        { "q": "choice", "k": "dengar-arbia", "instruction": "Dengarkan. Hari apa?", "prompt": { "listen": "يَوْمُ الأَرْبِعاءِ" }, "answer": "Rabu", "options": ["Rabu", "Kamis", "Ahad"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-gambar-bab", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🚪" }, "answer": "بابٌ", "options": ["بابٌ", "نافِذَةٌ", "بَيْتٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-sabt", "instruction": "Dengarkan. Hari apa?", "prompt": { "listen": "يَوْمُ السَّبْتِ" }, "answer": "Sabtu", "options": ["Sabtu", "Senin", "Jumat"], "lang": "id" },
+        { "q": "choice", "k": "lat-hari-ahad-ar", "instruction": "Bahasa Arabnya \"hari Ahad\" adalah …", "prompt": { "id": "hari Ahad (Minggu)" }, "answer": "يَوْمُ الأَحَدِ", "options": ["يَوْمُ الأَحَدِ", "يَوْمُ الِاثْنَيْنِ", "يَوْمُ السَّبْتِ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-sarir-arti", "instruction": "Apa artinya?", "prompt": { "ar": "سَرِيرٌ" }, "answer": "tempat tidur", "options": ["tempat tidur", "kursi", "meja belajar"], "lang": "id" },
+        { "q": "choice", "k": "lat-hari-sebelum-jumat", "instruction": "Hari sebelum Jumat adalah …", "prompt": { "ar": "؟ ← يَوْمُ الجُمُعَةِ" }, "answer": "يَوْمُ الخَمِيسِ", "options": ["يَوْمُ الخَمِيسِ", "يَوْمُ السَّبْتِ", "يَوْمُ الأَرْبِعاءِ"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Meminta dan menawarkan",
+          "groups": [
+            {
+              "title_ar": "ماذا تُرِيدُ؟ · ماذا تُرِيدِينَ؟ ← أُرِيدُ …",
+              "note_id": "تُرِيدُ untuk lawan bicara laki-laki, تُرِيدِينَ untuk perempuan. Benda sesudah أُرِيدُ berakhiran -an/-a (fathah): غُرْفَةً، ماءً.",
+              "rows": [
+                { "ar": "ماذا تُرِيدُ؟", "id": "Kamu mau apa? (lk)" },
+                { "ar": "ماذا تُرِيدِينَ؟", "id": "Kamu mau apa? (pr)" },
+                { "ar": "أُرِيدُ غُرْفَةً.", "id": "Saya mau kamar." },
+                { "ar": "أُرِيدُ ماءً.", "id": "Saya mau air." }
+              ]
+            },
+            {
+              "title_ar": "مِنْ فَضْلِكَ · تَفَضَّلْ · شُكْرًا ← عَفْوًا",
+              "note_id": "Akhiran ـكَ / ـكِ dan bentuk تَفَضَّلْ / تَفَضَّلِي mengikuti lawan bicara (lk/pr).",
+              "rows": [
+                { "ar": "مِنْ فَضْلِكَ · مِنْ فَضْلِكِ", "id": "tolong (kepada lk · pr)" },
+                { "ar": "تَفَضَّلْ · تَفَضَّلِي", "id": "silakan (kepada lk · pr)" },
+                { "ar": "شُكْرًا. ← عَفْوًا.", "id": "Terima kasih. → Sama-sama." }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Berapa, yang mana, dan punya",
+          "groups": [
+            {
+              "title_ar": "كَمْ + ـًا",
+              "note_id": "Sesudah كَمْ, kata benda tunggal berakhiran -an (fathatain).",
+              "rows": [
+                { "ar": "كَمْ سَرِيرًا فِي الغُرْفَةِ؟ ← واحِدٌ.", "id": "Ada berapa tempat tidur di kamar? → Satu." },
+                { "ar": "كَمْ كُرْسِيًّا فِي البَيْتِ؟ ← ثَلاثَةٌ.", "id": "Ada berapa kursi di rumah? → Tiga." }
+              ]
+            },
+            {
+              "title_ar": "فِي أَيِّ + ـٍ",
+              "note_id": "Sesudah فِي أَيِّ, kata benda berakhiran -in (kasratain).",
+              "rows": [
+                { "ar": "فِي أَيِّ غُرْفَةٍ أَنْتَ؟", "id": "Kamu di kamar yang mana? (lk)" },
+                { "ar": "فِي أَيِّ يَوْمٍ نَوْبَتُكِ؟", "id": "Giliranmu hari apa? (pr)" }
+              ]
+            },
+            {
+              "title_ar": "عِنْدِي · عِنْدَكَ · عِنْدَكِ",
+              "note_id": "عِنْدَ + akhiran = punya. عِنْدِي saya punya, عِنْدَكَ kamu (lk) punya, عِنْدَكِ kamu (pr) punya.",
+              "rows": [
+                { "ar": "عِنْدِي سَجّادَةٌ.", "id": "Saya punya sajadah." },
+                { "ar": "هَلْ عِنْدَكَ ثَلّاجَةٌ؟", "id": "Apakah kamu punya kulkas? (lk)" },
+                { "ar": "لا، الثَّلّاجَةُ فِي المَطْبَخِ.", "id": "Tidak, kulkasnya di dapur." }
+              ]
+            }
+          ]
+        },
+        { "q": "choice", "k": "madza-turidin-aisyah", "instruction": "Kamu bertanya kepada Aisyah: \"Kamu mau apa?\" Pilih kalimatnya", "prompt": { "id": "Kamu mau apa? (pr)", "emoji": "👩" }, "answer": "ماذا تُرِيدِينَ؟", "options": ["ماذا تُرِيدِينَ؟", "ماذا تُرِيدُ؟", "أُرِيدُ ماءً."], "lang": "ar" },
+        { "q": "choice", "k": "urid-ghurfatan", "instruction": "Lengkapi: \"Saya mau kamar.\"", "prompt": { "ar": "أُرِيدُ …" }, "answer": "غُرْفَةً", "options": ["غُرْفَةً", "غُرْفَةٌ", "غُرْفَةٍ"], "lang": "ar" },
+        { "q": "choice", "k": "kam-kursiyyan", "instruction": "Lengkapi: \"Ada berapa kursi di kamar?\"", "prompt": { "ar": "كَمْ … فِي الغُرْفَةِ؟" }, "answer": "كُرْسِيًّا", "options": ["كُرْسِيًّا", "كُرْسِيٌّ", "كُرْسِيٍّ"], "lang": "ar" },
+        { "q": "choice", "k": "fi-ayyi-ghurfatin", "instruction": "Lengkapi: \"Kamu di kamar yang mana? (pr)\"", "prompt": { "ar": "فِي أَيِّ … أَنْتِ؟" }, "answer": "غُرْفَةٍ", "options": ["غُرْفَةٍ", "غُرْفَةً", "غُرْفَةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "tafaddali-siti", "instruction": "Siti datang ke kamarmu. Kamu mempersilakan dia masuk …", "prompt": { "id": "Silakan masuk! (kepada pr)", "emoji": "🚪" }, "answer": "تَفَضَّلِي!", "options": ["تَفَضَّلِي!", "تَفَضَّلْ!", "مِنْ فَضْلِكِ!"], "lang": "ar" },
+        { "q": "choice", "k": "indaki-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هَلْ عِنْدَكِ سَجّادَةٌ؟" }, "answer": "Apakah kamu punya sajadah? (pr)", "options": ["Apakah kamu punya sajadah? (pr)", "Apakah kamu punya sajadah? (lk)", "Saya punya sajadah."], "lang": "id" },
+        { "q": "choice", "k": "jawab-kam-sarir", "instruction": "Pilih jawaban yang tepat", "prompt": { "ar": "كَمْ سَرِيرًا فِي غُرْفَتِكَ؟" }, "answer": "اِثْنانِ.", "options": ["اِثْنانِ.", "فِي المَطْبَخِ.", "يَوْمَ الأَحَدِ."], "lang": "ar" },
+        { "q": "arrange", "k": "susun-madza-turidin", "prompt": { "id": "Kamu mau apa? (pr)" }, "answer": "ماذا تُرِيدِينَ", "extra": ["تُرِيدُ"] },
+        { "q": "arrange", "k": "susun-indi-sajjadah", "prompt": { "id": "Saya punya sajadah." }, "answer": "عِنْدِي سَجّادَةٌ", "extra": ["عِنْدَكَ"] },
+        { "q": "arrange", "k": "susun-kam-kursi", "prompt": { "id": "Ada berapa kursi di kamar?" }, "answer": "كَمْ كُرْسِيًّا فِي الغُرْفَةِ", "extra": ["أَيِّ"] }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-urid-maan", "instruction": "Lengkapi: \"Saya mau air.\"", "prompt": { "ar": "أُرِيدُ …" }, "answer": "ماءً", "options": ["ماءً", "ماءٌ", "ماءٍ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-fadlika-budi", "instruction": "Kamu meminta tolong kepada Budi. Kata yang tepat …", "prompt": { "id": "tolong (kepada laki-laki)", "emoji": "👦" }, "answer": "مِنْ فَضْلِكَ", "options": ["مِنْ فَضْلِكَ", "مِنْ فَضْلِكِ", "تَفَضَّلِي"], "lang": "ar" },
+        { "q": "choice", "k": "lat-fi-ayyi-yaumin", "instruction": "Lengkapi: \"Pada hari apa?\"", "prompt": { "ar": "فِي أَيِّ …؟" }, "answer": "يَوْمٍ", "options": ["يَوْمٍ", "يَوْمًا", "يَوْمٌ"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-urid-ghurfah", "prompt": { "id": "Saya mau air dan teh." }, "answer": "أُرِيدُ ماءً وَشايًا", "extra": ["تُرِيدُ"] },
+        { "q": "choice", "k": "lat-indaka-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هَلْ عِنْدَكَ ثَلّاجَةٌ؟" }, "answer": "Apakah kamu punya kulkas? (lk)", "options": ["Apakah kamu punya kulkas? (lk)", "Apakah kamu punya kulkas? (pr)", "Di mana kulkasnya?"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi خ, ك, هـ dan ف/ب",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi خ, ك, dan هـ",
+          "note_id": "خ (kha) diucapkan dengan pangkal lidah mendekati langit-langit belakang sehingga udara bergesek kasar, seperti \"ch\" pada nama Bach. ك (kaf) adalah \"k\" biasa: letupan singkat tanpa gesekan. هـ (ha) hanya embusan napas halus. Jangan ucapkan خ sebagai \"h\" atau \"k\". Ketuk tiap kotak dan bandingkan.",
+          "pairs": [["خَ", "كَ"], ["خَ", "هَ"], ["خَبِيرٌ", "كَبِيرٌ"], ["خَتَمَ", "كَتَمَ"], ["خَدَمَ", "هَدَمَ"], ["خَمْسٌ", "هَمْسٌ"]]
+        },
+        {
+          "card": "sounds",
+          "section": "Latihan tambahan: ف dan ب",
+          "note_id": "ف (fa) bukan \"p\". Gigi atas menyentuh bibir bawah dan udara keluar mendesis. ب (ba) diucapkan dengan dua bibir rapat lalu dilepas. Kata نافِذَةٌ، مِنْ فَضْلِكَ، dan تَفَضَّلْ di unit ini memakai ف.",
+          "pairs": [["فَ", "بَ"], ["فاتَ", "باتَ"], ["فَرْدٌ", "بَرْدٌ"], ["فِي", "بِي"]]
+        },
+        { "q": "choice", "k": "dengar-khabir", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "خَبِيرٌ" }, "answer": "خَبِيرٌ", "options": ["خَبِيرٌ", "كَبِيرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-katama", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "كَتَمَ" }, "answer": "كَتَمَ", "options": ["كَتَمَ", "خَتَمَ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-hadama", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "هَدَمَ" }, "answer": "هَدَمَ", "options": ["هَدَمَ", "خَدَمَ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-fata", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "فاتَ" }, "answer": "فاتَ", "options": ["فاتَ", "باتَ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-bard", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "بَرْدٌ" }, "answer": "بَرْدٌ", "options": ["بَرْدٌ", "فَرْدٌ"], "lang": "ar" },
+        { "q": "choice", "k": "cari-kha", "instruction": "Kata mana yang memuat huruf خ?", "prompt": { "id": "Cari huruf kha (خ): bentuknya seperti ح dengan titik di atas" }, "answer": "مَطْبَخٌ", "options": ["مَطْبَخٌ", "مَكْتَبٌ", "حَمّامٌ"], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-khamis", "ar": "يَوْمُ الخَمِيسِ", "id": "hari Kamis" },
+        { "q": "repeat", "k": "ucap-nafidzah", "ar": "نافِذَةٌ", "id": "jendela" },
+        { "q": "choice", "k": "simak-piket", "instruction": "Dengarkan. Hari apa gilirannya?", "prompt": { "listen": "نَوْبَتِي يَوْمَ الخَمِيسِ." }, "answer": "Kamis", "options": ["Kamis", "Ahad", "Selasa"], "lang": "id" },
+        { "q": "choice", "k": "simak-nomor-kamar", "instruction": "Dengarkan. Berapa nomor kamarnya?", "prompt": { "listen": "رَقْمُ غُرْفَتِي عَشَرَةٌ." }, "answer": "10", "options": ["10", "7", "8"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-dengar-kabir", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "كَبِيرٌ" }, "answer": "كَبِيرٌ", "options": ["كَبِيرٌ", "خَبِيرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-khatama", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "خَتَمَ" }, "answer": "خَتَمَ", "options": ["خَتَمَ", "كَتَمَ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-khams", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "خَمْسٌ" }, "answer": "خَمْسٌ", "options": ["خَمْسٌ", "هَمْسٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-bata", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "باتَ" }, "answer": "باتَ", "options": ["باتَ", "فاتَ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-fi", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "فِي" }, "answer": "فِي", "options": ["فِي", "بِي"], "lang": "ar" },
+        { "q": "choice", "k": "lat-simak-thallajah", "instruction": "Dengarkan. Apa yang ada di kamarnya?", "prompt": { "listen": "عِنْدِي ثَلّاجَةٌ فِي غُرْفَتِي." }, "answer": "Kulkas", "options": ["Kulkas", "Kursi", "Sajadah"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        { "q": "speak", "k": "ceritakan-kamar", "instruction": "Ceritakan kamarmu: nomornya dan isinya", "prompt": { "id": "Pakai nomor kamar dan barang di kamarmu sendiri." }, "model": [
+          { "who": "rizki", "ar": "هٰذِهِ غُرْفَتِي.", "id": "Ini kamar saya." },
+          { "who": "rizki", "ar": "رَقْمُها ثَمانِيَةٌ.", "id": "Nomornya delapan." },
+          { "who": "rizki", "ar": "عِنْدِي سَرِيرٌ وَمَكْتَبٌ.", "id": "Saya punya tempat tidur dan meja belajar." }
+        ] },
+        { "q": "repeat", "k": "ucap-urid-ghurfah", "who": "budi", "ar": "أُرِيدُ غُرْفَةً.", "id": "Saya mau kamar." },
+        { "q": "repeat", "k": "ucap-maan-fadlika", "who": "rizki", "ar": "ماءً، مِنْ فَضْلِكَ.", "id": "Air, tolong. (kepada lk)" },
+        { "q": "choice", "k": "tamu-lk-datang", "instruction": "Temanmu (laki-laki) datang ke kamarmu. Kamu mempersilakan dia masuk …", "prompt": { "id": "Silakan masuk!", "emoji": "🚪" }, "answer": "تَفَضَّلْ!", "options": ["تَفَضَّلْ!", "تَفَضَّلِي!", "شُكْرًا!"], "lang": "ar" },
+        { "q": "choice", "k": "minta-kursi-siti", "instruction": "Kamu meminta kursi kepada Siti dengan sopan …", "prompt": { "id": "Kursi, tolong.", "emoji": "🪑" }, "answer": "كُرْسِيًّا، مِنْ فَضْلِكِ.", "options": ["كُرْسِيًّا، مِنْ فَضْلِكِ.", "كُرْسِيًّا، مِنْ فَضْلِكَ.", "كُرْسِيًّا، عَفْوًا."], "lang": "ar" },
+        { "q": "speak", "k": "tanya-piket-teman", "instruction": "Tanyakan hari piket teman perempuanmu, lalu jawab tentang piketmu sendiri", "prompt": { "id": "Ingat: kepada perempuan pakai ـكِ." }, "model": [
+          { "who": "siti", "ar": "فِي أَيِّ يَوْمٍ نَوْبَتُكِ؟", "id": "Giliranmu hari apa? (pr)" },
+          { "who": "aisyah", "ar": "نَوْبَتِي يَوْمَ الجُمُعَةِ.", "id": "Giliran saya hari Jumat." }
+        ] },
+        { "q": "choice", "k": "jawab-kam-bab", "instruction": "Rumahmu punya dua pintu. Bagaimana kamu menjawab?", "prompt": { "ar": "كَمْ بابًا فِي بَيْتِكَ؟", "emoji": "🚪" }, "answer": "اِثْنانِ.", "options": ["اِثْنانِ.", "واحِدٌ.", "ثَلاثَةٌ."], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-naubati-jumah", "who": "siti", "ar": "نَوْبَتِي يَوْمَ الجُمُعَةِ.", "id": "Giliran saya hari Jumat." },
+        { "q": "choice", "k": "jawab-syukran-budi", "instruction": "Budi berkata: شُكْرًا يا رِزْقِي. Rizki menjawab …", "prompt": { "ar": "شُكْرًا يا رِزْقِي." }, "answer": "عَفْوًا.", "options": ["عَفْوًا.", "شُكْرًا.", "مِنْ فَضْلِكَ."], "lang": "ar" },
+        { "q": "speak", "k": "ceritakan-rumah", "instruction": "Ceritakan rumahmu: kotanya, ruangannya, dan kamarmu", "prompt": { "id": "Pakai kota dan rumahmu sendiri." }, "model": [
+          { "who": "siti", "ar": "بَيْتِي فِي مِيدان.", "id": "Rumah saya di Medan." },
+          { "who": "siti", "ar": "فِي البَيْتِ مَطْبَخٌ وَحَمّامٌ.", "id": "Di rumah ada dapur dan kamar mandi." },
+          { "who": "siti", "ar": "هٰذِهِ غُرْفَتِي.", "id": "Ini kamar saya." }
+        ] }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-tamu-aisyah", "instruction": "Aisyah datang ke kamarmu. Kamu berkata …", "prompt": { "id": "Silakan masuk! (kepada pr)", "emoji": "👩" }, "answer": "تَفَضَّلِي!", "options": ["تَفَضَّلِي!", "تَفَضَّلْ!", "عَفْوًا!"], "lang": "ar" },
+        { "q": "choice", "k": "lat-minta-teh-budi", "instruction": "Kamu meminta teh kepada Budi dengan sopan …", "prompt": { "id": "Teh, tolong.", "emoji": "🍵" }, "answer": "شايًا، مِنْ فَضْلِكَ.", "options": ["شايًا، مِنْ فَضْلِكَ.", "شايًا، مِنْ فَضْلِكِ.", "شايًا، تَفَضَّلْ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-jawab-ayyi-ghurfah", "instruction": "Kamu di kamar nomor 6. Bagaimana kamu menjawab?", "prompt": { "ar": "فِي أَيِّ غُرْفَةٍ أَنْتَ؟" }, "answer": "رَقْمُ غُرْفَتِي سِتَّةٌ.", "options": ["رَقْمُ غُرْفَتِي سِتَّةٌ.", "رَقْمُ غُرْفَتِي ثَمانِيَةٌ.", "نَعَمْ، عِنْدِي غُرْفَةٌ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-jawab-hal-indaka", "instruction": "Kamu punya sajadah. Bagaimana kamu menjawab?", "prompt": { "ar": "هَلْ عِنْدَكَ سَجّادَةٌ؟", "emoji": "🧎" }, "answer": "نَعَمْ، عِنْدِي سَجّادَةٌ.", "options": ["نَعَمْ، عِنْدِي سَجّادَةٌ.", "نَعَمْ، عِنْدَكَ سَجّادَةٌ.", "لا، عِنْدِي سَجّادَةٌ."], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Kamar kos Budi",
+          "instruction_id": "Baca pelan-pelan. السَّيِّدَةُ = ibu, nyonya (sapaan sopan untuk perempuan).",
+          "rows": [
+            { "ar": "بُودِي يُرِيدُ غُرْفَةً لِلْإِيجارِ.", "id": "Budi ingin menyewa kamar.", "emoji": "👦" },
+            { "ar": "الغُرْفَةُ فِي بَيْتِ السَّيِّدَةِ سِرِي.", "id": "Kamarnya di rumah Bu Sri.", "emoji": "🏠" },
+            { "ar": "رَقْمُ الغُرْفَةِ سَبْعَةٌ.", "id": "Nomor kamarnya tujuh." },
+            { "ar": "فِي الغُرْفَةِ سَرِيرٌ وَمَكْتَبٌ وَكُرْسِيٌّ.", "id": "Di kamar itu ada tempat tidur, meja belajar, dan kursi." },
+            { "ar": "وَالثَّلّاجَةُ فِي المَطْبَخِ.", "id": "Kulkasnya ada di dapur.", "emoji": "🧊" }
+          ],
+          "img": "u3-kamar-kos",
+          "scene": "Inside Budi's rented room in Bu Sri's house in Yogyakarta: a single bed, a small study desk and a chair, while Bu Sri, a kind middle-aged Indonesian woman in a simple hijab, shows Budi the kitchen with a refrigerator through the doorway."
+        },
+        { "q": "choice", "k": "baca-nomor-kos", "instruction": "Berapa nomor kamar Budi?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "7", "options": ["7", "8", "10"], "lang": "id" },
+        { "q": "choice", "k": "baca-kulkas-kamar", "instruction": "Benar atau salah? \"Di kamar Budi ada kulkas.\"", "prompt": { "ar": "فِي غُرْفَةِ بُودِي ثَلّاجَةٌ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-rumah-siapa", "instruction": "Kamar itu ada di rumah siapa?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Bu Sri", "options": ["Bu Sri", "Ustazah Zainab", "Ibu Siti"], "lang": "id" },
+        { "q": "choice", "k": "baca-kulkas-mana", "instruction": "Di mana kulkasnya?", "prompt": { "ar": "أَيْنَ الثَّلّاجَةُ؟", "emoji": "🧊" }, "answer": "فِي المَطْبَخِ.", "options": ["فِي المَطْبَخِ.", "فِي الغُرْفَةِ.", "فِي الحَمّامِ."], "lang": "ar" },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Kamar Siti dan Aisyah",
+          "rows": [
+            { "ar": "هٰذِهِ غُرْفَةُ سِيتِي وَعائِشَةَ.", "id": "Ini kamar Siti dan Aisyah.", "emoji": "👭" },
+            { "ar": "رَقْمُ الغُرْفَةِ عَشَرَةٌ.", "id": "Nomor kamarnya sepuluh." },
+            { "ar": "فِي الغُرْفَةِ مَكْتَبٌ وَسَجّادَةٌ.", "id": "Di kamar itu ada meja belajar dan sajadah." },
+            { "ar": "نَوْبَةُ سِيتِي يَوْمَ الثُّلاثاءِ.", "id": "Giliran piket Siti hari Selasa." },
+            { "ar": "وَنَوْبَةُ عائِشَةَ يَوْمَ الجُمُعَةِ.", "id": "Giliran Aisyah hari Jumat.", "emoji": "🧹" }
+          ],
+          "img": "u3-kamar-siti-aisyah",
+          "scene": "Siti sweeping the floor and Aisyah folding a prayer mat in their tidy female dormitory room with a study desk, morning light through the window."
+        },
+        { "q": "choice", "k": "baca-nomor-siti", "instruction": "Berapa nomor kamar Siti dan Aisyah?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "10", "options": ["10", "7", "8"], "lang": "id" },
+        { "q": "choice", "k": "baca-aisyah-jumat", "instruction": "Benar atau salah? \"Giliran piket Aisyah hari Jumat.\"", "prompt": { "ar": "نَوْبَةُ عائِشَةَ يَوْمَ الجُمُعَةِ." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-siti-hari", "instruction": "Siti piket hari apa?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Selasa", "options": ["Selasa", "Sabtu", "Jumat"], "lang": "id" },
+        { "q": "choice", "k": "baca-gambar-sajadah", "instruction": "Apa yang ada di kamar Siti dan Aisyah?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "مَكْتَبٌ وَسَجّادَةٌ", "options": ["مَكْتَبٌ وَسَجّادَةٌ", "سَرِيرٌ وَثَلّاجَةٌ", "كُرْسِيٌّ وَثَلّاجَةٌ"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-baca-kursi-budi", "instruction": "Benar atau salah? \"Di kamar Budi ada kursi.\"", "prompt": { "ar": "فِي غُرْفَةِ بُودِي كُرْسِيٌّ." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-siti-ahad", "instruction": "Benar atau salah? \"Giliran piket Siti hari Ahad.\"", "prompt": { "ar": "نَوْبَةُ سِيتِي يَوْمَ الأَحَدِ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-yurid-arti", "instruction": "Apa artinya?", "prompt": { "ar": "بُودِي يُرِيدُ غُرْفَةً لِلْإِيجارِ." }, "answer": "Budi ingin menyewa kamar.", "options": ["Budi ingin menyewa kamar.", "Budi punya kamar di asrama.", "Kamar Budi nomor tujuh."], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-ghurfatu-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هٰذِهِ غُرْفَةُ سِيتِي وَعائِشَةَ." }, "answer": "Ini kamar Siti dan Aisyah.", "options": ["Ini kamar Siti dan Aisyah.", "Ini rumah Siti di Medan.", "Siti dan Aisyah di kamar mandi."], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis ج ح خ",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Huruf ج ح خ",
+          "instruction_id": "Tiga huruf ini bentuknya sama. Bedanya hanya titik: ج titik di bawah, ح tanpa titik, خ titik di atas. Telusuri bentuknya.",
+          "rows": [
+            { "ar": "ج", "id": "jim" },
+            { "ar": "ح", "id": "ha" },
+            { "ar": "خ", "id": "kha" }
+          ]
+        },
+        { "q": "choice", "k": "huruf-kha", "instruction": "Huruf apa ini?", "prompt": { "ar": "خ" }, "answer": "kha", "options": ["kha", "ha", "jim"], "lang": "id" },
+        { "q": "choice", "k": "titik-bawah", "instruction": "Huruf mana yang titiknya di bawah?", "prompt": { "id": "Pilih satu" }, "answer": "ج", "options": ["ج", "ح", "خ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-huruf-kha", "instruction": "Dengarkan. Huruf apa yang kamu dengar?", "prompt": { "listen": "خَ" }, "answer": "خ", "options": ["خ", "ح", "ج"], "lang": "ar" },
+        {
+          "card": "writing",
+          "section": "Huruf itu dalam kata",
+          "instruction_id": "Perhatikan bentuk ج ح خ di awal, tengah, dan akhir kata.",
+          "rows": [
+            { "ar": "جَدْوَلٌ", "id": "jadwal" },
+            { "ar": "حَمّامٌ", "id": "kamar mandi" },
+            { "ar": "مَطْبَخٌ", "id": "dapur" },
+            { "ar": "الخَمِيسُ", "id": "Kamis" },
+            { "ar": "الجُمُعَةُ", "id": "Jumat" }
+          ]
+        },
+        { "q": "arrange", "k": "eja-khamis", "instruction": "Susun hurufnya", "prompt": { "id": "خَمِيس (Kamis)" }, "answer": "خ م ي س", "extra": ["ح"] },
+        { "q": "arrange", "k": "eja-matbakh", "instruction": "Susun hurufnya", "prompt": { "id": "مَطْبَخ (dapur)" }, "answer": "م ط ب خ", "extra": ["ج"] },
+        { "q": "arrange", "k": "eja-jadwal", "instruction": "Susun hurufnya", "prompt": { "id": "جَدْوَل (jadwal)" }, "answer": "ج د و ل", "extra": ["ح"] },
+        { "q": "choice", "k": "tulis-hammam", "instruction": "Mana tulisan \"kamar mandi\" yang benar?", "prompt": { "id": "kamar mandi" }, "answer": "حَمّامٌ", "options": ["حَمّامٌ", "خَمّامٌ", "جَمّامٌ"], "lang": "ar" },
+        { "q": "choice", "k": "awal-jumuah", "instruction": "Huruf pertama sesudah ال pada kata الجُمُعَةُ adalah …", "prompt": { "ar": "الجُمُعَةُ" }, "answer": "ج", "options": ["ج", "ح", "خ"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-huruf-ha", "instruction": "Huruf apa ini?", "prompt": { "ar": "ح" }, "answer": "ha", "options": ["ha", "kha", "jim"], "lang": "id" },
+        { "q": "choice", "k": "lat-titik-atas", "instruction": "Huruf mana yang titiknya di atas?", "prompt": { "id": "Pilih satu" }, "answer": "خ", "options": ["خ", "ج", "ح"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-eja-jumuah", "instruction": "Susun hurufnya", "prompt": { "id": "جُمُعَة (Jumat)" }, "answer": "ج م ع ة", "extra": ["ح"] },
+        { "q": "choice", "k": "lat-dengar-huruf-ha", "instruction": "Dengarkan. Huruf apa yang kamu dengar?", "prompt": { "listen": "حَ" }, "answer": "ح", "options": ["ح", "خ", "ج"], "lang": "ar" }
+      ]
+    }
+  ]
+}

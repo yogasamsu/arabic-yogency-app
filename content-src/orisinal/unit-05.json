@@ -1,0 +1,509 @@
+{
+  "unit": 5,
+  "book": "1a",
+  "title_ar": "الطَّعامُ وَالشَّرابُ",
+  "title_id": "Makanan dan minuman",
+  "notes": "Dialog 1: Rizki–Budi makan malam di angkringan (nasi kucing, teh manis; larangan minum kopi malam). Dialog 2: Siti–Aisyah sarapan, nasi lemak vs nasi uduk. Dialog 3: makan malam keluarga Ahmad di Bandung dengan rendang buatan Bu Fatimah. Pola: mudhari' (آكُلُ/تَأْكُلُ/تَأْكُلِينَ/يَأْكُلُ/نَأْكُلُ), نَعَمْ/لا + mudhari', لا تَفْعَلْ/لا تَفْعَلِي, dhamir نا, ungkapan ما أَطْيَبَ …!. Bilangan tingkat 1–5 (muannats). Bunyi ص/س. Menulis ط ظ ع غ. Gender Nur sengaja tidak ditandai (tidak ada bentuk lk/pr yang ditujukan kepada Nur). Cek kemiripan ABY (tanggal 2026-10-04): halaman dialog ABY 1/5 (hlm. 132–139: Qasim–Salim soal jumlah makan dan berat badan, pramugari–penumpang, suami–istri dan tamu) dibandingkan; tidak ada lebih dari 2 kalimat berurutan yang identik/hampir identik. Kemiripan tema (suami-istri di meja makan, larangan لا تَأْكُلْ) tetapi kalimat dan situasinya berbeda; tidak diubah. Perbaikan arrange 2026-10-04 (urutan ganda): susun-ana-jai-budi dibuang vokatif يا بُودِي (bisa di awal/akhir) → أَنا جائِعٌ.",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Malam di angkringan",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "img": "u5-angkringan",
+          "scene": "Night at an angkringan food cart near the institute in Yogyakarta; Rizki and Budi sit on a wooden bench with small banana-leaf rice packets, and Budi holds a glass of sweet tea.",
+          "instruction_id": "Malam hari di angkringan dekat ma'had. Rizki dan Budi lapar dan memesan nasi kucing.",
+          "rows": [
+            { "who": "rizki", "ar": "أَنا جائِعٌ يا بُودِي.", "id": "Aku lapar, Budi." },
+            { "who": "budi", "ar": "وَأَنا جائِعٌ وَعَطْشانُ.", "id": "Aku juga lapar dan haus." },
+            { "who": "rizki", "ar": "ماذا تَأْكُلُ؟", "id": "Kamu makan apa? (lk)" },
+            { "who": "budi", "ar": "آكُلُ أَرُزًّا وَسَمَكًا.", "id": "Aku makan nasi dan ikan." },
+            { "who": "rizki", "ar": "وَماذا تَشْرَبُ؟", "id": "Kamu minum apa? (lk)" },
+            { "who": "budi", "ar": "أَشْرَبُ قَهْوَةً.", "id": "Aku minum kopi." },
+            { "who": "rizki", "ar": "لا تَشْرَبْ قَهْوَةً فِي المَساءِ!", "id": "Jangan minum kopi malam-malam! (lk)" },
+            { "who": "budi", "ar": "حَسَنًا، أَشْرَبُ شايًا حُلْوًا.", "id": "Baiklah, aku minum teh manis." },
+            { "who": "budi", "ar": "ما أَطْيَبَ هٰذا الشّايَ!", "id": "Enak sekali teh ini!" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "جائِعٌ", "id": "lapar (lk)", "emoji": "🤤" },
+            { "ar": "عَطْشانُ", "id": "haus (lk)", "emoji": "🥵" },
+            { "ar": "آكُلُ · تَأْكُلُ", "id": "aku makan · kamu makan (lk)", "emoji": "🍽️" },
+            { "ar": "أَشْرَبُ · تَشْرَبُ", "id": "aku minum · kamu minum (lk)", "emoji": "🥤" },
+            { "ar": "أَرُزٌّ", "id": "nasi", "emoji": "🍚" },
+            { "ar": "سَمَكٌ", "id": "ikan", "emoji": "🐟" },
+            { "ar": "قَهْوَةٌ", "id": "kopi", "emoji": "☕", "serapan": "kahwa" },
+            { "ar": "شايٌ حُلْوٌ", "id": "teh manis", "emoji": "🍵" },
+            { "ar": "حَسَنًا", "id": "baiklah", "emoji": "👌" },
+            { "ar": "ما أَطْيَبَ …!", "id": "enak sekali …!", "emoji": "😋" }
+          ]
+        },
+        { "q": "choice", "k": "madza-takulu-arti", "instruction": "Apa artinya?", "prompt": { "ar": "ماذا تَأْكُلُ؟" }, "answer": "Kamu makan apa? (lk)", "options": ["Kamu makan apa? (lk)", "Kamu minum apa? (lk)", "Aku lapar."], "lang": "id" },
+        { "q": "choice", "k": "balas-madza-tasyrabu", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "وَماذا تَشْرَبُ؟" }, "answer": "أَشْرَبُ شايًا حُلْوًا.", "options": ["أَشْرَبُ شايًا حُلْوًا.", "آكُلُ أَرُزًّا وَسَمَكًا.", "أَنا جائِعٌ يا بُودِي."], "lang": "ar" },
+        { "q": "choice", "k": "dengar-la-tasyrab", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "لا تَشْرَبْ قَهْوَةً فِي المَساءِ!" }, "answer": "Jangan minum kopi malam-malam! (lk)", "options": ["Jangan minum kopi malam-malam! (lk)", "Aku tidak minum kopi malam-malam.", "Apakah kamu minum kopi malam-malam? (lk)"], "lang": "id" },
+        { "q": "choice", "k": "budi-akhirnya-minum", "instruction": "Menurut dialog, akhirnya Budi minum apa?", "prompt": { "id": "بُودِي يَشْرَبُ …", "emoji": "🥤" }, "answer": "Teh manis", "options": ["Teh manis", "Kopi", "Air putih"], "lang": "id" },
+        { "q": "arrange", "k": "susun-ana-jai-budi", "prompt": { "id": "Aku lapar. (lk)" }, "answer": "أَنا جائِعٌ", "extra": ["عَطْشانُ"] },
+        { "q": "arrange", "k": "susun-asyrabu-syai-hulw", "prompt": { "id": "Aku minum teh manis." }, "answer": "أَشْرَبُ شايًا حُلْوًا", "extra": ["آكُلُ"] },
+        { "q": "choice", "k": "atsyan-arti", "instruction": "Apa artinya?", "prompt": { "ar": "عَطْشانُ" }, "answer": "haus (lk)", "options": ["haus (lk)", "lapar (lk)", "manis"], "lang": "id" },
+        { "q": "repeat", "k": "ucap-ana-jai", "who": "rizki", "ar": "أَنا جائِعٌ.", "id": "Aku lapar. (lk)" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-qahwah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "قَهْوَةٌ" }, "answer": "kopi", "options": ["kopi", "teh", "nasi"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-atyab-syai", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "ما أَطْيَبَ هٰذا الشّايَ!" }, "answer": "ما أَطْيَبَ هٰذا الشّايَ!", "options": ["ما أَطْيَبَ هٰذا الشّايَ!", "لا تَشْرَبْ قَهْوَةً!", "أَشْرَبُ شايًا حُلْوًا."], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-madza-takul", "prompt": { "id": "Kamu makan apa? (lk)" }, "answer": "ماذا تَأْكُلُ", "extra": ["تَشْرَبُ"] },
+        { "q": "choice", "k": "lat-budi-makan", "instruction": "Menurut dialog, Budi makan apa?", "prompt": { "id": "بُودِي يَأْكُلُ …", "emoji": "🍚" }, "answer": "Nasi dan ikan", "options": ["Nasi dan ikan", "Nasi dan ayam", "Roti dan pisang"], "lang": "id" },
+        { "q": "choice", "k": "lat-hasanan-arti", "instruction": "Apa artinya?", "prompt": { "ar": "حَسَنًا" }, "answer": "baiklah", "options": ["baiklah", "enak sekali", "jangan"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Nasi lemak dan nasi uduk",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "img": "u5-nasi-uduk",
+          "scene": "Morning at a small food stall near the girls' dormitory in Yogyakarta; Siti and Aisyah sit at a table, Aisyah happily eating a plate of nasi uduk with a glass of water beside her.",
+          "instruction_id": "Pagi hari di warung dekat asrama putri. Siti membelikan Aisyah sepiring nasi uduk.",
+          "rows": [
+            { "who": "siti", "ar": "صَباحَ الخَيْرِ يا عائِشَةُ. هَلْ أَنْتِ جائِعَةٌ؟", "id": "Selamat pagi, Aisyah. Apakah kamu lapar? (pr)" },
+            { "who": "aisyah", "ar": "نَعَمْ، أَنا جائِعَةٌ.", "id": "Ya, aku lapar. (pr)" },
+            { "who": "siti", "ar": "ماذا تَأْكُلِينَ فِي الفَطُورِ؟", "id": "Kamu makan apa waktu sarapan? (pr)" },
+            { "who": "aisyah", "ar": "فِي مالِيزِيا، آكُلُ ناسِي لَمَقْ.", "id": "Di Malaysia, aku makan nasi lemak." },
+            { "who": "siti", "ar": "عِنْدَنا ناسِي أُودُوقْ، هُوَ مِثْلُ ناسِي لَمَقْ.", "id": "Di sini kami punya nasi uduk, mirip nasi lemak." },
+            { "who": "aisyah", "ar": "ما أَطْيَبَ هٰذا الأَرُزَّ!", "id": "Enak sekali nasi ini!" },
+            { "who": "siti", "ar": "هَلْ تَشْرَبِينَ قَهْوَةً؟", "id": "Apakah kamu minum kopi? (pr)" },
+            { "who": "aisyah", "ar": "لا، لا أَشْرَبُ قَهْوَةً. أَشْرَبُ ماءً.", "id": "Tidak, aku tidak minum kopi. Aku minum air." }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "جائِعَةٌ", "id": "lapar (pr)", "emoji": "🤤" },
+            { "ar": "تَأْكُلِينَ", "id": "kamu makan (pr)", "emoji": "🍽️" },
+            { "ar": "تَشْرَبِينَ", "id": "kamu minum (pr)", "emoji": "🥤" },
+            { "ar": "فَطُورٌ", "id": "sarapan", "emoji": "🌅" },
+            { "ar": "عِنْدَنا", "id": "kami punya / di tempat kami", "emoji": "🏠" },
+            { "ar": "مِثْلُ", "id": "seperti, mirip", "emoji": "🟰" },
+            { "ar": "ناسِي لَمَقْ", "id": "nasi lemak (makanan Malaysia)", "emoji": "🍛" },
+            { "ar": "ناسِي أُودُوقْ", "id": "nasi uduk", "emoji": "🍛" },
+            { "ar": "ماءٌ", "id": "air", "emoji": "💧" }
+          ]
+        },
+        { "q": "choice", "k": "takulina-arti", "instruction": "Apa artinya?", "prompt": { "ar": "ماذا تَأْكُلِينَ؟" }, "answer": "Kamu makan apa? (pr)", "options": ["Kamu makan apa? (pr)", "Kamu makan apa? (lk)", "Kamu minum apa? (pr)"], "lang": "id" },
+        { "q": "choice", "k": "tanya-minum-aisyah", "instruction": "Kamu bertanya kepada Aisyah: \"Kamu minum apa?\" Pilih kalimatnya", "prompt": { "id": "Kamu minum apa? (pr)", "emoji": "👩" }, "answer": "ماذا تَشْرَبِينَ؟", "options": ["ماذا تَشْرَبِينَ؟", "ماذا تَشْرَبُ؟", "ماذا تَأْكُلِينَ؟"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-indana-uduk", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "عِنْدَنا ناسِي أُودُوقْ." }, "answer": "Kami punya nasi uduk.", "options": ["Kami punya nasi uduk.", "Aku makan nasi lemak.", "Nasi uduk mirip nasi goreng."], "lang": "id" },
+        { "q": "choice", "k": "aisyah-sarapan-malaysia", "instruction": "Menurut dialog, apa sarapan Aisyah di Malaysia?", "prompt": { "id": "فِي مالِيزِيا، عائِشَةُ تَأْكُلُ …", "emoji": "🍛" }, "answer": "Nasi lemak", "options": ["Nasi lemak", "Nasi uduk", "Roti"], "lang": "id" },
+        { "q": "choice", "k": "balas-hal-tasyrabina", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "هَلْ تَشْرَبِينَ قَهْوَةً؟" }, "answer": "لا، لا أَشْرَبُ قَهْوَةً.", "options": ["لا، لا أَشْرَبُ قَهْوَةً.", "لا، لا تَشْرَبِي قَهْوَةً.", "نَعَمْ، لا أَشْرَبُ قَهْوَةً."], "lang": "ar" },
+        { "q": "arrange", "k": "susun-hal-anti-jaiah", "prompt": { "id": "Apakah kamu lapar? (pr)" }, "answer": "هَلْ أَنْتِ جائِعَةٌ", "extra": ["جائِعٌ"] },
+        { "q": "arrange", "k": "susun-indana-uduk", "prompt": { "id": "Kami punya nasi uduk." }, "answer": "عِنْدَنا ناسِي أُودُوقْ", "extra": ["عِنْدِي"] },
+        { "q": "repeat", "k": "ucap-atyab-aruz", "who": "aisyah", "ar": "ما أَطْيَبَ هٰذا الأَرُزَّ!", "id": "Enak sekali nasi ini!" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-futur-arti", "instruction": "Apa artinya?", "prompt": { "ar": "فَطُورٌ" }, "answer": "sarapan", "options": ["sarapan", "makan malam", "rumah makan"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-tasyrabina", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "هَلْ تَشْرَبِينَ قَهْوَةً؟" }, "answer": "هَلْ تَشْرَبِينَ قَهْوَةً؟", "options": ["هَلْ تَشْرَبِينَ قَهْوَةً؟", "هَلْ تَشْرَبُ قَهْوَةً؟", "لا تَشْرَبِي قَهْوَةً."], "lang": "ar" },
+        { "q": "choice", "k": "lat-mitslu-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مِثْلُ" }, "answer": "seperti, mirip", "options": ["seperti, mirip", "kami punya", "enak sekali"], "lang": "id" },
+        { "q": "choice", "k": "lat-aisyah-minum", "instruction": "Menurut dialog, Aisyah minum apa?", "prompt": { "id": "عائِشَةُ تَشْرَبُ …", "emoji": "🥤" }, "answer": "Air", "options": ["Air", "Kopi", "Teh manis"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-asyrabu-maan", "prompt": { "id": "Aku minum air." }, "answer": "أَشْرَبُ ماءً", "extra": ["تَشْرَبِينَ"] }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Rendang buatan Ibu",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "img": "u5-rendang",
+          "scene": "Family dinner at the Ahmad home in Bandung; Bu Fatimah in a batik dress serves a bowl of rendang and rice while Pak Ahmad and Nur sit eagerly at the table.",
+          "instruction_id": "Makan malam keluarga Ahmad di Bandung. Bu Fatimah memasak rendang.",
+          "rows": [
+            { "who": "bu_fatimah", "ar": "هٰذا عَشاؤُنا.", "id": "Ini makan malam kita." },
+            { "who": "nur", "ar": "ما هٰذا يا أُمِّي؟", "id": "Ini apa, Bu?" },
+            { "who": "bu_fatimah", "ar": "هٰذا رَنْدانْغ، طَعامٌ مِنْ لَحْمٍ.", "id": "Ini rendang, makanan dari daging." },
+            { "who": "nur", "ar": "أُرِيدُ أَرُزًّا وَرَنْدانْغ!", "id": "Aku mau nasi dan rendang!" },
+            { "who": "pak_ahmad", "ar": "هَلْ تَأْكُلِينَ مَعَنا يا فاطِمَةُ؟", "id": "Kamu ikut makan bersama kami, Fatimah? (pr)" },
+            { "who": "bu_fatimah", "ar": "نَعَمْ، آكُلُ مَعَكُمْ.", "id": "Ya, aku makan bersama kalian." },
+            { "who": "pak_ahmad", "ar": "ما أَطْيَبَ هٰذا اللَّحْمَ!", "id": "Enak sekali daging ini!" },
+            { "who": "bu_fatimah", "ar": "يا أَحْمَدُ، لا تَأْكُلْ لَحْمًا كَثِيرًا!", "id": "Ahmad, jangan makan daging banyak-banyak! (lk)" },
+            { "who": "pak_ahmad", "ar": "نَعَمْ يا طَبِيبَتِي!", "id": "Siap, dokterku!" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "عَشاءٌ", "id": "makan malam", "emoji": "🌙" },
+            { "ar": "عَشاؤُنا", "id": "makan malam kita", "emoji": "🍽️" },
+            { "ar": "ما هٰذا؟", "id": "ini apa?", "emoji": "❓" },
+            { "ar": "رَنْدانْغ", "id": "rendang", "emoji": "🍖" },
+            { "ar": "طَعامٌ", "id": "makanan", "emoji": "🍲" },
+            { "ar": "لَحْمٌ", "id": "daging", "emoji": "🥩" },
+            { "ar": "مَعَنا", "id": "bersama kami / kita", "emoji": "👨‍👩‍👧" },
+            { "ar": "كَثِيرًا", "id": "banyak", "emoji": "➕" },
+            { "ar": "لا تَأْكُلْ", "id": "jangan makan (lk)", "emoji": "🚫" }
+          ]
+        },
+        { "q": "choice", "k": "la-takul-lahm-arti", "instruction": "Apa artinya?", "prompt": { "ar": "لا تَأْكُلْ لَحْمًا كَثِيرًا!" }, "answer": "Jangan makan daging banyak-banyak! (lk)", "options": ["Jangan makan daging banyak-banyak! (lk)", "Aku tidak makan daging banyak-banyak.", "Jangan minum banyak-banyak! (lk)"], "lang": "id" },
+        { "q": "choice", "k": "rendang-apa", "instruction": "Menurut dialog, rendang itu apa?", "prompt": { "ar": "رَنْدانْغ", "emoji": "🍖" }, "answer": "Makanan dari daging", "options": ["Makanan dari daging", "Makanan dari ikan", "Minuman manis"], "lang": "id" },
+        { "q": "choice", "k": "dengar-takulina-maana", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "هَلْ تَأْكُلِينَ مَعَنا يا فاطِمَةُ؟" }, "answer": "Kamu ikut makan bersama kami, Fatimah? (pr)", "options": ["Kamu ikut makan bersama kami, Fatimah? (pr)", "Kamu ikut minum bersama kami, Fatimah? (pr)", "Kami makan bersama Fatimah."], "lang": "id" },
+        { "q": "choice", "k": "balas-ma-hadza", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "ما هٰذا يا أُمِّي؟" }, "answer": "هٰذا رَنْدانْغ.", "options": ["هٰذا رَنْدانْغ.", "نَعَمْ، آكُلُ مَعَكُمْ.", "لا تَأْكُلْ لَحْمًا كَثِيرًا!"], "lang": "ar" },
+        { "q": "choice", "k": "larang-pak-ahmad", "instruction": "Bu Fatimah melarang Pak Ahmad. Kalimat yang benar adalah …", "prompt": { "id": "Jangan makan daging banyak-banyak! (lk)", "emoji": "🚫" }, "answer": "لا تَأْكُلْ لَحْمًا كَثِيرًا!", "options": ["لا تَأْكُلْ لَحْمًا كَثِيرًا!", "لا تَأْكُلِي لَحْمًا كَثِيرًا!", "لا آكُلُ لَحْمًا كَثِيرًا."], "lang": "ar" },
+        { "q": "arrange", "k": "susun-hadza-asyauna", "prompt": { "id": "Ini makan malam kita." }, "answer": "هٰذا عَشاؤُنا", "extra": ["عَشاءٌ"] },
+        { "q": "arrange", "k": "susun-atyab-lahm", "prompt": { "id": "Enak sekali daging ini!" }, "answer": "ما أَطْيَبَ هٰذا اللَّحْمَ", "extra": ["اللَّحْمُ"] },
+        { "q": "repeat", "k": "ucap-la-takul", "who": "bu_fatimah", "ar": "لا تَأْكُلْ كَثِيرًا!", "id": "Jangan makan banyak-banyak! (lk)" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-lahm-arti", "instruction": "Apa artinya?", "prompt": { "ar": "لَحْمٌ" }, "answer": "daging", "options": ["daging", "ikan", "makanan"], "lang": "id" },
+        { "q": "choice", "k": "lat-asya-arti", "instruction": "Apa artinya?", "prompt": { "ar": "عَشاءٌ" }, "answer": "makan malam", "options": ["makan malam", "sarapan", "malam hari"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-atyab-lahm", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "ما أَطْيَبَ هٰذا اللَّحْمَ!" }, "answer": "ما أَطْيَبَ هٰذا اللَّحْمَ!", "options": ["ما أَطْيَبَ هٰذا اللَّحْمَ!", "ما أَطْيَبَ هٰذا الأَرُزَّ!", "لا تَأْكُلْ لَحْمًا كَثِيرًا!"], "lang": "ar" },
+        { "q": "choice", "k": "lat-jawab-pak-ahmad", "instruction": "Menurut dialog, apa jawaban Pak Ahmad kepada Bu Fatimah?", "prompt": { "id": "Jawaban Pak Ahmad" }, "answer": "نَعَمْ يا طَبِيبَتِي!", "options": ["نَعَمْ يا طَبِيبَتِي!", "ما هٰذا يا أُمِّي؟", "أُرِيدُ أَرُزًّا وَرَنْدانْغ!"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-takulina-maana", "prompt": { "id": "Kamu ikut makan bersama kami? (pr)" }, "answer": "هَلْ تَأْكُلِينَ مَعَنا", "extra": ["تَأْكُلُ"] }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & bilangan tingkat",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Makanan dan minuman",
+          "rows": [
+            { "ar": "طَعامٌ", "id": "makanan", "emoji": "🍲" },
+            { "ar": "أَرُزٌّ", "id": "nasi", "emoji": "🍚" },
+            { "ar": "أَرُزٌّ مَقْلِيٌّ", "id": "nasi goreng", "emoji": "🍛" },
+            { "ar": "خُبْزٌ", "id": "roti", "emoji": "🍞" },
+            { "ar": "دَجاجٌ", "id": "ayam", "emoji": "🍗" },
+            { "ar": "لَحْمٌ", "id": "daging", "emoji": "🥩" },
+            { "ar": "سَمَكٌ", "id": "ikan", "emoji": "🐟" },
+            { "ar": "مَوْزٌ", "id": "pisang", "emoji": "🍌" },
+            { "ar": "شايٌ", "id": "teh", "emoji": "🍵" },
+            { "ar": "قَهْوَةٌ", "id": "kopi", "emoji": "☕", "serapan": "kahwa" },
+            { "ar": "ماءٌ", "id": "air", "emoji": "💧" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Waktu makan, tempat, dan keadaan",
+          "rows": [
+            { "ar": "فَطُورٌ", "id": "sarapan", "emoji": "🌅" },
+            { "ar": "غَداءٌ", "id": "makan siang", "emoji": "🕛" },
+            { "ar": "عَشاءٌ", "id": "makan malam", "emoji": "🌙" },
+            { "ar": "مَطْعَمٌ", "id": "rumah makan, warung makan", "emoji": "🏪" },
+            { "ar": "جائِعٌ · جائِعَةٌ", "id": "lapar (lk · pr)", "emoji": "🤤" },
+            { "ar": "حَلالٌ", "id": "halal", "emoji": "✅", "serapan": "halal" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Bilangan tingkat 1–5 (pr)",
+          "note_id": "Bentuk ini dipakai untuk kata benda perempuan, misalnya الغُرْفَةُ الأُولَى (kamar pertama) dan السّاعَةُ الثّانِيَةُ (jam dua). Bentuk laki-lakinya sudah kamu pelajari di Unit 4: الأَوَّلُ، الثّانِي، الثّالِثُ ….",
+          "rows": [
+            { "ar": "الأُولَى", "id": "pertama (pr)", "emoji": "1️⃣" },
+            { "ar": "الثّانِيَةُ", "id": "kedua (pr)", "emoji": "2️⃣" },
+            { "ar": "الثّالِثَةُ", "id": "ketiga (pr)", "emoji": "3️⃣" },
+            { "ar": "الرّابِعَةُ", "id": "keempat (pr)", "emoji": "4️⃣" },
+            { "ar": "الخامِسَةُ", "id": "kelima (pr)", "emoji": "5️⃣" }
+          ]
+        },
+        { "q": "choice", "k": "gambar-roti", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🍞" }, "answer": "خُبْزٌ", "options": ["خُبْزٌ", "مَوْزٌ", "سَمَكٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-dajaj", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "دَجاجٌ" }, "answer": "ayam", "options": ["ayam", "daging", "ikan"], "lang": "id" },
+        { "q": "choice", "k": "aruz-maqli-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أَرُزٌّ مَقْلِيٌّ" }, "answer": "nasi goreng", "options": ["nasi goreng", "nasi", "nasi uduk"], "lang": "id" },
+        { "q": "choice", "k": "makan-siang-ar", "instruction": "Bahasa Arabnya \"makan siang\" adalah …", "prompt": { "id": "makan siang", "emoji": "🕛" }, "answer": "غَداءٌ", "options": ["غَداءٌ", "عَشاءٌ", "فَطُورٌ"], "lang": "ar" },
+        { "q": "choice", "k": "gambar-kopi", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "☕" }, "answer": "قَهْوَةٌ", "options": ["قَهْوَةٌ", "شايٌ", "ماءٌ"], "lang": "ar" },
+        { "q": "choice", "k": "halal-arti", "instruction": "Apa artinya?", "prompt": { "ar": "حَلالٌ" }, "answer": "halal (boleh menurut syariat)", "options": ["halal (boleh menurut syariat)", "lapar", "manis"], "lang": "id" },
+        { "q": "choice", "k": "kamar-ketiga", "instruction": "Pilih yang benar", "prompt": { "id": "kamar ketiga", "emoji": "🚪" }, "answer": "الغُرْفَةُ الثّالِثَةُ", "options": ["الغُرْفَةُ الثّالِثَةُ", "الغُرْفَةُ الثّالِثُ", "الغُرْفَةُ الثّانِيَةُ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-jam-lima", "instruction": "Dengarkan. Jam berapa?", "prompt": { "listen": "السّاعَةُ الخامِسَةُ" }, "answer": "jam lima", "options": ["jam lima", "jam empat", "jam dua"], "lang": "id" },
+        { "q": "choice", "k": "matam-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مَطْعَمٌ" }, "answer": "rumah makan, warung makan", "options": ["rumah makan, warung makan", "dapur", "makanan"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-gambar-ikan", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🐟" }, "answer": "سَمَكٌ", "options": ["سَمَكٌ", "لَحْمٌ", "دَجاجٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-mauz", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "مَوْزٌ" }, "answer": "pisang", "options": ["pisang", "roti", "air"], "lang": "id" },
+        { "q": "choice", "k": "lat-makan-malam-ar", "instruction": "Bahasa Arabnya \"makan malam\" adalah …", "prompt": { "id": "makan malam", "emoji": "🌙" }, "answer": "عَشاءٌ", "options": ["عَشاءٌ", "غَداءٌ", "فَطُورٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-kamar-pertama", "instruction": "Pilih yang benar", "prompt": { "id": "kamar pertama", "emoji": "🚪" }, "answer": "الغُرْفَةُ الأُولَى", "options": ["الغُرْفَةُ الأُولَى", "الغُرْفَةُ الأَوَّلُ", "الغُرْفَةُ الرّابِعَةُ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-jam-dua", "instruction": "Dengarkan. Jam berapa?", "prompt": { "listen": "السّاعَةُ الثّانِيَةُ" }, "answer": "jam dua", "options": ["jam dua", "jam tiga", "jam lima"], "lang": "id" },
+        { "q": "choice", "k": "lat-gambar-air", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "💧" }, "answer": "ماءٌ", "options": ["ماءٌ", "شايٌ", "قَهْوَةٌ"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Fi'il mudhari': makan dan minum",
+          "groups": [
+            {
+              "title_ar": "آكُلُ · تَأْكُلُ · تَأْكُلِينَ · يَأْكُلُ · نَأْكُلُ",
+              "note_id": "Huruf awal menunjukkan pelaku: أَ = aku, تَ = kamu / dia (pr), يَ = dia (lk), نَ = kami. Untuk \"kamu\" perempuan ditambah ـِينَ di akhir.",
+              "rows": [
+                { "ar": "أَنا آكُلُ", "id": "aku makan" },
+                { "ar": "أَنْتَ تَأْكُلُ", "id": "kamu (lk) makan" },
+                { "ar": "أَنْتِ تَأْكُلِينَ", "id": "kamu (pr) makan" },
+                { "ar": "هُوَ يَأْكُلُ", "id": "dia (lk) makan" },
+                { "ar": "هِيَ تَأْكُلُ", "id": "dia (pr) makan" },
+                { "ar": "نَحْنُ نَأْكُلُ", "id": "kami / kita makan" }
+              ]
+            },
+            {
+              "title_ar": "أَشْرَبُ · تَشْرَبُ · تَشْرَبِينَ · يَشْرَبُ · نَشْرَبُ",
+              "note_id": "Polanya sama.",
+              "rows": [
+                { "ar": "أَنْتِ تَشْرَبِينَ شايًا.", "id": "Kamu (pr) minum teh." },
+                { "ar": "نَحْنُ نَشْرَبُ ماءً.", "id": "Kami minum air." }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Tidak dan jangan",
+          "groups": [
+            {
+              "title_ar": "هَلْ تَأْكُلُ …؟ ← نَعَمْ، آكُلُ … · لا، لا آكُلُ …",
+              "note_id": "لا + mudhari' biasa = tidak.",
+              "rows": [
+                { "ar": "هَلْ تَأْكُلُ سَمَكًا؟", "id": "Apakah kamu makan ikan? (lk)" },
+                { "ar": "نَعَمْ، آكُلُ سَمَكًا.", "id": "Ya, aku makan ikan." },
+                { "ar": "لا، لا آكُلُ سَمَكًا.", "id": "Tidak, aku tidak makan ikan." }
+              ]
+            },
+            {
+              "title_ar": "لا تَأْكُلْ · لا تَأْكُلِي",
+              "note_id": "Untuk melarang (jangan): لا + تَـ…, akhirnya mati (sukun) untuk laki-laki. Untuk perempuan, ـِينَ menjadi ـِي.",
+              "rows": [
+                { "ar": "لا تَأْكُلْ!", "id": "Jangan makan! (lk)" },
+                { "ar": "لا تَأْكُلِي!", "id": "Jangan makan! (pr)" },
+                { "ar": "لا تَشْرَبْ قَهْوَةً!", "id": "Jangan minum kopi! (lk)" },
+                { "ar": "لا تَشْرَبِي قَهْوَةً!", "id": "Jangan minum kopi! (pr)" }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Milik kami dan ungkapan kagum",
+          "groups": [
+            {
+              "title_ar": "ـنا",
+              "note_id": "Akhiran ـنا berarti \"kami / kita\".",
+              "rows": [
+                { "ar": "بَيْتُنا", "id": "rumah kami" },
+                { "ar": "طَعامُنا", "id": "makanan kami" },
+                { "ar": "عِنْدَنا", "id": "kami punya" },
+                { "ar": "مَعَنا", "id": "bersama kami" }
+              ]
+            },
+            {
+              "title_ar": "ما أَطْيَبَ …!",
+              "note_id": "Ungkapan kagum: \"enak sekali …!\". Kata sesudahnya berakhiran fathah (ـَ).",
+              "rows": [
+                { "ar": "ما أَطْيَبَ الطَّعامَ!", "id": "Enak sekali makanannya!" },
+                { "ar": "ما أَطْيَبَ السَّمَكَ!", "id": "Enak sekali ikannya!" }
+              ]
+            }
+          ]
+        },
+        { "q": "choice", "k": "lengkapi-takulina", "instruction": "Lengkapi: \"Siti, kamu makan apa?\"", "prompt": { "ar": "ماذا … يا سِيتِي؟" }, "answer": "تَأْكُلِينَ", "options": ["تَأْكُلِينَ", "تَأْكُلُ", "آكُلُ", "يَأْكُلُ"], "lang": "ar" },
+        { "q": "choice", "k": "lengkapi-yasyrabu", "instruction": "Lengkapi: \"Budi minum kopi.\"", "prompt": { "ar": "بُودِي … قَهْوَةً." }, "answer": "يَشْرَبُ", "options": ["يَشْرَبُ", "أَشْرَبُ", "تَشْرَبِينَ"], "lang": "ar" },
+        { "q": "choice", "k": "lengkapi-nakulu", "instruction": "Lengkapi: \"Kami makan nasi.\"", "prompt": { "ar": "نَحْنُ … أَرُزًّا." }, "answer": "نَأْكُلُ", "options": ["نَأْكُلُ", "آكُلُ", "يَأْكُلُ"], "lang": "ar" },
+        { "q": "choice", "k": "jawab-tidak-lahm", "instruction": "Jawab dengan \"tidak\"", "prompt": { "ar": "هَلْ تَأْكُلُ لَحْمًا؟" }, "answer": "لا، لا آكُلُ لَحْمًا.", "options": ["لا، لا آكُلُ لَحْمًا.", "لا، لا تَأْكُلْ لَحْمًا.", "نَعَمْ، آكُلُ لَحْمًا."], "lang": "ar" },
+        { "q": "choice", "k": "larang-aisyah-kopi", "instruction": "Larang Aisyah: \"Jangan minum kopi!\"", "prompt": { "id": "Jangan minum kopi! (pr)", "emoji": "👩" }, "answer": "لا تَشْرَبِي قَهْوَةً!", "options": ["لا تَشْرَبِي قَهْوَةً!", "لا تَشْرَبْ قَهْوَةً!", "لا تَشْرَبِينَ قَهْوَةً."], "lang": "ar" },
+        { "q": "choice", "k": "jangan-makan-lk", "instruction": "Mana yang artinya \"Jangan makan! (lk)\"?", "prompt": { "id": "Jangan makan! (lk)", "emoji": "👦" }, "answer": "لا تَأْكُلْ!", "options": ["لا تَأْكُلْ!", "لا آكُلُ.", "لا تَأْكُلِي!"], "lang": "ar" },
+        { "q": "choice", "k": "rumah-kami", "instruction": "Bahasa Arabnya \"rumah kami\" adalah …", "prompt": { "id": "rumah kami", "emoji": "🏠" }, "answer": "بَيْتُنا", "options": ["بَيْتُنا", "بَيْتِي", "بَيْتُهُ"], "lang": "ar" },
+        { "q": "choice", "k": "atyab-samak-benar", "instruction": "Pilih kalimat yang benar: \"Enak sekali ikannya!\"", "prompt": { "id": "Enak sekali ikannya!", "emoji": "🐟" }, "answer": "ما أَطْيَبَ السَّمَكَ!", "options": ["ما أَطْيَبَ السَّمَكَ!", "ما أَطْيَبَ السَّمَكُ!", "ما أَطْيَبُ السَّمَكَ!"], "lang": "ar" },
+        { "q": "arrange", "k": "susun-la-tasyrabi", "prompt": { "id": "Jangan minum kopi! (pr)" }, "answer": "لا تَشْرَبِي قَهْوَةً", "extra": ["تَشْرَبْ"] },
+        { "q": "arrange", "k": "susun-nahnu-nakulu", "prompt": { "id": "Kami makan roti dan pisang." }, "answer": "نَحْنُ نَأْكُلُ خُبْزًا وَمَوْزًا", "extra": ["آكُلُ"] }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-lengkapi-tasyrabina", "instruction": "Lengkapi: \"Apakah kamu minum teh, Aisyah?\"", "prompt": { "ar": "هَلْ … شايًا يا عائِشَةُ؟" }, "answer": "تَشْرَبِينَ", "options": ["تَشْرَبِينَ", "تَشْرَبُ", "يَشْرَبُ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-lengkapi-siti-takulu", "instruction": "Lengkapi: \"Siti makan roti.\"", "prompt": { "ar": "سِيتِي … خُبْزًا." }, "answer": "تَأْكُلُ", "options": ["تَأْكُلُ", "يَأْكُلُ", "تَأْكُلِينَ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-jangan-minum-lk", "instruction": "Mana yang artinya \"Jangan minum! (lk)\"?", "prompt": { "id": "Jangan minum! (lk)", "emoji": "👦" }, "answer": "لا تَشْرَبْ!", "options": ["لا تَشْرَبْ!", "لا تَشْرَبِي!", "لا أَشْرَبُ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-makanan-kami", "instruction": "Bahasa Arabnya \"makanan kami\" adalah …", "prompt": { "id": "makanan kami", "emoji": "🍲" }, "answer": "طَعامُنا", "options": ["طَعامُنا", "طَعامِي", "طَعامُكَ"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-atyab-taam", "prompt": { "id": "Enak sekali makanannya!" }, "answer": "ما أَطْيَبَ الطَّعامَ", "extra": ["الطَّعامُ"] },
+        { "q": "choice", "k": "lat-jawab-ya-maa", "instruction": "Jawab dengan \"ya\"", "prompt": { "ar": "هَلْ تَشْرَبِينَ ماءً؟" }, "answer": "نَعَمْ، أَشْرَبُ ماءً.", "options": ["نَعَمْ، أَشْرَبُ ماءً.", "نَعَمْ، تَشْرَبِينَ ماءً.", "لا، لا أَشْرَبُ ماءً."], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ص dan س, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ص dan س",
+          "note_id": "س (sin) adalah \"s\" biasa yang tipis. ص (shad) diucapkan tebal: pangkal lidah diangkat ke belakang dan bibir sedikit membulat, sehingga vokal sesudahnya terdengar seperti \"o\". Contoh: صَيْفٌ (musim panas) / سَيْفٌ (pedang), صُورَةٌ (gambar) / سُورَةٌ (surah), صارَ (menjadi) / سارَ (berjalan), نَصِيبٌ (bagian) / نَسِيبٌ (kerabat karena pernikahan). Ketuk tiap kotak dan bandingkan.",
+          "pairs": [["صَ", "سَ"], ["صُ", "سُ"], ["صَيْفٌ", "سَيْفٌ"], ["صُورَةٌ", "سُورَةٌ"], ["صارَ", "سارَ"], ["نَصِيبٌ", "نَسِيبٌ"]]
+        },
+        { "q": "choice", "k": "dengar-shaif", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "صَيْفٌ" }, "answer": "صَيْفٌ", "options": ["صَيْفٌ", "سَيْفٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-surah", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "سُورَةٌ" }, "answer": "سُورَةٌ", "options": ["سُورَةٌ", "صُورَةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-shara", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "صارَ" }, "answer": "صارَ", "options": ["صارَ", "سارَ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-nasib", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "نَسِيبٌ" }, "answer": "نَسِيبٌ", "options": ["نَسِيبٌ", "نَصِيبٌ"], "lang": "ar" },
+        { "q": "choice", "k": "cari-shad", "instruction": "Kata mana yang memuat huruf ص?", "prompt": { "id": "Cari huruf shad (ص)" }, "answer": "صَباحٌ", "options": ["صَباحٌ", "سَمَكٌ", "شايٌ"], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-shurah", "ar": "صُورَةٌ", "id": "gambar, foto" },
+        { "q": "repeat", "k": "ucap-surah", "ar": "سُورَةٌ", "id": "surah" },
+        { "q": "choice", "k": "simak-siti-pagi", "instruction": "Dengarkan. Apa yang diminum Siti pada pagi hari?", "prompt": { "listen": "أَنا سِيتِي. فِي الصَّباحِ أَشْرَبُ شايًا." }, "answer": "Teh", "options": ["Teh", "Kopi", "Air"], "lang": "id" },
+        { "q": "choice", "k": "simak-budi-asya", "instruction": "Dengarkan. Apa yang dimakan Budi saat makan malam?", "prompt": { "listen": "بُودِي يَأْكُلُ سَمَكًا فِي العَشاءِ." }, "answer": "Ikan", "options": ["Ikan", "Ayam", "Daging"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-dengar-saif", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "سَيْفٌ" }, "answer": "سَيْفٌ", "options": ["سَيْفٌ", "صَيْفٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-shurah", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "صُورَةٌ" }, "answer": "صُورَةٌ", "options": ["صُورَةٌ", "سُورَةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-sara", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "سارَ" }, "answer": "سارَ", "options": ["سارَ", "صارَ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-nashib", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "نَصِيبٌ" }, "answer": "نَصِيبٌ", "options": ["نَصِيبٌ", "نَسِيبٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-simak-aisyah", "instruction": "Dengarkan. Apa yang dimakan Aisyah?", "prompt": { "listen": "عائِشَةُ تَأْكُلُ خُبْزًا وَمَوْزًا." }, "answer": "Roti dan pisang", "options": ["Roti dan pisang", "Nasi dan ikan", "Roti dan daging"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Ungkapan di meja makan",
+          "rows": [
+            { "ar": "بِسْمِ اللّٰهِ", "id": "dengan nama Allah (sebelum makan)", "emoji": "🤲", "serapan": "bismillah" },
+            { "ar": "الحَمْدُ لِلّٰهِ", "id": "segala puji bagi Allah (sesudah makan)", "emoji": "🙏", "serapan": "alhamdulillah" },
+            { "ar": "عَطْشانُ · عَطْشَى", "id": "haus (lk · pr)", "emoji": "🥵" },
+            { "ar": "مَتَى الغَداءُ؟", "id": "kapan makan siang?", "emoji": "🕛" },
+            { "ar": "هَلْ هٰذا حَلالٌ؟", "id": "apakah ini halal?", "emoji": "✅" }
+          ]
+        },
+        { "q": "repeat", "k": "ucap-atsyan", "who": "budi", "ar": "أَنا عَطْشانُ.", "id": "Aku haus. (lk)" },
+        { "q": "speak", "k": "pesan-angkringan", "instruction": "Pesan makanan dan minuman di angkringan", "prompt": { "id": "Sebut makanan dan minuman yang kamu mau." }, "model": [
+          { "who": "rizki", "ar": "أُرِيدُ أَرُزًّا وَدَجاجًا، مِنْ فَضْلِكَ.", "id": "Saya mau nasi dan ayam, tolong. (lk)" },
+          { "who": "rizki", "ar": "وَأُرِيدُ شايًا حُلْوًا.", "id": "Dan saya mau teh manis." }
+        ] },
+        { "q": "choice", "k": "tanya-halal-dajaj", "instruction": "Kamu ingin tahu apakah ayam ini halal. Kamu bertanya …", "prompt": { "id": "Apakah ayam ini halal?", "emoji": "🍗" }, "answer": "هَلْ هٰذا الدَّجاجُ حَلالٌ؟", "options": ["هَلْ هٰذا الدَّجاجُ حَلالٌ؟", "ما أَطْيَبَ هٰذا الدَّجاجَ!", "هَلْ أَنْتَ جائِعٌ؟"], "lang": "ar" },
+        { "q": "choice", "k": "larang-siti-kopi", "instruction": "Siti mau minum kopi malam-malam. Kamu berkata …", "prompt": { "id": "Jangan minum kopi malam-malam! (pr)", "emoji": "🌙" }, "answer": "لا تَشْرَبِي قَهْوَةً فِي المَساءِ.", "options": ["لا تَشْرَبِي قَهْوَةً فِي المَساءِ.", "لا تَشْرَبْ قَهْوَةً فِي المَساءِ.", "لا أَشْرَبُ قَهْوَةً فِي المَساءِ."], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-atyab-taam", "who": "siti", "ar": "ما أَطْيَبَ الطَّعامَ!", "id": "Enak sekali makanannya!" },
+        { "q": "speak", "k": "tanya-sarapan-pr", "instruction": "Tanyakan kepada teman perempuanmu apa yang ia makan dan minum waktu sarapan", "prompt": { "id": "Ingat: pakai bentuk perempuan (تَأْكُلِينَ، تَشْرَبِينَ)." }, "model": [
+          { "who": "siti", "ar": "ماذا تَأْكُلِينَ فِي الفَطُورِ؟", "id": "Kamu makan apa waktu sarapan? (pr)" },
+          { "who": "siti", "ar": "وَماذا تَشْرَبِينَ؟", "id": "Kamu minum apa? (pr)" }
+        ] },
+        { "q": "choice", "k": "sebelum-makan", "instruction": "Sebelum makan, kamu mengucapkan …", "prompt": { "id": "Sebelum makan", "emoji": "🍽️" }, "answer": "بِسْمِ اللّٰهِ.", "options": ["بِسْمِ اللّٰهِ.", "الحَمْدُ لِلّٰهِ.", "مَعَ السَّلامَةِ."], "lang": "ar" },
+        { "q": "choice", "k": "jawab-mata-asya", "instruction": "Pilih jawaban yang tepat", "prompt": { "ar": "مَتَى العَشاءُ؟" }, "answer": "فِي المَساءِ.", "options": ["فِي المَساءِ.", "فِي الصَّباحِ.", "أَشْرَبُ شايًا."], "lang": "ar" },
+        { "q": "speak", "k": "cerita-waktu-makan", "instruction": "Ceritakan apa yang kamu makan waktu sarapan, makan siang, dan makan malam", "prompt": { "id": "Pakai makananmu sendiri." }, "model": [
+          { "who": "rizki", "ar": "فِي الفَطُورِ آكُلُ خُبْزًا.", "id": "Waktu sarapan aku makan roti." },
+          { "who": "rizki", "ar": "فِي الغَداءِ آكُلُ أَرُزًّا وَدَجاجًا.", "id": "Waktu makan siang aku makan nasi dan ayam." },
+          { "who": "rizki", "ar": "فِي العَشاءِ آكُلُ أَرُزًّا مَقْلِيًّا.", "id": "Waktu makan malam aku makan nasi goreng." }
+        ] },
+        { "q": "repeat", "k": "ucap-atsya", "who": "aisyah", "ar": "أَنا عَطْشَى.", "id": "Aku haus. (pr)" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-bismillah-kapan", "instruction": "Kapan kita mengucapkan بِسْمِ اللّٰهِ?", "prompt": { "ar": "بِسْمِ اللّٰهِ" }, "answer": "Sebelum makan", "options": ["Sebelum makan", "Sesudah makan", "Waktu berpamitan"], "lang": "id" },
+        { "q": "choice", "k": "lat-atsya-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أَنا عَطْشَى." }, "answer": "Aku haus. (pr)", "options": ["Aku haus. (pr)", "Aku lapar. (pr)", "Aku haus. (lk)"], "lang": "id" },
+        { "q": "choice", "k": "lat-halal-lahm-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هَلْ هٰذا اللَّحْمُ حَلالٌ؟" }, "answer": "Apakah daging ini halal?", "options": ["Apakah daging ini halal?", "Enak sekali daging ini!", "Ini daging halal."], "lang": "id" },
+        { "q": "choice", "k": "lat-balas-jaiah", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "هَلْ أَنْتِ جائِعَةٌ؟" }, "answer": "نَعَمْ، أَنا جائِعَةٌ.", "options": ["نَعَمْ، أَنا جائِعَةٌ.", "نَعَمْ، أَنا جائِعٌ.", "لا تَأْكُلِي!"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Malam di angkringan",
+          "img": "u5-malam-budi",
+          "scene": "Budi alone at an angkringan food cart at night, eating rice and fish and drinking a glass of sweet tea under a warm hanging lamp.",
+          "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            { "ar": "فِي المَساءِ، يَذْهَبُ بُودِي إِلَى المَطْعَمِ.", "id": "Malam hari, Budi pergi ke warung makan (angkringan).", "emoji": "🌙" },
+            { "ar": "هُوَ جائِعٌ وَعَطْشانُ.", "id": "Dia lapar dan haus." },
+            { "ar": "يَأْكُلُ أَرُزًّا وَسَمَكًا.", "id": "Dia makan nasi dan ikan.", "emoji": "🍚" },
+            { "ar": "وَيَشْرَبُ شايًا حُلْوًا.", "id": "Dan dia minum teh manis.", "emoji": "🍵" },
+            { "ar": "لا يَشْرَبُ قَهْوَةً فِي المَساءِ.", "id": "Dia tidak minum kopi pada malam hari." },
+            { "ar": "الطَّعامُ حَلالٌ وَطَيِّبٌ.", "id": "Makanannya halal dan enak." }
+          ]
+        },
+        { "q": "choice", "k": "baca-budi-qahwah", "instruction": "Benar atau salah? \"Budi minum kopi di angkringan.\"", "prompt": { "ar": "بُودِي يَشْرَبُ قَهْوَةً." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-budi-makan", "instruction": "Budi makan apa?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Nasi dan ikan", "options": ["Nasi dan ikan", "Roti dan pisang", "Nasi goreng dan daging"], "lang": "id" },
+        { "q": "choice", "k": "baca-taam-halal", "instruction": "Benar atau salah? \"Makanannya halal.\"", "prompt": { "ar": "الطَّعامُ حَلالٌ." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-budi-kapan", "instruction": "Kapan Budi pergi ke angkringan?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Malam hari", "options": ["Malam hari", "Pagi hari", "Siang hari"], "lang": "id" },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Makan di rumah Nur",
+          "img": "u5-makan-nur",
+          "scene": "Breakfast at the Ahmad home in Bandung: Nur in her school uniform eats bread and a banana at the table while Bu Fatimah stirs a pot in the kitchen behind her.",
+          "rows": [
+            { "ar": "أَنا نُور، مِنْ بانْدُونْغ.", "id": "Aku Nur, dari Bandung." },
+            { "ar": "فِي الفَطُورِ، نَأْكُلُ خُبْزًا وَمَوْزًا.", "id": "Waktu sarapan, kami makan roti dan pisang.", "emoji": "🍞" },
+            { "ar": "فِي الغَداءِ، آكُلُ أَرُزًّا وَدَجاجًا فِي المَدْرَسَةِ.", "id": "Waktu makan siang, aku makan nasi dan ayam di sekolah.", "emoji": "🏫" },
+            { "ar": "فِي العَشاءِ، تَطْبُخُ أُمِّي رَنْدانْغ.", "id": "Untuk makan malam, ibuku memasak rendang.", "emoji": "🍖" },
+            { "ar": "أَبِي يَأْكُلُ لَحْمًا كَثِيرًا.", "id": "Ayahku makan banyak daging." },
+            { "ar": "ما أَطْيَبَ طَعامَ أُمِّي!", "id": "Enak sekali masakan ibuku!" }
+          ]
+        },
+        { "q": "choice", "k": "baca-nur-futur", "instruction": "Apa sarapan keluarga Nur?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Roti dan pisang", "options": ["Roti dan pisang", "Nasi dan ayam", "Nasi uduk"], "lang": "id" },
+        { "q": "choice", "k": "baca-nur-ghada-rumah", "instruction": "Benar atau salah? \"Nur makan siang di rumah.\"", "prompt": { "id": "Menurut bacaan 2", "emoji": "🏠" }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-siapa-masak", "instruction": "Siapa yang memasak rendang?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Ibu Nur", "options": ["Ibu Nur", "Ayah Nur", "Nur"], "lang": "id" },
+        { "q": "choice", "k": "baca-gambar-mauz", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🍌" }, "answer": "مَوْزٌ", "options": ["مَوْزٌ", "خُبْزٌ", "دَجاجٌ"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-baca-budi-atsyan", "instruction": "Benar atau salah? \"Budi haus.\"", "prompt": { "ar": "بُودِي عَطْشانُ." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-abi-lahm", "instruction": "Benar atau salah? \"Ayah Nur makan banyak daging.\"", "prompt": { "ar": "أَبُو نُور يَأْكُلُ لَحْمًا كَثِيرًا." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-tathbukhu-arti", "instruction": "Apa artinya?", "prompt": { "ar": "تَطْبُخُ أُمِّي رَنْدانْغ." }, "answer": "Ibuku memasak rendang.", "options": ["Ibuku memasak rendang.", "Ibuku makan rendang.", "Ibuku membeli rendang."], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-budi-minum", "instruction": "Budi minum apa?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Teh manis", "options": ["Teh manis", "Kopi", "Air"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis ط ظ ع غ",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Huruf ط ظ ع غ",
+          "instruction_id": "Dua pasang huruf yang hanya dibedakan oleh titik. Telusuri bentuknya.",
+          "rows": [
+            { "ar": "ط", "id": "tha" },
+            { "ar": "ظ", "id": "zha" },
+            { "ar": "ع", "id": "'ain" },
+            { "ar": "غ", "id": "ghain" }
+          ]
+        },
+        { "q": "choice", "k": "huruf-tha", "instruction": "Huruf apa ini?", "prompt": { "ar": "ط" }, "answer": "tha", "options": ["tha", "zha", "'ain"], "lang": "id" },
+        { "q": "choice", "k": "titik-zha", "instruction": "Huruf mana yang bentuknya seperti ط tetapi bertitik satu di atas?", "prompt": { "id": "tha + titik = …" }, "answer": "ظ", "options": ["ظ", "ض", "غ"], "lang": "ar" },
+        { "q": "choice", "k": "titik-ghain", "instruction": "Huruf mana yang bentuknya seperti ع tetapi bertitik satu di atas?", "prompt": { "id": "'ain + titik = …" }, "answer": "غ", "options": ["غ", "خ", "ظ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-gha", "instruction": "Dengarkan. Huruf apa yang kamu dengar?", "prompt": { "listen": "غَ" }, "answer": "غ", "options": ["غ", "ع", "ك"], "lang": "ar" },
+        {
+          "card": "writing",
+          "section": "Huruf itu dalam kata",
+          "instruction_id": "Perhatikan bentuk ع di awal (عَشاءٌ), di tengah (طَعامٌ), dan di akhir (جائِعٌ).",
+          "rows": [
+            { "ar": "طَعامٌ", "id": "makanan" },
+            { "ar": "عَطْشانُ", "id": "haus (lk)" },
+            { "ar": "غَداءٌ", "id": "makan siang" },
+            { "ar": "عَشاءٌ", "id": "makan malam" },
+            { "ar": "جائِعٌ", "id": "lapar (lk)" },
+            { "ar": "الظُّهْرُ", "id": "zuhur" }
+          ]
+        },
+        { "q": "arrange", "k": "eja-taam", "instruction": "Susun hurufnya", "prompt": { "id": "طَعامٌ (makanan)" }, "answer": "ط ع ا م", "extra": ["ظ"] },
+        { "q": "arrange", "k": "eja-ghada", "instruction": "Susun hurufnya", "prompt": { "id": "غَداءٌ (makan siang)" }, "answer": "غ د ا ء", "extra": ["ع"] },
+        { "q": "choice", "k": "tulis-asya", "instruction": "Mana tulisan \"makan malam\" yang benar?", "prompt": { "id": "makan malam" }, "answer": "عَشاءٌ", "options": ["عَشاءٌ", "غَشاءٌ", "عَساءٌ"], "lang": "ar" },
+        { "q": "choice", "k": "awal-ghada", "instruction": "Huruf pertama kata غَداءٌ adalah …", "prompt": { "ar": "غَداءٌ" }, "answer": "غ", "options": ["غ", "ع", "ق"], "lang": "ar" },
+        { "q": "choice", "k": "cari-tha", "instruction": "Kata mana yang memuat huruf ط?", "prompt": { "id": "Cari huruf tha (ط)" }, "answer": "عَطْشانُ", "options": ["عَطْشانُ", "شايٌ", "سَمَكٌ"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-huruf-ain", "instruction": "Huruf apa ini?", "prompt": { "ar": "ع" }, "answer": "'ain", "options": ["'ain", "ghain", "tha"], "lang": "id" },
+        { "q": "choice", "k": "lat-huruf-zha", "instruction": "Huruf apa ini?", "prompt": { "ar": "ظ" }, "answer": "zha", "options": ["zha", "tha", "ghain"], "lang": "id" },
+        { "q": "arrange", "k": "lat-eja-jai", "instruction": "Susun hurufnya", "prompt": { "id": "جائِعٌ (lapar)" }, "answer": "ج ا ئ ع", "extra": ["غ"] },
+        { "q": "choice", "k": "lat-cari-ghain", "instruction": "Kata mana yang memuat huruf غ?", "prompt": { "id": "Cari huruf ghain (غ)" }, "answer": "غَداءٌ", "options": ["غَداءٌ", "عَشاءٌ", "طَعامٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-akhir-jai", "instruction": "Huruf terakhir kata جائِعٌ adalah …", "prompt": { "ar": "جائِعٌ" }, "answer": "ع", "options": ["ع", "غ", "ء"], "lang": "ar" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2590 @@
+{
+  "unit": 13,
+  "book": "1b",
+  "title_ar": "السَّفَرُ",
+  "title_id": "Bepergian",
+  "notes": "Semester 2. Yusuf menyelesaikan programnya dan pulang ke Istanbul (setelah unit ini Yusuf tidak lagi di ma'had). Dialog 1: Rizki mengantar Yusuf di Bandara Soekarno-Hatta (tiket, koper, isi koper, jam berangkat, pamit). Dialog 2: Aisyah kembali dari Bali, disambut Siti (مِنْ أَيْنَ أَنْتِ قادِمَةٌ، ماذا فِي هٰذا الكِيسِ). Dialog 3: tas Rizki tertinggal di kereta; Rizki dan Pak Ahmad melapor ke kantor barang hilang Stasiun Gambir (versi awal: petugas tidak bersuara; lihat pemeriksaan di bawah). Bacaan: akhir pekan keluarga Ahmad di hotel dekat Istiqlal + kartu tamu hotel (kartu data). Pola: مِنْ أَيْنَ أَنْتَ قادِمٌ، ماذا فِي … ← فِيهِ/فِيها، لا nafiyah lil-jins، kolom formulir. Arah: شَمال جَنُوب شَرْق غَرْب. Bunyi: fathah/alif. Menulis: imla' kata dan kalimat pendek (choice/arrange dengan audio). Tanpa bilangan baru. Ditulis tanpa membuka teks ABY; cek kemiripan ABY belum dilakukan. | PEMERIKSAAN INDEPENDEN (2026-10-04): harakat/i'rab baris demi baris dicek; tidak ada galat i'rab (يُوسُفُ/أَحْمَدَ ghairu munsarif, نُور tanpa i'rab, لا nafiyah lil-jins benar). Perbaikan: kosakata yang sudah diajarkan dihapus dari 'Kata baru' (كَبِيرَةٌ/صَغِيرَةٌ U11, مَحَطَّةٌ U11, تَرَكْتُها U10, هَدِيَّةٌ ganda D1–D2); bacaan 1 dibetulkan logikanya (tas belum di kantor barang hilang saat Rizki tiba → لٰكِنَّهُ تَرَكَ حَقِيبَتَهُ فِي القِطارِ); note_id kata baru ditambahkan pada dua kartu bacaan (نَزَلَ فِي، طابِقٌ، وَصَلَ؛ بِطاقَةٌ، ضَيْفٌ، عَدَدٌ، أَشْخاصٌ); pasangan bunyi جَلَسَ/جالَسَ diganti عَلَمٌ/عالَمٌ (soal lat-dengar-jalasa diganti total → lat-dengar-alam); كَتَبَ/كاتَبَ dipertahankan (pasangan baku wazan fa'ala/faa'ala). Soal arrange dibuat satu urutan (susun-uktub-ismak tanpa هُنا yang bisa pindah; susun-tadzkirah-hatif diganti كَمْ حَقِيبَةً مَعَكَ karena khabar muqaddam). Keputusan: isian kewarganegaraan muannats mengikuti الجِنْسِيَّةُ dipertahankan (benar secara nahwu; soal tidak memuat pilihan mudzakkar sehingga tidak ambigu). CEK KEMIRIPAN ABY 1/13 (hlm. PDF 132–139, visual): Dialog 3 lama (petugas menanyakan warna tas → لَوْنُها … → ماذا فِيها → فِيها … مَلابِس) mengikuti urutan Hiwar 3 ABY (tas hilang: ما لون الحقيبة/لونها أسود/ماذا في الحقيبة/في الحقيبة ملابس) → DITULIS ULANG: petugas kini figuran_lk (المُوَظَّفُ) yang menanyakan nomor kursi (مَقْعَدٌ, kata baru) dan uang, Rizki menggambarkan tas sendiri; jawaban soal balas-ma-lawnuha diganti dari لَوْنُها أَسْوَدُ (identik ABY) ke لَوْنُها أَخْضَرُ. Sisa kemiripan hanya satu kalimat lepas: مَتَى تُغادِرُ الطّائِرَةُ (Hiwar 1 ABY) dan فُنْدُقٌ قَرِيبٌ مِنْ مَسْجِدِ … (Hiwar 2 ABY), tidak berurutan. cek_kemiripan.py: 0 identik (catatan: pages-json belum mencakup 1B, jadi cek visual yang menentukan).",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Yusuf pulang ke Turki",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Program Yusuf di ma'had sudah selesai, dan malam ini ia pulang ke Istanbul. Rizki mengantarnya ke Bandara Soekarno-Hatta di Jakarta.",
+          "rows": [
+            {
+              "who": "rizki",
+              "ar": "أَيْنَ تَذْكِرَتُكَ يا يُوسُفُ؟",
+              "id": "Di mana tiketmu, Yusuf?"
+            },
+            {
+              "who": "yusuf",
+              "ar": "التَّذْكِرَةُ فِي هاتِفِي، وَجَوازُ السَّفَرِ مَعِي.",
+              "id": "Tiketnya di ponselku, dan paspornya ada padaku."
+            },
+            {
+              "who": "rizki",
+              "ar": "كَمْ حَقِيبَةً مَعَكَ؟",
+              "id": "Kamu bawa berapa koper?"
+            },
+            {
+              "who": "yusuf",
+              "ar": "حَقِيبَتانِ: كَبِيرَةٌ وَصَغِيرَةٌ.",
+              "id": "Dua: yang besar dan yang kecil."
+            },
+            {
+              "who": "rizki",
+              "ar": "ماذا فِي الحَقِيبَةِ الكَبِيرَةِ؟",
+              "id": "Apa isi koper yang besar?"
+            },
+            {
+              "who": "yusuf",
+              "ar": "فِيها مَلابِسُ وَهَدايا لِأُسْرَتِي.",
+              "id": "Isinya pakaian dan oleh-oleh untuk keluargaku."
+            },
+            {
+              "who": "rizki",
+              "ar": "مَتَى تُغادِرُ الطّائِرَةُ؟",
+              "id": "Kapan pesawatnya berangkat?"
+            },
+            {
+              "who": "yusuf",
+              "ar": "فِي السّاعَةِ العاشِرَةِ. شُكْرًا يا رِزْقِي!",
+              "id": "Jam sepuluh. Terima kasih, Rizki!"
+            },
+            {
+              "who": "rizki",
+              "ar": "مَعَ السَّلامَةِ يا يُوسُفُ! سَلِّمْ عَلَى أُسْرَتِكَ.",
+              "id": "Selamat jalan, Yusuf! Sampaikan salamku untuk keluargamu."
+            }
+          ],
+          "img": "u13-bandara-yusuf",
+          "scene": "Evening in the departure hall of Soekarno-Hatta Airport, Jakarta: Rizki stands beside Yusuf, a young Turkish student, who pushes a luggage trolley with one big suitcase and one small bag and shows a ticket on his phone; check-in counters and travellers in the background."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "مَطارٌ",
+              "id": "bandara",
+              "emoji": "🛫"
+            },
+            {
+              "ar": "تَذْكِرَةٌ",
+              "id": "tiket",
+              "emoji": "🎫"
+            },
+            {
+              "ar": "جَوازُ السَّفَرِ",
+              "id": "paspor",
+              "emoji": "📘"
+            },
+            {
+              "ar": "حَقِيبَةٌ",
+              "id": "tas, koper",
+              "emoji": "🧳"
+            },
+            {
+              "ar": "مَلابِسُ",
+              "id": "pakaian",
+              "emoji": "👕"
+            },
+            {
+              "ar": "هَدِيَّةٌ ← هَدايا",
+              "id": "hadiah, oleh-oleh (satu → banyak)",
+              "emoji": "🎁",
+              "serapan": "hadiah"
+            },
+            {
+              "ar": "تُغادِرُ",
+              "id": "(pesawat/dia pr) berangkat, meninggalkan",
+              "emoji": "🛫"
+            },
+            {
+              "ar": "سَلِّمْ عَلَى …",
+              "id": "sampaikan salam kepada … (lk)",
+              "emoji": "👋"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tadzkirah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "تَذْكِرَةٌ"
+          },
+          "answer": "tiket",
+          "options": [
+            "tiket",
+            "paspor",
+            "koper"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "tiket-yusuf",
+          "instruction": "Menurut dialog, di mana tiket Yusuf?",
+          "prompt": {
+            "ar": "التَّذْكِرَةُ فِي …",
+            "emoji": "🎫"
+          },
+          "answer": "Di ponselnya",
+          "options": [
+            "Di ponselnya",
+            "Di koper besar",
+            "Di koper kecil"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-kam-haqibah",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "كَمْ حَقِيبَةً مَعَكَ؟"
+          },
+          "answer": "Kamu (lk) bawa berapa koper?",
+          "options": [
+            "Kamu (lk) bawa berapa koper?",
+            "Apa isi kopermu? (lk)",
+            "Di mana kopermu? (lk)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "isi-koper-besar",
+          "instruction": "Menurut dialog, apa isi koper besar Yusuf?",
+          "prompt": {
+            "ar": "ماذا فِي الحَقِيبَةِ الكَبِيرَةِ؟"
+          },
+          "answer": "Pakaian dan oleh-oleh",
+          "options": [
+            "Pakaian dan oleh-oleh",
+            "Buku dan kamus",
+            "Kopi dan teh"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-madza-fi",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "ماذا فِي حَقِيبَتِكَ؟"
+          },
+          "answer": "فِيها مَلابِسُ.",
+          "options": [
+            "فِيها مَلابِسُ.",
+            "فِي السّاعَةِ العاشِرَةِ.",
+            "أَنا مِنْ تُرْكِيا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jam-pesawat",
+          "instruction": "Menurut dialog, jam berapa pesawat Yusuf berangkat?",
+          "prompt": {
+            "emoji": "🛫",
+            "ar": "تُغادِرُ الطّائِرَةُ فِي …"
+          },
+          "answer": "Jam 10",
+          "options": [
+            "Jam 10",
+            "Jam 2",
+            "Jam 8"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-madza-fil-kabirah",
+          "prompt": {
+            "id": "Apa isi koper yang besar?"
+          },
+          "answer": "ماذا فِي الحَقِيبَةِ الكَبِيرَةِ",
+          "extra": [
+            "الصَّغِيرَةِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-tadzkirah-hatif",
+          "prompt": {
+            "id": "Kamu (lk) bawa berapa koper?"
+          },
+          "answer": "كَمْ حَقِيبَةً مَعَكَ",
+          "extra": [
+            "حَقِيبَةٌ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-maassalamah-yusuf",
+          "ar": "مَعَ السَّلامَةِ يا يُوسُفُ!",
+          "id": "Selamat jalan, Yusuf!",
+          "who": "rizki"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-jawaz-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "جَوازُ السَّفَرِ"
+          },
+          "answer": "paspor",
+          "options": [
+            "paspor",
+            "tiket",
+            "bandara"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-malabis-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مَلابِسُ"
+          },
+          "answer": "pakaian",
+          "options": [
+            "pakaian",
+            "oleh-oleh",
+            "koper"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-tughadir",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "مَتَى تُغادِرُ الطّائِرَةُ؟"
+          },
+          "answer": "Kapan pesawatnya berangkat?",
+          "options": [
+            "Kapan pesawatnya berangkat?",
+            "Di mana pesawatnya?",
+            "Kapan pesawatnya tiba?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jumlah-koper",
+          "instruction": "Menurut dialog, Yusuf membawa berapa koper?",
+          "prompt": {
+            "emoji": "🧳"
+          },
+          "answer": "Dua",
+          "options": [
+            "Dua",
+            "Satu",
+            "Tiga"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-sallim",
+          "prompt": {
+            "id": "Sampaikan salamku untuk keluargamu. (lk)"
+          },
+          "answer": "سَلِّمْ عَلَى أُسْرَتِكَ",
+          "extra": [
+            "أُسْرَتِي"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Aisyah datang dari Bali",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Keluarga Aisyah datang dari Malaysia dan berlibur di Bali. Aisyah kembali ke asrama putri ma'had di Yogyakarta, dan Siti menyambutnya.",
+          "rows": [
+            {
+              "who": "siti",
+              "ar": "أَهْلًا يا عائِشَةُ! مِنْ أَيْنَ أَنْتِ قادِمَةٌ؟",
+              "id": "Halo, Aisyah! Kamu datang dari mana?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "أَنا قادِمَةٌ مِنْ بالِي.",
+              "id": "Aku datang dari Bali."
+            },
+            {
+              "who": "siti",
+              "ar": "ما شاءَ اللّٰهُ! مَعَ مَنْ سافَرْتِ؟",
+              "id": "Masya Allah! Kamu bepergian dengan siapa? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "سافَرْتُ مَعَ أَبِي وَأُمِّي.",
+              "id": "Aku bepergian bersama ayah dan ibuku."
+            },
+            {
+              "who": "siti",
+              "ar": "هَلِ الرِّحْلَةُ مِنْ بالِي طَوِيلَةٌ؟",
+              "id": "Apakah perjalanan dari Bali lama?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "لا، ساعَةٌ واحِدَةٌ بِالطّائِرَةِ فَقَطْ.",
+              "id": "Tidak, hanya satu jam naik pesawat."
+            },
+            {
+              "who": "siti",
+              "ar": "وَماذا فِي هٰذا الكِيسِ؟",
+              "id": "Lalu apa isi kantong ini?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "فِيهِ هَدِيَّةٌ لَكِ مِنْ بالِي!",
+              "id": "Isinya oleh-oleh untukmu dari Bali!"
+            },
+            {
+              "who": "siti",
+              "ar": "جَزاكِ اللّٰهُ خَيْرًا يا عائِشَةُ!",
+              "id": "Jazakillah khairan, Aisyah!"
+            }
+          ],
+          "img": "u13-aisyah-bali",
+          "scene": "Doorway of a girls' dormitory room at a modest Islamic language school in Yogyakarta: Aisyah, a Malaysian student in a hijab, has just arrived with a small rolling suitcase and hands a paper gift bag to a smiling Siti."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "قادِمٌ · قادِمَةٌ",
+              "id": "datang, tiba (dari …) (lk · pr)",
+              "emoji": "🚶"
+            },
+            {
+              "ar": "سافَرَ – يُسافِرُ",
+              "id": "bepergian, melakukan perjalanan",
+              "emoji": "🧳"
+            },
+            {
+              "ar": "سافَرْتُ · سافَرْتِ",
+              "id": "aku bepergian · kamu (pr) bepergian",
+              "emoji": "✈️"
+            },
+            {
+              "ar": "طَوِيلٌ · طَوِيلَةٌ",
+              "id": "panjang, lama (lk · pr)",
+              "emoji": "⏳"
+            },
+            {
+              "ar": "بِالطّائِرَةِ",
+              "id": "naik pesawat",
+              "emoji": "✈️"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "qadimah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مِنْ أَيْنَ أَنْتِ قادِمَةٌ؟"
+          },
+          "answer": "Kamu (pr) datang dari mana?",
+          "options": [
+            "Kamu (pr) datang dari mana?",
+            "Kamu (pr) mau pergi ke mana?",
+            "Kamu (pr) bepergian dengan siapa?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "aisyah-dari",
+          "instruction": "Menurut dialog, Aisyah datang dari mana?",
+          "prompt": {
+            "emoji": "🏝️"
+          },
+          "answer": "Bali",
+          "options": [
+            "Bali",
+            "Kuala Lumpur",
+            "Jakarta"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-safartu",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "سافَرْتُ مَعَ أَبِي وَأُمِّي."
+          },
+          "answer": "Aku bepergian bersama ayah dan ibuku.",
+          "options": [
+            "Aku bepergian bersama ayah dan ibuku.",
+            "Ayah dan ibuku ada di Bali.",
+            "Aku pulang bersama temanku."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lama-perjalanan",
+          "instruction": "Menurut dialog, berapa lama perjalanan Bali–Yogyakarta naik pesawat?",
+          "prompt": {
+            "emoji": "⏳"
+          },
+          "answer": "Satu jam",
+          "options": [
+            "Satu jam",
+            "Dua jam",
+            "Sepuluh jam"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "pilih-qadim-lk",
+          "instruction": "Kamu bertanya kepada Yusuf. Pilih kalimatnya",
+          "prompt": {
+            "id": "Kamu datang dari mana?",
+            "emoji": "🧳"
+          },
+          "answer": "مِنْ أَيْنَ أَنْتَ قادِمٌ؟",
+          "options": [
+            "مِنْ أَيْنَ أَنْتَ قادِمٌ؟",
+            "مِنْ أَيْنَ أَنْتِ قادِمَةٌ؟",
+            "مَعَ مَنْ سافَرْتِ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "balas-madza-kis",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "ماذا فِي هٰذا الكِيسِ؟"
+          },
+          "answer": "فِيهِ هَدِيَّةٌ.",
+          "options": [
+            "فِيهِ هَدِيَّةٌ.",
+            "أَنا قادِمَةٌ مِنْ بالِي.",
+            "ساعَةٌ واحِدَةٌ فَقَطْ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-qadimah-bali",
+          "prompt": {
+            "id": "Aku datang dari Bali. (pr)"
+          },
+          "answer": "أَنا قادِمَةٌ مِنْ بالِي",
+          "extra": [
+            "قادِمٌ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-madza-kis",
+          "prompt": {
+            "id": "Apa isi kantong ini?"
+          },
+          "answer": "ماذا فِي هٰذا الكِيسِ",
+          "extra": [
+            "هٰذِهِ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-qadimah",
+          "ar": "أَنا قادِمَةٌ مِنْ بالِي.",
+          "id": "Aku datang dari Bali. (pr)",
+          "who": "aisyah"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-thawil-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "طَوِيلَةٌ"
+          },
+          "answer": "panjang, lama (pr)",
+          "options": [
+            "panjang, lama (pr)",
+            "pendek (pr)",
+            "kecil (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-qadimah",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "مِنْ أَيْنَ أَنْتِ قادِمَةٌ؟"
+          },
+          "answer": "Kamu (pr) datang dari mana?",
+          "options": [
+            "Kamu (pr) datang dari mana?",
+            "Kamu (lk) datang dari mana?",
+            "Kamu (pr) bepergian dengan siapa?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-aisyah-bersama",
+          "instruction": "Menurut dialog, Aisyah bepergian bersama siapa?",
+          "prompt": {
+            "emoji": "👨‍👩‍👧"
+          },
+          "answer": "Ayah dan ibunya",
+          "options": [
+            "Ayah dan ibunya",
+            "Siti",
+            "Teman-temannya"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-hadiyyah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هَدِيَّةٌ"
+          },
+          "answer": "hadiah, oleh-oleh",
+          "options": [
+            "hadiah, oleh-oleh",
+            "kantong",
+            "perjalanan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-maa-man",
+          "prompt": {
+            "id": "Kamu bepergian dengan siapa? (pr)"
+          },
+          "answer": "مَعَ مَنْ سافَرْتِ",
+          "extra": [
+            "سافَرْتُ"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Tas tertinggal di kereta",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Rizki tiba di Stasiun Gambir, Jakarta, naik kereta dari Yogyakarta, sehari sebelum Yusuf terbang. Pak Ahmad menjemputnya. Tas Rizki tidak ada!",
+          "rows": [
+            {
+              "who": "pak_ahmad",
+              "ar": "أَهْلًا يا رِزْقِي! أَيْنَ حَقِيبَتُكَ؟",
+              "id": "Halo, Rizki! Mana tasmu?"
+            },
+            {
+              "who": "rizki",
+              "ar": "حَقِيبَتِي لَيْسَتْ مَعِي! تَرَكْتُها فِي القِطارِ.",
+              "id": "Tasku tidak ada padaku! Aku meninggalkannya di kereta."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "لا بَأْسَ. فِي المَحَطَّةِ مَكْتَبٌ لِلْمَفْقُوداتِ.",
+              "id": "Tidak apa-apa. Di stasiun ada kantor barang hilang."
+            },
+            {
+              "who": "figuran_lk",
+              "label_ar": "المُوَظَّفُ",
+              "ar": "ما رَقْمُ مَقْعَدِكَ فِي القِطارِ؟",
+              "id": "Berapa nomor kursimu di kereta?"
+            },
+            {
+              "who": "rizki",
+              "ar": "رَقْمُ مَقْعَدِي سَبْعَةٌ. حَقِيبَتِي زَرْقاءُ صَغِيرَةٌ.",
+              "id": "Nomor kursiku tujuh. Tasku kecil, warnanya biru."
+            },
+            {
+              "who": "figuran_lk",
+              "label_ar": "المُوَظَّفُ",
+              "ar": "هَلْ فِيها مالٌ؟",
+              "id": "Apakah ada uang di dalamnya?"
+            },
+            {
+              "who": "rizki",
+              "ar": "لا مالَ فِيها. فِيها كُتُبِي وَمَلابِسِي فَقَطْ.",
+              "id": "Tidak ada uang di dalamnya. Isinya hanya buku-buku dan pakaianku."
+            },
+            {
+              "who": "figuran_lk",
+              "label_ar": "المُوَظَّفُ",
+              "ar": "طَيِّبٌ. اُكْتُبِ اسْمَكَ وَرَقْمَ هاتِفِكَ هُنا.",
+              "id": "Baik. Tulis nama dan nomor teleponmu di sini."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "شُكْرًا. إِنْ شاءَ اللّٰهُ تَرْجِعُ الحَقِيبَةُ يا رِزْقِي.",
+              "id": "Terima kasih. Insya Allah tasnya kembali, Rizki."
+            }
+          ],
+          "img": "u13-tas-hilang",
+          "scene": "Lost-and-found counter inside Gambir railway station, Jakarta: a worried Rizki talks to a uniformed male station officer behind the counter, who hands him a form and a pen; Pak Ahmad, his calm father, stands beside Rizki; a long-distance train is visible through the glass."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "مَكْتَبٌ لِلْمَفْقُوداتِ",
+              "id": "kantor barang hilang"
+            },
+            {
+              "ar": "مَقْعَدٌ",
+              "id": "kursi, tempat duduk (di kendaraan)"
+            },
+            {
+              "ar": "كُتُبٌ",
+              "id": "buku-buku (jamak كِتابٌ)"
+            },
+            {
+              "ar": "مالٌ",
+              "id": "uang, harta"
+            },
+            {
+              "ar": "لا مالَ",
+              "id": "tidak ada uang"
+            },
+            {
+              "ar": "فَقَطْ",
+              "id": "hanya, saja"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tertinggal-di",
+          "instruction": "Menurut dialog, di mana Rizki meninggalkan tasnya?",
+          "prompt": {
+            "ar": "تَرَكْتُها فِي …"
+          },
+          "answer": "Di kereta",
+          "options": [
+            "Di kereta",
+            "Di bandara",
+            "Di hotel"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "warna-tas",
+          "instruction": "Menurut dialog, apa warna tas Rizki?",
+          "prompt": {
+            "emoji": "👜"
+          },
+          "answer": "Biru",
+          "options": [
+            "Biru",
+            "Hitam",
+            "Merah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-la-mal",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "لا مالَ فِيها."
+          },
+          "answer": "Tidak ada uang di dalamnya.",
+          "options": [
+            "Tidak ada uang di dalamnya.",
+            "Ada uang di dalamnya.",
+            "Tidak ada buku di dalamnya."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "isi-tas-rizki",
+          "instruction": "Menurut dialog, apa isi tas Rizki?",
+          "prompt": {
+            "ar": "فِيها …"
+          },
+          "answer": "Buku dan pakaian",
+          "options": [
+            "Buku dan pakaian",
+            "Uang dan paspor",
+            "Oleh-oleh dan kopi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-ma-lawnuha",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "ما لَوْنُ حَقِيبَتِكَ؟"
+          },
+          "answer": "لَوْنُها أَخْضَرُ.",
+          "options": [
+            "لَوْنُها أَخْضَرُ.",
+            "فِيها كُتُبِي.",
+            "هِيَ فِي القِطارِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "mahattah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مَحَطَّةٌ"
+          },
+          "answer": "stasiun",
+          "options": [
+            "stasiun",
+            "bandara",
+            "hotel"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-taraktuha",
+          "prompt": {
+            "id": "Aku meninggalkannya (tas) di kereta."
+          },
+          "answer": "تَرَكْتُها فِي القِطارِ",
+          "extra": [
+            "تَرَكْتُهُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-uktub-ismak",
+          "prompt": {
+            "id": "Tulis nama dan nomor teleponmu. (lk)"
+          },
+          "answer": "اُكْتُبِ اسْمَكَ وَرَقْمَ هاتِفِكَ",
+          "extra": [
+            "اُكْتُبِي"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-laysat-mai",
+          "ar": "حَقِيبَتِي لَيْسَتْ مَعِي!",
+          "id": "Tasku tidak ada padaku!",
+          "who": "rizki"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-mal-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مالٌ"
+          },
+          "answer": "uang, harta",
+          "options": [
+            "uang, harta",
+            "tas",
+            "buku-buku"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-maqad-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "رَقْمُ مَقْعَدِي سَبْعَةٌ."
+          },
+          "answer": "Nomor kursiku tujuh.",
+          "options": [
+            "Nomor kursiku tujuh.",
+            "Nomor kamarku tujuh.",
+            "Nomor teleponku tujuh."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-taraktuha",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "تَرَكْتُها فِي القِطارِ."
+          },
+          "answer": "Aku meninggalkannya di kereta.",
+          "options": [
+            "Aku meninggalkannya di kereta.",
+            "Aku menemukannya di kereta.",
+            "Aku meninggalkannya di stasiun."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-ditulis-apa",
+          "instruction": "Menurut dialog, apa yang petugas minta Rizki tulis?",
+          "prompt": {
+            "emoji": "📝"
+          },
+          "answer": "Nama dan nomor telepon",
+          "options": [
+            "Nama dan nomor telepon",
+            "Warna dan isi tas",
+            "Nama kereta"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-lawnuha",
+          "prompt": {
+            "id": "Warnanya biru. (tas)"
+          },
+          "answer": "لَوْنُها أَزْرَقُ",
+          "extra": [
+            "زَرْقاءُ"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata perjalanan & arah",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Perjalanan",
+          "rows": [
+            {
+              "ar": "سَفَرٌ",
+              "id": "perjalanan, bepergian",
+              "emoji": "🧳",
+              "serapan": "safar"
+            },
+            {
+              "ar": "مُسافِرٌ",
+              "id": "orang yang bepergian, penumpang",
+              "emoji": "🚶",
+              "serapan": "musafir"
+            },
+            {
+              "ar": "مَطارٌ",
+              "id": "bandara",
+              "emoji": "🛫"
+            },
+            {
+              "ar": "طائِرَةٌ",
+              "id": "pesawat",
+              "emoji": "✈️"
+            },
+            {
+              "ar": "تَذْكِرَةٌ",
+              "id": "tiket",
+              "emoji": "🎫"
+            },
+            {
+              "ar": "جَوازُ السَّفَرِ",
+              "id": "paspor",
+              "emoji": "📘"
+            },
+            {
+              "ar": "حَقِيبَةٌ",
+              "id": "tas, koper",
+              "emoji": "🧳"
+            },
+            {
+              "ar": "فُنْدُقٌ",
+              "id": "hotel",
+              "emoji": "🏨"
+            },
+            {
+              "ar": "قِطارٌ",
+              "id": "kereta",
+              "emoji": "🚆"
+            },
+            {
+              "ar": "مَحَطَّةٌ",
+              "id": "stasiun",
+              "emoji": "🚉"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Imigrasi dan formulir",
+          "rows": [
+            {
+              "ar": "وُصُولٌ",
+              "id": "kedatangan",
+              "emoji": "🛬"
+            },
+            {
+              "ar": "مُغادَرَةٌ",
+              "id": "keberangkatan",
+              "emoji": "🛫"
+            },
+            {
+              "ar": "الاِسْمُ",
+              "id": "nama",
+              "emoji": "🪪"
+            },
+            {
+              "ar": "الجِنْسِيَّةُ",
+              "id": "kewarganegaraan",
+              "emoji": "🌏"
+            },
+            {
+              "ar": "رَقْمُ الجَوازِ",
+              "id": "nomor paspor",
+              "emoji": "🔢"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Arah",
+          "note_id": "Setelah فِي, kata arah berakhiran -i dan disambung dengan nama tempat: فِي شَرْقِ جاوَة (di Jawa bagian timur).",
+          "rows": [
+            {
+              "ar": "شَمالٌ",
+              "id": "utara",
+              "emoji": "⬆️"
+            },
+            {
+              "ar": "جَنُوبٌ",
+              "id": "selatan",
+              "emoji": "⬇️"
+            },
+            {
+              "ar": "شَرْقٌ",
+              "id": "timur",
+              "emoji": "➡️",
+              "serapan": "masyrik"
+            },
+            {
+              "ar": "غَرْبٌ",
+              "id": "barat",
+              "emoji": "⬅️",
+              "serapan": "magrib"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "gambar-hotel",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🏨"
+          },
+          "answer": "فُنْدُقٌ",
+          "options": [
+            "فُنْدُقٌ",
+            "مَطارٌ",
+            "مَحَطَّةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "pilih-paspor",
+          "instruction": "Apa bahasa Arabnya?",
+          "prompt": {
+            "id": "paspor",
+            "emoji": "📘"
+          },
+          "answer": "جَوازُ السَّفَرِ",
+          "options": [
+            "جَوازُ السَّفَرِ",
+            "تَذْكِرَةٌ",
+            "حَقِيبَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "papan-wushul",
+          "instruction": "Papan di bandara ini menunjukkan …",
+          "prompt": {
+            "emoji": "🛬"
+          },
+          "answer": "وُصُولٌ",
+          "options": [
+            "وُصُولٌ",
+            "مُغادَرَةٌ",
+            "مَطارٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-musafir",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "مُسافِرٌ"
+          },
+          "answer": "penumpang, musafir",
+          "options": [
+            "penumpang, musafir",
+            "pilot",
+            "sopir"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "arah-timur",
+          "instruction": "Apa bahasa Arabnya \"timur\"?",
+          "prompt": {
+            "id": "timur",
+            "emoji": "🌅"
+          },
+          "answer": "شَرْقٌ",
+          "options": [
+            "شَرْقٌ",
+            "غَرْبٌ",
+            "شَمالٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "arah-surabaya",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "سُورابايا فِي … جاوَة.",
+            "id": "Surabaya ada di Jawa bagian timur."
+          },
+          "answer": "شَرْقِ",
+          "options": [
+            "شَرْقِ",
+            "غَرْبِ",
+            "شَمالِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jinsiyyah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "الجِنْسِيَّةُ"
+          },
+          "answer": "kewarganegaraan",
+          "options": [
+            "kewarganegaraan",
+            "nama",
+            "nomor paspor"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-tadzkirah",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "تَذْكِرَةٌ"
+          },
+          "answer": "tiket",
+          "options": [
+            "tiket",
+            "paspor",
+            "koper"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "tempat-thairah",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "الطّائِرَةُ فِي …",
+            "id": "Pesawat ada di bandara."
+          },
+          "answer": "المَطارِ",
+          "options": [
+            "المَطارِ",
+            "المَحَطَّةِ",
+            "الفُنْدُقِ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tempat-qithar",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "القِطارُ فِي …",
+            "id": "Kereta ada di stasiun."
+          },
+          "answer": "المَحَطَّةِ",
+          "options": [
+            "المَحَطَّةِ",
+            "المَطارِ",
+            "الفُنْدُقِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-papan-mughadarah",
+          "instruction": "Papan di bandara ini menunjukkan …",
+          "prompt": {
+            "emoji": "🛫"
+          },
+          "answer": "مُغادَرَةٌ",
+          "options": [
+            "مُغادَرَةٌ",
+            "وُصُولٌ",
+            "فُنْدُقٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-arah-medan",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "مِيدان فِي … سُومَطْرَة.",
+            "id": "Medan ada di Sumatra bagian utara."
+          },
+          "answer": "شَمالِ",
+          "options": [
+            "شَمالِ",
+            "جَنُوبِ",
+            "شَرْقِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-gharb-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "غَرْبٌ"
+          },
+          "answer": "barat",
+          "options": [
+            "barat",
+            "timur",
+            "selatan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-funduq",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "فُنْدُقٌ"
+          },
+          "answer": "hotel",
+          "options": [
+            "hotel",
+            "stasiun",
+            "bandara"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-safar-serapan",
+          "instruction": "Kata سَفَرٌ dikenal dalam bahasa Indonesia sebagai …",
+          "prompt": {
+            "ar": "سَفَرٌ"
+          },
+          "answer": "safar (perjalanan)",
+          "options": [
+            "safar (perjalanan)",
+            "musafir (penumpang)",
+            "hadiah (oleh-oleh)"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Datang dari mana, apa isinya",
+          "groups": [
+            {
+              "title_ar": "مِنْ أَيْنَ أَنْتَ قادِمٌ؟ · مِنْ أَيْنَ أَنْتِ قادِمَةٌ؟",
+              "note_id": "قادِمٌ = datang/tiba dari suatu tempat (lk), قادِمَةٌ (pr). Bedanya dengan مِنْ أَيْنَ أَنْتَ؟ (asalmu dari mana?): yang ini menanyakan dari mana orang itu baru datang.",
+              "rows": [
+                {
+                  "ar": "مِنْ أَيْنَ أَنْتَ قادِمٌ؟",
+                  "id": "Kamu (lk) datang dari mana?"
+                },
+                {
+                  "ar": "أَنا قادِمٌ مِنْ يُوغْياكَرْتا.",
+                  "id": "Saya datang dari Yogyakarta. (lk)"
+                },
+                {
+                  "ar": "مِنْ أَيْنَ أَنْتِ قادِمَةٌ؟",
+                  "id": "Kamu (pr) datang dari mana?"
+                },
+                {
+                  "ar": "أَنا قادِمَةٌ مِنْ كُوالالُمْبُور.",
+                  "id": "Saya datang dari Kuala Lumpur. (pr)"
+                }
+              ]
+            },
+            {
+              "title_ar": "ماذا فِي …؟ ← فِيهِ … · فِيها …",
+              "note_id": "Untuk menyebut isi, mulai dengan فِيهِ (benda lk, mis. كِيسٌ) atau فِيها (benda pr, mis. حَقِيبَةٌ), lalu isinya. مَلابِسُ tidak pernah bertanwin.",
+              "rows": [
+                {
+                  "ar": "ماذا فِي الحَقِيبَةِ؟",
+                  "id": "Apa isi koper itu?"
+                },
+                {
+                  "ar": "فِيها مَلابِسُ وَكُتُبٌ.",
+                  "id": "Isinya pakaian dan buku-buku."
+                },
+                {
+                  "ar": "ماذا فِي الكِيسِ؟",
+                  "id": "Apa isi kantong itu?"
+                },
+                {
+                  "ar": "فِيهِ هَدِيَّةٌ.",
+                  "id": "Isinya hadiah."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Tidak ada …, dan mengisi formulir",
+          "groups": [
+            {
+              "title_ar": "لا + benda",
+              "note_id": "لا yang berarti \"tidak ada … sama sekali\" diikuti benda tanpa ال dan tanpa tanwin, berakhiran -a.",
+              "rows": [
+                {
+                  "ar": "لا مالَ فِي الحَقِيبَةِ.",
+                  "id": "Tidak ada uang di tas itu."
+                },
+                {
+                  "ar": "لا ماءَ فِي الثَّلّاجَةِ.",
+                  "id": "Tidak ada air di kulkas."
+                },
+                {
+                  "ar": "لا مُشْكِلَةَ.",
+                  "id": "Tidak masalah."
+                },
+                {
+                  "ar": "لا بَأْسَ.",
+                  "id": "Tidak apa-apa."
+                }
+              ]
+            },
+            {
+              "title_ar": "الاِسْمُ · الجِنْسِيَّةُ · رَقْمُ الجَوازِ",
+              "note_id": "Judul kolom formulir memakai ال dan berakhiran -u. Isian kewarganegaraan berbentuk perempuan karena mengikuti kata الجِنْسِيَّةُ, baik untuk laki-laki maupun perempuan.",
+              "rows": [
+                {
+                  "ar": "الاِسْمُ: يُوسُفُ",
+                  "id": "Nama: Yusuf"
+                },
+                {
+                  "ar": "الجِنْسِيَّةُ: تُرْكِيَّةٌ",
+                  "id": "Kewarganegaraan: Turki"
+                },
+                {
+                  "ar": "رَقْمُ الجَوازِ: ٥٢٨٤١٧٦",
+                  "id": "Nomor paspor: 5284176"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "pilih-qadimah",
+          "instruction": "Kamu bertanya kepada Siti. Pilih kalimatnya",
+          "prompt": {
+            "id": "Kamu datang dari mana?",
+            "emoji": "👩"
+          },
+          "answer": "مِنْ أَيْنَ أَنْتِ قادِمَةٌ؟",
+          "options": [
+            "مِنْ أَيْنَ أَنْتِ قادِمَةٌ؟",
+            "مِنْ أَيْنَ أَنْتَ قادِمٌ؟",
+            "إِلَى أَيْنَ تُسافِرِينَ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jawab-qadim",
+          "instruction": "Budi ditanya. Pilih jawaban yang benar",
+          "prompt": {
+            "ar": "مِنْ أَيْنَ أَنْتَ قادِمٌ؟"
+          },
+          "answer": "أَنا قادِمٌ مِنْ سُورابايا.",
+          "options": [
+            "أَنا قادِمٌ مِنْ سُورابايا.",
+            "أَنا قادِمَةٌ مِنْ سُورابايا.",
+            "أَنْتَ قادِمٌ مِنْ سُورابايا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "fiha-haqibah",
+          "instruction": "Lengkapi jawabannya",
+          "prompt": {
+            "ar": "ماذا فِي الحَقِيبَةِ؟ — … كُتُبٌ.",
+            "id": "Apa isi koper itu? — Isinya buku-buku."
+          },
+          "answer": "فِيها",
+          "options": [
+            "فِيها",
+            "فِيهِ",
+            "فِيكَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "fihi-kis",
+          "instruction": "Lengkapi jawabannya",
+          "prompt": {
+            "ar": "ماذا فِي الكِيسِ؟ — … مَوْزٌ.",
+            "id": "Apa isi kantong itu? — Isinya pisang."
+          },
+          "answer": "فِيهِ",
+          "options": [
+            "فِيهِ",
+            "فِيها",
+            "فِيكِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "la-musykilah",
+          "instruction": "Pilih bentuk yang benar",
+          "prompt": {
+            "id": "Tidak masalah.",
+            "emoji": "👌"
+          },
+          "answer": "لا مُشْكِلَةَ.",
+          "options": [
+            "لا مُشْكِلَةَ.",
+            "لا مُشْكِلَةٌ.",
+            "لا المُشْكِلَةَ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "la-mal",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "لا … فِي الحَقِيبَةِ.",
+            "id": "Tidak ada uang di tas itu."
+          },
+          "answer": "مالَ",
+          "options": [
+            "مالَ",
+            "مالٌ",
+            "المالَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "form-jinsiyyah",
+          "instruction": "Rizki mengisi formulir. Kolom الجِنْسِيَّةُ diisi dengan …",
+          "prompt": {
+            "ar": "الجِنْسِيَّةُ: …"
+          },
+          "answer": "إِنْدُونِيسِيَّةٌ",
+          "options": [
+            "إِنْدُونِيسِيَّةٌ",
+            "رِزْقِي",
+            "يُوغْياكَرْتا"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-madza-haqibatik",
+          "prompt": {
+            "id": "Apa isi kopermu? (lk)"
+          },
+          "answer": "ماذا فِي حَقِيبَتِكَ",
+          "extra": [
+            "حَقِيبَتِكِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-qadim-jakarta",
+          "prompt": {
+            "id": "Saya datang dari Jakarta. (lk)"
+          },
+          "answer": "أَنا قادِمٌ مِنْ جاكَرْتا",
+          "extra": [
+            "قادِمَةٌ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-la-maa",
+          "prompt": {
+            "id": "Tidak ada air di kulkas."
+          },
+          "answer": "لا ماءَ فِي الثَّلّاجَةِ",
+          "extra": [
+            "ماءٌ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-jawab-qadimah",
+          "instruction": "Aisyah ditanya. Pilih jawaban yang benar",
+          "prompt": {
+            "ar": "مِنْ أَيْنَ أَنْتِ قادِمَةٌ؟"
+          },
+          "answer": "أَنا قادِمَةٌ مِنْ بالِي.",
+          "options": [
+            "أَنا قادِمَةٌ مِنْ بالِي.",
+            "أَنا قادِمٌ مِنْ بالِي.",
+            "أَنْتِ قادِمَةٌ مِنْ بالِي."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-fiha-shaghirah",
+          "instruction": "Lengkapi jawabannya",
+          "prompt": {
+            "ar": "ماذا فِي الحَقِيبَةِ الصَّغِيرَةِ؟ — … جَوازُ السَّفَرِ.",
+            "id": "Apa isi tas kecil itu? — Isinya paspor."
+          },
+          "answer": "فِيها",
+          "options": [
+            "فِيها",
+            "فِيهِ",
+            "فِيكِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-la-maa",
+          "instruction": "Pilih bentuk yang benar",
+          "prompt": {
+            "id": "Tidak ada air.",
+            "emoji": "🚱"
+          },
+          "answer": "لا ماءَ.",
+          "options": [
+            "لا ماءَ.",
+            "لا ماءٌ.",
+            "لا الماءَ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-form-ism",
+          "instruction": "Kolom formulir mana yang diisi \"Siti\"?",
+          "prompt": {
+            "ar": "… : سِيتِي"
+          },
+          "answer": "الاِسْمُ",
+          "options": [
+            "الاِسْمُ",
+            "الجِنْسِيَّةُ",
+            "رَقْمُ الجَوازِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-fiha-malabis",
+          "prompt": {
+            "id": "Isinya pakaian. (koper)"
+          },
+          "answer": "فِيها مَلابِسُ",
+          "extra": [
+            "فِيهِ"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi a pendek dan a panjang, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Fathah dan alif",
+          "note_id": "Fathah (ـَ) dibaca \"a\" pendek, satu ketukan. Fathah + alif (ـَا) dibaca \"aa\" panjang, dua ketukan. Panjang-pendek ini mengubah arti: مَطَرٌ = hujan, مَطارٌ = bandara; جَمَلٌ = unta, جَمالٌ = keindahan; ذَهَبٌ = emas, ذَهابٌ = kepergian; كَتَبَ = menulis, كاتَبَ = berkirim surat; عَلَمٌ = bendera, عالَمٌ = dunia (alam). Ketuk tiap kotak dan bandingkan.",
+          "pairs": [
+            [
+              "بَ",
+              "بَا"
+            ],
+            [
+              "سَ",
+              "سَا"
+            ],
+            [
+              "مَطَرٌ",
+              "مَطارٌ"
+            ],
+            [
+              "جَمَلٌ",
+              "جَمالٌ"
+            ],
+            [
+              "ذَهَبٌ",
+              "ذَهابٌ"
+            ],
+            [
+              "كَتَبَ",
+              "كاتَبَ"
+            ],
+            [
+              "عَلَمٌ",
+              "عالَمٌ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-mathar",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "مَطارٌ"
+          },
+          "answer": "مَطارٌ",
+          "options": [
+            "مَطارٌ",
+            "مَطَرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-jamal",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "جَمَلٌ"
+          },
+          "answer": "جَمَلٌ",
+          "options": [
+            "جَمَلٌ",
+            "جَمالٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-dzahab",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "ذَهابٌ"
+          },
+          "answer": "ذَهابٌ",
+          "options": [
+            "ذَهابٌ",
+            "ذَهَبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-kataba",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "كَتَبَ"
+          },
+          "answer": "كَتَبَ",
+          "options": [
+            "كَتَبَ",
+            "كاتَبَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "cari-panjang",
+          "instruction": "Kata mana yang punya \"a\" panjang (fathah + alif)?",
+          "prompt": {
+            "id": "Cari bunyi \"aa\""
+          },
+          "answer": "مُسافِرٌ",
+          "options": [
+            "مُسافِرٌ",
+            "سَفَرٌ",
+            "غَرْبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-mathar-mathar",
+          "ar": "مَطَرٌ، مَطارٌ",
+          "id": "hujan, bandara"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-jawaz",
+          "ar": "جَوازُ السَّفَرِ",
+          "id": "paspor"
+        },
+        {
+          "q": "choice",
+          "k": "simak-jam-berangkat",
+          "instruction": "Dengarkan. Jam berapa pesawat berangkat?",
+          "prompt": {
+            "listen": "الطّائِرَةُ تُغادِرُ فِي السّاعَةِ الثّامِنَةِ."
+          },
+          "answer": "Jam 8",
+          "options": [
+            "Jam 8",
+            "Jam 3",
+            "Jam 6"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-warna-koper",
+          "instruction": "Dengarkan. Apa warna kopernya?",
+          "prompt": {
+            "listen": "حَقِيبَتِي الكَبِيرَةُ لَوْنُها أَحْمَرُ."
+          },
+          "answer": "Merah",
+          "options": [
+            "Merah",
+            "Hijau",
+            "Biru"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-mathar-mathar",
+          "instruction": "Dengarkan. Ada apa di bandara sekarang?",
+          "prompt": {
+            "listen": "فِي المَطارِ مَطَرٌ كَثِيرٌ الآنَ."
+          },
+          "answer": "Hujan lebat",
+          "options": [
+            "Hujan lebat",
+            "Banyak penumpang",
+            "Banyak koper"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-mathar2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "مَطَرٌ"
+          },
+          "answer": "مَطَرٌ",
+          "options": [
+            "مَطَرٌ",
+            "مَطارٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-jamal2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "جَمالٌ"
+          },
+          "answer": "جَمالٌ",
+          "options": [
+            "جَمالٌ",
+            "جَمَلٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-alam",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "عالَمٌ"
+          },
+          "answer": "عالَمٌ",
+          "options": [
+            "عالَمٌ",
+            "عَلَمٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-dzahab2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "ذَهَبٌ"
+          },
+          "answer": "ذَهَبٌ",
+          "options": [
+            "ذَهَبٌ",
+            "ذَهابٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-qadim",
+          "instruction": "Dengarkan. Dia datang dari mana?",
+          "prompt": {
+            "listen": "أَنا قادِمٌ مِنْ ماكاسار."
+          },
+          "answer": "Makassar",
+          "options": [
+            "Makassar",
+            "Medan",
+            "Surabaya"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Data diri dan arah",
+          "rows": [
+            {
+              "ar": "اِسْمِي الكامِلُ …",
+              "id": "nama lengkap saya …",
+              "emoji": "🪪"
+            },
+            {
+              "ar": "أَنا إِنْدُونِيسِيٌّ · أَنا إِنْدُونِيسِيَّةٌ",
+              "id": "saya orang Indonesia (lk · pr)",
+              "emoji": "🇮🇩"
+            },
+            {
+              "ar": "ما جِنْسِيَّتُكَ؟ · ما جِنْسِيَّتُكِ؟",
+              "id": "apa kewarganegaraanmu? (lk · pr)",
+              "emoji": "🌏"
+            },
+            {
+              "ar": "إِلَى أَيْنَ تُسافِرُ؟",
+              "id": "kamu (lk) bepergian ke mana?",
+              "emoji": "🧭"
+            },
+            {
+              "ar": "أُسافِرُ إِلَى …",
+              "id": "saya bepergian ke …",
+              "emoji": "✈️"
+            },
+            {
+              "ar": "المَطارُ فِي غَرْبِ المَدِينَةِ.",
+              "id": "Bandara ada di sebelah barat kota.",
+              "emoji": "⬅️"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "data-diri",
+          "instruction": "Petugas bandara menanyakan data dirimu. Jawab: nama, kewarganegaraan, dan tujuan.",
+          "prompt": {
+            "ar": "ما اسْمُكَ؟ ما جِنْسِيَّتُكَ؟ إِلَى أَيْنَ تُسافِرُ؟",
+            "id": "Siapa namamu? Apa kewarganegaraanmu? Kamu bepergian ke mana?"
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "اِسْمِي رِزْقِي. أَنا إِنْدُونِيسِيٌّ.",
+              "id": "Nama saya Rizki. Saya orang Indonesia."
+            },
+            {
+              "who": "rizki",
+              "ar": "أُسافِرُ إِلَى ماكاسار.",
+              "id": "Saya bepergian ke Makassar."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-min-aina-qadim",
+          "ar": "مِنْ أَيْنَ أَنْتَ قادِمٌ؟",
+          "id": "Kamu (lk) datang dari mana?",
+          "who": "rizki"
+        },
+        {
+          "q": "choice",
+          "k": "tanya-jinsiyyah",
+          "instruction": "Kamu petugas hotel. Kamu menanyakan kewarganegaraan seorang tamu laki-laki.",
+          "prompt": {
+            "id": "Apa kewarganegaraan Anda?",
+            "emoji": "🏨"
+          },
+          "answer": "ما جِنْسِيَّتُكَ؟",
+          "options": [
+            "ما جِنْسِيَّتُكَ؟",
+            "ما جِنْسِيَّتُكِ؟",
+            "ما اسْمُكَ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-la-musykilah",
+          "ar": "لا مُشْكِلَةَ.",
+          "id": "Tidak masalah.",
+          "who": "budi"
+        },
+        {
+          "q": "speak",
+          "k": "isi-tas",
+          "instruction": "Ceritakan isi tasmu hari ini. Mulai dengan فِي حَقِيبَتِي …",
+          "prompt": {
+            "id": "Sebut dua atau tiga benda."
+          },
+          "model": [
+            {
+              "who": "siti",
+              "ar": "فِي حَقِيبَتِي كِتابٌ وَدَفْتَرٌ وَقَلَمٌ.",
+              "id": "Di tasku ada buku, buku tulis, dan pena."
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "arah-yia",
+          "instruction": "Kamu di Yogyakarta. Bandara YIA ada di sebelah barat kota. Kamu berkata …",
+          "prompt": {
+            "id": "Bandara ada di sebelah barat kota.",
+            "emoji": "🧭"
+          },
+          "answer": "المَطارُ فِي غَرْبِ المَدِينَةِ.",
+          "options": [
+            "المَطارُ فِي غَرْبِ المَدِينَةِ.",
+            "المَطارُ فِي شَرْقِ المَدِينَةِ.",
+            "المَطارُ فِي شَمالِ المَدِينَةِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "arah-kota",
+          "instruction": "Di mana kotamu? Sebutkan arahnya di pulaumu.",
+          "prompt": {
+            "id": "Pakai فِي شَمالِ / جَنُوبِ / شَرْقِ / غَرْبِ …"
+          },
+          "model": [
+            {
+              "who": "budi",
+              "ar": "سُورابايا فِي شَرْقِ جاوَة.",
+              "id": "Surabaya ada di Jawa bagian timur."
+            },
+            {
+              "who": "siti",
+              "ar": "مِيدان فِي شَمالِ سُومَطْرَة.",
+              "id": "Medan ada di Sumatra bagian utara."
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "jawab-petugas-isi",
+          "instruction": "Rizki di kantor barang hilang. Petugas bertanya ماذا فِي حَقِيبَتِكَ؟ Jawabannya …",
+          "prompt": {
+            "ar": "ماذا فِي حَقِيبَتِكَ؟"
+          },
+          "answer": "فِيها كُتُبٌ وَمَلابِسُ.",
+          "options": [
+            "فِيها كُتُبٌ وَمَلابِسُ.",
+            "لَوْنُها أَزْرَقُ.",
+            "أَنا قادِمٌ مِنْ يُوغْياكَرْتا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-sallim",
+          "ar": "سَلِّمْ عَلَى أُسْرَتِكَ.",
+          "id": "Sampaikan salamku untuk keluargamu. (lk)",
+          "who": "rizki"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tanya-tujuan",
+          "instruction": "Kamu ingin tahu ke mana Yusuf bepergian. Kamu bertanya …",
+          "prompt": {
+            "id": "Kamu (lk) bepergian ke mana?",
+            "emoji": "🧭"
+          },
+          "answer": "إِلَى أَيْنَ تُسافِرُ؟",
+          "options": [
+            "إِلَى أَيْنَ تُسافِرُ؟",
+            "مِنْ أَيْنَ أَنْتَ قادِمٌ؟",
+            "مَتَى تُغادِرُ الطّائِرَةُ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-jinsiyyah",
+          "instruction": "Siti ditanya ما جِنْسِيَّتُكِ؟ Jawabannya …",
+          "prompt": {
+            "ar": "ما جِنْسِيَّتُكِ؟"
+          },
+          "answer": "أَنا إِنْدُونِيسِيَّةٌ.",
+          "options": [
+            "أَنا إِنْدُونِيسِيَّةٌ.",
+            "أَنا إِنْدُونِيسِيٌّ.",
+            "اِسْمِي سِيتِي."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-tujuan",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "إِلَى أَيْنَ تُسافِرُ؟"
+          },
+          "answer": "أُسافِرُ إِلَى ماكاسار.",
+          "options": [
+            "أُسافِرُ إِلَى ماكاسار.",
+            "أَنا قادِمٌ مِنْ ماكاسار.",
+            "فِيها مَلابِسُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-arah-selatan",
+          "instruction": "Bandara ada di sebelah selatan kota. Kamu berkata …",
+          "prompt": {
+            "id": "Bandara ada di sebelah selatan kota.",
+            "emoji": "⬇️"
+          },
+          "answer": "المَطارُ فِي جَنُوبِ المَدِينَةِ.",
+          "options": [
+            "المَطارُ فِي جَنُوبِ المَدِينَةِ.",
+            "المَطارُ فِي شَمالِ المَدِينَةِ.",
+            "المَطارُ فِي غَرْبِ المَدِينَةِ."
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Akhir pekan di Jakarta",
+          "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            {
+              "ar": "سافَرَتْ أُسْرَةُ أَحْمَدَ إِلَى جاكَرْتا بِالقِطارِ.",
+              "id": "Keluarga Ahmad bepergian ke Jakarta naik kereta.",
+              "emoji": "🚆"
+            },
+            {
+              "ar": "نَزَلَتِ الأُسْرَةُ فِي فُنْدُقٍ قَرِيبٍ مِنْ مَسْجِدِ الاِسْتِقْلالِ.",
+              "id": "Keluarga itu menginap di hotel dekat Masjid Istiqlal.",
+              "emoji": "🏨"
+            },
+            {
+              "ar": "غُرْفَتُهُمْ فِي الطّابِقِ الخامِسِ، وَنافِذَتُها كَبِيرَةٌ.",
+              "id": "Kamar mereka di lantai lima, dan jendelanya besar."
+            },
+            {
+              "ar": "مِنَ النّافِذَةِ تَنْظُرُ نُور إِلَى المَسْجِدِ.",
+              "id": "Dari jendela, Nur memandang ke arah masjid.",
+              "emoji": "🕌"
+            },
+            {
+              "ar": "وَصَلَ رِزْقِي مِنْ يُوغْياكَرْتا فِي المَساءِ.",
+              "id": "Rizki tiba dari Yogyakarta pada sore hari."
+            },
+            {
+              "ar": "لٰكِنَّهُ تَرَكَ حَقِيبَتَهُ فِي القِطارِ!",
+              "id": "Tetapi dia meninggalkan tasnya di kereta!",
+              "emoji": "👜"
+            },
+            {
+              "ar": "فِي الصَّباحِ رَجَعَتِ الحَقِيبَةُ إِلَيْهِ، الحَمْدُ لِلّٰهِ!",
+              "id": "Pagi harinya tas itu kembali kepadanya, alhamdulillah!"
+            },
+            {
+              "ar": "وَفِي المَساءِ ذَهَبَ رِزْقِي مَعَ يُوسُفَ إِلَى المَطارِ.",
+              "id": "Sore harinya Rizki pergi bersama Yusuf ke bandara.",
+              "emoji": "🛫"
+            }
+          ],
+          "img": "u13-baca-jakarta",
+          "scene": "A simple hotel room on the fifth floor in central Jakarta: Nur, a nine-year-old girl in a hijab, looks out of a large window toward the white dome and minaret of Istiqlal Mosque, while Bu Fatimah unpacks a suitcase and Pak Ahmad sits on the bed with a small travel bag.",
+          "note_id": "Kata baru: نَزَلَ فِي فُنْدُقٍ = menginap di hotel; طابِقٌ = lantai (tingkat); وَصَلَ = tiba."
+        },
+        {
+          "q": "choice",
+          "k": "baca-naik-apa",
+          "instruction": "Keluarga Ahmad ke Jakarta naik apa?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "🧳"
+          },
+          "answer": "Kereta",
+          "options": [
+            "Kereta",
+            "Pesawat",
+            "Bus"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-hotel-dekat",
+          "instruction": "Benar atau salah? \"Hotelnya dekat Masjid Istiqlal.\"",
+          "prompt": {
+            "ar": "الفُنْدُقُ قَرِيبٌ مِنْ مَسْجِدِ الاِسْتِقْلالِ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-lantai",
+          "instruction": "Kamar mereka di lantai berapa?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "🏢"
+          },
+          "answer": "Lima",
+          "options": [
+            "Lima",
+            "Dua",
+            "Sepuluh"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-rizki-tas",
+          "instruction": "Benar atau salah? \"Rizki tiba bersama tasnya.\"",
+          "prompt": {
+            "ar": "وَصَلَ رِزْقِي مَعَ حَقِيبَتِهِ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Salah",
+            "Benar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-ke-bandara",
+          "instruction": "Dengan siapa Rizki pergi ke bandara?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "🛫"
+          },
+          "answer": "Yusuf",
+          "options": [
+            "Yusuf",
+            "Budi",
+            "Nur"
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Kartu tamu hotel",
+          "instruction_id": "Ini kartu tamu yang diisi Pak Ahmad di meja resepsionis hotel. Baca setiap kolomnya.",
+          "rows": [
+            {
+              "ar": "بِطاقَةُ الضَّيْفِ",
+              "id": "Kartu tamu",
+              "emoji": "🪪"
+            },
+            {
+              "ar": "الاِسْمُ: أَحْمَدُ",
+              "id": "Nama: Ahmad"
+            },
+            {
+              "ar": "الجِنْسِيَّةُ: إِنْدُونِيسِيَّةٌ",
+              "id": "Kewarganegaraan: Indonesia"
+            },
+            {
+              "ar": "المَدِينَةُ: بانْدُونْغ",
+              "id": "Kota: Bandung"
+            },
+            {
+              "ar": "عَدَدُ الأَشْخاصِ: أَرْبَعَةٌ",
+              "id": "Jumlah orang: empat"
+            },
+            {
+              "ar": "رَقْمُ الغُرْفَةِ: ٥٠٨",
+              "id": "Nomor kamar: 508"
+            },
+            {
+              "ar": "الوُصُولُ: يَوْمُ الجُمُعَةِ",
+              "id": "Kedatangan: hari Jumat",
+              "emoji": "🛬"
+            },
+            {
+              "ar": "المُغادَرَةُ: يَوْمُ الأَحَدِ",
+              "id": "Keberangkatan (keluar hotel): hari Ahad",
+              "emoji": "🛫"
+            }
+          ],
+          "img": "u13-kartu-hotel",
+          "scene": "Close view of a hotel reception desk in Jakarta: Pak Ahmad fills in a blank guest registration card with a pen, a room key card and a small bell on the counter, Nur peeking over the edge of the desk; no readable writing on the card.",
+          "note_id": "Kata baru: بِطاقَةٌ = kartu; ضَيْفٌ = tamu; عَدَدٌ = jumlah; أَشْخاصٌ = orang (jamak شَخْصٌ)."
+        },
+        {
+          "q": "choice",
+          "k": "kartu-kamar",
+          "instruction": "Berapa nomor kamar keluarga Ahmad?",
+          "prompt": {
+            "id": "Menurut kartu tamu",
+            "emoji": "🔑"
+          },
+          "answer": "508",
+          "options": [
+            "508",
+            "805",
+            "58"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-tiba",
+          "instruction": "Hari apa mereka tiba di hotel?",
+          "prompt": {
+            "ar": "الوُصُولُ: …"
+          },
+          "answer": "Jumat",
+          "options": [
+            "Jumat",
+            "Ahad",
+            "Sabtu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-mughadarah",
+          "instruction": "Di kartu ini, المُغادَرَةُ artinya …",
+          "prompt": {
+            "ar": "المُغادَرَةُ: يَوْمُ الأَحَدِ"
+          },
+          "answer": "Hari keluar dari hotel",
+          "options": [
+            "Hari keluar dari hotel",
+            "Hari tiba di hotel",
+            "Nomor kamar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-jumlah",
+          "instruction": "Berapa orang yang menginap?",
+          "prompt": {
+            "ar": "عَدَدُ الأَشْخاصِ: …"
+          },
+          "answer": "Empat",
+          "options": [
+            "Empat",
+            "Lima",
+            "Tiga"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-nur-jendela",
+          "instruction": "Menurut bacaan 1, apa yang Nur lihat dari jendela?",
+          "prompt": {
+            "emoji": "🪟"
+          },
+          "answer": "Masjid",
+          "options": [
+            "Masjid",
+            "Stasiun",
+            "Bandara"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-tas-kembali",
+          "instruction": "Kapan tas Rizki kembali?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Pagi hari",
+          "options": [
+            "Pagi hari",
+            "Sore hari",
+            "Hari Ahad"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kartu-kota",
+          "instruction": "Menurut kartu tamu, Pak Ahmad datang dari kota mana?",
+          "prompt": {
+            "ar": "المَدِينَةُ: …"
+          },
+          "answer": "Bandung",
+          "options": [
+            "Bandung",
+            "Jakarta",
+            "Yogyakarta"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kartu-jinsiyyah",
+          "instruction": "Benar atau salah? \"Kewarganegaraan Pak Ahmad: Malaysia.\"",
+          "prompt": {
+            "ar": "الجِنْسِيَّةُ: مالِيزِيَّةٌ"
+          },
+          "answer": "Salah",
+          "options": [
+            "Salah",
+            "Benar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-nazala",
+          "instruction": "Apa arti نَزَلَتِ الأُسْرَةُ فِي فُنْدُقٍ dalam bacaan?",
+          "prompt": {
+            "ar": "نَزَلَتِ الأُسْرَةُ فِي فُنْدُقٍ."
+          },
+          "answer": "Keluarga itu menginap di hotel.",
+          "options": [
+            "Keluarga itu menginap di hotel.",
+            "Keluarga itu bekerja di hotel.",
+            "Keluarga itu keluar dari hotel."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Imla': dikte kata pendek",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Dikte kata",
+          "instruction_id": "Mulai unit ini ada imla' (dikte): dengarkan, lalu pilih atau susun tulisannya. Perhatikan \"a\" pendek (ـَ) dan \"aa\" panjang (ـَا).",
+          "rows": [
+            {
+              "ar": "سَفَرٌ",
+              "id": "س + ف + ر → perjalanan"
+            },
+            {
+              "ar": "مَطارٌ",
+              "id": "م + ط + ا + ر → bandara"
+            },
+            {
+              "ar": "تَذْكِرَةٌ",
+              "id": "ت + ذ + ك + ر + ة → tiket"
+            },
+            {
+              "ar": "فُنْدُقٌ",
+              "id": "ف + ن + د + ق → hotel"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "imla-mathar",
+          "instruction": "Dengarkan (dikte). Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "مَطارٌ"
+          },
+          "answer": "مَطارٌ",
+          "options": [
+            "مَطارٌ",
+            "مَطَرٌ",
+            "مَتارٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-safar",
+          "instruction": "Dengarkan (dikte). Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "سَفَرٌ"
+          },
+          "answer": "سَفَرٌ",
+          "options": [
+            "سَفَرٌ",
+            "صَفَرٌ",
+            "سَفارٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-funduq",
+          "instruction": "Dengarkan (dikte). Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "فُنْدُقٌ"
+          },
+          "answer": "فُنْدُقٌ",
+          "options": [
+            "فُنْدُقٌ",
+            "فُنْدُكٌ",
+            "بُنْدُقٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "imla-eja-tadzkirah",
+          "instruction": "Dikte: susun hurufnya",
+          "prompt": {
+            "listen": "تَذْكِرَةٌ",
+            "id": "Dengarkan, lalu susun hurufnya"
+          },
+          "answer": "ت ذ ك ر ة",
+          "extra": [
+            "ز"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-eja-janub",
+          "instruction": "Dikte: susun hurufnya",
+          "prompt": {
+            "listen": "جَنُوبٌ",
+            "id": "Dengarkan, lalu susun hurufnya"
+          },
+          "answer": "ج ن و ب",
+          "extra": [
+            "ح"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-eja-mathar",
+          "instruction": "Dikte: susun hurufnya",
+          "prompt": {
+            "listen": "مَطارٌ",
+            "id": "Dengarkan, lalu susun hurufnya"
+          },
+          "answer": "م ط ا ر",
+          "extra": [
+            "ت"
+          ]
+        },
+        {
+          "card": "writing",
+          "section": "Dikte kalimat",
+          "instruction_id": "Salin kalimat ini lengkap dengan harakatnya, lalu dengarkan dan susun kalimat dikte berikutnya.",
+          "rows": [
+            {
+              "ar": "أَيْنَ جَوازُ السَّفَرِ؟",
+              "id": "Di mana paspornya?"
+            },
+            {
+              "ar": "الطّائِرَةُ فِي المَطارِ.",
+              "id": "Pesawat ada di bandara."
+            }
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-kalimat-madza",
+          "instruction": "Dikte: susun kalimatnya",
+          "prompt": {
+            "listen": "ماذا فِي الحَقِيبَةِ؟",
+            "id": "Dengarkan, lalu susun kalimatnya"
+          },
+          "answer": "ماذا فِي الحَقِيبَةِ",
+          "extra": [
+            "الحَقِيبَةُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-kalimat-qadim",
+          "instruction": "Dikte: susun kalimatnya",
+          "prompt": {
+            "listen": "أَنا قادِمٌ مِنْ مِيدان.",
+            "id": "Dengarkan, lalu susun kalimatnya"
+          },
+          "answer": "أَنا قادِمٌ مِنْ مِيدان",
+          "extra": [
+            "قادِمَةٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "imla-la-musykilah",
+          "instruction": "Dengarkan (dikte). Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "لا مُشْكِلَةَ."
+          },
+          "answer": "لا مُشْكِلَةَ.",
+          "options": [
+            "لا مُشْكِلَةَ.",
+            "لا مُشْكِلَةٌ.",
+            "لا مَشاكِلَ."
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-imla-mahattah",
+          "instruction": "Dengarkan (dikte). Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "مَحَطَّةٌ"
+          },
+          "answer": "مَحَطَّةٌ",
+          "options": [
+            "مَحَطَّةٌ",
+            "مَهَطَّةٌ",
+            "مَحَتَّةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-imla-musafir",
+          "instruction": "Dengarkan (dikte). Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "مُسافِرٌ"
+          },
+          "answer": "مُسافِرٌ",
+          "options": [
+            "مُسافِرٌ",
+            "مُسَفِرٌ",
+            "مُصافِرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-imla-eja-gharb",
+          "instruction": "Dikte: susun hurufnya",
+          "prompt": {
+            "listen": "غَرْبٌ",
+            "id": "Dengarkan, lalu susun hurufnya"
+          },
+          "answer": "غ ر ب",
+          "extra": [
+            "ع"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-imla-kalimat-tadzkirah",
+          "instruction": "Dikte: susun kalimatnya",
+          "prompt": {
+            "listen": "أَيْنَ تَذْكِرَتُكَ؟",
+            "id": "Dengarkan, lalu susun kalimatnya"
+          },
+          "answer": "أَيْنَ تَذْكِرَتُكَ",
+          "extra": [
+            "تَذْكِرَتُكِ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-imla-jawaz",
+          "instruction": "Dengarkan (dikte). Mana tulisan yang benar?",
+          "prompt": {
+            "listen": "جَوازٌ"
+          },
+          "answer": "جَوازٌ",
+          "options": [
+            "جَوازٌ",
+            "جَوَزٌ",
+            "جَوازٍ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    }
+  ]
+}

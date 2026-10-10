@@ -1,0 +1,4724 @@
+{
+ "id": "j1u10",
+ "book": "1b",
+ "number": 10,
+ "title_ar": "الجَوُّ",
+ "title_id": "Cuaca",
+ "lessons": [
+  {
+   "id": "j1u10-d1",
+   "dars": 1,
+   "title_id": "Salju di Istanbul",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا يُوسُفُ، كَيْفَ أُسْرَتُكَ فِي إِسْطَنْبُول؟",
+        "id": "Yusuf, bagaimana keluargamu di Istanbul?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/f3dde4211eb33e6d.mp3"
+        }
+       },
+       {
+        "ar": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ. كَلَّمْتُ أُمِّي بِالهاتِفِ.",
+        "id": "Baik, alhamdulillah. Tadi saya menelepon ibu saya.",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/2afb31f7c76b30f4.mp3"
+        }
+       },
+       {
+        "ar": "كَيْفَ الجَوُّ فِي إِسْطَنْبُول الآنَ؟",
+        "id": "Bagaimana cuaca di Istanbul sekarang?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/d40db70ad1027695.mp3"
+        }
+       },
+       {
+        "ar": "بارِدٌ جِدًّا. نَزَلَ الثَّلْجُ أَمْسِ.",
+        "id": "Dingin sekali. Kemarin salju turun.",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/657020d574f032c3.mp3"
+        }
+       },
+       {
+        "ar": "ثَلْجٌ؟ ما أَجْمَلَ الثَّلْجَ!",
+        "id": "Salju? Indah sekali salju itu!",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/3fc1faf41f63f18d.mp3"
+        }
+       },
+       {
+        "ar": "وَهُنا يَنْزِلُ المَطَرُ كُلَّ يَوْمٍ!",
+        "id": "Kalau di sini, hujan turun setiap hari!",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/546859707e029cb9.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، الآنَ مَوْسِمُ الأَمْطارِ.",
+        "id": "Ya, sekarang musim hujan.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/85cd06fbdcadc101.mp3"
+        }
+       },
+       {
+        "ar": "وَمَتَى مَوْسِمُ الجَفافِ؟",
+        "id": "Lalu kapan musim kemarau?",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/108a5f1cbf89922e.mp3"
+        }
+       },
+       {
+        "ar": "بَعْدَ شَهْرَيْنِ، وَالجَوُّ فِيهِ حارٌّ جِدًّا.",
+        "id": "Dua bulan lagi, dan cuacanya sangat panas.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/47cb38432316878b.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u10-salju-istanbul.webp"
+      ],
+      "instruction_id": "Malam hari di asrama putra. Yusuf baru selesai menelepon ibunya di Istanbul. Rizki bertanya tentang cuaca di sana."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "جَوٌّ",
+        "id": "cuaca",
+        "emoji": "🌤️",
+        "audio": {
+         "src": "/audio/o/3c2b3aabcfa314d4.mp3"
+        }
+       },
+       {
+        "ar": "بارِدٌ",
+        "id": "dingin",
+        "emoji": "🥶",
+        "audio": {
+         "src": "/audio/o/de80f7cc6e55713c.mp3"
+        }
+       },
+       {
+        "ar": "حارٌّ",
+        "id": "panas",
+        "emoji": "🥵",
+        "audio": {
+         "src": "/audio/o/98c8ba97129cbd76.mp3"
+        }
+       },
+       {
+        "ar": "جِدًّا",
+        "id": "sangat, sekali",
+        "emoji": "❗",
+        "audio": {
+         "src": "/audio/o/289762e6e341cd79.mp3"
+        }
+       },
+       {
+        "ar": "ثَلْجٌ",
+        "id": "salju",
+        "emoji": "❄️",
+        "audio": {
+         "src": "/audio/o/e4d806041189d14b.mp3"
+        }
+       },
+       {
+        "ar": "أَمْسِ",
+        "id": "kemarin",
+        "emoji": "⏪",
+        "audio": {
+         "src": "/audio/o/53e4fb07308f5363.mp3"
+        }
+       },
+       {
+        "ar": "نَزَلَ – يَنْزِلُ",
+        "id": "turun",
+        "emoji": "⬇️",
+        "audio": {
+         "src": "/audio/o/c2fb4834ab46643e.mp3"
+        }
+       },
+       {
+        "ar": "مَطَرٌ · أَمْطارٌ",
+        "id": "hujan (tunggal · jamak)",
+        "emoji": "🌧️",
+        "audio": {
+         "src": "/audio/o/28f3473da4880c38.mp3"
+        }
+       },
+       {
+        "ar": "مَوْسِمٌ",
+        "id": "musim · ★ musim",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/3bad386e27abcaca.mp3"
+        }
+       },
+       {
+        "ar": "مَوْسِمُ الأَمْطارِ",
+        "id": "musim hujan",
+        "emoji": "☔",
+        "audio": {
+         "src": "/audio/o/a6e303efaddaac2a.mp3"
+        }
+       },
+       {
+        "ar": "مَوْسِمُ الجَفافِ",
+        "id": "musim kemarau",
+        "emoji": "🏜️",
+        "audio": {
+         "src": "/audio/o/7db558565a27ebd5.mp3"
+        }
+       },
+       {
+        "ar": "هاتِفٌ",
+        "id": "telepon, HP",
+        "emoji": "📱",
+        "audio": {
+         "src": "/audio/o/e9927802223cbebc.mp3"
+        }
+       },
+       {
+        "ar": "كَلَّمْتُ",
+        "id": "saya berbicara dengan (menelepon)",
+        "emoji": "📞",
+        "audio": {
+         "src": "/audio/o/49e1304ea2c533db.mp3"
+        }
+       },
+       {
+        "ar": "بَعْدَ شَهْرَيْنِ",
+        "id": "dua bulan lagi",
+        "emoji": "📆",
+        "audio": {
+         "src": "/audio/o/fb73676bdf570cda.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d1-kaifa-jaww-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "كَيْفَ الجَوُّ؟",
+       "audio": {
+        "src": "/audio/o/ad8ef26a20d858ee.mp3"
+       }
+      },
+      "answer": "Bagaimana cuacanya?",
+      "options": [
+       "Bagaimana cuacanya?",
+       "Bagaimana kabarmu?",
+       "Di mana cuacanya panas?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d1-cuaca-istanbul",
+      "instruction": "Menurut dialog, bagaimana cuaca di Istanbul?",
+      "prompt": {
+       "ar": "الجَوُّ فِي إِسْطَنْبُول …",
+       "audio": {
+        "src": "/audio/o/69b7823d9bd723e7.mp3"
+       },
+       "emoji": "🏙️"
+      },
+      "answer": "Dingin sekali",
+      "options": [
+       "Dingin sekali",
+       "Panas sekali",
+       "Hujan setiap hari"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d1-dengar-nazala-tsalj",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "نَزَلَ الثَّلْجُ أَمْسِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/c07b87ed19864b1d.mp3"
+       }
+      },
+      "answer": "Kemarin salju turun.",
+      "options": [
+       "Kemarin salju turun.",
+       "Besok salju turun.",
+       "Kemarin hujan turun."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d1-musim-sekarang",
+      "instruction": "Menurut dialog, musim apa sekarang di Indonesia?",
+      "prompt": {
+       "ar": "الآنَ مَوْسِمُ …",
+       "audio": {
+        "src": "/audio/o/380b06b6a9396882.mp3"
+       }
+      },
+      "answer": "Musim hujan",
+      "options": [
+       "Musim hujan",
+       "Musim kemarau",
+       "Musim salju"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d1-barid-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "بارِدٌ",
+       "audio": {
+        "src": "/audio/o/de80f7cc6e55713c.mp3"
+       }
+      },
+      "answer": "dingin",
+      "options": [
+       "dingin",
+       "panas",
+       "hujan"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d1-balas-kaifa-jaww",
+      "instruction": "Pilih jawaban yang tepat",
+      "prompt": {
+       "ar": "كَيْفَ الجَوُّ فِي إِسْطَنْبُول؟",
+       "audio": {
+        "src": "/audio/o/a7fca8b517c30b49.mp3"
+       }
+      },
+      "answer": "بارِدٌ جِدًّا.",
+      "options": [
+       "بارِدٌ جِدًّا.",
+       "أَنا مِنْ إِسْطَنْبُول.",
+       "بِخَيْرٍ، الحَمْدُ لِلّٰهِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بارِدٌ جِدًّا.": {
+        "src": "/audio/o/a652bcaafcd452dd.mp3"
+       },
+       "أَنا مِنْ إِسْطَنْبُول.": {
+        "src": "/audio/o/da655f98735f2f17.mp3"
+       },
+       "بِخَيْرٍ، الحَمْدُ لِلّٰهِ.": {
+        "src": "/audio/o/1771610cafc90667.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d1-jafaf-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "مَوْسِمُ الجَفافِ",
+       "audio": {
+        "src": "/audio/o/7db558565a27ebd5.mp3"
+       }
+      },
+      "answer": "musim kemarau",
+      "options": [
+       "musim kemarau",
+       "musim hujan",
+       "musim dingin"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d1-susun-kaifa-jaww",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Bagaimana cuaca di Istanbul?"
+      },
+      "answer": "كَيْفَ الجَوُّ فِي إِسْطَنْبُول",
+      "tokens": [
+       "كَيْفَ",
+       "الجَوُّ",
+       "فِي",
+       "إِسْطَنْبُول",
+       "أَيْنَ"
+      ],
+      "audioMap": {
+       "كَيْفَ": {
+        "src": "/audio/o/917bb58b886deaa6.mp3"
+       },
+       "الجَوُّ": {
+        "src": "/audio/o/73171bd5858d858a.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "إِسْطَنْبُول": {
+        "src": "/audio/o/2400308cb04fabf6.mp3"
+       },
+       "أَيْنَ": {
+        "src": "/audio/o/2c4225894606e007.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d1-susun-barid-jiddan",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Cuacanya dingin sekali."
+      },
+      "answer": "الجَوُّ بارِدٌ جِدًّا",
+      "tokens": [
+       "الجَوُّ",
+       "بارِدٌ",
+       "جِدًّا",
+       "حارٌّ"
+      ],
+      "audioMap": {
+       "الجَوُّ": {
+        "src": "/audio/o/73171bd5858d858a.mp3"
+       },
+       "بارِدٌ": {
+        "src": "/audio/o/de80f7cc6e55713c.mp3"
+       },
+       "جِدًّا": {
+        "src": "/audio/o/289762e6e341cd79.mp3"
+       },
+       "حارٌّ": {
+        "src": "/audio/o/98c8ba97129cbd76.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u10-d1-ucap-barid-jiddan",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "الجَوُّ بارِدٌ جِدًّا.",
+       "id": "Cuacanya dingin sekali.",
+       "audio": {
+        "src": "/audio/o/4dd632a5f7d819c2.mp3"
+       }
+      },
+      "target": "الجَوُّ بارِدٌ جِدًّا."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u10-d1-lat-tsalj-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "ثَلْجٌ",
+      "audio": {
+       "src": "/audio/o/e4d806041189d14b.mp3"
+      }
+     },
+     "answer": "salju",
+     "options": [
+      "salju",
+      "hujan",
+      "angin"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d1-lat-dengar-yanzilu",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "يَنْزِلُ المَطَرُ كُلَّ يَوْمٍ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/2a332db2495ce727.mp3"
+      }
+     },
+     "answer": "Hujan turun setiap hari.",
+     "options": [
+      "Hujan turun setiap hari.",
+      "Kemarin hujan turun.",
+      "Salju turun setiap hari."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d1-lat-kapan-kemarau",
+     "instruction": "Menurut Rizki, kapan musim kemarau?",
+     "prompt": {
+      "ar": "بَعْدَ شَهْرَيْنِ.",
+      "audio": {
+       "src": "/audio/o/0a9018613ae7629a.mp3"
+      },
+      "emoji": "🏜️"
+     },
+     "answer": "Dua bulan lagi",
+     "options": [
+      "Dua bulan lagi",
+      "Dua minggu lagi",
+      "Sekarang"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u10-d1-lat-susun-mausim",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Ini musim hujan."
+     },
+     "answer": "هٰذا مَوْسِمُ الأَمْطارِ",
+     "tokens": [
+      "هٰذا",
+      "مَوْسِمُ",
+      "الأَمْطارِ",
+      "الجَفافِ"
+     ],
+     "audioMap": {
+      "هٰذا": {
+       "src": "/audio/o/03ff197b20546c39.mp3"
+      },
+      "مَوْسِمُ": {
+       "src": "/audio/o/323e24d22aac6c00.mp3"
+      },
+      "الأَمْطارِ": {
+       "src": "/audio/o/d25ea87e0e07f646.mp3"
+      },
+      "الجَفافِ": {
+       "src": "/audio/o/44419cbbe3080e27.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d1-lat-harr-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "حارٌّ",
+      "audio": {
+       "src": "/audio/o/98c8ba97129cbd76.mp3"
+      }
+     },
+     "answer": "panas",
+     "options": [
+      "panas",
+      "dingin",
+      "sangat"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u10-d2",
+   "dars": 2,
+   "title_id": "Piknik batal",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا عائِشَةُ، غَدًا يَوْمُ الأَحَدِ. هَيّا إِلَى الشّاطِئِ!",
+        "id": "Aisyah, besok hari Ahad. Ayo ke pantai!",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/fafb62d810109c95.mp3"
+        }
+       },
+       {
+        "ar": "فِكْرَةٌ جَمِيلَةٌ! مَتَى نَذْهَبُ؟",
+        "id": "Ide bagus! Kapan kita berangkat?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/f6ebb42b74612d90.mp3"
+        }
+       },
+       {
+        "ar": "فِي السّاعَةِ السّادِسَةِ صَباحًا، بِالحافِلَةِ.",
+        "id": "Jam enam pagi, naik bus.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/1adda7f3fb1a9dbd.mp3"
+        }
+       },
+       {
+        "ar": "طَيِّبٌ. اُنْظُرِي! فِي السَّماءِ غَيْمٌ كَثِيرٌ.",
+        "id": "Baiklah. Lihat! Di langit banyak awan.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/b4563c1e10ee2f97.mp3"
+        }
+       },
+       {
+        "ar": "وَالرِّيحُ قَوِيَّةٌ. هَلْ سَيَنْزِلُ المَطَرُ؟",
+        "id": "Anginnya juga kencang. Apakah hujan akan turun?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/1f946a9e89ae7d1d.mp3"
+        }
+       },
+       {
+        "ar": "اِسْمَعِي! المَطَرُ يَنْزِلُ الآنَ.",
+        "id": "Dengar! Hujan turun sekarang.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/ec3a82c7de3685ad.mp3"
+        }
+       },
+       {
+        "ar": "المَطَرُ كَثِيرٌ! لا نَذْهَبُ غَدًا إِذَنْ.",
+        "id": "Hujannya deras! Kalau begitu, besok kita tidak pergi.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/a29d563dad9fd2ed.mp3"
+        }
+       },
+       {
+        "ar": "لا بَأْسَ. الشّاطِئُ جَمِيلٌ فِي مَوْسِمِ الجَفافِ.",
+        "id": "Tidak apa-apa. Pantai itu indah pada musim kemarau.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/56980315c02f73af.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ. وَغَدًا نَقْرَأُ فِي المَكْتَبَةِ.",
+        "id": "Iya. Besok kita membaca di perpustakaan saja.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/6bef9fcfba1ea7de.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u10-piknik-batal.webp"
+      ],
+      "instruction_id": "Sabtu sore di asrama putri. Siti mengajak Aisyah ke pantai besok pagi, tetapi langit mulai gelap."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "شاطِئٌ",
+        "id": "pantai",
+        "emoji": "🏖️",
+        "audio": {
+         "src": "/audio/o/af60ca38d2ffaee1.mp3"
+        }
+       },
+       {
+        "ar": "فِكْرَةٌ",
+        "id": "ide, gagasan",
+        "emoji": "💡",
+        "audio": {
+         "src": "/audio/o/682a063fc6a42a63.mp3"
+        }
+       },
+       {
+        "ar": "فِكْرَةٌ جَمِيلَةٌ!",
+        "id": "ide bagus!",
+        "emoji": "👍",
+        "audio": {
+         "src": "/audio/o/f3744c313ac055fe.mp3"
+        }
+       },
+       {
+        "ar": "سَماءٌ",
+        "id": "langit",
+        "emoji": "🌌",
+        "audio": {
+         "src": "/audio/o/0e48bb09e2c957f3.mp3"
+        }
+       },
+       {
+        "ar": "غَيْمٌ",
+        "id": "awan",
+        "emoji": "☁️",
+        "audio": {
+         "src": "/audio/o/bec476f2ad3b73cf.mp3"
+        }
+       },
+       {
+        "ar": "رِيحٌ",
+        "id": "angin (kata perempuan)",
+        "emoji": "💨",
+        "audio": {
+         "src": "/audio/o/f6297c41662ebb60.mp3"
+        }
+       },
+       {
+        "ar": "قَوِيٌّ · قَوِيَّةٌ",
+        "id": "kuat, kencang (lk · pr)",
+        "emoji": "💪",
+        "audio": {
+         "src": "/audio/o/34e013e01249fa1d.mp3"
+        }
+       },
+       {
+        "ar": "غَدًا",
+        "id": "besok",
+        "emoji": "⏩",
+        "audio": {
+         "src": "/audio/o/cb264b05e9e1252a.mp3"
+        }
+       },
+       {
+        "ar": "إِذَنْ",
+        "id": "kalau begitu",
+        "emoji": "➡️",
+        "audio": {
+         "src": "/audio/o/0fcf2271fbad972c.mp3"
+        }
+       },
+       {
+        "ar": "سَيَنْزِلُ",
+        "id": "akan turun (سَـ = akan)",
+        "emoji": "⏳",
+        "audio": {
+         "src": "/audio/o/162f4b97fb152326.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d2-fikrah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "فِكْرَةٌ جَمِيلَةٌ!",
+       "audio": {
+        "src": "/audio/o/f3744c313ac055fe.mp3"
+       }
+      },
+      "answer": "Ide bagus!",
+      "options": [
+       "Ide bagus!",
+       "Cuaca bagus!",
+       "Pantai yang indah!"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d2-ajak-ke-mana",
+      "instruction": "Menurut dialog, Siti mengajak Aisyah ke mana?",
+      "prompt": {
+       "ar": "هَيّا إِلَى …",
+       "audio": {
+        "src": "/audio/o/b5c4f2427eb6a54d.mp3"
+       },
+       "emoji": "🧭"
+      },
+      "answer": "Ke pantai",
+      "options": [
+       "Ke pantai",
+       "Ke pasar",
+       "Ke perpustakaan"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d2-jam-berangkat",
+      "instruction": "Menurut rencana, jam berapa mereka berangkat?",
+      "prompt": {
+       "id": "Rencana Siti",
+       "emoji": "🕕"
+      },
+      "answer": "Jam 6 pagi",
+      "options": [
+       "Jam 6 pagi",
+       "Jam 7 pagi",
+       "Jam 6 sore"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d2-dengar-ghaim",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "فِي السَّماءِ غَيْمٌ كَثِيرٌ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a9b0821c09d44667.mp3"
+       }
+      },
+      "answer": "Di langit banyak awan.",
+      "options": [
+       "Di langit banyak awan.",
+       "Di langit ada matahari.",
+       "Anginnya kencang."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d2-rih-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "رِيحٌ",
+       "audio": {
+        "src": "/audio/o/f6297c41662ebb60.mp3"
+       }
+      },
+      "answer": "angin",
+      "options": [
+       "angin",
+       "awan",
+       "langit"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d2-bs-pergi-pantai",
+      "instruction": "Benar atau salah? \"Besok Siti pergi ke pantai.\"",
+      "prompt": {
+       "ar": "سِيتِي تَذْهَبُ إِلَى الشّاطِئِ غَدًا.",
+       "audio": {
+        "src": "/audio/o/ab16a66049610040.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d2-balas-hayya",
+      "instruction": "Temanmu mengusulkan rencana. Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "هَيّا إِلَى الشّاطِئِ غَدًا!",
+       "audio": {
+        "src": "/audio/o/d7dd9ca6ac434bcd.mp3"
+       }
+      },
+      "answer": "فِكْرَةٌ جَمِيلَةٌ!",
+      "options": [
+       "فِكْرَةٌ جَمِيلَةٌ!",
+       "وَعَلَيْكُمُ السَّلامُ.",
+       "بارِدٌ جِدًّا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فِكْرَةٌ جَمِيلَةٌ!": {
+        "src": "/audio/o/f3744c313ac055fe.mp3"
+       },
+       "وَعَلَيْكُمُ السَّلامُ.": {
+        "src": "/audio/o/f43ab2bfd0d99792.mp3"
+       },
+       "بارِدٌ جِدًّا.": {
+        "src": "/audio/o/a652bcaafcd452dd.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d2-susun-mathar-yanzilu",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Hujannya deras!"
+      },
+      "answer": "المَطَرُ كَثِيرٌ",
+      "tokens": [
+       "المَطَرُ",
+       "كَثِيرٌ",
+       "يَنْزِلُ"
+      ],
+      "audioMap": {
+       "المَطَرُ": {
+        "src": "/audio/o/89aae6e1fd036529.mp3"
+       },
+       "كَثِيرٌ": {
+        "src": "/audio/o/81d676f6f6805568.mp3"
+       },
+       "يَنْزِلُ": {
+        "src": "/audio/o/41cbf7f3030a7768.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d2-susun-fis-sama",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Di langit banyak awan."
+      },
+      "answer": "فِي السَّماءِ غَيْمٌ كَثِيرٌ",
+      "tokens": [
+       "فِي",
+       "السَّماءِ",
+       "غَيْمٌ",
+       "كَثِيرٌ",
+       "شَمْسٌ"
+      ],
+      "audioMap": {
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "السَّماءِ": {
+        "src": "/audio/o/cb367d196b89cfe5.mp3"
+       },
+       "غَيْمٌ": {
+        "src": "/audio/o/bec476f2ad3b73cf.mp3"
+       },
+       "كَثِيرٌ": {
+        "src": "/audio/o/81d676f6f6805568.mp3"
+       },
+       "شَمْسٌ": {
+        "src": "/audio/o/3652e4c2441acdde.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u10-d2-ucap-hayya-syathi",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "هَيّا إِلَى الشّاطِئِ!",
+       "id": "Ayo ke pantai!",
+       "audio": {
+        "src": "/audio/o/5099bac4f525e69b.mp3"
+       }
+      },
+      "target": "هَيّا إِلَى الشّاطِئِ!"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u10-d2-lat-ghaim-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "غَيْمٌ",
+      "audio": {
+       "src": "/audio/o/bec476f2ad3b73cf.mp3"
+      }
+     },
+     "answer": "awan",
+     "options": [
+      "awan",
+      "angin",
+      "salju"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d2-lat-unzhuri",
+     "instruction": "Kamu meminta Aisyah melihat ke langit. Kamu berkata …",
+     "prompt": {
+      "id": "Lihat! (kepada pr)",
+      "emoji": "👀"
+     },
+     "answer": "اُنْظُرِي!",
+     "options": [
+      "اُنْظُرِي!",
+      "اُنْظُرْ!",
+      "اِسْمَعْ!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "اُنْظُرِي!": {
+       "src": "/audio/o/70357ce9f0cdbfe7.mp3"
+      },
+      "اُنْظُرْ!": {
+       "src": "/audio/o/ac067755f53d03df.mp3"
+      },
+      "اِسْمَعْ!": {
+       "src": "/audio/o/437bd8225dd94543.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d2-lat-besok-apa",
+     "instruction": "Menurut dialog, apa yang mereka lakukan besok?",
+     "prompt": {
+      "ar": "وَغَدًا …",
+      "audio": {
+       "src": "/audio/o/3277267026cd983c.mp3"
+      },
+      "emoji": "📚"
+     },
+     "answer": "Membaca di perpustakaan",
+     "options": [
+      "Membaca di perpustakaan",
+      "Pergi ke pantai naik bus",
+      "Pergi ke pasar"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d2-lat-dengar-rih",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "الرِّيحُ قَوِيَّةٌ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/fca6dc18ba5eea14.mp3"
+      }
+     },
+     "answer": "Anginnya kencang.",
+     "options": [
+      "Anginnya kencang.",
+      "Hujannya deras.",
+      "Cuacanya dingin."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u10-d2-lat-susun-jafaf",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Pantai itu indah pada musim kemarau."
+     },
+     "answer": "الشّاطِئُ جَمِيلٌ فِي مَوْسِمِ الجَفافِ",
+     "tokens": [
+      "الشّاطِئُ",
+      "جَمِيلٌ",
+      "فِي",
+      "مَوْسِمِ",
+      "الجَفافِ",
+      "الأَمْطارِ"
+     ],
+     "audioMap": {
+      "الشّاطِئُ": {
+       "src": "/audio/o/67976681a984afe7.mp3"
+      },
+      "جَمِيلٌ": {
+       "src": "/audio/o/cb58a4b64b58bbeb.mp3"
+      },
+      "فِي": {
+       "src": "/audio/o/795f40ec05f82a8d.mp3"
+      },
+      "مَوْسِمِ": {
+       "src": "/audio/o/0f4fe708d5b00e96.mp3"
+      },
+      "الجَفافِ": {
+       "src": "/audio/o/44419cbbe3080e27.mp3"
+      },
+      "الأَمْطارِ": {
+       "src": "/audio/o/d25ea87e0e07f646.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u10-d3",
+   "dars": 3,
+   "title_id": "Nur lupa payung",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ يا أَبِي. أَنا نُور.",
+        "id": "Assalamualaikum, Ayah. Ini Nur.",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/46b13c2c36968c29.mp3"
+        }
+       },
+       {
+        "ar": "وَعَلَيْكُمُ السَّلامُ يا نُور. أَيْنَ أَنْتِ الآنَ؟",
+        "id": "Waalaikumussalam, Nur. Kamu di mana sekarang?",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/e0e9044788887223.mp3"
+        }
+       },
+       {
+        "ar": "أَنا فِي المَدْرَسَةِ، وَالمَطَرُ يَنْزِلُ كَثِيرًا!",
+        "id": "Aku di sekolah, dan hujannya deras sekali!",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/7b604595d813afe1.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ أَخَذْتِ مِظَلَّتَكِ يا بِنْتِي؟",
+        "id": "Kamu bawa payungmu, Nak?",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/89bc788cdb936855.mp3"
+        }
+       },
+       {
+        "ar": "لا، تَرَكْتُها فِي البَيْتِ!",
+        "id": "Tidak, aku meninggalkannya di rumah!",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/edb2c6d3aff24eb0.mp3"
+        }
+       },
+       {
+        "ar": "لا تَخْرُجِي فِي المَطَرِ. سَآخُذُكِ بِالسَّيّارَةِ.",
+        "id": "Jangan keluar saat hujan. Ayah akan menjemputmu dengan mobil.",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/b20e7b2d160b8f41.mp3"
+        }
+       },
+       {
+        "ar": "شُكْرًا يا أَبِي، بارَكَ اللّٰهُ فِيكَ!",
+        "id": "Terima kasih, Ayah. Barakallah fik!",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/26beba9621a7d4dc.mp3"
+        }
+       },
+       {
+        "ar": "وَفِيكِ بارَكَ اللّٰهُ. وَغَدًا خُذِي المِظَلَّةَ!",
+        "id": "Wa fiki barakallah. Besok bawalah payung!",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/0c632f2284ddb059.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ يا أَبِي، إِنْ شاءَ اللّٰهُ!",
+        "id": "Ya, Ayah, insyaallah!",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/2e200e9681f0eca6.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u10-nur-payung.webp"
+      ],
+      "instruction_id": "Siang hari di Bandung, hujan deras. Nur menelepon ayahnya dari telepon sekolah."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مِظَلَّةٌ",
+        "id": "payung",
+        "emoji": "☂️",
+        "audio": {
+         "src": "/audio/o/a47b150f243d2135.mp3"
+        }
+       },
+       {
+        "ar": "مِظَلَّتُكِ · مِظَلَّتَكِ",
+        "id": "payungmu (pr)",
+        "emoji": "🌂",
+        "audio": {
+         "src": "/audio/o/26a79dcb9cc0eb50.mp3"
+        }
+       },
+       {
+        "ar": "تَرَكَ – يَتْرُكُ",
+        "id": "meninggalkan",
+        "emoji": "🚪",
+        "audio": {
+         "src": "/audio/o/c49b81472f6b547f.mp3"
+        }
+       },
+       {
+        "ar": "تَرَكْتُها",
+        "id": "saya meninggalkannya (benda pr)",
+        "emoji": "🏠",
+        "audio": {
+         "src": "/audio/o/367d8aa70f1a71fc.mp3"
+        }
+       },
+       {
+        "ar": "لا تَخْرُجِي",
+        "id": "jangan keluar (pr)",
+        "emoji": "🚫",
+        "audio": {
+         "src": "/audio/o/e1f63f37e52ae60e.mp3"
+        }
+       },
+       {
+        "ar": "سَآخُذُكِ",
+        "id": "saya akan menjemputmu / membawamu (pr)",
+        "emoji": "🚗",
+        "audio": {
+         "src": "/audio/o/004f0672d2379286.mp3"
+        }
+       },
+       {
+        "ar": "خُذْ · خُذِي",
+        "id": "ambillah, bawalah (lk · pr); lampaunya أَخَذَ, أَخَذْتِ = kamu (pr) membawa",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/06b60752c840a18a.mp3"
+        }
+       },
+       {
+        "ar": "بارَكَ اللّٰهُ فِيكَ · فِيكِ",
+        "id": "semoga Allah memberkahimu (lk · pr) · ★ barakallah",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/fac4c99ed9ef9403.mp3"
+        }
+       },
+       {
+        "ar": "وَفِيكَ بارَكَ اللّٰهُ · وَفِيكِ",
+        "id": "dan semoga Allah memberkahimu juga (balasan) (lk · pr)",
+        "emoji": "💚",
+        "audio": {
+         "src": "/audio/o/ce160aec943c3ca8.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d3-aina-mizallah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "أَيْنَ مِظَلَّتُكِ؟",
+       "audio": {
+        "src": "/audio/o/233ce0682cd14d09.mp3"
+       }
+      },
+      "answer": "Di mana payungmu? (pr)",
+      "options": [
+       "Di mana payungmu? (pr)",
+       "Di mana kamu sekarang? (pr)",
+       "Di mana sekolahmu? (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d3-nur-di-mana",
+      "instruction": "Menurut dialog, Nur sedang di mana?",
+      "prompt": {
+       "ar": "أَنا فِي …",
+       "audio": {
+        "src": "/audio/o/fccdc82ba7cfe307.mp3"
+       },
+       "emoji": "🏫"
+      },
+      "answer": "Di sekolah",
+      "options": [
+       "Di sekolah",
+       "Di rumah",
+       "Di masjid"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d3-payung-di-mana",
+      "instruction": "Menurut dialog, di mana payung Nur?",
+      "prompt": {
+       "id": "Payung Nur …",
+       "emoji": "☂️"
+      },
+      "answer": "Tertinggal di rumah",
+      "options": [
+       "Tertinggal di rumah",
+       "Ada di tas Nur",
+       "Ada di mobil Ayah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d3-dengar-taraktuha",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "تَرَكْتُها فِي البَيْتِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/6260f459f64f6316.mp3"
+       }
+      },
+      "answer": "Aku meninggalkannya di rumah.",
+      "options": [
+       "Aku meninggalkannya di rumah.",
+       "Aku mengambilnya dari rumah.",
+       "Dia (pr) ada di rumah."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d3-jemput-naik-apa",
+      "instruction": "Menurut dialog, Pak Ahmad akan menjemput Nur dengan apa?",
+      "prompt": {
+       "ar": "سَآخُذُكِ بِـ …",
+       "audio": {
+        "src": "/audio/o/ed56df70f47d9d47.mp3"
+       },
+       "emoji": "🚦"
+      },
+      "answer": "Dengan mobil",
+      "options": [
+       "Dengan mobil",
+       "Dengan bus",
+       "Dengan sepeda motor"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d3-balas-barakallah",
+      "instruction": "Nur berkata kepada ayahnya: بارَكَ اللّٰهُ فِيكَ. Ayah menjawab …",
+      "prompt": {
+       "ar": "بارَكَ اللّٰهُ فِيكَ!",
+       "audio": {
+        "src": "/audio/o/5ae12c43d657078d.mp3"
+       }
+      },
+      "answer": "وَفِيكِ بارَكَ اللّٰهُ.",
+      "options": [
+       "وَفِيكِ بارَكَ اللّٰهُ.",
+       "وَعَلَيْكُمُ السَّلامُ.",
+       "أَنا فِي المَدْرَسَةِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "وَفِيكِ بارَكَ اللّٰهُ.": {
+        "src": "/audio/o/8814948391282135.mp3"
+       },
+       "وَعَلَيْكُمُ السَّلامُ.": {
+        "src": "/audio/o/f43ab2bfd0d99792.mp3"
+       },
+       "أَنا فِي المَدْرَسَةِ.": {
+        "src": "/audio/o/2bbacbdd3b41840d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d3-nasihat-ayah",
+      "instruction": "Apa nasihat Pak Ahmad untuk besok?",
+      "prompt": {
+       "ar": "وَغَدًا خُذِي المِظَلَّةَ!",
+       "audio": {
+        "src": "/audio/o/628245b0ef304c04.mp3"
+       }
+      },
+      "answer": "Bawalah payung",
+      "options": [
+       "Bawalah payung",
+       "Pakailah jaket",
+       "Pulanglah naik bus"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d3-gambar-mizallah",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "☂️"
+      },
+      "answer": "مِظَلَّةٌ",
+      "options": [
+       "مِظَلَّةٌ",
+       "هاتِفٌ",
+       "سَيّارَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مِظَلَّةٌ": {
+        "src": "/audio/o/a47b150f243d2135.mp3"
+       },
+       "هاتِفٌ": {
+        "src": "/audio/o/e9927802223cbebc.mp3"
+       },
+       "سَيّارَةٌ": {
+        "src": "/audio/o/cd24467705ec268a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d3-susun-taraktuha",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Aku meninggalkannya (payung) di rumah."
+      },
+      "answer": "تَرَكْتُها فِي البَيْتِ",
+      "tokens": [
+       "تَرَكْتُها",
+       "فِي",
+       "البَيْتِ",
+       "تَرَكْتُهُ"
+      ],
+      "audioMap": {
+       "تَرَكْتُها": {
+        "src": "/audio/o/367d8aa70f1a71fc.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "البَيْتِ": {
+        "src": "/audio/o/15cd26df8ad762f5.mp3"
+       },
+       "تَرَكْتُهُ": {
+        "src": "/audio/o/9f46a9298bb38e1f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d3-susun-khudzi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Bawalah payung! (kepada pr)"
+      },
+      "answer": "خُذِي المِظَلَّةَ",
+      "tokens": [
+       "خُذِي",
+       "المِظَلَّةَ",
+       "خُذْ",
+       "مِظَلَّتُكِ"
+      ],
+      "audioMap": {
+       "خُذِي": {
+        "src": "/audio/o/9b8e4e3ec5c78cdc.mp3"
+       },
+       "المِظَلَّةَ": {
+        "src": "/audio/o/845030a2f95960bb.mp3"
+       },
+       "خُذْ": {
+        "src": "/audio/o/3f5efac127ecf3d3.mp3"
+       },
+       "مِظَلَّتُكِ": {
+        "src": "/audio/o/d2c9e870584e404f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u10-d3-ucap-barakallah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "بارَكَ اللّٰهُ فِيكَ!",
+       "id": "Semoga Allah memberkahimu! (kepada lk)",
+       "audio": {
+        "src": "/audio/o/06cc154dc4d0e3c2.mp3"
+       }
+      },
+      "target": "بارَكَ اللّٰهُ فِيكَ!"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u10-d3-lat-la-takhruji",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "لا تَخْرُجِي فِي المَطَرِ.",
+      "audio": {
+       "src": "/audio/o/a3ba40bbdb348fb4.mp3"
+      }
+     },
+     "answer": "Jangan keluar saat hujan. (pr)",
+     "options": [
+      "Jangan keluar saat hujan. (pr)",
+      "Jangan tidur saat hujan. (pr)",
+      "Keluarlah saat hujan. (pr)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d3-lat-hatif-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هاتِفٌ",
+      "audio": {
+       "src": "/audio/o/e9927802223cbebc.mp3"
+      }
+     },
+     "answer": "telepon, HP",
+     "options": [
+      "telepon, HP",
+      "payung",
+      "mobil"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d3-lat-dengar-saakhudzuki",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "سَآخُذُكِ بِالسَّيّارَةِ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/d105c0c04d3d887f.mp3"
+      }
+     },
+     "answer": "Saya akan menjemputmu (pr) dengan mobil.",
+     "options": [
+      "Saya akan menjemputmu (pr) dengan mobil.",
+      "Saya meninggalkanmu (pr) di mobil.",
+      "Ambillah mobil itu! (pr)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u10-d3-lat-susun-aina-mizallah",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Di mana payungmu? (pr)"
+     },
+     "answer": "أَيْنَ مِظَلَّتُكِ",
+     "tokens": [
+      "أَيْنَ",
+      "مِظَلَّتُكِ",
+      "مِظَلَّتُكَ"
+     ],
+     "audioMap": {
+      "أَيْنَ": {
+       "src": "/audio/o/2c4225894606e007.mp3"
+      },
+      "مِظَلَّتُكِ": {
+       "src": "/audio/o/d2c9e870584e404f.mp3"
+      },
+      "مِظَلَّتُكَ": {
+       "src": "/audio/o/69d4279485487425.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d3-lat-bs-nur-payung",
+     "instruction": "Benar atau salah? \"Nur membawa payung ke sekolah.\"",
+     "prompt": {
+      "ar": "نُور أَخَذَتِ المِظَلَّةَ إِلَى المَدْرَسَةِ.",
+      "audio": {
+       "src": "/audio/o/a0a2c18fd80692a2.mp3"
+      }
+     },
+     "answer": "Salah",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d3-lat-akhadzti-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هَلْ أَخَذْتِ مِظَلَّتَكِ؟",
+      "audio": {
+       "src": "/audio/o/f050048452bb7f46.mp3"
+      }
+     },
+     "answer": "Kamu bawa payungmu? (pr)",
+     "options": [
+      "Kamu bawa payungmu? (pr)",
+      "Di mana payungmu? (pr)",
+      "Bawalah payungmu! (pr)"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u10-d4",
+   "dars": 4,
+   "title_id": "Kosakata cuaca dan musim",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "جَوٌّ",
+        "id": "cuaca",
+        "emoji": "🌤️",
+        "audio": {
+         "src": "/audio/o/3c2b3aabcfa314d4.mp3"
+        }
+       },
+       {
+        "ar": "حارٌّ",
+        "id": "panas",
+        "emoji": "🥵",
+        "audio": {
+         "src": "/audio/o/98c8ba97129cbd76.mp3"
+        }
+       },
+       {
+        "ar": "بارِدٌ",
+        "id": "dingin",
+        "emoji": "🥶",
+        "audio": {
+         "src": "/audio/o/de80f7cc6e55713c.mp3"
+        }
+       },
+       {
+        "ar": "مَطَرٌ",
+        "id": "hujan",
+        "emoji": "🌧️",
+        "audio": {
+         "src": "/audio/o/5b955316d9fac285.mp3"
+        }
+       },
+       {
+        "ar": "شَمْسٌ",
+        "id": "matahari",
+        "emoji": "☀️",
+        "audio": {
+         "src": "/audio/o/3652e4c2441acdde.mp3"
+        }
+       },
+       {
+        "ar": "غَيْمٌ",
+        "id": "awan",
+        "emoji": "☁️",
+        "audio": {
+         "src": "/audio/o/bec476f2ad3b73cf.mp3"
+        }
+       },
+       {
+        "ar": "رِيحٌ",
+        "id": "angin",
+        "emoji": "💨",
+        "audio": {
+         "src": "/audio/o/f6297c41662ebb60.mp3"
+        }
+       },
+       {
+        "ar": "ثَلْجٌ",
+        "id": "salju",
+        "emoji": "❄️",
+        "audio": {
+         "src": "/audio/o/e4d806041189d14b.mp3"
+        }
+       },
+       {
+        "ar": "سَماءٌ",
+        "id": "langit",
+        "emoji": "🌌",
+        "audio": {
+         "src": "/audio/o/0e48bb09e2c957f3.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Cuaca"
+      },
+      "note_id": "شَمْسٌ dan رِيحٌ adalah kata perempuan: الشَّمْسُ حارَّةٌ، الرِّيحُ قَوِيَّةٌ."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مَوْسِمٌ",
+        "id": "musim · ★ musim",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/3bad386e27abcaca.mp3"
+        }
+       },
+       {
+        "ar": "مَوْسِمُ الأَمْطارِ",
+        "id": "musim hujan",
+        "emoji": "☔",
+        "audio": {
+         "src": "/audio/o/a6e303efaddaac2a.mp3"
+        }
+       },
+       {
+        "ar": "مَوْسِمُ الجَفافِ",
+        "id": "musim kemarau",
+        "emoji": "🏜️",
+        "audio": {
+         "src": "/audio/o/7db558565a27ebd5.mp3"
+        }
+       },
+       {
+        "ar": "الشِّتاءُ · الصَّيْفُ",
+        "id": "musim dingin · musim panas",
+        "emoji": "⛄",
+        "audio": {
+         "src": "/audio/o/a4f67a3d58f87bcc.mp3"
+        }
+       },
+       {
+        "ar": "الرَّبِيعُ · الخَرِيفُ",
+        "id": "musim semi · musim gugur",
+        "emoji": "🍂",
+        "audio": {
+         "src": "/audio/o/28bb1cd21fa137b7.mp3"
+        }
+       },
+       {
+        "ar": "حَرارَةٌ",
+        "id": "suhu, panas",
+        "emoji": "🌡️",
+        "audio": {
+         "src": "/audio/o/916a0077891479f0.mp3"
+        }
+       },
+       {
+        "ar": "دَرَجَةٌ",
+        "id": "derajat · ★ derajat",
+        "emoji": "🌡️",
+        "audio": {
+         "src": "/audio/o/ed937e7b6b22f22e.mp3"
+        }
+       },
+       {
+        "ar": "عِشْرُونَ دَرَجَةً",
+        "id": "dua puluh derajat",
+        "emoji": "2️⃣0️⃣",
+        "audio": {
+         "src": "/audio/o/1190af32a2d99b7a.mp3"
+        }
+       },
+       {
+        "ar": "ثَلاثُونَ دَرَجَةً",
+        "id": "tiga puluh derajat",
+        "emoji": "3️⃣0️⃣",
+        "audio": {
+         "src": "/audio/o/2bd0cfe181588bcf.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Musim dan suhu"
+      },
+      "note_id": "Indonesia punya dua musim. Negara seperti Turki punya empat musim; namanya cukup dikenali saja. Setelah عِشْرُونَ/ثَلاثُونَ, bendanya tunggal berakhiran -an: دَرَجَةً."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مِظَلَّةٌ",
+        "id": "payung",
+        "emoji": "☂️",
+        "audio": {
+         "src": "/audio/o/a47b150f243d2135.mp3"
+        }
+       },
+       {
+        "ar": "فَيَضانٌ",
+        "id": "banjir",
+        "emoji": "🌊",
+        "audio": {
+         "src": "/audio/o/e0e1c7f74ca76a18.mp3"
+        }
+       },
+       {
+        "ar": "هاتِفٌ",
+        "id": "telepon, HP",
+        "emoji": "📱",
+        "audio": {
+         "src": "/audio/o/e9927802223cbebc.mp3"
+        }
+       },
+       {
+        "ar": "مِعْطَفٌ",
+        "id": "jaket, mantel",
+        "emoji": "🧥",
+        "audio": {
+         "src": "/audio/o/ca569ea0f49d46b7.mp3"
+        }
+       },
+       {
+        "ar": "أَمْسِ",
+        "id": "kemarin",
+        "emoji": "⏪",
+        "audio": {
+         "src": "/audio/o/53e4fb07308f5363.mp3"
+        }
+       },
+       {
+        "ar": "اليَوْمَ",
+        "id": "hari ini",
+        "emoji": "📍",
+        "audio": {
+         "src": "/audio/o/f4558cc37c35356c.mp3"
+        }
+       },
+       {
+        "ar": "غَدًا",
+        "id": "besok",
+        "emoji": "⏩",
+        "audio": {
+         "src": "/audio/o/cb264b05e9e1252a.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata lain"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-gambar-syams",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "☀️"
+      },
+      "answer": "شَمْسٌ",
+      "options": [
+       "شَمْسٌ",
+       "غَيْمٌ",
+       "مَطَرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شَمْسٌ": {
+        "src": "/audio/o/3652e4c2441acdde.mp3"
+       },
+       "غَيْمٌ": {
+        "src": "/audio/o/bec476f2ad3b73cf.mp3"
+       },
+       "مَطَرٌ": {
+        "src": "/audio/o/5b955316d9fac285.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-gambar-tsalj",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "❄️"
+      },
+      "answer": "ثَلْجٌ",
+      "options": [
+       "ثَلْجٌ",
+       "رِيحٌ",
+       "مَطَرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ثَلْجٌ": {
+        "src": "/audio/o/e4d806041189d14b.mp3"
+       },
+       "رِيحٌ": {
+        "src": "/audio/o/f6297c41662ebb60.mp3"
+       },
+       "مَطَرٌ": {
+        "src": "/audio/o/5b955316d9fac285.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-gambar-rih",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "💨"
+      },
+      "answer": "رِيحٌ",
+      "options": [
+       "رِيحٌ",
+       "شَمْسٌ",
+       "سَماءٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "رِيحٌ": {
+        "src": "/audio/o/f6297c41662ebb60.mp3"
+       },
+       "شَمْسٌ": {
+        "src": "/audio/o/3652e4c2441acdde.mp3"
+       },
+       "سَماءٌ": {
+        "src": "/audio/o/0e48bb09e2c957f3.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-dengar-mizallah",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "مِظَلَّةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a47b150f243d2135.mp3"
+       }
+      },
+      "answer": "payung",
+      "options": [
+       "payung",
+       "jaket",
+       "telepon"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-ghadan-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "غَدًا",
+       "audio": {
+        "src": "/audio/o/cb264b05e9e1252a.mp3"
+       }
+      },
+      "answer": "besok",
+      "options": [
+       "besok",
+       "kemarin",
+       "hari ini"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-amsi-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "أَمْسِ",
+       "audio": {
+        "src": "/audio/o/53e4fb07308f5363.mp3"
+       }
+      },
+      "answer": "kemarin",
+      "options": [
+       "kemarin",
+       "besok",
+       "sekarang"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-lawan-harr",
+      "instruction": "Lawan kata حارٌّ adalah …",
+      "prompt": {
+       "ar": "حارٌّ",
+       "audio": {
+        "src": "/audio/o/98c8ba97129cbd76.mp3"
+       },
+       "emoji": "🥵"
+      },
+      "answer": "بارِدٌ",
+      "options": [
+       "بارِدٌ",
+       "جَمِيلٌ",
+       "قَرِيبٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بارِدٌ": {
+        "src": "/audio/o/de80f7cc6e55713c.mp3"
+       },
+       "جَمِيلٌ": {
+        "src": "/audio/o/cb58a4b64b58bbeb.mp3"
+       },
+       "قَرِيبٌ": {
+        "src": "/audio/o/d4d877d4a1a28164.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-lengkapi-musim-hujan",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "فِي مَوْسِمِ الأَمْطارِ يَنْزِلُ … كَثِيرًا.",
+       "audio": {
+        "src": "/audio/o/34abb3476cb370dc.mp3"
+       },
+       "id": "Pada musim hujan, … banyak turun."
+      },
+      "answer": "المَطَرُ",
+      "options": [
+       "المَطَرُ",
+       "الثَّلْجُ",
+       "الشَّمْسُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "المَطَرُ": {
+        "src": "/audio/o/89aae6e1fd036529.mp3"
+       },
+       "الثَّلْجُ": {
+        "src": "/audio/o/59db0d7a73fb0117.mp3"
+       },
+       "الشَّمْسُ": {
+        "src": "/audio/o/9347ec888ec363ed.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-dengar-isyrun",
+      "instruction": "Dengarkan. Berapa suhunya?",
+      "prompt": {
+       "tts": "الحَرارَةُ عِشْرُونَ دَرَجَةً.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a35e5d622e4f5f17.mp3"
+       }
+      },
+      "answer": "20 derajat",
+      "options": [
+       "20 derajat",
+       "30 derajat",
+       "2 derajat"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d4-fayadhan-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "فَيَضانٌ",
+       "audio": {
+        "src": "/audio/o/e0e1c7f74ca76a18.mp3"
+       }
+      },
+      "answer": "banjir",
+      "options": [
+       "banjir",
+       "hujan",
+       "pantai"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u10-d4-lat-gambar-ghaim",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "☁️"
+     },
+     "answer": "غَيْمٌ",
+     "options": [
+      "غَيْمٌ",
+      "ثَلْجٌ",
+      "شَمْسٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "غَيْمٌ": {
+       "src": "/audio/o/bec476f2ad3b73cf.mp3"
+      },
+      "ثَلْجٌ": {
+       "src": "/audio/o/e4d806041189d14b.mp3"
+      },
+      "شَمْسٌ": {
+       "src": "/audio/o/3652e4c2441acdde.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d4-lat-gambar-mithaf",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "🧥"
+     },
+     "answer": "مِعْطَفٌ",
+     "options": [
+      "مِعْطَفٌ",
+      "مِظَلَّةٌ",
+      "هاتِفٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "مِعْطَفٌ": {
+       "src": "/audio/o/ca569ea0f49d46b7.mp3"
+      },
+      "مِظَلَّةٌ": {
+       "src": "/audio/o/a47b150f243d2135.mp3"
+      },
+      "هاتِفٌ": {
+       "src": "/audio/o/e9927802223cbebc.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d4-lat-dengar-tsalatsun",
+     "instruction": "Dengarkan. Berapa suhunya?",
+     "prompt": {
+      "tts": "الحَرارَةُ ثَلاثُونَ دَرَجَةً.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/26173953e60da621.mp3"
+      }
+     },
+     "answer": "30 derajat",
+     "options": [
+      "30 derajat",
+      "20 derajat",
+      "3 derajat"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d4-lat-syita-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "الشِّتاءُ",
+      "audio": {
+       "src": "/audio/o/0f1ee4f25d9a2938.mp3"
+      }
+     },
+     "answer": "musim dingin",
+     "options": [
+      "musim dingin",
+      "musim panas",
+      "musim hujan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d4-lat-dengar-sama",
+     "instruction": "Dengarkan. Apa artinya?",
+     "prompt": {
+      "tts": "سَماءٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/0e48bb09e2c957f3.mp3"
+      }
+     },
+     "answer": "langit",
+     "options": [
+      "langit",
+      "matahari",
+      "awan"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u10-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Bertanya cuaca dan memberi nasihat"
+      },
+      "groups": [
+       {
+        "title_ar": "كَيْفَ الجَوُّ؟",
+        "note_id": "Jawab dengan sifat cuaca, atau dengan kata kerja يَنْزِلُ (turun).",
+        "rows": [
+         {
+          "ar": "كَيْفَ الجَوُّ اليَوْمَ؟",
+          "id": "Bagaimana cuaca hari ini?",
+          "audio": {
+           "src": "/audio/o/a217724b9fee4e29.mp3"
+          }
+         },
+         {
+          "ar": "الجَوُّ حارٌّ، وَالشَّمْسُ حارَّةٌ.",
+          "id": "Cuacanya panas, mataharinya terik.",
+          "audio": {
+           "src": "/audio/o/f26430df26739d6b.mp3"
+          }
+         },
+         {
+          "ar": "الجَوُّ بارِدٌ، وَيَنْزِلُ المَطَرُ.",
+          "id": "Cuacanya dingin, dan hujan turun.",
+          "audio": {
+           "src": "/audio/o/94ee113890886d0e.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "خُذْ · خُذِي · اِلْبَسْ · اِلْبَسِي",
+        "note_id": "Perintah untuk lk tanpa akhiran; untuk pr berakhiran ـِي. Sebelum ال, خُذْ dibaca خُذِ.",
+        "rows": [
+         {
+          "ar": "خُذِ المِظَلَّةَ يا بُودِي!",
+          "id": "Bawalah payung, Budi!",
+          "audio": {
+           "src": "/audio/o/04c6f3c6f15ede73.mp3"
+          }
+         },
+         {
+          "ar": "خُذِي المِظَلَّةَ يا سِيتِي!",
+          "id": "Bawalah payung, Siti!",
+          "audio": {
+           "src": "/audio/o/0b5996062175d0f1.mp3"
+          }
+         },
+         {
+          "ar": "اِلْبَسْ مِعْطَفًا، الجَوُّ بارِدٌ.",
+          "id": "Pakailah jaket (lk), cuacanya dingin.",
+          "audio": {
+           "src": "/audio/o/f134c794497f5a94.mp3"
+          }
+         },
+         {
+          "ar": "اِلْبَسِي مِعْطَفًا.",
+          "id": "Pakailah jaket. (pr)",
+          "audio": {
+           "src": "/audio/o/823cdb1b8a838187.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Kata kerja lampau dan akhiran objek"
+      },
+      "groups": [
+       {
+        "title_ar": "ذَهَبَ · ذَهَبَتْ · ذَهَبْتَ · ذَهَبْتِ · ذَهَبْتُ",
+        "note_id": "Kata kerja lampau (madhi). Dia (lk) tanpa akhiran, dia (pr) ـَتْ, kamu (lk) ـْتَ, kamu (pr) ـْتِ, saya ـْتُ.",
+        "rows": [
+         {
+          "ar": "نَزَلَ المَطَرُ أَمْسِ.",
+          "id": "Kemarin hujan turun.",
+          "audio": {
+           "src": "/audio/o/0d5d878c2f19f05b.mp3"
+          }
+         },
+         {
+          "ar": "ذَهَبَتْ عائِشَةُ إِلَى المَكْتَبَةِ.",
+          "id": "Aisyah pergi ke perpustakaan.",
+          "audio": {
+           "src": "/audio/o/838b0b85e352503d.mp3"
+          }
+         },
+         {
+          "ar": "هَلْ ذَهَبْتَ إِلَى الشّاطِئِ؟",
+          "id": "Apakah kamu (lk) pergi ke pantai?",
+          "audio": {
+           "src": "/audio/o/41187d823c03695d.mp3"
+          }
+         },
+         {
+          "ar": "رَجَعْتُ مِنَ المَدْرَسَةِ.",
+          "id": "Saya pulang dari sekolah.",
+          "audio": {
+           "src": "/audio/o/930940ff2b51ae66.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "تَرَكْتُهُ · تَرَكْتُها",
+        "note_id": "Objek boleh berupa akhiran: ـهُ untuk benda lk (هاتِفٌ), ـها untuk benda pr (مِظَلَّةٌ), ـكَ/ـكِ untuk kamu.",
+        "rows": [
+         {
+          "ar": "تَرَكْتُ الهاتِفَ فِي الغُرْفَةِ ← تَرَكْتُهُ فِي الغُرْفَةِ.",
+          "id": "Saya meninggalkan HP di kamar → saya meninggalkannya di kamar.",
+          "audio": {
+           "src": "/audio/o/b9b625c6a3a7f8f6.mp3"
+          }
+         },
+         {
+          "ar": "تَرَكْتُ المِظَلَّةَ فِي البَيْتِ ← تَرَكْتُها فِي البَيْتِ.",
+          "id": "Saya meninggalkan payung di rumah → saya meninggalkannya di rumah.",
+          "audio": {
+           "src": "/audio/o/a9925efe251757d8.mp3"
+          }
+         },
+         {
+          "ar": "سَآخُذُكِ بِالسَّيّارَةِ.",
+          "id": "Saya akan menjemputmu (pr) dengan mobil.",
+          "audio": {
+           "src": "/audio/o/d105c0c04d3d887f.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Kata keterangan tempat"
+      },
+      "groups": [
+       {
+        "title_ar": "فَوْقَ · تَحْتَ · أَمامَ · خَلْفَ",
+        "note_id": "Kata sesudahnya berakhiran -i: فَوْقَ المَكْتَبِ. Untuk kanan dan kiri pakai عَلَى اليَمِينِ / عَلَى اليَسارِ.",
+        "rows": [
+         {
+          "ar": "الهاتِفُ فَوْقَ المَكْتَبِ.",
+          "id": "HP di atas meja.",
+          "audio": {
+           "src": "/audio/o/348c52477b43d397.mp3"
+          }
+         },
+         {
+          "ar": "المِظَلَّةُ تَحْتَ السَّرِيرِ.",
+          "id": "Payung di bawah tempat tidur.",
+          "audio": {
+           "src": "/audio/o/792b538ffebe42a3.mp3"
+          }
+         },
+         {
+          "ar": "الحافِلَةُ أَمامَ المَعْهَدِ.",
+          "id": "Bus di depan ma'had.",
+          "audio": {
+           "src": "/audio/o/f997f6c20d60861a.mp3"
+          }
+         },
+         {
+          "ar": "المَطْبَخُ خَلْفَ البَيْتِ.",
+          "id": "Dapur di belakang rumah.",
+          "audio": {
+           "src": "/audio/o/1788192204e397fd.mp3"
+          }
+         },
+         {
+          "ar": "المَكْتَبَةُ عَلَى اليَمِينِ، وَالمَسْجِدُ عَلَى اليَسارِ.",
+          "id": "Perpustakaan di kanan, dan masjid di kiri.",
+          "audio": {
+           "src": "/audio/o/2856d77916d9a90a.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d5-pilih-khudz-lk",
+      "instruction": "Kamu menasihati Budi. Pilih kalimatnya",
+      "prompt": {
+       "id": "Bawalah payung, Budi!",
+       "emoji": "☂️"
+      },
+      "answer": "خُذِ المِظَلَّةَ يا بُودِي!",
+      "options": [
+       "خُذِ المِظَلَّةَ يا بُودِي!",
+       "خُذِي المِظَلَّةَ يا بُودِي!",
+       "أَخَذْتُ المِظَلَّةَ يا بُودِي!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خُذِ المِظَلَّةَ يا بُودِي!": {
+        "src": "/audio/o/04c6f3c6f15ede73.mp3"
+       },
+       "خُذِي المِظَلَّةَ يا بُودِي!": {
+        "src": "/audio/o/bb01b773d3ac91d6.mp3"
+       },
+       "أَخَذْتُ المِظَلَّةَ يا بُودِي!": {
+        "src": "/audio/o/ba6eeffa6d64dbc6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d5-pilih-ilbasi",
+      "instruction": "Kamu menasihati Aisyah. Pilih kalimatnya",
+      "prompt": {
+       "id": "Pakailah jaket! (kepada pr)",
+       "emoji": "🧥"
+      },
+      "answer": "اِلْبَسِي مِعْطَفًا!",
+      "options": [
+       "اِلْبَسِي مِعْطَفًا!",
+       "اِلْبَسْ مِعْطَفًا!",
+       "خُذْ مِعْطَفًا!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "اِلْبَسِي مِعْطَفًا!": {
+        "src": "/audio/o/85d676fc5a2d8d4a.mp3"
+       },
+       "اِلْبَسْ مِعْطَفًا!": {
+        "src": "/audio/o/32d48d22b9fc7e4e.mp3"
+       },
+       "خُذْ مِعْطَفًا!": {
+        "src": "/audio/o/3b4c09bda0775ac8.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d5-lengkapi-dzahabat",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "… سِيتِي إِلَى السُّوقِ أَمْسِ.",
+       "audio": {
+        "src": "/audio/o/751bb4701e6562ab.mp3"
+       },
+       "id": "Kemarin Siti pergi ke pasar."
+      },
+      "answer": "ذَهَبَتْ",
+      "options": [
+       "ذَهَبَتْ",
+       "ذَهَبَ",
+       "ذَهَبْتُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ذَهَبَتْ": {
+        "src": "/audio/o/d40027eb4df45b6d.mp3"
+       },
+       "ذَهَبَ": {
+        "src": "/audio/o/1a8d5cc44ee6e8c2.mp3"
+       },
+       "ذَهَبْتُ": {
+        "src": "/audio/o/db0fdc52507eaa75.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d5-lengkapi-nazala",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "أَمْسِ … المَطَرُ.",
+       "audio": {
+        "src": "/audio/o/b1a2935daa5d1bb3.mp3"
+       },
+       "id": "Kemarin hujan turun."
+      },
+      "answer": "نَزَلَ",
+      "options": [
+       "نَزَلَ",
+       "سَيَنْزِلُ",
+       "نَزَلَتْ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَزَلَ": {
+        "src": "/audio/o/7c4659ddd88c0935.mp3"
+       },
+       "سَيَنْزِلُ": {
+        "src": "/audio/o/162f4b97fb152326.mp3"
+       },
+       "نَزَلَتْ": {
+        "src": "/audio/o/a9a9adb4ed95f024.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d5-lengkapi-taraktuhu",
+      "instruction": "Ganti bendanya dengan akhiran",
+      "prompt": {
+       "ar": "تَرَكْتُ الهاتِفَ فِي الغُرْفَةِ ← … فِي الغُرْفَةِ.",
+       "audio": {
+        "src": "/audio/o/e63cace5f67bdc96.mp3"
+       },
+       "id": "Saya meninggalkan HP di kamar → Saya meninggalkannya di kamar."
+      },
+      "answer": "تَرَكْتُهُ",
+      "options": [
+       "تَرَكْتُهُ",
+       "تَرَكْتُها",
+       "تَرَكْتِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تَرَكْتُهُ": {
+        "src": "/audio/o/9f46a9298bb38e1f.mp3"
+       },
+       "تَرَكْتُها": {
+        "src": "/audio/o/367d8aa70f1a71fc.mp3"
+       },
+       "تَرَكْتِ": {
+        "src": "/audio/o/7597df2e3c036500.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d5-lengkapi-taraktuha",
+      "instruction": "Ganti bendanya dengan akhiran",
+      "prompt": {
+       "ar": "تَرَكْتُ المِظَلَّةَ فِي البَيْتِ ← … فِي البَيْتِ.",
+       "audio": {
+        "src": "/audio/o/79e42a01de867754.mp3"
+       },
+       "id": "Saya meninggalkan payung di rumah → Saya meninggalkannya di rumah."
+      },
+      "answer": "تَرَكْتُها",
+      "options": [
+       "تَرَكْتُها",
+       "تَرَكْتُهُ",
+       "تَرَكَتْ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تَرَكْتُها": {
+        "src": "/audio/o/367d8aa70f1a71fc.mp3"
+       },
+       "تَرَكْتُهُ": {
+        "src": "/audio/o/9f46a9298bb38e1f.mp3"
+       },
+       "تَرَكَتْ": {
+        "src": "/audio/o/3b6ad3a53cce2797.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d5-pilih-tahta",
+      "instruction": "Pilih kalimat yang benar",
+      "prompt": {
+       "id": "Payung di bawah tempat tidur.",
+       "emoji": "🛏️"
+      },
+      "answer": "المِظَلَّةُ تَحْتَ السَّرِيرِ.",
+      "options": [
+       "المِظَلَّةُ تَحْتَ السَّرِيرِ.",
+       "المِظَلَّةُ فَوْقَ السَّرِيرِ.",
+       "المِظَلَّةُ خَلْفَ السَّرِيرِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "المِظَلَّةُ تَحْتَ السَّرِيرِ.": {
+        "src": "/audio/o/792b538ffebe42a3.mp3"
+       },
+       "المِظَلَّةُ فَوْقَ السَّرِيرِ.": {
+        "src": "/audio/o/b398fd7405c1507f.mp3"
+       },
+       "المِظَلَّةُ خَلْفَ السَّرِيرِ.": {
+        "src": "/audio/o/375c0f07d5cea52a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d5-lengkapi-fauqa",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "الهاتِفُ … المَكْتَبِ.",
+       "audio": {
+        "src": "/audio/o/3fd952a63d8df1cd.mp3"
+       },
+       "id": "HP di atas meja."
+      },
+      "answer": "فَوْقَ",
+      "options": [
+       "فَوْقَ",
+       "تَحْتَ",
+       "أَمامَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فَوْقَ": {
+        "src": "/audio/o/2aa4a89919666dc5.mp3"
+       },
+       "تَحْتَ": {
+        "src": "/audio/o/7df953aa6adad2cf.mp3"
+       },
+       "أَمامَ": {
+        "src": "/audio/o/51781cffed2eaf64.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d5-susun-amama",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Bus di depan ma'had."
+      },
+      "answer": "الحافِلَةُ أَمامَ المَعْهَدِ",
+      "tokens": [
+       "الحافِلَةُ",
+       "أَمامَ",
+       "المَعْهَدِ",
+       "خَلْفَ"
+      ],
+      "audioMap": {
+       "الحافِلَةُ": {
+        "src": "/audio/o/e56315996cf8bba3.mp3"
+       },
+       "أَمامَ": {
+        "src": "/audio/o/51781cffed2eaf64.mp3"
+       },
+       "المَعْهَدِ": {
+        "src": "/audio/o/8b1bd31ccb993f33.mp3"
+       },
+       "خَلْفَ": {
+        "src": "/audio/o/af81342a18818722.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d5-susun-dzahabtu",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya pergi ke pantai."
+      },
+      "answer": "ذَهَبْتُ إِلَى الشّاطِئِ",
+      "tokens": [
+       "ذَهَبْتُ",
+       "إِلَى",
+       "الشّاطِئِ",
+       "ذَهَبَتْ"
+      ],
+      "audioMap": {
+       "ذَهَبْتُ": {
+        "src": "/audio/o/db0fdc52507eaa75.mp3"
+       },
+       "إِلَى": {
+        "src": "/audio/o/57551989bbc39ffa.mp3"
+       },
+       "الشّاطِئِ": {
+        "src": "/audio/o/fc61b4bc9f5f3694.mp3"
+       },
+       "ذَهَبَتْ": {
+        "src": "/audio/o/d40027eb4df45b6d.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u10-d5-lat-jawab-kaifa",
+     "instruction": "Lihat gambarnya. Jawab: كَيْفَ الجَوُّ اليَوْمَ؟",
+     "prompt": {
+      "ar": "كَيْفَ الجَوُّ اليَوْمَ؟",
+      "audio": {
+       "src": "/audio/o/a217724b9fee4e29.mp3"
+      },
+      "emoji": "🌧️"
+     },
+     "answer": "يَنْزِلُ المَطَرُ.",
+     "options": [
+      "يَنْزِلُ المَطَرُ.",
+      "الشَّمْسُ حارَّةٌ.",
+      "يَنْزِلُ الثَّلْجُ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "يَنْزِلُ المَطَرُ.": {
+       "src": "/audio/o/ba7ecdcd98746447.mp3"
+      },
+      "الشَّمْسُ حارَّةٌ.": {
+       "src": "/audio/o/5468a287d0e878d1.mp3"
+      },
+      "يَنْزِلُ الثَّلْجُ.": {
+       "src": "/audio/o/7e61cff846eeb76d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d5-lat-khalfa",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "المَطْبَخُ خَلْفَ البَيْتِ.",
+      "audio": {
+       "src": "/audio/o/1788192204e397fd.mp3"
+      }
+     },
+     "answer": "Dapur di belakang rumah.",
+     "options": [
+      "Dapur di belakang rumah.",
+      "Dapur di depan rumah.",
+      "Dapur di samping rumah."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d5-lat-dzahabti",
+     "instruction": "Kamu bertanya kepada Siti. Pilih kalimatnya",
+     "prompt": {
+      "id": "Apakah kamu pergi ke pantai? (pr)",
+      "emoji": "🏖️"
+     },
+     "answer": "هَلْ ذَهَبْتِ إِلَى الشّاطِئِ؟",
+     "options": [
+      "هَلْ ذَهَبْتِ إِلَى الشّاطِئِ؟",
+      "هَلْ ذَهَبْتَ إِلَى الشّاطِئِ؟",
+      "هَلْ ذَهَبَتْ إِلَى الشّاطِئِ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "هَلْ ذَهَبْتِ إِلَى الشّاطِئِ؟": {
+       "src": "/audio/o/ac1128eb8712bd90.mp3"
+      },
+      "هَلْ ذَهَبْتَ إِلَى الشّاطِئِ؟": {
+       "src": "/audio/o/41187d823c03695d.mp3"
+      },
+      "هَلْ ذَهَبَتْ إِلَى الشّاطِئِ؟": {
+       "src": "/audio/o/7d511c51998659d9.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u10-d5-lat-susun-taraktuhu",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya meninggalkannya (HP) di kamar."
+     },
+     "answer": "تَرَكْتُهُ فِي الغُرْفَةِ",
+     "tokens": [
+      "تَرَكْتُهُ",
+      "فِي",
+      "الغُرْفَةِ",
+      "تَرَكْتُها"
+     ],
+     "audioMap": {
+      "تَرَكْتُهُ": {
+       "src": "/audio/o/9f46a9298bb38e1f.mp3"
+      },
+      "فِي": {
+       "src": "/audio/o/795f40ec05f82a8d.mp3"
+      },
+      "الغُرْفَةِ": {
+       "src": "/audio/o/ca3d055b74f13c12.mp3"
+      },
+      "تَرَكْتُها": {
+       "src": "/audio/o/367d8aa70f1a71fc.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d5-lat-yamin",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "المَسْجِدُ عَلَى اليَسارِ.",
+      "audio": {
+       "src": "/audio/o/e44755b9fb6ea0df.mp3"
+      }
+     },
+     "answer": "Masjid di sebelah kiri.",
+     "options": [
+      "Masjid di sebelah kiri.",
+      "Masjid di sebelah kanan.",
+      "Masjid di belakang."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u10-d6",
+   "dars": 6,
+   "title_id": "Bunyi ط dan ت, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "طَ",
+        "audio": {
+         "src": "/audio/o/e64b12ffc6cbe211.mp3"
+        },
+        "pair_ar": "تَ"
+       },
+       {
+        "ar": "تَ",
+        "audio": {
+         "src": "/audio/o/146cf3ef6efb8f4d.mp3"
+        },
+        "pair_ar": "طَ"
+       },
+       {
+        "ar": "طُ",
+        "audio": {
+         "src": "/audio/o/763b5b8eaba752d5.mp3"
+        },
+        "pair_ar": "تُ"
+       },
+       {
+        "ar": "تُ",
+        "audio": {
+         "src": "/audio/o/fcdb704c29464da8.mp3"
+        },
+        "pair_ar": "طُ"
+       },
+       {
+        "ar": "طِ",
+        "audio": {
+         "src": "/audio/o/d85f4f99373dc8e1.mp3"
+        },
+        "pair_ar": "تِ"
+       },
+       {
+        "ar": "تِ",
+        "audio": {
+         "src": "/audio/o/718775af5c250062.mp3"
+        },
+        "pair_ar": "طِ"
+       },
+       {
+        "ar": "طِينٌ",
+        "audio": {
+         "src": "/audio/o/7e2a45116e28d5a3.mp3"
+        },
+        "pair_ar": "تِينٌ"
+       },
+       {
+        "ar": "تِينٌ",
+        "audio": {
+         "src": "/audio/o/cd5b6efcb9aaee61.mp3"
+        },
+        "pair_ar": "طِينٌ"
+       },
+       {
+        "ar": "طابَ",
+        "audio": {
+         "src": "/audio/o/cabe8213407f5422.mp3"
+        },
+        "pair_ar": "تابَ"
+       },
+       {
+        "ar": "تابَ",
+        "audio": {
+         "src": "/audio/o/b96883ba762afa4e.mp3"
+        },
+        "pair_ar": "طابَ"
+       },
+       {
+        "ar": "طَلٌّ",
+        "audio": {
+         "src": "/audio/o/41356f0351def4a2.mp3"
+        },
+        "pair_ar": "تَلٌّ"
+       },
+       {
+        "ar": "تَلٌّ",
+        "audio": {
+         "src": "/audio/o/0ecfed108b782c1e.mp3"
+        },
+        "pair_ar": "طَلٌّ"
+       },
+       {
+        "ar": "سَطْرٌ",
+        "audio": {
+         "src": "/audio/o/2dcc905c3d062caa.mp3"
+        },
+        "pair_ar": "سَتْرٌ"
+       },
+       {
+        "ar": "سَتْرٌ",
+        "audio": {
+         "src": "/audio/o/6146c95e8f71c436.mp3"
+        },
+        "pair_ar": "سَطْرٌ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi ط dan ت"
+      },
+      "note_id": "ت (ta) seperti \"t\" Indonesia, ringan. ط (tha) lebih tebal: pangkal lidah naik ke belakang, rongga mulut terasa penuh, dan vokal sesudahnya terdengar agak \"o\". Pasangan kata: طِينٌ lumpur / تِينٌ buah tin; طابَ menjadi baik / تابَ bertobat; طَلٌّ embun / تَلٌّ bukit; سَطْرٌ baris / سَتْرٌ penutup."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d6-dengar-tin",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "تِينٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/cd5b6efcb9aaee61.mp3"
+       }
+      },
+      "answer": "تِينٌ",
+      "options": [
+       "تِينٌ",
+       "طِينٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تِينٌ": {
+        "src": "/audio/o/cd5b6efcb9aaee61.mp3"
+       },
+       "طِينٌ": {
+        "src": "/audio/o/7e2a45116e28d5a3.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d6-dengar-thaba",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "طابَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/cabe8213407f5422.mp3"
+       }
+      },
+      "answer": "طابَ",
+      "options": [
+       "طابَ",
+       "تابَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "طابَ": {
+        "src": "/audio/o/cabe8213407f5422.mp3"
+       },
+       "تابَ": {
+        "src": "/audio/o/b96883ba762afa4e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d6-dengar-tall",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "تَلٌّ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/0ecfed108b782c1e.mp3"
+       }
+      },
+      "answer": "تَلٌّ",
+      "options": [
+       "تَلٌّ",
+       "طَلٌّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تَلٌّ": {
+        "src": "/audio/o/0ecfed108b782c1e.mp3"
+       },
+       "طَلٌّ": {
+        "src": "/audio/o/41356f0351def4a2.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d6-dengar-sathr",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "سَطْرٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/2dcc905c3d062caa.mp3"
+       }
+      },
+      "answer": "سَطْرٌ",
+      "options": [
+       "سَطْرٌ",
+       "سَتْرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سَطْرٌ": {
+        "src": "/audio/o/2dcc905c3d062caa.mp3"
+       },
+       "سَتْرٌ": {
+        "src": "/audio/o/6146c95e8f71c436.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d6-cari-tha",
+      "instruction": "Kata mana yang mengandung huruf ط?",
+      "prompt": {
+       "id": "Cari huruf tha (ط)"
+      },
+      "answer": "مَطَرٌ",
+      "options": [
+       "مَطَرٌ",
+       "تَحْتَ",
+       "بَيْتٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَطَرٌ": {
+        "src": "/audio/o/5b955316d9fac285.mp3"
+       },
+       "تَحْتَ": {
+        "src": "/audio/o/7df953aa6adad2cf.mp3"
+       },
+       "بَيْتٌ": {
+        "src": "/audio/o/5dacfcf2f030a26c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u10-d6-ucap-yanzilu-mathar",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "يَنْزِلُ المَطَرُ.",
+       "id": "Hujan turun.",
+       "audio": {
+        "src": "/audio/o/ba7ecdcd98746447.mp3"
+       }
+      },
+      "target": "يَنْزِلُ المَطَرُ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u10-d6-ucap-tahta-mizallah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "تَحْتَ المِظَلَّةِ.",
+       "id": "Di bawah payung.",
+       "audio": {
+        "src": "/audio/o/205868e2358919b9.mp3"
+       }
+      },
+      "target": "تَحْتَ المِظَلَّةِ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d6-simak-bandung",
+      "instruction": "Dengarkan. Bagaimana cuaca di Bandung?",
+      "prompt": {
+       "tts": "الجَوُّ فِي بانْدُونْغ بارِدٌ، وَالمَطَرُ يَنْزِلُ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/685c627f4e9e3e7f.mp3"
+       }
+      },
+      "answer": "Dingin dan hujan",
+      "options": [
+       "Dingin dan hujan",
+       "Panas dan cerah",
+       "Berangin dan bersalju"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d6-simak-mizallah",
+      "instruction": "Dengarkan. Di mana payungnya?",
+      "prompt": {
+       "tts": "المِظَلَّةُ خَلْفَ البابِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/6a827b95d4590bb0.mp3"
+       }
+      },
+      "answer": "Di belakang pintu",
+      "options": [
+       "Di belakang pintu",
+       "Di bawah pintu",
+       "Di depan pintu"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u10-d6-lat-dengar-thin",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "طِينٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/7e2a45116e28d5a3.mp3"
+      }
+     },
+     "answer": "طِينٌ",
+     "options": [
+      "طِينٌ",
+      "تِينٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "طِينٌ": {
+       "src": "/audio/o/7e2a45116e28d5a3.mp3"
+      },
+      "تِينٌ": {
+       "src": "/audio/o/cd5b6efcb9aaee61.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d6-lat-dengar-taba",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "تابَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/b96883ba762afa4e.mp3"
+      }
+     },
+     "answer": "تابَ",
+     "options": [
+      "تابَ",
+      "طابَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "تابَ": {
+       "src": "/audio/o/b96883ba762afa4e.mp3"
+      },
+      "طابَ": {
+       "src": "/audio/o/cabe8213407f5422.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d6-lat-dengar-thall",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "طَلٌّ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/41356f0351def4a2.mp3"
+      }
+     },
+     "answer": "طَلٌّ",
+     "options": [
+      "طَلٌّ",
+      "تَلٌّ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "طَلٌّ": {
+       "src": "/audio/o/41356f0351def4a2.mp3"
+      },
+      "تَلٌّ": {
+       "src": "/audio/o/0ecfed108b782c1e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d6-lat-dengar-satr",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "سَتْرٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/6146c95e8f71c436.mp3"
+      }
+     },
+     "answer": "سَتْرٌ",
+     "options": [
+      "سَتْرٌ",
+      "سَطْرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سَتْرٌ": {
+       "src": "/audio/o/6146c95e8f71c436.mp3"
+      },
+      "سَطْرٌ": {
+       "src": "/audio/o/2dcc905c3d062caa.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d6-lat-simak-yogya",
+     "instruction": "Dengarkan. Berapa suhu di Yogyakarta?",
+     "prompt": {
+      "tts": "الحَرارَةُ فِي يُوغْياكَرْتا ثَلاثُونَ دَرَجَةً.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/0ac8c4d170b509b3.mp3"
+      }
+     },
+     "answer": "30 derajat",
+     "options": [
+      "30 derajat",
+      "20 derajat",
+      "13 derajat"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u10-d7",
+   "dars": 7,
+   "title_id": "Berbicara",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "كَيْفَ الجَوُّ عِنْدَكُمْ؟",
+        "id": "Bagaimana cuaca di tempat kalian?",
+        "emoji": "🌦️",
+        "audio": {
+         "src": "/audio/o/1516f4eb60106a85.mp3"
+        }
+       },
+       {
+        "ar": "الجَوُّ عِنْدَنا حارٌّ.",
+        "id": "Cuaca di tempat kami panas.",
+        "emoji": "🥵",
+        "audio": {
+         "src": "/audio/o/24695d8e63c2ee4d.mp3"
+        }
+       },
+       {
+        "ar": "خُذِ المِظَلَّةَ مَعَكَ.",
+        "id": "Bawalah payung bersamamu. (lk)",
+        "emoji": "☂️",
+        "audio": {
+         "src": "/audio/o/aa2d0d71469642ca.mp3"
+        }
+       },
+       {
+        "ar": "هَيّا إِلَى …!",
+        "id": "Ayo ke …!",
+        "emoji": "👉",
+        "audio": {
+         "src": "/audio/o/27654abb5b53cd8f.mp3"
+        }
+       },
+       {
+        "ar": "فِكْرَةٌ جَمِيلَةٌ!",
+        "id": "Ide bagus!",
+        "emoji": "👍",
+        "audio": {
+         "src": "/audio/o/f3744c313ac055fe.mp3"
+        }
+       },
+       {
+        "ar": "بارَكَ اللّٰهُ فِيكِ.",
+        "id": "Semoga Allah memberkahimu. (pr)",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/f0dbf6ccdb79bb08.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Ungkapan berguna"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u10-d7-cuaca-kotamu",
+      "instruction": "Bagaimana cuaca di kotamu hari ini?",
+      "prompt": {
+       "ar": "كَيْفَ الجَوُّ اليَوْمَ؟",
+       "audio": {
+        "src": "/audio/o/a217724b9fee4e29.mp3"
+       },
+       "id": "Sebut kotamu, cuacanya, dan suhunya bila tahu."
+      },
+      "model": [
+       {
+        "ar": "الجَوُّ فِي يُوغْياكَرْتا حارٌّ اليَوْمَ.",
+        "id": "Cuaca di Yogyakarta panas hari ini.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/bf40e7beb2b26cd5.mp3"
+        }
+       },
+       {
+        "ar": "الحَرارَةُ ثَلاثُونَ دَرَجَةً.",
+        "id": "Suhunya tiga puluh derajat.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/1ea249c96ad587da.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u10-d7-ucap-kaifa-jaww-yaum",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "كَيْفَ الجَوُّ اليَوْمَ؟",
+       "id": "Bagaimana cuaca hari ini?",
+       "audio": {
+        "src": "/audio/o/b38841f2a6d29bdd.mp3"
+       }
+      },
+      "target": "كَيْفَ الجَوُّ اليَوْمَ؟"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d7-nasihat-budi",
+      "instruction": "Budi mau keluar, padahal hujan turun. Kamu berkata …",
+      "prompt": {
+       "id": "Hujan turun dan Budi mau keluar.",
+       "emoji": "🌧️"
+      },
+      "answer": "خُذِ المِظَلَّةَ يا بُودِي!",
+      "options": [
+       "خُذِ المِظَلَّةَ يا بُودِي!",
+       "اِلْبَسْ قَمِيصًا يا بُودِي!",
+       "هَيّا إِلَى الشّاطِئِ يا بُودِي!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خُذِ المِظَلَّةَ يا بُودِي!": {
+        "src": "/audio/o/04c6f3c6f15ede73.mp3"
+       },
+       "اِلْبَسْ قَمِيصًا يا بُودِي!": {
+        "src": "/audio/o/f9a9147ede0572e1.mp3"
+       },
+       "هَيّا إِلَى الشّاطِئِ يا بُودِي!": {
+        "src": "/audio/o/f9c6bad47baa6ec0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u10-d7-ucap-khudzi",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "خُذِي المِظَلَّةَ!",
+       "id": "Bawalah payung! (kepada pr)",
+       "audio": {
+        "src": "/audio/o/99bbee2d29b086f7.mp3"
+       }
+      },
+      "target": "خُذِي المِظَلَّةَ!"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d7-setuju-usul",
+      "instruction": "Aisyah berkata هَيّا إِلَى المَكْتَبَةِ! Kamu setuju. Kamu menjawab …",
+      "prompt": {
+       "ar": "هَيّا إِلَى المَكْتَبَةِ!",
+       "audio": {
+        "src": "/audio/o/9ef27ab676672046.mp3"
+       },
+       "emoji": "📚"
+      },
+      "answer": "فِكْرَةٌ جَمِيلَةٌ!",
+      "options": [
+       "فِكْرَةٌ جَمِيلَةٌ!",
+       "لا بَأْسَ، أَنا آسِفَةٌ.",
+       "الجَوُّ بارِدٌ جِدًّا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "فِكْرَةٌ جَمِيلَةٌ!": {
+        "src": "/audio/o/f3744c313ac055fe.mp3"
+       },
+       "لا بَأْسَ، أَنا آسِفَةٌ.": {
+        "src": "/audio/o/ee289b48bfe1b40d.mp3"
+       },
+       "الجَوُّ بارِدٌ جِدًّا.": {
+        "src": "/audio/o/35e3a849b82f5d58.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u10-d7-usul-rencana",
+      "instruction": "Usulkan rencana akhir pekan kepada temanmu, lalu tiru jawaban setujunya",
+      "prompt": {
+       "id": "Pakai هَيّا إِلَى … dan sebut waktunya."
+      },
+      "model": [
+       {
+        "ar": "هَيّا إِلَى السُّوقِ يَوْمَ السَّبْتِ!",
+        "id": "Ayo ke pasar hari Sabtu!",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/c9ee307ea0f4a34f.mp3"
+        }
+       },
+       {
+        "ar": "فِكْرَةٌ جَمِيلَةٌ! مَتَى نَذْهَبُ؟",
+        "id": "Ide bagus! Kapan kita berangkat?",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/f6ebb42b74612d90.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d7-doa-teman-pr",
+      "instruction": "Aisyah meminjamkan payungnya kepadamu. Kamu mendoakannya …",
+      "prompt": {
+       "id": "Semoga Allah memberkahimu. (pr)",
+       "emoji": "🤲"
+      },
+      "answer": "بارَكَ اللّٰهُ فِيكِ.",
+      "options": [
+       "بارَكَ اللّٰهُ فِيكِ.",
+       "بارَكَ اللّٰهُ فِيكَ.",
+       "إِلَى اللِّقاءِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بارَكَ اللّٰهُ فِيكِ.": {
+        "src": "/audio/o/f0dbf6ccdb79bb08.mp3"
+       },
+       "بارَكَ اللّٰهُ فِيكَ.": {
+        "src": "/audio/o/1b068be0aab6f41a.mp3"
+       },
+       "إِلَى اللِّقاءِ.": {
+        "src": "/audio/o/f1b3457411a5911d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u10-d7-telepon-keluarga",
+      "instruction": "Telepon keluargamu dan tanyakan cuaca di sana",
+      "prompt": {
+       "id": "Mulai dengan salam, lalu tanya كَيْفَ الجَوُّ عِنْدَكُمْ؟"
+      },
+      "model": [
+       {
+        "ar": "يا أَبِي، كَيْفَ الجَوُّ عِنْدَكُمْ فِي بانْدُونْغ؟",
+        "id": "Ayah, bagaimana cuaca di tempat kalian di Bandung?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/576917b6e50b9418.mp3"
+        }
+       },
+       {
+        "ar": "الجَوُّ بارِدٌ، وَنَزَلَ المَطَرُ أَمْسِ.",
+        "id": "Cuacanya dingin, dan kemarin hujan turun.",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/06d5d27f6a1dcd10.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u10-d7-ucap-barakallah-fiki",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "بارَكَ اللّٰهُ فِيكِ.",
+       "id": "Semoga Allah memberkahimu. (pr)",
+       "audio": {
+        "src": "/audio/o/9494583283051492.mp3"
+       }
+      },
+      "target": "بارَكَ اللّٰهُ فِيكِ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u10-d7-lat-tanya-cuaca",
+     "instruction": "Kamu ingin tahu cuaca di Istanbul. Kamu bertanya kepada Yusuf …",
+     "prompt": {
+      "id": "Bagaimana cuaca di tempat kalian?",
+      "emoji": "📞"
+     },
+     "answer": "كَيْفَ الجَوُّ عِنْدَكُمْ؟",
+     "options": [
+      "كَيْفَ الجَوُّ عِنْدَكُمْ؟",
+      "كَيْفَ حالُكَ؟",
+      "أَيْنَ أَنْتُمْ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كَيْفَ الجَوُّ عِنْدَكُمْ؟": {
+       "src": "/audio/o/1516f4eb60106a85.mp3"
+      },
+      "كَيْفَ حالُكَ؟": {
+       "src": "/audio/o/88fa98ae54a525d0.mp3"
+      },
+      "أَيْنَ أَنْتُمْ؟": {
+       "src": "/audio/o/5ebab283f75f0c38.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d7-lat-nasihat-dingin",
+     "instruction": "Cuaca sangat dingin dan Siti mau keluar. Kamu berkata …",
+     "prompt": {
+      "id": "Pakailah jaket! (kepada pr)",
+      "emoji": "🧥"
+     },
+     "answer": "اِلْبَسِي مِعْطَفًا!",
+     "options": [
+      "اِلْبَسِي مِعْطَفًا!",
+      "اِلْبَسْ مِعْطَفًا!",
+      "خُذِي الهاتِفَ!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "اِلْبَسِي مِعْطَفًا!": {
+       "src": "/audio/o/85d676fc5a2d8d4a.mp3"
+      },
+      "اِلْبَسْ مِعْطَفًا!": {
+       "src": "/audio/o/32d48d22b9fc7e4e.mp3"
+      },
+      "خُذِي الهاتِفَ!": {
+       "src": "/audio/o/3b17fa77fa3172d9.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d7-lat-balas-barakallah-lk",
+     "instruction": "Budi berkata kepadamu: بارَكَ اللّٰهُ فِيكَ. Kamu menjawab …",
+     "prompt": {
+      "ar": "بارَكَ اللّٰهُ فِيكَ.",
+      "audio": {
+       "src": "/audio/o/1b068be0aab6f41a.mp3"
+      }
+     },
+     "answer": "وَفِيكَ بارَكَ اللّٰهُ.",
+     "options": [
+      "وَفِيكَ بارَكَ اللّٰهُ.",
+      "وَعَلَيْكُمُ السَّلامُ.",
+      "صَباحَ النُّورِ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "وَفِيكَ بارَكَ اللّٰهُ.": {
+       "src": "/audio/o/9eb873f7cc1cdfce.mp3"
+      },
+      "وَعَلَيْكُمُ السَّلامُ.": {
+       "src": "/audio/o/f43ab2bfd0d99792.mp3"
+      },
+      "صَباحَ النُّورِ.": {
+       "src": "/audio/o/03020ddba8e85181.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d7-lat-jawab-cuaca-panas",
+     "instruction": "Pilih jawaban yang tepat",
+     "prompt": {
+      "ar": "كَيْفَ الجَوُّ عِنْدَكُمْ؟",
+      "audio": {
+       "src": "/audio/o/1516f4eb60106a85.mp3"
+      },
+      "emoji": "☀️"
+     },
+     "answer": "الجَوُّ عِنْدَنا حارٌّ.",
+     "options": [
+      "الجَوُّ عِنْدَنا حارٌّ.",
+      "أَنا مِنْ سُورابايا.",
+      "فِكْرَةٌ جَمِيلَةٌ!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "الجَوُّ عِنْدَنا حارٌّ.": {
+       "src": "/audio/o/24695d8e63c2ee4d.mp3"
+      },
+      "أَنا مِنْ سُورابايا.": {
+       "src": "/audio/o/1fba64a510486334.mp3"
+      },
+      "فِكْرَةٌ جَمِيلَةٌ!": {
+       "src": "/audio/o/f3744c313ac055fe.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u10-d8",
+   "dars": 8,
+   "title_id": "Membaca",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "فِي إِنْدُونِيسِيا مَوْسِمُ الأَمْطارِ وَمَوْسِمُ الجَفافِ.",
+        "id": "Di Indonesia ada musim hujan dan musim kemarau.",
+        "emoji": "🇮🇩",
+        "audio": {
+         "src": "/audio/o/44a8bc8d3831a2b2.mp3"
+        }
+       },
+       {
+        "ar": "فِي مَوْسِمِ الأَمْطارِ يَنْزِلُ المَطَرُ كَثِيرًا.",
+        "id": "Pada musim hujan, hujan banyak turun.",
+        "emoji": "🌧️",
+        "audio": {
+         "src": "/audio/o/6c592da958a551ed.mp3"
+        }
+       },
+       {
+        "ar": "وَأَحْيانًا يَكُونُ فَيَضانٌ فِي جاكَرْتا.",
+        "id": "Kadang-kadang terjadi banjir di Jakarta.",
+        "audio": {
+         "src": "/audio/o/d56a47241b357a8e.mp3"
+        }
+       },
+       {
+        "ar": "وَفِي مَوْسِمِ الجَفافِ الشَّمْسُ حارَّةٌ، وَلا يَنْزِلُ المَطَرُ.",
+        "id": "Pada musim kemarau, mataharinya terik dan hujan tidak turun.",
+        "emoji": "☀️",
+        "audio": {
+         "src": "/audio/o/380bc7dd1d939768.mp3"
+        }
+       },
+       {
+        "ar": "الحَرارَةُ فِي يُوغْياكَرْتا ثَلاثُونَ دَرَجَةً، وَفِي بانْدُونْغ عِشْرُونَ.",
+        "id": "Suhu di Yogyakarta tiga puluh derajat, dan di Bandung dua puluh.",
+        "emoji": "🌡️",
+        "audio": {
+         "src": "/audio/o/ac2774fbf87bb1da.mp3"
+        }
+       },
+       {
+        "ar": "وَفِي تُرْكِيا أَرْبَعَةُ مَواسِمَ.",
+        "id": "Di Turki ada empat musim.",
+        "audio": {
+         "src": "/audio/o/6a5e1bcc01b5589f.mp3"
+        }
+       },
+       {
+        "ar": "فِي الشِّتاءِ يَنْزِلُ الثَّلْجُ فِي إِسْطَنْبُول.",
+        "id": "Pada musim dingin, salju turun di Istanbul.",
+        "emoji": "❄️",
+        "audio": {
+         "src": "/audio/o/e3ac3eb4bb2700c0.mp3"
+        }
+       },
+       {
+        "ar": "يُوسُفُ مِنْ إِسْطَنْبُول، وَهُوَ يُحِبُّ الثَّلْجَ.",
+        "id": "Yusuf berasal dari Istanbul, dan dia suka salju.",
+        "audio": {
+         "src": "/audio/o/5e88058e61f08262.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Musim di Indonesia dan Turki"
+      },
+      "imgs": [
+       "/img/o/u10-baca-musim.webp"
+      ],
+      "instruction_id": "Baca paragraf ini pelan-pelan. Kata baru: أَحْيانًا = kadang-kadang; يَكُونُ = ada, terjadi; تُرْكِيا = Turki; أَرْبَعَةُ مَواسِمَ = empat musim."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d8-baca-empat-musim",
+      "instruction": "Benar atau salah? \"Di Indonesia ada empat musim.\"",
+      "prompt": {
+       "ar": "فِي إِنْدُونِيسِيا أَرْبَعَةُ مَواسِمَ.",
+       "audio": {
+        "src": "/audio/o/b27f7dd352fa1a64.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d8-baca-banjir",
+      "instruction": "Menurut bacaan 1, apa yang kadang-kadang terjadi di Jakarta?",
+      "prompt": {
+       "id": "Menurut bacaan 1",
+       "emoji": "🏙️"
+      },
+      "answer": "Banjir",
+      "options": [
+       "Banjir",
+       "Salju",
+       "Angin kencang"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d8-baca-suhu-bandung",
+      "instruction": "Berapa suhu di Bandung?",
+      "prompt": {
+       "id": "Menurut bacaan 1",
+       "emoji": "🌡️"
+      },
+      "answer": "20 derajat",
+      "options": [
+       "20 derajat",
+       "30 derajat",
+       "40 derajat"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d8-baca-salju-istanbul",
+      "instruction": "Benar atau salah? \"Pada musim dingin, salju turun di Istanbul.\"",
+      "prompt": {
+       "ar": "فِي الشِّتاءِ يَنْزِلُ الثَّلْجُ فِي إِسْطَنْبُول.",
+       "audio": {
+        "src": "/audio/o/e3ac3eb4bb2700c0.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "جاكَرْتا: شَمْسٌ، ثَلاثُونَ دَرَجَةً.",
+        "id": "Jakarta: cerah, tiga puluh derajat.",
+        "audio": {
+         "src": "/audio/o/36f997c039675ef6.mp3"
+        }
+       },
+       {
+        "ar": "يُوغْياكَرْتا: غَيْمٌ وَرِيحٌ، ثَلاثُونَ دَرَجَةً.",
+        "id": "Yogyakarta: berawan dan berangin, tiga puluh derajat.",
+        "audio": {
+         "src": "/audio/o/337602f6be6b3af9.mp3"
+        }
+       },
+       {
+        "ar": "بانْدُونْغ: مَطَرٌ، عِشْرُونَ دَرَجَةً.",
+        "id": "Bandung: hujan, dua puluh derajat.",
+        "audio": {
+         "src": "/audio/o/cfb031b15d81fd2f.mp3"
+        }
+       },
+       {
+        "ar": "إِسْطَنْبُول: ثَلْجٌ، الجَوُّ بارِدٌ جِدًّا.",
+        "id": "Istanbul: salju, cuacanya dingin sekali.",
+        "audio": {
+         "src": "/audio/o/32c4a6e7c0b425ae.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Kartu prakiraan cuaca"
+      },
+      "imgs": [
+       "/img/o/u10-baca-prakiraan.webp"
+      ],
+      "title_ar": "الجَوُّ غَدًا",
+      "instruction_id": "Rizki membaca prakiraan cuaca untuk besok di aplikasi HP-nya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d8-kartu-hujan",
+      "instruction": "Menurut kartu, di kota mana besok hujan?",
+      "prompt": {
+       "id": "Menurut bacaan 2",
+       "emoji": "🌧️"
+      },
+      "answer": "Bandung",
+      "options": [
+       "Bandung",
+       "Jakarta",
+       "Yogyakarta"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d8-kartu-jakarta",
+      "instruction": "Bagaimana cuaca Jakarta besok?",
+      "prompt": {
+       "ar": "جاكَرْتا: …",
+       "audio": {
+        "src": "/audio/o/a4f24aa6d1d8d48f.mp3"
+       }
+      },
+      "answer": "Cerah, 30 derajat",
+      "options": [
+       "Cerah, 30 derajat",
+       "Hujan, 20 derajat",
+       "Berawan, 20 derajat"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d8-kartu-angin",
+      "instruction": "Menurut kartu, di kota mana besok berangin?",
+      "prompt": {
+       "id": "Menurut bacaan 2",
+       "emoji": "💨"
+      },
+      "answer": "Yogyakarta",
+      "options": [
+       "Yogyakarta",
+       "Bandung",
+       "Istanbul"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d8-kartu-nasihat-bandung",
+      "instruction": "Rizki besok ke Bandung. Nasihat yang paling tepat untuknya?",
+      "prompt": {
+       "ar": "بانْدُونْغ: مَطَرٌ.",
+       "audio": {
+        "src": "/audio/o/50cc90c4f0ce4cbf.mp3"
+       },
+       "emoji": "🎒"
+      },
+      "answer": "خُذِ المِظَلَّةَ!",
+      "options": [
+       "خُذِ المِظَلَّةَ!",
+       "هَيّا إِلَى الشّاطِئِ!",
+       "لا تَأْكُلْ!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خُذِ المِظَلَّةَ!": {
+        "src": "/audio/o/899fa4c04dc30e66.mp3"
+       },
+       "هَيّا إِلَى الشّاطِئِ!": {
+        "src": "/audio/o/8e2cfde9a627fa4c.mp3"
+       },
+       "لا تَأْكُلْ!": {
+        "src": "/audio/o/f2fc8910f5ceb5ee.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u10-d8-lat-baca-yusuf-suka",
+     "instruction": "Menurut bacaan 1, Yusuf suka apa?",
+     "prompt": {
+      "ar": "يُوسُفُ يُحِبُّ …",
+      "audio": {
+       "src": "/audio/o/c321d508ad8f7e6d.mp3"
+      }
+     },
+     "answer": "Salju",
+     "options": [
+      "Salju",
+      "Hujan",
+      "Matahari"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d8-lat-baca-kemarau",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "فِي مَوْسِمِ الجَفافِ لا يَنْزِلُ المَطَرُ.",
+      "audio": {
+       "src": "/audio/o/00bd2fe86cebe4ac.mp3"
+      }
+     },
+     "answer": "Pada musim kemarau hujan tidak turun.",
+     "options": [
+      "Pada musim kemarau hujan tidak turun.",
+      "Pada musim hujan hujan banyak turun.",
+      "Pada musim kemarau salju turun."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d8-lat-kartu-istanbul",
+     "instruction": "Menurut kartu, bagaimana cuaca Istanbul besok?",
+     "prompt": {
+      "ar": "إِسْطَنْبُول: …",
+      "audio": {
+       "src": "/audio/o/2f6ff69cd1db0863.mp3"
+      }
+     },
+     "answer": "Salju, dingin sekali",
+     "options": [
+      "Salju, dingin sekali",
+      "Hujan, dua puluh derajat",
+      "Cerah, tiga puluh derajat"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d8-lat-baca-suhu-yogya",
+     "instruction": "Berapa suhu di Yogyakarta?",
+     "prompt": {
+      "id": "Menurut bacaan 1"
+     },
+     "answer": "30 derajat",
+     "options": [
+      "30 derajat",
+      "20 derajat",
+      "3 derajat"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u10-d9",
+   "dars": 9,
+   "title_id": "Isian kata dan menyusun kalimat",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "مَطَرٌ",
+        "id": "م + ط + ر → hujan",
+        "audio": {
+         "src": "/audio/o/5b955316d9fac285.mp3"
+        }
+       },
+       {
+        "ar": "شَمْسٌ",
+        "id": "ش + م + س → matahari",
+        "audio": {
+         "src": "/audio/o/3652e4c2441acdde.mp3"
+        }
+       },
+       {
+        "ar": "ثَلْجٌ",
+        "id": "ث + ل + ج → salju",
+        "audio": {
+         "src": "/audio/o/e4d806041189d14b.mp3"
+        }
+       },
+       {
+        "ar": "مِظَلَّةٌ",
+        "id": "م + ظ + ل + ة → payung",
+        "audio": {
+         "src": "/audio/o/a47b150f243d2135.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata cuaca"
+      },
+      "instruction_id": "Perhatikan huruf ط dan ت, ظ dan ض. Salin tiap kata dengan harakatnya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d9-tulis-mathar",
+      "instruction": "Mana tulisan \"hujan\" yang benar?",
+      "prompt": {
+       "id": "hujan",
+       "emoji": "🌧️"
+      },
+      "answer": "مَطَرٌ",
+      "options": [
+       "مَطَرٌ",
+       "مَتَرٌ",
+       "مَطَلٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَطَرٌ": {
+        "src": "/audio/o/5b955316d9fac285.mp3"
+       },
+       "مَتَرٌ": {
+        "src": "/audio/o/0686bc32a2f5222f.mp3"
+       },
+       "مَطَلٌ": {
+        "src": "/audio/o/d740df70cc864ca7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d9-eja-mathar",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "مَطَرٌ (hujan)"
+      },
+      "answer": "م ط ر",
+      "tokens": [
+       "م",
+       "ط",
+       "ر",
+       "ت"
+      ],
+      "audioMap": {
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "ط": {
+        "src": "/audio/o/e6f7a7ac909c7eb8.mp3"
+       },
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d9-eja-syams",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "شَمْسٌ (matahari)"
+      },
+      "answer": "ش م س",
+      "tokens": [
+       "ش",
+       "م",
+       "س",
+       "ص"
+      ],
+      "audioMap": {
+       "ش": {
+        "src": "/audio/o/b797d01357f7f304.mp3"
+       },
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       },
+       "ص": {
+        "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d9-tulis-mizallah",
+      "instruction": "Mana tulisan \"payung\" yang benar?",
+      "prompt": {
+       "id": "payung",
+       "emoji": "☂️"
+      },
+      "answer": "مِظَلَّةٌ",
+      "options": [
+       "مِظَلَّةٌ",
+       "مِزَلَّةٌ",
+       "مِضَلَّةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مِظَلَّةٌ": {
+        "src": "/audio/o/a47b150f243d2135.mp3"
+       },
+       "مِزَلَّةٌ": {
+        "src": "/audio/o/c425b92ffee7726e.mp3"
+       },
+       "مِضَلَّةٌ": {
+        "src": "/audio/o/929934f3ca7b187c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d9-isian-mathar",
+      "instruction": "Isi bagian yang kosong",
+      "prompt": {
+       "ar": "يَنْزِلُ … ، خُذِ المِظَلَّةَ!",
+       "audio": {
+        "src": "/audio/o/02dbf22ff91ecb8b.mp3"
+       },
+       "id": "Hujan turun, bawalah payung!"
+      },
+      "answer": "المَطَرُ",
+      "options": [
+       "المَطَرُ",
+       "الشَّمْسُ",
+       "الحَرارَةُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "المَطَرُ": {
+        "src": "/audio/o/89aae6e1fd036529.mp3"
+       },
+       "الشَّمْسُ": {
+        "src": "/audio/o/9347ec888ec363ed.mp3"
+       },
+       "الحَرارَةُ": {
+        "src": "/audio/o/f82fa89f33bfb8e5.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u10-d9-isian-ilbas",
+      "instruction": "Isi bagian yang kosong",
+      "prompt": {
+       "ar": "الجَوُّ بارِدٌ، … مِعْطَفًا يا رِزْقِي!",
+       "audio": {
+        "src": "/audio/o/7ec44153718f94ed.mp3"
+       },
+       "id": "Cuacanya dingin, pakailah jaket, Rizki!"
+      },
+      "answer": "اِلْبَسْ",
+      "options": [
+       "اِلْبَسْ",
+       "اِلْبَسِي",
+       "يَلْبَسُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "اِلْبَسْ": {
+        "src": "/audio/o/4f5d0ea29ebb3596.mp3"
+       },
+       "اِلْبَسِي": {
+        "src": "/audio/o/a582a4d07fe43625.mp3"
+       },
+       "يَلْبَسُ": {
+        "src": "/audio/o/9ebaf05fe98cb602.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "يَنْزِلُ المَطَرُ اليَوْمَ.",
+        "id": "Hujan turun hari ini.",
+        "audio": {
+         "src": "/audio/o/dc7b43e8fb58745b.mp3"
+        }
+       },
+       {
+        "ar": "خُذِ المِظَلَّةَ مَعَكَ.",
+        "id": "Bawalah payung bersamamu. (lk)",
+        "audio": {
+         "src": "/audio/o/aa2d0d71469642ca.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kalimat"
+      },
+      "instruction_id": "Salin kalimat ini lengkap dengan harakatnya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d9-kalimat-harr-yogya",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Cuaca di Yogyakarta panas."
+      },
+      "answer": "الجَوُّ حارٌّ فِي يُوغْياكَرْتا",
+      "tokens": [
+       "الجَوُّ",
+       "حارٌّ",
+       "فِي",
+       "يُوغْياكَرْتا",
+       "بارِدٌ"
+      ],
+      "audioMap": {
+       "الجَوُّ": {
+        "src": "/audio/o/73171bd5858d858a.mp3"
+       },
+       "حارٌّ": {
+        "src": "/audio/o/98c8ba97129cbd76.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "يُوغْياكَرْتا": {
+        "src": "/audio/o/448eeea04d1cd7db.mp3"
+       },
+       "بارِدٌ": {
+        "src": "/audio/o/de80f7cc6e55713c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d9-kalimat-taraktu-hatif",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya meninggalkan HP di kamar."
+      },
+      "answer": "تَرَكْتُ الهاتِفَ فِي الغُرْفَةِ",
+      "tokens": [
+       "تَرَكْتُ",
+       "الهاتِفَ",
+       "فِي",
+       "الغُرْفَةِ",
+       "تَحْتَ"
+      ],
+      "audioMap": {
+       "تَرَكْتُ": {
+        "src": "/audio/o/548d6cb01d53ec83.mp3"
+       },
+       "الهاتِفَ": {
+        "src": "/audio/o/10b7ad865d9dcce2.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "الغُرْفَةِ": {
+        "src": "/audio/o/ca3d055b74f13c12.mp3"
+       },
+       "تَحْتَ": {
+        "src": "/audio/o/7df953aa6adad2cf.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u10-d9-kalimat-nazala-tsalj",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Salju turun di Istanbul."
+      },
+      "answer": "نَزَلَ الثَّلْجُ فِي إِسْطَنْبُول",
+      "tokens": [
+       "نَزَلَ",
+       "الثَّلْجُ",
+       "فِي",
+       "إِسْطَنْبُول",
+       "المَطَرُ"
+      ],
+      "audioMap": {
+       "نَزَلَ": {
+        "src": "/audio/o/7c4659ddd88c0935.mp3"
+       },
+       "الثَّلْجُ": {
+        "src": "/audio/o/59db0d7a73fb0117.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "إِسْطَنْبُول": {
+        "src": "/audio/o/2400308cb04fabf6.mp3"
+       },
+       "المَطَرُ": {
+        "src": "/audio/o/89aae6e1fd036529.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "arrange",
+     "key": "j1u10-d9-lat-eja-tsalj",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "ثَلْجٌ (salju)"
+     },
+     "answer": "ث ل ج",
+     "tokens": [
+      "ث",
+      "ل",
+      "ج",
+      "س"
+     ],
+     "audioMap": {
+      "ث": {
+       "src": "/audio/o/72023a7517b88474.mp3"
+      },
+      "ل": {
+       "src": "/audio/o/b3939d4bc0e14fc9.mp3"
+      },
+      "ج": {
+       "src": "/audio/o/019a195a0b3c1c91.mp3"
+      },
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d9-lat-tulis-harr",
+     "instruction": "Mana tulisan \"panas\" yang benar?",
+     "prompt": {
+      "id": "panas",
+      "emoji": "🥵"
+     },
+     "answer": "حارٌّ",
+     "options": [
+      "حارٌّ",
+      "هارٌّ",
+      "خارٌّ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "حارٌّ": {
+       "src": "/audio/o/98c8ba97129cbd76.mp3"
+      },
+      "هارٌّ": {
+       "src": "/audio/o/c8d86891e754846d.mp3"
+      },
+      "خارٌّ": {
+       "src": "/audio/o/6da7e75445c38b97.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u10-d9-lat-isian-fauqa",
+     "instruction": "Isi bagian yang kosong",
+     "prompt": {
+      "ar": "الشَّمْسُ فِي السَّماءِ، … البَيْتِ.",
+      "audio": {
+       "src": "/audio/o/4f44ae3923b3a7bd.mp3"
+      },
+      "id": "Matahari di langit, di atas rumah."
+     },
+     "answer": "فَوْقَ",
+     "options": [
+      "فَوْقَ",
+      "تَحْتَ",
+      "خَلْفَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "فَوْقَ": {
+       "src": "/audio/o/2aa4a89919666dc5.mp3"
+      },
+      "تَحْتَ": {
+       "src": "/audio/o/7df953aa6adad2cf.mp3"
+      },
+      "خَلْفَ": {
+       "src": "/audio/o/af81342a18818722.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u10-d9-lat-kalimat-mathar-yaum",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Hujan turun."
+     },
+     "answer": "يَنْزِلُ المَطَرُ",
+     "tokens": [
+      "يَنْزِلُ",
+      "المَطَرُ",
+      "الشَّمْسُ"
+     ],
+     "audioMap": {
+      "يَنْزِلُ": {
+       "src": "/audio/o/41cbf7f3030a7768.mp3"
+      },
+      "المَطَرُ": {
+       "src": "/audio/o/89aae6e1fd036529.mp3"
+      },
+      "الشَّمْسُ": {
+       "src": "/audio/o/9347ec888ec363ed.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

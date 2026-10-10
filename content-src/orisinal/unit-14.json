@@ -1,0 +1,2786 @@
+{
+  "unit": 14,
+  "book": "1b",
+  "title_ar": "الحَجُّ وَالعُمْرَةُ",
+  "title_id": "Haji dan umrah",
+  "notes": "Semester 2. Dialog 1: Rizki–Budi di asrama (orang tua Budi berangkat umrah dari Bandara Juanda; nenek Rizki seorang hajah). Dialog 2: Nur–Nenek Aminah di rumah Bandung (foto haji Nenek dari embarkasi Makassar, tawaf, wukuf, rasa gembira). Dialog 3: Bu Fatimah–Pak Ahmad (rencana umrah bersama Nenek Aminah, kelas manasik di masjid kompleks, urutan umrah). Pola: مَتَى + isim، كَيْفَ + mudhari'، بِمَ …؟، mutsanna (يَوْمَيْنِ، رَكْعَتَيْنِ، شَهْرَيْنِ)، bilangan 3–10 + tamyiz jamak majrur، 11–19 + tamyiz mufrad manshub (hanya ma'dud mudzakkar). Bunyi kasrah/ya' (i pendek/panjang). Menulis: imla' kata dan kalimat (choice/arrange beraudio). Bacaan faktual tanpa angka yang mudah usang (Indonesia mengirim jemaah haji terbanyak; wukuf 9 Zulhijah; Muzdalifah, Mina, tawaf, sai). Yusuf tidak dipakai (sudah pulang ke Turki di Unit 13). Ditulis dari nol tanpa membuka teks ABY; cek kemiripan ABY belum dilakukan. | PEMERIKSAAN INDEPENDEN (2026-10-04): bilangan 3–10 (lawan jenis, tamyiz jamak majrur), 11–19 (tamyiz mufrad manshub), mutsanna ـانِ/ـَيْنِ, عُمَرَ/جُدَّةَ/عَرَفَةَ/مُزْدَلِفَةَ/آمِنَةُ ghairu munsarif dicek: benar. Perbaikan: prompt ortu-budi-umrah berisi teks Arab di field id → ar; جِدًّا (U10), ذٰلِكَ (U12), فِكْرَةٌ (U10) dihapus dari 'Kata baru' karena sudah diajarkan; كانَ dan قَبْلَ memang baru (belum ada di U0–13) dan tetap diperkenalkan sekali; هٰذِهِ أَنا فِي مَكَّةَ → أَنا يا نُورُ! هٰذِهِ صُورَتِي فِي مَكَّةَ; sapaan istri يا أَحْمَدُ → يا أَبا رِزْقِي (\"Yah\"), ditambah ke kosakata; ما شاءَ اللّٰهُ ganda di D1 → بارَكَ اللّٰهُ فِيها; جَماعَةٌ = rombongan/kelompok dibedakan dari الحُجّاجُ = jemaah haji (note_id); catatan mutsanna 'keterangan (khabar)' → 'predikat (khabar)'; serapan diluruskan ke KBBI (Kakbah, mikat) dan dihapus dari nama tempat عَرَفَةُ/مُزْدَلِفَةُ/مِنًى; pasangan بِعْ/بِيعَ (pasif) → عِدْ/عِيدٌ (dengar-bia → dengar-id, lat-dengar-bi → lat-dengar-id, diganti total); repeat ditambah 2 (ucap-jaddati-hajjah, ucap-bil-ihram) → 6. Soal arrange dibuat satu urutan: susun-bittairah, lat-susun-mata-hajajti, susun-darasna-syahrain, susun-tsalatsah-ayyam, kalimat-tabda, kalimat-umrah-ummi, lat-kalimat-syahrain, imla-rakatain, imla-hajjat (keterangan waktu/jar-majrur/vokatif/subjek yang bisa pindah dihilangkan; kunci tetap). CEK KEMIRIPAN ABY 1/14 (hlm. PDF 158–165, visual): ABY berisi dialog liburan di Makkah (Salim–Jamil), ayah–anak tentang umrah (miqat, tawaf 7 putaran, salat 2 rakaat di belakang Maqam Ibrahim, sai, cukur), dan manasik haji (Arafah hari ke-9, Muzdalifah, Mina, jumrah). Dialog dan bacaan kita berbeda tokoh, situasi, dan bentuk kalimat; tidak ada >2 kalimat berurutan yang mirip. Tumpang tindih hanya fakta manasik dan ungkapan baku (طُفْتُ حَوْلَ الكَعْبَةِ، سَبْعَةُ أَشْواطٍ، رَكْعَتَيْنِ بَعْدَ الطَّوافِ، بَيْنَ الصَّفا وَالمَرْوَةِ، عُمْرَةً مَقْبُولَةً) — tidak ditulis ulang. Figuran tidak diperlukan di unit ini.",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Orang tua Budi berumrah",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Senin pagi di asrama. Budi baru kembali dari Surabaya.",
+          "rows": [
+            {
+              "who": "rizki",
+              "ar": "أَهْلًا يا بُودِي! كَيْفَ كانَتْ عُطْلَتُكَ؟",
+              "id": "Halo, Budi! Bagaimana liburanmu? (lk)"
+            },
+            {
+              "who": "budi",
+              "ar": "جَمِيلَةٌ، الحَمْدُ لِلّٰهِ. ذَهَبْتُ مَعَ أُسْرَتِي إِلَى مَطارِ سُورابايا.",
+              "id": "Menyenangkan, alhamdulillah. Aku pergi bersama keluargaku ke bandara Surabaya."
+            },
+            {
+              "who": "rizki",
+              "ar": "إِلَى المَطارِ؟ لِماذا؟",
+              "id": "Ke bandara? Kenapa?"
+            },
+            {
+              "who": "budi",
+              "ar": "سافَرَ أَبِي وَأُمِّي إِلَى مَكَّةَ لِلْعُمْرَةِ.",
+              "id": "Ayah dan ibuku berangkat ke Makkah untuk umrah."
+            },
+            {
+              "who": "rizki",
+              "ar": "ما شاءَ اللّٰهُ! مَتَى رُجُوعُهُما؟",
+              "id": "Masyaallah! Kapan mereka pulang?"
+            },
+            {
+              "who": "budi",
+              "ar": "بَعْدَ تِسْعَةِ أَيّامٍ، إِنْ شاءَ اللّٰهُ.",
+              "id": "Sembilan hari lagi, insyaallah."
+            },
+            {
+              "who": "rizki",
+              "ar": "جَدَّتِي حاجَّةٌ. حَجَّتْ مِنْ ماكاسار.",
+              "id": "Nenekku seorang hajah. Dia berhaji dari Makassar."
+            },
+            {
+              "who": "budi",
+              "ar": "بارَكَ اللّٰهُ فِيها! وَأَنا أُرِيدُ أَنْ أَحُجَّ يَوْمًا ما.",
+              "id": "Semoga Allah memberkahinya! Aku juga ingin berhaji suatu hari nanti."
+            }
+          ],
+          "img": "u14-umrah-budi",
+          "scene": "Rizki and Budi talking in their shared dormitory room at an Islamic language institute in Yogyakarta on a Monday morning; Budi has just come back with a backpack and shows Rizki a phone photo of his parents in white umrah clothes at the airport in Surabaya; the phone screen has no text."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "كانَ · كانَتْ",
+              "id": "adalah / dulu (kata kerja lampau); كَيْفَ كانَتْ …؟ = bagaimana … (kemarin)?",
+              "emoji": "⏪"
+            },
+            {
+              "ar": "عُمْرَةٌ",
+              "id": "umrah",
+              "emoji": "🕋",
+              "serapan": "umrah"
+            },
+            {
+              "ar": "حَجٌّ",
+              "id": "haji (ibadah)",
+              "emoji": "🕋",
+              "serapan": "haji"
+            },
+            {
+              "ar": "حَجَّ – يَحُجُّ",
+              "id": "berhaji",
+              "emoji": "🧳"
+            },
+            {
+              "ar": "حاجٌّ · حاجَّةٌ",
+              "id": "orang yang sudah berhaji (lk · pr)",
+              "emoji": "🧕",
+              "serapan": "haji · hajah"
+            },
+            {
+              "ar": "مَكَّةُ",
+              "id": "Makkah",
+              "emoji": "🕌"
+            },
+            {
+              "ar": "رُجُوعٌ",
+              "id": "kepulangan",
+              "emoji": "🔙"
+            },
+            {
+              "ar": "ـهُما",
+              "id": "mereka berdua / milik mereka berdua",
+              "emoji": "👫"
+            },
+            {
+              "ar": "يَوْمًا ما",
+              "id": "suatu hari nanti",
+              "emoji": "🌤️"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "ortu-budi-umrah",
+          "instruction": "Menurut dialog, ke mana orang tua Budi pergi?",
+          "prompt": {
+            "ar": "أَبُو بُودِي وَأُمُّهُ …"
+          },
+          "answer": "Ke Makkah untuk umrah",
+          "options": [
+            "Ke Makkah untuk umrah",
+            "Ke Makassar untuk bekerja",
+            "Ke Yogyakarta untuk berlibur"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kaifa-utlah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "كَيْفَ كانَتْ عُطْلَتُكَ؟"
+          },
+          "answer": "Bagaimana liburanmu? (lk)",
+          "options": [
+            "Bagaimana liburanmu? (lk)",
+            "Kapan liburanmu? (lk)",
+            "Di mana liburanmu? (lk)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-mata-rujuu",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "مَتَى رُجُوعُهُما؟"
+          },
+          "answer": "Kapan mereka berdua pulang?",
+          "options": [
+            "Kapan mereka berdua pulang?",
+            "Kenapa mereka berdua pergi?",
+            "Naik apa mereka berdua pergi?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "ortu-budi-pulang",
+          "instruction": "Kapan orang tua Budi pulang?",
+          "prompt": {
+            "id": "Menurut dialog",
+            "emoji": "📅"
+          },
+          "answer": "Sembilan hari lagi",
+          "options": [
+            "Sembilan hari lagi",
+            "Tujuh hari lagi",
+            "Dua hari lagi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "siapa-hajah",
+          "instruction": "Siapa yang sudah berhaji dari Makassar?",
+          "prompt": {
+            "id": "Menurut dialog"
+          },
+          "answer": "Nenek Rizki",
+          "options": [
+            "Nenek Rizki",
+            "Ibu Budi",
+            "Ayah Rizki"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-umrah",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "سافَرَ أَبِي إِلَى مَكَّةَ لِلْعُمْرَةِ."
+          },
+          "answer": "ما شاءَ اللّٰهُ!",
+          "options": [
+            "ما شاءَ اللّٰهُ!",
+            "آسِفٌ.",
+            "عَفْوًا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-jaddati-hajjah",
+          "prompt": {
+            "id": "Nenekku seorang hajah."
+          },
+          "answer": "جَدَّتِي حاجَّةٌ",
+          "extra": [
+            "حاجٌّ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-dzahabtu-mathar",
+          "prompt": {
+            "id": "Aku pergi ke bandara."
+          },
+          "answer": "ذَهَبْتُ إِلَى المَطارِ",
+          "extra": [
+            "فِي"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "hajjah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "حاجَّةٌ"
+          },
+          "answer": "perempuan yang sudah berhaji (hajah)",
+          "options": [
+            "perempuan yang sudah berhaji (hajah)",
+            "perjalanan umrah",
+            "nenek"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-jaddati-hajjah",
+          "ar": "جَدَّتِي حاجَّةٌ.",
+          "id": "Nenekku seorang hajah.",
+          "who": "rizki"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-umrah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "عُمْرَةٌ"
+          },
+          "answer": "umrah",
+          "options": [
+            "umrah",
+            "haji",
+            "bandara"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-jaddati",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "جَدَّتِي حاجَّةٌ."
+          },
+          "answer": "جَدَّتِي حاجَّةٌ.",
+          "options": [
+            "جَدَّتِي حاجَّةٌ.",
+            "جَدِّي حاجٌّ.",
+            "أُمِّي حاجَّةٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-mata",
+          "prompt": {
+            "id": "Kapan mereka berdua pulang?"
+          },
+          "answer": "مَتَى رُجُوعُهُما",
+          "extra": [
+            "كَيْفَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-budi-bandara",
+          "instruction": "Budi pergi ke bandara bersama siapa?",
+          "prompt": {
+            "id": "Menurut dialog"
+          },
+          "answer": "Bersama keluarganya",
+          "options": [
+            "Bersama keluarganya",
+            "Bersama Rizki",
+            "Sendirian"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-hajjat-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "حَجَّتْ مِنْ ماكاسار."
+          },
+          "answer": "Dia (pr) berhaji dari Makassar.",
+          "options": [
+            "Dia (pr) berhaji dari Makassar.",
+            "Dia (lk) berhaji dari Makassar.",
+            "Dia (pr) tinggal di Makassar."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Foto haji Nenek",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Nenek Aminah datang dari Makassar ke Bandung. Nur menemukan foto lama Nenek.",
+          "rows": [
+            {
+              "who": "nur",
+              "ar": "يا جَدَّتِي، مَنْ هٰذِهِ فِي الصُّورَةِ؟",
+              "id": "Nek, siapa ini di foto?"
+            },
+            {
+              "who": "nenek_aminah",
+              "ar": "أَنا يا نُورُ! هٰذِهِ صُورَتِي فِي مَكَّةَ.",
+              "id": "Itu Nenek, Nur! Ini foto Nenek di Makkah."
+            },
+            {
+              "who": "nur",
+              "ar": "مَتَى حَجَجْتِ يا جَدَّتِي؟",
+              "id": "Kapan Nenek berhaji?"
+            },
+            {
+              "who": "nenek_aminah",
+              "ar": "قَبْلَ عَشْرِ سَنَواتٍ، مَعَ جَدِّكِ عُمَرَ.",
+              "id": "Sepuluh tahun lalu, bersama kakekmu, Umar."
+            },
+            {
+              "who": "nur",
+              "ar": "بِمَ سافَرْتِ إِلَى مَكَّةَ؟",
+              "id": "Nenek ke Makkah naik apa?"
+            },
+            {
+              "who": "nenek_aminah",
+              "ar": "بِالطّائِرَةِ، مِنْ ماكاسار إِلَى جُدَّةَ.",
+              "id": "Naik pesawat, dari Makassar ke Jeddah."
+            },
+            {
+              "who": "nur",
+              "ar": "وَماذا فَعَلْتِ هُناكَ؟",
+              "id": "Lalu apa yang Nenek lakukan di sana?"
+            },
+            {
+              "who": "nenek_aminah",
+              "ar": "طُفْتُ حَوْلَ الكَعْبَةِ، وَوَقَفْتُ بِعَرَفَةَ. كُنْتُ فَرِحَةً جِدًّا!",
+              "id": "Nenek bertawaf mengelilingi Ka'bah dan berwukuf di Arafah. Nenek sangat gembira!"
+            },
+            {
+              "who": "nur",
+              "ar": "ما أَجْمَلَ ذٰلِكَ! أُرِيدُ أَنْ أَحُجَّ مِثْلَكِ.",
+              "id": "Indah sekali! Aku ingin berhaji seperti Nenek."
+            }
+          ],
+          "img": "u14-foto-nenek",
+          "scene": "Nur, a 9-year-old girl in a headscarf, sitting beside her grandmother Nenek Aminah on a sofa in the family living room in Bandung, both looking at an old printed photo; in the photo Nenek Aminah wears white hajj clothes with the Ka'bah far in the background; warm afternoon light; no text anywhere."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "قَبْلَ",
+              "id": "sebelum; قَبْلَ عَشْرِ سَنَواتٍ = sepuluh tahun lalu",
+              "emoji": "⏮️"
+            },
+            {
+              "ar": "سَنَةٌ ← سَنَواتٌ",
+              "id": "tahun → tahun-tahun",
+              "emoji": "📆"
+            },
+            {
+              "ar": "بِمَ؟",
+              "id": "dengan apa? naik apa?",
+              "emoji": "❓"
+            },
+            {
+              "ar": "جُدَّةُ",
+              "id": "Jeddah (kota di Arab Saudi)",
+              "emoji": "🛬"
+            },
+            {
+              "ar": "طافَ – يَطُوفُ",
+              "id": "bertawaf",
+              "emoji": "🔄"
+            },
+            {
+              "ar": "حَوْلَ",
+              "id": "di sekeliling",
+              "emoji": "⭕"
+            },
+            {
+              "ar": "الكَعْبَةُ",
+              "id": "Ka'bah",
+              "emoji": "🕋",
+              "serapan": "Kakbah"
+            },
+            {
+              "ar": "وَقَفَ بِعَرَفَةَ",
+              "id": "berwukuf di Arafah",
+              "emoji": "⛰️"
+            },
+            {
+              "ar": "فَرِحٌ · فَرِحَةٌ",
+              "id": "gembira (lk · pr)",
+              "emoji": "😊"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "nenek-kapan",
+          "instruction": "Kapan Nenek Aminah berhaji?",
+          "prompt": {
+            "id": "Menurut dialog"
+          },
+          "answer": "Sepuluh tahun lalu",
+          "options": [
+            "Sepuluh tahun lalu",
+            "Dua tahun lalu",
+            "Tiga tahun lalu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "nenek-naik-apa",
+          "instruction": "Nenek Aminah ke Makkah naik apa?",
+          "prompt": {
+            "id": "Menurut dialog"
+          },
+          "answer": "Pesawat",
+          "options": [
+            "Pesawat",
+            "Kapal laut",
+            "Bus"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-bima",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "بِمَ سافَرْتِ؟"
+          },
+          "answer": "Kamu (pr) bepergian naik apa?",
+          "options": [
+            "Kamu (pr) bepergian naik apa?",
+            "Kapan kamu (pr) bepergian?",
+            "Dengan siapa kamu (pr) bepergian?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-bima",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "بِمَ سافَرْتِ إِلَى مَكَّةَ؟"
+          },
+          "answer": "بِالطّائِرَةِ.",
+          "options": [
+            "بِالطّائِرَةِ.",
+            "قَبْلَ عَشْرِ سَنَواتٍ.",
+            "مَعَ جَدِّكِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "balas-mata-hajajti",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "مَتَى حَجَجْتِ؟"
+          },
+          "answer": "قَبْلَ عَشْرِ سَنَواتٍ.",
+          "options": [
+            "قَبْلَ عَشْرِ سَنَواتٍ.",
+            "بِالطّائِرَةِ.",
+            "فِي مَكَّةَ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tuftu-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "طُفْتُ حَوْلَ الكَعْبَةِ."
+          },
+          "answer": "Saya bertawaf mengelilingi Ka'bah.",
+          "options": [
+            "Saya bertawaf mengelilingi Ka'bah.",
+            "Saya berwukuf di Arafah.",
+            "Saya berangkat ke Jeddah."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "nenek-perasaan",
+          "instruction": "Bagaimana perasaan Nenek saat berhaji?",
+          "prompt": {
+            "ar": "كُنْتُ فَرِحَةً جِدًّا!"
+          },
+          "answer": "Sangat gembira",
+          "options": [
+            "Sangat gembira",
+            "Sangat lapar",
+            "Agak sakit"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-bittairah",
+          "prompt": {
+            "id": "Nenek ke Makkah naik apa?"
+          },
+          "answer": "بِمَ سافَرْتِ إِلَى مَكَّةَ",
+          "extra": [
+            "مَتَى"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-fariha",
+          "prompt": {
+            "id": "Saya sangat gembira. (pr)"
+          },
+          "answer": "كُنْتُ فَرِحَةً جِدًّا",
+          "extra": [
+            "فَرِحًا"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-qabla-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "قَبْلَ عَشْرِ سَنَواتٍ"
+          },
+          "answer": "sepuluh tahun lalu",
+          "options": [
+            "sepuluh tahun lalu",
+            "sepuluh tahun lagi",
+            "sepuluh hari lalu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-wuquf",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "وَقَفْتُ بِعَرَفَةَ."
+          },
+          "answer": "وَقَفْتُ بِعَرَفَةَ.",
+          "options": [
+            "وَقَفْتُ بِعَرَفَةَ.",
+            "طُفْتُ حَوْلَ الكَعْبَةِ.",
+            "سافَرْتُ إِلَى جُدَّةَ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-mata-hajajti",
+          "prompt": {
+            "id": "Kapan nenekmu berhaji? (kepada anak pr)"
+          },
+          "answer": "مَتَى حَجَّتْ جَدَّتُكِ",
+          "extra": [
+            "بِمَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-nenek-bersama",
+          "instruction": "Nenek Aminah berhaji bersama siapa?",
+          "prompt": {
+            "id": "Menurut dialog"
+          },
+          "answer": "Kakek Umar",
+          "options": [
+            "Kakek Umar",
+            "Bu Fatimah",
+            "Nur"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-farih-pr",
+          "instruction": "Kata \"gembira\" untuk perempuan adalah …",
+          "prompt": {
+            "id": "gembira (pr)"
+          },
+          "answer": "فَرِحَةٌ",
+          "options": [
+            "فَرِحَةٌ",
+            "فَرِحٌ",
+            "جَمِيلَةٌ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Rencana umrah Ibu",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Malam hari di rumah Bandung. Bu Fatimah punya rencana.",
+          "rows": [
+            {
+              "who": "bu_fatimah",
+              "ar": "يا أَبا رِزْقِي، أُرِيدُ أَنْ أَعْتَمِرَ مَعَ أُمِّي.",
+              "id": "Yah, aku ingin berumrah bersama ibuku."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "فِكْرَةٌ جَمِيلَةٌ! مَتَى السَّفَرُ؟",
+              "id": "Ide bagus! Kapan berangkatnya?"
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "بَعْدَ شَهْرَيْنِ، إِنْ شاءَ اللّٰهُ.",
+              "id": "Dua bulan lagi, insyaallah."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "كَمْ يَوْمًا الرِّحْلَةُ؟",
+              "id": "Berapa hari perjalanannya?"
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "تِسْعَةُ أَيّامٍ، فِي المَدِينَةِ وَمَكَّةَ.",
+              "id": "Sembilan hari, di Madinah dan Makkah."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "هَلْ تَعْرِفِينَ المَناسِكَ؟",
+              "id": "Kamu sudah tahu manasiknya? (pr)"
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "نَعَمْ، نَدْرُسُها فِي مَسْجِدِ الحَيِّ يَوْمَ الأَحَدِ.",
+              "id": "Ya, kami mempelajarinya di masjid kompleks pada hari Ahad."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "بِمَ تَبْدَأُ العُمْرَةُ؟",
+              "id": "Umrah dimulai dengan apa?"
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "بِالإِحْرامِ مِنَ المِيقاتِ، ثُمَّ الطَّوافِ وَالسَّعْيِ.",
+              "id": "Dengan ihram dari miqat, lalu tawaf dan sai."
+            }
+          ],
+          "img": "u14-rencana-umrah",
+          "scene": "Bu Fatimah and Pak Ahmad sitting at the dining table of their two-storey house in a Bandung housing complex in the evening; Bu Fatimah holds a simple travel brochure with no readable text and explains with her hands; Pak Ahmad smiles and listens; two cups of tea on the table."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "يا أَبا رِزْقِي",
+              "id": "wahai ayah Rizki (sapaan istri kepada suami: \"Yah\")"
+            },
+            {
+              "ar": "اِعْتَمَرَ – يَعْتَمِرُ",
+              "id": "berumrah",
+              "emoji": "🕋"
+            },
+            {
+              "ar": "شَهْرٌ ← شَهْرانِ · شَهْرَيْنِ",
+              "id": "satu bulan → dua bulan",
+              "emoji": "🗓️"
+            },
+            {
+              "ar": "مَناسِكُ",
+              "id": "manasik (tata cara haji dan umrah)",
+              "emoji": "📖",
+              "serapan": "manasik"
+            },
+            {
+              "ar": "الحَيُّ",
+              "id": "kompleks perumahan, kampung",
+              "emoji": "🏘️"
+            },
+            {
+              "ar": "عَرَفَ – يَعْرِفُ",
+              "id": "tahu, mengenal",
+              "emoji": "🧠"
+            },
+            {
+              "ar": "بَدَأَ – يَبْدَأُ",
+              "id": "mulai, dimulai",
+              "emoji": "▶️"
+            },
+            {
+              "ar": "الإِحْرامُ",
+              "id": "ihram",
+              "emoji": "⚪",
+              "serapan": "ihram"
+            },
+            {
+              "ar": "المِيقاتُ",
+              "id": "miqat (tempat mulai berihram)",
+              "emoji": "📍",
+              "serapan": "mikat"
+            },
+            {
+              "ar": "الطَّوافُ",
+              "id": "tawaf (mengelilingi Ka'bah)",
+              "emoji": "🔄",
+              "serapan": "tawaf"
+            },
+            {
+              "ar": "السَّعْيُ",
+              "id": "sai (berjalan antara Safa dan Marwah)",
+              "emoji": "🚶",
+              "serapan": "sai"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "fatimah-kapan",
+          "instruction": "Kapan Bu Fatimah berangkat umrah?",
+          "prompt": {
+            "id": "Menurut dialog"
+          },
+          "answer": "Dua bulan lagi",
+          "options": [
+            "Dua bulan lagi",
+            "Dua minggu lagi",
+            "Sembilan hari lagi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "fatimah-berapa-hari",
+          "instruction": "Berapa hari perjalanan umrahnya?",
+          "prompt": {
+            "ar": "كَمْ يَوْمًا الرِّحْلَةُ؟"
+          },
+          "answer": "9 hari",
+          "options": [
+            "9 hari",
+            "2 hari",
+            "10 hari"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "fatimah-bersama",
+          "instruction": "Bu Fatimah ingin berumrah bersama siapa?",
+          "prompt": {
+            "ar": "أُرِيدُ أَنْ أَعْتَمِرَ مَعَ أُمِّي."
+          },
+          "answer": "Ibunya (Nenek Aminah)",
+          "options": [
+            "Ibunya (Nenek Aminah)",
+            "Pak Ahmad",
+            "Nur"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-mata-safar",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "مَتَى السَّفَرُ؟"
+          },
+          "answer": "Kapan berangkatnya?",
+          "options": [
+            "Kapan berangkatnya?",
+            "Naik apa berangkatnya?",
+            "Berapa hari perjalanannya?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "bima-tabda",
+          "instruction": "Pilih jawaban yang benar",
+          "prompt": {
+            "ar": "بِمَ تَبْدَأُ العُمْرَةُ؟"
+          },
+          "answer": "بِالإِحْرامِ.",
+          "options": [
+            "بِالإِحْرامِ.",
+            "بِالسَّعْيِ.",
+            "بِالطَّوافِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "manasik-di-mana",
+          "instruction": "Di mana Bu Fatimah belajar manasik?",
+          "prompt": {
+            "id": "Menurut dialog"
+          },
+          "answer": "Di masjid kompleks",
+          "options": [
+            "Di masjid kompleks",
+            "Di ma'had",
+            "Di puskesmas"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-syahrain",
+          "prompt": {
+            "id": "Dua bulan lagi."
+          },
+          "answer": "بَعْدَ شَهْرَيْنِ",
+          "extra": [
+            "شَهْرانِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-tisah-ayyam",
+          "prompt": {
+            "id": "Perjalanannya sembilan hari."
+          },
+          "answer": "الرِّحْلَةُ تِسْعَةُ أَيّامٍ",
+          "extra": [
+            "تِسْعُ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "miqat-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "المِيقاتُ"
+          },
+          "answer": "tempat mulai berihram",
+          "options": [
+            "tempat mulai berihram",
+            "pakaian ihram",
+            "bukit di Makkah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-bil-ihram",
+          "ar": "بِالإِحْرامِ مِنَ المِيقاتِ.",
+          "id": "Dengan ihram dari miqat.",
+          "who": "bu_fatimah"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-fikrah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "فِكْرَةٌ جَمِيلَةٌ!"
+          },
+          "answer": "Ide bagus!",
+          "options": [
+            "Ide bagus!",
+            "Foto bagus!",
+            "Perjalanan yang indah!"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-bima-tabda",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "بِمَ تَبْدَأُ العُمْرَةُ؟"
+          },
+          "answer": "بِمَ تَبْدَأُ العُمْرَةُ؟",
+          "options": [
+            "بِمَ تَبْدَأُ العُمْرَةُ؟",
+            "مَتَى تَبْدَأُ العُمْرَةُ؟",
+            "كَيْفَ تَبْدَأُ العُمْرَةُ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-urutan-umrah",
+          "instruction": "Menurut Bu Fatimah, apa urutan awal umrah?",
+          "prompt": {
+            "id": "Pilih urutan yang benar"
+          },
+          "answer": "Ihram → tawaf → sai",
+          "options": [
+            "Ihram → tawaf → sai",
+            "Tawaf → ihram → sai",
+            "Sai → tawaf → ihram"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-tarifina",
+          "prompt": {
+            "id": "Apakah kamu tahu manasiknya? (pr)"
+          },
+          "answer": "هَلْ تَعْرِفِينَ المَناسِكَ",
+          "extra": [
+            "تَعْرِفُ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-hari-manasik",
+          "instruction": "Hari apa kelas manasik di masjid kompleks?",
+          "prompt": {
+            "id": "Menurut dialog"
+          },
+          "answer": "Ahad",
+          "options": [
+            "Ahad",
+            "Jumat",
+            "Senin"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & angka 11–19",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Ibadah haji dan umrah",
+          "rows": [
+            {
+              "ar": "حَجٌّ",
+              "id": "haji",
+              "emoji": "🕋",
+              "serapan": "haji"
+            },
+            {
+              "ar": "عُمْرَةٌ",
+              "id": "umrah",
+              "emoji": "🕋",
+              "serapan": "umrah"
+            },
+            {
+              "ar": "إِحْرامٌ",
+              "id": "ihram",
+              "emoji": "⚪",
+              "serapan": "ihram"
+            },
+            {
+              "ar": "طَوافٌ",
+              "id": "tawaf",
+              "emoji": "🔄",
+              "serapan": "tawaf"
+            },
+            {
+              "ar": "سَعْيٌ",
+              "id": "sai",
+              "emoji": "🚶",
+              "serapan": "sai"
+            },
+            {
+              "ar": "مِيقاتٌ",
+              "id": "miqat",
+              "emoji": "📍",
+              "serapan": "mikat"
+            },
+            {
+              "ar": "دُعاءٌ",
+              "id": "doa",
+              "emoji": "🤲",
+              "serapan": "doa"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Tempat dan orang",
+          "rows": [
+            {
+              "ar": "الكَعْبَةُ",
+              "id": "Ka'bah",
+              "emoji": "🕋",
+              "serapan": "Kakbah"
+            },
+            {
+              "ar": "عَرَفَةُ",
+              "id": "Arafah",
+              "emoji": "⛰️"
+            },
+            {
+              "ar": "مُزْدَلِفَةُ",
+              "id": "Muzdalifah",
+              "emoji": "🌙"
+            },
+            {
+              "ar": "مِنًى",
+              "id": "Mina",
+              "emoji": "⛺"
+            },
+            {
+              "ar": "حاجٌّ · حاجَّةٌ",
+              "id": "orang yang berhaji (lk · pr)",
+              "emoji": "🧕",
+              "serapan": "haji · hajah"
+            },
+            {
+              "ar": "حُجّاجٌ",
+              "id": "para jemaah haji, orang-orang yang berhaji (jamak حاجٌّ)",
+              "emoji": "👥"
+            },
+            {
+              "ar": "جَماعَةٌ",
+              "id": "rombongan, kelompok",
+              "emoji": "👥",
+              "serapan": "jemaah"
+            }
+          ],
+          "note_id": "\"Jemaah haji\" (orang-orangnya) dalam bahasa Arab adalah الحُجّاجُ. جَماعَةٌ berarti satu rombongan atau kelompok, misalnya rombongan umrah Bu Fatimah."
+        },
+        {
+          "card": "vocab",
+          "section": "Angka 11–19",
+          "note_id": "Dua kata, keduanya berharakat fathah di akhir (kecuali اِثْنا عَشَرَ).",
+          "rows": [
+            {
+              "ar": "أَحَدَ عَشَرَ",
+              "id": "sebelas (11)"
+            },
+            {
+              "ar": "اِثْنا عَشَرَ",
+              "id": "dua belas (12)"
+            },
+            {
+              "ar": "ثَلاثَةَ عَشَرَ",
+              "id": "tiga belas (13)"
+            },
+            {
+              "ar": "أَرْبَعَةَ عَشَرَ",
+              "id": "empat belas (14)"
+            },
+            {
+              "ar": "خَمْسَةَ عَشَرَ",
+              "id": "lima belas (15)"
+            },
+            {
+              "ar": "سِتَّةَ عَشَرَ",
+              "id": "enam belas (16)"
+            },
+            {
+              "ar": "سَبْعَةَ عَشَرَ",
+              "id": "tujuh belas (17)"
+            },
+            {
+              "ar": "ثَمانِيَةَ عَشَرَ",
+              "id": "delapan belas (18)"
+            },
+            {
+              "ar": "تِسْعَةَ عَشَرَ",
+              "id": "sembilan belas (19)"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "gambar-kabah",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🕋"
+          },
+          "answer": "الكَعْبَةُ",
+          "options": [
+            "الكَعْبَةُ",
+            "عَرَفَةُ",
+            "مِنًى"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dua-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "دُعاءٌ"
+          },
+          "answer": "doa",
+          "options": [
+            "doa",
+            "tawaf",
+            "jemaah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "tawaf-definisi",
+          "instruction": "Mengelilingi Ka'bah disebut …",
+          "prompt": {
+            "id": "mengelilingi Ka'bah",
+            "emoji": "🔄"
+          },
+          "answer": "طَوافٌ",
+          "options": [
+            "طَوافٌ",
+            "سَعْيٌ",
+            "مِيقاتٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "sai-definisi",
+          "instruction": "Berjalan bolak-balik antara Safa dan Marwah disebut …",
+          "prompt": {
+            "id": "antara Safa dan Marwah",
+            "emoji": "🚶"
+          },
+          "answer": "سَعْيٌ",
+          "options": [
+            "سَعْيٌ",
+            "طَوافٌ",
+            "إِحْرامٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "arafah-definisi",
+          "instruction": "Di mana jemaah haji berwukuf pada tanggal 9 Zulhijah?",
+          "prompt": {
+            "id": "tempat wukuf"
+          },
+          "answer": "عَرَفَةُ",
+          "options": [
+            "عَرَفَةُ",
+            "مُزْدَلِفَةُ",
+            "الكَعْبَةُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-15",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "خَمْسَةَ عَشَرَ"
+          },
+          "answer": "15",
+          "options": [
+            "15",
+            "5",
+            "50",
+            "13"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "angka-12",
+          "instruction": "Angka 12 dalam bahasa Arab adalah …",
+          "prompt": {
+            "id": "dua belas (12)"
+          },
+          "answer": "اِثْنا عَشَرَ",
+          "options": [
+            "اِثْنا عَشَرَ",
+            "اِثْنانِ",
+            "عِشْرُونَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-19",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "تِسْعَةَ عَشَرَ"
+          },
+          "answer": "19",
+          "options": [
+            "19",
+            "9",
+            "90",
+            "17"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "hitung-17",
+          "instruction": "Berapa hasilnya?",
+          "prompt": {
+            "ar": "عَشَرَةٌ + سَبْعَةٌ = ؟"
+          },
+          "answer": "سَبْعَةَ عَشَرَ",
+          "options": [
+            "سَبْعَةَ عَشَرَ",
+            "سَبْعُونَ",
+            "سِتَّةَ عَشَرَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jamaah-ar",
+          "instruction": "Bahasa Arabnya \"rombongan, kelompok\" adalah …",
+          "prompt": {
+            "id": "rombongan, kelompok",
+            "emoji": "👥"
+          },
+          "answer": "جَماعَةٌ",
+          "options": [
+            "جَماعَةٌ",
+            "حاجٌّ",
+            "مَسْجِدٌ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-mina",
+          "instruction": "Tempat jemaah haji bermalam dan melempar jumrah adalah …",
+          "prompt": {
+            "id": "tempat melempar jumrah",
+            "emoji": "⛺"
+          },
+          "answer": "مِنًى",
+          "options": [
+            "مِنًى",
+            "الكَعْبَةُ",
+            "المِيقاتُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-11",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "أَحَدَ عَشَرَ"
+          },
+          "answer": "11",
+          "options": [
+            "11",
+            "1",
+            "12"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-angka-14",
+          "instruction": "Angka 14 dalam bahasa Arab adalah …",
+          "prompt": {
+            "id": "empat belas (14)"
+          },
+          "answer": "أَرْبَعَةَ عَشَرَ",
+          "options": [
+            "أَرْبَعَةَ عَشَرَ",
+            "أَرْبَعُونَ",
+            "أَرْبَعَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-ihram-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "إِحْرامٌ"
+          },
+          "answer": "ihram",
+          "options": [
+            "ihram",
+            "imam",
+            "doa"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-hitung-13",
+          "instruction": "Berapa hasilnya?",
+          "prompt": {
+            "ar": "عَشَرَةٌ + ثَلاثَةٌ = ؟"
+          },
+          "answer": "ثَلاثَةَ عَشَرَ",
+          "options": [
+            "ثَلاثَةَ عَشَرَ",
+            "ثَلاثُونَ",
+            "أَرْبَعَةَ عَشَرَ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Bertanya: kapan, bagaimana, dengan apa",
+          "groups": [
+            {
+              "title_ar": "مَتَى + اسْمٌ",
+              "note_id": "مَتَى bisa langsung diikuti kata benda, tanpa kata kerja.",
+              "rows": [
+                {
+                  "ar": "مَتَى السَّفَرُ؟",
+                  "id": "Kapan berangkatnya?"
+                },
+                {
+                  "ar": "بَعْدَ شَهْرَيْنِ.",
+                  "id": "Dua bulan lagi."
+                },
+                {
+                  "ar": "مَتَى الحَجُّ؟",
+                  "id": "Kapan (musim) haji?"
+                },
+                {
+                  "ar": "فِي شَهْرِ ذِي الحِجَّةِ.",
+                  "id": "Pada bulan Zulhijah."
+                }
+              ]
+            },
+            {
+              "title_ar": "كَيْفَ + فِعْلٌ مُضارِعٌ",
+              "note_id": "كَيْفَ + kata kerja sekarang menanyakan cara melakukan sesuatu.",
+              "rows": [
+                {
+                  "ar": "كَيْفَ يَطُوفُ الحاجُّ؟",
+                  "id": "Bagaimana jemaah haji bertawaf?"
+                },
+                {
+                  "ar": "يَطُوفُ حَوْلَ الكَعْبَةِ سَبْعَةَ أَشْواطٍ.",
+                  "id": "Dia mengelilingi Ka'bah tujuh putaran."
+                }
+              ]
+            },
+            {
+              "title_ar": "بِمَ …؟",
+              "note_id": "بِمَ = بِـ + ما (dengan apa?). Alif pada ما dibuang. Jawabannya memakai بِـ juga.",
+              "rows": [
+                {
+                  "ar": "بِمَ سافَرْتِ؟",
+                  "id": "Kamu (pr) bepergian naik apa?"
+                },
+                {
+                  "ar": "بِالطّائِرَةِ.",
+                  "id": "Naik pesawat."
+                },
+                {
+                  "ar": "بِمَ تَبْدَأُ العُمْرَةُ؟",
+                  "id": "Umrah dimulai dengan apa?"
+                },
+                {
+                  "ar": "بِالإِحْرامِ.",
+                  "id": "Dengan ihram."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Dua, 3–10, dan 11–19",
+          "groups": [
+            {
+              "title_ar": "المُثَنَّى: ـانِ · ـَيْنِ",
+              "note_id": "Untuk dua benda: ـانِ bila menjadi subjek atau predikat (khabar); ـَيْنِ bila menjadi objek atau sesudah kata depan, بَعْدَ, dan قَبْلَ. Ta marbuthah (ة) berubah menjadi ت.",
+              "rows": [
+                {
+                  "ar": "يَوْمٌ ← يَوْمانِ · يَوْمَيْنِ",
+                  "id": "satu hari → dua hari"
+                },
+                {
+                  "ar": "رَكْعَةٌ ← رَكْعَتانِ · رَكْعَتَيْنِ",
+                  "id": "satu rakaat → dua rakaat"
+                },
+                {
+                  "ar": "صَلاةُ الفَجْرِ رَكْعَتانِ.",
+                  "id": "Salat subuh dua rakaat."
+                },
+                {
+                  "ar": "صَلَّيْتُ رَكْعَتَيْنِ بَعْدَ الطَّوافِ.",
+                  "id": "Saya salat dua rakaat setelah tawaf."
+                }
+              ]
+            },
+            {
+              "title_ar": "٣–١٠ + جَمْعٌ مَجْرُورٌ",
+              "note_id": "Benda yang dihitung berbentuk jamak dan berakhiran -in/-i. Angkanya berlawanan jenis: benda laki-laki → angka berakhiran ة; benda perempuan → angka tanpa ة.",
+              "rows": [
+                {
+                  "ar": "ثَلاثَةُ أَيّامٍ",
+                  "id": "tiga hari (يَوْمٌ: lk)"
+                },
+                {
+                  "ar": "سَبْعَةُ أَشْواطٍ",
+                  "id": "tujuh putaran (شَوْطٌ: lk)"
+                },
+                {
+                  "ar": "عَشْرُ سَنَواتٍ",
+                  "id": "sepuluh tahun (سَنَةٌ: pr)"
+                },
+                {
+                  "ar": "خَمْسُ طالِباتٍ",
+                  "id": "lima pelajar (pr)"
+                }
+              ]
+            },
+            {
+              "title_ar": "١١–١٩ + مُفْرَدٌ مَنْصُوبٌ",
+              "note_id": "Benda yang dihitung kembali tunggal dan berakhiran -an. Di unit ini kita memakai benda laki-laki saja; untuk benda perempuan bentuk angkanya berbeda (ثَلاثَ عَشْرَةَ سَنَةً).",
+              "rows": [
+                {
+                  "ar": "أَحَدَ عَشَرَ حاجًّا",
+                  "id": "sebelas jemaah haji"
+                },
+                {
+                  "ar": "اِثْنا عَشَرَ شَهْرًا",
+                  "id": "dua belas bulan"
+                },
+                {
+                  "ar": "خَمْسَةَ عَشَرَ يَوْمًا",
+                  "id": "lima belas hari"
+                },
+                {
+                  "ar": "سَبْعَةَ عَشَرَ مُعْتَمِرًا",
+                  "id": "tujuh belas jemaah umrah"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "rakatain",
+          "instruction": "Lengkapi: \"Saya salat dua rakaat.\"",
+          "prompt": {
+            "ar": "صَلَّيْتُ …"
+          },
+          "answer": "رَكْعَتَيْنِ",
+          "options": [
+            "رَكْعَتَيْنِ",
+            "رَكْعَتانِ",
+            "رَكْعَةً"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "sabatu-asywath",
+          "instruction": "Lengkapi: \"Tawaf itu tujuh putaran.\"",
+          "prompt": {
+            "ar": "الطَّوافُ … أَشْواطٍ."
+          },
+          "answer": "سَبْعَةُ",
+          "options": [
+            "سَبْعَةُ",
+            "سَبْعُ",
+            "سَبْعُونَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "asyri-sanawat",
+          "instruction": "Lengkapi: \"Nenekku berhaji sepuluh tahun lalu.\"",
+          "prompt": {
+            "ar": "حَجَّتْ جَدَّتِي قَبْلَ … سَنَواتٍ."
+          },
+          "answer": "عَشْرِ",
+          "options": [
+            "عَشْرِ",
+            "عَشَرَةِ",
+            "عِشْرِينَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tamyiz-11-19",
+          "instruction": "Lengkapi: \"Saya di Makkah lima belas hari.\"",
+          "prompt": {
+            "ar": "كُنْتُ فِي مَكَّةَ خَمْسَةَ عَشَرَ …"
+          },
+          "answer": "يَوْمًا",
+          "options": [
+            "يَوْمًا",
+            "أَيّامٍ",
+            "يَوْمٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tanya-bima",
+          "instruction": "Jawabannya \"بِالطّائِرَةِ.\" Apa pertanyaannya?",
+          "prompt": {
+            "ar": "بِالطّائِرَةِ."
+          },
+          "answer": "بِمَ سافَرْتَ؟",
+          "options": [
+            "بِمَ سافَرْتَ؟",
+            "مَتَى سافَرْتَ؟",
+            "إِلَى أَيْنَ سافَرْتَ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tanya-mata",
+          "instruction": "Jawabannya \"بَعْدَ أُسْبُوعَيْنِ.\" Apa pertanyaannya?",
+          "prompt": {
+            "ar": "بَعْدَ أُسْبُوعَيْنِ."
+          },
+          "answer": "مَتَى السَّفَرُ؟",
+          "options": [
+            "مَتَى السَّفَرُ؟",
+            "كَيْفَ تُسافِرُ؟",
+            "بِمَ تُسافِرُ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "bada-yaumain",
+          "instruction": "Lengkapi: \"Dua hari lagi.\"",
+          "prompt": {
+            "ar": "بَعْدَ …"
+          },
+          "answer": "يَوْمَيْنِ",
+          "options": [
+            "يَوْمَيْنِ",
+            "يَوْمانِ",
+            "أَيّامٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-kaifa-yatuf",
+          "prompt": {
+            "id": "Bagaimana jemaah haji bertawaf?"
+          },
+          "answer": "كَيْفَ يَطُوفُ الحاجُّ",
+          "extra": [
+            "مَتَى"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-darasna-syahrain",
+          "prompt": {
+            "id": "Kelas manasiknya dua bulan."
+          },
+          "answer": "دَرْسُ المَناسِكِ شَهْرانِ",
+          "extra": [
+            "شَهْرَيْنِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-tsalatsah-ayyam",
+          "prompt": {
+            "id": "Tiga hari yang indah."
+          },
+          "answer": "ثَلاثَةُ أَيّامٍ جَمِيلَةٍ",
+          "extra": [
+            "ثَلاثُ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-isna-asyara-syahran",
+          "instruction": "Lengkapi: \"Setahun itu dua belas bulan.\"",
+          "prompt": {
+            "ar": "السَّنَةُ اِثْنا عَشَرَ …"
+          },
+          "answer": "شَهْرًا",
+          "options": [
+            "شَهْرًا",
+            "أَشْهُرٍ",
+            "شَهْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-rakatani",
+          "instruction": "Lengkapi: \"Salat subuh dua rakaat.\"",
+          "prompt": {
+            "ar": "صَلاةُ الفَجْرِ …"
+          },
+          "answer": "رَكْعَتانِ",
+          "options": [
+            "رَكْعَتانِ",
+            "رَكْعَتَيْنِ",
+            "رَكَعاتٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-tsalats-sanawat",
+          "instruction": "Lengkapi: \"tiga tahun\"",
+          "prompt": {
+            "ar": "ثَلاثُ …"
+          },
+          "answer": "سَنَواتٍ",
+          "options": [
+            "سَنَواتٍ",
+            "سَنَةً",
+            "سَنَتانِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-bima-tabda",
+          "prompt": {
+            "id": "Umrah dimulai dengan apa?"
+          },
+          "answer": "بِمَ تَبْدَأُ العُمْرَةُ",
+          "extra": [
+            "مَتَى"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-tanya-kaifa",
+          "instruction": "Jawabannya \"بِالقِطارِ.\" Apa pertanyaannya?",
+          "prompt": {
+            "ar": "بِالقِطارِ."
+          },
+          "answer": "كَيْفَ تَذْهَبُ إِلَى بانْدُونْغ؟",
+          "options": [
+            "كَيْفَ تَذْهَبُ إِلَى بانْدُونْغ؟",
+            "مَتَى تَذْهَبُ إِلَى بانْدُونْغ؟",
+            "لِماذا تَذْهَبُ إِلَى بانْدُونْغ؟"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi i pendek dan panjang, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Kasrah (ـِ) dan kasrah + ya' (ـِي)",
+          "note_id": "Kasrah (ـِ) dibaca \"i\" pendek, satu ketukan. Kasrah yang diikuti ya' mati (ـِي) dibaca \"ii\" panjang, dua ketukan. Panjang-pendek ini mengubah arti: مَلِكٌ = raja, مَلِيكٌ = penguasa; رَحِمٌ = rahim (kandungan), رَحِيمٌ = penyayang; عِدْ = berjanjilah!, عِيدٌ = hari raya. Di unit ini: مِنًى (i pendek), مِيقاتٌ (i panjang). Ketuk tiap kotak dan bandingkan.",
+          "pairs": [
+            [
+              "بِ",
+              "بِي"
+            ],
+            [
+              "سِ",
+              "سِي"
+            ],
+            [
+              "عِ",
+              "عِي"
+            ],
+            [
+              "مَلِكٌ",
+              "مَلِيكٌ"
+            ],
+            [
+              "رَحِمٌ",
+              "رَحِيمٌ"
+            ],
+            [
+              "عِدْ",
+              "عِيدٌ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-malik",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "مَلِيكٌ"
+          },
+          "answer": "مَلِيكٌ",
+          "options": [
+            "مَلِيكٌ",
+            "مَلِكٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-rahim",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "رَحِمٌ"
+          },
+          "answer": "رَحِمٌ",
+          "options": [
+            "رَحِمٌ",
+            "رَحِيمٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-id",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "عِيدٌ"
+          },
+          "answer": "عِيدٌ",
+          "options": [
+            "عِيدٌ",
+            "عِدْ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-si",
+          "instruction": "Dengarkan. Bunyi mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سِي"
+          },
+          "answer": "سِي",
+          "options": [
+            "سِي",
+            "سِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "panjang-miqat",
+          "instruction": "Kata mana yang suku pertamanya \"i\" panjang (ـِي)?",
+          "prompt": {
+            "id": "Cari kasrah + ya'"
+          },
+          "answer": "مِيقاتٌ",
+          "options": [
+            "مِيقاتٌ",
+            "مِنًى",
+            "مِنْ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-miqat",
+          "ar": "مِيقاتٌ",
+          "id": "miqat (tempat mulai berihram)"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-rahim",
+          "ar": "رَحِيمٌ",
+          "id": "penyayang"
+        },
+        {
+          "q": "choice",
+          "k": "simak-jaddah-tairah",
+          "instruction": "Dengarkan. Neneknya ke Makkah naik apa?",
+          "prompt": {
+            "listen": "سافَرَتْ جَدَّتِي إِلَى مَكَّةَ بِالطّائِرَةِ."
+          },
+          "answer": "Pesawat",
+          "options": [
+            "Pesawat",
+            "Kapal laut",
+            "Kereta"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-mina-3",
+          "instruction": "Dengarkan. Berapa hari mereka di Mina?",
+          "prompt": {
+            "listen": "نَحْنُ فِي مِنًى ثَلاثَةَ أَيّامٍ."
+          },
+          "answer": "Tiga hari",
+          "options": [
+            "Tiga hari",
+            "Tiga belas hari",
+            "Dua hari"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-malik2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "مَلِكٌ"
+          },
+          "answer": "مَلِكٌ",
+          "options": [
+            "مَلِكٌ",
+            "مَلِيكٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-rahim2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "رَحِيمٌ"
+          },
+          "answer": "رَحِيمٌ",
+          "options": [
+            "رَحِيمٌ",
+            "رَحِمٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-id",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "عِدْ"
+          },
+          "answer": "عِدْ",
+          "options": [
+            "عِدْ",
+            "عِيدٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-i",
+          "instruction": "Dengarkan. Bunyi mana yang kamu dengar?",
+          "prompt": {
+            "listen": "عِ"
+          },
+          "answer": "عِ",
+          "options": [
+            "عِ",
+            "عِي"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-ihram",
+          "instruction": "Dengarkan. Umrah dimulai dengan apa?",
+          "prompt": {
+            "listen": "تَبْدَأُ العُمْرَةُ بِالإِحْرامِ."
+          },
+          "answer": "Ihram",
+          "options": [
+            "Ihram",
+            "Tawaf",
+            "Sai"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Ungkapan baru",
+          "rows": [
+            {
+              "ar": "حَجًّا مَبْرُورًا!",
+              "id": "Semoga hajinya mabrur! (kepada orang yang pulang haji)",
+              "emoji": "🤲",
+              "serapan": "mabrur"
+            },
+            {
+              "ar": "عُمْرَةً مَقْبُولَةً!",
+              "id": "Semoga umrahnya diterima!",
+              "emoji": "🤲",
+              "serapan": "makbul"
+            },
+            {
+              "ar": "كَيْفَ كانَتِ الرِّحْلَةُ؟",
+              "id": "Bagaimana perjalanannya?",
+              "emoji": "🧳"
+            },
+            {
+              "ar": "كانَتْ جَمِيلَةً جِدًّا.",
+              "id": "Sangat menyenangkan.",
+              "emoji": "😊"
+            },
+            {
+              "ar": "أَنا فَرِحٌ · أَنا فَرِحَةٌ",
+              "id": "saya gembira (lk · pr)",
+              "emoji": "😄"
+            },
+            {
+              "ar": "بَيْنَ الصَّفا وَالمَرْوَةِ",
+              "id": "antara (bukit) Safa dan Marwah",
+              "emoji": "🚶"
+            },
+            {
+              "ar": "التَّقْصِيرُ",
+              "id": "memendekkan rambut (tahalul, penutup umrah)",
+              "emoji": "✂️"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "cerita-rihlah",
+          "instruction": "Ceritakan perjalananmu: ke mana, naik apa, berapa hari, dan bagaimana rasanya",
+          "prompt": {
+            "id": "Pakai tempat dan angkamu sendiri."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "سافَرْتُ إِلَى بانْدُونْغ بِالقِطارِ.",
+              "id": "Saya pergi ke Bandung naik kereta."
+            },
+            {
+              "who": "rizki",
+              "ar": "كُنْتُ هُناكَ ثَلاثَةَ أَيّامٍ.",
+              "id": "Saya di sana tiga hari."
+            },
+            {
+              "who": "rizki",
+              "ar": "كانَتِ الرِّحْلَةُ جَمِيلَةً. أَنا فَرِحٌ جِدًّا!",
+              "id": "Perjalanannya menyenangkan. Saya sangat gembira!"
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-mabrur",
+          "who": "budi",
+          "ar": "حَجًّا مَبْرُورًا!",
+          "id": "Semoga hajinya mabrur!"
+        },
+        {
+          "q": "choice",
+          "k": "ucap-pulang-haji",
+          "instruction": "Tetanggamu baru pulang dari haji. Kamu mengucapkan …",
+          "prompt": {
+            "id": "Menyambut orang yang pulang haji",
+            "emoji": "🤲"
+          },
+          "answer": "حَجًّا مَبْرُورًا!",
+          "options": [
+            "حَجًّا مَبْرُورًا!",
+            "صَباحَ النُّورِ!",
+            "لا بَأْسَ!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tanya-rihlah-pr",
+          "instruction": "Aisyah baru pulang berlibur. Kamu bertanya: \"Bagaimana perjalananmu?\"",
+          "prompt": {
+            "id": "Bagaimana perjalananmu? (pr)",
+            "emoji": "🧳"
+          },
+          "answer": "كَيْفَ كانَتْ رِحْلَتُكِ؟",
+          "options": [
+            "كَيْفَ كانَتْ رِحْلَتُكِ؟",
+            "كَيْفَ كانَتْ رِحْلَتُكَ؟",
+            "مَتَى كانَتْ رِحْلَتُكِ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-fariha",
+          "who": "siti",
+          "ar": "أَنا فَرِحَةٌ جِدًّا.",
+          "id": "Saya sangat gembira. (pr)"
+        },
+        {
+          "q": "speak",
+          "k": "urutan-umrah",
+          "instruction": "Jelaskan urutan umrah dengan sederhana",
+          "prompt": {
+            "id": "Pakai ثُمَّ (lalu) di antara langkah-langkahnya."
+          },
+          "model": [
+            {
+              "who": "bu_fatimah",
+              "ar": "تَبْدَأُ العُمْرَةُ بِالإِحْرامِ مِنَ المِيقاتِ.",
+              "id": "Umrah dimulai dengan ihram dari miqat."
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "ثُمَّ الطَّوافُ حَوْلَ الكَعْبَةِ سَبْعَةَ أَشْواطٍ.",
+              "id": "Lalu tawaf mengelilingi Ka'bah tujuh putaran."
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "ثُمَّ السَّعْيُ بَيْنَ الصَّفا وَالمَرْوَةِ.",
+              "id": "Lalu sai antara Safa dan Marwah."
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "ثُمَّ التَّقْصِيرُ.",
+              "id": "Lalu memendekkan rambut."
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "jawab-kaifa-rihlah",
+          "instruction": "Ayu bertanya: كَيْفَ كانَتِ الرِّحْلَةُ؟ Jawaban yang tepat?",
+          "prompt": {
+            "ar": "كَيْفَ كانَتِ الرِّحْلَةُ؟"
+          },
+          "answer": "كانَتْ جَمِيلَةً جِدًّا.",
+          "options": [
+            "كانَتْ جَمِيلَةً جِدًّا.",
+            "بِالطّائِرَةِ.",
+            "بَعْدَ شَهْرَيْنِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "tanya-liburan",
+          "instruction": "Tanyakan kepada temanmu (lk) tentang liburannya",
+          "prompt": {
+            "id": "Tanyakan: bagaimana, ke mana, dan naik apa."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "كَيْفَ كانَتْ عُطْلَتُكَ؟",
+              "id": "Bagaimana liburanmu? (lk)"
+            },
+            {
+              "who": "rizki",
+              "ar": "إِلَى أَيْنَ سافَرْتَ؟",
+              "id": "Kamu pergi ke mana? (lk)"
+            },
+            {
+              "who": "rizki",
+              "ar": "بِمَ سافَرْتَ؟",
+              "id": "Kamu naik apa? (lk)"
+            }
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-mabrur-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "حَجًّا مَبْرُورًا!"
+          },
+          "answer": "Semoga hajinya mabrur!",
+          "options": [
+            "Semoga hajinya mabrur!",
+            "Selamat jalan!",
+            "Selamat datang!"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-farih-lk",
+          "instruction": "Rizki sangat gembira. Dia berkata …",
+          "prompt": {
+            "id": "Saya sangat gembira. (lk)",
+            "emoji": "😄"
+          },
+          "answer": "أَنا فَرِحٌ جِدًّا.",
+          "options": [
+            "أَنا فَرِحٌ جِدًّا.",
+            "أَنا فَرِحَةٌ جِدًّا.",
+            "أَنا مَرِيضٌ جِدًّا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-kaifa",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "كَيْفَ كانَتْ عُطْلَتُكَ؟"
+          },
+          "answer": "كانَتْ جَمِيلَةً، الحَمْدُ لِلّٰهِ.",
+          "options": [
+            "كانَتْ جَمِيلَةً، الحَمْدُ لِلّٰهِ.",
+            "بَعْدَ تِسْعَةِ أَيّامٍ.",
+            "مِنْ ماكاسار."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-setelah-sai",
+          "instruction": "Dalam umrah, apa yang dilakukan setelah sai?",
+          "prompt": {
+            "id": "Urutan umrah"
+          },
+          "answer": "Memendekkan rambut (tahalul)",
+          "options": [
+            "Memendekkan rambut (tahalul)",
+            "Berwukuf di Arafah",
+            "Berihram di miqat"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Kata baru dalam bacaan",
+          "rows": [
+            {
+              "ar": "رُكْنٌ ← أَرْكانٌ",
+              "id": "rukun → rukun-rukun",
+              "emoji": "🧱",
+              "serapan": "rukun"
+            },
+            {
+              "ar": "المُسْلِمُونَ",
+              "id": "orang-orang Islam",
+              "emoji": "👥"
+            },
+            {
+              "ar": "بِلادٌ",
+              "id": "negeri-negeri",
+              "emoji": "🌏"
+            },
+            {
+              "ar": "تُرْسِلُ",
+              "id": "(dia, pr) mengirim",
+              "emoji": "📤"
+            },
+            {
+              "ar": "أَكْبَرُ عَدَدٍ",
+              "id": "jumlah terbesar",
+              "emoji": "📈"
+            },
+            {
+              "ar": "يَقِفُ",
+              "id": "berdiri; berwukuf (di Arafah)",
+              "emoji": "⛰️"
+            },
+            {
+              "ar": "يَبِيتُونَ",
+              "id": "mereka bermalam",
+              "emoji": "🌙"
+            },
+            {
+              "ar": "يَسْعَوْنَ",
+              "id": "mereka bersai",
+              "emoji": "🚶"
+            },
+            {
+              "ar": "مُعْتَمِرٌ",
+              "id": "orang yang berumrah",
+              "emoji": "🧕"
+            },
+            {
+              "ar": "مُرافِقَةٌ",
+              "id": "pendamping (pr)",
+              "emoji": "🤝"
+            },
+            {
+              "ar": "بَرْنامَجٌ",
+              "id": "jadwal acara, program",
+              "emoji": "📋"
+            }
+          ]
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Haji",
+          "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            {
+              "ar": "الحَجُّ رُكْنٌ مِنْ أَرْكانِ الإِسْلامِ.",
+              "id": "Haji adalah salah satu rukun Islam."
+            },
+            {
+              "ar": "يَحُجُّ المُسْلِمُونَ فِي شَهْرِ ذِي الحِجَّةِ.",
+              "id": "Umat Islam berhaji pada bulan Zulhijah."
+            },
+            {
+              "ar": "يُسافِرُ الحُجّاجُ إِلَى مَكَّةَ مِنْ بِلادٍ كَثِيرَةٍ.",
+              "id": "Jemaah haji berangkat ke Makkah dari banyak negeri."
+            },
+            {
+              "ar": "وَإِنْدُونِيسِيا تُرْسِلُ أَكْبَرَ عَدَدٍ مِنَ الحُجّاجِ.",
+              "id": "Indonesia mengirim jemaah haji dalam jumlah terbesar (di dunia)."
+            },
+            {
+              "ar": "يَبْدَأُ الحَجُّ بِالإِحْرامِ مِنَ المِيقاتِ.",
+              "id": "Haji dimulai dengan ihram dari miqat."
+            },
+            {
+              "ar": "فِي اليَوْمِ التّاسِعِ يَقِفُ الحُجّاجُ بِعَرَفَةَ.",
+              "id": "Pada hari kesembilan (Zulhijah), jemaah berwukuf di Arafah."
+            },
+            {
+              "ar": "ثُمَّ يَبِيتُونَ فِي مُزْدَلِفَةَ، وَيَذْهَبُونَ إِلَى مِنًى.",
+              "id": "Lalu mereka bermalam di Muzdalifah dan pergi ke Mina."
+            },
+            {
+              "ar": "وَيَطُوفُونَ حَوْلَ الكَعْبَةِ، وَيَسْعَوْنَ بَيْنَ الصَّفا وَالمَرْوَةِ.",
+              "id": "Mereka juga bertawaf mengelilingi Ka'bah dan bersai antara Safa dan Marwah."
+            }
+          ],
+          "img": "u14-baca-haji",
+          "scene": "A group of Indonesian pilgrims, men in white ihram garments and women in white clothes and headscarves, carrying matching batik-print travel bags, walking calmly together in the courtyard of the Grand Mosque; the Ka'bah is visible only far in the distance; respectful, peaceful mood; no text."
+        },
+        {
+          "q": "choice",
+          "k": "baca-bulan-haji",
+          "instruction": "Pada bulan apa umat Islam berhaji?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Zulhijah",
+          "options": [
+            "Zulhijah",
+            "Ramadan",
+            "Syawal"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-terbanyak",
+          "instruction": "Benar atau salah? \"Indonesia mengirim jemaah haji dalam jumlah terbesar.\"",
+          "prompt": {
+            "ar": "إِنْدُونِيسِيا تُرْسِلُ أَكْبَرَ عَدَدٍ مِنَ الحُجّاجِ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-arafah-hari",
+          "instruction": "Benar atau salah? \"Jemaah berwukuf di Arafah pada hari kesepuluh.\"",
+          "prompt": {
+            "ar": "يَقِفُ الحُجّاجُ بِعَرَفَةَ فِي اليَوْمِ العاشِرِ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-mabit",
+          "instruction": "Setelah Arafah, jemaah bermalam di mana?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "🌙"
+          },
+          "answer": "Muzdalifah",
+          "options": [
+            "Muzdalifah",
+            "Madinah",
+            "Jeddah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-mulai-haji",
+          "instruction": "Haji dimulai dengan …",
+          "prompt": {
+            "ar": "يَبْدَأُ الحَجُّ بِـ …"
+          },
+          "answer": "ihram dari miqat",
+          "options": [
+            "ihram dari miqat",
+            "tawaf di sekeliling Ka'bah",
+            "sai antara Safa dan Marwah"
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Kartu jadwal umrah",
+          "instruction_id": "Ini kartu jadwal umrah Bu Fatimah dari biro perjalanan. Baca datanya.",
+          "rows": [
+            {
+              "ar": "بَرْنامَجُ رِحْلَةِ العُمْرَةِ",
+              "id": "Jadwal perjalanan umrah"
+            },
+            {
+              "ar": "الاِسْمُ: فاطِمَةُ",
+              "id": "Nama: Fatimah"
+            },
+            {
+              "ar": "المُرافِقَةُ: أُمُّها، الحاجَّةُ آمِنَةُ",
+              "id": "Pendamping: ibunya, Hajah Aminah"
+            },
+            {
+              "ar": "المُغادَرَةُ: مِنْ جاكَرْتا، يَوْمَ السَّبْتِ",
+              "id": "Keberangkatan: dari Jakarta, hari Sabtu"
+            },
+            {
+              "ar": "المَدِينَةُ المُنَوَّرَةُ: أَرْبَعَةُ أَيّامٍ",
+              "id": "Madinah: empat hari"
+            },
+            {
+              "ar": "مَكَّةُ المُكَرَّمَةُ: خَمْسَةُ أَيّامٍ",
+              "id": "Makkah: lima hari"
+            },
+            {
+              "ar": "الجَماعَةُ: سَبْعَةَ عَشَرَ مُعْتَمِرًا",
+              "id": "Rombongan: tujuh belas jemaah umrah"
+            },
+            {
+              "ar": "دَرْسُ المَناسِكِ: يَوْمَ الأَحَدِ فِي مَسْجِدِ الحَيِّ",
+              "id": "Kelas manasik: hari Ahad di masjid kompleks"
+            }
+          ],
+          "img": "u14-kartu-umrah",
+          "scene": "A printed umrah itinerary card lying on a wooden table in Bu Fatimah's house in Bandung, next to a passport, a prayer mat folded neatly, and a small batik-print travel bag; the card shows only blank lines, no readable text."
+        },
+        {
+          "q": "choice",
+          "k": "kartu-madinah",
+          "instruction": "Berapa hari rombongan di Madinah?",
+          "prompt": {
+            "id": "Menurut kartu"
+          },
+          "answer": "4 hari",
+          "options": [
+            "4 hari",
+            "5 hari",
+            "9 hari"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-pendamping",
+          "instruction": "Siapa pendamping Bu Fatimah?",
+          "prompt": {
+            "ar": "المُرافِقَةُ: …"
+          },
+          "answer": "Ibunya, Hajah Aminah",
+          "options": [
+            "Ibunya, Hajah Aminah",
+            "Suaminya, Pak Ahmad",
+            "Anaknya, Nur"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-jumlah",
+          "instruction": "Berapa orang dalam rombongan?",
+          "prompt": {
+            "ar": "سَبْعَةَ عَشَرَ مُعْتَمِرًا"
+          },
+          "answer": "17",
+          "options": [
+            "17",
+            "7",
+            "70"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-berangkat",
+          "instruction": "Dari kota mana rombongan berangkat?",
+          "prompt": {
+            "id": "Menurut kartu"
+          },
+          "answer": "Jakarta",
+          "options": [
+            "Jakarta",
+            "Bandung",
+            "Makassar"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-tawaf-sai",
+          "instruction": "Benar atau salah? \"Jemaah bersai antara Safa dan Marwah.\"",
+          "prompt": {
+            "ar": "يَسْعَى الحُجّاجُ بَيْنَ الصَّفا وَالمَرْوَةِ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kartu-makkah",
+          "instruction": "Berapa hari rombongan di Makkah?",
+          "prompt": {
+            "id": "Menurut kartu"
+          },
+          "answer": "5 hari",
+          "options": [
+            "5 hari",
+            "4 hari",
+            "15 hari"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-yaqifu",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "يَقِفُ الحُجّاجُ بِعَرَفَةَ."
+          },
+          "answer": "Jemaah haji berwukuf di Arafah.",
+          "options": [
+            "Jemaah haji berwukuf di Arafah.",
+            "Jemaah haji bermalam di Mina.",
+            "Jemaah haji bertawaf di Arafah."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kartu-hari",
+          "instruction": "Hari apa rombongan berangkat?",
+          "prompt": {
+            "id": "Menurut kartu"
+          },
+          "answer": "Sabtu",
+          "options": [
+            "Sabtu",
+            "Ahad",
+            "Jumat"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-rukun",
+          "instruction": "Benar atau salah? \"Haji adalah salah satu rukun Islam.\"",
+          "prompt": {
+            "ar": "الحَجُّ رُكْنٌ مِنْ أَرْكانِ الإِسْلامِ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis: imla'",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Kata-kata unit ini",
+          "instruction_id": "Telusuri katanya. Perhatikan huruf yang mirip bunyinya: ط/ت, ح/هـ, ء/ع, dan ي panjang pada مِيقاتٌ.",
+          "rows": [
+            {
+              "ar": "حَجٌّ",
+              "id": "haji"
+            },
+            {
+              "ar": "عُمْرَةٌ",
+              "id": "umrah"
+            },
+            {
+              "ar": "طَوافٌ",
+              "id": "tawaf"
+            },
+            {
+              "ar": "مِيقاتٌ",
+              "id": "miqat"
+            },
+            {
+              "ar": "دُعاءٌ",
+              "id": "doa"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "imla-tawaf",
+          "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "طَوافٌ"
+          },
+          "answer": "طَوافٌ",
+          "options": [
+            "طَوافٌ",
+            "تَوافٌ",
+            "طَوَفٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-miqat",
+          "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "مِيقاتٌ"
+          },
+          "answer": "مِيقاتٌ",
+          "options": [
+            "مِيقاتٌ",
+            "مِقاتٌ",
+            "مِيكاتٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-dua",
+          "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "دُعاءٌ"
+          },
+          "answer": "دُعاءٌ",
+          "options": [
+            "دُعاءٌ",
+            "ضُعاءٌ",
+            "دُعاةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-hajjah",
+          "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "حاجَّةٌ"
+          },
+          "answer": "حاجَّةٌ",
+          "options": [
+            "حاجَّةٌ",
+            "هاجَّةٌ",
+            "حَجَّةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "imla-eja-umrah",
+          "instruction": "Imla': dengarkan, lalu susun hurufnya",
+          "prompt": {
+            "listen": "عُمْرَةٌ"
+          },
+          "answer": "ع م ر ة",
+          "extra": [
+            "أ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-hajjat",
+          "instruction": "Imla': dengarkan, lalu susun kalimat yang kamu dengar",
+          "prompt": {
+            "listen": "مِنْ أَيْنَ حَجَّتْ جَدَّتُكَ؟"
+          },
+          "answer": "مِنْ أَيْنَ حَجَّتْ جَدَّتُكَ",
+          "extra": [
+            "إِلَى"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-rakatain",
+          "instruction": "Imla': dengarkan, lalu susun kalimat yang kamu dengar",
+          "prompt": {
+            "listen": "صَلاةُ الفَجْرِ رَكْعَتانِ."
+          },
+          "answer": "صَلاةُ الفَجْرِ رَكْعَتانِ",
+          "extra": [
+            "رَكْعَتَيْنِ"
+          ]
+        },
+        {
+          "card": "writing",
+          "section": "Menyusun kalimat",
+          "instruction_id": "Salin kalimat ini lengkap dengan harakatnya.",
+          "rows": [
+            {
+              "ar": "سافَرَتْ أُمِّي لِلْعُمْرَةِ.",
+              "id": "Ibuku berangkat umrah."
+            },
+            {
+              "ar": "الطَّوافُ سَبْعَةُ أَشْواطٍ.",
+              "id": "Tawaf itu tujuh putaran."
+            }
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-tawaf-sabah",
+          "prompt": {
+            "id": "Tawaf itu tujuh putaran."
+          },
+          "answer": "الطَّوافُ سَبْعَةُ أَشْواطٍ",
+          "extra": [
+            "سَبْعُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-tabda",
+          "prompt": {
+            "id": "Kita memulai umrah dengan ihram."
+          },
+          "answer": "نَبْدَأُ العُمْرَةَ بِالإِحْرامِ",
+          "extra": [
+            "بِالطَّوافِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-umrah-ummi",
+          "prompt": {
+            "id": "Salat sunah tawaf dua rakaat."
+          },
+          "answer": "صَلاةُ الطَّوافِ رَكْعَتانِ",
+          "extra": [
+            "رَكْعَتَيْنِ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-imla-kabah",
+          "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "الكَعْبَةُ"
+          },
+          "answer": "الكَعْبَةُ",
+          "options": [
+            "الكَعْبَةُ",
+            "القَعْبَةُ",
+            "الكَأْبَةُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-imla-mina",
+          "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "مِنًى"
+          },
+          "answer": "مِنًى",
+          "options": [
+            "مِنًى",
+            "مِينًى",
+            "مُنًى"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-imla-eja-sai",
+          "instruction": "Imla': dengarkan, lalu susun hurufnya",
+          "prompt": {
+            "listen": "سَعْيٌ"
+          },
+          "answer": "س ع ي",
+          "extra": [
+            "ص"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-imla-mata-safar",
+          "instruction": "Imla': dengarkan, lalu susun kalimat yang kamu dengar",
+          "prompt": {
+            "listen": "مَتَى السَّفَرُ؟"
+          },
+          "answer": "مَتَى السَّفَرُ",
+          "extra": [
+            "كَيْفَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-kalimat-syahrain",
+          "prompt": {
+            "id": "Liburanku dua hari."
+          },
+          "answer": "عُطْلَتِي يَوْمانِ",
+          "extra": [
+            "يَوْمَيْنِ"
+          ]
+        }
+      ]
+    }
+  ]
+}

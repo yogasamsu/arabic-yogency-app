@@ -1,0 +1,4869 @@
+{
+ "id": "j1u14",
+ "book": "1b",
+ "number": 14,
+ "title_ar": "الحَجُّ وَالعُمْرَةُ",
+ "title_id": "Haji dan umrah",
+ "lessons": [
+  {
+   "id": "j1u14-d1",
+   "dars": 1,
+   "title_id": "Orang tua Budi berumrah",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "أَهْلًا يا بُودِي! كَيْفَ كانَتْ عُطْلَتُكَ؟",
+        "id": "Halo, Budi! Bagaimana liburanmu? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/2ea50f001082a2d3.mp3"
+        }
+       },
+       {
+        "ar": "جَمِيلَةٌ، الحَمْدُ لِلّٰهِ. ذَهَبْتُ مَعَ أُسْرَتِي إِلَى مَطارِ سُورابايا.",
+        "id": "Menyenangkan, alhamdulillah. Aku pergi bersama keluargaku ke bandara Surabaya.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/b4f52c86f59d6590.mp3"
+        }
+       },
+       {
+        "ar": "إِلَى المَطارِ؟ لِماذا؟",
+        "id": "Ke bandara? Kenapa?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/1cf576452beb21e9.mp3"
+        }
+       },
+       {
+        "ar": "سافَرَ أَبِي وَأُمِّي إِلَى مَكَّةَ لِلْعُمْرَةِ.",
+        "id": "Ayah dan ibuku berangkat ke Makkah untuk umrah.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/697c297a11cbd24e.mp3"
+        }
+       },
+       {
+        "ar": "ما شاءَ اللّٰهُ! مَتَى رُجُوعُهُما؟",
+        "id": "Masyaallah! Kapan mereka pulang?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/39e9ef2fb0ba8ebd.mp3"
+        }
+       },
+       {
+        "ar": "بَعْدَ تِسْعَةِ أَيّامٍ، إِنْ شاءَ اللّٰهُ.",
+        "id": "Sembilan hari lagi, insyaallah.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/2b040c4a9e851d20.mp3"
+        }
+       },
+       {
+        "ar": "جَدَّتِي حاجَّةٌ. حَجَّتْ مِنْ ماكاسار.",
+        "id": "Nenekku seorang hajah. Dia berhaji dari Makassar.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/8ee19951e8fd3eb1.mp3"
+        }
+       },
+       {
+        "ar": "بارَكَ اللّٰهُ فِيها! وَأَنا أُرِيدُ أَنْ أَحُجَّ يَوْمًا ما.",
+        "id": "Semoga Allah memberkahinya! Aku juga ingin berhaji suatu hari nanti.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/1587d7dd138ace57.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u14-umrah-budi.webp"
+      ],
+      "instruction_id": "Senin pagi di asrama. Budi baru kembali dari Surabaya."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "كانَ · كانَتْ",
+        "id": "adalah / dulu (kata kerja lampau); كَيْفَ كانَتْ …؟ = bagaimana … (kemarin)?",
+        "emoji": "⏪",
+        "audio": {
+         "src": "/audio/o/aa8867f6b490894c.mp3"
+        }
+       },
+       {
+        "ar": "عُمْرَةٌ",
+        "id": "umrah · ★ umrah",
+        "emoji": "🕋",
+        "audio": {
+         "src": "/audio/o/629aaf32c9e3b614.mp3"
+        }
+       },
+       {
+        "ar": "حَجٌّ",
+        "id": "haji (ibadah) · ★ haji",
+        "emoji": "🕋",
+        "audio": {
+         "src": "/audio/o/6aa9724c1820fd91.mp3"
+        }
+       },
+       {
+        "ar": "حَجَّ – يَحُجُّ",
+        "id": "berhaji",
+        "emoji": "🧳",
+        "audio": {
+         "src": "/audio/o/0b35a904e8ff89a3.mp3"
+        }
+       },
+       {
+        "ar": "حاجٌّ · حاجَّةٌ",
+        "id": "orang yang sudah berhaji (lk · pr) · ★ haji · hajah",
+        "emoji": "🧕",
+        "audio": {
+         "src": "/audio/o/6f828e79cecbdfcc.mp3"
+        }
+       },
+       {
+        "ar": "مَكَّةُ",
+        "id": "Makkah",
+        "emoji": "🕌",
+        "audio": {
+         "src": "/audio/o/fd702151847c2fa7.mp3"
+        }
+       },
+       {
+        "ar": "رُجُوعٌ",
+        "id": "kepulangan",
+        "emoji": "🔙",
+        "audio": {
+         "src": "/audio/o/8562195a8b459ab9.mp3"
+        }
+       },
+       {
+        "ar": "ـهُما",
+        "id": "mereka berdua / milik mereka berdua",
+        "emoji": "👫",
+        "audio": {
+         "src": "/audio/o/d2f8c8d3d17e8307.mp3"
+        }
+       },
+       {
+        "ar": "يَوْمًا ما",
+        "id": "suatu hari nanti",
+        "emoji": "🌤️",
+        "audio": {
+         "src": "/audio/o/2df310bee788de3f.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d1-ortu-budi-umrah",
+      "instruction": "Menurut dialog, ke mana orang tua Budi pergi?",
+      "prompt": {
+       "ar": "أَبُو بُودِي وَأُمُّهُ …",
+       "audio": {
+        "src": "/audio/o/f9da008d0b0fa0a2.mp3"
+       }
+      },
+      "answer": "Ke Makkah untuk umrah",
+      "options": [
+       "Ke Makkah untuk umrah",
+       "Ke Makassar untuk bekerja",
+       "Ke Yogyakarta untuk berlibur"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d1-kaifa-utlah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "كَيْفَ كانَتْ عُطْلَتُكَ؟",
+       "audio": {
+        "src": "/audio/o/e783c96990eefd8a.mp3"
+       }
+      },
+      "answer": "Bagaimana liburanmu? (lk)",
+      "options": [
+       "Bagaimana liburanmu? (lk)",
+       "Kapan liburanmu? (lk)",
+       "Di mana liburanmu? (lk)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d1-dengar-mata-rujuu",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "مَتَى رُجُوعُهُما؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/89aaead4ccf2b6a9.mp3"
+       }
+      },
+      "answer": "Kapan mereka berdua pulang?",
+      "options": [
+       "Kapan mereka berdua pulang?",
+       "Kenapa mereka berdua pergi?",
+       "Naik apa mereka berdua pergi?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d1-ortu-budi-pulang",
+      "instruction": "Kapan orang tua Budi pulang?",
+      "prompt": {
+       "id": "Menurut dialog",
+       "emoji": "📅"
+      },
+      "answer": "Sembilan hari lagi",
+      "options": [
+       "Sembilan hari lagi",
+       "Tujuh hari lagi",
+       "Dua hari lagi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d1-siapa-hajah",
+      "instruction": "Siapa yang sudah berhaji dari Makassar?",
+      "prompt": {
+       "id": "Menurut dialog"
+      },
+      "answer": "Nenek Rizki",
+      "options": [
+       "Nenek Rizki",
+       "Ibu Budi",
+       "Ayah Rizki"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d1-balas-umrah",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "سافَرَ أَبِي إِلَى مَكَّةَ لِلْعُمْرَةِ.",
+       "audio": {
+        "src": "/audio/o/3913fdc410af62c2.mp3"
+       }
+      },
+      "answer": "ما شاءَ اللّٰهُ!",
+      "options": [
+       "ما شاءَ اللّٰهُ!",
+       "آسِفٌ.",
+       "عَفْوًا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ما شاءَ اللّٰهُ!": {
+        "src": "/audio/o/d5f765079cc22902.mp3"
+       },
+       "آسِفٌ.": {
+        "src": "/audio/o/f992eb53b44e661f.mp3"
+       },
+       "عَفْوًا.": {
+        "src": "/audio/o/c81ecbdc0111136d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d1-susun-jaddati-hajjah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Nenekku seorang hajah."
+      },
+      "answer": "جَدَّتِي حاجَّةٌ",
+      "tokens": [
+       "جَدَّتِي",
+       "حاجَّةٌ",
+       "حاجٌّ"
+      ],
+      "audioMap": {
+       "جَدَّتِي": {
+        "src": "/audio/o/545785a9c2ab06dd.mp3"
+       },
+       "حاجَّةٌ": {
+        "src": "/audio/o/dc4cc1bd6bc86643.mp3"
+       },
+       "حاجٌّ": {
+        "src": "/audio/o/1e308c1ee1e94194.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d1-susun-dzahabtu-mathar",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Aku pergi ke bandara."
+      },
+      "answer": "ذَهَبْتُ إِلَى المَطارِ",
+      "tokens": [
+       "ذَهَبْتُ",
+       "إِلَى",
+       "المَطارِ",
+       "فِي"
+      ],
+      "audioMap": {
+       "ذَهَبْتُ": {
+        "src": "/audio/o/db0fdc52507eaa75.mp3"
+       },
+       "إِلَى": {
+        "src": "/audio/o/57551989bbc39ffa.mp3"
+       },
+       "المَطارِ": {
+        "src": "/audio/o/63d640f85855de71.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d1-hajjah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "حاجَّةٌ",
+       "audio": {
+        "src": "/audio/o/dc4cc1bd6bc86643.mp3"
+       }
+      },
+      "answer": "perempuan yang sudah berhaji (hajah)",
+      "options": [
+       "perempuan yang sudah berhaji (hajah)",
+       "perjalanan umrah",
+       "nenek"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u14-d1-ucap-jaddati-hajjah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "جَدَّتِي حاجَّةٌ.",
+       "id": "Nenekku seorang hajah.",
+       "audio": {
+        "src": "/audio/o/078baed715e7c313.mp3"
+       }
+      },
+      "target": "جَدَّتِي حاجَّةٌ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u14-d1-lat-umrah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "عُمْرَةٌ",
+      "audio": {
+       "src": "/audio/o/629aaf32c9e3b614.mp3"
+      }
+     },
+     "answer": "umrah",
+     "options": [
+      "umrah",
+      "haji",
+      "bandara"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d1-lat-dengar-jaddati",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "جَدَّتِي حاجَّةٌ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/7125d4224bd5d585.mp3"
+      }
+     },
+     "answer": "جَدَّتِي حاجَّةٌ.",
+     "options": [
+      "جَدَّتِي حاجَّةٌ.",
+      "جَدِّي حاجٌّ.",
+      "أُمِّي حاجَّةٌ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "جَدَّتِي حاجَّةٌ.": {
+       "src": "/audio/o/7125d4224bd5d585.mp3"
+      },
+      "جَدِّي حاجٌّ.": {
+       "src": "/audio/o/d9503bb0057ff7ef.mp3"
+      },
+      "أُمِّي حاجَّةٌ.": {
+       "src": "/audio/o/c8e745cc835447d8.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u14-d1-lat-susun-mata",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kapan mereka berdua pulang?"
+     },
+     "answer": "مَتَى رُجُوعُهُما",
+     "tokens": [
+      "مَتَى",
+      "رُجُوعُهُما",
+      "كَيْفَ"
+     ],
+     "audioMap": {
+      "مَتَى": {
+       "src": "/audio/o/b914cba783c69620.mp3"
+      },
+      "رُجُوعُهُما": {
+       "src": "/audio/o/410d23d0c1c42a29.mp3"
+      },
+      "كَيْفَ": {
+       "src": "/audio/o/917bb58b886deaa6.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d1-lat-budi-bandara",
+     "instruction": "Budi pergi ke bandara bersama siapa?",
+     "prompt": {
+      "id": "Menurut dialog"
+     },
+     "answer": "Bersama keluarganya",
+     "options": [
+      "Bersama keluarganya",
+      "Bersama Rizki",
+      "Sendirian"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d1-lat-hajjat-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "حَجَّتْ مِنْ ماكاسار.",
+      "audio": {
+       "src": "/audio/o/a248ad59a68c779a.mp3"
+      }
+     },
+     "answer": "Dia (pr) berhaji dari Makassar.",
+     "options": [
+      "Dia (pr) berhaji dari Makassar.",
+      "Dia (lk) berhaji dari Makassar.",
+      "Dia (pr) tinggal di Makassar."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u14-d2",
+   "dars": 2,
+   "title_id": "Foto haji Nenek",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا جَدَّتِي، مَنْ هٰذِهِ فِي الصُّورَةِ؟",
+        "id": "Nek, siapa ini di foto?",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/4beb0ade5d269a24.mp3"
+        }
+       },
+       {
+        "ar": "أَنا يا نُورُ! هٰذِهِ صُورَتِي فِي مَكَّةَ.",
+        "id": "Itu Nenek, Nur! Ini foto Nenek di Makkah.",
+        "speaker_ar": "الجَدَّةُ آمِنَة",
+        "audio": {
+         "src": "/audio/o/de81230f1671a320.mp3"
+        }
+       },
+       {
+        "ar": "مَتَى حَجَجْتِ يا جَدَّتِي؟",
+        "id": "Kapan Nenek berhaji?",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/5fd9bf5183c2ff41.mp3"
+        }
+       },
+       {
+        "ar": "قَبْلَ عَشْرِ سَنَواتٍ، مَعَ جَدِّكِ عُمَرَ.",
+        "id": "Sepuluh tahun lalu, bersama kakekmu, Umar.",
+        "speaker_ar": "الجَدَّةُ آمِنَة",
+        "audio": {
+         "src": "/audio/o/edaadf457e5c3f17.mp3"
+        }
+       },
+       {
+        "ar": "بِمَ سافَرْتِ إِلَى مَكَّةَ؟",
+        "id": "Nenek ke Makkah naik apa?",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/790da6a55c60887c.mp3"
+        }
+       },
+       {
+        "ar": "بِالطّائِرَةِ، مِنْ ماكاسار إِلَى جُدَّةَ.",
+        "id": "Naik pesawat, dari Makassar ke Jeddah.",
+        "speaker_ar": "الجَدَّةُ آمِنَة",
+        "audio": {
+         "src": "/audio/o/e7ae67719c977253.mp3"
+        }
+       },
+       {
+        "ar": "وَماذا فَعَلْتِ هُناكَ؟",
+        "id": "Lalu apa yang Nenek lakukan di sana?",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/d2528ad2f5a0f65d.mp3"
+        }
+       },
+       {
+        "ar": "طُفْتُ حَوْلَ الكَعْبَةِ، وَوَقَفْتُ بِعَرَفَةَ. كُنْتُ فَرِحَةً جِدًّا!",
+        "id": "Nenek bertawaf mengelilingi Ka'bah dan berwukuf di Arafah. Nenek sangat gembira!",
+        "speaker_ar": "الجَدَّةُ آمِنَة",
+        "audio": {
+         "src": "/audio/o/5713035dde473d09.mp3"
+        }
+       },
+       {
+        "ar": "ما أَجْمَلَ ذٰلِكَ! أُرِيدُ أَنْ أَحُجَّ مِثْلَكِ.",
+        "id": "Indah sekali! Aku ingin berhaji seperti Nenek.",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/31d204bc93a929c5.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u14-foto-nenek.webp"
+      ],
+      "instruction_id": "Nenek Aminah datang dari Makassar ke Bandung. Nur menemukan foto lama Nenek."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "قَبْلَ",
+        "id": "sebelum; قَبْلَ عَشْرِ سَنَواتٍ = sepuluh tahun lalu",
+        "emoji": "⏮️",
+        "audio": {
+         "src": "/audio/o/f0e56895e35dd81f.mp3"
+        }
+       },
+       {
+        "ar": "سَنَةٌ ← سَنَواتٌ",
+        "id": "tahun → tahun-tahun",
+        "emoji": "📆",
+        "audio": {
+         "src": "/audio/o/811b95aaebe278fe.mp3"
+        }
+       },
+       {
+        "ar": "بِمَ؟",
+        "id": "dengan apa? naik apa?",
+        "emoji": "❓",
+        "audio": {
+         "src": "/audio/o/ff9576a4b934c85c.mp3"
+        }
+       },
+       {
+        "ar": "جُدَّةُ",
+        "id": "Jeddah (kota di Arab Saudi)",
+        "emoji": "🛬",
+        "audio": {
+         "src": "/audio/o/17801e9c146c9a22.mp3"
+        }
+       },
+       {
+        "ar": "طافَ – يَطُوفُ",
+        "id": "bertawaf",
+        "emoji": "🔄",
+        "audio": {
+         "src": "/audio/o/e85fd76cbff4ecf3.mp3"
+        }
+       },
+       {
+        "ar": "حَوْلَ",
+        "id": "di sekeliling",
+        "emoji": "⭕",
+        "audio": {
+         "src": "/audio/o/29389e1faf938097.mp3"
+        }
+       },
+       {
+        "ar": "الكَعْبَةُ",
+        "id": "Ka'bah · ★ Kakbah",
+        "emoji": "🕋",
+        "audio": {
+         "src": "/audio/o/da13867a109bf623.mp3"
+        }
+       },
+       {
+        "ar": "وَقَفَ بِعَرَفَةَ",
+        "id": "berwukuf di Arafah",
+        "emoji": "⛰️",
+        "audio": {
+         "src": "/audio/o/18768e4336207fd8.mp3"
+        }
+       },
+       {
+        "ar": "فَرِحٌ · فَرِحَةٌ",
+        "id": "gembira (lk · pr)",
+        "emoji": "😊",
+        "audio": {
+         "src": "/audio/o/43a58ecd175c6388.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d2-nenek-kapan",
+      "instruction": "Kapan Nenek Aminah berhaji?",
+      "prompt": {
+       "id": "Menurut dialog"
+      },
+      "answer": "Sepuluh tahun lalu",
+      "options": [
+       "Sepuluh tahun lalu",
+       "Dua tahun lalu",
+       "Tiga tahun lalu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d2-nenek-naik-apa",
+      "instruction": "Nenek Aminah ke Makkah naik apa?",
+      "prompt": {
+       "id": "Menurut dialog"
+      },
+      "answer": "Pesawat",
+      "options": [
+       "Pesawat",
+       "Kapal laut",
+       "Bus"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d2-dengar-bima",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "بِمَ سافَرْتِ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/c397a62a7ed41df9.mp3"
+       }
+      },
+      "answer": "Kamu (pr) bepergian naik apa?",
+      "options": [
+       "Kamu (pr) bepergian naik apa?",
+       "Kapan kamu (pr) bepergian?",
+       "Dengan siapa kamu (pr) bepergian?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d2-balas-bima",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "بِمَ سافَرْتِ إِلَى مَكَّةَ؟",
+       "audio": {
+        "src": "/audio/o/efeab5337a5d24e4.mp3"
+       }
+      },
+      "answer": "بِالطّائِرَةِ.",
+      "options": [
+       "بِالطّائِرَةِ.",
+       "قَبْلَ عَشْرِ سَنَواتٍ.",
+       "مَعَ جَدِّكِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بِالطّائِرَةِ.": {
+        "src": "/audio/o/3e495a34cf7a77d5.mp3"
+       },
+       "قَبْلَ عَشْرِ سَنَواتٍ.": {
+        "src": "/audio/o/cc7001961b113fdd.mp3"
+       },
+       "مَعَ جَدِّكِ.": {
+        "src": "/audio/o/a5746bf719638982.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d2-balas-mata-hajajti",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "مَتَى حَجَجْتِ؟",
+       "audio": {
+        "src": "/audio/o/1f4b518025297d72.mp3"
+       }
+      },
+      "answer": "قَبْلَ عَشْرِ سَنَواتٍ.",
+      "options": [
+       "قَبْلَ عَشْرِ سَنَواتٍ.",
+       "بِالطّائِرَةِ.",
+       "فِي مَكَّةَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَبْلَ عَشْرِ سَنَواتٍ.": {
+        "src": "/audio/o/cc7001961b113fdd.mp3"
+       },
+       "بِالطّائِرَةِ.": {
+        "src": "/audio/o/3e495a34cf7a77d5.mp3"
+       },
+       "فِي مَكَّةَ.": {
+        "src": "/audio/o/1a4fdf79b27c15c9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d2-tuftu-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "طُفْتُ حَوْلَ الكَعْبَةِ.",
+       "audio": {
+        "src": "/audio/o/387a42407cc7c229.mp3"
+       }
+      },
+      "answer": "Saya bertawaf mengelilingi Ka'bah.",
+      "options": [
+       "Saya bertawaf mengelilingi Ka'bah.",
+       "Saya berwukuf di Arafah.",
+       "Saya berangkat ke Jeddah."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d2-nenek-perasaan",
+      "instruction": "Bagaimana perasaan Nenek saat berhaji?",
+      "prompt": {
+       "ar": "كُنْتُ فَرِحَةً جِدًّا!",
+       "audio": {
+        "src": "/audio/o/0ed8f9ae911b976d.mp3"
+       }
+      },
+      "answer": "Sangat gembira",
+      "options": [
+       "Sangat gembira",
+       "Sangat lapar",
+       "Agak sakit"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d2-susun-bittairah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Nenek ke Makkah naik apa?"
+      },
+      "answer": "بِمَ سافَرْتِ إِلَى مَكَّةَ",
+      "tokens": [
+       "بِمَ",
+       "سافَرْتِ",
+       "إِلَى",
+       "مَكَّةَ",
+       "مَتَى"
+      ],
+      "audioMap": {
+       "بِمَ": {
+        "src": "/audio/o/25e6fc99aaef12fc.mp3"
+       },
+       "سافَرْتِ": {
+        "src": "/audio/o/c89a3968a1efdbfa.mp3"
+       },
+       "إِلَى": {
+        "src": "/audio/o/57551989bbc39ffa.mp3"
+       },
+       "مَكَّةَ": {
+        "src": "/audio/o/e781bda060f738ec.mp3"
+       },
+       "مَتَى": {
+        "src": "/audio/o/b914cba783c69620.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d2-susun-fariha",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya sangat gembira. (pr)"
+      },
+      "answer": "كُنْتُ فَرِحَةً جِدًّا",
+      "tokens": [
+       "كُنْتُ",
+       "فَرِحَةً",
+       "جِدًّا",
+       "فَرِحًا"
+      ],
+      "audioMap": {
+       "كُنْتُ": {
+        "src": "/audio/o/b7ed7776e21a0c3b.mp3"
+       },
+       "فَرِحَةً": {
+        "src": "/audio/o/e19245bbe26eeced.mp3"
+       },
+       "جِدًّا": {
+        "src": "/audio/o/289762e6e341cd79.mp3"
+       },
+       "فَرِحًا": {
+        "src": "/audio/o/cb1d5dc5f5d0f1ec.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u14-d2-lat-qabla-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "قَبْلَ عَشْرِ سَنَواتٍ",
+      "audio": {
+       "src": "/audio/o/36e02617fa9d6956.mp3"
+      }
+     },
+     "answer": "sepuluh tahun lalu",
+     "options": [
+      "sepuluh tahun lalu",
+      "sepuluh tahun lagi",
+      "sepuluh hari lalu"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d2-lat-dengar-wuquf",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "وَقَفْتُ بِعَرَفَةَ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/8d28ca31b4377249.mp3"
+      }
+     },
+     "answer": "وَقَفْتُ بِعَرَفَةَ.",
+     "options": [
+      "وَقَفْتُ بِعَرَفَةَ.",
+      "طُفْتُ حَوْلَ الكَعْبَةِ.",
+      "سافَرْتُ إِلَى جُدَّةَ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "وَقَفْتُ بِعَرَفَةَ.": {
+       "src": "/audio/o/8d28ca31b4377249.mp3"
+      },
+      "طُفْتُ حَوْلَ الكَعْبَةِ.": {
+       "src": "/audio/o/387a42407cc7c229.mp3"
+      },
+      "سافَرْتُ إِلَى جُدَّةَ.": {
+       "src": "/audio/o/72bbb75a19a47ab4.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u14-d2-lat-susun-mata-hajajti",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kapan nenekmu berhaji? (kepada anak pr)"
+     },
+     "answer": "مَتَى حَجَّتْ جَدَّتُكِ",
+     "tokens": [
+      "مَتَى",
+      "حَجَّتْ",
+      "جَدَّتُكِ",
+      "بِمَ"
+     ],
+     "audioMap": {
+      "مَتَى": {
+       "src": "/audio/o/b914cba783c69620.mp3"
+      },
+      "حَجَّتْ": {
+       "src": "/audio/o/2a4a4946066ff195.mp3"
+      },
+      "جَدَّتُكِ": {
+       "src": "/audio/o/e6ff3ebbbd26a032.mp3"
+      },
+      "بِمَ": {
+       "src": "/audio/o/25e6fc99aaef12fc.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d2-lat-nenek-bersama",
+     "instruction": "Nenek Aminah berhaji bersama siapa?",
+     "prompt": {
+      "id": "Menurut dialog"
+     },
+     "answer": "Kakek Umar",
+     "options": [
+      "Kakek Umar",
+      "Bu Fatimah",
+      "Nur"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d2-lat-farih-pr",
+     "instruction": "Kata \"gembira\" untuk perempuan adalah …",
+     "prompt": {
+      "id": "gembira (pr)"
+     },
+     "answer": "فَرِحَةٌ",
+     "options": [
+      "فَرِحَةٌ",
+      "فَرِحٌ",
+      "جَمِيلَةٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "فَرِحَةٌ": {
+       "src": "/audio/o/7a7890676847b2a5.mp3"
+      },
+      "فَرِحٌ": {
+       "src": "/audio/o/45ce42e8b1b3c449.mp3"
+      },
+      "جَمِيلَةٌ": {
+       "src": "/audio/o/6e249705196e5041.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u14-d3",
+   "dars": 3,
+   "title_id": "Rencana umrah Ibu",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا أَبا رِزْقِي، أُرِيدُ أَنْ أَعْتَمِرَ مَعَ أُمِّي.",
+        "id": "Yah, aku ingin berumrah bersama ibuku.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/1efadc60beed03df.mp3"
+        }
+       },
+       {
+        "ar": "فِكْرَةٌ جَمِيلَةٌ! مَتَى السَّفَرُ؟",
+        "id": "Ide bagus! Kapan berangkatnya?",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/ddb8652af3da5cff.mp3"
+        }
+       },
+       {
+        "ar": "بَعْدَ شَهْرَيْنِ، إِنْ شاءَ اللّٰهُ.",
+        "id": "Dua bulan lagi, insyaallah.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/c7849aab06fb6a23.mp3"
+        }
+       },
+       {
+        "ar": "كَمْ يَوْمًا الرِّحْلَةُ؟",
+        "id": "Berapa hari perjalanannya?",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/5edd68691dc248aa.mp3"
+        }
+       },
+       {
+        "ar": "تِسْعَةُ أَيّامٍ، فِي المَدِينَةِ وَمَكَّةَ.",
+        "id": "Sembilan hari, di Madinah dan Makkah.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/a073844f0196d053.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ تَعْرِفِينَ المَناسِكَ؟",
+        "id": "Kamu sudah tahu manasiknya? (pr)",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/314983ff95a486d8.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، نَدْرُسُها فِي مَسْجِدِ الحَيِّ يَوْمَ الأَحَدِ.",
+        "id": "Ya, kami mempelajarinya di masjid kompleks pada hari Ahad.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/026483764db8ef50.mp3"
+        }
+       },
+       {
+        "ar": "بِمَ تَبْدَأُ العُمْرَةُ؟",
+        "id": "Umrah dimulai dengan apa?",
+        "speaker_ar": "أَحْمَد",
+        "audio": {
+         "src": "/audio/o/bb0bcd30500feacb.mp3"
+        }
+       },
+       {
+        "ar": "بِالإِحْرامِ مِنَ المِيقاتِ، ثُمَّ الطَّوافِ وَالسَّعْيِ.",
+        "id": "Dengan ihram dari miqat, lalu tawaf dan sai.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/57efcceb09dc70e0.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u14-rencana-umrah.webp"
+      ],
+      "instruction_id": "Malam hari di rumah Bandung. Bu Fatimah punya rencana."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "يا أَبا رِزْقِي",
+        "id": "wahai ayah Rizki (sapaan istri kepada suami: \"Yah\")",
+        "audio": {
+         "src": "/audio/o/2e88b94e9ec3192b.mp3"
+        }
+       },
+       {
+        "ar": "اِعْتَمَرَ – يَعْتَمِرُ",
+        "id": "berumrah",
+        "emoji": "🕋",
+        "audio": {
+         "src": "/audio/o/e684f57632910368.mp3"
+        }
+       },
+       {
+        "ar": "شَهْرٌ ← شَهْرانِ · شَهْرَيْنِ",
+        "id": "satu bulan → dua bulan",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/8ac74762ea0f52a6.mp3"
+        }
+       },
+       {
+        "ar": "مَناسِكُ",
+        "id": "manasik (tata cara haji dan umrah) · ★ manasik",
+        "emoji": "📖",
+        "audio": {
+         "src": "/audio/o/f6e83850f41a2796.mp3"
+        }
+       },
+       {
+        "ar": "الحَيُّ",
+        "id": "kompleks perumahan, kampung",
+        "emoji": "🏘️",
+        "audio": {
+         "src": "/audio/o/028146e25af58a5d.mp3"
+        }
+       },
+       {
+        "ar": "عَرَفَ – يَعْرِفُ",
+        "id": "tahu, mengenal",
+        "emoji": "🧠",
+        "audio": {
+         "src": "/audio/o/854d8c270a666e8e.mp3"
+        }
+       },
+       {
+        "ar": "بَدَأَ – يَبْدَأُ",
+        "id": "mulai, dimulai",
+        "emoji": "▶️",
+        "audio": {
+         "src": "/audio/o/7a5323717fd8d132.mp3"
+        }
+       },
+       {
+        "ar": "الإِحْرامُ",
+        "id": "ihram · ★ ihram",
+        "emoji": "⚪",
+        "audio": {
+         "src": "/audio/o/5f6b42607192d294.mp3"
+        }
+       },
+       {
+        "ar": "المِيقاتُ",
+        "id": "miqat (tempat mulai berihram) · ★ mikat",
+        "emoji": "📍",
+        "audio": {
+         "src": "/audio/o/63334012597f1423.mp3"
+        }
+       },
+       {
+        "ar": "الطَّوافُ",
+        "id": "tawaf (mengelilingi Ka'bah) · ★ tawaf",
+        "emoji": "🔄",
+        "audio": {
+         "src": "/audio/o/a7d952a08ca627d2.mp3"
+        }
+       },
+       {
+        "ar": "السَّعْيُ",
+        "id": "sai (berjalan antara Safa dan Marwah) · ★ sai",
+        "emoji": "🚶",
+        "audio": {
+         "src": "/audio/o/62572731845f1a84.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d3-fatimah-kapan",
+      "instruction": "Kapan Bu Fatimah berangkat umrah?",
+      "prompt": {
+       "id": "Menurut dialog"
+      },
+      "answer": "Dua bulan lagi",
+      "options": [
+       "Dua bulan lagi",
+       "Dua minggu lagi",
+       "Sembilan hari lagi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d3-fatimah-berapa-hari",
+      "instruction": "Berapa hari perjalanan umrahnya?",
+      "prompt": {
+       "ar": "كَمْ يَوْمًا الرِّحْلَةُ؟",
+       "audio": {
+        "src": "/audio/o/9463712763671ffd.mp3"
+       }
+      },
+      "answer": "9 hari",
+      "options": [
+       "9 hari",
+       "2 hari",
+       "10 hari"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d3-fatimah-bersama",
+      "instruction": "Bu Fatimah ingin berumrah bersama siapa?",
+      "prompt": {
+       "ar": "أُرِيدُ أَنْ أَعْتَمِرَ مَعَ أُمِّي.",
+       "audio": {
+        "src": "/audio/o/c4d01f1569e66404.mp3"
+       }
+      },
+      "answer": "Ibunya (Nenek Aminah)",
+      "options": [
+       "Ibunya (Nenek Aminah)",
+       "Pak Ahmad",
+       "Nur"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d3-dengar-mata-safar",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "مَتَى السَّفَرُ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/31dbb1074ea205b2.mp3"
+       }
+      },
+      "answer": "Kapan berangkatnya?",
+      "options": [
+       "Kapan berangkatnya?",
+       "Naik apa berangkatnya?",
+       "Berapa hari perjalanannya?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d3-bima-tabda",
+      "instruction": "Pilih jawaban yang benar",
+      "prompt": {
+       "ar": "بِمَ تَبْدَأُ العُمْرَةُ؟",
+       "audio": {
+        "src": "/audio/o/db0d11397568dba8.mp3"
+       }
+      },
+      "answer": "بِالإِحْرامِ.",
+      "options": [
+       "بِالإِحْرامِ.",
+       "بِالسَّعْيِ.",
+       "بِالطَّوافِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بِالإِحْرامِ.": {
+        "src": "/audio/o/e45b9206a864411b.mp3"
+       },
+       "بِالسَّعْيِ.": {
+        "src": "/audio/o/2b6e6f3203f13c43.mp3"
+       },
+       "بِالطَّوافِ.": {
+        "src": "/audio/o/937b6267ef0036a5.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d3-manasik-di-mana",
+      "instruction": "Di mana Bu Fatimah belajar manasik?",
+      "prompt": {
+       "id": "Menurut dialog"
+      },
+      "answer": "Di masjid kompleks",
+      "options": [
+       "Di masjid kompleks",
+       "Di ma'had",
+       "Di puskesmas"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d3-susun-syahrain",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Dua bulan lagi."
+      },
+      "answer": "بَعْدَ شَهْرَيْنِ",
+      "tokens": [
+       "بَعْدَ",
+       "شَهْرَيْنِ",
+       "شَهْرانِ"
+      ],
+      "audioMap": {
+       "بَعْدَ": {
+        "src": "/audio/o/b59d5ee3004036b3.mp3"
+       },
+       "شَهْرَيْنِ": {
+        "src": "/audio/o/b8006394ae3ccba5.mp3"
+       },
+       "شَهْرانِ": {
+        "src": "/audio/o/a9dc7b169819d7ce.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d3-susun-tisah-ayyam",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Perjalanannya sembilan hari."
+      },
+      "answer": "الرِّحْلَةُ تِسْعَةُ أَيّامٍ",
+      "tokens": [
+       "الرِّحْلَةُ",
+       "تِسْعَةُ",
+       "أَيّامٍ",
+       "تِسْعُ"
+      ],
+      "audioMap": {
+       "الرِّحْلَةُ": {
+        "src": "/audio/o/34e2e0e93826cabc.mp3"
+       },
+       "تِسْعَةُ": {
+        "src": "/audio/o/a69d6d6cb9bf308c.mp3"
+       },
+       "أَيّامٍ": {
+        "src": "/audio/o/d9dae5c01e5fa4d3.mp3"
+       },
+       "تِسْعُ": {
+        "src": "/audio/o/944dc87db92095a1.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d3-miqat-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "المِيقاتُ",
+       "audio": {
+        "src": "/audio/o/63334012597f1423.mp3"
+       }
+      },
+      "answer": "tempat mulai berihram",
+      "options": [
+       "tempat mulai berihram",
+       "pakaian ihram",
+       "bukit di Makkah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u14-d3-ucap-bil-ihram",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "بِالإِحْرامِ مِنَ المِيقاتِ.",
+       "id": "Dengan ihram dari miqat.",
+       "audio": {
+        "src": "/audio/o/fbf5dacd54a45248.mp3"
+       }
+      },
+      "target": "بِالإِحْرامِ مِنَ المِيقاتِ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u14-d3-lat-fikrah-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "فِكْرَةٌ جَمِيلَةٌ!",
+      "audio": {
+       "src": "/audio/o/f3744c313ac055fe.mp3"
+      }
+     },
+     "answer": "Ide bagus!",
+     "options": [
+      "Ide bagus!",
+      "Foto bagus!",
+      "Perjalanan yang indah!"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d3-lat-dengar-bima-tabda",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "بِمَ تَبْدَأُ العُمْرَةُ؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/db0d11397568dba8.mp3"
+      }
+     },
+     "answer": "بِمَ تَبْدَأُ العُمْرَةُ؟",
+     "options": [
+      "بِمَ تَبْدَأُ العُمْرَةُ؟",
+      "مَتَى تَبْدَأُ العُمْرَةُ؟",
+      "كَيْفَ تَبْدَأُ العُمْرَةُ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "بِمَ تَبْدَأُ العُمْرَةُ؟": {
+       "src": "/audio/o/db0d11397568dba8.mp3"
+      },
+      "مَتَى تَبْدَأُ العُمْرَةُ؟": {
+       "src": "/audio/o/b83cc42f243d7922.mp3"
+      },
+      "كَيْفَ تَبْدَأُ العُمْرَةُ؟": {
+       "src": "/audio/o/2367cd0994b5ac12.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d3-lat-urutan-umrah",
+     "instruction": "Menurut Bu Fatimah, apa urutan awal umrah?",
+     "prompt": {
+      "id": "Pilih urutan yang benar"
+     },
+     "answer": "Ihram → tawaf → sai",
+     "options": [
+      "Ihram → tawaf → sai",
+      "Tawaf → ihram → sai",
+      "Sai → tawaf → ihram"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u14-d3-lat-susun-tarifina",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Apakah kamu tahu manasiknya? (pr)"
+     },
+     "answer": "هَلْ تَعْرِفِينَ المَناسِكَ",
+     "tokens": [
+      "هَلْ",
+      "تَعْرِفِينَ",
+      "المَناسِكَ",
+      "تَعْرِفُ"
+     ],
+     "audioMap": {
+      "هَلْ": {
+       "src": "/audio/o/88964434a18c7513.mp3"
+      },
+      "تَعْرِفِينَ": {
+       "src": "/audio/o/4334ff3be8bf5c7c.mp3"
+      },
+      "المَناسِكَ": {
+       "src": "/audio/o/4970b09b3e4ccdbc.mp3"
+      },
+      "تَعْرِفُ": {
+       "src": "/audio/o/b97673d42012b736.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d3-lat-hari-manasik",
+     "instruction": "Hari apa kelas manasik di masjid kompleks?",
+     "prompt": {
+      "id": "Menurut dialog"
+     },
+     "answer": "Ahad",
+     "options": [
+      "Ahad",
+      "Jumat",
+      "Senin"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u14-d4",
+   "dars": 4,
+   "title_id": "Kosakata & angka 11–19",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "حَجٌّ",
+        "id": "haji · ★ haji",
+        "emoji": "🕋",
+        "audio": {
+         "src": "/audio/o/6aa9724c1820fd91.mp3"
+        }
+       },
+       {
+        "ar": "عُمْرَةٌ",
+        "id": "umrah · ★ umrah",
+        "emoji": "🕋",
+        "audio": {
+         "src": "/audio/o/629aaf32c9e3b614.mp3"
+        }
+       },
+       {
+        "ar": "إِحْرامٌ",
+        "id": "ihram · ★ ihram",
+        "emoji": "⚪",
+        "audio": {
+         "src": "/audio/o/7338f94a5ff2b4da.mp3"
+        }
+       },
+       {
+        "ar": "طَوافٌ",
+        "id": "tawaf · ★ tawaf",
+        "emoji": "🔄",
+        "audio": {
+         "src": "/audio/o/7c66640a4f8d5878.mp3"
+        }
+       },
+       {
+        "ar": "سَعْيٌ",
+        "id": "sai · ★ sai",
+        "emoji": "🚶",
+        "audio": {
+         "src": "/audio/o/6a57cc14ee938f8f.mp3"
+        }
+       },
+       {
+        "ar": "مِيقاتٌ",
+        "id": "miqat · ★ mikat",
+        "emoji": "📍",
+        "audio": {
+         "src": "/audio/o/4cf649357ccee876.mp3"
+        }
+       },
+       {
+        "ar": "دُعاءٌ",
+        "id": "doa · ★ doa",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/44edb4f8b8ad1dc5.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Ibadah haji dan umrah"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "الكَعْبَةُ",
+        "id": "Ka'bah · ★ Kakbah",
+        "emoji": "🕋",
+        "audio": {
+         "src": "/audio/o/da13867a109bf623.mp3"
+        }
+       },
+       {
+        "ar": "عَرَفَةُ",
+        "id": "Arafah",
+        "emoji": "⛰️",
+        "audio": {
+         "src": "/audio/o/c10fcae7a70f3db2.mp3"
+        }
+       },
+       {
+        "ar": "مُزْدَلِفَةُ",
+        "id": "Muzdalifah",
+        "emoji": "🌙",
+        "audio": {
+         "src": "/audio/o/7ab2151937b3dbaa.mp3"
+        }
+       },
+       {
+        "ar": "مِنًى",
+        "id": "Mina",
+        "emoji": "⛺",
+        "audio": {
+         "src": "/audio/o/597d383d3d7c674f.mp3"
+        }
+       },
+       {
+        "ar": "حاجٌّ · حاجَّةٌ",
+        "id": "orang yang berhaji (lk · pr) · ★ haji · hajah",
+        "emoji": "🧕",
+        "audio": {
+         "src": "/audio/o/6f828e79cecbdfcc.mp3"
+        }
+       },
+       {
+        "ar": "حُجّاجٌ",
+        "id": "para jemaah haji, orang-orang yang berhaji (jamak حاجٌّ)",
+        "emoji": "👥",
+        "audio": {
+         "src": "/audio/o/94a12b3268caddfb.mp3"
+        }
+       },
+       {
+        "ar": "جَماعَةٌ",
+        "id": "rombongan, kelompok · ★ jemaah",
+        "emoji": "👥",
+        "audio": {
+         "src": "/audio/o/0b47ffe1cbd6ca6d.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Tempat dan orang"
+      },
+      "note_id": "\"Jemaah haji\" (orang-orangnya) dalam bahasa Arab adalah الحُجّاجُ. جَماعَةٌ berarti satu rombongan atau kelompok, misalnya rombongan umrah Bu Fatimah."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "أَحَدَ عَشَرَ",
+        "id": "sebelas (11)",
+        "audio": {
+         "src": "/audio/o/ae8467b5376bcefb.mp3"
+        }
+       },
+       {
+        "ar": "اِثْنا عَشَرَ",
+        "id": "dua belas (12)",
+        "audio": {
+         "src": "/audio/o/9cc36c89c8b95aa3.mp3"
+        }
+       },
+       {
+        "ar": "ثَلاثَةَ عَشَرَ",
+        "id": "tiga belas (13)",
+        "audio": {
+         "src": "/audio/o/383abf7624493615.mp3"
+        }
+       },
+       {
+        "ar": "أَرْبَعَةَ عَشَرَ",
+        "id": "empat belas (14)",
+        "audio": {
+         "src": "/audio/o/188c0266666ed8d0.mp3"
+        }
+       },
+       {
+        "ar": "خَمْسَةَ عَشَرَ",
+        "id": "lima belas (15)",
+        "audio": {
+         "src": "/audio/o/5a066696bef04bcd.mp3"
+        }
+       },
+       {
+        "ar": "سِتَّةَ عَشَرَ",
+        "id": "enam belas (16)",
+        "audio": {
+         "src": "/audio/o/f6c989fc4ffbee7d.mp3"
+        }
+       },
+       {
+        "ar": "سَبْعَةَ عَشَرَ",
+        "id": "tujuh belas (17)",
+        "audio": {
+         "src": "/audio/o/f0e8a595ca1c2959.mp3"
+        }
+       },
+       {
+        "ar": "ثَمانِيَةَ عَشَرَ",
+        "id": "delapan belas (18)",
+        "audio": {
+         "src": "/audio/o/3b3b68f54284e10b.mp3"
+        }
+       },
+       {
+        "ar": "تِسْعَةَ عَشَرَ",
+        "id": "sembilan belas (19)",
+        "audio": {
+         "src": "/audio/o/762a1d440ed7b4dc.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Angka 11–19"
+      },
+      "note_id": "Dua kata, keduanya berharakat fathah di akhir (kecuali اِثْنا عَشَرَ)."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-gambar-kabah",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🕋"
+      },
+      "answer": "الكَعْبَةُ",
+      "options": [
+       "الكَعْبَةُ",
+       "عَرَفَةُ",
+       "مِنًى"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "الكَعْبَةُ": {
+        "src": "/audio/o/da13867a109bf623.mp3"
+       },
+       "عَرَفَةُ": {
+        "src": "/audio/o/c10fcae7a70f3db2.mp3"
+       },
+       "مِنًى": {
+        "src": "/audio/o/597d383d3d7c674f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-dua-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "دُعاءٌ",
+       "audio": {
+        "src": "/audio/o/44edb4f8b8ad1dc5.mp3"
+       }
+      },
+      "answer": "doa",
+      "options": [
+       "doa",
+       "tawaf",
+       "jemaah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-tawaf-definisi",
+      "instruction": "Mengelilingi Ka'bah disebut …",
+      "prompt": {
+       "id": "mengelilingi Ka'bah",
+       "emoji": "🔄"
+      },
+      "answer": "طَوافٌ",
+      "options": [
+       "طَوافٌ",
+       "سَعْيٌ",
+       "مِيقاتٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "طَوافٌ": {
+        "src": "/audio/o/7c66640a4f8d5878.mp3"
+       },
+       "سَعْيٌ": {
+        "src": "/audio/o/6a57cc14ee938f8f.mp3"
+       },
+       "مِيقاتٌ": {
+        "src": "/audio/o/4cf649357ccee876.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-sai-definisi",
+      "instruction": "Berjalan bolak-balik antara Safa dan Marwah disebut …",
+      "prompt": {
+       "id": "antara Safa dan Marwah",
+       "emoji": "🚶"
+      },
+      "answer": "سَعْيٌ",
+      "options": [
+       "سَعْيٌ",
+       "طَوافٌ",
+       "إِحْرامٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سَعْيٌ": {
+        "src": "/audio/o/6a57cc14ee938f8f.mp3"
+       },
+       "طَوافٌ": {
+        "src": "/audio/o/7c66640a4f8d5878.mp3"
+       },
+       "إِحْرامٌ": {
+        "src": "/audio/o/7338f94a5ff2b4da.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-arafah-definisi",
+      "instruction": "Di mana jemaah haji berwukuf pada tanggal 9 Zulhijah?",
+      "prompt": {
+       "id": "tempat wukuf"
+      },
+      "answer": "عَرَفَةُ",
+      "options": [
+       "عَرَفَةُ",
+       "مُزْدَلِفَةُ",
+       "الكَعْبَةُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَرَفَةُ": {
+        "src": "/audio/o/c10fcae7a70f3db2.mp3"
+       },
+       "مُزْدَلِفَةُ": {
+        "src": "/audio/o/7ab2151937b3dbaa.mp3"
+       },
+       "الكَعْبَةُ": {
+        "src": "/audio/o/da13867a109bf623.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-dengar-15",
+      "instruction": "Dengarkan. Angka berapa?",
+      "prompt": {
+       "tts": "خَمْسَةَ عَشَرَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/5a066696bef04bcd.mp3"
+       }
+      },
+      "answer": "15",
+      "options": [
+       "15",
+       "5",
+       "50",
+       "13"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-angka-12",
+      "instruction": "Angka 12 dalam bahasa Arab adalah …",
+      "prompt": {
+       "id": "dua belas (12)"
+      },
+      "answer": "اِثْنا عَشَرَ",
+      "options": [
+       "اِثْنا عَشَرَ",
+       "اِثْنانِ",
+       "عِشْرُونَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "اِثْنا عَشَرَ": {
+        "src": "/audio/o/9cc36c89c8b95aa3.mp3"
+       },
+       "اِثْنانِ": {
+        "src": "/audio/o/97e63a7fbd1c3916.mp3"
+       },
+       "عِشْرُونَ": {
+        "src": "/audio/o/782cd0a8368d8643.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-dengar-19",
+      "instruction": "Dengarkan. Angka berapa?",
+      "prompt": {
+       "tts": "تِسْعَةَ عَشَرَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/762a1d440ed7b4dc.mp3"
+       }
+      },
+      "answer": "19",
+      "options": [
+       "19",
+       "9",
+       "90",
+       "17"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-hitung-17",
+      "instruction": "Berapa hasilnya?",
+      "prompt": {
+       "ar": "عَشَرَةٌ + سَبْعَةٌ = ؟",
+       "audio": {
+        "src": "/audio/o/19da7688f1dcede4.mp3"
+       }
+      },
+      "answer": "سَبْعَةَ عَشَرَ",
+      "options": [
+       "سَبْعَةَ عَشَرَ",
+       "سَبْعُونَ",
+       "سِتَّةَ عَشَرَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سَبْعَةَ عَشَرَ": {
+        "src": "/audio/o/f0e8a595ca1c2959.mp3"
+       },
+       "سَبْعُونَ": {
+        "src": "/audio/o/c1f5ed4257d63dc9.mp3"
+       },
+       "سِتَّةَ عَشَرَ": {
+        "src": "/audio/o/f6c989fc4ffbee7d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d4-jamaah-ar",
+      "instruction": "Bahasa Arabnya \"rombongan, kelompok\" adalah …",
+      "prompt": {
+       "id": "rombongan, kelompok",
+       "emoji": "👥"
+      },
+      "answer": "جَماعَةٌ",
+      "options": [
+       "جَماعَةٌ",
+       "حاجٌّ",
+       "مَسْجِدٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "جَماعَةٌ": {
+        "src": "/audio/o/0b47ffe1cbd6ca6d.mp3"
+       },
+       "حاجٌّ": {
+        "src": "/audio/o/1e308c1ee1e94194.mp3"
+       },
+       "مَسْجِدٌ": {
+        "src": "/audio/o/974fe20fbdf19425.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u14-d4-lat-mina",
+     "instruction": "Tempat jemaah haji bermalam dan melempar jumrah adalah …",
+     "prompt": {
+      "id": "tempat melempar jumrah",
+      "emoji": "⛺"
+     },
+     "answer": "مِنًى",
+     "options": [
+      "مِنًى",
+      "الكَعْبَةُ",
+      "المِيقاتُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "مِنًى": {
+       "src": "/audio/o/597d383d3d7c674f.mp3"
+      },
+      "الكَعْبَةُ": {
+       "src": "/audio/o/da13867a109bf623.mp3"
+      },
+      "المِيقاتُ": {
+       "src": "/audio/o/63334012597f1423.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d4-lat-dengar-11",
+     "instruction": "Dengarkan. Angka berapa?",
+     "prompt": {
+      "tts": "أَحَدَ عَشَرَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/ae8467b5376bcefb.mp3"
+      }
+     },
+     "answer": "11",
+     "options": [
+      "11",
+      "1",
+      "12"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d4-lat-angka-14",
+     "instruction": "Angka 14 dalam bahasa Arab adalah …",
+     "prompt": {
+      "id": "empat belas (14)"
+     },
+     "answer": "أَرْبَعَةَ عَشَرَ",
+     "options": [
+      "أَرْبَعَةَ عَشَرَ",
+      "أَرْبَعُونَ",
+      "أَرْبَعَةٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَرْبَعَةَ عَشَرَ": {
+       "src": "/audio/o/188c0266666ed8d0.mp3"
+      },
+      "أَرْبَعُونَ": {
+       "src": "/audio/o/2f7edf0be33131dd.mp3"
+      },
+      "أَرْبَعَةٌ": {
+       "src": "/audio/o/37d97f56c24d0648.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d4-lat-ihram-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "إِحْرامٌ",
+      "audio": {
+       "src": "/audio/o/7338f94a5ff2b4da.mp3"
+      }
+     },
+     "answer": "ihram",
+     "options": [
+      "ihram",
+      "imam",
+      "doa"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d4-lat-hitung-13",
+     "instruction": "Berapa hasilnya?",
+     "prompt": {
+      "ar": "عَشَرَةٌ + ثَلاثَةٌ = ؟",
+      "audio": {
+       "src": "/audio/o/5336b572cc7c6fa3.mp3"
+      }
+     },
+     "answer": "ثَلاثَةَ عَشَرَ",
+     "options": [
+      "ثَلاثَةَ عَشَرَ",
+      "ثَلاثُونَ",
+      "أَرْبَعَةَ عَشَرَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ثَلاثَةَ عَشَرَ": {
+       "src": "/audio/o/383abf7624493615.mp3"
+      },
+      "ثَلاثُونَ": {
+       "src": "/audio/o/8e3bbe8ab3191e69.mp3"
+      },
+      "أَرْبَعَةَ عَشَرَ": {
+       "src": "/audio/o/188c0266666ed8d0.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u14-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Bertanya: kapan, bagaimana, dengan apa"
+      },
+      "groups": [
+       {
+        "title_ar": "مَتَى + اسْمٌ",
+        "note_id": "مَتَى bisa langsung diikuti kata benda, tanpa kata kerja.",
+        "rows": [
+         {
+          "ar": "مَتَى السَّفَرُ؟",
+          "id": "Kapan berangkatnya?",
+          "audio": {
+           "src": "/audio/o/31dbb1074ea205b2.mp3"
+          }
+         },
+         {
+          "ar": "بَعْدَ شَهْرَيْنِ.",
+          "id": "Dua bulan lagi.",
+          "audio": {
+           "src": "/audio/o/0a9018613ae7629a.mp3"
+          }
+         },
+         {
+          "ar": "مَتَى الحَجُّ؟",
+          "id": "Kapan (musim) haji?",
+          "audio": {
+           "src": "/audio/o/55b011798094e1ea.mp3"
+          }
+         },
+         {
+          "ar": "فِي شَهْرِ ذِي الحِجَّةِ.",
+          "id": "Pada bulan Zulhijah.",
+          "audio": {
+           "src": "/audio/o/64b0491f59140e34.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "كَيْفَ + فِعْلٌ مُضارِعٌ",
+        "note_id": "كَيْفَ + kata kerja sekarang menanyakan cara melakukan sesuatu.",
+        "rows": [
+         {
+          "ar": "كَيْفَ يَطُوفُ الحاجُّ؟",
+          "id": "Bagaimana jemaah haji bertawaf?",
+          "audio": {
+           "src": "/audio/o/58cbfb306a39a814.mp3"
+          }
+         },
+         {
+          "ar": "يَطُوفُ حَوْلَ الكَعْبَةِ سَبْعَةَ أَشْواطٍ.",
+          "id": "Dia mengelilingi Ka'bah tujuh putaran.",
+          "audio": {
+           "src": "/audio/o/a0147f9740735f92.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "بِمَ …؟",
+        "note_id": "بِمَ = بِـ + ما (dengan apa?). Alif pada ما dibuang. Jawabannya memakai بِـ juga.",
+        "rows": [
+         {
+          "ar": "بِمَ سافَرْتِ؟",
+          "id": "Kamu (pr) bepergian naik apa?",
+          "audio": {
+           "src": "/audio/o/c397a62a7ed41df9.mp3"
+          }
+         },
+         {
+          "ar": "بِالطّائِرَةِ.",
+          "id": "Naik pesawat.",
+          "audio": {
+           "src": "/audio/o/3e495a34cf7a77d5.mp3"
+          }
+         },
+         {
+          "ar": "بِمَ تَبْدَأُ العُمْرَةُ؟",
+          "id": "Umrah dimulai dengan apa?",
+          "audio": {
+           "src": "/audio/o/db0d11397568dba8.mp3"
+          }
+         },
+         {
+          "ar": "بِالإِحْرامِ.",
+          "id": "Dengan ihram.",
+          "audio": {
+           "src": "/audio/o/e45b9206a864411b.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Dua, 3–10, dan 11–19"
+      },
+      "groups": [
+       {
+        "title_ar": "المُثَنَّى: ـانِ · ـَيْنِ",
+        "note_id": "Untuk dua benda: ـانِ bila menjadi subjek atau predikat (khabar); ـَيْنِ bila menjadi objek atau sesudah kata depan, بَعْدَ, dan قَبْلَ. Ta marbuthah (ة) berubah menjadi ت.",
+        "rows": [
+         {
+          "ar": "يَوْمٌ ← يَوْمانِ · يَوْمَيْنِ",
+          "id": "satu hari → dua hari",
+          "audio": {
+           "src": "/audio/o/766290bab4b29d90.mp3"
+          }
+         },
+         {
+          "ar": "رَكْعَةٌ ← رَكْعَتانِ · رَكْعَتَيْنِ",
+          "id": "satu rakaat → dua rakaat",
+          "audio": {
+           "src": "/audio/o/8d04d59211b31b48.mp3"
+          }
+         },
+         {
+          "ar": "صَلاةُ الفَجْرِ رَكْعَتانِ.",
+          "id": "Salat subuh dua rakaat.",
+          "audio": {
+           "src": "/audio/o/433bdd96f4e046e0.mp3"
+          }
+         },
+         {
+          "ar": "صَلَّيْتُ رَكْعَتَيْنِ بَعْدَ الطَّوافِ.",
+          "id": "Saya salat dua rakaat setelah tawaf.",
+          "audio": {
+           "src": "/audio/o/c5e718fd08eec57b.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "٣–١٠ + جَمْعٌ مَجْرُورٌ",
+        "note_id": "Benda yang dihitung berbentuk jamak dan berakhiran -in/-i. Angkanya berlawanan jenis: benda laki-laki → angka berakhiran ة; benda perempuan → angka tanpa ة.",
+        "rows": [
+         {
+          "ar": "ثَلاثَةُ أَيّامٍ",
+          "id": "tiga hari (يَوْمٌ: lk)",
+          "audio": {
+           "src": "/audio/o/a74c81e1eca55b14.mp3"
+          }
+         },
+         {
+          "ar": "سَبْعَةُ أَشْواطٍ",
+          "id": "tujuh putaran (شَوْطٌ: lk)",
+          "audio": {
+           "src": "/audio/o/1a43f9dd3ef3f7b6.mp3"
+          }
+         },
+         {
+          "ar": "عَشْرُ سَنَواتٍ",
+          "id": "sepuluh tahun (سَنَةٌ: pr)",
+          "audio": {
+           "src": "/audio/o/ffcb7d5945c71476.mp3"
+          }
+         },
+         {
+          "ar": "خَمْسُ طالِباتٍ",
+          "id": "lima pelajar (pr)",
+          "audio": {
+           "src": "/audio/o/bb0b8b1c8abecd06.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "١١–١٩ + مُفْرَدٌ مَنْصُوبٌ",
+        "note_id": "Benda yang dihitung kembali tunggal dan berakhiran -an. Di unit ini kita memakai benda laki-laki saja; untuk benda perempuan bentuk angkanya berbeda (ثَلاثَ عَشْرَةَ سَنَةً).",
+        "rows": [
+         {
+          "ar": "أَحَدَ عَشَرَ حاجًّا",
+          "id": "sebelas jemaah haji",
+          "audio": {
+           "src": "/audio/o/3bd21e7e950b250a.mp3"
+          }
+         },
+         {
+          "ar": "اِثْنا عَشَرَ شَهْرًا",
+          "id": "dua belas bulan",
+          "audio": {
+           "src": "/audio/o/e2c1895b1e27e116.mp3"
+          }
+         },
+         {
+          "ar": "خَمْسَةَ عَشَرَ يَوْمًا",
+          "id": "lima belas hari",
+          "audio": {
+           "src": "/audio/o/d9d958fe6c4d67f1.mp3"
+          }
+         },
+         {
+          "ar": "سَبْعَةَ عَشَرَ مُعْتَمِرًا",
+          "id": "tujuh belas jemaah umrah",
+          "audio": {
+           "src": "/audio/o/fd6586ee575fe494.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d5-rakatain",
+      "instruction": "Lengkapi: \"Saya salat dua rakaat.\"",
+      "prompt": {
+       "ar": "صَلَّيْتُ …",
+       "audio": {
+        "src": "/audio/o/8c79c4b7bc0f6215.mp3"
+       }
+      },
+      "answer": "رَكْعَتَيْنِ",
+      "options": [
+       "رَكْعَتَيْنِ",
+       "رَكْعَتانِ",
+       "رَكْعَةً"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "رَكْعَتَيْنِ": {
+        "src": "/audio/o/bd793d4bb93c326a.mp3"
+       },
+       "رَكْعَتانِ": {
+        "src": "/audio/o/7bcc04335a325d15.mp3"
+       },
+       "رَكْعَةً": {
+        "src": "/audio/o/2322bf26336c6925.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d5-sabatu-asywath",
+      "instruction": "Lengkapi: \"Tawaf itu tujuh putaran.\"",
+      "prompt": {
+       "ar": "الطَّوافُ … أَشْواطٍ.",
+       "audio": {
+        "src": "/audio/o/9572c730ea76b1c4.mp3"
+       }
+      },
+      "answer": "سَبْعَةُ",
+      "options": [
+       "سَبْعَةُ",
+       "سَبْعُ",
+       "سَبْعُونَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سَبْعَةُ": {
+        "src": "/audio/o/62835bc1a8ce3781.mp3"
+       },
+       "سَبْعُ": {
+        "src": "/audio/o/6e24bf73d78dc891.mp3"
+       },
+       "سَبْعُونَ": {
+        "src": "/audio/o/c1f5ed4257d63dc9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d5-asyri-sanawat",
+      "instruction": "Lengkapi: \"Nenekku berhaji sepuluh tahun lalu.\"",
+      "prompt": {
+       "ar": "حَجَّتْ جَدَّتِي قَبْلَ … سَنَواتٍ.",
+       "audio": {
+        "src": "/audio/o/f9c796fe02133762.mp3"
+       }
+      },
+      "answer": "عَشْرِ",
+      "options": [
+       "عَشْرِ",
+       "عَشَرَةِ",
+       "عِشْرِينَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَشْرِ": {
+        "src": "/audio/o/eb47afbb8d80ef37.mp3"
+       },
+       "عَشَرَةِ": {
+        "src": "/audio/o/596a8f927b771ff0.mp3"
+       },
+       "عِشْرِينَ": {
+        "src": "/audio/o/c3e9a01313678f45.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d5-tamyiz-11-19",
+      "instruction": "Lengkapi: \"Saya di Makkah lima belas hari.\"",
+      "prompt": {
+       "ar": "كُنْتُ فِي مَكَّةَ خَمْسَةَ عَشَرَ …",
+       "audio": {
+        "src": "/audio/o/21eb3f37a3e40667.mp3"
+       }
+      },
+      "answer": "يَوْمًا",
+      "options": [
+       "يَوْمًا",
+       "أَيّامٍ",
+       "يَوْمٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "يَوْمًا": {
+        "src": "/audio/o/ff430106025b3317.mp3"
+       },
+       "أَيّامٍ": {
+        "src": "/audio/o/d9dae5c01e5fa4d3.mp3"
+       },
+       "يَوْمٌ": {
+        "src": "/audio/o/7e60ee8960e0d082.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d5-tanya-bima",
+      "instruction": "Jawabannya \"بِالطّائِرَةِ.\" Apa pertanyaannya?",
+      "prompt": {
+       "ar": "بِالطّائِرَةِ.",
+       "audio": {
+        "src": "/audio/o/3e495a34cf7a77d5.mp3"
+       }
+      },
+      "answer": "بِمَ سافَرْتَ؟",
+      "options": [
+       "بِمَ سافَرْتَ؟",
+       "مَتَى سافَرْتَ؟",
+       "إِلَى أَيْنَ سافَرْتَ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بِمَ سافَرْتَ؟": {
+        "src": "/audio/o/9af664f251883be2.mp3"
+       },
+       "مَتَى سافَرْتَ؟": {
+        "src": "/audio/o/696ac783441af7e4.mp3"
+       },
+       "إِلَى أَيْنَ سافَرْتَ؟": {
+        "src": "/audio/o/e6a4021c37661230.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d5-tanya-mata",
+      "instruction": "Jawabannya \"بَعْدَ أُسْبُوعَيْنِ.\" Apa pertanyaannya?",
+      "prompt": {
+       "ar": "بَعْدَ أُسْبُوعَيْنِ.",
+       "audio": {
+        "src": "/audio/o/a88d727db6b56213.mp3"
+       }
+      },
+      "answer": "مَتَى السَّفَرُ؟",
+      "options": [
+       "مَتَى السَّفَرُ؟",
+       "كَيْفَ تُسافِرُ؟",
+       "بِمَ تُسافِرُ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَتَى السَّفَرُ؟": {
+        "src": "/audio/o/31dbb1074ea205b2.mp3"
+       },
+       "كَيْفَ تُسافِرُ؟": {
+        "src": "/audio/o/c1eee8bccfbbd601.mp3"
+       },
+       "بِمَ تُسافِرُ؟": {
+        "src": "/audio/o/dcfe3df35d99ab00.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d5-bada-yaumain",
+      "instruction": "Lengkapi: \"Dua hari lagi.\"",
+      "prompt": {
+       "ar": "بَعْدَ …",
+       "audio": {
+        "src": "/audio/o/724879cabee7212c.mp3"
+       }
+      },
+      "answer": "يَوْمَيْنِ",
+      "options": [
+       "يَوْمَيْنِ",
+       "يَوْمانِ",
+       "أَيّامٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "يَوْمَيْنِ": {
+        "src": "/audio/o/065186a06f48a08b.mp3"
+       },
+       "يَوْمانِ": {
+        "src": "/audio/o/892020de12ed8869.mp3"
+       },
+       "أَيّامٍ": {
+        "src": "/audio/o/d9dae5c01e5fa4d3.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d5-susun-kaifa-yatuf",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Bagaimana jemaah haji bertawaf?"
+      },
+      "answer": "كَيْفَ يَطُوفُ الحاجُّ",
+      "tokens": [
+       "كَيْفَ",
+       "يَطُوفُ",
+       "الحاجُّ",
+       "مَتَى"
+      ],
+      "audioMap": {
+       "كَيْفَ": {
+        "src": "/audio/o/917bb58b886deaa6.mp3"
+       },
+       "يَطُوفُ": {
+        "src": "/audio/o/288986ff47710b96.mp3"
+       },
+       "الحاجُّ": {
+        "src": "/audio/o/1967a46167059414.mp3"
+       },
+       "مَتَى": {
+        "src": "/audio/o/b914cba783c69620.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d5-susun-darasna-syahrain",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kelas manasiknya dua bulan."
+      },
+      "answer": "دَرْسُ المَناسِكِ شَهْرانِ",
+      "tokens": [
+       "دَرْسُ",
+       "المَناسِكِ",
+       "شَهْرانِ",
+       "شَهْرَيْنِ"
+      ],
+      "audioMap": {
+       "دَرْسُ": {
+        "src": "/audio/o/d4c77a58cb71e0ff.mp3"
+       },
+       "المَناسِكِ": {
+        "src": "/audio/o/041eb50e2e0baf32.mp3"
+       },
+       "شَهْرانِ": {
+        "src": "/audio/o/a9dc7b169819d7ce.mp3"
+       },
+       "شَهْرَيْنِ": {
+        "src": "/audio/o/b8006394ae3ccba5.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d5-susun-tsalatsah-ayyam",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Tiga hari yang indah."
+      },
+      "answer": "ثَلاثَةُ أَيّامٍ جَمِيلَةٍ",
+      "tokens": [
+       "ثَلاثَةُ",
+       "أَيّامٍ",
+       "جَمِيلَةٍ",
+       "ثَلاثُ"
+      ],
+      "audioMap": {
+       "ثَلاثَةُ": {
+        "src": "/audio/o/bb15054f870dc7d0.mp3"
+       },
+       "أَيّامٍ": {
+        "src": "/audio/o/d9dae5c01e5fa4d3.mp3"
+       },
+       "جَمِيلَةٍ": {
+        "src": "/audio/o/72fb543570e94842.mp3"
+       },
+       "ثَلاثُ": {
+        "src": "/audio/o/78823fdd48fdb47a.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u14-d5-lat-isna-asyara-syahran",
+     "instruction": "Lengkapi: \"Setahun itu dua belas bulan.\"",
+     "prompt": {
+      "ar": "السَّنَةُ اِثْنا عَشَرَ …",
+      "audio": {
+       "src": "/audio/o/78c8299656d2328c.mp3"
+      }
+     },
+     "answer": "شَهْرًا",
+     "options": [
+      "شَهْرًا",
+      "أَشْهُرٍ",
+      "شَهْرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "شَهْرًا": {
+       "src": "/audio/o/c782c1962f8e1434.mp3"
+      },
+      "أَشْهُرٍ": {
+       "src": "/audio/o/9c090c70827b6871.mp3"
+      },
+      "شَهْرٌ": {
+       "src": "/audio/o/960031adc3fa788d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d5-lat-rakatani",
+     "instruction": "Lengkapi: \"Salat subuh dua rakaat.\"",
+     "prompt": {
+      "ar": "صَلاةُ الفَجْرِ …",
+      "audio": {
+       "src": "/audio/o/1a605e8250ddb6a7.mp3"
+      }
+     },
+     "answer": "رَكْعَتانِ",
+     "options": [
+      "رَكْعَتانِ",
+      "رَكْعَتَيْنِ",
+      "رَكَعاتٍ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "رَكْعَتانِ": {
+       "src": "/audio/o/7bcc04335a325d15.mp3"
+      },
+      "رَكْعَتَيْنِ": {
+       "src": "/audio/o/bd793d4bb93c326a.mp3"
+      },
+      "رَكَعاتٍ": {
+       "src": "/audio/o/cdc529515dd802c9.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d5-lat-tsalats-sanawat",
+     "instruction": "Lengkapi: \"tiga tahun\"",
+     "prompt": {
+      "ar": "ثَلاثُ …",
+      "audio": {
+       "src": "/audio/o/6313db50cbd0fc08.mp3"
+      }
+     },
+     "answer": "سَنَواتٍ",
+     "options": [
+      "سَنَواتٍ",
+      "سَنَةً",
+      "سَنَتانِ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سَنَواتٍ": {
+       "src": "/audio/o/04816c762c1128e3.mp3"
+      },
+      "سَنَةً": {
+       "src": "/audio/o/1f40bf3c7d43b159.mp3"
+      },
+      "سَنَتانِ": {
+       "src": "/audio/o/ef3d09159eba2a0e.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u14-d5-lat-susun-bima-tabda",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Umrah dimulai dengan apa?"
+     },
+     "answer": "بِمَ تَبْدَأُ العُمْرَةُ",
+     "tokens": [
+      "بِمَ",
+      "تَبْدَأُ",
+      "العُمْرَةُ",
+      "مَتَى"
+     ],
+     "audioMap": {
+      "بِمَ": {
+       "src": "/audio/o/25e6fc99aaef12fc.mp3"
+      },
+      "تَبْدَأُ": {
+       "src": "/audio/o/2986a043306731ea.mp3"
+      },
+      "العُمْرَةُ": {
+       "src": "/audio/o/4ee43420ac26b7f8.mp3"
+      },
+      "مَتَى": {
+       "src": "/audio/o/b914cba783c69620.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d5-lat-tanya-kaifa",
+     "instruction": "Jawabannya \"بِالقِطارِ.\" Apa pertanyaannya?",
+     "prompt": {
+      "ar": "بِالقِطارِ.",
+      "audio": {
+       "src": "/audio/o/8ae5f68e2518a30a.mp3"
+      }
+     },
+     "answer": "كَيْفَ تَذْهَبُ إِلَى بانْدُونْغ؟",
+     "options": [
+      "كَيْفَ تَذْهَبُ إِلَى بانْدُونْغ؟",
+      "مَتَى تَذْهَبُ إِلَى بانْدُونْغ؟",
+      "لِماذا تَذْهَبُ إِلَى بانْدُونْغ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كَيْفَ تَذْهَبُ إِلَى بانْدُونْغ؟": {
+       "src": "/audio/o/ef958db20aee43f1.mp3"
+      },
+      "مَتَى تَذْهَبُ إِلَى بانْدُونْغ؟": {
+       "src": "/audio/o/42b204c30d866e00.mp3"
+      },
+      "لِماذا تَذْهَبُ إِلَى بانْدُونْغ؟": {
+       "src": "/audio/o/dfa09394aef70394.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u14-d6",
+   "dars": 6,
+   "title_id": "Bunyi i pendek dan panjang, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "بِ",
+        "audio": {
+         "src": "/audio/o/5b59e9ff38ae0217.mp3"
+        },
+        "pair_ar": "بِي"
+       },
+       {
+        "ar": "بِي",
+        "audio": {
+         "src": "/audio/o/2e59bc6f1245e939.mp3"
+        },
+        "pair_ar": "بِ"
+       },
+       {
+        "ar": "سِ",
+        "audio": {
+         "src": "/audio/o/b48f3aa15faa44bf.mp3"
+        },
+        "pair_ar": "سِي"
+       },
+       {
+        "ar": "سِي",
+        "audio": {
+         "src": "/audio/o/5b5f3409d77f6512.mp3"
+        },
+        "pair_ar": "سِ"
+       },
+       {
+        "ar": "عِ",
+        "audio": {
+         "src": "/audio/o/0b8c97adca985353.mp3"
+        },
+        "pair_ar": "عِي"
+       },
+       {
+        "ar": "عِي",
+        "audio": {
+         "src": "/audio/o/2d6a14209e9defa9.mp3"
+        },
+        "pair_ar": "عِ"
+       },
+       {
+        "ar": "مَلِكٌ",
+        "audio": {
+         "src": "/audio/o/ac6c725a90d2acce.mp3"
+        },
+        "pair_ar": "مَلِيكٌ"
+       },
+       {
+        "ar": "مَلِيكٌ",
+        "audio": {
+         "src": "/audio/o/cb397aae41be2b71.mp3"
+        },
+        "pair_ar": "مَلِكٌ"
+       },
+       {
+        "ar": "رَحِمٌ",
+        "audio": {
+         "src": "/audio/o/8cbd9c30a9b395eb.mp3"
+        },
+        "pair_ar": "رَحِيمٌ"
+       },
+       {
+        "ar": "رَحِيمٌ",
+        "audio": {
+         "src": "/audio/o/083895318cbbf615.mp3"
+        },
+        "pair_ar": "رَحِمٌ"
+       },
+       {
+        "ar": "عِدْ",
+        "audio": {
+         "src": "/audio/o/661db1dc5c39f4af.mp3"
+        },
+        "pair_ar": "عِيدٌ"
+       },
+       {
+        "ar": "عِيدٌ",
+        "audio": {
+         "src": "/audio/o/bc1d78490abc26a1.mp3"
+        },
+        "pair_ar": "عِدْ"
+       }
+      ],
+      "section": {
+       "id": "Kasrah (ـِ) dan kasrah + ya' (ـِي)"
+      },
+      "note_id": "Kasrah (ـِ) dibaca \"i\" pendek, satu ketukan. Kasrah yang diikuti ya' mati (ـِي) dibaca \"ii\" panjang, dua ketukan. Panjang-pendek ini mengubah arti: مَلِكٌ = raja, مَلِيكٌ = penguasa; رَحِمٌ = rahim (kandungan), رَحِيمٌ = penyayang; عِدْ = berjanjilah!, عِيدٌ = hari raya. Di unit ini: مِنًى (i pendek), مِيقاتٌ (i panjang). Ketuk tiap kotak dan bandingkan."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d6-dengar-malik",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "مَلِيكٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/cb397aae41be2b71.mp3"
+       }
+      },
+      "answer": "مَلِيكٌ",
+      "options": [
+       "مَلِيكٌ",
+       "مَلِكٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَلِيكٌ": {
+        "src": "/audio/o/cb397aae41be2b71.mp3"
+       },
+       "مَلِكٌ": {
+        "src": "/audio/o/ac6c725a90d2acce.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d6-dengar-rahim",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "رَحِمٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/8cbd9c30a9b395eb.mp3"
+       }
+      },
+      "answer": "رَحِمٌ",
+      "options": [
+       "رَحِمٌ",
+       "رَحِيمٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "رَحِمٌ": {
+        "src": "/audio/o/8cbd9c30a9b395eb.mp3"
+       },
+       "رَحِيمٌ": {
+        "src": "/audio/o/083895318cbbf615.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d6-dengar-id",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "عِيدٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/bc1d78490abc26a1.mp3"
+       }
+      },
+      "answer": "عِيدٌ",
+      "options": [
+       "عِيدٌ",
+       "عِدْ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عِيدٌ": {
+        "src": "/audio/o/bc1d78490abc26a1.mp3"
+       },
+       "عِدْ": {
+        "src": "/audio/o/661db1dc5c39f4af.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d6-dengar-si",
+      "instruction": "Dengarkan. Bunyi mana yang kamu dengar?",
+      "prompt": {
+       "tts": "سِي",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/5b5f3409d77f6512.mp3"
+       }
+      },
+      "answer": "سِي",
+      "options": [
+       "سِي",
+       "سِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سِي": {
+        "src": "/audio/o/5b5f3409d77f6512.mp3"
+       },
+       "سِ": {
+        "src": "/audio/o/b48f3aa15faa44bf.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d6-panjang-miqat",
+      "instruction": "Kata mana yang suku pertamanya \"i\" panjang (ـِي)?",
+      "prompt": {
+       "id": "Cari kasrah + ya'"
+      },
+      "answer": "مِيقاتٌ",
+      "options": [
+       "مِيقاتٌ",
+       "مِنًى",
+       "مِنْ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مِيقاتٌ": {
+        "src": "/audio/o/4cf649357ccee876.mp3"
+       },
+       "مِنًى": {
+        "src": "/audio/o/597d383d3d7c674f.mp3"
+       },
+       "مِنْ": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u14-d6-ucap-miqat",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "مِيقاتٌ",
+       "id": "miqat (tempat mulai berihram)",
+       "audio": {
+        "src": "/audio/o/4cf649357ccee876.mp3"
+       }
+      },
+      "target": "مِيقاتٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u14-d6-ucap-rahim",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "رَحِيمٌ",
+       "id": "penyayang",
+       "audio": {
+        "src": "/audio/o/083895318cbbf615.mp3"
+       }
+      },
+      "target": "رَحِيمٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d6-simak-jaddah-tairah",
+      "instruction": "Dengarkan. Neneknya ke Makkah naik apa?",
+      "prompt": {
+       "tts": "سافَرَتْ جَدَّتِي إِلَى مَكَّةَ بِالطّائِرَةِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/7085034154d64bc7.mp3"
+       }
+      },
+      "answer": "Pesawat",
+      "options": [
+       "Pesawat",
+       "Kapal laut",
+       "Kereta"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d6-simak-mina-3",
+      "instruction": "Dengarkan. Berapa hari mereka di Mina?",
+      "prompt": {
+       "tts": "نَحْنُ فِي مِنًى ثَلاثَةَ أَيّامٍ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/b1fdbc55bfec1589.mp3"
+       }
+      },
+      "answer": "Tiga hari",
+      "options": [
+       "Tiga hari",
+       "Tiga belas hari",
+       "Dua hari"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u14-d6-lat-dengar-malik2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "مَلِكٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/ac6c725a90d2acce.mp3"
+      }
+     },
+     "answer": "مَلِكٌ",
+     "options": [
+      "مَلِكٌ",
+      "مَلِيكٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "مَلِكٌ": {
+       "src": "/audio/o/ac6c725a90d2acce.mp3"
+      },
+      "مَلِيكٌ": {
+       "src": "/audio/o/cb397aae41be2b71.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d6-lat-dengar-rahim2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "رَحِيمٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/083895318cbbf615.mp3"
+      }
+     },
+     "answer": "رَحِيمٌ",
+     "options": [
+      "رَحِيمٌ",
+      "رَحِمٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "رَحِيمٌ": {
+       "src": "/audio/o/083895318cbbf615.mp3"
+      },
+      "رَحِمٌ": {
+       "src": "/audio/o/8cbd9c30a9b395eb.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d6-lat-dengar-id",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "عِدْ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/661db1dc5c39f4af.mp3"
+      }
+     },
+     "answer": "عِدْ",
+     "options": [
+      "عِدْ",
+      "عِيدٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "عِدْ": {
+       "src": "/audio/o/661db1dc5c39f4af.mp3"
+      },
+      "عِيدٌ": {
+       "src": "/audio/o/bc1d78490abc26a1.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d6-lat-dengar-i",
+     "instruction": "Dengarkan. Bunyi mana yang kamu dengar?",
+     "prompt": {
+      "tts": "عِ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/0b8c97adca985353.mp3"
+      }
+     },
+     "answer": "عِ",
+     "options": [
+      "عِ",
+      "عِي"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "عِ": {
+       "src": "/audio/o/0b8c97adca985353.mp3"
+      },
+      "عِي": {
+       "src": "/audio/o/2d6a14209e9defa9.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d6-lat-simak-ihram",
+     "instruction": "Dengarkan. Umrah dimulai dengan apa?",
+     "prompt": {
+      "tts": "تَبْدَأُ العُمْرَةُ بِالإِحْرامِ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/5ab251b046f397e9.mp3"
+      }
+     },
+     "answer": "Ihram",
+     "options": [
+      "Ihram",
+      "Tawaf",
+      "Sai"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u14-d7",
+   "dars": 7,
+   "title_id": "Berbicara",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "حَجًّا مَبْرُورًا!",
+        "id": "Semoga hajinya mabrur! (kepada orang yang pulang haji) · ★ mabrur",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/17a905b2bae04918.mp3"
+        }
+       },
+       {
+        "ar": "عُمْرَةً مَقْبُولَةً!",
+        "id": "Semoga umrahnya diterima! · ★ makbul",
+        "emoji": "🤲",
+        "audio": {
+         "src": "/audio/o/c45defb1dd2a3bbc.mp3"
+        }
+       },
+       {
+        "ar": "كَيْفَ كانَتِ الرِّحْلَةُ؟",
+        "id": "Bagaimana perjalanannya?",
+        "emoji": "🧳",
+        "audio": {
+         "src": "/audio/o/1acac1b40e154864.mp3"
+        }
+       },
+       {
+        "ar": "كانَتْ جَمِيلَةً جِدًّا.",
+        "id": "Sangat menyenangkan.",
+        "emoji": "😊",
+        "audio": {
+         "src": "/audio/o/d63a51685030d831.mp3"
+        }
+       },
+       {
+        "ar": "أَنا فَرِحٌ · أَنا فَرِحَةٌ",
+        "id": "saya gembira (lk · pr)",
+        "emoji": "😄",
+        "audio": {
+         "src": "/audio/o/cbde74024f4ec72b.mp3"
+        }
+       },
+       {
+        "ar": "بَيْنَ الصَّفا وَالمَرْوَةِ",
+        "id": "antara (bukit) Safa dan Marwah",
+        "emoji": "🚶",
+        "audio": {
+         "src": "/audio/o/09ee7e7c7adc7e23.mp3"
+        }
+       },
+       {
+        "ar": "التَّقْصِيرُ",
+        "id": "memendekkan rambut (tahalul, penutup umrah)",
+        "emoji": "✂️",
+        "audio": {
+         "src": "/audio/o/0413a826d219c8da.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Ungkapan baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u14-d7-cerita-rihlah",
+      "instruction": "Ceritakan perjalananmu: ke mana, naik apa, berapa hari, dan bagaimana rasanya",
+      "prompt": {
+       "id": "Pakai tempat dan angkamu sendiri."
+      },
+      "model": [
+       {
+        "ar": "سافَرْتُ إِلَى بانْدُونْغ بِالقِطارِ.",
+        "id": "Saya pergi ke Bandung naik kereta.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/a3b95a3116c5016a.mp3"
+        }
+       },
+       {
+        "ar": "كُنْتُ هُناكَ ثَلاثَةَ أَيّامٍ.",
+        "id": "Saya di sana tiga hari.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/870ca3637a88db67.mp3"
+        }
+       },
+       {
+        "ar": "كانَتِ الرِّحْلَةُ جَمِيلَةً. أَنا فَرِحٌ جِدًّا!",
+        "id": "Perjalanannya menyenangkan. Saya sangat gembira!",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/54c70d68c939c10f.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u14-d7-ucap-mabrur",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "حَجًّا مَبْرُورًا!",
+       "id": "Semoga hajinya mabrur!",
+       "audio": {
+        "src": "/audio/o/b131f6a4a897c5d4.mp3"
+       }
+      },
+      "target": "حَجًّا مَبْرُورًا!"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d7-ucap-pulang-haji",
+      "instruction": "Tetanggamu baru pulang dari haji. Kamu mengucapkan …",
+      "prompt": {
+       "id": "Menyambut orang yang pulang haji",
+       "emoji": "🤲"
+      },
+      "answer": "حَجًّا مَبْرُورًا!",
+      "options": [
+       "حَجًّا مَبْرُورًا!",
+       "صَباحَ النُّورِ!",
+       "لا بَأْسَ!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "حَجًّا مَبْرُورًا!": {
+        "src": "/audio/o/17a905b2bae04918.mp3"
+       },
+       "صَباحَ النُّورِ!": {
+        "src": "/audio/o/edb4e46adf956c98.mp3"
+       },
+       "لا بَأْسَ!": {
+        "src": "/audio/o/23979cebd8867bd8.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d7-tanya-rihlah-pr",
+      "instruction": "Aisyah baru pulang berlibur. Kamu bertanya: \"Bagaimana perjalananmu?\"",
+      "prompt": {
+       "id": "Bagaimana perjalananmu? (pr)",
+       "emoji": "🧳"
+      },
+      "answer": "كَيْفَ كانَتْ رِحْلَتُكِ؟",
+      "options": [
+       "كَيْفَ كانَتْ رِحْلَتُكِ؟",
+       "كَيْفَ كانَتْ رِحْلَتُكَ؟",
+       "مَتَى كانَتْ رِحْلَتُكِ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كَيْفَ كانَتْ رِحْلَتُكِ؟": {
+        "src": "/audio/o/c394eba40a2b0157.mp3"
+       },
+       "كَيْفَ كانَتْ رِحْلَتُكَ؟": {
+        "src": "/audio/o/f81640ec2d7d6258.mp3"
+       },
+       "مَتَى كانَتْ رِحْلَتُكِ؟": {
+        "src": "/audio/o/55fbac728c19bf6f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u14-d7-ucap-fariha",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَنا فَرِحَةٌ جِدًّا.",
+       "id": "Saya sangat gembira. (pr)",
+       "audio": {
+        "src": "/audio/o/dfd8a1321c193add.mp3"
+       }
+      },
+      "target": "أَنا فَرِحَةٌ جِدًّا."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u14-d7-urutan-umrah",
+      "instruction": "Jelaskan urutan umrah dengan sederhana",
+      "prompt": {
+       "id": "Pakai ثُمَّ (lalu) di antara langkah-langkahnya."
+      },
+      "model": [
+       {
+        "ar": "تَبْدَأُ العُمْرَةُ بِالإِحْرامِ مِنَ المِيقاتِ.",
+        "id": "Umrah dimulai dengan ihram dari miqat.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/69e24bd0c9d56bc7.mp3"
+        }
+       },
+       {
+        "ar": "ثُمَّ الطَّوافُ حَوْلَ الكَعْبَةِ سَبْعَةَ أَشْواطٍ.",
+        "id": "Lalu tawaf mengelilingi Ka'bah tujuh putaran.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/a4b4c7a75c009c6c.mp3"
+        }
+       },
+       {
+        "ar": "ثُمَّ السَّعْيُ بَيْنَ الصَّفا وَالمَرْوَةِ.",
+        "id": "Lalu sai antara Safa dan Marwah.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/5151cf112bfab7ec.mp3"
+        }
+       },
+       {
+        "ar": "ثُمَّ التَّقْصِيرُ.",
+        "id": "Lalu memendekkan rambut.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/53925aaa5a2d23eb.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d7-jawab-kaifa-rihlah",
+      "instruction": "Ayu bertanya: كَيْفَ كانَتِ الرِّحْلَةُ؟ Jawaban yang tepat?",
+      "prompt": {
+       "ar": "كَيْفَ كانَتِ الرِّحْلَةُ؟",
+       "audio": {
+        "src": "/audio/o/1acac1b40e154864.mp3"
+       }
+      },
+      "answer": "كانَتْ جَمِيلَةً جِدًّا.",
+      "options": [
+       "كانَتْ جَمِيلَةً جِدًّا.",
+       "بِالطّائِرَةِ.",
+       "بَعْدَ شَهْرَيْنِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كانَتْ جَمِيلَةً جِدًّا.": {
+        "src": "/audio/o/d63a51685030d831.mp3"
+       },
+       "بِالطّائِرَةِ.": {
+        "src": "/audio/o/3e495a34cf7a77d5.mp3"
+       },
+       "بَعْدَ شَهْرَيْنِ.": {
+        "src": "/audio/o/0a9018613ae7629a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u14-d7-tanya-liburan",
+      "instruction": "Tanyakan kepada temanmu (lk) tentang liburannya",
+      "prompt": {
+       "id": "Tanyakan: bagaimana, ke mana, dan naik apa."
+      },
+      "model": [
+       {
+        "ar": "كَيْفَ كانَتْ عُطْلَتُكَ؟",
+        "id": "Bagaimana liburanmu? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/3cb32c9cfe1b71aa.mp3"
+        }
+       },
+       {
+        "ar": "إِلَى أَيْنَ سافَرْتَ؟",
+        "id": "Kamu pergi ke mana? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/de96a6ce4d1fe28d.mp3"
+        }
+       },
+       {
+        "ar": "بِمَ سافَرْتَ؟",
+        "id": "Kamu naik apa? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/3056683043f2fa6b.mp3"
+        }
+       }
+      ]
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u14-d7-lat-mabrur-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "حَجًّا مَبْرُورًا!",
+      "audio": {
+       "src": "/audio/o/17a905b2bae04918.mp3"
+      }
+     },
+     "answer": "Semoga hajinya mabrur!",
+     "options": [
+      "Semoga hajinya mabrur!",
+      "Selamat jalan!",
+      "Selamat datang!"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d7-lat-farih-lk",
+     "instruction": "Rizki sangat gembira. Dia berkata …",
+     "prompt": {
+      "id": "Saya sangat gembira. (lk)",
+      "emoji": "😄"
+     },
+     "answer": "أَنا فَرِحٌ جِدًّا.",
+     "options": [
+      "أَنا فَرِحٌ جِدًّا.",
+      "أَنا فَرِحَةٌ جِدًّا.",
+      "أَنا مَرِيضٌ جِدًّا."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَنا فَرِحٌ جِدًّا.": {
+       "src": "/audio/o/e9b6205ec21deca7.mp3"
+      },
+      "أَنا فَرِحَةٌ جِدًّا.": {
+       "src": "/audio/o/4b5318a9af97a5bd.mp3"
+      },
+      "أَنا مَرِيضٌ جِدًّا.": {
+       "src": "/audio/o/5dfa61b2ab2dd6df.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d7-lat-jawab-kaifa",
+     "instruction": "Pilih balasan yang tepat",
+     "prompt": {
+      "ar": "كَيْفَ كانَتْ عُطْلَتُكَ؟",
+      "audio": {
+       "src": "/audio/o/e783c96990eefd8a.mp3"
+      }
+     },
+     "answer": "كانَتْ جَمِيلَةً، الحَمْدُ لِلّٰهِ.",
+     "options": [
+      "كانَتْ جَمِيلَةً، الحَمْدُ لِلّٰهِ.",
+      "بَعْدَ تِسْعَةِ أَيّامٍ.",
+      "مِنْ ماكاسار."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كانَتْ جَمِيلَةً، الحَمْدُ لِلّٰهِ.": {
+       "src": "/audio/o/9a807aab146ce478.mp3"
+      },
+      "بَعْدَ تِسْعَةِ أَيّامٍ.": {
+       "src": "/audio/o/a3948019f1ec5fe1.mp3"
+      },
+      "مِنْ ماكاسار.": {
+       "src": "/audio/o/881b507702f050dc.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d7-lat-setelah-sai",
+     "instruction": "Dalam umrah, apa yang dilakukan setelah sai?",
+     "prompt": {
+      "id": "Urutan umrah"
+     },
+     "answer": "Memendekkan rambut (tahalul)",
+     "options": [
+      "Memendekkan rambut (tahalul)",
+      "Berwukuf di Arafah",
+      "Berihram di miqat"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u14-d8",
+   "dars": 8,
+   "title_id": "Membaca",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "رُكْنٌ ← أَرْكانٌ",
+        "id": "rukun → rukun-rukun · ★ rukun",
+        "emoji": "🧱",
+        "audio": {
+         "src": "/audio/o/9e5da18fcaa8ce50.mp3"
+        }
+       },
+       {
+        "ar": "المُسْلِمُونَ",
+        "id": "orang-orang Islam",
+        "emoji": "👥",
+        "audio": {
+         "src": "/audio/o/8a3ed31cd1fb933f.mp3"
+        }
+       },
+       {
+        "ar": "بِلادٌ",
+        "id": "negeri-negeri",
+        "emoji": "🌏",
+        "audio": {
+         "src": "/audio/o/b5541e5eeeb9f434.mp3"
+        }
+       },
+       {
+        "ar": "تُرْسِلُ",
+        "id": "(dia, pr) mengirim",
+        "emoji": "📤",
+        "audio": {
+         "src": "/audio/o/952eae8b40a00625.mp3"
+        }
+       },
+       {
+        "ar": "أَكْبَرُ عَدَدٍ",
+        "id": "jumlah terbesar",
+        "emoji": "📈",
+        "audio": {
+         "src": "/audio/o/0f4569aa76c9dba1.mp3"
+        }
+       },
+       {
+        "ar": "يَقِفُ",
+        "id": "berdiri; berwukuf (di Arafah)",
+        "emoji": "⛰️",
+        "audio": {
+         "src": "/audio/o/e127de59fed7e29e.mp3"
+        }
+       },
+       {
+        "ar": "يَبِيتُونَ",
+        "id": "mereka bermalam",
+        "emoji": "🌙",
+        "audio": {
+         "src": "/audio/o/6ee239c7573b6f38.mp3"
+        }
+       },
+       {
+        "ar": "يَسْعَوْنَ",
+        "id": "mereka bersai",
+        "emoji": "🚶",
+        "audio": {
+         "src": "/audio/o/96567aadc531a3df.mp3"
+        }
+       },
+       {
+        "ar": "مُعْتَمِرٌ",
+        "id": "orang yang berumrah",
+        "emoji": "🧕",
+        "audio": {
+         "src": "/audio/o/e49c83fe52c7f4c1.mp3"
+        }
+       },
+       {
+        "ar": "مُرافِقَةٌ",
+        "id": "pendamping (pr)",
+        "emoji": "🤝",
+        "audio": {
+         "src": "/audio/o/6440d48eb0e95027.mp3"
+        }
+       },
+       {
+        "ar": "بَرْنامَجٌ",
+        "id": "jadwal acara, program",
+        "emoji": "📋",
+        "audio": {
+         "src": "/audio/o/eca5d7ff6ce24b79.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru dalam bacaan"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "الحَجُّ رُكْنٌ مِنْ أَرْكانِ الإِسْلامِ.",
+        "id": "Haji adalah salah satu rukun Islam.",
+        "audio": {
+         "src": "/audio/o/2b4ad0988f964399.mp3"
+        }
+       },
+       {
+        "ar": "يَحُجُّ المُسْلِمُونَ فِي شَهْرِ ذِي الحِجَّةِ.",
+        "id": "Umat Islam berhaji pada bulan Zulhijah.",
+        "audio": {
+         "src": "/audio/o/e18a51ac63558372.mp3"
+        }
+       },
+       {
+        "ar": "يُسافِرُ الحُجّاجُ إِلَى مَكَّةَ مِنْ بِلادٍ كَثِيرَةٍ.",
+        "id": "Jemaah haji berangkat ke Makkah dari banyak negeri.",
+        "audio": {
+         "src": "/audio/o/52c2f653ccc7d5db.mp3"
+        }
+       },
+       {
+        "ar": "وَإِنْدُونِيسِيا تُرْسِلُ أَكْبَرَ عَدَدٍ مِنَ الحُجّاجِ.",
+        "id": "Indonesia mengirim jemaah haji dalam jumlah terbesar (di dunia).",
+        "audio": {
+         "src": "/audio/o/89698d5acde504b0.mp3"
+        }
+       },
+       {
+        "ar": "يَبْدَأُ الحَجُّ بِالإِحْرامِ مِنَ المِيقاتِ.",
+        "id": "Haji dimulai dengan ihram dari miqat.",
+        "audio": {
+         "src": "/audio/o/fea91fc59d3ef99f.mp3"
+        }
+       },
+       {
+        "ar": "فِي اليَوْمِ التّاسِعِ يَقِفُ الحُجّاجُ بِعَرَفَةَ.",
+        "id": "Pada hari kesembilan (Zulhijah), jemaah berwukuf di Arafah.",
+        "audio": {
+         "src": "/audio/o/4e3816125a6a8b86.mp3"
+        }
+       },
+       {
+        "ar": "ثُمَّ يَبِيتُونَ فِي مُزْدَلِفَةَ، وَيَذْهَبُونَ إِلَى مِنًى.",
+        "id": "Lalu mereka bermalam di Muzdalifah dan pergi ke Mina.",
+        "audio": {
+         "src": "/audio/o/df4311052160123a.mp3"
+        }
+       },
+       {
+        "ar": "وَيَطُوفُونَ حَوْلَ الكَعْبَةِ، وَيَسْعَوْنَ بَيْنَ الصَّفا وَالمَرْوَةِ.",
+        "id": "Mereka juga bertawaf mengelilingi Ka'bah dan bersai antara Safa dan Marwah.",
+        "audio": {
+         "src": "/audio/o/bcab3d06e9362572.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Haji"
+      },
+      "imgs": [
+       "/img/o/u14-baca-haji.webp"
+      ],
+      "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d8-baca-bulan-haji",
+      "instruction": "Pada bulan apa umat Islam berhaji?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "Zulhijah",
+      "options": [
+       "Zulhijah",
+       "Ramadan",
+       "Syawal"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d8-baca-terbanyak",
+      "instruction": "Benar atau salah? \"Indonesia mengirim jemaah haji dalam jumlah terbesar.\"",
+      "prompt": {
+       "ar": "إِنْدُونِيسِيا تُرْسِلُ أَكْبَرَ عَدَدٍ مِنَ الحُجّاجِ.",
+       "audio": {
+        "src": "/audio/o/52302e7e510763be.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d8-baca-arafah-hari",
+      "instruction": "Benar atau salah? \"Jemaah berwukuf di Arafah pada hari kesepuluh.\"",
+      "prompt": {
+       "ar": "يَقِفُ الحُجّاجُ بِعَرَفَةَ فِي اليَوْمِ العاشِرِ.",
+       "audio": {
+        "src": "/audio/o/ad7544c3c76fef5a.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d8-baca-mabit",
+      "instruction": "Setelah Arafah, jemaah bermalam di mana?",
+      "prompt": {
+       "id": "Menurut bacaan 1",
+       "emoji": "🌙"
+      },
+      "answer": "Muzdalifah",
+      "options": [
+       "Muzdalifah",
+       "Madinah",
+       "Jeddah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d8-baca-mulai-haji",
+      "instruction": "Haji dimulai dengan …",
+      "prompt": {
+       "ar": "يَبْدَأُ الحَجُّ بِـ …",
+       "audio": {
+        "src": "/audio/o/9a373ea05cff7c9b.mp3"
+       }
+      },
+      "answer": "ihram dari miqat",
+      "options": [
+       "ihram dari miqat",
+       "tawaf di sekeliling Ka'bah",
+       "sai antara Safa dan Marwah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "بَرْنامَجُ رِحْلَةِ العُمْرَةِ",
+        "id": "Jadwal perjalanan umrah",
+        "audio": {
+         "src": "/audio/o/3b63718ce532f109.mp3"
+        }
+       },
+       {
+        "ar": "الاِسْمُ: فاطِمَةُ",
+        "id": "Nama: Fatimah",
+        "audio": {
+         "src": "/audio/o/bf5e14a14304e5d9.mp3"
+        }
+       },
+       {
+        "ar": "المُرافِقَةُ: أُمُّها، الحاجَّةُ آمِنَةُ",
+        "id": "Pendamping: ibunya, Hajah Aminah",
+        "audio": {
+         "src": "/audio/o/75a7703e948a23cf.mp3"
+        }
+       },
+       {
+        "ar": "المُغادَرَةُ: مِنْ جاكَرْتا، يَوْمَ السَّبْتِ",
+        "id": "Keberangkatan: dari Jakarta, hari Sabtu",
+        "audio": {
+         "src": "/audio/o/8cfb49de5f725bb9.mp3"
+        }
+       },
+       {
+        "ar": "المَدِينَةُ المُنَوَّرَةُ: أَرْبَعَةُ أَيّامٍ",
+        "id": "Madinah: empat hari",
+        "audio": {
+         "src": "/audio/o/b8fe30bcc50ff8cb.mp3"
+        }
+       },
+       {
+        "ar": "مَكَّةُ المُكَرَّمَةُ: خَمْسَةُ أَيّامٍ",
+        "id": "Makkah: lima hari",
+        "audio": {
+         "src": "/audio/o/bf9f2274e419ad94.mp3"
+        }
+       },
+       {
+        "ar": "الجَماعَةُ: سَبْعَةَ عَشَرَ مُعْتَمِرًا",
+        "id": "Rombongan: tujuh belas jemaah umrah",
+        "audio": {
+         "src": "/audio/o/37e55877c62cc739.mp3"
+        }
+       },
+       {
+        "ar": "دَرْسُ المَناسِكِ: يَوْمَ الأَحَدِ فِي مَسْجِدِ الحَيِّ",
+        "id": "Kelas manasik: hari Ahad di masjid kompleks",
+        "audio": {
+         "src": "/audio/o/0320e8e62b31c393.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Kartu jadwal umrah"
+      },
+      "imgs": [
+       "/img/o/u14-kartu-umrah.webp"
+      ],
+      "instruction_id": "Ini kartu jadwal umrah Bu Fatimah dari biro perjalanan. Baca datanya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d8-kartu-madinah",
+      "instruction": "Berapa hari rombongan di Madinah?",
+      "prompt": {
+       "id": "Menurut kartu"
+      },
+      "answer": "4 hari",
+      "options": [
+       "4 hari",
+       "5 hari",
+       "9 hari"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d8-kartu-pendamping",
+      "instruction": "Siapa pendamping Bu Fatimah?",
+      "prompt": {
+       "ar": "المُرافِقَةُ: …",
+       "audio": {
+        "src": "/audio/o/e3edeadd792dc450.mp3"
+       }
+      },
+      "answer": "Ibunya, Hajah Aminah",
+      "options": [
+       "Ibunya, Hajah Aminah",
+       "Suaminya, Pak Ahmad",
+       "Anaknya, Nur"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d8-kartu-jumlah",
+      "instruction": "Berapa orang dalam rombongan?",
+      "prompt": {
+       "ar": "سَبْعَةَ عَشَرَ مُعْتَمِرًا",
+       "audio": {
+        "src": "/audio/o/fd6586ee575fe494.mp3"
+       }
+      },
+      "answer": "17",
+      "options": [
+       "17",
+       "7",
+       "70"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d8-kartu-berangkat",
+      "instruction": "Dari kota mana rombongan berangkat?",
+      "prompt": {
+       "id": "Menurut kartu"
+      },
+      "answer": "Jakarta",
+      "options": [
+       "Jakarta",
+       "Bandung",
+       "Makassar"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u14-d8-lat-baca-tawaf-sai",
+     "instruction": "Benar atau salah? \"Jemaah bersai antara Safa dan Marwah.\"",
+     "prompt": {
+      "ar": "يَسْعَى الحُجّاجُ بَيْنَ الصَّفا وَالمَرْوَةِ.",
+      "audio": {
+       "src": "/audio/o/0034dc8165c86331.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d8-lat-kartu-makkah",
+     "instruction": "Berapa hari rombongan di Makkah?",
+     "prompt": {
+      "id": "Menurut kartu"
+     },
+     "answer": "5 hari",
+     "options": [
+      "5 hari",
+      "4 hari",
+      "15 hari"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d8-lat-baca-yaqifu",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "يَقِفُ الحُجّاجُ بِعَرَفَةَ.",
+      "audio": {
+       "src": "/audio/o/693d5559cc57f5a6.mp3"
+      }
+     },
+     "answer": "Jemaah haji berwukuf di Arafah.",
+     "options": [
+      "Jemaah haji berwukuf di Arafah.",
+      "Jemaah haji bermalam di Mina.",
+      "Jemaah haji bertawaf di Arafah."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d8-lat-kartu-hari",
+     "instruction": "Hari apa rombongan berangkat?",
+     "prompt": {
+      "id": "Menurut kartu"
+     },
+     "answer": "Sabtu",
+     "options": [
+      "Sabtu",
+      "Ahad",
+      "Jumat"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d8-lat-baca-rukun",
+     "instruction": "Benar atau salah? \"Haji adalah salah satu rukun Islam.\"",
+     "prompt": {
+      "ar": "الحَجُّ رُكْنٌ مِنْ أَرْكانِ الإِسْلامِ.",
+      "audio": {
+       "src": "/audio/o/2b4ad0988f964399.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u14-d9",
+   "dars": 9,
+   "title_id": "Menulis: imla'",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "حَجٌّ",
+        "id": "haji",
+        "audio": {
+         "src": "/audio/o/6aa9724c1820fd91.mp3"
+        }
+       },
+       {
+        "ar": "عُمْرَةٌ",
+        "id": "umrah",
+        "audio": {
+         "src": "/audio/o/629aaf32c9e3b614.mp3"
+        }
+       },
+       {
+        "ar": "طَوافٌ",
+        "id": "tawaf",
+        "audio": {
+         "src": "/audio/o/7c66640a4f8d5878.mp3"
+        }
+       },
+       {
+        "ar": "مِيقاتٌ",
+        "id": "miqat",
+        "audio": {
+         "src": "/audio/o/4cf649357ccee876.mp3"
+        }
+       },
+       {
+        "ar": "دُعاءٌ",
+        "id": "doa",
+        "audio": {
+         "src": "/audio/o/44edb4f8b8ad1dc5.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata-kata unit ini"
+      },
+      "instruction_id": "Telusuri katanya. Perhatikan huruf yang mirip bunyinya: ط/ت, ح/هـ, ء/ع, dan ي panjang pada مِيقاتٌ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d9-imla-tawaf",
+      "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+      "prompt": {
+       "tts": "طَوافٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/7c66640a4f8d5878.mp3"
+       }
+      },
+      "answer": "طَوافٌ",
+      "options": [
+       "طَوافٌ",
+       "تَوافٌ",
+       "طَوَفٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "طَوافٌ": {
+        "src": "/audio/o/7c66640a4f8d5878.mp3"
+       },
+       "تَوافٌ": {
+        "src": "/audio/o/b39977b937b34d2d.mp3"
+       },
+       "طَوَفٌ": {
+        "src": "/audio/o/61a98f2d029959d7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d9-imla-miqat",
+      "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+      "prompt": {
+       "tts": "مِيقاتٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/4cf649357ccee876.mp3"
+       }
+      },
+      "answer": "مِيقاتٌ",
+      "options": [
+       "مِيقاتٌ",
+       "مِقاتٌ",
+       "مِيكاتٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مِيقاتٌ": {
+        "src": "/audio/o/4cf649357ccee876.mp3"
+       },
+       "مِقاتٌ": {
+        "src": "/audio/o/d95f06002d29d808.mp3"
+       },
+       "مِيكاتٌ": {
+        "src": "/audio/o/566b5d2574aadf68.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d9-imla-dua",
+      "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+      "prompt": {
+       "tts": "دُعاءٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/44edb4f8b8ad1dc5.mp3"
+       }
+      },
+      "answer": "دُعاءٌ",
+      "options": [
+       "دُعاءٌ",
+       "ضُعاءٌ",
+       "دُعاةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "دُعاءٌ": {
+        "src": "/audio/o/44edb4f8b8ad1dc5.mp3"
+       },
+       "ضُعاءٌ": {
+        "src": "/audio/o/3e8b503b77fe92e4.mp3"
+       },
+       "دُعاةٌ": {
+        "src": "/audio/o/67573ad06ee54168.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u14-d9-imla-hajjah",
+      "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+      "prompt": {
+       "tts": "حاجَّةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/dc4cc1bd6bc86643.mp3"
+       }
+      },
+      "answer": "حاجَّةٌ",
+      "options": [
+       "حاجَّةٌ",
+       "هاجَّةٌ",
+       "حَجَّةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "حاجَّةٌ": {
+        "src": "/audio/o/dc4cc1bd6bc86643.mp3"
+       },
+       "هاجَّةٌ": {
+        "src": "/audio/o/1540b0452e8d9b20.mp3"
+       },
+       "حَجَّةٌ": {
+        "src": "/audio/o/acc338ce952fec18.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d9-imla-eja-umrah",
+      "instruction": "Imla': dengarkan, lalu susun hurufnya",
+      "prompt": {
+       "tts": "عُمْرَةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/629aaf32c9e3b614.mp3"
+       }
+      },
+      "answer": "ع م ر ة",
+      "tokens": [
+       "ع",
+       "م",
+       "ر",
+       "ة",
+       "أ"
+      ],
+      "audioMap": {
+       "ع": {
+        "src": "/audio/o/3bd72853336f59da.mp3"
+       },
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "ة": {
+        "src": "/audio/o/c82585cd69de5894.mp3"
+       },
+       "أ": {
+        "src": "/audio/o/16dfbde94d5f6724.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d9-imla-hajjat",
+      "instruction": "Imla': dengarkan, lalu susun kalimat yang kamu dengar",
+      "prompt": {
+       "tts": "مِنْ أَيْنَ حَجَّتْ جَدَّتُكَ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/73180df3744573ce.mp3"
+       }
+      },
+      "answer": "مِنْ أَيْنَ حَجَّتْ جَدَّتُكَ",
+      "tokens": [
+       "مِنْ",
+       "أَيْنَ",
+       "حَجَّتْ",
+       "جَدَّتُكَ",
+       "إِلَى"
+      ],
+      "audioMap": {
+       "مِنْ": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       },
+       "أَيْنَ": {
+        "src": "/audio/o/2c4225894606e007.mp3"
+       },
+       "حَجَّتْ": {
+        "src": "/audio/o/2a4a4946066ff195.mp3"
+       },
+       "جَدَّتُكَ": {
+        "src": "/audio/o/d56d65793dda6498.mp3"
+       },
+       "إِلَى": {
+        "src": "/audio/o/57551989bbc39ffa.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d9-imla-rakatain",
+      "instruction": "Imla': dengarkan, lalu susun kalimat yang kamu dengar",
+      "prompt": {
+       "tts": "صَلاةُ الفَجْرِ رَكْعَتانِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/433bdd96f4e046e0.mp3"
+       }
+      },
+      "answer": "صَلاةُ الفَجْرِ رَكْعَتانِ",
+      "tokens": [
+       "صَلاةُ",
+       "الفَجْرِ",
+       "رَكْعَتانِ",
+       "رَكْعَتَيْنِ"
+      ],
+      "audioMap": {
+       "صَلاةُ": {
+        "src": "/audio/o/4d17806fb43bef19.mp3"
+       },
+       "الفَجْرِ": {
+        "src": "/audio/o/f27a12588d9212c5.mp3"
+       },
+       "رَكْعَتانِ": {
+        "src": "/audio/o/7bcc04335a325d15.mp3"
+       },
+       "رَكْعَتَيْنِ": {
+        "src": "/audio/o/bd793d4bb93c326a.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "سافَرَتْ أُمِّي لِلْعُمْرَةِ.",
+        "id": "Ibuku berangkat umrah.",
+        "audio": {
+         "src": "/audio/o/e0d1655fe9d07cc2.mp3"
+        }
+       },
+       {
+        "ar": "الطَّوافُ سَبْعَةُ أَشْواطٍ.",
+        "id": "Tawaf itu tujuh putaran.",
+        "audio": {
+         "src": "/audio/o/5efeeb02ab846f6d.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Menyusun kalimat"
+      },
+      "instruction_id": "Salin kalimat ini lengkap dengan harakatnya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d9-kalimat-tawaf-sabah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Tawaf itu tujuh putaran."
+      },
+      "answer": "الطَّوافُ سَبْعَةُ أَشْواطٍ",
+      "tokens": [
+       "الطَّوافُ",
+       "سَبْعَةُ",
+       "أَشْواطٍ",
+       "سَبْعُ"
+      ],
+      "audioMap": {
+       "الطَّوافُ": {
+        "src": "/audio/o/a7d952a08ca627d2.mp3"
+       },
+       "سَبْعَةُ": {
+        "src": "/audio/o/62835bc1a8ce3781.mp3"
+       },
+       "أَشْواطٍ": {
+        "src": "/audio/o/e8a4f2796bdf4097.mp3"
+       },
+       "سَبْعُ": {
+        "src": "/audio/o/6e24bf73d78dc891.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d9-kalimat-tabda",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kita memulai umrah dengan ihram."
+      },
+      "answer": "نَبْدَأُ العُمْرَةَ بِالإِحْرامِ",
+      "tokens": [
+       "نَبْدَأُ",
+       "العُمْرَةَ",
+       "بِالإِحْرامِ",
+       "بِالطَّوافِ"
+      ],
+      "audioMap": {
+       "نَبْدَأُ": {
+        "src": "/audio/o/8b52076ba0b4ed7b.mp3"
+       },
+       "العُمْرَةَ": {
+        "src": "/audio/o/9633ab6e43feca82.mp3"
+       },
+       "بِالإِحْرامِ": {
+        "src": "/audio/o/8937909a7a0a139c.mp3"
+       },
+       "بِالطَّوافِ": {
+        "src": "/audio/o/4572538902052b6c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u14-d9-kalimat-umrah-ummi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Salat sunah tawaf dua rakaat."
+      },
+      "answer": "صَلاةُ الطَّوافِ رَكْعَتانِ",
+      "tokens": [
+       "صَلاةُ",
+       "الطَّوافِ",
+       "رَكْعَتانِ",
+       "رَكْعَتَيْنِ"
+      ],
+      "audioMap": {
+       "صَلاةُ": {
+        "src": "/audio/o/4d17806fb43bef19.mp3"
+       },
+       "الطَّوافِ": {
+        "src": "/audio/o/2796761f389a5c12.mp3"
+       },
+       "رَكْعَتانِ": {
+        "src": "/audio/o/7bcc04335a325d15.mp3"
+       },
+       "رَكْعَتَيْنِ": {
+        "src": "/audio/o/bd793d4bb93c326a.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u14-d9-lat-imla-kabah",
+     "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+     "prompt": {
+      "tts": "الكَعْبَةُ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/da13867a109bf623.mp3"
+      }
+     },
+     "answer": "الكَعْبَةُ",
+     "options": [
+      "الكَعْبَةُ",
+      "القَعْبَةُ",
+      "الكَأْبَةُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "الكَعْبَةُ": {
+       "src": "/audio/o/da13867a109bf623.mp3"
+      },
+      "القَعْبَةُ": {
+       "src": "/audio/o/310cde0b6d2a0a9c.mp3"
+      },
+      "الكَأْبَةُ": {
+       "src": "/audio/o/47504457b4046e26.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u14-d9-lat-imla-mina",
+     "instruction": "Imla': dengarkan, lalu pilih tulisan yang benar",
+     "prompt": {
+      "tts": "مِنًى",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/597d383d3d7c674f.mp3"
+      }
+     },
+     "answer": "مِنًى",
+     "options": [
+      "مِنًى",
+      "مِينًى",
+      "مُنًى"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "مِنًى": {
+       "src": "/audio/o/597d383d3d7c674f.mp3"
+      },
+      "مِينًى": {
+       "src": "/audio/o/9722d292e8f2b260.mp3"
+      },
+      "مُنًى": {
+       "src": "/audio/o/fc7aaa62d54072ac.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u14-d9-lat-imla-eja-sai",
+     "instruction": "Imla': dengarkan, lalu susun hurufnya",
+     "prompt": {
+      "tts": "سَعْيٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/6a57cc14ee938f8f.mp3"
+      }
+     },
+     "answer": "س ع ي",
+     "tokens": [
+      "س",
+      "ع",
+      "ي",
+      "ص"
+     ],
+     "audioMap": {
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      },
+      "ع": {
+       "src": "/audio/o/3bd72853336f59da.mp3"
+      },
+      "ي": {
+       "src": "/audio/o/51f9dfe25dac5366.mp3"
+      },
+      "ص": {
+       "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u14-d9-lat-imla-mata-safar",
+     "instruction": "Imla': dengarkan, lalu susun kalimat yang kamu dengar",
+     "prompt": {
+      "tts": "مَتَى السَّفَرُ؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/31dbb1074ea205b2.mp3"
+      }
+     },
+     "answer": "مَتَى السَّفَرُ",
+     "tokens": [
+      "مَتَى",
+      "السَّفَرُ",
+      "كَيْفَ"
+     ],
+     "audioMap": {
+      "مَتَى": {
+       "src": "/audio/o/b914cba783c69620.mp3"
+      },
+      "السَّفَرُ": {
+       "src": "/audio/o/e39ea63cbaba55ac.mp3"
+      },
+      "كَيْفَ": {
+       "src": "/audio/o/917bb58b886deaa6.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u14-d9-lat-kalimat-syahrain",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Liburanku dua hari."
+     },
+     "answer": "عُطْلَتِي يَوْمانِ",
+     "tokens": [
+      "عُطْلَتِي",
+      "يَوْمانِ",
+      "يَوْمَيْنِ"
+     ],
+     "audioMap": {
+      "عُطْلَتِي": {
+       "src": "/audio/o/1bb8916af8750d14.mp3"
+      },
+      "يَوْمانِ": {
+       "src": "/audio/o/892020de12ed8869.mp3"
+      },
+      "يَوْمَيْنِ": {
+       "src": "/audio/o/065186a06f48a08b.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

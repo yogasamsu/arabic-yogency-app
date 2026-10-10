@@ -1,0 +1,2713 @@
+{
+  "unit": 15,
+  "book": "1b",
+  "title_ar": "الصِّحَّةُ",
+  "title_id": "Kesehatan",
+  "notes": "Semester 2. Dialog 1: Rizki–Budi di asrama putra (Budi demam dan batuk sesudah main bola di bawah hujan). Dialog 2: Siti–Aisyah di asrama putri (Aisyah sakit perut karena sambal). Dialog 3: Bu Fatimah dan Pak Wayan di puskesmas Bandung (sakit gigi, janji dengan dokter gigi, harga obat). Pola: أَشْعُرُ بِـ، عِنْدِي أَلَمٌ فِي …، هَلْ عِنْدَكَ/عِنْدَكِ …؟، لِماذا + madhi ← لِأَنِّي/لِأَنَّهُ، شَفاكَ/شَفاكِ اللّٰهُ، مُنْذُ. Bilangan: مِئَة dan أَلْف + tamyiz untuk harga obat dalam rupiah. Bunyi: dhammah dan wau (u pendek/panjang). Menulis: mengisi kartu berobat dan imla'. Bacaan 1B: paragraf 8 baris, kartu berobat, dan struk apotek. Kata Indonesia سامْبَل ditulis tanpa i'rab seperti nama. Pak Wayan tidak diberi ungkapan doa islami (agamanya tidak ditentukan). Nasihat kesehatan dibatasi pada minum air, istirahat, dan tidur cukup. Cek kemiripan ABY belum dilakukan: penulis tidak membuka teks ABY. Pemeriksaan independen (2026-10-04): harakat dan i'rab diperiksa baris demi baris, termasuk semua bilangan مِئَة/أَلْف + tamyiz (benar). Perbaikan: وايانْ → وايان (ejaan builder, tanpa sukun); emoji soal 'Pak Wayan sakit apa' diganti 🏥 karena 🤕 membocorkan/mengecoh; terjemahan شَفاكَ اللّٰهُ untuk Pak Wayan diseragamkan; baris kartu berobat التّارِيخُ: يَوْمُ الثُّلاثاءِ → اليَوْمُ: الثُّلاثاءُ (isi tanggal bukan nama hari); pasangan bunyi دُرٌّ/دُورٌ (jarang) dibuang, soalnya diganti (dengar-hurr, lat-dengar-du), soal cari u panjang memakai سُوقٌ. جُنُبٌ/جُنُوبٌ، سُرُرٌ/سُرُورٌ، حُرٌّ/حُورٌ dipertahankan: tidak ada pasangan minimal u pendek/panjang yang lebih umum, dan kata-katanya dikenal dari konteks keislaman. Sapaan يا سَيِّدُ وايان dan يا دُكْتُورَةُ dipertahankan: wajar untuk dokter–pasien di puskesmas walau bertetangga. سامْبَل ditulis seperti رَنْدانْغ di Unit 5. شِفاء tidak diberi tanda serapan (syifa tidak pasti ada di KBBI); آمِين/amin dan صِحَّة/sehat, قَلْب/kalbu tetap. Cek kemiripan ABY 1/15 (hlm. PDF 186–193, visual; cek_kemiripan.py tidak mencakup 1B): dialog 1 ABY (dua pasien di rumah sakit: dokter gigi, dokter THT, janji jam 10) memuat بِمَ تَشْعُرُ؟ ← أَشْعُرُ بِأَلَمٍ شَدِيدٍ فِي أَسْنانِي; pembuka dialog 3 kita (بِمَ تَشْعُرُ؟ ← عِنْدِي أَلَمٌ شَدِيدٌ فِي أَسْنانِي) ditulis ulang menjadi ما بِكَ؟ ← أَسْنانِي يا دُكْتُورَةُ! الأَلَمُ شَدِيدٌ. Dialog 2 ABY (guru–murid, flu, ambulans, laporan medis) dan dialog 3 ABY (suami–istri, tekanan darah, gula) tidak mirip; شَفاكَ اللّٰهُ/آمِين hanya ungkapan baku. Latihan ABY (jodohkan gambar organ, puluhan 20–100) berbeda dari latihan kita. Cek susun kalimat (arrange) satu urutan: kalimat yang punya urutan lain yang juga benar diganti (kunci tetap): pola عِنْدِي أَلَمٌ فِي … (bisa عِنْدِي فِي رَأْسِي أَلَمٌ) → الأَلَمُ فِي رَأْسِي/بَطْنِي/أَسْنانِي (jawaban atas أَيْنَ الأَلَمُ؟), termasuk dua soal imla'; عِنْدِي أَلَمٌ شَدِيدٌ فِي أَسْنانِي → الأَلَمُ شَدِيدٌ جِدًّا; ماذا أَكَلْتِ اليَوْمَ → ماذا أَكَلْتِ مَعَ الأَرُزِّ; مَوْعِدُكَ مَعَ طَبِيبِ الأَسْنانِ غَدًا → مَتَى مَوْعِدُكَ مَعَ طَبِيبِ الأَسْنانِ. Urutan bertanda (mendahulukan jar-majrur sebelum fi'il/kata tanya) tidak dihitung sebagai alternatif. Suara figuran tidak dipakai: adegan puskesmas sudah wajar dengan dua tokoh. Atas permintaan koordinator: kartu kosakata dialog 3 dikurangi tumpang-tindihnya dengan kartu ABY: طَبِيبُ الأَسْنانِ dibuang (bisa dipahami dari طَبِيب + أَسْنان), شَدِيدٌ menjadi frasa الأَلَمُ شَدِيدٌ, ditambah لا أَنامُ جَيِّدًا dan مُنْذُ يَوْمَيْنِ dari dialog kita.",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Budi demam",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Pagi hari di asrama putra. Rizki membangunkan Budi untuk masuk kelas, tetapi Budi sakit.",
+          "rows": [
+            {
+              "who": "rizki",
+              "ar": "يا بُودِي، قُمْ! الدَّرْسُ فِي السّاعَةِ السّابِعَةِ.",
+              "id": "Budi, bangun! Pelajaran jam tujuh."
+            },
+            {
+              "who": "budi",
+              "ar": "آسِفٌ يا رِزْقِي، أَنا مَرِيضٌ.",
+              "id": "Maaf, Rizki, saya sakit."
+            },
+            {
+              "who": "rizki",
+              "ar": "ما بِكَ؟ بِمَ تَشْعُرُ؟",
+              "id": "Kamu kenapa? Apa yang kamu rasakan? (lk)"
+            },
+            {
+              "who": "budi",
+              "ar": "أَشْعُرُ بِحُمَّى، وَعِنْدِي سُعالٌ.",
+              "id": "Saya demam, dan saya batuk."
+            },
+            {
+              "who": "rizki",
+              "ar": "هَلْ عِنْدَكَ صُداعٌ أَيْضًا؟",
+              "id": "Apakah kamu juga sakit kepala? (lk)"
+            },
+            {
+              "who": "budi",
+              "ar": "نَعَمْ، عِنْدِي أَلَمٌ فِي رَأْسِي.",
+              "id": "Ya, kepala saya sakit."
+            },
+            {
+              "who": "rizki",
+              "ar": "لِماذا لَعِبْتَ تَحْتَ المَطَرِ أَمْسِ؟",
+              "id": "Kenapa kemarin kamu main di bawah hujan? (lk)"
+            },
+            {
+              "who": "budi",
+              "ar": "لِأَنِّي أُحِبُّ كُرَةَ القَدَمِ!",
+              "id": "Karena saya suka sepak bola!"
+            },
+            {
+              "who": "rizki",
+              "ar": "هَيّا إِلَى عِيادَةِ المَعْهَدِ. شَفاكَ اللّٰهُ.",
+              "id": "Ayo ke klinik ma'had. Semoga Allah menyembuhkanmu. (lk)"
+            }
+          ],
+          "img": "u15-budi-demam",
+          "scene": "Budi lying in bed under a blanket in a simple male dormitory room of an Islamic language institute in Yogyakarta, Indonesia, looking feverish and coughing; Rizki, dressed for class with a bag on his shoulder, stands beside the bed looking worried; a rainy morning outside the window."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "ما بِكَ؟",
+              "id": "kamu kenapa? (lk)",
+              "emoji": "😟"
+            },
+            {
+              "ar": "أَشْعُرُ بِـ …",
+              "id": "saya merasa …",
+              "emoji": "🫤"
+            },
+            {
+              "ar": "حُمَّى",
+              "id": "demam",
+              "emoji": "🤒"
+            },
+            {
+              "ar": "سُعالٌ",
+              "id": "batuk",
+              "emoji": "😷"
+            },
+            {
+              "ar": "صُداعٌ",
+              "id": "sakit kepala",
+              "emoji": "🤕"
+            },
+            {
+              "ar": "أَلَمٌ",
+              "id": "rasa sakit, nyeri",
+              "emoji": "😣"
+            },
+            {
+              "ar": "رَأْسٌ",
+              "id": "kepala",
+              "emoji": "🙆"
+            },
+            {
+              "ar": "أَمْسِ",
+              "id": "kemarin",
+              "emoji": "📅"
+            },
+            {
+              "ar": "لِأَنِّي",
+              "id": "karena saya",
+              "emoji": "💬"
+            },
+            {
+              "ar": "عِيادَةٌ",
+              "id": "klinik",
+              "emoji": "🏥"
+            },
+            {
+              "ar": "شَفاكَ اللّٰهُ",
+              "id": "semoga Allah menyembuhkanmu (lk)",
+              "emoji": "🤲"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "bima-tasyur-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "بِمَ تَشْعُرُ؟"
+          },
+          "answer": "Apa yang kamu rasakan? (lk)",
+          "options": [
+            "Apa yang kamu rasakan? (lk)",
+            "Kamu mau apa? (lk)",
+            "Kamu dari mana? (lk)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-demam",
+          "instruction": "Pilih kalimat yang cocok dengan gambar",
+          "prompt": {
+            "emoji": "🤒"
+          },
+          "answer": "أَشْعُرُ بِحُمَّى.",
+          "options": [
+            "أَشْعُرُ بِحُمَّى.",
+            "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+            "أَنا جائِعٌ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-sual",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "عِنْدِي سُعالٌ."
+          },
+          "answer": "Saya batuk.",
+          "options": [
+            "Saya batuk.",
+            "Saya demam.",
+            "Saya sakit kepala."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "budi-sebab",
+          "instruction": "Menurut dialog, kenapa Budi sakit?",
+          "prompt": {
+            "id": "بُودِي مَرِيضٌ لِأَنَّهُ …"
+          },
+          "answer": "Dia main sepak bola di bawah hujan.",
+          "options": [
+            "Dia main sepak bola di bawah hujan.",
+            "Dia makan sambal terlalu banyak.",
+            "Dia belajar sampai larut malam."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-sudaa",
+          "instruction": "Budi sakit kepala. Pilih jawaban Budi yang tepat",
+          "prompt": {
+            "ar": "هَلْ عِنْدَكَ صُداعٌ؟"
+          },
+          "answer": "نَعَمْ، عِنْدِي أَلَمٌ فِي رَأْسِي.",
+          "options": [
+            "نَعَمْ، عِنْدِي أَلَمٌ فِي رَأْسِي.",
+            "نَعَمْ، عِنْدِي أَلَمٌ فِي بَطْنِي.",
+            "لا، أَنا مِنْ سُورابايا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-alam-rasi",
+          "prompt": {
+            "id": "Sakitnya di kepala saya."
+          },
+          "answer": "الأَلَمُ فِي رَأْسِي",
+          "extra": [
+            "بَطْنِي"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-humma-sual",
+          "prompt": {
+            "id": "Saya demam, dan saya batuk."
+          },
+          "answer": "أَشْعُرُ بِحُمَّى وَعِنْدِي سُعالٌ",
+          "extra": [
+            "صُداعٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "syafakallah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "شَفاكَ اللّٰهُ."
+          },
+          "answer": "Semoga Allah menyembuhkanmu. (lk)",
+          "options": [
+            "Semoga Allah menyembuhkanmu. (lk)",
+            "Semoga Allah membalas kebaikanmu. (lk)",
+            "Insyaallah."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-asyuru-humma",
+          "who": "budi",
+          "ar": "أَشْعُرُ بِحُمَّى.",
+          "id": "Saya demam."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-ma-bika-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "ما بِكَ؟"
+          },
+          "answer": "Kamu kenapa? (lk)",
+          "options": [
+            "Kamu kenapa? (lk)",
+            "Siapa namamu? (lk)",
+            "Kamu di mana? (lk)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-sudaa",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "عِنْدِي صُداعٌ."
+          },
+          "answer": "Saya sakit kepala.",
+          "options": [
+            "Saya sakit kepala.",
+            "Saya batuk.",
+            "Saya lapar."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-budi-keluhan",
+          "instruction": "Menurut dialog, apa saja keluhan Budi?",
+          "prompt": {
+            "id": "بُودِي مَرِيضٌ"
+          },
+          "answer": "Demam, batuk, dan sakit kepala",
+          "options": [
+            "Demam, batuk, dan sakit kepala",
+            "Sakit perut dan demam",
+            "Sakit gigi saja"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-limadza-laibta",
+          "prompt": {
+            "id": "Kenapa kamu main di bawah hujan? (lk)"
+          },
+          "answer": "لِماذا لَعِبْتَ تَحْتَ المَطَرِ",
+          "extra": [
+            "فَوْقَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-iyadah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "عِيادَةُ المَعْهَدِ"
+          },
+          "answer": "klinik ma'had",
+          "options": [
+            "klinik ma'had",
+            "perpustakaan ma'had",
+            "masjid ma'had"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Aisyah sakit perut",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Malam hari di asrama putri. Siti melihat Aisyah memegangi perutnya.",
+          "rows": [
+            {
+              "who": "siti",
+              "ar": "ما بِكِ يا عائِشَةُ؟",
+              "id": "Kamu kenapa, Aisyah?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+              "id": "Perut saya sakit."
+            },
+            {
+              "who": "siti",
+              "ar": "ماذا أَكَلْتِ اليَوْمَ؟",
+              "id": "Hari ini kamu makan apa? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "أَكَلْتُ أَرُزًّا مَعَ سامْبَل، وَهُوَ حارٌّ جِدًّا.",
+              "id": "Saya makan nasi dengan sambal, dan sambalnya pedas sekali."
+            },
+            {
+              "who": "siti",
+              "ar": "لِماذا أَكَلْتِ سامْبَل كَثِيرًا؟",
+              "id": "Kenapa kamu makan sambal banyak-banyak? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "لِأَنَّهُ طَيِّبٌ جِدًّا!",
+              "id": "Karena enak sekali!"
+            },
+            {
+              "who": "siti",
+              "ar": "هَلْ عِنْدَكِ حُمَّى؟",
+              "id": "Apakah kamu demam? (pr)"
+            },
+            {
+              "who": "aisyah",
+              "ar": "لا، الحَمْدُ لِلّٰهِ.",
+              "id": "Tidak, alhamdulillah."
+            },
+            {
+              "who": "siti",
+              "ar": "اِشْرَبِي ماءً كَثِيرًا وَاسْتَرِيحِي. شَفاكِ اللّٰهُ.",
+              "id": "Minumlah air yang banyak dan istirahatlah. Semoga Allah menyembuhkanmu. (pr)"
+            }
+          ],
+          "img": "u15-aisyah-sakit-perut",
+          "scene": "Aisyah sitting on her bed holding her stomach with a pained face in a tidy female dormitory room in Yogyakarta, Indonesia, at night; Siti sits beside her offering a glass of water; on a small table, a plate with leftover rice and red chili sambal."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "ما بِكِ؟",
+              "id": "kamu kenapa? (pr)",
+              "emoji": "😟"
+            },
+            {
+              "ar": "بَطْنٌ",
+              "id": "perut",
+              "emoji": "🫃"
+            },
+            {
+              "ar": "اليَوْمَ",
+              "id": "hari ini",
+              "emoji": "📆"
+            },
+            {
+              "ar": "حارٌّ",
+              "id": "pedas (juga: panas)",
+              "emoji": "🌶️"
+            },
+            {
+              "ar": "جِدًّا",
+              "id": "sekali, sangat",
+              "emoji": "‼️"
+            },
+            {
+              "ar": "لِأَنَّهُ",
+              "id": "karena dia / karena itu",
+              "emoji": "💬"
+            },
+            {
+              "ar": "اِسْتَرِيحِي",
+              "id": "istirahatlah (pr)",
+              "emoji": "🛌"
+            },
+            {
+              "ar": "شَفاكِ اللّٰهُ",
+              "id": "semoga Allah menyembuhkanmu (pr)",
+              "emoji": "🤲"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "ma-biki-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "ما بِكِ؟"
+          },
+          "answer": "Kamu kenapa? (pr)",
+          "options": [
+            "Kamu kenapa? (pr)",
+            "Kamu makan apa? (pr)",
+            "Kamu dari mana? (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-ma-biki",
+          "instruction": "Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "ما بِكِ يا عائِشَةُ؟"
+          },
+          "answer": "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+          "options": [
+            "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+            "صَباحَ النُّورِ.",
+            "أَنا مِنْ مالِيزِيا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-akaltu",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "أَكَلْتُ أَرُزًّا مَعَ سامْبَل."
+          },
+          "answer": "Saya makan nasi dengan sambal.",
+          "options": [
+            "Saya makan nasi dengan sambal.",
+            "Saya makan roti dengan ayam.",
+            "Saya minum teh dengan gula."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "aisyah-sebab",
+          "instruction": "Menurut dialog, kenapa Aisyah makan banyak sambal?",
+          "prompt": {
+            "id": "لِماذا أَكَلَتْ عائِشَةُ سامْبَل كَثِيرًا؟"
+          },
+          "answer": "Karena sambalnya enak sekali.",
+          "options": [
+            "Karena sambalnya enak sekali.",
+            "Karena dia sangat lapar.",
+            "Karena Siti menyuruhnya."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "aisyah-humma",
+          "instruction": "Menurut dialog, apakah Aisyah demam?",
+          "prompt": {
+            "ar": "هَلْ عِنْدَكِ حُمَّى؟"
+          },
+          "answer": "Tidak, alhamdulillah.",
+          "options": [
+            "Tidak, alhamdulillah.",
+            "Ya, sejak kemarin.",
+            "Ya, dan dia juga batuk."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "nasihat-siti",
+          "instruction": "Apa nasihat Siti untuk Aisyah?",
+          "prompt": {
+            "ar": "اِشْرَبِي ماءً كَثِيرًا وَاسْتَرِيحِي."
+          },
+          "answer": "Minum air yang banyak dan istirahat.",
+          "options": [
+            "Minum air yang banyak dan istirahat.",
+            "Makan sambal lagi besok.",
+            "Pergi ke pasar sekarang."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-alam-batni",
+          "prompt": {
+            "id": "Sakitnya di perut saya."
+          },
+          "answer": "الأَلَمُ فِي بَطْنِي",
+          "extra": [
+            "رَأْسِي"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-hal-indaki-humma",
+          "prompt": {
+            "id": "Apakah kamu demam? (pr)"
+          },
+          "answer": "هَلْ عِنْدَكِ حُمَّى",
+          "extra": [
+            "عِنْدَكَ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-syafakillah",
+          "who": "siti",
+          "ar": "شَفاكِ اللّٰهُ.",
+          "id": "Semoga Allah menyembuhkanmu. (pr)"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-batn-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "بَطْنٌ"
+          },
+          "answer": "perut",
+          "options": [
+            "perut",
+            "kepala",
+            "gigi"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-doa-pr",
+          "instruction": "Temanmu (perempuan) sakit. Kamu mendoakannya …",
+          "prompt": {
+            "id": "Semoga Allah menyembuhkanmu. (pr)",
+            "emoji": "🤲"
+          },
+          "answer": "شَفاكِ اللّٰهُ.",
+          "options": [
+            "شَفاكِ اللّٰهُ.",
+            "شَفاكَ اللّٰهُ.",
+            "جَزاكِ اللّٰهُ خَيْرًا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-hal-humma",
+          "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+          "prompt": {
+            "listen": "هَلْ عِنْدَكِ حُمَّى؟"
+          },
+          "answer": "هَلْ عِنْدَكِ حُمَّى؟",
+          "options": [
+            "هَلْ عِنْدَكِ حُمَّى؟",
+            "هَلْ عِنْدَكِ سُعالٌ؟",
+            "هَلْ عِنْدَكِ صُداعٌ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-madza-akalti",
+          "prompt": {
+            "id": "Kamu makan apa dengan nasi? (pr)"
+          },
+          "answer": "ماذا أَكَلْتِ مَعَ الأَرُزِّ",
+          "extra": [
+            "أَكَلْتَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-harr-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "الطَّعامُ حارٌّ جِدًّا."
+          },
+          "answer": "Makanannya pedas sekali.",
+          "options": [
+            "Makanannya pedas sekali.",
+            "Makanannya enak sekali.",
+            "Makanannya sedikit sekali."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Di puskesmas Bandung",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Bu Fatimah bertugas di puskesmas Bandung. Pasiennya pagi ini Pak Wayan, tetangga keluarga Ahmad.",
+          "rows": [
+            {
+              "who": "bu_fatimah",
+              "ar": "صَباحَ الخَيْرِ يا سَيِّدُ وايان. ما بِكَ؟",
+              "id": "Selamat pagi, Pak Wayan. Bapak kenapa?"
+            },
+            {
+              "who": "pak_wayan",
+              "ar": "أَسْنانِي يا دُكْتُورَةُ! الأَلَمُ شَدِيدٌ.",
+              "id": "Gigi saya, Dokter! Sakitnya parah."
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "مُنْذُ مَتَى؟",
+              "id": "Sejak kapan?"
+            },
+            {
+              "who": "pak_wayan",
+              "ar": "مُنْذُ يَوْمَيْنِ. لا أَنامُ جَيِّدًا.",
+              "id": "Sejak dua hari. Saya tidak bisa tidur nyenyak."
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "هٰذا دَواءٌ لِلْأَلَمِ.",
+              "id": "Ini obat untuk meredakan sakitnya."
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "وَمَوْعِدُكَ مَعَ طَبِيبِ الأَسْنانِ غَدًا.",
+              "id": "Dan jadwal Bapak dengan dokter gigi besok."
+            },
+            {
+              "who": "pak_wayan",
+              "ar": "شُكْرًا. بِكَمْ هٰذا الدَّواءُ؟",
+              "id": "Terima kasih. Berapa harga obat ini?"
+            },
+            {
+              "who": "bu_fatimah",
+              "ar": "بِخَمْسَةِ آلافِ رُوبِيَّةٍ. شَفاكَ اللّٰهُ.",
+              "id": "Lima ribu rupiah. Semoga Allah menyembuhkan Bapak."
+            },
+            {
+              "who": "pak_wayan",
+              "ar": "شُكْرًا جَزِيلًا يا دُكْتُورَةُ.",
+              "id": "Terima kasih banyak, Dokter."
+            }
+          ],
+          "img": "u15-puskesmas",
+          "scene": "Bu Fatimah, a doctor in a white coat and hijab, sitting at her desk in a simple Indonesian community health center (puskesmas) in Bandung, handing a small packet of medicine to Pak Wayan, a middle-aged Balinese man holding his cheek because of a toothache; a few rupiah banknotes on the desk; no readable signs or text."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "سَيِّدٌ",
+              "id": "tuan, bapak (panggilan sopan)",
+              "emoji": "🧔"
+            },
+            {
+              "ar": "دُكْتُورَةٌ",
+              "id": "dokter (pr) (panggilan)",
+              "emoji": "👩‍⚕️"
+            },
+            {
+              "ar": "الأَلَمُ شَدِيدٌ",
+              "id": "sakitnya parah",
+              "emoji": "😖"
+            },
+            {
+              "ar": "أَسْنانٌ",
+              "id": "gigi (jamak)",
+              "emoji": "🦷"
+            },
+            {
+              "ar": "مُنْذُ مَتَى؟",
+              "id": "sejak kapan?",
+              "emoji": "⏳"
+            },
+            {
+              "ar": "مُنْذُ يَوْمَيْنِ",
+              "id": "sejak dua hari",
+              "emoji": "⏳"
+            },
+            {
+              "ar": "دَواءٌ",
+              "id": "obat",
+              "emoji": "💊"
+            },
+            {
+              "ar": "مَوْعِدٌ",
+              "id": "janji temu, jadwal",
+              "emoji": "🗓️"
+            },
+            {
+              "ar": "لا أَنامُ جَيِّدًا",
+              "id": "saya tidak bisa tidur nyenyak",
+              "emoji": "😴"
+            },
+            {
+              "ar": "خَمْسَةُ آلافٍ",
+              "id": "lima ribu",
+              "emoji": "💵"
+            },
+            {
+              "ar": "شُكْرًا جَزِيلًا",
+              "id": "terima kasih banyak",
+              "emoji": "🙏"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "mundzu-mata-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مُنْذُ مَتَى؟"
+          },
+          "answer": "Sejak kapan?",
+          "options": [
+            "Sejak kapan?",
+            "Sampai kapan?",
+            "Berapa harganya?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "wayan-sakit",
+          "instruction": "Menurut dialog, Pak Wayan sakit apa?",
+          "prompt": {
+            "id": "وايان مَرِيضٌ",
+            "emoji": "🏥"
+          },
+          "answer": "Sakit gigi",
+          "options": [
+            "Sakit gigi",
+            "Sakit kepala",
+            "Demam"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "wayan-mundzu",
+          "instruction": "Sejak kapan Pak Wayan sakit?",
+          "prompt": {
+            "ar": "مُنْذُ يَوْمَيْنِ."
+          },
+          "answer": "Sejak dua hari",
+          "options": [
+            "Sejak dua hari",
+            "Sejak kemarin",
+            "Sejak seminggu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-bima",
+          "instruction": "Dokter bertanya. Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "بِمَ تَشْعُرُ؟"
+          },
+          "answer": "عِنْدِي أَلَمٌ فِي أَسْنانِي.",
+          "options": [
+            "عِنْدِي أَلَمٌ فِي أَسْنانِي.",
+            "بِخَمْسَةِ آلافِ رُوبِيَّةٍ.",
+            "مُنْذُ يَوْمَيْنِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-harga-obat",
+          "instruction": "Dengarkan. Berapa harga obatnya?",
+          "prompt": {
+            "listen": "بِخَمْسَةِ آلافِ رُوبِيَّةٍ."
+          },
+          "answer": "Rp5.000",
+          "options": [
+            "Rp5.000",
+            "Rp50.000",
+            "Rp500"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "wayan-mawid",
+          "instruction": "Kapan Pak Wayan bertemu dokter gigi?",
+          "prompt": {
+            "ar": "مَوْعِدُكَ مَعَ طَبِيبِ الأَسْنانِ غَدًا."
+          },
+          "answer": "Besok",
+          "options": [
+            "Besok",
+            "Hari ini",
+            "Kemarin"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-bikam-dawa",
+          "prompt": {
+            "id": "Berapa harga obat ini?"
+          },
+          "answer": "بِكَمْ هٰذا الدَّواءُ",
+          "extra": [
+            "هٰذِهِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-mawiduka",
+          "prompt": {
+            "id": "Kapan jadwalmu dengan dokter gigi? (lk)"
+          },
+          "answer": "مَتَى مَوْعِدُكَ مَعَ طَبِيبِ الأَسْنانِ",
+          "extra": [
+            "مَوْعِدُكِ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-bikam-dawa",
+          "who": "pak_wayan",
+          "ar": "بِكَمْ هٰذا الدَّواءُ؟",
+          "id": "Berapa harga obat ini?"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dawa-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "دَواءٌ"
+          },
+          "answer": "obat",
+          "options": [
+            "obat",
+            "klinik",
+            "janji temu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-asnan-gambar",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🦷"
+          },
+          "answer": "أَسْنانٌ",
+          "options": [
+            "أَسْنانٌ",
+            "رَأْسٌ",
+            "بَطْنٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-mundzu",
+          "instruction": "Dengarkan. Sejak kapan dia sakit?",
+          "prompt": {
+            "listen": "عِنْدِي صُداعٌ مُنْذُ ثَلاثَةِ أَيّامٍ."
+          },
+          "answer": "Sejak tiga hari",
+          "options": [
+            "Sejak tiga hari",
+            "Sejak dua hari",
+            "Sejak kemarin"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-alam-syadid",
+          "prompt": {
+            "id": "Sakitnya parah sekali."
+          },
+          "answer": "الأَلَمُ شَدِيدٌ جِدًّا",
+          "extra": [
+            "أَلَمٌ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-syukran-jazilan",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "شُكْرًا جَزِيلًا."
+          },
+          "answer": "Terima kasih banyak.",
+          "options": [
+            "Terima kasih banyak.",
+            "Sama-sama.",
+            "Semoga lekas sembuh."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & ratusan–ribuan",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Sakit dan tubuh",
+          "rows": [
+            {
+              "ar": "صِحَّةٌ",
+              "id": "kesehatan",
+              "emoji": "💪",
+              "serapan": "sehat"
+            },
+            {
+              "ar": "مَرِيضٌ · مَرِيضَةٌ",
+              "id": "sakit (lk · pr)",
+              "emoji": "🤒"
+            },
+            {
+              "ar": "مَرَضٌ",
+              "id": "penyakit",
+              "emoji": "🦠"
+            },
+            {
+              "ar": "أَلَمٌ",
+              "id": "rasa sakit, nyeri",
+              "emoji": "😣"
+            },
+            {
+              "ar": "صُداعٌ",
+              "id": "sakit kepala",
+              "emoji": "🤕"
+            },
+            {
+              "ar": "حُمَّى",
+              "id": "demam",
+              "emoji": "🌡️"
+            },
+            {
+              "ar": "سُعالٌ",
+              "id": "batuk",
+              "emoji": "😷"
+            },
+            {
+              "ar": "رَأْسٌ",
+              "id": "kepala",
+              "emoji": "🙆"
+            },
+            {
+              "ar": "بَطْنٌ",
+              "id": "perut",
+              "emoji": "🫃"
+            },
+            {
+              "ar": "قَلْبٌ",
+              "id": "jantung, hati",
+              "emoji": "🫀",
+              "serapan": "kalbu"
+            },
+            {
+              "ar": "أَسْنانٌ",
+              "id": "gigi (jamak)",
+              "emoji": "🦷"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Berobat",
+          "rows": [
+            {
+              "ar": "عِيادَةٌ",
+              "id": "klinik",
+              "emoji": "🏥"
+            },
+            {
+              "ar": "صَيْدَلِيَّةٌ",
+              "id": "apotek",
+              "emoji": "🏪"
+            },
+            {
+              "ar": "دَواءٌ",
+              "id": "obat",
+              "emoji": "💊"
+            },
+            {
+              "ar": "شِفاءٌ",
+              "id": "kesembuhan",
+              "emoji": "🌿"
+            },
+            {
+              "ar": "مَوْعِدٌ",
+              "id": "janji temu, jadwal",
+              "emoji": "🗓️"
+            },
+            {
+              "ar": "بِطاقَةُ المَرِيضِ",
+              "id": "kartu berobat",
+              "emoji": "🪪"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Ratusan dan ribuan",
+          "rows": [
+            {
+              "ar": "مِئَةٌ",
+              "id": "100",
+              "emoji": "💯"
+            },
+            {
+              "ar": "مِئَتانِ",
+              "id": "200"
+            },
+            {
+              "ar": "خَمْسُمِئَةٍ",
+              "id": "500"
+            },
+            {
+              "ar": "أَلْفٌ",
+              "id": "1.000"
+            },
+            {
+              "ar": "أَلْفانِ",
+              "id": "2.000"
+            },
+            {
+              "ar": "خَمْسَةُ آلافٍ",
+              "id": "5.000"
+            },
+            {
+              "ar": "عَشَرَةُ آلافٍ",
+              "id": "10.000"
+            },
+            {
+              "ar": "عِشْرُونَ أَلْفًا",
+              "id": "20.000"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "humma-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "حُمَّى"
+          },
+          "answer": "demam",
+          "options": [
+            "demam",
+            "batuk",
+            "sakit kepala"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-obat",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "💊"
+          },
+          "answer": "دَواءٌ",
+          "options": [
+            "دَواءٌ",
+            "مَوْعِدٌ",
+            "قَلْبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-sudaa-kata",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "صُداعٌ"
+          },
+          "answer": "sakit kepala",
+          "options": [
+            "sakit kepala",
+            "batuk",
+            "perut"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "saydaliyyah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "صَيْدَلِيَّةٌ"
+          },
+          "answer": "apotek",
+          "options": [
+            "apotek",
+            "klinik",
+            "rumah sakit"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-jantung",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🫀"
+          },
+          "answer": "قَلْبٌ",
+          "options": [
+            "قَلْبٌ",
+            "رَأْسٌ",
+            "أَسْنانٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "hitung-alfan",
+          "instruction": "Berapa hasilnya?",
+          "prompt": {
+            "ar": "أَلْفٌ + أَلْفٌ = ؟"
+          },
+          "answer": "أَلْفانِ",
+          "options": [
+            "أَلْفانِ",
+            "مِئَتانِ",
+            "عَشَرَةُ آلافٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-500",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "خَمْسُمِئَةٍ"
+          },
+          "answer": "500",
+          "options": [
+            "500",
+            "5.000",
+            "50"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-10000",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "عَشَرَةُ آلافٍ"
+          },
+          "answer": "10.000",
+          "options": [
+            "10.000",
+            "1.000",
+            "100"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "angka-200",
+          "instruction": "Angka ini dalam bahasa Arab adalah …",
+          "prompt": {
+            "id": "200"
+          },
+          "answer": "مِئَتانِ",
+          "options": [
+            "مِئَتانِ",
+            "مِئَةٌ",
+            "أَلْفانِ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-sual-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "سُعالٌ"
+          },
+          "answer": "batuk",
+          "options": [
+            "batuk",
+            "demam",
+            "penyakit"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-mawid-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مَوْعِدٌ"
+          },
+          "answer": "janji temu, jadwal",
+          "options": [
+            "janji temu, jadwal",
+            "obat",
+            "kesembuhan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-1000",
+          "instruction": "Dengarkan. Angka berapa?",
+          "prompt": {
+            "listen": "أَلْفٌ"
+          },
+          "answer": "1.000",
+          "options": [
+            "1.000",
+            "100",
+            "2.000"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-angka-5000",
+          "instruction": "Angka ini dalam bahasa Arab adalah …",
+          "prompt": {
+            "id": "5.000"
+          },
+          "answer": "خَمْسَةُ آلافٍ",
+          "options": [
+            "خَمْسَةُ آلافٍ",
+            "خَمْسُمِئَةٍ",
+            "خَمْسُونَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-gambar-kepala",
+          "instruction": "Kata mana artinya \"kepala\"?",
+          "prompt": {
+            "id": "kepala",
+            "emoji": "🙆"
+          },
+          "answer": "رَأْسٌ",
+          "options": [
+            "رَأْسٌ",
+            "بَطْنٌ",
+            "قَلْبٌ"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Mengungkapkan sakit",
+          "groups": [
+            {
+              "title_ar": "أَشْعُرُ بِـ …",
+              "note_id": "أَشْعُرُ بِـ + kata benda berakhiran kasrah = saya merasa …. Pertanyaannya: بِمَ تَشْعُرُ؟ (lk) · بِمَ تَشْعُرِينَ؟ (pr). Kata حُمَّى tidak pernah bertanwin.",
+              "rows": [
+                {
+                  "ar": "أَشْعُرُ بِصُداعٍ.",
+                  "id": "Saya merasa sakit kepala."
+                },
+                {
+                  "ar": "أَشْعُرُ بِحُمَّى.",
+                  "id": "Saya merasa demam."
+                },
+                {
+                  "ar": "بِمَ تَشْعُرِينَ؟",
+                  "id": "Apa yang kamu rasakan? (pr)"
+                }
+              ]
+            },
+            {
+              "title_ar": "عِنْدِي أَلَمٌ فِي …",
+              "note_id": "Sebut bagian tubuh + ـِي (milik saya).",
+              "rows": [
+                {
+                  "ar": "عِنْدِي أَلَمٌ فِي رَأْسِي.",
+                  "id": "Kepala saya sakit."
+                },
+                {
+                  "ar": "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+                  "id": "Perut saya sakit."
+                },
+                {
+                  "ar": "عِنْدِي أَلَمٌ فِي أَسْنانِي.",
+                  "id": "Gigi saya sakit."
+                }
+              ]
+            },
+            {
+              "title_ar": "هَلْ عِنْدَكَ …؟ · هَلْ عِنْدَكِ …؟",
+              "note_id": "عِنْدَكَ untuk laki-laki, عِنْدَكِ untuk perempuan. Jawabannya: نَعَمْ، عِنْدِي … / لا.",
+              "rows": [
+                {
+                  "ar": "هَلْ عِنْدَكَ حُمَّى؟",
+                  "id": "Apakah kamu demam? (lk)"
+                },
+                {
+                  "ar": "هَلْ عِنْدَكِ سُعالٌ؟",
+                  "id": "Apakah kamu batuk? (pr)"
+                },
+                {
+                  "ar": "نَعَمْ، عِنْدِي سُعالٌ.",
+                  "id": "Ya, saya batuk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Bertanya sebab dan mendoakan",
+          "groups": [
+            {
+              "title_ar": "لِماذا + فِعْلٌ ماضٍ ← لِأَنِّي · لِأَنَّهُ",
+              "note_id": "Untuk menanyakan sebab sesuatu yang sudah terjadi: لِماذا + fi'il madhi. Jawabannya diawali لِأَنِّي (karena saya) atau لِأَنَّهُ (karena dia/itu).",
+              "rows": [
+                {
+                  "ar": "لِماذا ذَهَبْتَ إِلَى العِيادَةِ؟",
+                  "id": "Kenapa kamu pergi ke klinik? (lk)"
+                },
+                {
+                  "ar": "لِأَنِّي مَرِيضٌ.",
+                  "id": "Karena saya sakit. (lk)"
+                },
+                {
+                  "ar": "لِماذا لَعِبْتَ تَحْتَ المَطَرِ؟",
+                  "id": "Kenapa kamu main di bawah hujan? (lk)"
+                }
+              ]
+            },
+            {
+              "title_ar": "شَفاكَ اللّٰهُ · شَفاكِ اللّٰهُ",
+              "note_id": "Doa untuk orang sakit: ـكَ untuk laki-laki, ـكِ untuk perempuan. Jawabannya: آمِينَ.",
+              "rows": [
+                {
+                  "ar": "شَفاكَ اللّٰهُ يا بُودِي.",
+                  "id": "Semoga Allah menyembuhkanmu, Budi."
+                },
+                {
+                  "ar": "شَفاكِ اللّٰهُ يا عائِشَةُ.",
+                  "id": "Semoga Allah menyembuhkanmu, Aisyah."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Harga dalam ratusan dan ribuan rupiah",
+          "groups": [
+            {
+              "title_ar": "مِئَةُ رُوبِيَّةٍ · أَلْفُ رُوبِيَّةٍ",
+              "note_id": "Sesudah مِئَة (100) dan أَلْف (1.000), benda yang dihitung (tamyiz) berbentuk tunggal dan berakhiran kasrah: رُوبِيَّةٍ. Untuk 2: مِئَتا / أَلْفا (nun dual hilang karena diikuti kata benda).",
+              "rows": [
+                {
+                  "ar": "مِئَةُ رُوبِيَّةٍ",
+                  "id": "Rp100"
+                },
+                {
+                  "ar": "أَلْفُ رُوبِيَّةٍ",
+                  "id": "Rp1.000"
+                },
+                {
+                  "ar": "أَلْفا رُوبِيَّةٍ",
+                  "id": "Rp2.000"
+                }
+              ]
+            },
+            {
+              "title_ar": "٣–١٠ + آلافٍ · ٣–٩ + مِئَةٍ",
+              "note_id": "3–10 ribu: bilangan + آلاف (jamak, berakhiran kasrah). Karena أَلْف mudzakkar, bilangannya memakai ة: ثَلاثَةُ آلافٍ. Untuk ratusan, مِئَة tetap tunggal dan ditulis menyambung, bilangannya tanpa ة: خَمْسُمِئَةٍ.",
+              "rows": [
+                {
+                  "ar": "ثَلاثَةُ آلافِ رُوبِيَّةٍ",
+                  "id": "Rp3.000"
+                },
+                {
+                  "ar": "خَمْسَةُ آلافِ رُوبِيَّةٍ",
+                  "id": "Rp5.000"
+                },
+                {
+                  "ar": "خَمْسُمِئَةِ رُوبِيَّةٍ",
+                  "id": "Rp500"
+                }
+              ]
+            },
+            {
+              "title_ar": "١١–٩٩ + أَلْفًا",
+              "note_id": "11–99 ribu: أَلْف tunggal berakhiran fathah: عِشْرُونَ أَلْفًا. Bila diikuti رُوبِيَّةٍ, tanwinnya hilang: عِشْرُونَ أَلْفَ رُوبِيَّةٍ.",
+              "rows": [
+                {
+                  "ar": "خَمْسَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ",
+                  "id": "Rp15.000"
+                },
+                {
+                  "ar": "عِشْرُونَ أَلْفَ رُوبِيَّةٍ",
+                  "id": "Rp20.000"
+                },
+                {
+                  "ar": "خَمْسَةٌ وَعِشْرُونَ أَلْفَ رُوبِيَّةٍ",
+                  "id": "Rp25.000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "katakan-sudaa",
+          "instruction": "Kepalamu sakit. Kamu berkata kepada dokter …",
+          "prompt": {
+            "id": "Saya merasa sakit kepala.",
+            "emoji": "🤕"
+          },
+          "answer": "أَشْعُرُ بِصُداعٍ.",
+          "options": [
+            "أَشْعُرُ بِصُداعٍ.",
+            "أَشْعُرُ بِسُعالٍ.",
+            "عِنْدِي أَلَمٌ فِي بَطْنِي."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-asnani",
+          "instruction": "Lengkapi: \"Gigi saya sakit.\"",
+          "prompt": {
+            "ar": "عِنْدِي أَلَمٌ فِي …"
+          },
+          "answer": "أَسْنانِي",
+          "options": [
+            "أَسْنانِي",
+            "رَأْسِي",
+            "بَطْنِي"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "tanya-humma-pr",
+          "instruction": "Kamu bertanya kepada Siti: \"Apakah kamu demam?\"",
+          "prompt": {
+            "id": "Apakah kamu demam? (pr)",
+            "emoji": "👩"
+          },
+          "answer": "هَلْ عِنْدَكِ حُمَّى؟",
+          "options": [
+            "هَلْ عِنْدَكِ حُمَّى؟",
+            "هَلْ عِنْدَكَ حُمَّى؟",
+            "هَلْ عِنْدِي حُمَّى؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "doa-budi",
+          "instruction": "Budi sakit. Kamu mendoakannya …",
+          "prompt": {
+            "id": "Semoga Allah menyembuhkanmu, Budi.",
+            "emoji": "🤲"
+          },
+          "answer": "شَفاكَ اللّٰهُ يا بُودِي.",
+          "options": [
+            "شَفاكَ اللّٰهُ يا بُودِي.",
+            "شَفاكِ اللّٰهُ يا بُودِي.",
+            "جَزاكَ اللّٰهُ خَيْرًا يا بُودِي."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "harga-3000",
+          "instruction": "Pilih bentuk yang benar untuk Rp3.000",
+          "prompt": {
+            "id": "Rp3.000"
+          },
+          "answer": "ثَلاثَةُ آلافِ رُوبِيَّةٍ",
+          "options": [
+            "ثَلاثَةُ آلافِ رُوبِيَّةٍ",
+            "ثَلاثُ آلافِ رُوبِيَّةٍ",
+            "ثَلاثَةُ أَلْفِ رُوبِيَّةٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "harga-15000",
+          "instruction": "Pilih bentuk yang benar untuk Rp15.000",
+          "prompt": {
+            "id": "Rp15.000"
+          },
+          "answer": "خَمْسَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ",
+          "options": [
+            "خَمْسَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ",
+            "خَمْسَةَ عَشَرَ آلافِ رُوبِيَّةٍ",
+            "خَمْسَةُ آلافِ رُوبِيَّةٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "harga-100",
+          "instruction": "Pilih bentuk yang benar untuk Rp100",
+          "prompt": {
+            "id": "Rp100"
+          },
+          "answer": "مِئَةُ رُوبِيَّةٍ",
+          "options": [
+            "مِئَةُ رُوبِيَّةٍ",
+            "مِئَةُ رُوبِيَّاتٍ",
+            "مِئَتا رُوبِيَّةٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-limadza-dzahabta",
+          "prompt": {
+            "id": "Kenapa kamu pergi ke klinik? (lk)"
+          },
+          "answer": "لِماذا ذَهَبْتَ إِلَى العِيادَةِ",
+          "extra": [
+            "ذَهَبْتِ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-liannani-maridh",
+          "prompt": {
+            "id": "Karena saya sakit. (lk)"
+          },
+          "answer": "لِأَنِّي مَرِيضٌ",
+          "extra": [
+            "لِماذا"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-tsamanuhu-20000",
+          "prompt": {
+            "id": "Harganya dua puluh ribu rupiah."
+          },
+          "answer": "ثَمَنُهُ عِشْرُونَ أَلْفَ رُوبِيَّةٍ",
+          "extra": [
+            "آلافِ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tanya-bima-pr",
+          "instruction": "Dokter bertanya kepada Aisyah: \"Apa yang kamu rasakan?\"",
+          "prompt": {
+            "id": "Apa yang kamu rasakan? (pr)"
+          },
+          "answer": "بِمَ تَشْعُرِينَ؟",
+          "options": [
+            "بِمَ تَشْعُرِينَ؟",
+            "بِمَ تَشْعُرُ؟",
+            "بِكَمْ هٰذا؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-harga-2000",
+          "instruction": "Pilih bentuk yang benar untuk Rp2.000",
+          "prompt": {
+            "id": "Rp2.000"
+          },
+          "answer": "أَلْفا رُوبِيَّةٍ",
+          "options": [
+            "أَلْفا رُوبِيَّةٍ",
+            "أَلْفُ رُوبِيَّةٍ",
+            "اِثْنانِ آلافِ رُوبِيَّةٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-asyuru-sudaa",
+          "prompt": {
+            "id": "Saya merasa sakit kepala."
+          },
+          "answer": "أَشْعُرُ بِصُداعٍ",
+          "extra": [
+            "تَشْعُرُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-500",
+          "prompt": {
+            "id": "Harganya lima ratus rupiah."
+          },
+          "answer": "ثَمَنُهُ خَمْسُمِئَةِ رُوبِيَّةٍ",
+          "extra": [
+            "آلافِ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-limadza",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "لِماذا ذَهَبْتَ إِلَى الصَّيْدَلِيَّةِ؟"
+          },
+          "answer": "لِأَنِّي أُرِيدُ دَواءً لِلسُّعالِ.",
+          "options": [
+            "لِأَنِّي أُرِيدُ دَواءً لِلسُّعالِ.",
+            "شَفاكَ اللّٰهُ.",
+            "مُنْذُ يَوْمَيْنِ."
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi u pendek dan panjang, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "U pendek (ـُ) dan u panjang (ـُو)",
+          "note_id": "Dhammah (ـُ) dibaca \"u\" pendek, satu ketukan. Dhammah + wau (ـُو) dibaca \"uu\" panjang, dua ketukan. Panjang-pendeknya mengubah arti: جُنُبٌ = junub, جُنُوبٌ = selatan; سُرُرٌ = ranjang-ranjang, سُرُورٌ = kegembiraan; حُرٌّ = merdeka, حُورٌ = bidadari. Ketuk tiap kotak dan bandingkan.",
+          "pairs": [
+            [
+              "قُ",
+              "قُو"
+            ],
+            [
+              "دُ",
+              "دُو"
+            ],
+            [
+              "جُنُبٌ",
+              "جُنُوبٌ"
+            ],
+            [
+              "سُرُرٌ",
+              "سُرُورٌ"
+            ],
+            [
+              "حُرٌّ",
+              "حُورٌ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-janub",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "جُنُوبٌ"
+          },
+          "answer": "جُنُوبٌ",
+          "options": [
+            "جُنُوبٌ",
+            "جُنُبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-surur",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سُرُرٌ"
+          },
+          "answer": "سُرُرٌ",
+          "options": [
+            "سُرُرٌ",
+            "سُرُورٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-hur",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "حُورٌ"
+          },
+          "answer": "حُورٌ",
+          "options": [
+            "حُورٌ",
+            "حُرٌّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-hurr",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "حُرٌّ"
+          },
+          "answer": "حُرٌّ",
+          "options": [
+            "حُرٌّ",
+            "حُورٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "cari-u-panjang",
+          "instruction": "Kata mana yang berisi u panjang (ـُو)?",
+          "prompt": {
+            "id": "Cari bunyi \"uu\""
+          },
+          "answer": "سُوقٌ",
+          "options": [
+            "سُوقٌ",
+            "سُعالٌ",
+            "صُداعٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-asyuru-sudaa",
+          "ar": "أَشْعُرُ بِصُداعٍ.",
+          "id": "Saya merasa sakit kepala."
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-surur",
+          "ar": "سُرُورٌ",
+          "id": "kegembiraan"
+        },
+        {
+          "q": "choice",
+          "k": "simak-gigi",
+          "instruction": "Dengarkan. Apa keluhannya?",
+          "prompt": {
+            "listen": "عِنْدِي أَلَمٌ فِي أَسْنانِي مُنْذُ أَمْسِ."
+          },
+          "answer": "Sakit gigi sejak kemarin",
+          "options": [
+            "Sakit gigi sejak kemarin",
+            "Sakit perut sejak kemarin",
+            "Batuk sejak dua hari"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-harga-15000",
+          "instruction": "Dengarkan. Berapa harga obatnya?",
+          "prompt": {
+            "listen": "ثَمَنُ هٰذا الدَّواءِ خَمْسَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ."
+          },
+          "answer": "Rp15.000",
+          "options": [
+            "Rp15.000",
+            "Rp5.000",
+            "Rp50.000"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-mawid-rabu",
+          "instruction": "Dengarkan. Kapan jadwalnya?",
+          "prompt": {
+            "listen": "مَوْعِدُكِ يَوْمَ الأَرْبِعاءِ فِي السّاعَةِ العاشِرَةِ."
+          },
+          "answer": "Rabu, jam 10",
+          "options": [
+            "Rabu, jam 10",
+            "Kamis, jam 10",
+            "Rabu, jam 2"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-junub",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "جُنُبٌ"
+          },
+          "answer": "جُنُبٌ",
+          "options": [
+            "جُنُبٌ",
+            "جُنُوبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-surur2",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سُرُورٌ"
+          },
+          "answer": "سُرُورٌ",
+          "options": [
+            "سُرُورٌ",
+            "سُرُرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-du",
+          "instruction": "Dengarkan. Mana yang kamu dengar?",
+          "prompt": {
+            "listen": "دُو"
+          },
+          "answer": "دُو",
+          "options": [
+            "دُو",
+            "دُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-kis",
+          "instruction": "Dengarkan. Berapa harga kantongnya?",
+          "prompt": {
+            "listen": "ثَمَنُ الكِيسِ خَمْسُمِئَةِ رُوبِيَّةٍ."
+          },
+          "answer": "Rp500",
+          "options": [
+            "Rp500",
+            "Rp5.000",
+            "Rp50"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-keluhan",
+          "instruction": "Dengarkan. Apa keluhannya?",
+          "prompt": {
+            "listen": "أَشْعُرُ بِحُمَّى وَصُداعٍ."
+          },
+          "answer": "Demam dan sakit kepala",
+          "options": [
+            "Demam dan sakit kepala",
+            "Batuk dan sakit perut",
+            "Sakit gigi"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Di klinik dan saat menjenguk",
+          "rows": [
+            {
+              "ar": "أُرِيدُ مَوْعِدًا مَعَ الطَّبِيبِ.",
+              "id": "Saya ingin membuat janji dengan dokter.",
+              "emoji": "📞"
+            },
+            {
+              "ar": "مَتَى المَوْعِدُ؟",
+              "id": "Kapan jadwalnya?",
+              "emoji": "🗓️"
+            },
+            {
+              "ar": "سَلامَتُكَ · سَلامَتُكِ",
+              "id": "semoga lekas sembuh (lk · pr)",
+              "emoji": "💐"
+            },
+            {
+              "ar": "شَفاكَ اللّٰهُ · شَفاكِ اللّٰهُ",
+              "id": "semoga Allah menyembuhkanmu (lk · pr)",
+              "emoji": "🤲"
+            },
+            {
+              "ar": "آمِينَ",
+              "id": "amin",
+              "emoji": "🙏",
+              "serapan": "amin"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "cerita-keluhan",
+          "instruction": "Kamu di klinik. Ceritakan keluhanmu kepada dokter",
+          "prompt": {
+            "id": "Sebut apa yang kamu rasakan dan sejak kapan."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "أَشْعُرُ بِصُداعٍ.",
+              "id": "Saya merasa sakit kepala."
+            },
+            {
+              "who": "rizki",
+              "ar": "عِنْدِي سُعالٌ مُنْذُ يَوْمَيْنِ.",
+              "id": "Saya batuk sejak dua hari."
+            },
+            {
+              "who": "rizki",
+              "ar": "لَيْسَ عِنْدِي حُمَّى.",
+              "id": "Saya tidak demam."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-alam-rasi",
+          "who": "rizki",
+          "ar": "عِنْدِي أَلَمٌ فِي رَأْسِي.",
+          "id": "Kepala saya sakit."
+        },
+        {
+          "q": "choice",
+          "k": "buat-janji",
+          "instruction": "Kamu menelepon klinik untuk membuat janji. Kamu berkata …",
+          "prompt": {
+            "id": "Membuat janji dengan dokter",
+            "emoji": "📞"
+          },
+          "answer": "أُرِيدُ مَوْعِدًا مَعَ الطَّبِيبِ، مِنْ فَضْلِكَ.",
+          "options": [
+            "أُرِيدُ مَوْعِدًا مَعَ الطَّبِيبِ، مِنْ فَضْلِكَ.",
+            "شَفاكَ اللّٰهُ.",
+            "بِكَمْ هٰذا الدَّواءُ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "janji-dokter-gigi",
+          "instruction": "Buat janji dengan dokter gigi lewat telepon",
+          "prompt": {
+            "id": "Beri salam, sebutkan keperluanmu, lalu tanyakan jadwalnya."
+          },
+          "model": [
+            {
+              "who": "siti",
+              "ar": "السَّلامُ عَلَيْكُمْ.",
+              "id": "Assalamualaikum."
+            },
+            {
+              "who": "siti",
+              "ar": "أُرِيدُ مَوْعِدًا مَعَ طَبِيبِ الأَسْنانِ.",
+              "id": "Saya ingin membuat janji dengan dokter gigi."
+            },
+            {
+              "who": "siti",
+              "ar": "مَتَى المَوْعِدُ، مِنْ فَضْلِكِ؟",
+              "id": "Kapan jadwalnya? (kepada pr)"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "doa-aisyah",
+          "instruction": "Aisyah sakit. Kamu mendoakannya …",
+          "prompt": {
+            "id": "Mendoakan teman perempuan",
+            "emoji": "🤲"
+          },
+          "answer": "شَفاكِ اللّٰهُ يا عائِشَةُ.",
+          "options": [
+            "شَفاكِ اللّٰهُ يا عائِشَةُ.",
+            "شَفاكَ اللّٰهُ يا عائِشَةُ.",
+            "مَعَ السَّلامَةِ يا عائِشَةُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "balas-syafakallah",
+          "instruction": "Temanmu berkata شَفاكَ اللّٰهُ. Kamu menjawab …",
+          "prompt": {
+            "ar": "شَفاكَ اللّٰهُ."
+          },
+          "answer": "آمِينَ، شُكْرًا.",
+          "options": [
+            "آمِينَ، شُكْرًا.",
+            "وَعَلَيْكُمُ السَّلامُ.",
+            "صَباحَ النُّورِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-syafakallah",
+          "who": "siti",
+          "ar": "شَفاكَ اللّٰهُ.",
+          "id": "Semoga Allah menyembuhkanmu. (lk)"
+        },
+        {
+          "q": "speak",
+          "k": "jenguk-teman",
+          "instruction": "Jenguk temanmu yang sakit: tanyakan keadaannya, lalu doakan",
+          "prompt": {
+            "id": "Pakai سَلامَتُكَ dan شَفاكَ اللّٰهُ."
+          },
+          "model": [
+            {
+              "who": "budi",
+              "ar": "سَلامَتُكَ يا رِزْقِي!",
+              "id": "Semoga lekas sembuh, Rizki!"
+            },
+            {
+              "who": "budi",
+              "ar": "بِمَ تَشْعُرُ الآنَ؟",
+              "id": "Apa yang kamu rasakan sekarang?"
+            },
+            {
+              "who": "budi",
+              "ar": "شَفاكَ اللّٰهُ.",
+              "id": "Semoga Allah menyembuhkanmu."
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "jawab-mundzu",
+          "instruction": "Dokter bertanya. Jawaban yang tepat …",
+          "prompt": {
+            "ar": "مُنْذُ مَتَى عِنْدَكَ سُعالٌ؟"
+          },
+          "answer": "مُنْذُ ثَلاثَةِ أَيّامٍ.",
+          "options": [
+            "مُنْذُ ثَلاثَةِ أَيّامٍ.",
+            "فِي رَأْسِي.",
+            "بِعَشَرَةِ آلافِ رُوبِيَّةٍ."
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-salamatuki-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "سَلامَتُكِ!"
+          },
+          "answer": "Semoga lekas sembuh! (pr)",
+          "options": [
+            "Semoga lekas sembuh! (pr)",
+            "Selamat jalan! (pr)",
+            "Selamat datang! (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-mata-mawid-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مَتَى المَوْعِدُ؟"
+          },
+          "answer": "Kapan jadwalnya?",
+          "options": [
+            "Kapan jadwalnya?",
+            "Di mana kliniknya?",
+            "Berapa harganya?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-katakan-batn",
+          "instruction": "Perutmu sakit. Kamu berkata kepada dokter …",
+          "prompt": {
+            "id": "Perut saya sakit.",
+            "emoji": "🫃"
+          },
+          "answer": "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+          "options": [
+            "عِنْدِي أَلَمٌ فِي بَطْنِي.",
+            "عِنْدِي أَلَمٌ فِي أَسْنانِي.",
+            "أَشْعُرُ بِسُعالٍ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-doa-rizki",
+          "instruction": "Rizki sakit. Kamu berkata …",
+          "prompt": {
+            "id": "Semoga lekas sembuh, Rizki!",
+            "emoji": "💐"
+          },
+          "answer": "سَلامَتُكَ يا رِزْقِي!",
+          "options": [
+            "سَلامَتُكَ يا رِزْقِي!",
+            "سَلامَتُكِ يا رِزْقِي!",
+            "أَهْلًا وَسَهْلًا يا رِزْقِي!"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca: klinik, kartu berobat, struk",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Budi di klinik ma'had",
+          "instruction_id": "Baca paragraf ini pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            {
+              "ar": "بُودِي مَرِيضٌ اليَوْمَ.",
+              "id": "Hari ini Budi sakit."
+            },
+            {
+              "ar": "عِنْدَهُ حُمَّى وَسُعالٌ وَصُداعٌ.",
+              "id": "Dia demam, batuk, dan sakit kepala."
+            },
+            {
+              "ar": "ذَهَبَ مَعَ رِزْقِي إِلَى عِيادَةِ المَعْهَدِ.",
+              "id": "Dia pergi bersama Rizki ke klinik ma'had."
+            },
+            {
+              "ar": "سَأَلَهُ الطَّبِيبُ: «مُنْذُ مَتَى أَنْتَ مَرِيضٌ؟»",
+              "id": "Dokter bertanya kepadanya, \"Sejak kapan kamu sakit?\""
+            },
+            {
+              "ar": "قالَ بُودِي: «مُنْذُ أَمْسِ، بَعْدَ المَطَرِ.»",
+              "id": "Budi berkata, \"Sejak kemarin, sesudah hujan.\""
+            },
+            {
+              "ar": "كَتَبَ لَهُ الطَّبِيبُ دَواءً لِلْحُمَّى وَدَواءً لِلسُّعالِ.",
+              "id": "Dokter menuliskan resep obat demam dan obat batuk untuknya."
+            },
+            {
+              "ar": "وَقالَ: «اِشْرَبْ ماءً كَثِيرًا، وَنَمْ جَيِّدًا.»",
+              "id": "Dokter juga berkata, \"Minumlah air yang banyak dan tidurlah yang cukup.\""
+            },
+            {
+              "ar": "ثُمَّ اشْتَرَى رِزْقِي الدَّواءَ مِنَ الصَّيْدَلِيَّةِ.",
+              "id": "Lalu Rizki membeli obatnya di apotek."
+            }
+          ],
+          "img": "u15-baca-klinik",
+          "scene": "Budi, wrapped in a jacket and looking unwell, sitting in front of a male doctor's desk in a small, clean campus clinic of an Islamic language institute in Yogyakarta, Indonesia; Rizki sits beside him; the doctor writes on a prescription pad; no readable text."
+        },
+        {
+          "q": "choice",
+          "k": "baca-pergi-siti",
+          "instruction": "Benar atau salah? \"Budi pergi ke klinik bersama Siti.\"",
+          "prompt": {
+            "ar": "ذَهَبَ بُودِي إِلَى العِيادَةِ مَعَ سِيتِي."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-mundzu-ams",
+          "instruction": "Menurut bacaan, sejak kapan Budi sakit?",
+          "prompt": {
+            "id": "مُنْذُ مَتَى بُودِي مَرِيضٌ؟"
+          },
+          "answer": "Sejak kemarin, sesudah hujan",
+          "options": [
+            "Sejak kemarin, sesudah hujan",
+            "Sejak dua hari",
+            "Sejak seminggu"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-nasihat",
+          "instruction": "Apa nasihat dokter untuk Budi?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "Minum air yang banyak dan tidur yang cukup",
+          "options": [
+            "Minum air yang banyak dan tidur yang cukup",
+            "Pulang ke Surabaya besok",
+            "Belajar sampai malam"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-isytara",
+          "instruction": "Siapa yang membeli obat di apotek?",
+          "prompt": {
+            "ar": "مَنِ اشْتَرَى الدَّواءَ؟"
+          },
+          "answer": "Rizki",
+          "options": [
+            "Rizki",
+            "Budi",
+            "Dokter"
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Kartu berobat Budi",
+          "title_ar": "بِطاقَةُ المَرِيضِ · عِيادَةُ المَعْهَدِ",
+          "instruction_id": "Ini kartu berobat yang diisi di klinik. Baca tiap barisnya.",
+          "rows": [
+            {
+              "ar": "الاِسْمُ: بُودِي",
+              "id": "Nama: Budi"
+            },
+            {
+              "ar": "العُمْرُ: تِسْعَ عَشْرَةَ سَنَةً",
+              "id": "Usia: 19 tahun"
+            },
+            {
+              "ar": "العُنْوانُ: مَعْهَدُ الهُدَى، يُوغْياكَرْتا",
+              "id": "Alamat: Ma'had al-Huda, Yogyakarta"
+            },
+            {
+              "ar": "اليَوْمُ: الثُّلاثاءُ",
+              "id": "Hari: Selasa"
+            },
+            {
+              "ar": "الشَّكْوَى: حُمَّى، سُعالٌ، صُداعٌ",
+              "id": "Keluhan: demam, batuk, sakit kepala"
+            },
+            {
+              "ar": "المُدَّةُ: يَوْمٌ واحِدٌ",
+              "id": "Lama sakit: satu hari"
+            },
+            {
+              "ar": "المَوْعِدُ القادِمُ: يَوْمُ الجُمُعَةِ",
+              "id": "Kontrol berikutnya: hari Jumat"
+            }
+          ],
+          "img": "u15-kartu-berobat",
+          "scene": "Close-up of a patient registration card lying on the reception desk of a small campus clinic in Yogyakarta, next to a pen and a stethoscope; the card shows only blank ruled lines with no legible writing; Budi's hand rests at the edge of the desk."
+        },
+        {
+          "q": "choice",
+          "k": "kartu-umur",
+          "instruction": "Menurut kartu, berapa usia Budi?",
+          "prompt": {
+            "ar": "العُمْرُ: تِسْعَ عَشْرَةَ سَنَةً"
+          },
+          "answer": "19 tahun",
+          "options": [
+            "19 tahun",
+            "17 tahun",
+            "9 tahun"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-mawid",
+          "instruction": "Kapan Budi kembali ke klinik?",
+          "prompt": {
+            "id": "Menurut kartu berobat"
+          },
+          "answer": "Hari Jumat",
+          "options": [
+            "Hari Jumat",
+            "Hari Selasa",
+            "Hari Ahad"
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Struk apotek",
+          "title_ar": "صَيْدَلِيَّةُ الشِّفاءِ",
+          "instruction_id": "Rizki membeli obat Budi dan mendapat struk ini.",
+          "rows": [
+            {
+              "ar": "دَواءُ الحُمَّى: ثَمانِيَةُ آلافِ رُوبِيَّةٍ",
+              "id": "Obat demam: Rp8.000"
+            },
+            {
+              "ar": "دَواءُ السُّعالِ: خَمْسَةٌ وَعِشْرُونَ أَلْفَ رُوبِيَّةٍ",
+              "id": "Obat batuk: Rp25.000"
+            },
+            {
+              "ar": "المَجْمُوعُ: ثَلاثَةٌ وَثَلاثُونَ أَلْفَ رُوبِيَّةٍ",
+              "id": "Jumlah: Rp33.000"
+            },
+            {
+              "ar": "المَدْفُوعُ: خَمْسُونَ أَلْفَ رُوبِيَّةٍ",
+              "id": "Dibayar: Rp50.000"
+            },
+            {
+              "ar": "الباقِي: سَبْعَةَ عَشَرَ أَلْفَ رُوبِيَّةٍ",
+              "id": "Kembalian: Rp17.000"
+            }
+          ],
+          "img": "u15-struk-apotek",
+          "scene": "Rizki at the counter of a small neighborhood pharmacy in Yogyakarta, Indonesia, receiving a paper bag of medicine and a short receipt from a smiling pharmacist; rupiah banknotes on the counter; shelves of medicine boxes behind with no legible labels or text."
+        },
+        {
+          "q": "choice",
+          "k": "struk-batuk",
+          "instruction": "Berapa harga obat batuk?",
+          "prompt": {
+            "id": "Menurut struk"
+          },
+          "answer": "Rp25.000",
+          "options": [
+            "Rp25.000",
+            "Rp8.000",
+            "Rp33.000"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "struk-baqi",
+          "instruction": "Rizki membayar Rp50.000. Berapa kembaliannya?",
+          "prompt": {
+            "ar": "الباقِي: …"
+          },
+          "answer": "Rp17.000",
+          "options": [
+            "Rp17.000",
+            "Rp33.000",
+            "Rp7.000"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "struk-jumlah-ar",
+          "instruction": "Jumlah harga (Rp33.000) dalam bahasa Arab adalah …",
+          "prompt": {
+            "id": "Rp33.000"
+          },
+          "answer": "ثَلاثَةٌ وَثَلاثُونَ أَلْفَ رُوبِيَّةٍ",
+          "options": [
+            "ثَلاثَةٌ وَثَلاثُونَ أَلْفَ رُوبِيَّةٍ",
+            "ثَلاثُونَ أَلْفَ رُوبِيَّةٍ",
+            "ثَلاثَةُ آلافِ رُوبِيَّةٍ"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-keluhan",
+          "instruction": "Menurut bacaan, apa saja keluhan Budi?",
+          "prompt": {
+            "ar": "عِنْدَهُ حُمَّى وَسُعالٌ وَصُداعٌ."
+          },
+          "answer": "Demam, batuk, dan sakit kepala",
+          "options": [
+            "Demam, batuk, dan sakit kepala",
+            "Sakit perut dan sakit gigi",
+            "Demam saja"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-resep",
+          "instruction": "Benar atau salah? \"Dokter menuliskan obat demam dan obat batuk.\"",
+          "prompt": {
+            "ar": "كَتَبَ الطَّبِيبُ دَواءً لِلْحُمَّى وَدَواءً لِلسُّعالِ."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kartu-alamat",
+          "instruction": "Baris mana di kartu yang menunjukkan alamat?",
+          "prompt": {
+            "id": "Kartu berobat Budi"
+          },
+          "answer": "العُنْوانُ",
+          "options": [
+            "العُنْوانُ",
+            "الشَّكْوَى",
+            "العُمْرُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-struk-demam",
+          "instruction": "Berapa harga obat demam?",
+          "prompt": {
+            "ar": "دَواءُ الحُمَّى: ثَمانِيَةُ آلافِ رُوبِيَّةٍ"
+          },
+          "answer": "Rp8.000",
+          "options": [
+            "Rp8.000",
+            "Rp800",
+            "Rp18.000"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Mengisi kartu berobat, imla'",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Kolom kartu berobat",
+          "instruction_id": "Ini kolom yang biasa ada di kartu berobat. Telusuri dan salin tiap kata.",
+          "rows": [
+            {
+              "ar": "الاِسْمُ",
+              "id": "nama"
+            },
+            {
+              "ar": "العُمْرُ",
+              "id": "usia"
+            },
+            {
+              "ar": "العُنْوانُ",
+              "id": "alamat"
+            },
+            {
+              "ar": "التّارِيخُ",
+              "id": "tanggal"
+            },
+            {
+              "ar": "الشَّكْوَى",
+              "id": "keluhan"
+            }
+          ]
+        },
+        {
+          "card": "writing",
+          "section": "Contoh: kartu berobat Aisyah",
+          "instruction_id": "Aisyah mengisi kartunya di klinik. Salin isinya lengkap dengan harakat.",
+          "rows": [
+            {
+              "ar": "الاِسْمُ: عائِشَةُ",
+              "id": "Nama: Aisyah"
+            },
+            {
+              "ar": "الجِنْسِيَّةُ: مالِيزِيَّةٌ",
+              "id": "Kewarganegaraan: Malaysia"
+            },
+            {
+              "ar": "الشَّكْوَى: أَلَمٌ فِي البَطْنِ",
+              "id": "Keluhan: sakit perut"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "kolom-nama",
+          "instruction": "Di kolom mana kamu menulis namamu?",
+          "prompt": {
+            "id": "Kartu berobat",
+            "emoji": "🪪"
+          },
+          "answer": "الاِسْمُ",
+          "options": [
+            "الاِسْمُ",
+            "العُنْوانُ",
+            "الشَّكْوَى"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-keluhan-siti",
+          "instruction": "Siti sakit gigi. Apa yang dia tulis di kolom الشَّكْوَى?",
+          "prompt": {
+            "ar": "الشَّكْوَى: …"
+          },
+          "answer": "أَلَمٌ فِي الأَسْنانِ",
+          "options": [
+            "أَلَمٌ فِي الأَسْنانِ",
+            "أَلَمٌ فِي البَطْنِ",
+            "صُداعٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isi-umur-rizki",
+          "instruction": "Rizki berusia 19 tahun. Kolom العُمْرُ diisi …",
+          "prompt": {
+            "ar": "العُمْرُ: …"
+          },
+          "answer": "تِسْعَ عَشْرَةَ سَنَةً",
+          "options": [
+            "تِسْعَ عَشْرَةَ سَنَةً",
+            "تِسْعَةَ عَشَرَ سَنَةً",
+            "تِسْعُ سَنَواتٍ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-sudaa",
+          "instruction": "Imla'. Dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "صُداعٌ"
+          },
+          "answer": "صُداعٌ",
+          "options": [
+            "صُداعٌ",
+            "صُوداعٌ",
+            "سُداعٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-sual",
+          "instruction": "Imla'. Dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "سُعالٌ"
+          },
+          "answer": "سُعالٌ",
+          "options": [
+            "سُعالٌ",
+            "سُؤالٌ",
+            "سُوعالٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "imla-mawid",
+          "instruction": "Imla'. Dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "مَوْعِدٌ"
+          },
+          "answer": "مَوْعِدٌ",
+          "options": [
+            "مَوْعِدٌ",
+            "مَوْئِدٌ",
+            "مُوعِدٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "imla-eja-dawa",
+          "instruction": "Imla'. Dengarkan, lalu susun hurufnya",
+          "prompt": {
+            "listen": "دَواءٌ",
+            "id": "obat"
+          },
+          "answer": "د و ا ء",
+          "extra": [
+            "ع"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-alam-rasi",
+          "instruction": "Imla'. Dengarkan, lalu susun kalimatnya",
+          "prompt": {
+            "listen": "الأَلَمُ فِي رَأْسِي.",
+            "id": "Sakitnya di kepala saya."
+          },
+          "answer": "الأَلَمُ فِي رَأْسِي",
+          "extra": [
+            "بَطْنِي"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "imla-humma-sual",
+          "instruction": "Imla'. Dengarkan, lalu susun kalimatnya",
+          "prompt": {
+            "listen": "أَشْعُرُ بِحُمَّى وَسُعالٍ.",
+            "id": "Saya merasa demam dan batuk."
+          },
+          "answer": "أَشْعُرُ بِحُمَّى وَسُعالٍ",
+          "extra": [
+            "صُداعٍ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-imla-humma",
+          "instruction": "Imla'. Dengarkan, lalu pilih tulisan yang benar",
+          "prompt": {
+            "listen": "حُمَّى"
+          },
+          "answer": "حُمَّى",
+          "options": [
+            "حُمَّى",
+            "هُمَّى",
+            "حُومَى"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-imla-eja-ras",
+          "instruction": "Imla'. Dengarkan, lalu susun hurufnya",
+          "prompt": {
+            "listen": "رَأْسٌ",
+            "id": "kepala"
+          },
+          "answer": "ر أ س",
+          "extra": [
+            "ع"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-kolom-keluhan",
+          "instruction": "Kolom الشَّكْوَى diisi dengan …",
+          "prompt": {
+            "ar": "الشَّكْوَى"
+          },
+          "answer": "keluhan sakit",
+          "options": [
+            "keluhan sakit",
+            "alamat",
+            "usia"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-imla-alam-asnan",
+          "instruction": "Imla'. Dengarkan, lalu susun kalimatnya",
+          "prompt": {
+            "listen": "الأَلَمُ فِي أَسْنانِي.",
+            "id": "Sakitnya di gigi saya."
+          },
+          "answer": "الأَلَمُ فِي أَسْنانِي",
+          "extra": [
+            "رَأْسِي"
+          ]
+        }
+      ]
+    }
+  ]
+}

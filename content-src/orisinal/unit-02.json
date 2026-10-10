@@ -1,0 +1,488 @@
+{
+  "unit": 2,
+  "book": "1a",
+  "title_ar": "الأُسْرَةُ",
+  "title_id": "Keluarga",
+  "notes": "Dialog 1: Rizki menelepon video keluarganya di Bandung dan mengenalkan Budi kepada Pak Ahmad (laki-laki). Dialog 2: Aisyah bertanya di mana keluarga Siti; Siti menunjukkan foto keluarganya di Medan (Aisyah mengira ibunya kakaknya). Dialog 3: Nur bertanya kepada Bu Fatimah di mana Ayu, Rizki, ayah, dan nenek. Pola: مَنْ هٰذا/هٰذِهِ؟، أَيْنَ …؟ فِي …، dhamir ـهُ/ـها (dan ـكَ/ـكِ/ـِي), يا + nama, إِلَى/فِي. Bilangan 6–10. Bunyi ح/هـ. Menulis ب ت ث ن ي di awal, tengah, akhir. Gender Nur sengaja tidak ditandai (tidak ada أَنْتَ/أَنْتِ untuk Nur). Cek kemiripan ABY (tanggal 2026-10-04): halaman ABY 1/2 (hlm. PDF 50–57) dibandingkan secara visual. Dialog 2 versi lama dan model speak 'kenalkan-keluarga' hampir sama urutannya dengan dialog pertama ABY (هذه صورة أسرتي ← ما شاء الله! من هذه؟ ← هذه أمي … ← ومن هذا؟ هذا أخي … طالب; هذا والدي … مهندس / هذه والدتي … طبيبة), jadi ditulis ulang: dialog 2 kini dibuka dengan أين أسرتك؟ dan berisi salah kira ibu/kakak; model speak dan bacaan 1 diubah susunannya. Dialog 1 hanya mirip dua baris (من هذه؟ / هذه أمي، هي طبيبة) dan dialog 3 hanya sama pola أين…؟ في… dengan isi berbeda. Tidak ada lagi lebih dari 2 kalimat berurutan yang mirip. Revisi 2026-10-04 (arrange satu urutan): keterangan/vokatif yang bisa pindah dibuang atau dijadikan pertanyaan أَيْنَ: susun-usrati-medan → أَيْنَ أُسْرَتُكَ; lat-susun-hiya-tajirah → هِيَ تاجِرَةٌ; susun-ya-ummi-ayna → أَيْنَ أَيُو; lat-susun-ayu-mahad → هِيَ فِي المَعْهَدِ; susun-ayna-baituka → أَيْنَ بَيْتُكَ; lat-susun-ukhtuhu → أَيْنَ أُخْتُهُ.",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Video call ke Bandung",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Malam hari di asrama Yogyakarta. Rizki melakukan panggilan video dengan keluarganya di Bandung. Budi duduk di sebelahnya.",
+          "rows": [
+            { "who": "rizki", "ar": "السَّلامُ عَلَيْكُمْ يا أَبِي!", "id": "Assalamualaikum, Ayah!" },
+            { "who": "pak_ahmad", "ar": "وَعَلَيْكُمُ السَّلامُ يا رِزْقِي. كَيْفَ الحالُ؟", "id": "Waalaikumussalam, Rizki. Apa kabar?" },
+            { "who": "rizki", "ar": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ. هٰذا صَدِيقِي بُودِي.", "id": "Baik, alhamdulillah. Ini teman saya, Budi." },
+            { "who": "pak_ahmad", "ar": "أَهْلًا يا بُودِي!", "id": "Halo, Budi!" },
+            { "who": "budi", "ar": "أَهْلًا بِكَ.", "id": "Halo juga, Pak." },
+            { "who": "budi", "ar": "مَنْ هٰذِهِ يا رِزْقِي؟", "id": "Siapa ini (pr), Rizki?" },
+            { "who": "rizki", "ar": "هٰذِهِ أُمِّي، هِيَ طَبِيبَةٌ.", "id": "Ini ibu saya. Dia dokter." },
+            { "who": "budi", "ar": "هَلْ أَبُوكَ طَبِيبٌ؟", "id": "Apakah ayahmu dokter? (lk)" },
+            { "who": "rizki", "ar": "لا، أَبِي مُهَنْدِسٌ.", "id": "Bukan, ayah saya insinyur." }
+          ],
+          "img": "u2-video-call",
+          "scene": "Rizki and Budi sitting side by side on a bed in their Yogyakarta dormitory room at night, smiling at a smartphone held up for a video call; on the phone screen Pak Ahmad and Bu Fatimah wave from their home in Bandung."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "مَنْ؟", "id": "siapa?", "emoji": "❓" },
+            { "ar": "أَبِي", "id": "ayah saya", "emoji": "👨" },
+            { "ar": "أُمِّي", "id": "ibu saya", "emoji": "👩" },
+            { "ar": "أَبُوكَ", "id": "ayahmu (lk)", "emoji": "👨" },
+            { "ar": "طَبِيبٌ", "id": "dokter (lk)", "emoji": "👨‍⚕️", "serapan": "tabib" },
+            { "ar": "طَبِيبَةٌ", "id": "dokter (pr)", "emoji": "👩‍⚕️", "serapan": "tabib" },
+            { "ar": "مُهَنْدِسٌ", "id": "insinyur (lk)", "emoji": "👷" }
+          ]
+        },
+        { "q": "choice", "k": "man-hadza-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مَنْ هٰذا؟" }, "answer": "Siapa ini? (lk)", "options": ["Siapa ini? (lk)", "Siapa ini? (pr)", "Kamu dari mana? (lk)"], "lang": "id" },
+        { "q": "choice", "k": "hadza-abi-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هٰذا أَبِي." }, "answer": "Ini ayah saya.", "options": ["Ini ayah saya.", "Ini ibu saya.", "Ini teman saya. (lk)"], "lang": "id" },
+        { "q": "choice", "k": "dengar-ummi-tabibah", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "هٰذِهِ أُمِّي، هِيَ طَبِيبَةٌ." }, "answer": "Ini ibu saya. Dia dokter.", "options": ["Ini ibu saya. Dia dokter.", "Ini ibu saya. Dia guru.", "Ini ayah saya. Dia dokter."], "lang": "id" },
+        { "q": "choice", "k": "ayah-rizki-kerja", "instruction": "Menurut dialog, apa pekerjaan ayah Rizki?", "prompt": { "id": "أَبُو رِزْقِي …", "emoji": "👨" }, "answer": "insinyur", "options": ["insinyur", "dokter", "guru"], "lang": "id" },
+        { "q": "choice", "k": "balas-ahlan-budi", "instruction": "Pak Ahmad menyapa Budi. Pilih balasan yang tepat", "prompt": { "ar": "أَهْلًا يا بُودِي!" }, "answer": "أَهْلًا بِكَ.", "options": ["أَهْلًا بِكَ.", "مَعَ السَّلامَةِ.", "مَنْ هٰذا؟"], "lang": "ar" },
+        { "q": "choice", "k": "muhandis-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مُهَنْدِسٌ" }, "answer": "insinyur", "options": ["insinyur", "dokter", "pelajar"], "lang": "id" },
+        { "q": "arrange", "k": "susun-hadza-abi", "prompt": { "id": "Ini ayah saya. Dia insinyur." }, "answer": "هٰذا أَبِي هُوَ مُهَنْدِسٌ", "extra": ["هِيَ"] },
+        { "q": "arrange", "k": "susun-man-hadzihi", "prompt": { "id": "Siapa ini? (pr)" }, "answer": "مَنْ هٰذِهِ", "extra": ["هٰذا"] },
+        { "q": "repeat", "k": "ucap-man-hadza", "who": "budi", "ar": "مَنْ هٰذا؟", "id": "Siapa ini? (lk)" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-ummi-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أُمِّي" }, "answer": "ibu saya", "options": ["ibu saya", "ayah saya", "teman saya (pr)"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-man-hadzihi", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "مَنْ هٰذِهِ؟" }, "answer": "مَنْ هٰذِهِ؟", "options": ["مَنْ هٰذِهِ؟", "مَنْ هٰذا؟", "مِنْ أَيْنَ أَنْتِ؟"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-ummi-tabibah", "prompt": { "id": "Ibu saya dokter." }, "answer": "أُمِّي طَبِيبَةٌ", "extra": ["طَبِيبٌ"] },
+        { "q": "choice", "k": "lat-abuka-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هَلْ أَبُوكَ طَبِيبٌ؟" }, "answer": "Apakah ayahmu dokter? (lk)", "options": ["Apakah ayahmu dokter? (lk)", "Apakah ayahmu insinyur? (lk)", "Apakah ibumu dokter? (lk)"], "lang": "id" },
+        { "q": "choice", "k": "lat-jawab-abuka", "instruction": "Kamu Rizki. Budi bertanya: هَلْ أَبُوكَ طَبِيبٌ؟ Jawabanmu …", "prompt": { "ar": "هَلْ أَبُوكَ طَبِيبٌ؟" }, "answer": "لا، أَبِي مُهَنْدِسٌ.", "options": ["لا، أَبِي مُهَنْدِسٌ.", "نَعَمْ، أَبِي طَبِيبٌ.", "لا، أَنا طالِبٌ."], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Foto keluarga dari Medan",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Sore hari di kamar asrama putri. Siti menunjukkan foto keluarganya di ponsel kepada Aisyah.",
+          "rows": [
+            { "who": "aisyah", "ar": "يا سِيتِي، أَيْنَ أُسْرَتُكِ؟", "id": "Siti, keluargamu di mana? (pr)" },
+            { "who": "siti", "ar": "أُسْرَتِي فِي مِيدان. هٰذِهِ صُورَتُها.", "id": "Keluarga saya di Medan. Ini fotonya." },
+            { "who": "aisyah", "ar": "مَنْ هٰذِهِ؟ هَلْ هِيَ أُخْتُكِ؟", "id": "Siapa ini (pr)? Apakah dia kakakmu? (pr)" },
+            { "who": "siti", "ar": "لا، هٰذِهِ أُمِّي!", "id": "Bukan, ini ibu saya!" },
+            { "who": "aisyah", "ar": "ما شاءَ اللّٰهُ! هَلْ أُمُّكِ أُسْتاذَةٌ؟", "id": "Masyaallah! Apakah ibumu guru? (pr)" },
+            { "who": "siti", "ar": "لا، هِيَ تاجِرَةٌ فِي السُّوقِ.", "id": "Bukan, dia pedagang di pasar." },
+            { "who": "aisyah", "ar": "وَهٰذا؟", "id": "Kalau ini (lk)?" },
+            { "who": "siti", "ar": "هٰذا أَخِي، هُوَ طالِبٌ فِي مِيدان.", "id": "Ini saudara laki-laki saya. Dia pelajar di Medan." }
+          ],
+          "img": "u2-foto-keluarga-siti",
+          "scene": "Siti and Aisyah sitting together on a bed in a female dormitory room in the afternoon; Siti shows Aisyah a family photo on her phone and Aisyah looks surprised and delighted."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "صُورَةٌ", "id": "foto, gambar", "emoji": "🖼️" },
+            { "ar": "أُسْرَةٌ", "id": "keluarga", "emoji": "👨‍👩‍👧‍👦" },
+            { "ar": "ما شاءَ اللّٰهُ", "id": "masyaallah (ungkapan kagum)", "emoji": "🤩", "serapan": "masyaallah" },
+            { "ar": "أُمُّكِ", "id": "ibumu (pr)", "emoji": "👩" },
+            { "ar": "أُخْتُكِ", "id": "saudara perempuanmu (pr)", "emoji": "👧" },
+            { "ar": "أَخِي", "id": "saudara laki-laki saya", "emoji": "👦" },
+            { "ar": "تاجِرَةٌ", "id": "pedagang (pr)", "emoji": "🛍️" },
+            { "ar": "السُّوقُ", "id": "pasar", "emoji": "🏪" },
+            { "ar": "أَيْنَ؟", "id": "di mana?", "emoji": "📍" },
+            { "ar": "فِي", "id": "di", "emoji": "📌" }
+          ]
+        },
+        { "q": "choice", "k": "surah-usrah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أُسْرَتِي فِي مِيدان. هٰذِهِ صُورَتُها." }, "answer": "Keluarga saya di Medan. Ini fotonya.", "options": ["Keluarga saya di Medan. Ini fotonya.", "Keluarga saya di Medan. Ini rumahnya.", "Ibu saya di Medan. Ini fotonya."], "lang": "id" },
+        { "q": "choice", "k": "ucapan-kagum", "instruction": "Aisyah melihat foto yang bagus. Dia berkata …", "prompt": { "id": "Ungkapan kagum", "emoji": "🤩" }, "answer": "ما شاءَ اللّٰهُ!", "options": ["ما شاءَ اللّٰهُ!", "مَعَ السَّلامَةِ!", "صَباحَ النُّورِ!"], "lang": "ar" },
+        { "q": "choice", "k": "ibu-siti-kerja", "instruction": "Menurut dialog, apa pekerjaan ibu Siti?", "prompt": { "id": "أُمُّ سِيتِي …", "emoji": "👩" }, "answer": "pedagang di pasar", "options": ["pedagang di pasar", "guru", "dokter"], "lang": "id" },
+        { "q": "choice", "k": "dengar-ayna-usratuki", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "أَيْنَ أُسْرَتُكِ؟" }, "answer": "Di mana keluargamu? (pr)", "options": ["Di mana keluargamu? (pr)", "Siapa ini? (pr)", "Kamu dari mana? (pr)"], "lang": "id" },
+        { "q": "choice", "k": "ummuki-pr", "instruction": "\"Ibumu\" (kepada perempuan) dalam bahasa Arab adalah …", "prompt": { "id": "ibumu (pr)" }, "answer": "أُمُّكِ", "options": ["أُمُّكِ", "أُمُّكَ", "أُمِّي"], "lang": "ar" },
+        { "q": "choice", "k": "hadza-akhi-arti", "instruction": "Apa artinya?", "prompt": { "ar": "هٰذا أَخِي." }, "answer": "Ini saudara laki-laki saya.", "options": ["Ini saudara laki-laki saya.", "Ini ayah saya.", "Ini teman saya. (lk)"], "lang": "id" },
+        { "q": "arrange", "k": "susun-usrati-medan", "prompt": { "id": "Di mana keluargamu? (lk)" }, "answer": "أَيْنَ أُسْرَتُكَ", "extra": ["أُسْرَتُكِ"] },
+        { "q": "arrange", "k": "susun-hal-ummuki", "prompt": { "id": "Apakah ibumu guru? (pr)" }, "answer": "هَلْ أُمُّكِ أُسْتاذَةٌ", "extra": ["أُمُّكَ"] },
+        { "q": "repeat", "k": "ucap-masyaallah", "who": "aisyah", "ar": "ما شاءَ اللّٰهُ!", "id": "Masyaallah!" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-tajirah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "تاجِرَةٌ" }, "answer": "pedagang (pr)", "options": ["pedagang (pr)", "dokter (pr)", "pelajar (pr)"], "lang": "id" },
+        { "q": "choice", "k": "lat-siti-usrah", "instruction": "Menurut dialog, keluarga Siti di mana?", "prompt": { "id": "أُسْرَةُ سِيتِي فِي …" }, "answer": "Medan", "options": ["Medan", "Bandung", "Kuala Lumpur"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-surah", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "هَلْ هِيَ أُخْتُكِ؟" }, "answer": "هَلْ هِيَ أُخْتُكِ؟", "options": ["هَلْ هِيَ أُخْتُكِ؟", "هَلْ هِيَ أُمُّكِ؟", "هٰذِهِ أُخْتِي."], "lang": "ar" },
+        { "q": "choice", "k": "lat-kira-ukht", "instruction": "Menurut dialog, perempuan di foto itu siapa?", "prompt": { "ar": "مَنْ هٰذِهِ؟", "emoji": "📱" }, "answer": "Ibu Siti", "options": ["Ibu Siti", "Kakak Siti", "Aisyah"], "lang": "id" },
+        { "q": "choice", "k": "lat-ayna-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أَيْنَ؟" }, "answer": "di mana?", "options": ["di mana?", "siapa?", "dari mana?"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-hiya-tajirah", "prompt": { "id": "Dia (pr) pedagang." }, "answer": "هِيَ تاجِرَةٌ", "extra": ["هُوَ"] }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Di mana Kak Ayu?",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Jumat siang di rumah keluarga Ahmad di Bandung. Nur, si bungsu kelas 3 SD, mencari anggota keluarganya.",
+          "rows": [
+            { "who": "nur", "ar": "يا أُمِّي، أَيْنَ أَيُو؟", "id": "Bu, Kak Ayu di mana?" },
+            { "who": "bu_fatimah", "ar": "أَيُو فِي المَعْهَدِ، فِي غارُوت.", "id": "Ayu di pesantren, di Garut." },
+            { "who": "nur", "ar": "وَأَيْنَ رِزْقِي؟", "id": "Kalau Kak Rizki di mana?" },
+            { "who": "bu_fatimah", "ar": "رِزْقِي فِي يُوغْياكَرْتا.", "id": "Rizki di Yogyakarta." },
+            { "who": "nur", "ar": "وَأَيْنَ أَبِي؟", "id": "Kalau Ayah di mana?" },
+            { "who": "bu_fatimah", "ar": "هُوَ فِي المَسْجِدِ.", "id": "Dia di masjid." },
+            { "who": "nur", "ar": "وَأَيْنَ جَدَّتِي؟", "id": "Kalau Nenek di mana?" },
+            { "who": "bu_fatimah", "ar": "هِيَ فِي بَيْتِها فِي ماكاسار.", "id": "Dia di rumahnya di Makassar." },
+            { "who": "nur", "ar": "وَأَنا مَعَ أُمِّي فِي البَيْتِ!", "id": "Dan aku bersama Ibu di rumah!" }
+          ],
+          "img": "u2-nur-mencari",
+          "scene": "Nur holding her toy airplane and tugging at Bu Fatimah's batik dress in the living room of a simple two-storey house in Bandung at midday; Bu Fatimah smiles and points out the window toward a nearby mosque."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            { "ar": "مَعْهَدٌ", "id": "pesantren, ma'had", "emoji": "🏫" },
+            { "ar": "مَسْجِدٌ", "id": "masjid", "emoji": "🕌", "serapan": "masjid" },
+            { "ar": "بَيْتٌ", "id": "rumah", "emoji": "🏠", "serapan": "bait" },
+            { "ar": "جَدَّةٌ", "id": "nenek", "emoji": "👵" },
+            { "ar": "بَيْتُها", "id": "rumahnya (pr)", "emoji": "🏡" },
+            { "ar": "مَعَ", "id": "bersama", "emoji": "🤝" }
+          ]
+        },
+        { "q": "choice", "k": "ayu-dimana", "instruction": "Menurut dialog, Ayu di mana?", "prompt": { "id": "أَيُو فِي …", "emoji": "👧" }, "answer": "Di pesantren, di Garut", "options": ["Di pesantren, di Garut", "Di rumah, di Bandung", "Di Yogyakarta"], "lang": "id" },
+        { "q": "choice", "k": "ayah-dimana", "instruction": "Menurut dialog, ayah Nur di mana?", "prompt": { "id": "أَبُو نُور فِي …", "emoji": "👨" }, "answer": "Di masjid", "options": ["Di masjid", "Di sekolah", "Di Makassar"], "lang": "id" },
+        { "q": "choice", "k": "balas-ayna-ayu", "instruction": "Pilih balasan yang tepat", "prompt": { "ar": "أَيْنَ أَيُو؟" }, "answer": "هِيَ فِي المَعْهَدِ.", "options": ["هِيَ فِي المَعْهَدِ.", "هِيَ طَبِيبَةٌ.", "هُوَ فِي المَسْجِدِ."], "lang": "ar" },
+        { "q": "choice", "k": "dengar-ayna-jaddati", "instruction": "Dengarkan. Apa artinya?", "prompt": { "listen": "أَيْنَ جَدَّتِي؟" }, "answer": "Di mana nenek saya?", "options": ["Di mana nenek saya?", "Di mana ibu saya?", "Siapa nenek saya?"], "lang": "id" },
+        { "q": "choice", "k": "baitiha-arti", "instruction": "Apa artinya?", "prompt": { "ar": "فِي بَيْتِها" }, "answer": "di rumahnya (pr)", "options": ["di rumahnya (pr)", "di rumahnya (lk)", "di rumah saya"], "lang": "id" },
+        { "q": "arrange", "k": "susun-ya-ummi-ayna", "prompt": { "id": "Ayu di mana?" }, "answer": "أَيْنَ أَيُو", "extra": ["مَنْ"] },
+        { "q": "arrange", "k": "susun-huwa-masjid", "prompt": { "id": "Dia (lk) di masjid." }, "answer": "هُوَ فِي المَسْجِدِ", "extra": ["هِيَ"] },
+        { "q": "choice", "k": "maa-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أَنا مَعَ أُمِّي." }, "answer": "Aku bersama ibuku.", "options": ["Aku bersama ibuku.", "Aku di rumah ibuku.", "Ini ibuku."], "lang": "id" },
+        { "q": "repeat", "k": "ucap-ayna-ayu", "who": "nur", "ar": "أَيْنَ أَيُو؟", "id": "Di mana Ayu?" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-rizki-dimana", "instruction": "Menurut dialog, Rizki di mana?", "prompt": { "id": "رِزْقِي فِي …" }, "answer": "Yogyakarta", "options": ["Yogyakarta", "Garut", "Makassar"], "lang": "id" },
+        { "q": "choice", "k": "lat-nenek-dimana", "instruction": "Menurut dialog, nenek di mana?", "prompt": { "id": "الجَدَّةُ فِي …", "emoji": "👵" }, "answer": "Di rumahnya di Makassar", "options": ["Di rumahnya di Makassar", "Di masjid di Bandung", "Di pesantren di Garut"], "lang": "id" },
+        { "q": "choice", "k": "lat-dengar-fil-masjid", "instruction": "Dengarkan, lalu pilih yang kamu dengar", "prompt": { "listen": "هُوَ فِي المَسْجِدِ." }, "answer": "هُوَ فِي المَسْجِدِ.", "options": ["هُوَ فِي المَسْجِدِ.", "هِيَ فِي المَعْهَدِ.", "هُوَ فِي البَيْتِ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-bait-arti", "instruction": "Apa artinya?", "prompt": { "ar": "بَيْتٌ" }, "answer": "rumah", "options": ["rumah", "masjid", "pesantren"], "lang": "id" },
+        { "q": "arrange", "k": "lat-susun-ayu-mahad", "prompt": { "id": "Dia (pr) di pesantren." }, "answer": "هِيَ فِي المَعْهَدِ", "extra": ["مَنْ"] }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata & angka 6–10",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Anggota keluarga",
+          "rows": [
+            { "ar": "أُسْرَةٌ", "id": "keluarga", "emoji": "👨‍👩‍👧‍👦" },
+            { "ar": "أَبٌ", "id": "ayah", "emoji": "👨" },
+            { "ar": "أُمٌّ", "id": "ibu", "emoji": "👩" },
+            { "ar": "أَخٌ", "id": "saudara laki-laki", "emoji": "👦" },
+            { "ar": "أُخْتٌ", "id": "saudara perempuan", "emoji": "👧" },
+            { "ar": "اِبْنٌ", "id": "anak laki-laki", "emoji": "🧒" },
+            { "ar": "بِنْتٌ", "id": "anak perempuan", "emoji": "👧" },
+            { "ar": "جَدٌّ", "id": "kakek", "emoji": "👴" },
+            { "ar": "جَدَّةٌ", "id": "nenek", "emoji": "👵" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata yang sudah kamu kenal",
+          "note_id": "Kata bertanda ★ masuk ke bahasa Indonesia dari bahasa Arab.",
+          "rows": [
+            { "ar": "بَيْتٌ", "id": "rumah", "emoji": "🏠", "serapan": "bait" },
+            { "ar": "مَدْرَسَةٌ", "id": "sekolah", "emoji": "🏫", "serapan": "madrasah" },
+            { "ar": "مَسْجِدٌ", "id": "masjid", "emoji": "🕌", "serapan": "masjid" },
+            { "ar": "طَبِيبٌ", "id": "dokter", "emoji": "👨‍⚕️", "serapan": "tabib" },
+            { "ar": "صُورَةٌ", "id": "foto, gambar", "emoji": "🖼️" },
+            { "ar": "مُهَنْدِسٌ", "id": "insinyur", "emoji": "👷" }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Angka 6–10",
+          "rows": [
+            { "ar": "سِتَّةٌ", "id": "enam", "emoji": "6️⃣" },
+            { "ar": "سَبْعَةٌ", "id": "tujuh", "emoji": "7️⃣" },
+            { "ar": "ثَمانِيَةٌ", "id": "delapan", "emoji": "8️⃣" },
+            { "ar": "تِسْعَةٌ", "id": "sembilan", "emoji": "9️⃣" },
+            { "ar": "عَشَرَةٌ", "id": "sepuluh", "emoji": "🔟" }
+          ]
+        },
+        { "q": "choice", "k": "gambar-jaddah", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "👵" }, "answer": "جَدَّةٌ", "options": ["جَدَّةٌ", "جَدٌّ", "أُمٌّ"], "lang": "ar" },
+        { "q": "choice", "k": "ukht-arti", "instruction": "Apa artinya?", "prompt": { "ar": "أُخْتٌ" }, "answer": "saudara perempuan", "options": ["saudara perempuan", "saudara laki-laki", "anak perempuan"], "lang": "id" },
+        { "q": "choice", "k": "gambar-masjid", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "🕌" }, "answer": "مَسْجِدٌ", "options": ["مَسْجِدٌ", "مَدْرَسَةٌ", "بَيْتٌ"], "lang": "ar" },
+        { "q": "choice", "k": "angka-8", "instruction": "Angka berapa ini dalam bahasa Arab?", "prompt": { "emoji": "8️⃣", "id": "delapan" }, "answer": "ثَمانِيَةٌ", "options": ["ثَمانِيَةٌ", "سِتَّةٌ", "تِسْعَةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-7", "instruction": "Dengarkan. Angka berapa?", "prompt": { "listen": "سَبْعَةٌ" }, "answer": "7", "options": ["7", "6", "9"], "lang": "id" },
+        { "q": "choice", "k": "dengar-10", "instruction": "Dengarkan. Angka berapa?", "prompt": { "listen": "عَشَرَةٌ" }, "answer": "10", "options": ["10", "3", "8"], "lang": "id" },
+        { "q": "choice", "k": "hitung-5-4", "instruction": "Berapa hasilnya?", "prompt": { "ar": "خَمْسَةٌ + أَرْبَعَةٌ = ؟" }, "answer": "تِسْعَةٌ", "options": ["تِسْعَةٌ", "سَبْعَةٌ", "عَشَرَةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "hitung-keluarga", "instruction": "Keluarga Ahmad: ayah, ibu, Rizki, Ayu, Nur, ditambah kakek dan nenek. Berapa orang?", "prompt": { "id": "5 + 2 = ؟", "emoji": "👨‍👩‍👧‍👦" }, "answer": "سَبْعَةٌ", "options": ["سَبْعَةٌ", "سِتَّةٌ", "خَمْسَةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "ibn-arti", "instruction": "Rizki adalah … Pak Ahmad.", "prompt": { "ar": "رِزْقِي … أَحْمَدَ." }, "answer": "ابْنُ", "options": ["ابْنُ", "بِنْتُ", "أَبُو"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-gambar-jadd", "instruction": "Pilih kata yang cocok", "prompt": { "emoji": "👴" }, "answer": "جَدٌّ", "options": ["جَدٌّ", "جَدَّةٌ", "أَبٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-angka-6", "instruction": "Angka berapa ini dalam bahasa Arab?", "prompt": { "emoji": "6️⃣", "id": "enam" }, "answer": "سِتَّةٌ", "options": ["سِتَّةٌ", "سَبْعَةٌ", "ثَلاثَةٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-9", "instruction": "Dengarkan. Angka berapa?", "prompt": { "listen": "تِسْعَةٌ" }, "answer": "9", "options": ["9", "7", "10"], "lang": "id" },
+        { "q": "choice", "k": "lat-bint-arti", "instruction": "Apa artinya?", "prompt": { "ar": "بِنْتٌ" }, "answer": "anak perempuan", "options": ["anak perempuan", "anak laki-laki", "nenek"], "lang": "id" },
+        { "q": "choice", "k": "lat-madrasah-arti", "instruction": "Apa artinya?", "prompt": { "ar": "مَدْرَسَةٌ" }, "answer": "sekolah", "options": ["sekolah", "masjid", "rumah"], "lang": "id" },
+        { "q": "choice", "k": "lat-hitung-3-3", "instruction": "Berapa hasilnya?", "prompt": { "ar": "ثَلاثَةٌ + ثَلاثَةٌ = ؟" }, "answer": "سِتَّةٌ", "options": ["سِتَّةٌ", "ثَمانِيَةٌ", "خَمْسَةٌ"], "lang": "ar" }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Siapa? Di mana?",
+          "groups": [
+            {
+              "title_ar": "مَنْ هٰذا؟ · مَنْ هٰذِهِ؟",
+              "note_id": "مَنْ = siapa. Pakai هٰذا untuk laki-laki dan هٰذِهِ untuk perempuan.",
+              "rows": [
+                { "ar": "مَنْ هٰذا؟ هٰذا جَدِّي.", "id": "Siapa ini? Ini kakek saya." },
+                { "ar": "مَنْ هٰذِهِ؟ هٰذِهِ أُخْتِي.", "id": "Siapa ini? Ini saudara perempuan saya." }
+              ]
+            },
+            {
+              "title_ar": "أَيْنَ …؟ ← فِي …",
+              "note_id": "أَيْنَ = di mana. Jawabannya memakai فِي (di). Kata sesudah فِي berakhiran -i.",
+              "rows": [
+                { "ar": "أَيْنَ أَبِي؟ هُوَ فِي المَسْجِدِ.", "id": "Di mana ayah saya? Dia di masjid." },
+                { "ar": "أَيْنَ أَيُو؟ هِيَ فِي المَعْهَدِ.", "id": "Di mana Ayu? Dia di pesantren." }
+              ]
+            },
+            {
+              "title_ar": "فِي · إِلَى",
+              "note_id": "فِي = di (tempat). إِلَى = ke / kepada (arah, tujuan).",
+              "rows": [
+                { "ar": "أُمِّي فِي البَيْتِ.", "id": "Ibu saya di rumah." },
+                { "ar": "رِسالَةٌ إِلَى أُمِّي.", "id": "Surat untuk ibu saya." }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Milik siapa? Akhiran kata ganti",
+          "groups": [
+            {
+              "title_ar": "ـِي · ـكَ · ـكِ · ـهُ · ـها",
+              "note_id": "Akhiran menunjukkan pemilik: ـِي (saya), ـكَ (kamu lk), ـكِ (kamu pr), ـهُ (dia lk), ـها (dia pr). Ta' marbuthah (ة) berubah menjadi ت.",
+              "rows": [
+                { "ar": "بَيْتِي · بَيْتُكَ · بَيْتُكِ", "id": "rumah saya · rumahmu (lk) · rumahmu (pr)" },
+                { "ar": "بَيْتُهُ · بَيْتُها", "id": "rumahnya (lk) · rumahnya (pr)" },
+                { "ar": "أُمُّهُ · أُمُّها · أُسْرَتُها", "id": "ibunya (lk) · ibunya (pr) · keluarganya (pr)" }
+              ]
+            },
+            {
+              "title_ar": "أَبٌ ← أَبِي · أَبُوكَ · أَبُوهُ",
+              "note_id": "أَبٌ dan أَخٌ mendapat و sebelum akhiran: أَبُوكَ، أَبُوكِ، أَبُوهُ، أَبُوها. Tetapi \"ayah saya\" cukup أَبِي.",
+              "rows": [
+                { "ar": "أَبُوهُ مُهَنْدِسٌ.", "id": "Ayahnya (lk) insinyur." },
+                { "ar": "أَخُوها طالِبٌ.", "id": "Saudara laki-lakinya (pr) pelajar." }
+              ]
+            },
+            {
+              "title_ar": "يا + nama",
+              "note_id": "يا dipakai untuk memanggil: يا أَحْمَدُ، يا عائِشَةُ، يا أُمِّي.",
+              "rows": [
+                { "ar": "يا أُمِّي، أَيْنَ أَبِي؟", "id": "Bu, di mana Ayah?" }
+              ]
+            }
+          ]
+        },
+        { "q": "choice", "k": "man-jaddah", "instruction": "Kamu menunjuk foto nenekmu. Pilih kalimat yang benar", "prompt": { "id": "Ini nenek saya.", "emoji": "👵" }, "answer": "هٰذِهِ جَدَّتِي.", "options": ["هٰذِهِ جَدَّتِي.", "هٰذا جَدَّتِي.", "هٰذِهِ جَدِّي."], "lang": "ar" },
+        { "q": "choice", "k": "ummuha-siti", "instruction": "Lengkapi: Siti di Yogyakarta, … (ibunya) di Medan", "prompt": { "ar": "سِيتِي فِي يُوغْياكَرْتا، وَ… فِي مِيدان." }, "answer": "أُمُّها", "options": ["أُمُّها", "أُمُّهُ", "أُمِّي"], "lang": "ar" },
+        { "q": "choice", "k": "abuhu-rizki", "instruction": "Lengkapi: Rizki pelajar, … (ayahnya) insinyur", "prompt": { "ar": "رِزْقِي طالِبٌ، وَ… مُهَنْدِسٌ." }, "answer": "أَبُوهُ", "options": ["أَبُوهُ", "أَبُوها", "أَبِي"], "lang": "ar" },
+        { "q": "choice", "k": "isi-fi", "instruction": "Pilih kata yang tepat: \"Ahmad di masjid.\"", "prompt": { "ar": "أَحْمَدُ … المَسْجِدِ." }, "answer": "فِي", "options": ["فِي", "إِلَى", "مَنْ"], "lang": "ar" },
+        { "q": "choice", "k": "isi-ila", "instruction": "Pilih kata yang tepat: surat … Ayu (untuk Ayu)", "prompt": { "ar": "رِسالَةٌ … أَيُو." }, "answer": "إِلَى", "options": ["إِلَى", "فِي", "أَيْنَ"], "lang": "ar" },
+        { "q": "choice", "k": "tanya-bait-aisyah", "instruction": "Kamu bertanya kepada Aisyah di mana rumahnya", "prompt": { "id": "Di mana rumahmu? (pr)", "emoji": "🏠" }, "answer": "أَيْنَ بَيْتُكِ؟", "options": ["أَيْنَ بَيْتُكِ؟", "أَيْنَ بَيْتُكَ؟", "مَنْ بَيْتُكِ؟"], "lang": "ar" },
+        { "q": "arrange", "k": "susun-abuhu-muhandis", "prompt": { "id": "Ayahnya (lk) insinyur." }, "answer": "أَبُوهُ مُهَنْدِسٌ", "extra": ["أَبُوها"] },
+        { "q": "arrange", "k": "susun-ummuha-tabibah", "prompt": { "id": "Ibunya (pr) dokter." }, "answer": "أُمُّها طَبِيبَةٌ", "extra": ["أُمُّهُ"] },
+        { "q": "arrange", "k": "susun-ayna-baituka", "prompt": { "id": "Di mana rumahmu? (lk)" }, "answer": "أَيْنَ بَيْتُكَ", "extra": ["بَيْتُكِ"] }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-man-akh", "instruction": "Pilih kalimat yang benar", "prompt": { "id": "Ini saudara laki-laki saya.", "emoji": "👦" }, "answer": "هٰذا أَخِي.", "options": ["هٰذا أَخِي.", "هٰذِهِ أَخِي.", "هٰذا أُخْتِي."], "lang": "ar" },
+        { "q": "choice", "k": "lat-baituha", "instruction": "\"Rumahnya\" (milik perempuan) adalah …", "prompt": { "id": "rumahnya (pr)" }, "answer": "بَيْتُها", "options": ["بَيْتُها", "بَيْتُهُ", "بَيْتِي"], "lang": "ar" },
+        { "q": "choice", "k": "lat-abuki", "instruction": "Kamu bertanya kepada Siti: \"Apakah ayahmu guru?\"", "prompt": { "id": "Apakah ayahmu guru? (pr)" }, "answer": "هَلْ أَبُوكِ أُسْتاذٌ؟", "options": ["هَلْ أَبُوكِ أُسْتاذٌ؟", "هَلْ أَبُوكَ أُسْتاذٌ؟", "هَلْ أَبِي أُسْتاذٌ؟"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-susun-ayna-ummi", "prompt": { "id": "Di mana ibu saya?" }, "answer": "أَيْنَ أُمِّي", "extra": ["مَنْ"] },
+        { "q": "arrange", "k": "lat-susun-ukhtuhu", "prompt": { "id": "Di mana saudara perempuannya? (lk)" }, "answer": "أَيْنَ أُخْتُهُ", "extra": ["أُخْتُها"] }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ح dan هـ, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ح dan هـ",
+          "note_id": "ح (ha besar) diucapkan dari tengah tenggorokan yang disempitkan, desahnya berat, seperti mengembuskan napas ke kaca. هـ (ha kecil) ringan, seperti \"h\" pada kata \"hari\". Pelajar Indonesia sering mengucapkan ح sebagai \"h\" biasa, padahal artinya bisa berubah. Ketuk tiap kotak dan bandingkan.",
+          "pairs": [["حَ", "هَ"], ["حُ", "هُ"], ["حَرَمٌ", "هَرَمٌ"], ["سَحَرٌ", "سَهَرٌ"], ["فَحْمٌ", "فَهْمٌ"], ["نَحْرٌ", "نَهْرٌ"]]
+        },
+        { "q": "choice", "k": "dengar-haram", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "حَرَمٌ" }, "answer": "حَرَمٌ", "options": ["حَرَمٌ", "هَرَمٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-fahm", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "فَهْمٌ" }, "answer": "فَهْمٌ", "options": ["فَهْمٌ", "فَحْمٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-sahar", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "سَهَرٌ" }, "answer": "سَهَرٌ", "options": ["سَهَرٌ", "سَحَرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "dengar-ha-kecil", "instruction": "Dengarkan. Bunyi mana yang kamu dengar?", "prompt": { "listen": "هُ" }, "answer": "هُ", "options": ["هُ", "حُ"], "lang": "ar" },
+        { "q": "choice", "k": "nama-ha", "instruction": "Kata mana yang memuat huruf ح?", "prompt": { "id": "Cari huruf ha besar (ح)" }, "answer": "أَحْمَدُ", "options": ["أَحْمَدُ", "مُهَنْدِسٌ", "هٰذِهِ"], "lang": "ar" },
+        { "q": "repeat", "k": "ucap-hamdu", "ar": "الحَمْدُ لِلّٰهِ.", "id": "Alhamdulillah." },
+        { "q": "repeat", "k": "ucap-fahm", "ar": "فَهْمٌ", "id": "pemahaman (paham)" },
+        { "q": "choice", "k": "simak-pekerjaan", "instruction": "Dengarkan. Apa pekerjaan ayah si pembicara?", "prompt": { "listen": "أُمِّي طَبِيبَةٌ، وَأَبِي مُهَنْدِسٌ." }, "answer": "Insinyur", "options": ["Insinyur", "Dokter", "Guru"], "lang": "id" },
+        { "q": "choice", "k": "simak-ahmad-masjid", "instruction": "Dengarkan. Di mana Ahmad?", "prompt": { "listen": "أَيْنَ أَحْمَدُ؟ هُوَ فِي المَسْجِدِ." }, "answer": "Di masjid", "options": ["Di masjid", "Di rumah", "Di sekolah"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-dengar-haram2", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "هَرَمٌ" }, "answer": "هَرَمٌ", "options": ["هَرَمٌ", "حَرَمٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-fahm2", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "فَحْمٌ" }, "answer": "فَحْمٌ", "options": ["فَحْمٌ", "فَهْمٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-dengar-nahr", "instruction": "Dengarkan. Kata mana yang kamu dengar?", "prompt": { "listen": "نَهْرٌ" }, "answer": "نَهْرٌ", "options": ["نَهْرٌ", "نَحْرٌ"], "lang": "ar" },
+        { "q": "choice", "k": "lat-simak-ayu", "instruction": "Dengarkan. Di mana dia?", "prompt": { "listen": "أُخْتِي أَيُو فِي المَعْهَدِ." }, "answer": "Di pesantren", "options": ["Di pesantren", "Di masjid", "Di rumah"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Memanggil anggota keluarga",
+          "rows": [
+            { "ar": "يا أَبِي", "id": "Ayah! (memanggil)", "emoji": "👨" },
+            { "ar": "يا أُمِّي", "id": "Ibu! (memanggil)", "emoji": "👩" },
+            { "ar": "يا جَدِّي", "id": "Kakek! (memanggil)", "emoji": "👴" },
+            { "ar": "يا جَدَّتِي", "id": "Nenek! (memanggil)", "emoji": "👵" }
+          ]
+        },
+        { "q": "speak", "k": "kenalkan-keluarga", "instruction": "Tunjukkan foto keluargamu (atau bayangkan). Kenalkan ayah, ibu, dan pekerjaan mereka", "prompt": { "id": "Pakai هٰذا untuk laki-laki, هٰذِهِ untuk perempuan." }, "model": [
+          { "who": "rizki", "ar": "هٰذِهِ أُسْرَتِي فِي بانْدُونْغ.", "id": "Ini keluarga saya di Bandung." },
+          { "who": "rizki", "ar": "أَبِي مُهَنْدِسٌ، وَأُمِّي طَبِيبَةٌ.", "id": "Ayah saya insinyur, dan ibu saya dokter." },
+          { "who": "rizki", "ar": "وَهٰذِهِ أُخْتِي أَيُو.", "id": "Dan ini saudara perempuan saya, Ayu." }
+        ] },
+        { "q": "repeat", "k": "ucap-hadza-abi", "who": "rizki", "ar": "هٰذا أَبِي.", "id": "Ini ayah saya." },
+        { "q": "repeat", "k": "ucap-hadzihi-ummi", "who": "siti", "ar": "هٰذِهِ أُمِّي.", "id": "Ini ibu saya." },
+        { "q": "choice", "k": "panggil-ibu", "instruction": "Kamu mencari ibumu di rumah. Kamu memanggil …", "prompt": { "id": "Memanggil ibu", "emoji": "📣" }, "answer": "يا أُمِّي!", "options": ["يا أُمِّي!", "مَنْ أُمِّي؟", "هٰذِهِ أُمِّي."], "lang": "ar" },
+        { "q": "choice", "k": "tanya-bait-budi", "instruction": "Kamu ingin tahu di mana rumah Budi. Kamu bertanya …", "prompt": { "id": "Di mana rumahmu? (lk)", "emoji": "🏠" }, "answer": "أَيْنَ بَيْتُكَ يا بُودِي؟", "options": ["أَيْنَ بَيْتُكَ يا بُودِي؟", "أَيْنَ بَيْتُكِ يا بُودِي؟", "مَنْ هٰذا يا بُودِي؟"], "lang": "ar" },
+        { "q": "choice", "k": "jawab-baituka", "instruction": "Kamu Budi dari Surabaya. Rizki bertanya: أَيْنَ بَيْتُكَ؟ Jawabanmu …", "prompt": { "ar": "أَيْنَ بَيْتُكَ؟" }, "answer": "بَيْتِي فِي سُورابايا.", "options": ["بَيْتِي فِي سُورابايا.", "بَيْتُكَ فِي سُورابايا.", "بَيْتِي فِي بانْدُونْغ."], "lang": "ar" },
+        { "q": "speak", "k": "tanya-keluarga-teman", "instruction": "Tanyakan kepada teman perempuanmu: di mana keluarganya, dan apa pekerjaan ibunya", "prompt": { "id": "Ingat: pakai akhiran ـكِ untuk perempuan." }, "model": [
+          { "who": "aisyah", "ar": "أَيْنَ أُسْرَتُكِ؟", "id": "Di mana keluargamu? (pr)" },
+          { "who": "aisyah", "ar": "هَلْ أُمُّكِ طَبِيبَةٌ؟", "id": "Apakah ibumu dokter? (pr)" }
+        ] },
+        { "q": "repeat", "k": "ucap-ayna-baituka", "who": "budi", "ar": "أَيْنَ بَيْتُكَ؟", "id": "Di mana rumahmu? (lk)" },
+        { "q": "speak", "k": "cerita-dimana", "instruction": "Ceritakan di mana anggota keluargamu sekarang", "prompt": { "id": "Pakai أَيْنَ dan فِي." }, "model": [
+          { "who": "nur", "ar": "أَبِي فِي المَسْجِدِ.", "id": "Ayah saya di masjid." },
+          { "who": "nur", "ar": "أُخْتِي فِي المَعْهَدِ.", "id": "Saudara perempuan saya di pesantren." },
+          { "who": "nur", "ar": "أَنا فِي البَيْتِ.", "id": "Saya di rumah." }
+        ] }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-panggil-kakek", "instruction": "Kamu memanggil kakekmu. Kamu berkata …", "prompt": { "id": "Memanggil kakek", "emoji": "👴" }, "answer": "يا جَدِّي!", "options": ["يا جَدِّي!", "يا جَدَّتِي!", "يا أَبِي!"], "lang": "ar" },
+        { "q": "choice", "k": "lat-jawab-man", "instruction": "Temanmu menunjuk foto ayahmu dan bertanya: مَنْ هٰذا؟ Jawabanmu …", "prompt": { "ar": "مَنْ هٰذا؟" }, "answer": "هٰذا أَبِي.", "options": ["هٰذا أَبِي.", "هٰذِهِ أَبِي.", "أَبِي فِي البَيْتِ."], "lang": "ar" },
+        { "q": "choice", "k": "lat-jawab-ayna-ukht", "instruction": "Kamu Rizki. Budi bertanya: أَيْنَ أُخْتُكَ أَيُو؟ Jawabanmu …", "prompt": { "ar": "أَيْنَ أُخْتُكَ أَيُو؟" }, "answer": "هِيَ فِي المَعْهَدِ فِي غارُوت.", "options": ["هِيَ فِي المَعْهَدِ فِي غارُوت.", "هُوَ فِي المَعْهَدِ فِي غارُوت.", "هِيَ طالِبَةٌ مِنْ مِيدان."], "lang": "ar" },
+        { "q": "choice", "k": "lat-ya-jaddati-arti", "instruction": "Apa artinya?", "prompt": { "ar": "يا جَدَّتِي" }, "answer": "Nenek! (memanggil)", "options": ["Nenek! (memanggil)", "Kakek! (memanggil)", "nenek saya di sini"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Keluarga Rizki",
+          "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu.",
+          "rows": [
+            { "ar": "هٰذِهِ أُسْرَةُ رِزْقِي.", "id": "Ini keluarga Rizki.", "emoji": "👨‍👩‍👧‍👦" },
+            { "ar": "أَبُوهُ أَحْمَدُ مُهَنْدِسٌ.", "id": "Ayahnya, Ahmad, seorang insinyur." },
+            { "ar": "وَأُمُّهُ فاطِمَةُ طَبِيبَةٌ.", "id": "Ibunya, Fatimah, seorang dokter." },
+            { "ar": "أُخْتُهُ أَيُو فِي مَعْهَدٍ فِي غارُوت.", "id": "Saudara perempuannya, Ayu, di sebuah pesantren di Garut." },
+            { "ar": "بَيْتُ الأُسْرَةِ فِي بانْدُونْغ.", "id": "Rumah keluarga itu di Bandung." },
+            { "ar": "جَدُّهُ وَجَدَّتُهُ فِي ماكاسار.", "id": "Kakek dan neneknya di Makassar." }
+          ],
+          "img": "u2-keluarga-rizki",
+          "scene": "A warm family portrait in front of a simple two-storey house in a Bandung housing complex: Pak Ahmad, Bu Fatimah, Rizki, Ayu in her pesantren uniform, and Nur with her toy airplane, all smiling."
+        },
+        { "q": "choice", "k": "baca-abu-rizki", "instruction": "Benar atau salah? \"Ayah Rizki seorang dokter.\"", "prompt": { "ar": "أَبُو رِزْقِي طَبِيبٌ." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-ayu-garut", "instruction": "Benar atau salah? \"Ayu di pesantren di Garut.\"", "prompt": { "ar": "أَيُو فِي مَعْهَدٍ فِي غارُوت." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-jadd-dimana", "instruction": "Di mana kakek dan nenek Rizki?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Makassar", "options": ["Makassar", "Bandung", "Garut"], "lang": "id" },
+        { "q": "choice", "k": "baca-ummuhu", "instruction": "Siapa nama ibu Rizki?", "prompt": { "ar": "أُمُّهُ …" }, "answer": "فاطِمَةُ", "options": ["فاطِمَةُ", "أَيُو", "عائِشَةُ"], "lang": "ar" },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Surat dari Ayu",
+          "instruction_id": "Ayu suka menulis surat. Ini suratnya dari pesantren.",
+          "rows": [
+            { "ar": "رِسالَةٌ مِنْ أَيُو إِلَى أُمِّها", "id": "Surat dari Ayu untuk ibunya", "emoji": "✉️" },
+            { "ar": "يا أُمِّي، السَّلامُ عَلَيْكُمْ.", "id": "Ibu, assalamualaikum." },
+            { "ar": "أَنا بِخَيْرٍ فِي المَعْهَدِ، الحَمْدُ لِلّٰهِ.", "id": "Aku baik-baik saja di pesantren, alhamdulillah." },
+            { "ar": "صَدِيقَتِي فِي المَعْهَدِ مِنْ جاكَرْتا.", "id": "Temanku (pr) di pesantren dari Jakarta." },
+            { "ar": "كَيْفَ حالُ أَبِي وَنُور؟", "id": "Bagaimana kabar Ayah dan Nur?" },
+            { "ar": "مَعَ السَّلامَةِ. بِنْتُكِ أَيُو.", "id": "Sampai jumpa. Putrimu, Ayu." }
+          ],
+          "img": "u2-surat-ayu",
+          "scene": "Ayu in her navy pesantren uniform and white hijab sitting at a small wooden desk in a girls' pesantren dormitory in Garut, writing a letter by hand, an envelope beside her; the paper shows only blank lines."
+        },
+        { "q": "choice", "k": "baca-risalah-ila", "instruction": "Surat ini untuk siapa?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Ibu Ayu", "options": ["Ibu Ayu", "Ayah Ayu", "Nur"], "lang": "id" },
+        { "q": "choice", "k": "baca-ayu-bikhair", "instruction": "Benar atau salah? \"Ayu baik-baik saja di pesantren.\"", "prompt": { "ar": "أَيُو بِخَيْرٍ فِي المَعْهَدِ." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "baca-sadiqah-ayu", "instruction": "Teman Ayu di pesantren dari mana?", "prompt": { "id": "Menurut bacaan 2" }, "answer": "Jakarta", "options": ["Jakarta", "Garut", "Medan"], "lang": "id" },
+        { "q": "choice", "k": "baca-bintuki-arti", "instruction": "Apa arti بِنْتُكِ?", "prompt": { "ar": "بِنْتُكِ أَيُو." }, "answer": "anak perempuanmu (pr)", "options": ["anak perempuanmu (pr)", "saudara perempuanmu (pr)", "temanmu (pr)"], "lang": "id" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-baca-bait", "instruction": "Benar atau salah? \"Rumah keluarga Rizki di Yogyakarta.\"", "prompt": { "ar": "بَيْتُ الأُسْرَةِ فِي يُوغْياكَرْتا." }, "answer": "Salah", "options": ["Benar", "Salah"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-ummuhu-kerja", "instruction": "Apa pekerjaan ibu Rizki?", "prompt": { "id": "Menurut bacaan 1" }, "answer": "Dokter", "options": ["Dokter", "Insinyur", "Pedagang"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-min-ila", "instruction": "Apa artinya?", "prompt": { "ar": "رِسالَةٌ مِنْ أَيُو إِلَى أُمِّها" }, "answer": "Surat dari Ayu untuk ibunya", "options": ["Surat dari Ayu untuk ibunya", "Surat dari ibu untuk Ayu", "Surat dari Ayu untuk ayahnya"], "lang": "id" },
+        { "q": "choice", "k": "lat-baca-akhuhu", "instruction": "Benar atau salah? \"Ayu adalah saudara perempuan Rizki.\"", "prompt": { "ar": "أَيُو أُخْتُ رِزْقِي." }, "answer": "Benar", "options": ["Benar", "Salah"], "lang": "id" }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Menulis ب ت ث ن ي",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Huruf bergigi",
+          "instruction_id": "Lima huruf ini punya bentuk dasar yang sama. Bedanya hanya pada titik: ب (satu di bawah), ت (dua di atas), ث (tiga di atas), ن (satu di atas), ي (dua di bawah). Telusuri bentuknya.",
+          "rows": [
+            { "ar": "ب", "id": "ba" },
+            { "ar": "ت", "id": "ta" },
+            { "ar": "ث", "id": "tsa" },
+            { "ar": "ن", "id": "nun" },
+            { "ar": "ي", "id": "ya" }
+          ]
+        },
+        { "q": "choice", "k": "huruf-tsa", "instruction": "Huruf mana yang bertitik tiga di atas?", "prompt": { "id": "tiga titik di atas" }, "answer": "ث", "options": ["ث", "ت", "ن"], "lang": "ar" },
+        { "q": "choice", "k": "huruf-ya", "instruction": "Huruf apa ini?", "prompt": { "ar": "ي" }, "answer": "ya", "options": ["ya", "ba", "ta"], "lang": "id" },
+        {
+          "card": "writing",
+          "section": "Di awal, tengah, dan akhir kata",
+          "instruction_id": "Di awal dan tengah kata, huruf-huruf ini memendek menjadi \"gigi\" kecil. Di akhir kata, bentuknya kembali penuh.",
+          "rows": [
+            { "ar": "بَيْتٌ", "id": "rumah: ب di awal, ي di tengah, ت di akhir" },
+            { "ar": "بِنْتٌ", "id": "anak perempuan: ن di tengah, ت di akhir" },
+            { "ar": "اِبْنٌ", "id": "anak laki-laki: ن di akhir" },
+            { "ar": "طَبِيبٌ", "id": "dokter: ب di tengah dan di akhir" },
+            { "ar": "أَبِي", "id": "ayah saya: ي di akhir" }
+          ]
+        },
+        { "q": "choice", "k": "posisi-nun-ibn", "instruction": "Pada kata اِبْنٌ, huruf ن ada di …", "prompt": { "ar": "اِبْنٌ" }, "answer": "akhir kata", "options": ["akhir kata", "awal kata", "tengah kata"], "lang": "id" },
+        { "q": "choice", "k": "posisi-ya-bait", "instruction": "Pada kata بَيْتٌ, huruf ي ada di …", "prompt": { "ar": "بَيْتٌ" }, "answer": "tengah kata", "options": ["tengah kata", "awal kata", "akhir kata"], "lang": "id" },
+        { "q": "arrange", "k": "eja-bait", "instruction": "Susun hurufnya", "prompt": { "id": "بَيْتٌ (rumah)" }, "answer": "ب ي ت", "extra": ["ث"] },
+        { "q": "arrange", "k": "eja-bint", "instruction": "Susun hurufnya", "prompt": { "id": "بِنْتٌ (anak perempuan)" }, "answer": "ب ن ت", "extra": ["ي"] },
+        { "q": "choice", "k": "tulis-bint", "instruction": "Mana tulisan \"bint\" (anak perempuan) yang benar?", "prompt": { "id": "bint" }, "answer": "بِنْتٌ", "options": ["بِنْتٌ", "بِيتٌ", "ثِنْتٌ"], "lang": "ar" },
+        { "q": "arrange", "k": "susun-hadzihi-binti", "instruction": "Susun menjadi kalimat", "prompt": { "id": "Ini anak perempuan saya." }, "answer": "هٰذِهِ بِنْتِي", "extra": ["هٰذا"] },
+        { "q": "choice", "k": "awal-tsa", "instruction": "Angka mana yang diawali huruf ث?", "prompt": { "id": "Cari ث di awal kata" }, "answer": "ثَمانِيَةٌ", "options": ["ثَمانِيَةٌ", "تِسْعَةٌ", "سِتَّةٌ"], "lang": "ar" }
+      ],
+      "practice": [
+        { "q": "choice", "k": "lat-huruf-nun", "instruction": "Huruf mana yang bertitik satu di atas?", "prompt": { "id": "satu titik di atas" }, "answer": "ن", "options": ["ن", "ب", "ي"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-eja-ibn", "instruction": "Susun hurufnya", "prompt": { "id": "اِبْنٌ (anak laki-laki)" }, "answer": "ا ب ن", "extra": ["ت"] },
+        { "q": "choice", "k": "lat-posisi-ta-bint", "instruction": "Pada kata بِنْتٌ, huruf ت ada di …", "prompt": { "ar": "بِنْتٌ" }, "answer": "akhir kata", "options": ["akhir kata", "awal kata", "tengah kata"], "lang": "id" },
+        { "q": "choice", "k": "lat-tulis-bait", "instruction": "Mana tulisan \"bait\" (rumah) yang benar?", "prompt": { "id": "bait" }, "answer": "بَيْتٌ", "options": ["بَيْتٌ", "بَيْثٌ", "نَيْتٌ"], "lang": "ar" },
+        { "q": "arrange", "k": "lat-eja-tisah", "instruction": "Susun hurufnya", "prompt": { "id": "تِسْعَةٌ (sembilan)" }, "answer": "ت س ع ة", "extra": ["ث"] }
+      ]
+    }
+  ]
+}

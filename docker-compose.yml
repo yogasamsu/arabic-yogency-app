@@ -1,0 +1,15 @@
+# Postgres untuk pengembangan lokal. Jalankan: docker compose up -d
+services:
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_USER: arabic
+      POSTGRES_PASSWORD: arabic
+      POSTGRES_DB: arabic
+    ports:
+      - "127.0.0.1:55432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:

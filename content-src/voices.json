@@ -1,0 +1,111 @@
+{
+  "_note": "Suara Azure TTS per tokoh. Disetujui Yoga 04-10-2026; status 'usulan' belum diuji dengar. Lihat docs/kurikulum/SKELETON.md bagian A4.",
+  "provider": "azure",
+  "region_env": "AZURE_SPEECH_REGION",
+  "key_env": "AZURE_SPEECH_KEY",
+  "format": "audio-24khz-48kbitrate-mono-mp3",
+  "voices": {
+    "rizki": {
+      "voice": "ar-SA-HamedNeural",
+      "rate": "-10%",
+      "pitch": "+0%",
+      "status": "disetujui"
+    },
+    "budi": {
+      "voice": "ar-AE-HamdanNeural",
+      "rate": "-10%",
+      "pitch": "-10%",
+      "status": "disetujui"
+    },
+    "ustaz_mahmud": {
+      "voice": "ar-KW-FahedNeural",
+      "rate": "-15%",
+      "pitch": "-8%",
+      "status": "disetujui"
+    },
+    "pak_ahmad": {
+      "voice": "ar-TN-HediNeural",
+      "rate": "-12%",
+      "pitch": "-4%",
+      "status": "disetujui"
+    },
+    "siti": {
+      "voice": "ar-AE-FatimaNeural",
+      "rate": "-10%",
+      "pitch": "+0%",
+      "status": "disetujui"
+    },
+    "aisyah": {
+      "voice": "ar-OM-AyshaNeural",
+      "rate": "-10%",
+      "pitch": "+0%",
+      "status": "disetujui"
+    },
+    "bu_fatimah": {
+      "voice": "ar-AE-FatimaNeural",
+      "rate": "-15%",
+      "pitch": "-8%",
+      "status": "disetujui"
+    },
+    "ayu": {
+      "voice": "ar-OM-AyshaNeural",
+      "rate": "-8%",
+      "pitch": "+6%",
+      "status": "disetujui"
+    },
+    "nur": {
+      "voice": "ar-OM-AyshaNeural",
+      "rate": "-5%",
+      "pitch": "+18%",
+      "status": "disetujui"
+    },
+    "ustazah_zainab": {
+      "voice": "ar-QA-AmalNeural",
+      "rate": "-12%",
+      "pitch": "-6%",
+      "status": "disetujui"
+    },
+    "kakek_umar": {
+      "voice": "ar-QA-MoazNeural",
+      "rate": "-20%",
+      "pitch": "-12%",
+      "status": "disetujui"
+    },
+    "nenek_aminah": {
+      "voice": "ar-LB-LaylaNeural",
+      "rate": "-20%",
+      "pitch": "-12%",
+      "status": "disetujui"
+    },
+    "narator": {
+      "voice": "ar-SA-HamedNeural",
+      "rate": "-15%",
+      "pitch": "+0%",
+      "status": "usulan"
+    },
+    "yusuf": {
+      "voice": "ar-LB-RamiNeural",
+      "rate": "-10%",
+      "pitch": "+0%",
+      "status": "disetujui"
+    },
+    "pak_wayan": {
+      "voice": "ar-LB-RamiNeural",
+      "rate": "-12%",
+      "pitch": "-6%",
+      "status": "disetujui"
+    },
+    "figuran_lk": {
+      "voice": "ar-SY-LaithNeural",
+      "rate": "-10%",
+      "pitch": "+0%",
+      "status": "disetujui"
+    },
+    "figuran_pr": {
+      "voice": "ar-SA-ZariyahNeural",
+      "rate": "-10%",
+      "pitch": "+0%",
+      "status": "disetujui"
+    }
+  }
+}

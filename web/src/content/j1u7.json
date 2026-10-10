@@ -1,0 +1,4406 @@
+{
+ "id": "j1u7",
+ "book": "1a",
+ "number": 7,
+ "title_ar": "الدِّراسَةُ",
+ "title_id": "Belajar",
+ "lessons": [
+  {
+   "id": "j1u7-d1",
+   "dars": 1,
+   "title_id": "Jadwal pelajaran",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا رِزْقِي، أَيْنَ الجَدْوَلُ؟",
+        "id": "Rizki, jadwalnya di mana?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/304e2f1ffadf932d.mp3"
+        }
+       },
+       {
+        "ar": "اِفْتَحْ دَفْتَرِي. الجَدْوَلُ فِيهِ.",
+        "id": "Buka buku tulisku. Jadwalnya ada di situ.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/9e032f222a3dad66.mp3"
+        }
+       },
+       {
+        "ar": "ما الدَّرْسُ فِي الحِصَّةِ الأُولَى؟",
+        "id": "Pelajaran apa di jam pertama?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/8a543b99062480bf.mp3"
+        }
+       },
+       {
+        "ar": "النَّحْوُ مَعَ الأُسْتاذِ مَحْمُودٍ.",
+        "id": "Nahwu bersama Ustaz Mahmud.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/ce724535e6ff9f62.mp3"
+        }
+       },
+       {
+        "ar": "وَالرِّياضِيّاتُ؟ فِي الحِصَّةِ السَّادِسَةِ أَوِ السَّابِعَةِ؟",
+        "id": "Kalau matematika? Di jam keenam atau ketujuh?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/c62c0403c9db2492.mp3"
+        }
+       },
+       {
+        "ar": "فِي الحِصَّةِ السَّابِعَةِ.",
+        "id": "Di jam ketujuh.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/a7b08a1fffa61cbb.mp3"
+        }
+       },
+       {
+        "ar": "وَالحِصَّةُ الثَّامِنَةُ؟",
+        "id": "Kalau jam kedelapan?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/231b16262e59fe75.mp3"
+        }
+       },
+       {
+        "ar": "التَّارِيخُ مَعَ الأُسْتاذَةِ زَيْنَبَ.",
+        "id": "Tarikh (sejarah) bersama Ustazah Zainab.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/25bb35a0fb606923.mp3"
+        }
+       },
+       {
+        "ar": "شُكْرًا يا رِزْقِي!",
+        "id": "Terima kasih, Rizki!",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/e8a901bef83e106d.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u7-jadwal.webp"
+      ],
+      "instruction_id": "Pagi hari di kamar asrama putra. Budi mencari jadwal pelajaran."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "جَدْوَلٌ",
+        "id": "jadwal · ★ jadwal",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/958787b2ed5625c3.mp3"
+        }
+       },
+       {
+        "ar": "دَفْتَرٌ",
+        "id": "buku tulis · ★ daftar",
+        "emoji": "📓",
+        "audio": {
+         "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+        }
+       },
+       {
+        "ar": "اِفْتَحْ",
+        "id": "bukalah (lk)",
+        "emoji": "📖",
+        "audio": {
+         "src": "/audio/o/1f41432c7d98aac0.mp3"
+        }
+       },
+       {
+        "ar": "حِصَّةٌ",
+        "id": "jam pelajaran",
+        "emoji": "⏰",
+        "audio": {
+         "src": "/audio/o/469bac8604adb3bf.mp3"
+        }
+       },
+       {
+        "ar": "نَحْوٌ",
+        "id": "nahwu (tata bahasa Arab)",
+        "emoji": "✍️",
+        "audio": {
+         "src": "/audio/o/dc39d43827784b15.mp3"
+        }
+       },
+       {
+        "ar": "رِياضِيّاتٌ",
+        "id": "matematika",
+        "emoji": "➗",
+        "audio": {
+         "src": "/audio/o/ccbb065dbc7bad00.mp3"
+        }
+       },
+       {
+        "ar": "تارِيخٌ",
+        "id": "sejarah · ★ tarikh",
+        "emoji": "🏺",
+        "audio": {
+         "src": "/audio/o/f9a79fb3b9d36b36.mp3"
+        }
+       },
+       {
+        "ar": "أَوْ",
+        "id": "atau",
+        "emoji": "🔀",
+        "audio": {
+         "src": "/audio/o/37af3e6895e26b74.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d1-jadwal-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "أَيْنَ الجَدْوَلُ؟",
+       "audio": {
+        "src": "/audio/o/4b6995e891df7b72.mp3"
+       }
+      },
+      "answer": "Jadwalnya di mana?",
+      "options": [
+       "Jadwalnya di mana?",
+       "Pelajaran apa di jam pertama?",
+       "Buka buku tulisku."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d1-jadwal-di-mana",
+      "instruction": "Menurut dialog, jadwalnya ada di mana?",
+      "prompt": {
+       "id": "الجَدْوَلُ فِي …",
+       "emoji": "🗓️"
+      },
+      "answer": "Di buku tulis Rizki",
+      "options": [
+       "Di buku tulis Rizki",
+       "Di perpustakaan",
+       "Di kelas"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d1-hissah-ula",
+      "instruction": "Menurut dialog, pelajaran apa di jam pertama?",
+      "prompt": {
+       "ar": "الحِصَّةُ الأُولَى",
+       "audio": {
+        "src": "/audio/o/05147d65ec38fc0c.mp3"
+       }
+      },
+      "answer": "Nahwu",
+      "options": [
+       "Nahwu",
+       "Matematika",
+       "Sejarah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d1-dengar-sabiah",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "فِي الحِصَّةِ السَّابِعَةِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/235471501784fc3f.mp3"
+       }
+      },
+      "answer": "Di jam ketujuh.",
+      "options": [
+       "Di jam ketujuh.",
+       "Di jam keenam.",
+       "Di jam kedelapan."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d1-aw-arti",
+      "instruction": "Apa arti kata أَوْ dalam kalimat ini?",
+      "prompt": {
+       "ar": "السَّادِسَةِ أَوِ السَّابِعَةِ؟",
+       "audio": {
+        "src": "/audio/o/13c257a7e765a52d.mp3"
+       }
+      },
+      "answer": "atau",
+      "options": [
+       "atau",
+       "dan",
+       "di"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d1-tarikh-ustazah",
+      "instruction": "Menurut dialog, siapa guru sejarah?",
+      "prompt": {
+       "id": "Jam kedelapan",
+       "emoji": "🏺"
+      },
+      "answer": "Ustazah Zainab",
+      "options": [
+       "Ustazah Zainab",
+       "Ustaz Mahmud",
+       "Rizki"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d1-susun-iftah-daftari",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Buka buku tulisku. (lk)"
+      },
+      "answer": "اِفْتَحْ دَفْتَرِي",
+      "tokens": [
+       "اِفْتَحْ",
+       "دَفْتَرِي",
+       "قَلَمٌ"
+      ],
+      "audioMap": {
+       "اِفْتَحْ": {
+        "src": "/audio/o/1f41432c7d98aac0.mp3"
+       },
+       "دَفْتَرِي": {
+        "src": "/audio/o/93772c508e1adbf5.mp3"
+       },
+       "قَلَمٌ": {
+        "src": "/audio/o/b32c56a7a03592e5.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d1-susun-nahwu-ustaz",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Bersama Ustaz Mahmud."
+      },
+      "answer": "مَعَ الأُسْتاذِ مَحْمُودٍ",
+      "tokens": [
+       "مَعَ",
+       "الأُسْتاذِ",
+       "مَحْمُودٍ",
+       "فِي"
+      ],
+      "audioMap": {
+       "مَعَ": {
+        "src": "/audio/o/7ee7ee0c5d3dc169.mp3"
+       },
+       "الأُسْتاذِ": {
+        "src": "/audio/o/07842b759c180814.mp3"
+       },
+       "مَحْمُودٍ": {
+        "src": "/audio/o/f7aad281c3185ebe.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u7-d1-ucap-aina-jadwal",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَيْنَ الجَدْوَلُ؟",
+       "id": "Jadwalnya di mana?",
+       "audio": {
+        "src": "/audio/o/5ddb8c75a66cfb05.mp3"
+       }
+      },
+      "target": "أَيْنَ الجَدْوَلُ؟"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u7-d1-lat-daftar-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "دَفْتَرٌ",
+      "audio": {
+       "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+      }
+     },
+     "answer": "buku tulis",
+     "options": [
+      "buku tulis",
+      "jadwal",
+      "perpustakaan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d1-lat-riyadiyyat-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "رِياضِيّاتٌ",
+      "audio": {
+       "src": "/audio/o/ccbb065dbc7bad00.mp3"
+      }
+     },
+     "answer": "matematika",
+     "options": [
+      "matematika",
+      "sejarah",
+      "nahwu"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d1-lat-dengar-hissah",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "وَالحِصَّةُ الثَّامِنَةُ؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/01358d8f47611753.mp3"
+      }
+     },
+     "answer": "وَالحِصَّةُ الثَّامِنَةُ؟",
+     "options": [
+      "وَالحِصَّةُ الثَّامِنَةُ؟",
+      "وَالحِصَّةُ السَّادِسَةُ؟",
+      "وَالحِصَّةُ الأُولَى؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "وَالحِصَّةُ الثَّامِنَةُ؟": {
+       "src": "/audio/o/01358d8f47611753.mp3"
+      },
+      "وَالحِصَّةُ السَّادِسَةُ؟": {
+       "src": "/audio/o/7e0be6b626f95518.mp3"
+      },
+      "وَالحِصَّةُ الأُولَى؟": {
+       "src": "/audio/o/67be5cd5583a95a8.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u7-d1-lat-susun-aina-jadwal",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Jadwalnya di mana?"
+     },
+     "answer": "أَيْنَ الجَدْوَلُ",
+     "tokens": [
+      "أَيْنَ",
+      "الجَدْوَلُ",
+      "مَتَى"
+     ],
+     "audioMap": {
+      "أَيْنَ": {
+       "src": "/audio/o/2c4225894606e007.mp3"
+      },
+      "الجَدْوَلُ": {
+       "src": "/audio/o/118576cbc4fe7685.mp3"
+      },
+      "مَتَى": {
+       "src": "/audio/o/b914cba783c69620.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d1-lat-riyadiyyat-hissah",
+     "instruction": "Menurut dialog, matematika di jam ke berapa?",
+     "prompt": {
+      "ar": "الرِّياضِيّاتُ فِي الحِصَّةِ …",
+      "audio": {
+       "src": "/audio/o/dd5733f661d3d0a0.mp3"
+      }
+     },
+     "answer": "السَّابِعَةِ",
+     "options": [
+      "السَّابِعَةِ",
+      "السَّادِسَةِ",
+      "الثَّامِنَةِ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "السَّابِعَةِ": {
+       "src": "/audio/o/b40ee0a9774c7097.mp3"
+      },
+      "السَّادِسَةِ": {
+       "src": "/audio/o/d2d01b7f1c461031.mp3"
+      },
+      "الثَّامِنَةِ": {
+       "src": "/audio/o/2c359e299f90f99c.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u7-d2",
+   "dars": 2,
+   "title_id": "Meminjam buku di perpustakaan",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ يا أُسْتاذَةُ.",
+        "id": "Assalamualaikum, Ustazah.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/9aef06bc116e1453.mp3"
+        }
+       },
+       {
+        "ar": "وَعَلَيْكُمُ السَّلامُ. ماذا تُرِيدِينَ يا سِيتِي؟",
+        "id": "Waalaikumussalam. Kamu mau apa, Siti? (pr)",
+        "speaker_ar": "الأُسْتاذَةُ زَيْنَب",
+        "audio": {
+         "src": "/audio/o/501cb4f0952d09b2.mp3"
+        }
+       },
+       {
+        "ar": "أُرِيدُ كِتابَ الفِقْهِ، مِنْ فَضْلِكِ.",
+        "id": "Saya mau buku fikih, tolong. (kepada pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/492e81efe59204e7.mp3"
+        }
+       },
+       {
+        "ar": "هٰذا هُوَ. اُكْتُبِي اسْمَكِ فِي الدَّفْتَرِ.",
+        "id": "Ini dia. Tulislah namamu di buku catatan. (pr)",
+        "speaker_ar": "الأُسْتاذَةُ زَيْنَب",
+        "audio": {
+         "src": "/audio/o/f0b14085aa47720a.mp3"
+        }
+       },
+       {
+        "ar": "إِلَى مَتَى يا أُسْتاذَةُ؟",
+        "id": "Sampai kapan, Ustazah?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/939b2d254fbbfc1a.mp3"
+        }
+       },
+       {
+        "ar": "أُسْبُوعًا واحِدًا.",
+        "id": "Satu minggu.",
+        "speaker_ar": "الأُسْتاذَةُ زَيْنَب",
+        "audio": {
+         "src": "/audio/o/438264b2eb472ea1.mp3"
+        }
+       },
+       {
+        "ar": "هَلِ الاِمْتِحانُ قَرِيبٌ؟",
+        "id": "Apakah ujiannya sudah dekat?",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/5305f7bd24040480.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ. اِقْرَئِي الكِتابَ فِي غُرْفَتِكِ.",
+        "id": "Ya. Bacalah buku itu di kamarmu. (pr)",
+        "speaker_ar": "الأُسْتاذَةُ زَيْنَب",
+        "audio": {
+         "src": "/audio/o/adae08832ee3d2a7.mp3"
+        }
+       },
+       {
+        "ar": "جَزاكِ اللّٰهُ خَيْرًا يا أُسْتاذَةُ.",
+        "id": "Semoga Allah membalas kebaikan Ustazah.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/6cadc7bde2dc77aa.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u7-perpustakaan.webp"
+      ],
+      "instruction_id": "Sore hari di perpustakaan ma'had. Siti ingin meminjam buku dari Ustazah Zainab."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مَكْتَبَةٌ",
+        "id": "perpustakaan",
+        "emoji": "📚",
+        "audio": {
+         "src": "/audio/o/1a45875ebcd964e1.mp3"
+        }
+       },
+       {
+        "ar": "كِتابٌ",
+        "id": "buku · ★ kitab",
+        "emoji": "📕",
+        "audio": {
+         "src": "/audio/o/9ab46029409a862b.mp3"
+        }
+       },
+       {
+        "ar": "فِقْهٌ",
+        "id": "fikih · ★ fikih",
+        "emoji": "🕌",
+        "audio": {
+         "src": "/audio/o/ec242e1e73b12dc8.mp3"
+        }
+       },
+       {
+        "ar": "اُكْتُبِي",
+        "id": "tulislah (pr)",
+        "emoji": "✍️",
+        "audio": {
+         "src": "/audio/o/0ac68daaa58e7d82.mp3"
+        }
+       },
+       {
+        "ar": "اِقْرَئِي",
+        "id": "bacalah (pr)",
+        "emoji": "📖",
+        "audio": {
+         "src": "/audio/o/6d1c276bf8365cf8.mp3"
+        }
+       },
+       {
+        "ar": "إِلَى مَتَى؟",
+        "id": "sampai kapan?",
+        "emoji": "⏳",
+        "audio": {
+         "src": "/audio/o/d235531d3017e335.mp3"
+        }
+       },
+       {
+        "ar": "أُسْبُوعٌ",
+        "id": "minggu (7 hari)",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/5e4a093538d225bd.mp3"
+        }
+       },
+       {
+        "ar": "اِمْتِحانٌ",
+        "id": "ujian",
+        "emoji": "📝",
+        "audio": {
+         "src": "/audio/o/4dd950f1fac5cb07.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d2-siti-mau-apa",
+      "instruction": "Menurut dialog, Siti mau apa?",
+      "prompt": {
+       "ar": "أُرِيدُ كِتابَ …",
+       "audio": {
+        "src": "/audio/o/069b6773c51e9b60.mp3"
+       },
+       "emoji": "📕"
+      },
+      "answer": "Buku fikih",
+      "options": [
+       "Buku fikih",
+       "Buku nahwu",
+       "Buku tulis"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d2-uktubi-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "اُكْتُبِي اسْمَكِ.",
+       "audio": {
+        "src": "/audio/o/2a0f834e65db8ff2.mp3"
+       }
+      },
+      "answer": "Tulislah namamu. (pr)",
+      "options": [
+       "Tulislah namamu. (pr)",
+       "Bacalah bukumu. (pr)",
+       "Siapa namamu? (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d2-lama-pinjam",
+      "instruction": "Menurut dialog, berapa lama Siti boleh meminjam buku?",
+      "prompt": {
+       "ar": "إِلَى مَتَى؟",
+       "audio": {
+        "src": "/audio/o/d235531d3017e335.mp3"
+       },
+       "emoji": "⏳"
+      },
+      "answer": "Satu minggu",
+      "options": [
+       "Satu minggu",
+       "Satu hari",
+       "Satu bulan"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d2-balas-ila-mata",
+      "instruction": "Pilih jawaban yang tepat",
+      "prompt": {
+       "ar": "إِلَى مَتَى يا أُسْتاذَةُ؟",
+       "audio": {
+        "src": "/audio/o/60d136077b529104.mp3"
+       }
+      },
+      "answer": "أُسْبُوعًا واحِدًا.",
+      "options": [
+       "أُسْبُوعًا واحِدًا.",
+       "فِي المَكْتَبَةِ.",
+       "كِتابَ الفِقْهِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أُسْبُوعًا واحِدًا.": {
+        "src": "/audio/o/c9d40547f1b2dfbf.mp3"
+       },
+       "فِي المَكْتَبَةِ.": {
+        "src": "/audio/o/00d5bf9cb63cc3ea.mp3"
+       },
+       "كِتابَ الفِقْهِ.": {
+        "src": "/audio/o/936a7d8a45cb1859.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d2-dengar-imtihan",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "هَلِ الاِمْتِحانُ قَرِيبٌ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/66ec14ed4b6087e3.mp3"
+       }
+      },
+      "answer": "Apakah ujiannya sudah dekat?",
+      "options": [
+       "Apakah ujiannya sudah dekat?",
+       "Apakah perpustakaannya dekat?",
+       "Di mana ujiannya?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d2-maktabah-gambar",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "id": "tempat meminjam buku",
+       "emoji": "📚"
+      },
+      "answer": "مَكْتَبَةٌ",
+      "options": [
+       "مَكْتَبَةٌ",
+       "مَطْبَخٌ",
+       "مَسْجِدٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَكْتَبَةٌ": {
+        "src": "/audio/o/1a45875ebcd964e1.mp3"
+       },
+       "مَطْبَخٌ": {
+        "src": "/audio/o/7bfd4b898ef783bb.mp3"
+       },
+       "مَسْجِدٌ": {
+        "src": "/audio/o/974fe20fbdf19425.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d2-susun-urid-kitab",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya mau buku fikih."
+      },
+      "answer": "أُرِيدُ كِتابَ الفِقْهِ",
+      "tokens": [
+       "أُرِيدُ",
+       "كِتابَ",
+       "الفِقْهِ",
+       "تُرِيدِينَ"
+      ],
+      "audioMap": {
+       "أُرِيدُ": {
+        "src": "/audio/o/16c05b31f9c09253.mp3"
+       },
+       "كِتابَ": {
+        "src": "/audio/o/cb0ac6046d9e4192.mp3"
+       },
+       "الفِقْهِ": {
+        "src": "/audio/o/0e3c2b4cedca56db.mp3"
+       },
+       "تُرِيدِينَ": {
+        "src": "/audio/o/15a0864c3d6afd71.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d2-susun-iqrai-kitab",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Bacalah buku itu! (pr)"
+      },
+      "answer": "اِقْرَئِي الكِتابَ",
+      "tokens": [
+       "اِقْرَئِي",
+       "الكِتابَ",
+       "اُكْتُبِي"
+      ],
+      "audioMap": {
+       "اِقْرَئِي": {
+        "src": "/audio/o/6d1c276bf8365cf8.mp3"
+       },
+       "الكِتابَ": {
+        "src": "/audio/o/46fa4d359441fadc.mp3"
+       },
+       "اُكْتُبِي": {
+        "src": "/audio/o/0ac68daaa58e7d82.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u7-d2-ucap-jazakillah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "جَزاكِ اللّٰهُ خَيْرًا.",
+       "id": "Semoga Allah membalas kebaikanmu. (pr)",
+       "audio": {
+        "src": "/audio/o/e69b3ac7e44d1a8c.mp3"
+       }
+      },
+      "target": "جَزاكِ اللّٰهُ خَيْرًا."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u7-d2-lat-imtihan-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "اِمْتِحانٌ",
+      "audio": {
+       "src": "/audio/o/4dd950f1fac5cb07.mp3"
+      }
+     },
+     "answer": "ujian",
+     "options": [
+      "ujian",
+      "jadwal",
+      "minggu"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d2-lat-usbu-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أُسْبُوعٌ",
+      "audio": {
+       "src": "/audio/o/5e4a093538d225bd.mp3"
+      }
+     },
+     "answer": "minggu (7 hari)",
+     "options": [
+      "minggu (7 hari)",
+      "hari",
+      "jam pelajaran"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d2-lat-iqrai-pr",
+     "instruction": "Ustazah menyuruh Siti membaca buku. Ustazah berkata …",
+     "prompt": {
+      "id": "Bacalah buku itu! (pr)",
+      "emoji": "👩"
+     },
+     "answer": "اِقْرَئِي الكِتابَ.",
+     "options": [
+      "اِقْرَئِي الكِتابَ.",
+      "اِقْرَأِ الكِتابَ.",
+      "اُكْتُبِي الكِتابَ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "اِقْرَئِي الكِتابَ.": {
+       "src": "/audio/o/75e4b412f452d3f1.mp3"
+      },
+      "اِقْرَأِ الكِتابَ.": {
+       "src": "/audio/o/eb929602d946aca6.mp3"
+      },
+      "اُكْتُبِي الكِتابَ.": {
+       "src": "/audio/o/6648f4968743dc3e.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u7-d2-lat-susun-uktubi",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Tulislah namamu. (pr)"
+     },
+     "answer": "اُكْتُبِي اسْمَكِ",
+     "tokens": [
+      "اُكْتُبِي",
+      "اسْمَكِ",
+      "اسْمَكَ"
+     ],
+     "audioMap": {
+      "اُكْتُبِي": {
+       "src": "/audio/o/0ac68daaa58e7d82.mp3"
+      },
+      "اسْمَكِ": {
+       "src": "/audio/o/2a09dfd51cb8cc4b.mp3"
+      },
+      "اسْمَكَ": {
+       "src": "/audio/o/224331e9a5318724.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d2-lat-dengar-ila-mata",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "إِلَى مَتَى؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/d235531d3017e335.mp3"
+      }
+     },
+     "answer": "إِلَى مَتَى؟",
+     "options": [
+      "إِلَى مَتَى؟",
+      "مِنْ أَيْنَ؟",
+      "ماذا تُرِيدِينَ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "إِلَى مَتَى؟": {
+       "src": "/audio/o/d235531d3017e335.mp3"
+      },
+      "مِنْ أَيْنَ؟": {
+       "src": "/audio/o/6e8347baf119f28d.mp3"
+      },
+      "ماذا تُرِيدِينَ؟": {
+       "src": "/audio/o/bc60d69b97742350.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u7-d3",
+   "dars": 3,
+   "title_id": "Cerita dari pesantren",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا أَيُو، ماذا دَرَسْتِ اليَوْمَ؟",
+        "id": "Ayu, hari ini kamu belajar apa? (pr)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/b6b5a64b53c63226.mp3"
+        }
+       },
+       {
+        "ar": "دَرَسْتُ الفِقْهَ وَالنَّحْوَ.",
+        "id": "Saya belajar fikih dan nahwu.",
+        "speaker_ar": "أَيُو",
+        "audio": {
+         "src": "/audio/o/3af6443ca9620507.mp3"
+        }
+       },
+       {
+        "ar": "ماذا قَرَأْتِ فِي الفِقْهِ؟",
+        "id": "Di pelajaran fikih kamu membaca apa? (pr)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/9a53c07aea84141b.mp3"
+        }
+       },
+       {
+        "ar": "قَرَأْتُ بابَ الوُضُوءِ.",
+        "id": "Saya membaca bab wudu.",
+        "speaker_ar": "أَيُو",
+        "audio": {
+         "src": "/audio/o/fc8c973de9132d08.mp3"
+        }
+       },
+       {
+        "ar": "وَفِي النَّحْوِ؟",
+        "id": "Kalau di nahwu?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/46cac2a26c7c5a29.mp3"
+        }
+       },
+       {
+        "ar": "دَرَسْتُ الفِعْلَ الماضِيَ.",
+        "id": "Saya belajar fi'il madhi (kata kerja lampau).",
+        "speaker_ar": "أَيُو",
+        "audio": {
+         "src": "/audio/o/32be2be81a85704b.mp3"
+        }
+       },
+       {
+        "ar": "مَتَى العُطْلَةُ يا أَيُو؟",
+        "id": "Kapan liburnya, Ayu?",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/a3e308fa79c90523.mp3"
+        }
+       },
+       {
+        "ar": "بَعْدَ الاِمْتِحانِ. سَأَكُونُ فِي بانْدُونْغ!",
+        "id": "Setelah ujian. Saya akan ada di Bandung!",
+        "speaker_ar": "أَيُو",
+        "audio": {
+         "src": "/audio/o/4e43f86fe65bb9f7.mp3"
+        }
+       },
+       {
+        "ar": "وَأَنا سَأَكُونُ فِي البَيْتِ، إِنْ شاءَ اللّٰهُ.",
+        "id": "Saya juga akan ada di rumah, insyaallah.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/09fb44f489235974.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u7-telepon-ayu.webp"
+      ],
+      "instruction_id": "Hari Jumat, Ayu menelepon kakaknya, Rizki, dari telepon pesantren di Garut."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "دَرَسْتُ",
+        "id": "saya (sudah) belajar",
+        "emoji": "📘",
+        "audio": {
+         "src": "/audio/o/a3f9e027d48e5ffd.mp3"
+        }
+       },
+       {
+        "ar": "قَرَأْتُ",
+        "id": "saya (sudah) membaca",
+        "emoji": "📖",
+        "audio": {
+         "src": "/audio/o/1fe0e3e2957ac5db.mp3"
+        }
+       },
+       {
+        "ar": "بابٌ",
+        "id": "bab (dalam buku); juga: pintu · ★ bab",
+        "emoji": "📑",
+        "audio": {
+         "src": "/audio/o/d00fd54d114483df.mp3"
+        }
+       },
+       {
+        "ar": "الفِعْلُ الماضِي",
+        "id": "fi'il madhi (kata kerja lampau)",
+        "emoji": "⏪",
+        "audio": {
+         "src": "/audio/o/91f8773283d79c8f.mp3"
+        }
+       },
+       {
+        "ar": "بَعْدَ",
+        "id": "setelah",
+        "emoji": "⏭️",
+        "audio": {
+         "src": "/audio/o/b59d5ee3004036b3.mp3"
+        }
+       },
+       {
+        "ar": "العُطْلَةُ",
+        "id": "libur, liburan",
+        "emoji": "🏖️",
+        "audio": {
+         "src": "/audio/o/23011d90bfa77941.mp3"
+        }
+       },
+       {
+        "ar": "سَأَكُونُ",
+        "id": "saya akan berada / akan menjadi",
+        "emoji": "🔜",
+        "audio": {
+         "src": "/audio/o/071aaa1550d70488.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d3-ayu-belajar-apa",
+      "instruction": "Menurut dialog, Ayu belajar apa hari ini?",
+      "prompt": {
+       "ar": "دَرَسْتُ …",
+       "audio": {
+        "src": "/audio/o/e06833117781435c.mp3"
+       },
+       "emoji": "📘"
+      },
+      "answer": "Fikih dan nahwu",
+      "options": [
+       "Fikih dan nahwu",
+       "Matematika dan sejarah",
+       "Fikih dan sejarah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d3-darastu-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "دَرَسْتُ الفِقْهَ.",
+       "audio": {
+        "src": "/audio/o/b4e2292783f82ade.mp3"
+       }
+      },
+      "answer": "Saya belajar fikih.",
+      "options": [
+       "Saya belajar fikih.",
+       "Kamu belajar fikih. (pr)",
+       "Saya akan belajar fikih."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d3-bab-wudu",
+      "instruction": "Menurut dialog, bab apa yang Ayu baca di pelajaran fikih?",
+      "prompt": {
+       "ar": "قَرَأْتُ بابَ …",
+       "audio": {
+        "src": "/audio/o/df4cc7db9b92e0ce.mp3"
+       }
+      },
+      "answer": "Bab wudu",
+      "options": [
+       "Bab wudu",
+       "Bab salat",
+       "Bab fi'il madhi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d3-balas-madza-darasti",
+      "instruction": "Pilih jawaban yang tepat",
+      "prompt": {
+       "ar": "ماذا دَرَسْتِ اليَوْمَ؟",
+       "audio": {
+        "src": "/audio/o/4e0403a7cb9f9387.mp3"
+       }
+      },
+      "answer": "دَرَسْتُ النَّحْوَ.",
+      "options": [
+       "دَرَسْتُ النَّحْوَ.",
+       "سَأَكُونُ فِي البَيْتِ.",
+       "بَعْدَ الاِمْتِحانِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "دَرَسْتُ النَّحْوَ.": {
+        "src": "/audio/o/d98ec08f6ba469a8.mp3"
+       },
+       "سَأَكُونُ فِي البَيْتِ.": {
+        "src": "/audio/o/f772d338d5c377e2.mp3"
+       },
+       "بَعْدَ الاِمْتِحانِ.": {
+        "src": "/audio/o/89590279c548efd5.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d3-dengar-saakunu",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "سَأَكُونُ فِي بانْدُونْغ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/983bebf5a3a19fe2.mp3"
+       }
+      },
+      "answer": "Saya akan ada di Bandung.",
+      "options": [
+       "Saya akan ada di Bandung.",
+       "Saya dari Bandung.",
+       "Saya belajar di Bandung."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d3-kapan-libur",
+      "instruction": "Menurut dialog, kapan Ayu libur?",
+      "prompt": {
+       "ar": "مَتَى العُطْلَةُ؟",
+       "audio": {
+        "src": "/audio/o/3d139af5505931e4.mp3"
+       },
+       "emoji": "🏖️"
+      },
+      "answer": "Setelah ujian",
+      "options": [
+       "Setelah ujian",
+       "Hari ini",
+       "Satu minggu lagi"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d3-susun-qaratu-bab",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya membaca bab wudu."
+      },
+      "answer": "قَرَأْتُ بابَ الوُضُوءِ",
+      "tokens": [
+       "قَرَأْتُ",
+       "بابَ",
+       "الوُضُوءِ",
+       "قَرَأْتِ"
+      ],
+      "audioMap": {
+       "قَرَأْتُ": {
+        "src": "/audio/o/1fe0e3e2957ac5db.mp3"
+       },
+       "بابَ": {
+        "src": "/audio/o/c125e4129977cd68.mp3"
+       },
+       "الوُضُوءِ": {
+        "src": "/audio/o/64790408df20aaf4.mp3"
+       },
+       "قَرَأْتِ": {
+        "src": "/audio/o/d9825898c3b577b4.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d3-susun-saakunu-bandung",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya akan ada di Bandung."
+      },
+      "answer": "سَأَكُونُ فِي بانْدُونْغ",
+      "tokens": [
+       "سَأَكُونُ",
+       "فِي",
+       "بانْدُونْغ",
+       "مِنْ"
+      ],
+      "audioMap": {
+       "سَأَكُونُ": {
+        "src": "/audio/o/071aaa1550d70488.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "بانْدُونْغ": {
+        "src": "/audio/o/5bc0bb3e585abcc2.mp3"
+       },
+       "مِنْ": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u7-d3-ucap-darastu",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "دَرَسْتُ الفِقْهَ وَالنَّحْوَ.",
+       "id": "Saya belajar fikih dan nahwu.",
+       "audio": {
+        "src": "/audio/o/3af6443ca9620507.mp3"
+       }
+      },
+      "target": "دَرَسْتُ الفِقْهَ وَالنَّحْوَ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u7-d3-lat-qaratu-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "قَرَأْتُ",
+      "audio": {
+       "src": "/audio/o/1fe0e3e2957ac5db.mp3"
+      }
+     },
+     "answer": "saya (sudah) membaca",
+     "options": [
+      "saya (sudah) membaca",
+      "saya (sudah) belajar",
+      "saya akan membaca"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d3-lat-bada-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "بَعْدَ الاِمْتِحانِ",
+      "audio": {
+       "src": "/audio/o/5cc5bc49c8b885a5.mp3"
+      }
+     },
+     "answer": "setelah ujian",
+     "options": [
+      "setelah ujian",
+      "sebelum ujian",
+      "di ruang ujian"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d3-lat-tanya-ayu",
+     "instruction": "Kamu bertanya kepada Ayu apa yang ia pelajari. Pilih kalimatnya",
+     "prompt": {
+      "id": "Kamu belajar apa? (pr)",
+      "emoji": "👧"
+     },
+     "answer": "ماذا دَرَسْتِ؟",
+     "options": [
+      "ماذا دَرَسْتِ؟",
+      "ماذا دَرَسْتَ؟",
+      "ماذا دَرَسْتُ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ماذا دَرَسْتِ؟": {
+       "src": "/audio/o/2ea37712a8b64e87.mp3"
+      },
+      "ماذا دَرَسْتَ؟": {
+       "src": "/audio/o/3d5cf14cc6aa7cb0.mp3"
+      },
+      "ماذا دَرَسْتُ؟": {
+       "src": "/audio/o/fdd07c5094f55b94.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u7-d3-lat-susun-darastu-nahw",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya belajar fikih dan nahwu."
+     },
+     "answer": "دَرَسْتُ الفِقْهَ وَالنَّحْوَ",
+     "tokens": [
+      "دَرَسْتُ",
+      "الفِقْهَ",
+      "وَالنَّحْوَ",
+      "أَوْ"
+     ],
+     "audioMap": {
+      "دَرَسْتُ": {
+       "src": "/audio/o/a3f9e027d48e5ffd.mp3"
+      },
+      "الفِقْهَ": {
+       "src": "/audio/o/40be01faaa781061.mp3"
+      },
+      "وَالنَّحْوَ": {
+       "src": "/audio/o/36b530472f67c4d6.mp3"
+      },
+      "أَوْ": {
+       "src": "/audio/o/37af3e6895e26b74.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d3-lat-rizki-libur",
+     "instruction": "Menurut dialog, Rizki akan berada di mana saat libur?",
+     "prompt": {
+      "ar": "سَأَكُونُ فِي البَيْتِ.",
+      "audio": {
+       "src": "/audio/o/f772d338d5c377e2.mp3"
+      }
+     },
+     "answer": "Di rumah",
+     "options": [
+      "Di rumah",
+      "Di pesantren",
+      "Di perpustakaan"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u7-d4",
+   "dars": 4,
+   "title_id": "Kosakata & bilangan tingkat 6–10",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "دَرْسٌ",
+        "id": "pelajaran",
+        "emoji": "📘",
+        "audio": {
+         "src": "/audio/o/71d696cc97149cfd.mp3"
+        }
+       },
+       {
+        "ar": "لُغَةٌ",
+        "id": "bahasa · ★ logat",
+        "emoji": "🗣️",
+        "audio": {
+         "src": "/audio/o/a8412255b6240923.mp3"
+        }
+       },
+       {
+        "ar": "عُلُومٌ",
+        "id": "IPA (ilmu pengetahuan alam) · ★ ilmu",
+        "emoji": "🔬",
+        "audio": {
+         "src": "/audio/o/65ef584a0ef86e1f.mp3"
+        }
+       },
+       {
+        "ar": "فِقْهٌ",
+        "id": "fikih · ★ fikih",
+        "emoji": "🕌",
+        "audio": {
+         "src": "/audio/o/ec242e1e73b12dc8.mp3"
+        }
+       },
+       {
+        "ar": "نَحْوٌ",
+        "id": "nahwu",
+        "emoji": "✍️",
+        "audio": {
+         "src": "/audio/o/dc39d43827784b15.mp3"
+        }
+       },
+       {
+        "ar": "رِياضِيّاتٌ",
+        "id": "matematika",
+        "emoji": "➗",
+        "audio": {
+         "src": "/audio/o/ccbb065dbc7bad00.mp3"
+        }
+       },
+       {
+        "ar": "تارِيخٌ",
+        "id": "sejarah · ★ tarikh",
+        "emoji": "🏺",
+        "audio": {
+         "src": "/audio/o/f9a79fb3b9d36b36.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Pelajaran"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "كِتابٌ",
+        "id": "buku · ★ kitab",
+        "emoji": "📕",
+        "audio": {
+         "src": "/audio/o/9ab46029409a862b.mp3"
+        }
+       },
+       {
+        "ar": "دَفْتَرٌ",
+        "id": "buku tulis · ★ daftar",
+        "emoji": "📓",
+        "audio": {
+         "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+        }
+       },
+       {
+        "ar": "قَلَمٌ",
+        "id": "pena / pulpen · ★ kalam",
+        "emoji": "🖊️",
+        "audio": {
+         "src": "/audio/o/b32c56a7a03592e5.mp3"
+        }
+       },
+       {
+        "ar": "مَكْتَبَةٌ",
+        "id": "perpustakaan",
+        "emoji": "📚",
+        "audio": {
+         "src": "/audio/o/1a45875ebcd964e1.mp3"
+        }
+       },
+       {
+        "ar": "فَصْلٌ",
+        "id": "kelas",
+        "emoji": "🧑‍🏫",
+        "audio": {
+         "src": "/audio/o/e7d5ab9885bb0120.mp3"
+        }
+       },
+       {
+        "ar": "جَدْوَلٌ",
+        "id": "jadwal · ★ jadwal",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/958787b2ed5625c3.mp3"
+        }
+       },
+       {
+        "ar": "اِمْتِحانٌ",
+        "id": "ujian",
+        "emoji": "📝",
+        "audio": {
+         "src": "/audio/o/4dd950f1fac5cb07.mp3"
+        }
+       },
+       {
+        "ar": "أُسْبُوعٌ",
+        "id": "minggu (7 hari)",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/5e4a093538d225bd.mp3"
+        }
+       },
+       {
+        "ar": "شَهْرٌ",
+        "id": "bulan",
+        "emoji": "🌙",
+        "audio": {
+         "src": "/audio/o/960031adc3fa788d.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Alat, tempat, dan waktu"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "السَّادِسَةُ",
+        "id": "keenam (pr)",
+        "emoji": "6️⃣",
+        "audio": {
+         "src": "/audio/o/91b2a82c18795f3f.mp3"
+        }
+       },
+       {
+        "ar": "السَّابِعَةُ",
+        "id": "ketujuh (pr)",
+        "emoji": "7️⃣",
+        "audio": {
+         "src": "/audio/o/5858b64ab9fd39b5.mp3"
+        }
+       },
+       {
+        "ar": "الثَّامِنَةُ",
+        "id": "kedelapan (pr)",
+        "emoji": "8️⃣",
+        "audio": {
+         "src": "/audio/o/0babf064cb2e5a18.mp3"
+        }
+       },
+       {
+        "ar": "التَّاسِعَةُ",
+        "id": "kesembilan (pr)",
+        "emoji": "9️⃣",
+        "audio": {
+         "src": "/audio/o/fdea57a83f0ce1c4.mp3"
+        }
+       },
+       {
+        "ar": "العاشِرَةُ",
+        "id": "kesepuluh (pr)",
+        "emoji": "🔟",
+        "audio": {
+         "src": "/audio/o/4c72654be01bf279.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bilangan tingkat 6–10 (pr)"
+      },
+      "note_id": "Untuk kata perempuan seperti الحِصَّةُ: الحِصَّةُ السَّادِسَةُ = jam pelajaran keenam. Bentuk 1–5 sudah kamu kenal: الأُولَى، الثَّانِيَةُ، الثَّالِثَةُ، الرَّابِعَةُ، الخامِسَةُ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d4-gambar-qalam",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🖊️"
+      },
+      "answer": "قَلَمٌ",
+      "options": [
+       "قَلَمٌ",
+       "كِتابٌ",
+       "دَفْتَرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَلَمٌ": {
+        "src": "/audio/o/b32c56a7a03592e5.mp3"
+       },
+       "كِتابٌ": {
+        "src": "/audio/o/9ab46029409a862b.mp3"
+       },
+       "دَفْتَرٌ": {
+        "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d4-lughah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "لُغَةٌ",
+       "audio": {
+        "src": "/audio/o/a8412255b6240923.mp3"
+       }
+      },
+      "answer": "bahasa",
+      "options": [
+       "bahasa",
+       "pelajaran",
+       "sejarah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d4-tarikh-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "تارِيخٌ",
+       "audio": {
+        "src": "/audio/o/f9a79fb3b9d36b36.mp3"
+       }
+      },
+      "answer": "sejarah",
+      "options": [
+       "sejarah",
+       "matematika",
+       "IPA (ilmu pengetahuan alam)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d4-serapan-daftar",
+      "instruction": "Kata دَفْتَرٌ menjadi \"daftar\" dalam bahasa Indonesia. Dalam bahasa Arab artinya …",
+      "prompt": {
+       "ar": "دَفْتَرٌ",
+       "audio": {
+        "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+       },
+       "emoji": "📓"
+      },
+      "answer": "buku tulis",
+      "options": [
+       "buku tulis",
+       "daftar nama",
+       "jadwal"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d4-dengar-tasiah",
+      "instruction": "Dengarkan. Jam pelajaran ke berapa?",
+      "prompt": {
+       "tts": "الحِصَّةُ التَّاسِعَةُ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a6cbed0146ea665b.mp3"
+       }
+      },
+      "answer": "ke-9",
+      "options": [
+       "ke-9",
+       "ke-7",
+       "ke-6"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d4-urutan-sabiah",
+      "instruction": "Setelah السَّادِسَةُ datang …",
+      "prompt": {
+       "ar": "السَّادِسَةُ ← …",
+       "audio": {
+        "src": "/audio/o/cd6ec2ee6f39e9c7.mp3"
+       }
+      },
+      "answer": "السَّابِعَةُ",
+      "options": [
+       "السَّابِعَةُ",
+       "الخامِسَةُ",
+       "التَّاسِعَةُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "السَّابِعَةُ": {
+        "src": "/audio/o/5858b64ab9fd39b5.mp3"
+       },
+       "الخامِسَةُ": {
+        "src": "/audio/o/f4fadcbd49357324.mp3"
+       },
+       "التَّاسِعَةُ": {
+        "src": "/audio/o/fdea57a83f0ce1c4.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d4-hissah-asyirah",
+      "instruction": "Jam pelajaran kesepuluh dalam bahasa Arab adalah …",
+      "prompt": {
+       "id": "jam pelajaran ke-10",
+       "emoji": "🔟"
+      },
+      "answer": "الحِصَّةُ العاشِرَةُ",
+      "options": [
+       "الحِصَّةُ العاشِرَةُ",
+       "الحِصَّةُ الثَّامِنَةُ",
+       "الحِصَّةُ الأُولَى"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "الحِصَّةُ العاشِرَةُ": {
+        "src": "/audio/o/7e3298378932cc24.mp3"
+       },
+       "الحِصَّةُ الثَّامِنَةُ": {
+        "src": "/audio/o/67bcd6a2a04a2939.mp3"
+       },
+       "الحِصَّةُ الأُولَى": {
+        "src": "/audio/o/05147d65ec38fc0c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d4-syahr-usbu",
+      "instruction": "Mana yang lebih lama?",
+      "prompt": {
+       "id": "أُسْبُوعٌ atau شَهْرٌ?",
+       "emoji": "📅"
+      },
+      "answer": "شَهْرٌ",
+      "options": [
+       "شَهْرٌ",
+       "أُسْبُوعٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "شَهْرٌ": {
+        "src": "/audio/o/960031adc3fa788d.mp3"
+       },
+       "أُسْبُوعٌ": {
+        "src": "/audio/o/5e4a093538d225bd.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d4-dengar-maktabah",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "مَكْتَبَةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/1a45875ebcd964e1.mp3"
+       }
+      },
+      "answer": "perpustakaan",
+      "options": [
+       "perpustakaan",
+       "kelas",
+       "meja belajar"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u7-d4-lat-gambar-kitab",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "📕"
+     },
+     "answer": "كِتابٌ",
+     "options": [
+      "كِتابٌ",
+      "قَلَمٌ",
+      "جَدْوَلٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "كِتابٌ": {
+       "src": "/audio/o/9ab46029409a862b.mp3"
+      },
+      "قَلَمٌ": {
+       "src": "/audio/o/b32c56a7a03592e5.mp3"
+      },
+      "جَدْوَلٌ": {
+       "src": "/audio/o/958787b2ed5625c3.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d4-lat-ulum-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "عُلُومٌ",
+      "audio": {
+       "src": "/audio/o/65ef584a0ef86e1f.mp3"
+      }
+     },
+     "answer": "IPA (ilmu pengetahuan alam)",
+     "options": [
+      "IPA (ilmu pengetahuan alam)",
+      "bahasa",
+      "fikih"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d4-lat-dengar-thaminah",
+     "instruction": "Dengarkan. Jam pelajaran ke berapa?",
+     "prompt": {
+      "tts": "الحِصَّةُ الثَّامِنَةُ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/67bcd6a2a04a2939.mp3"
+      }
+     },
+     "answer": "ke-8",
+     "options": [
+      "ke-8",
+      "ke-3",
+      "ke-10"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d4-lat-fasl-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "فَصْلٌ",
+      "audio": {
+       "src": "/audio/o/e7d5ab9885bb0120.mp3"
+      }
+     },
+     "answer": "kelas",
+     "options": [
+      "kelas",
+      "perpustakaan",
+      "bulan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d4-lat-urutan-asyirah",
+     "instruction": "Setelah التَّاسِعَةُ datang …",
+     "prompt": {
+      "ar": "التَّاسِعَةُ ← …",
+      "audio": {
+       "src": "/audio/o/f89fd0c841dfb8a8.mp3"
+      }
+     },
+     "answer": "العاشِرَةُ",
+     "options": [
+      "العاشِرَةُ",
+      "الثَّامِنَةُ",
+      "السَّابِعَةُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "العاشِرَةُ": {
+       "src": "/audio/o/4c72654be01bf279.mp3"
+      },
+      "الثَّامِنَةُ": {
+       "src": "/audio/o/0babf064cb2e5a18.mp3"
+      },
+      "السَّابِعَةُ": {
+       "src": "/audio/o/5858b64ab9fd39b5.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u7-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Perintah dan hal yang sudah dilakukan"
+      },
+      "groups": [
+       {
+        "title_ar": "اِفْتَحْ ← اِفْتَحِ الكِتابَ",
+        "note_id": "Kata perintah (amr) + benda yang dikenai (maf'ul bih, berakhiran -a). Bila kata berikutnya diawali الـ, sukun di akhir kata perintah berubah menjadi kasrah supaya mudah disambung: اِفْتَحْ + الكِتابَ = اِفْتَحِ الكِتابَ. Untuk perempuan tambahkan ـِي.",
+        "rows": [
+         {
+          "ar": "اِفْتَحِ الكِتابَ.",
+          "id": "Bukalah buku itu! (lk)",
+          "audio": {
+           "src": "/audio/o/b450c7c2263f4e5a.mp3"
+          }
+         },
+         {
+          "ar": "اِفْتَحِي الكِتابَ.",
+          "id": "Bukalah buku itu! (pr)",
+          "audio": {
+           "src": "/audio/o/5f10bb0ff9fc5db1.mp3"
+          }
+         },
+         {
+          "ar": "اُكْتُبِ اسْمَكَ.",
+          "id": "Tulislah namamu! (lk)",
+          "audio": {
+           "src": "/audio/o/79ea55243b4126a4.mp3"
+          }
+         },
+         {
+          "ar": "اُكْتُبِي اسْمَكِ.",
+          "id": "Tulislah namamu! (pr)",
+          "audio": {
+           "src": "/audio/o/2a0f834e65db8ff2.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "دَرَسْتُ · دَرَسْتَ · دَرَسْتِ",
+        "note_id": "Fi'il madhi (sudah terjadi). Akhiran ـتُ = saya, ـتَ = kamu (lk), ـتِ = kamu (pr).",
+        "rows": [
+         {
+          "ar": "دَرَسْتُ النَّحْوَ.",
+          "id": "Saya belajar nahwu.",
+          "audio": {
+           "src": "/audio/o/d98ec08f6ba469a8.mp3"
+          }
+         },
+         {
+          "ar": "قَرَأْتُ الكِتابَ.",
+          "id": "Saya membaca buku itu.",
+          "audio": {
+           "src": "/audio/o/29f4ac0cd7c729a0.mp3"
+          }
+         },
+         {
+          "ar": "ماذا كَتَبْتَ؟",
+          "id": "Kamu menulis apa? (lk)",
+          "audio": {
+           "src": "/audio/o/168f26045569bb91.mp3"
+          }
+         },
+         {
+          "ar": "ماذا دَرَسْتِ؟",
+          "id": "Kamu belajar apa? (pr)",
+          "audio": {
+           "src": "/audio/o/2ea37712a8b64e87.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Atau, dekat/jauh, dan rencana"
+      },
+      "groups": [
+       {
+        "title_ar": "أَوْ",
+        "note_id": "أَوْ = atau. Sebelum الـ dibaca أَوِ.",
+        "rows": [
+         {
+          "ar": "الفِقْهُ أَوِ النَّحْوُ؟",
+          "id": "Fikih atau nahwu?",
+          "audio": {
+           "src": "/audio/o/9312e91624041a28.mp3"
+          }
+         },
+         {
+          "ar": "كِتابٌ أَوْ دَفْتَرٌ؟",
+          "id": "Buku atau buku tulis?",
+          "audio": {
+           "src": "/audio/o/407418de4ce2cd54.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "قَرِيبٌ مِنْ · بَعِيدٌ عَنْ",
+        "note_id": "Dekat memakai مِنْ, jauh memakai عَنْ. Untuk kata perempuan: قَرِيبَةٌ، بَعِيدَةٌ.",
+        "rows": [
+         {
+          "ar": "المَكْتَبَةُ قَرِيبَةٌ مِنَ الفَصْلِ.",
+          "id": "Perpustakaan dekat dari kelas.",
+          "audio": {
+           "src": "/audio/o/2e338b20affe7397.mp3"
+          }
+         },
+         {
+          "ar": "البَيْتُ بَعِيدٌ عَنِ المَعْهَدِ.",
+          "id": "Rumah jauh dari ma'had.",
+          "audio": {
+           "src": "/audio/o/5cadf1e429c01c89.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "سَأَكُونُ …",
+        "note_id": "سَأَكُونُ = saya akan berada / akan menjadi.",
+        "rows": [
+         {
+          "ar": "سَأَكُونُ فِي المَكْتَبَةِ.",
+          "id": "Saya akan ada di perpustakaan.",
+          "audio": {
+           "src": "/audio/o/76304ba6c4abeb1e.mp3"
+          }
+         },
+         {
+          "ar": "سَأَكُونُ طالِبًا مُجْتَهِدًا.",
+          "id": "Saya akan menjadi pelajar yang rajin. (lk)",
+          "audio": {
+           "src": "/audio/o/be1d11e1af118b87.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d5-lengkapi-iftah",
+      "instruction": "Lengkapi: \"Bukalah buku itu!\" (kepada laki-laki)",
+      "prompt": {
+       "ar": "… الكِتابَ.",
+       "audio": {
+        "src": "/audio/o/0bef60d735cc4c37.mp3"
+       }
+      },
+      "answer": "اِفْتَحِ",
+      "options": [
+       "اِفْتَحِ",
+       "اِفْتَحْ",
+       "اِفْتَحِي"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "اِفْتَحِ": {
+        "src": "/audio/o/7f2d05e0f538a28e.mp3"
+       },
+       "اِفْتَحْ": {
+        "src": "/audio/o/1f41432c7d98aac0.mp3"
+       },
+       "اِفْتَحِي": {
+        "src": "/audio/o/7c3c849b52325e5f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d5-perintah-siti",
+      "instruction": "Ustazah menyuruh Siti menulis namanya. Pilih kalimatnya",
+      "prompt": {
+       "id": "Tulislah namamu! (pr)",
+       "emoji": "👩"
+      },
+      "answer": "اُكْتُبِي اسْمَكِ.",
+      "options": [
+       "اُكْتُبِي اسْمَكِ.",
+       "اُكْتُبِ اسْمَكَ.",
+       "اُكْتُبِي اسْمَكَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "اُكْتُبِي اسْمَكِ.": {
+        "src": "/audio/o/2a0f834e65db8ff2.mp3"
+       },
+       "اُكْتُبِ اسْمَكَ.": {
+        "src": "/audio/o/79ea55243b4126a4.mp3"
+       },
+       "اُكْتُبِي اسْمَكَ.": {
+        "src": "/audio/o/72c01bef5d40f23d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d5-madhi-qaratu",
+      "instruction": "Pilih kalimat yang artinya \"Saya sudah membaca buku itu.\"",
+      "prompt": {
+       "id": "Saya sudah membaca buku itu.",
+       "emoji": "📖"
+      },
+      "answer": "قَرَأْتُ الكِتابَ.",
+      "options": [
+       "قَرَأْتُ الكِتابَ.",
+       "قَرَأَ الكِتابَ.",
+       "سَأَقْرَأُ الكِتابَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَرَأْتُ الكِتابَ.": {
+        "src": "/audio/o/29f4ac0cd7c729a0.mp3"
+       },
+       "قَرَأَ الكِتابَ.": {
+        "src": "/audio/o/1aeede35cd7e4472.mp3"
+       },
+       "سَأَقْرَأُ الكِتابَ.": {
+        "src": "/audio/o/db2b30b25e3ed539.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d5-tanya-budi-madhi",
+      "instruction": "Kamu bertanya kepada Budi apa yang ia pelajari. Pilih kalimatnya",
+      "prompt": {
+       "id": "Kamu belajar apa? (lk)",
+       "emoji": "👦"
+      },
+      "answer": "ماذا دَرَسْتَ؟",
+      "options": [
+       "ماذا دَرَسْتَ؟",
+       "ماذا دَرَسْتِ؟",
+       "ماذا دَرَسْتُ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ماذا دَرَسْتَ؟": {
+        "src": "/audio/o/3d5cf14cc6aa7cb0.mp3"
+       },
+       "ماذا دَرَسْتِ؟": {
+        "src": "/audio/o/2ea37712a8b64e87.mp3"
+       },
+       "ماذا دَرَسْتُ؟": {
+        "src": "/audio/o/fdd07c5094f55b94.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d5-pilih-aw",
+      "instruction": "Pilih kalimat yang artinya \"Fikih atau nahwu?\"",
+      "prompt": {
+       "id": "Fikih atau nahwu?"
+      },
+      "answer": "الفِقْهُ أَوِ النَّحْوُ؟",
+      "options": [
+       "الفِقْهُ أَوِ النَّحْوُ؟",
+       "الفِقْهُ وَالنَّحْوُ؟",
+       "الفِقْهُ فِي النَّحْوِ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "الفِقْهُ أَوِ النَّحْوُ؟": {
+        "src": "/audio/o/9312e91624041a28.mp3"
+       },
+       "الفِقْهُ وَالنَّحْوُ؟": {
+        "src": "/audio/o/8f1aeaef948a8790.mp3"
+       },
+       "الفِقْهُ فِي النَّحْوِ؟": {
+        "src": "/audio/o/eb27b080596653e7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d5-qarib-min",
+      "instruction": "Pilih kalimat yang artinya \"Perpustakaan dekat dari kelas.\"",
+      "prompt": {
+       "id": "Perpustakaan dekat dari kelas.",
+       "emoji": "📚"
+      },
+      "answer": "المَكْتَبَةُ قَرِيبَةٌ مِنَ الفَصْلِ.",
+      "options": [
+       "المَكْتَبَةُ قَرِيبَةٌ مِنَ الفَصْلِ.",
+       "المَكْتَبَةُ بَعِيدَةٌ عَنِ الفَصْلِ.",
+       "المَكْتَبَةُ قَرِيبَةٌ عَنِ الفَصْلِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "المَكْتَبَةُ قَرِيبَةٌ مِنَ الفَصْلِ.": {
+        "src": "/audio/o/2e338b20affe7397.mp3"
+       },
+       "المَكْتَبَةُ بَعِيدَةٌ عَنِ الفَصْلِ.": {
+        "src": "/audio/o/47cfb378a92c9b59.mp3"
+       },
+       "المَكْتَبَةُ قَرِيبَةٌ عَنِ الفَصْلِ.": {
+        "src": "/audio/o/fead1ff4474e8da7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d5-baid-an",
+      "instruction": "Lengkapi: \"Rumah jauh dari ma'had.\"",
+      "prompt": {
+       "ar": "البَيْتُ بَعِيدٌ … المَعْهَدِ.",
+       "audio": {
+        "src": "/audio/o/bd713137005702c3.mp3"
+       }
+      },
+      "answer": "عَنِ",
+      "options": [
+       "عَنِ",
+       "إِلَى",
+       "فِي"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَنِ": {
+        "src": "/audio/o/7f95e733a0001868.mp3"
+       },
+       "إِلَى": {
+        "src": "/audio/o/57551989bbc39ffa.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d5-susun-iftah-kitab",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Bukalah buku itu! (lk)"
+      },
+      "answer": "اِفْتَحِ الكِتابَ",
+      "tokens": [
+       "اِفْتَحِ",
+       "الكِتابَ",
+       "اِفْتَحِي"
+      ],
+      "audioMap": {
+       "اِفْتَحِ": {
+        "src": "/audio/o/7f2d05e0f538a28e.mp3"
+       },
+       "الكِتابَ": {
+        "src": "/audio/o/46fa4d359441fadc.mp3"
+       },
+       "اِفْتَحِي": {
+        "src": "/audio/o/7c3c849b52325e5f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d5-susun-saakunu-maktabah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya akan ada di perpustakaan."
+      },
+      "answer": "سَأَكُونُ فِي المَكْتَبَةِ",
+      "tokens": [
+       "سَأَكُونُ",
+       "فِي",
+       "المَكْتَبَةِ",
+       "قَرِيبَةٌ"
+      ],
+      "audioMap": {
+       "سَأَكُونُ": {
+        "src": "/audio/o/071aaa1550d70488.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "المَكْتَبَةِ": {
+        "src": "/audio/o/07c216ae8e40f3fa.mp3"
+       },
+       "قَرِيبَةٌ": {
+        "src": "/audio/o/403e9bcacc7359eb.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d5-susun-katabtu",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya menulis pelajaran itu."
+      },
+      "answer": "كَتَبْتُ الدَّرْسَ",
+      "tokens": [
+       "كَتَبْتُ",
+       "الدَّرْسَ",
+       "كَتَبْتِ"
+      ],
+      "audioMap": {
+       "كَتَبْتُ": {
+        "src": "/audio/o/d59fd389b75a2a54.mp3"
+       },
+       "الدَّرْسَ": {
+        "src": "/audio/o/6d06e22b4b91aa07.mp3"
+       },
+       "كَتَبْتِ": {
+        "src": "/audio/o/4717649e2fa84d9e.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u7-d5-lat-lengkapi-uktub",
+     "instruction": "Lengkapi: \"Tulislah namamu!\" (kepada laki-laki)",
+     "prompt": {
+      "ar": "… اسْمَكَ.",
+      "audio": {
+       "src": "/audio/o/630de3ef689fa3a3.mp3"
+      }
+     },
+     "answer": "اُكْتُبِ",
+     "options": [
+      "اُكْتُبِ",
+      "اُكْتُبِي",
+      "كَتَبْتُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "اُكْتُبِ": {
+       "src": "/audio/o/a7b1770bcd74a6c7.mp3"
+      },
+      "اُكْتُبِي": {
+       "src": "/audio/o/0ac68daaa58e7d82.mp3"
+      },
+      "كَتَبْتُ": {
+       "src": "/audio/o/d59fd389b75a2a54.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d5-lat-darastu-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "دَرَسْتُ التَّارِيخَ.",
+      "audio": {
+       "src": "/audio/o/2baa694c34deebf1.mp3"
+      }
+     },
+     "answer": "Saya belajar sejarah.",
+     "options": [
+      "Saya belajar sejarah.",
+      "Kamu belajar sejarah. (lk)",
+      "Saya akan belajar sejarah."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d5-lat-qarib-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "المَسْجِدُ قَرِيبٌ مِنَ المَكْتَبَةِ.",
+      "audio": {
+       "src": "/audio/o/3ffc979fdc018903.mp3"
+      }
+     },
+     "answer": "Masjid dekat dari perpustakaan.",
+     "options": [
+      "Masjid dekat dari perpustakaan.",
+      "Masjid jauh dari perpustakaan.",
+      "Perpustakaan di masjid."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u7-d5-lat-susun-iftahi",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Bukalah buku itu! (pr)"
+     },
+     "answer": "اِفْتَحِي الكِتابَ",
+     "tokens": [
+      "اِفْتَحِي",
+      "الكِتابَ",
+      "اِفْتَحِ"
+     ],
+     "audioMap": {
+      "اِفْتَحِي": {
+       "src": "/audio/o/7c3c849b52325e5f.mp3"
+      },
+      "الكِتابَ": {
+       "src": "/audio/o/46fa4d359441fadc.mp3"
+      },
+      "اِفْتَحِ": {
+       "src": "/audio/o/7f2d05e0f538a28e.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u7-d5-lat-susun-baid",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Rumah jauh dari ma'had."
+     },
+     "answer": "البَيْتُ بَعِيدٌ عَنِ المَعْهَدِ",
+     "tokens": [
+      "البَيْتُ",
+      "بَعِيدٌ",
+      "عَنِ",
+      "المَعْهَدِ",
+      "مِنَ"
+     ],
+     "audioMap": {
+      "البَيْتُ": {
+       "src": "/audio/o/7c588a919e5d9077.mp3"
+      },
+      "بَعِيدٌ": {
+       "src": "/audio/o/9e159748fce4ffbb.mp3"
+      },
+      "عَنِ": {
+       "src": "/audio/o/7f95e733a0001868.mp3"
+      },
+      "المَعْهَدِ": {
+       "src": "/audio/o/8b1bd31ccb993f33.mp3"
+      },
+      "مِنَ": {
+       "src": "/audio/o/a9618378ac85cbfc.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d5-lat-aw-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "كِتابٌ أَوْ دَفْتَرٌ؟",
+      "audio": {
+       "src": "/audio/o/407418de4ce2cd54.mp3"
+      }
+     },
+     "answer": "Buku atau buku tulis?",
+     "options": [
+      "Buku atau buku tulis?",
+      "Buku dan buku tulis.",
+      "Buku di buku tulis."
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u7-d6",
+   "dars": 6,
+   "title_id": "Bunyi ذ, ز, dan د, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "ذَكِيٌّ",
+        "audio": {
+         "src": "/audio/o/1daba582cdd1dbc1.mp3"
+        },
+        "pair_ar": "زَكِيٌّ"
+       },
+       {
+        "ar": "زَكِيٌّ",
+        "audio": {
+         "src": "/audio/o/aca9a30904c8d0a0.mp3"
+        },
+        "pair_ar": "ذَكِيٌّ"
+       },
+       {
+        "ar": "بَذْرٌ",
+        "audio": {
+         "src": "/audio/o/4cdb86b8e73841ba.mp3"
+        },
+        "pair_ar": "بَدْرٌ"
+       },
+       {
+        "ar": "بَدْرٌ",
+        "audio": {
+         "src": "/audio/o/1ad80a8a7065f09f.mp3"
+        },
+        "pair_ar": "بَذْرٌ"
+       },
+       {
+        "ar": "ذَلَّ",
+        "audio": {
+         "src": "/audio/o/f10c107f8d0c7bb3.mp3"
+        },
+        "pair_ar": "دَلَّ"
+       },
+       {
+        "ar": "دَلَّ",
+        "audio": {
+         "src": "/audio/o/2c7f746fb4d3ed4e.mp3"
+        },
+        "pair_ar": "ذَلَّ"
+       },
+       {
+        "ar": "ذَلَّ",
+        "audio": {
+         "src": "/audio/o/f10c107f8d0c7bb3.mp3"
+        },
+        "pair_ar": "زَلَّ"
+       },
+       {
+        "ar": "زَلَّ",
+        "audio": {
+         "src": "/audio/o/89d6961236064f28.mp3"
+        },
+        "pair_ar": "ذَلَّ"
+       },
+       {
+        "ar": "ذَلِيلٌ",
+        "audio": {
+         "src": "/audio/o/03eda3ae03052f36.mp3"
+        },
+        "pair_ar": "دَلِيلٌ"
+       },
+       {
+        "ar": "دَلِيلٌ",
+        "audio": {
+         "src": "/audio/o/ce6ba18a15d48568.mp3"
+        },
+        "pair_ar": "ذَلِيلٌ"
+       },
+       {
+        "ar": "زارَ",
+        "audio": {
+         "src": "/audio/o/b9415bd09b8332d0.mp3"
+        },
+        "pair_ar": "دارَ"
+       },
+       {
+        "ar": "دارَ",
+        "audio": {
+         "src": "/audio/o/1f33e80956783827.mp3"
+        },
+        "pair_ar": "زارَ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi ذ, ز, dan د"
+      },
+      "note_id": "ذ (dzal): ujung lidah sedikit keluar di antara gigi, seperti \"th\" pada kata Inggris \"this\". ز (zai): \"z\" biasa, lidah di belakang gigi. د (dal): \"d\" biasa. Pelajar Indonesia sering mengucapkan ذ sebagai \"z\" atau \"d\", padahal artinya bisa berubah. Ketuk tiap kotak dan bandingkan."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d6-dengar-dzakiyy",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "ذَكِيٌّ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/1daba582cdd1dbc1.mp3"
+       }
+      },
+      "answer": "ذَكِيٌّ",
+      "options": [
+       "ذَكِيٌّ",
+       "زَكِيٌّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ذَكِيٌّ": {
+        "src": "/audio/o/1daba582cdd1dbc1.mp3"
+       },
+       "زَكِيٌّ": {
+        "src": "/audio/o/aca9a30904c8d0a0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d6-dengar-badr",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "بَدْرٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/1ad80a8a7065f09f.mp3"
+       }
+      },
+      "answer": "بَدْرٌ",
+      "options": [
+       "بَدْرٌ",
+       "بَذْرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بَدْرٌ": {
+        "src": "/audio/o/1ad80a8a7065f09f.mp3"
+       },
+       "بَذْرٌ": {
+        "src": "/audio/o/4cdb86b8e73841ba.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d6-dengar-zalla",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "زَلَّ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/89d6961236064f28.mp3"
+       }
+      },
+      "answer": "زَلَّ",
+      "options": [
+       "زَلَّ",
+       "ذَلَّ",
+       "دَلَّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "زَلَّ": {
+        "src": "/audio/o/89d6961236064f28.mp3"
+       },
+       "ذَلَّ": {
+        "src": "/audio/o/f10c107f8d0c7bb3.mp3"
+       },
+       "دَلَّ": {
+        "src": "/audio/o/2c7f746fb4d3ed4e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d6-dengar-dalil",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "دَلِيلٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/ce6ba18a15d48568.mp3"
+       }
+      },
+      "answer": "دَلِيلٌ",
+      "options": [
+       "دَلِيلٌ",
+       "ذَلِيلٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "دَلِيلٌ": {
+        "src": "/audio/o/ce6ba18a15d48568.mp3"
+       },
+       "ذَلِيلٌ": {
+        "src": "/audio/o/03eda3ae03052f36.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d6-kata-ada-dzal",
+      "instruction": "Kata mana yang mengandung huruf ذ?",
+      "prompt": {
+       "id": "Cari huruf dzal (ذ)"
+      },
+      "answer": "هٰذا",
+      "options": [
+       "هٰذا",
+       "دَرْسٌ",
+       "زارَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "دَرْسٌ": {
+        "src": "/audio/o/71d696cc97149cfd.mp3"
+       },
+       "زارَ": {
+        "src": "/audio/o/b9415bd09b8332d0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u7-d6-ucap-hadza-dars",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "هٰذا دَرْسٌ.",
+       "id": "Ini pelajaran.",
+       "audio": {
+        "src": "/audio/o/257d3b35349c44ca.mp3"
+       }
+      },
+      "target": "هٰذا دَرْسٌ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u7-d6-ucap-dzahabtu",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "ذَهَبْتُ إِلَى المَكْتَبَةِ.",
+       "id": "Saya pergi ke perpustakaan.",
+       "audio": {
+        "src": "/audio/o/7bf82b1aedd8f00b.mp3"
+       }
+      },
+      "target": "ذَهَبْتُ إِلَى المَكْتَبَةِ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d6-simak-hissah-ula",
+      "instruction": "Dengarkan. Pelajaran apa di jam pertama?",
+      "prompt": {
+       "tts": "دَرَسْتُ النَّحْوَ فِي الحِصَّةِ الأُولَى.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/f58248c856f3d4ea.mp3"
+       }
+      },
+      "answer": "Nahwu",
+      "options": [
+       "Nahwu",
+       "Fikih",
+       "Sejarah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d6-simak-dzahabtu",
+      "instruction": "Dengarkan. Ke mana dia pergi?",
+      "prompt": {
+       "tts": "ذَهَبْتُ إِلَى المَكْتَبَةِ وَقَرَأْتُ كِتابًا.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/5dab9e32cec1c7d1.mp3"
+       }
+      },
+      "answer": "Ke perpustakaan",
+      "options": [
+       "Ke perpustakaan",
+       "Ke kelas",
+       "Ke masjid"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u7-d6-lat-dengar-zakiyy",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "زَكِيٌّ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/aca9a30904c8d0a0.mp3"
+      }
+     },
+     "answer": "زَكِيٌّ",
+     "options": [
+      "زَكِيٌّ",
+      "ذَكِيٌّ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "زَكِيٌّ": {
+       "src": "/audio/o/aca9a30904c8d0a0.mp3"
+      },
+      "ذَكِيٌّ": {
+       "src": "/audio/o/1daba582cdd1dbc1.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d6-lat-dengar-badzr",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "بَذْرٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/4cdb86b8e73841ba.mp3"
+      }
+     },
+     "answer": "بَذْرٌ",
+     "options": [
+      "بَذْرٌ",
+      "بَدْرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "بَذْرٌ": {
+       "src": "/audio/o/4cdb86b8e73841ba.mp3"
+      },
+      "بَدْرٌ": {
+       "src": "/audio/o/1ad80a8a7065f09f.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d6-lat-dengar-dara",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "دارَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/1f33e80956783827.mp3"
+      }
+     },
+     "answer": "دارَ",
+     "options": [
+      "دارَ",
+      "زارَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "دارَ": {
+       "src": "/audio/o/1f33e80956783827.mp3"
+      },
+      "زارَ": {
+       "src": "/audio/o/b9415bd09b8332d0.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d6-lat-dengar-dzalla",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "ذَلَّ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/f10c107f8d0c7bb3.mp3"
+      }
+     },
+     "answer": "ذَلَّ",
+     "options": [
+      "ذَلَّ",
+      "زَلَّ",
+      "دَلَّ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ذَلَّ": {
+       "src": "/audio/o/f10c107f8d0c7bb3.mp3"
+      },
+      "زَلَّ": {
+       "src": "/audio/o/89d6961236064f28.mp3"
+      },
+      "دَلَّ": {
+       "src": "/audio/o/2c7f746fb4d3ed4e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d6-lat-simak-imtihan",
+     "instruction": "Dengarkan. Kapan ujiannya?",
+     "prompt": {
+      "tts": "الاِمْتِحانُ بَعْدَ أُسْبُوعٍ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/e9f8c7b7e8789c08.mp3"
+      }
+     },
+     "answer": "Satu minggu lagi",
+     "options": [
+      "Satu minggu lagi",
+      "Satu bulan lagi",
+      "Hari ini"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u7-d7",
+   "dars": 7,
+   "title_id": "Berbicara",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "اِفْتَحِ الكِتابَ.",
+        "id": "Bukalah buku! (lk)",
+        "emoji": "📖",
+        "audio": {
+         "src": "/audio/o/b450c7c2263f4e5a.mp3"
+        }
+       },
+       {
+        "ar": "أَغْلِقِ الكِتابَ.",
+        "id": "Tutuplah buku! (lk)",
+        "emoji": "📕",
+        "audio": {
+         "src": "/audio/o/6ba059edb02cf0b2.mp3"
+        }
+       },
+       {
+        "ar": "اُكْتُبِ الدَّرْسَ.",
+        "id": "Tulislah pelajaran itu! (lk)",
+        "emoji": "✍️",
+        "audio": {
+         "src": "/audio/o/2de1bc43be594160.mp3"
+        }
+       },
+       {
+        "ar": "اِقْرَأْ مَعِي.",
+        "id": "Bacalah bersamaku! (lk)",
+        "emoji": "🗣️",
+        "audio": {
+         "src": "/audio/o/2f191284ee8936e5.mp3"
+        }
+       },
+       {
+        "ar": "اِسْمَعْ جَيِّدًا.",
+        "id": "Dengarkan baik-baik! (lk)",
+        "emoji": "👂",
+        "audio": {
+         "src": "/audio/o/3082bf9449ee13d8.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Perintah di kelas"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u7-d7-ucap-iftah-kitab",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "اِفْتَحِ الكِتابَ.",
+       "id": "Bukalah buku! (lk)",
+       "audio": {
+        "src": "/audio/o/6c2e0e2d92ef7d36.mp3"
+       }
+      },
+      "target": "اِفْتَحِ الكِتابَ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u7-d7-ucap-aghliqi",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَغْلِقِي الكِتابَ.",
+       "id": "Tutuplah buku! (pr)",
+       "audio": {
+        "src": "/audio/o/d28b49e080c99d3c.mp3"
+       }
+      },
+      "target": "أَغْلِقِي الكِتابَ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d7-situasi-tutup-buku",
+      "instruction": "Ustazah Zainab menyuruh Siti menutup buku. Ustazah berkata …",
+      "prompt": {
+       "id": "Menutup buku",
+       "emoji": "📕"
+      },
+      "answer": "أَغْلِقِي الكِتابَ.",
+      "options": [
+       "أَغْلِقِي الكِتابَ.",
+       "اِفْتَحِي الكِتابَ.",
+       "أَغْلِقِ الكِتابَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَغْلِقِي الكِتابَ.": {
+        "src": "/audio/o/c97a693c4801afd2.mp3"
+       },
+       "اِفْتَحِي الكِتابَ.": {
+        "src": "/audio/o/5f10bb0ff9fc5db1.mp3"
+       },
+       "أَغْلِقِ الكِتابَ.": {
+        "src": "/audio/o/6ba059edb02cf0b2.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u7-d7-cerita-pelajaran",
+      "instruction": "Ceritakan apa yang sudah kamu pelajari hari ini",
+      "prompt": {
+       "id": "Pakai دَرَسْتُ، قَرَأْتُ، كَتَبْتُ."
+      },
+      "model": [
+       {
+        "ar": "دَرَسْتُ اللُّغَةَ العَرَبِيَّةَ.",
+        "id": "Saya belajar bahasa Arab.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/be78f5ca43ccb63e.mp3"
+        }
+       },
+       {
+        "ar": "قَرَأْتُ كِتابَ النَّحْوِ.",
+        "id": "Saya membaca buku nahwu.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/a7e378995cdac150.mp3"
+        }
+       },
+       {
+        "ar": "كَتَبْتُ الدَّرْسَ فِي دَفْتَرِي.",
+        "id": "Saya menulis pelajaran di buku tulisku.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/d22c1488d969b1e7.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d7-jawab-madza-darasta",
+      "instruction": "Ustaz Mahmud bertanya: ماذا دَرَسْتَ اليَوْمَ؟ Jawabanmu …",
+      "prompt": {
+       "ar": "ماذا دَرَسْتَ اليَوْمَ؟",
+       "audio": {
+        "src": "/audio/o/cd31e744042335b2.mp3"
+       }
+      },
+      "answer": "دَرَسْتُ الفِقْهَ.",
+      "options": [
+       "دَرَسْتُ الفِقْهَ.",
+       "دَرَسْتَ الفِقْهَ.",
+       "اُدْرُسِ الفِقْهَ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "دَرَسْتُ الفِقْهَ.": {
+        "src": "/audio/o/b4e2292783f82ade.mp3"
+       },
+       "دَرَسْتَ الفِقْهَ.": {
+        "src": "/audio/o/77e6057d94047ae7.mp3"
+       },
+       "اُدْرُسِ الفِقْهَ.": {
+        "src": "/audio/o/e947cbb1246b4839.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u7-d7-sebut-jadwal",
+      "instruction": "Sebutkan jadwal pelajaranmu",
+      "prompt": {
+       "id": "Sebut tiga jam pelajaran, misalnya jam pertama, keenam, dan kesepuluh."
+      },
+      "model": [
+       {
+        "ar": "فِي الحِصَّةِ الأُولَى دَرْسُ اللُّغَةِ.",
+        "id": "Di jam pertama pelajaran bahasa.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/a2cea52832d2551a.mp3"
+        }
+       },
+       {
+        "ar": "فِي الحِصَّةِ السَّادِسَةِ دَرْسُ العُلُومِ.",
+        "id": "Di jam keenam pelajaran IPA.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/8736420a96777731.mp3"
+        }
+       },
+       {
+        "ar": "فِي الحِصَّةِ العاشِرَةِ دَرْسُ الفِقْهِ.",
+        "id": "Di jam kesepuluh pelajaran fikih.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/aee06ecd4ee56444.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u7-d7-ucap-saakunu-bait",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "سَأَكُونُ فِي البَيْتِ.",
+       "id": "Saya akan ada di rumah.",
+       "audio": {
+        "src": "/audio/o/f676c1f61838ce0b.mp3"
+       }
+      },
+      "target": "سَأَكُونُ فِي البَيْتِ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d7-pilih-aw-situasi",
+      "instruction": "Kamu ingin bertanya: \"Ujiannya minggu ini atau bulan ini?\" Pilih kata yang tepat",
+      "prompt": {
+       "ar": "الاِمْتِحانُ هٰذا الأُسْبُوعَ … هٰذا الشَّهْرَ؟",
+       "audio": {
+        "src": "/audio/o/d2c93d7a88e0d051.mp3"
+       }
+      },
+      "answer": "أَوْ",
+      "options": [
+       "أَوْ",
+       "وَ",
+       "مِنْ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَوْ": {
+        "src": "/audio/o/37af3e6895e26b74.mp3"
+       },
+       "وَ": {
+        "src": "/audio/o/c617331fe4275a8a.mp3"
+       },
+       "مِنْ": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u7-d7-rencana-libur",
+      "instruction": "Ceritakan rencanamu saat libur semester",
+      "prompt": {
+       "id": "Di mana kamu akan berada? Apa yang akan kamu baca?"
+      },
+      "model": [
+       {
+        "ar": "سَأَكُونُ فِي مِيدان.",
+        "id": "Saya akan ada di Medan.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/ab3267e1c9bcdc68.mp3"
+        }
+       },
+       {
+        "ar": "سَأَقْرَأُ كِتابَ التَّارِيخِ.",
+        "id": "Saya akan membaca buku sejarah.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/78f7d8bb05a50ba1.mp3"
+        }
+       }
+      ]
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u7-d7-lat-isma-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "اِسْمَعْ جَيِّدًا.",
+      "audio": {
+       "src": "/audio/o/3082bf9449ee13d8.mp3"
+      }
+     },
+     "answer": "Dengarkan baik-baik! (lk)",
+     "options": [
+      "Dengarkan baik-baik! (lk)",
+      "Bacalah bersamaku! (lk)",
+      "Tulislah pelajaran itu! (lk)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d7-lat-aghliq-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أَغْلِقِ الكِتابَ.",
+      "audio": {
+       "src": "/audio/o/6ba059edb02cf0b2.mp3"
+      }
+     },
+     "answer": "Tutuplah buku! (lk)",
+     "options": [
+      "Tutuplah buku! (lk)",
+      "Bukalah buku! (lk)",
+      "Bacalah buku! (lk)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d7-lat-situasi-buka-budi",
+     "instruction": "Ustaz menyuruh Budi membuka buku. Ustaz berkata …",
+     "prompt": {
+      "id": "Membuka buku",
+      "emoji": "📖"
+     },
+     "answer": "اِفْتَحِ الكِتابَ.",
+     "options": [
+      "اِفْتَحِ الكِتابَ.",
+      "اِفْتَحِي الكِتابَ.",
+      "أَغْلِقِ الكِتابَ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "اِفْتَحِ الكِتابَ.": {
+       "src": "/audio/o/b450c7c2263f4e5a.mp3"
+      },
+      "اِفْتَحِي الكِتابَ.": {
+       "src": "/audio/o/5f10bb0ff9fc5db1.mp3"
+      },
+      "أَغْلِقِ الكِتابَ.": {
+       "src": "/audio/o/6ba059edb02cf0b2.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d7-lat-jawab-darasti",
+     "instruction": "Ustazah bertanya kepada Siti: ماذا قَرَأْتِ؟ Jawaban Siti …",
+     "prompt": {
+      "ar": "ماذا قَرَأْتِ؟",
+      "audio": {
+       "src": "/audio/o/ec60907faf19dc4b.mp3"
+      }
+     },
+     "answer": "قَرَأْتُ كِتابَ الفِقْهِ.",
+     "options": [
+      "قَرَأْتُ كِتابَ الفِقْهِ.",
+      "قَرَأْتِ كِتابَ الفِقْهِ.",
+      "اِقْرَئِي كِتابَ الفِقْهِ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "قَرَأْتُ كِتابَ الفِقْهِ.": {
+       "src": "/audio/o/666e843d9632c550.mp3"
+      },
+      "قَرَأْتِ كِتابَ الفِقْهِ.": {
+       "src": "/audio/o/193d593bc68731a9.mp3"
+      },
+      "اِقْرَئِي كِتابَ الفِقْهِ.": {
+       "src": "/audio/o/7943c5e3b4010857.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u7-d8",
+   "dars": 8,
+   "title_id": "Membaca",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "هٰذا جَدْوَلِي يَوْمَ الاِثْنَيْنِ.",
+        "id": "Ini jadwalku hari Senin.",
+        "emoji": "🗓️",
+        "audio": {
+         "src": "/audio/o/b10ec16b23fde4da.mp3"
+        }
+       },
+       {
+        "ar": "فِي الحِصَّةِ الأُولَى دَرْسُ النَّحْوِ.",
+        "id": "Di jam pertama pelajaran nahwu.",
+        "audio": {
+         "src": "/audio/o/b2940bf791030db3.mp3"
+        }
+       },
+       {
+        "ar": "فِي الحِصَّةِ الثَّالِثَةِ دَرْسُ الفِقْهِ.",
+        "id": "Di jam ketiga pelajaran fikih.",
+        "audio": {
+         "src": "/audio/o/6c836fc3bebdfc0b.mp3"
+        }
+       },
+       {
+        "ar": "فِي الحِصَّةِ السَّادِسَةِ دَرْسُ العُلُومِ.",
+        "id": "Di jam keenam pelajaran IPA.",
+        "audio": {
+         "src": "/audio/o/f70c0edea5e89c20.mp3"
+        }
+       },
+       {
+        "ar": "فِي الحِصَّةِ التَّاسِعَةِ دَرْسُ التَّارِيخِ.",
+        "id": "Di jam kesembilan pelajaran sejarah.",
+        "audio": {
+         "src": "/audio/o/9cfbead45a7ee994.mp3"
+        }
+       },
+       {
+        "ar": "الحِصَّةُ العاشِرَةُ فِي المَكْتَبَةِ.",
+        "id": "Jam kesepuluh di perpustakaan.",
+        "audio": {
+         "src": "/audio/o/8b1205400daa6919.mp3"
+        }
+       },
+       {
+        "ar": "المَكْتَبَةُ قَرِيبَةٌ مِنْ فَصْلِي.",
+        "id": "Perpustakaan dekat dari kelasku.",
+        "audio": {
+         "src": "/audio/o/dac0b92407d8d288.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Jadwal Siti"
+      },
+      "imgs": [
+       "/img/o/u7-jadwal-siti.webp"
+      ],
+      "instruction_id": "Siti menulis jadwal hari Senin di buku tulisnya. Baca pelan-pelan."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d8-baca-fiqh-hissah",
+      "instruction": "Menurut bacaan 1, fikih di jam ke berapa?",
+      "prompt": {
+       "ar": "دَرْسُ الفِقْهِ فِي الحِصَّةِ …",
+       "audio": {
+        "src": "/audio/o/21617a10d03976dc.mp3"
+       }
+      },
+      "answer": "الثَّالِثَةِ",
+      "options": [
+       "الثَّالِثَةِ",
+       "الأُولَى",
+       "السَّادِسَةِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "الثَّالِثَةِ": {
+        "src": "/audio/o/b906d5d84f6d4177.mp3"
+       },
+       "الأُولَى": {
+        "src": "/audio/o/6ba23ecc1ff4a0d5.mp3"
+       },
+       "السَّادِسَةِ": {
+        "src": "/audio/o/d2d01b7f1c461031.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d8-baca-tarikh-tasiah",
+      "instruction": "Benar atau salah? \"Pelajaran sejarah di jam kesembilan.\"",
+      "prompt": {
+       "ar": "دَرْسُ التَّارِيخِ فِي الحِصَّةِ التَّاسِعَةِ.",
+       "audio": {
+        "src": "/audio/o/07b567aa64d5cabe.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d8-baca-maktabah-baidah",
+      "instruction": "Benar atau salah? \"Perpustakaan jauh dari kelas Siti.\"",
+      "prompt": {
+       "ar": "المَكْتَبَةُ بَعِيدَةٌ عَنْ فَصْلِ سِيتِي.",
+       "audio": {
+        "src": "/audio/o/16c97507f467c6a6.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d8-baca-asyirah",
+      "instruction": "Menurut bacaan 1, di mana Siti pada jam kesepuluh?",
+      "prompt": {
+       "ar": "الحِصَّةُ العاشِرَةُ",
+       "audio": {
+        "src": "/audio/o/7e3298378932cc24.mp3"
+       },
+       "emoji": "🔟"
+      },
+      "answer": "Di perpustakaan",
+      "options": [
+       "Di perpustakaan",
+       "Di kelas IPA",
+       "Di masjid"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "إِعْلانٌ مِنَ الأُسْتاذَةِ زَيْنَبَ",
+        "id": "Pengumuman dari Ustazah Zainab",
+        "emoji": "📢",
+        "audio": {
+         "src": "/audio/o/8a08db74de828535.mp3"
+        }
+       },
+       {
+        "ar": "الاِمْتِحانُ بَعْدَ أُسْبُوعٍ، يَوْمَ السَّبْتِ.",
+        "id": "Ujian seminggu lagi, hari Sabtu.",
+        "audio": {
+         "src": "/audio/o/957407f06cd3cd69.mp3"
+        }
+       },
+       {
+        "ar": "اِمْتِحانُ النَّحْوِ فِي الحِصَّةِ الأُولَى.",
+        "id": "Ujian nahwu di jam pertama.",
+        "audio": {
+         "src": "/audio/o/fe7f7d3adc0046ad.mp3"
+        }
+       },
+       {
+        "ar": "اِمْتِحانُ الرِّياضِيّاتِ فِي الحِصَّةِ الثَّانِيَةِ.",
+        "id": "Ujian matematika di jam kedua.",
+        "audio": {
+         "src": "/audio/o/e56cf9fb8821bd40.mp3"
+        }
+       },
+       {
+        "ar": "الاِمْتِحانُ فِي الفَصْلِ، لا فِي المَكْتَبَةِ.",
+        "id": "Ujiannya di kelas, bukan di perpustakaan.",
+        "audio": {
+         "src": "/audio/o/e90ca04e7dfe6d0c.mp3"
+        }
+       },
+       {
+        "ar": "لا تَنْسَ القَلَمَ!",
+        "id": "Jangan lupa pulpen!",
+        "emoji": "🖊️",
+        "audio": {
+         "src": "/audio/o/a0799a73219acf89.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Pengumuman ujian"
+      },
+      "imgs": [
+       "/img/o/u7-pengumuman.webp"
+      ],
+      "instruction_id": "Pengumuman ujian tengah semester di papan kelas."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d8-baca-imtihan-yaum",
+      "instruction": "Menurut pengumuman, hari apa ujiannya?",
+      "prompt": {
+       "ar": "الاِمْتِحانُ يَوْمَ …",
+       "audio": {
+        "src": "/audio/o/4ba8f9dc6170382c.mp3"
+       },
+       "emoji": "📅"
+      },
+      "answer": "Sabtu",
+      "options": [
+       "Sabtu",
+       "Senin",
+       "Jumat"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d8-baca-imtihan-riyadiyyat",
+      "instruction": "Benar atau salah? \"Ujian matematika di jam pertama.\"",
+      "prompt": {
+       "ar": "اِمْتِحانُ الرِّياضِيّاتِ فِي الحِصَّةِ الأُولَى.",
+       "audio": {
+        "src": "/audio/o/627a643b8d734339.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d8-baca-imtihan-makan",
+      "instruction": "Di mana ujiannya?",
+      "prompt": {
+       "id": "Menurut bacaan 2"
+      },
+      "answer": "Di kelas",
+      "options": [
+       "Di kelas",
+       "Di perpustakaan",
+       "Di asrama"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d8-baca-la-tansa",
+      "instruction": "Apa yang tidak boleh dilupakan?",
+      "prompt": {
+       "ar": "لا تَنْسَ …",
+       "audio": {
+        "src": "/audio/o/d5a952f018110a55.mp3"
+       }
+      },
+      "answer": "Pulpen",
+      "options": [
+       "Pulpen",
+       "Buku fikih",
+       "Jadwal"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u7-d8-lat-baca-nahw-ula",
+     "instruction": "Benar atau salah? \"Pelajaran nahwu di jam pertama.\"",
+     "prompt": {
+      "ar": "دَرْسُ النَّحْوِ فِي الحِصَّةِ الأُولَى.",
+      "audio": {
+       "src": "/audio/o/d35e458f14a36318.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d8-lat-baca-ulum",
+     "instruction": "Menurut bacaan 1, pelajaran apa di jam keenam?",
+     "prompt": {
+      "ar": "الحِصَّةُ السَّادِسَةُ",
+      "audio": {
+       "src": "/audio/o/9e6b16433b014a20.mp3"
+      }
+     },
+     "answer": "IPA",
+     "options": [
+      "IPA",
+      "Sejarah",
+      "Nahwu"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d8-lat-baca-ilan",
+     "instruction": "Siapa yang menulis pengumuman?",
+     "prompt": {
+      "id": "Menurut bacaan 2",
+      "emoji": "📢"
+     },
+     "answer": "Ustazah Zainab",
+     "options": [
+      "Ustazah Zainab",
+      "Ustaz Mahmud",
+      "Siti"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d8-lat-baca-imtihan-mata",
+     "instruction": "Benar atau salah? \"Ujiannya satu bulan lagi.\"",
+     "prompt": {
+      "ar": "الاِمْتِحانُ بَعْدَ شَهْرٍ.",
+      "audio": {
+       "src": "/audio/o/cdcc5ff2b35e542a.mp3"
+      }
+     },
+     "answer": "Salah",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u7-d9",
+   "dars": 9,
+   "title_id": "Menulis dengan harakat",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "جَدْوَلٌ",
+        "id": "jadwal",
+        "audio": {
+         "src": "/audio/o/958787b2ed5625c3.mp3"
+        }
+       },
+       {
+        "ar": "دَفْتَرٌ",
+        "id": "buku tulis",
+        "audio": {
+         "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+        }
+       },
+       {
+        "ar": "قَلَمٌ",
+        "id": "pena",
+        "audio": {
+         "src": "/audio/o/b32c56a7a03592e5.mp3"
+        }
+       },
+       {
+        "ar": "كِتابٌ",
+        "id": "buku",
+        "audio": {
+         "src": "/audio/o/9ab46029409a862b.mp3"
+        }
+       },
+       {
+        "ar": "دَرَسْتُ",
+        "id": "saya belajar",
+        "audio": {
+         "src": "/audio/o/a3f9e027d48e5ffd.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata berharakat"
+      },
+      "instruction_id": "Perhatikan harakat setiap huruf, lalu telusuri katanya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d9-harakat-kitab",
+      "instruction": "Mana harakat yang benar untuk \"buku\"?",
+      "prompt": {
+       "id": "buku (kitab)",
+       "emoji": "📕"
+      },
+      "answer": "كِتابٌ",
+      "options": [
+       "كِتابٌ",
+       "كَتابٌ",
+       "كُتابٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كِتابٌ": {
+        "src": "/audio/o/9ab46029409a862b.mp3"
+       },
+       "كَتابٌ": {
+        "src": "/audio/o/28c59ee300a3bc45.mp3"
+       },
+       "كُتابٌ": {
+        "src": "/audio/o/e706a741023dc0be.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d9-harakat-qalam",
+      "instruction": "Mana harakat yang benar untuk \"pena\"?",
+      "prompt": {
+       "id": "pena (kalam)",
+       "emoji": "🖊️"
+      },
+      "answer": "قَلَمٌ",
+      "options": [
+       "قَلَمٌ",
+       "قَلْمٌ",
+       "قُلُمٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَلَمٌ": {
+        "src": "/audio/o/b32c56a7a03592e5.mp3"
+       },
+       "قَلْمٌ": {
+        "src": "/audio/o/aaf5a374d3ed1d06.mp3"
+       },
+       "قُلُمٌ": {
+        "src": "/audio/o/7cd381a2451afe93.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d9-akhir-qaratu",
+      "instruction": "\"Saya membaca\" ditulis …",
+      "prompt": {
+       "id": "saya (sudah) membaca",
+       "emoji": "🙋"
+      },
+      "answer": "قَرَأْتُ",
+      "options": [
+       "قَرَأْتُ",
+       "قَرَأْتَ",
+       "قَرَأْتِ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "قَرَأْتُ": {
+        "src": "/audio/o/1fe0e3e2957ac5db.mp3"
+       },
+       "قَرَأْتَ": {
+        "src": "/audio/o/baf95714697ba409.mp3"
+       },
+       "قَرَأْتِ": {
+        "src": "/audio/o/d9825898c3b577b4.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d9-huruf-hilang-jadwal",
+      "instruction": "Huruf apa yang hilang dalam kata \"jadwal\"?",
+      "prompt": {
+       "id": "ج – د – ? – ل",
+       "emoji": "🗓️"
+      },
+      "answer": "و",
+      "options": [
+       "و",
+       "ذ",
+       "ز"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       },
+       "ذ": {
+        "src": "/audio/o/7de722a78c253663.mp3"
+       },
+       "ز": {
+        "src": "/audio/o/10b1ff5b59354266.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d9-eja-daftar",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "دَفْتَرٌ (buku tulis)"
+      },
+      "answer": "د ف ت ر",
+      "tokens": [
+       "د",
+       "ف",
+       "ت",
+       "ر",
+       "ذ"
+      ],
+      "audioMap": {
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "ف": {
+        "src": "/audio/o/da15928288f0c438.mp3"
+       },
+       "ت": {
+        "src": "/audio/o/0524363a6f53e9de.mp3"
+       },
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "ذ": {
+        "src": "/audio/o/7de722a78c253663.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d9-eja-jadwal",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "جَدْوَلٌ (jadwal)"
+      },
+      "answer": "ج د و ل",
+      "tokens": [
+       "ج",
+       "د",
+       "و",
+       "ل",
+       "ز"
+      ],
+      "audioMap": {
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       },
+       "ل": {
+        "src": "/audio/o/b3939d4bc0e14fc9.mp3"
+       },
+       "ز": {
+        "src": "/audio/o/10b1ff5b59354266.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "اِفْتَحِ الكِتابَ.",
+        "id": "Bukalah buku itu! (lk)",
+        "audio": {
+         "src": "/audio/o/b450c7c2263f4e5a.mp3"
+        }
+       },
+       {
+        "ar": "دَرَسْتُ الفِقْهَ.",
+        "id": "Saya belajar fikih.",
+        "audio": {
+         "src": "/audio/o/b4e2292783f82ade.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Salin kalimat"
+      },
+      "instruction_id": "Salin kalimat berharakat ini. Perhatikan kasrah di akhir اِفْتَحِ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u7-d9-alasan-kasrah",
+      "instruction": "Mengapa اِفْتَحْ menjadi اِفْتَحِ dalam اِفْتَحِ الكِتابَ?",
+      "prompt": {
+       "ar": "اِفْتَحِ الكِتابَ",
+       "audio": {
+        "src": "/audio/o/d8d709c01c5619d6.mp3"
+       }
+      },
+      "answer": "Karena disambung dengan kata ber-الـ",
+      "options": [
+       "Karena disambung dengan kata ber-الـ",
+       "Karena untuk perempuan",
+       "Karena kalimat tanya"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d9-salin-iftah",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Bukalah buku itu! (lk)"
+      },
+      "answer": "اِفْتَحِ الكِتابَ",
+      "tokens": [
+       "اِفْتَحِ",
+       "الكِتابَ",
+       "اِفْتَحْ"
+      ],
+      "audioMap": {
+       "اِفْتَحِ": {
+        "src": "/audio/o/7f2d05e0f538a28e.mp3"
+       },
+       "الكِتابَ": {
+        "src": "/audio/o/46fa4d359441fadc.mp3"
+       },
+       "اِفْتَحْ": {
+        "src": "/audio/o/1f41432c7d98aac0.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u7-d9-salin-darastu-fiqh",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya belajar fikih di kelas."
+      },
+      "answer": "دَرَسْتُ الفِقْهَ فِي الفَصْلِ",
+      "tokens": [
+       "دَرَسْتُ",
+       "الفِقْهَ",
+       "فِي",
+       "الفَصْلِ",
+       "دَرَسَ"
+      ],
+      "audioMap": {
+       "دَرَسْتُ": {
+        "src": "/audio/o/a3f9e027d48e5ffd.mp3"
+       },
+       "الفِقْهَ": {
+        "src": "/audio/o/40be01faaa781061.mp3"
+       },
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "الفَصْلِ": {
+        "src": "/audio/o/5e344f3c33fcadaf.mp3"
+       },
+       "دَرَسَ": {
+        "src": "/audio/o/62f427d4256fe56d.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u7-d9-lat-harakat-daftar",
+     "instruction": "Mana harakat yang benar untuk \"buku tulis\"?",
+     "prompt": {
+      "id": "buku tulis (daftar)",
+      "emoji": "📓"
+     },
+     "answer": "دَفْتَرٌ",
+     "options": [
+      "دَفْتَرٌ",
+      "دُفْتُرٌ",
+      "دِفْتِرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "دَفْتَرٌ": {
+       "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+      },
+      "دُفْتُرٌ": {
+       "src": "/audio/o/04e08b37c3ff55cb.mp3"
+      },
+      "دِفْتِرٌ": {
+       "src": "/audio/o/c66399324eeae1ba.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u7-d9-lat-akhir-darasta",
+     "instruction": "\"Kamu belajar (lk)\" ditulis …",
+     "prompt": {
+      "id": "kamu (sudah) belajar (lk)",
+      "emoji": "👦"
+     },
+     "answer": "دَرَسْتَ",
+     "options": [
+      "دَرَسْتَ",
+      "دَرَسْتُ",
+      "دَرَسْتِ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "دَرَسْتَ": {
+       "src": "/audio/o/e06be0b566ecb747.mp3"
+      },
+      "دَرَسْتُ": {
+       "src": "/audio/o/a3f9e027d48e5ffd.mp3"
+      },
+      "دَرَسْتِ": {
+       "src": "/audio/o/c070ca71ae6ffc2a.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u7-d9-lat-eja-qalam",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "قَلَمٌ (pena)"
+     },
+     "answer": "ق ل م",
+     "tokens": [
+      "ق",
+      "ل",
+      "م",
+      "ك"
+     ],
+     "audioMap": {
+      "ق": {
+       "src": "/audio/o/f9b42c3c2a464bde.mp3"
+      },
+      "ل": {
+       "src": "/audio/o/b3939d4bc0e14fc9.mp3"
+      },
+      "م": {
+       "src": "/audio/o/a6354d34017cd6cb.mp3"
+      },
+      "ك": {
+       "src": "/audio/o/58fba7de9c43a599.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u7-d9-lat-salin-qaratu",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya membaca buku itu."
+     },
+     "answer": "قَرَأْتُ الكِتابَ",
+     "tokens": [
+      "قَرَأْتُ",
+      "الكِتابَ",
+      "قَرَأْتِ"
+     ],
+     "audioMap": {
+      "قَرَأْتُ": {
+       "src": "/audio/o/1fe0e3e2957ac5db.mp3"
+      },
+      "الكِتابَ": {
+       "src": "/audio/o/46fa4d359441fadc.mp3"
+      },
+      "قَرَأْتِ": {
+       "src": "/audio/o/d9825898c3b577b4.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

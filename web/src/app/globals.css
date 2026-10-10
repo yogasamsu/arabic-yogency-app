@@ -1,0 +1,208 @@
+@import "tailwindcss";
+
+/* Palet: krem, peach, blush, rose. Teks & aksen digelapkan agar lolos kontras AA. */
+:root {
+  --bg: #fef7d6;          /* krem */
+  --surface: #fffcef;     /* kartu */
+  --peach: #f8dbb3;
+  --blush: #f6cab8;
+  --rose: #f2b4b0;
+  --ink: #3a2622;         /* 13.2:1 di atas krem */
+  --ink-soft: #6e4d45;    /* 6.9:1 di atas krem */
+  --line: #ecd9b8;
+  --accent: #a23e43;      /* tombol utama; teks putih 6.4:1 */
+  --accent-deep: #772a2f; /* bayangan bawah tombol (gaya Duolingo) */
+  --accent-ink: #ffffff;
+  --good: #2f6b4a;
+  --good-bg: #dcefd9;
+  --good-strong: #3f8a2a;  /* tombol "Lanjut" saat benar; teks putih 4.6:1 */
+  --good-deep: #2d661d;
+  --bad: #b3261e;
+  --bad-bg: #fbdcd6;
+  --bad-strong: #c0392b;
+  --bad-deep: #8e2a20;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1f1614;
+    --surface: #2a1e1b;
+    --peach: #4a3226;
+    --blush: #4d2f2b;
+    --rose: #5c3431;
+    --ink: #f7e9dc;       /* 14.9:1 */
+    --ink-soft: #c9a99c;  /* 8.2:1 */
+    --line: #3d2c27;
+    --accent: #f2b4b0;    /* teks gelap di atasnya 10:1 */
+    --accent-deep: #b8736e;
+    --accent-ink: #1f1614;
+    --good: #9fd4ae;
+    --good-bg: #213629;
+    --good-strong: #8fd18a;
+    --good-deep: #5e9b5a;
+    --bad: #ff9c94;
+    --bad-bg: #432523;
+    --bad-strong: #ff8a80;
+    --bad-deep: #c4605a;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-peach: var(--peach);
+  --color-blush: var(--blush);
+  --color-rose: var(--rose);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-deep: var(--accent-deep);
+  --color-good: var(--good);
+  --color-good-bg: var(--good-bg);
+  --color-bad: var(--bad);
+  --color-bad-bg: var(--bad-bg);
+  --color-good-strong: var(--good-strong);
+  --color-good-deep: var(--good-deep);
+  --color-bad-strong: var(--bad-strong);
+  --color-bad-deep: var(--bad-deep);
+  --font-sans: var(--font-nunito);
+  --font-arabic: var(--font-naskh);
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-nunito), system-ui, sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+/* Teks Arab: besar dan lega supaya harakat tidak bertumpuk. */
+.ar {
+  font-family: var(--font-naskh), "Noto Naskh Arabic", serif;
+  direction: rtl;
+  line-height: 2;
+  font-feature-settings: "calt", "liga";
+}
+
+.pb-safe {
+  padding-bottom: calc(env(safe-area-inset-bottom) + 0.5rem);
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------- Komponen bergaya Duolingo (palet disesuaikan) ---------- */
+@layer components {
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 3.25rem;
+    padding: 0 1.25rem;
+    border-radius: 16px;
+    border-bottom: 4px solid transparent;
+    font-weight: 800;
+    font-size: 16px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    transition: transform 80ms ease-out, border-bottom-width 80ms ease-out, filter 120ms;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .btn:active:not(:disabled) {
+    transform: translateY(3px);
+    border-bottom-width: 1px;
+  }
+  .btn:disabled {
+    background: var(--line);
+    color: var(--ink-soft);
+    border-color: var(--line);
+    cursor: not-allowed;
+  }
+  .btn-primary {
+    background: var(--accent);
+    color: var(--accent-ink);
+    border-bottom-color: var(--accent-deep);
+  }
+  .btn-primary:hover:not(:disabled) {
+    filter: brightness(1.06);
+  }
+  .btn-secondary {
+    background: var(--surface);
+    color: var(--ink-soft);
+    border: 2px solid var(--line);
+    border-bottom-width: 4px;
+  }
+  .btn-secondary:hover:not(:disabled) {
+    color: var(--ink);
+  }
+  .btn-good {
+    background: var(--good-strong);
+    color: #fff;
+    border-bottom-color: var(--good-deep);
+  }
+  .btn-bad {
+    background: var(--bad-strong);
+    color: #fff;
+    border-bottom-color: var(--bad-deep);
+  }
+  @media (prefers-color-scheme: dark) {
+    .btn-good,
+    .btn-bad {
+      color: #1f1614;
+    }
+  }
+  .tile {
+    background: var(--surface);
+    border: 2px solid var(--line);
+    border-bottom-width: 4px;
+    border-radius: 16px;
+  }
+  button.tile {
+    transition: transform 80ms ease-out, border-bottom-width 80ms ease-out;
+  }
+  button.tile:active:not(:disabled) {
+    transform: translateY(2px);
+    border-bottom-width: 2px;
+  }
+  .tile-selected {
+    border-color: var(--accent);
+    background: color-mix(in srgb, var(--rose) 45%, var(--surface));
+  }
+  .tile-right {
+    border-color: var(--good);
+    background: var(--good-bg);
+    color: var(--good);
+  }
+  .tile-wrong {
+    border-color: var(--bad);
+    background: var(--bad-bg);
+    color: var(--bad);
+  }
+}
+
+@keyframes node-pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+.node-pulse {
+  animation: node-pulse 1.6s ease-in-out infinite;
+}

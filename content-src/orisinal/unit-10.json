@@ -1,0 +1,2728 @@
+{
+  "unit": 10,
+  "book": "1b",
+  "title_ar": "الجَوُّ",
+  "title_id": "Cuaca",
+  "notes": "Semester 2, puncak musim hujan. Dialog 1: Rizki–Yusuf di asrama putra (Yusuf baru menelepon ibunya di Istanbul yang sedang bersalju; musim hujan dan kemarau di Indonesia). Dialog 2: Siti–Aisyah di asrama putri (mengusulkan piknik ke pantai, menyetujui, lalu batal karena hujan). Dialog 3: Nur menelepon Pak Ahmad dari sekolah di Bandung karena lupa membawa payung (telepon, nasihat, doa بارَكَ اللّٰهُ فِيكَ). Kemarau di Yogyakarta dan empat musim di Turki masuk lewat bacaan dars 8. Pola: كَيْفَ الجَوُّ؟، amr خُذْ/خُذِي، اِلْبَسْ/اِلْبَسِي، madhi tsulatsi (ذَهَبَ، نَزَلَ، تَرَكَ), dhamir muttashil pada fi'il (تَرَكْتُهُ/تَرَكْتُها، سَآخُذُكِ), zharaf makan (فَوْقَ، تَحْتَ، أَمامَ، خَلْفَ، عَلَى اليَمِينِ/اليَسارِ). Tidak ada bilangan baru; suhu memakai puluhan dari Unit 9 (عِشْرُونَ/ثَلاثُونَ دَرَجَةً). Bunyi ط/ت. Kata baru di luar daftar SKELETON yang langsung diartikan: ثَلْج، جِدًّا، أَمْس، كَلَّمْتُ، سَماء، قَوِيّ، فِكْرَة، شاطِئ، إِذَنْ، تَرَكَ، تَخْرُجِي، مِعْطَف، حَرارَة، دَرَجَة، أَحْيانًا، nama empat musim. نُور dan nama Indonesia tanpa i'rab; يُوسُف dan عائِشَة ghairu munsarif. | PEMERIKSAAN INDEPENDEN (2026-10-04): harakat/i'rab baris demi baris benar (madhi + dhamir muttashil, amr خُذْ/خُذِ/خُذِي، اِلْبَسْ/اِلْبَسِي، zharaf + majrur, شَمْسٌ/رِيحٌ muannats, أَرْبَعَةُ مَواسِمَ, tamyiz دَرَجَةً konsisten dengan tamyiz puluhan yang diajarkan di U9 dars 5; إِسْطَنْبُول dan نُور tanpa i'rab; يُوسُفُ/عائِشَةُ ghairu munsarif). Perbaikan: (1) arti kata baru ditambah: بَعْدَ شَهْرَيْنِ، سَيَنْزِلُ (سَـ = akan)، أَخَذْتِ، أَحْيانًا، يَكُونُ، تُرْكِيا، أَرْبَعَةُ مَواسِمَ; (2) tujuh soal susun yang keterangan waktunya (الآنَ/أَمْسِ/غَدًا/اليَوْمَ) bisa dipindah sehingga punya lebih dari satu urutan benar diubah menjadi kalimat dengan satu urutan; (3) 'hari Minggu' → 'hari Ahad' (konsisten dengan U9); (4) baris kosakata مَطَرٌ · أَمْطارٌ dirapikan. Tidak ada adegan yang perlu figuran. Cek kemiripan ABY: hlm. PDF 50–57 (hiwar 1 suami-istri: hujan, أَيْنَ المِعْطَفُ؟ تَرَكْتُهُ…، أَيْنَ المِظَلَّةُ؟ تَرَكْتُها…، بارَكَ اللّٰهُ فِيكَ، rencana ke pasar ditunda + فِكْرَةٌ طَيِّبَةٌ; hiwar 2 telepon London–Riyadh, suhu; hiwar 3 musim semi, ke pantai/darat; latihan zharaf dan musim). Ditulis ulang: (a) Dialog 3 'أَيْنَ مِظَلَّتُكِ؟ / تَرَكْتُها فِي البَيْتِ' → 'هَلْ أَخَذْتِ مِظَلَّتَكِ؟ / لا، تَرَكْتُها فِي البَيْتِ'; (b) tabel pola dan dua soal isian yang meniru pasangan tanya-jawab ABY (HP→تَرَكْتُهُ, payung→تَرَكْتُها) diganti latihan transformasi (تَرَكْتُ الهاتِفَ ← تَرَكْتُهُ); (c) akhir Dialog 2 'نَذْهَبُ فِي مَوْسِمِ الجَفافِ، إِنْ شاءَ اللّٰهُ' (mirip penutup hiwar 1 ABY) diganti. Sisanya hanya pola target tunggal (كَيْفَ الجَوُّ فِي …؟، تَرَكْتُها، بارَكَ اللّٰهُ فِيكَ) dan tema pantai yang diwajibkan SKELETON; tidak ada lebih dari 2 kalimat berurutan yang mirip.",
+  "lessons": [
+    {
+      "dars": 1,
+      "skill": "Hiwar",
+      "title_id": "Salju di Istanbul",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 1",
+          "instruction_id": "Malam hari di asrama putra. Yusuf baru selesai menelepon ibunya di Istanbul. Rizki bertanya tentang cuaca di sana.",
+          "rows": [
+            {
+              "who": "rizki",
+              "ar": "يا يُوسُفُ، كَيْفَ أُسْرَتُكَ فِي إِسْطَنْبُول؟",
+              "id": "Yusuf, bagaimana keluargamu di Istanbul?"
+            },
+            {
+              "who": "yusuf",
+              "ar": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ. كَلَّمْتُ أُمِّي بِالهاتِفِ.",
+              "id": "Baik, alhamdulillah. Tadi saya menelepon ibu saya."
+            },
+            {
+              "who": "rizki",
+              "ar": "كَيْفَ الجَوُّ فِي إِسْطَنْبُول الآنَ؟",
+              "id": "Bagaimana cuaca di Istanbul sekarang?"
+            },
+            {
+              "who": "yusuf",
+              "ar": "بارِدٌ جِدًّا. نَزَلَ الثَّلْجُ أَمْسِ.",
+              "id": "Dingin sekali. Kemarin salju turun."
+            },
+            {
+              "who": "rizki",
+              "ar": "ثَلْجٌ؟ ما أَجْمَلَ الثَّلْجَ!",
+              "id": "Salju? Indah sekali salju itu!"
+            },
+            {
+              "who": "yusuf",
+              "ar": "وَهُنا يَنْزِلُ المَطَرُ كُلَّ يَوْمٍ!",
+              "id": "Kalau di sini, hujan turun setiap hari!"
+            },
+            {
+              "who": "rizki",
+              "ar": "نَعَمْ، الآنَ مَوْسِمُ الأَمْطارِ.",
+              "id": "Ya, sekarang musim hujan."
+            },
+            {
+              "who": "yusuf",
+              "ar": "وَمَتَى مَوْسِمُ الجَفافِ؟",
+              "id": "Lalu kapan musim kemarau?"
+            },
+            {
+              "who": "rizki",
+              "ar": "بَعْدَ شَهْرَيْنِ، وَالجَوُّ فِيهِ حارٌّ جِدًّا.",
+              "id": "Dua bulan lagi, dan cuacanya sangat panas."
+            }
+          ],
+          "img": "u10-salju-istanbul",
+          "scene": "Evening in a simple male dormitory room in Yogyakarta: Yusuf, a Turkish student, sits on his bed holding a smartphone, smiling and talking with Rizki; a thought bubble above Yusuf shows a snowy street with domed mosque silhouettes; through the window behind them, rain is falling."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "جَوٌّ",
+              "id": "cuaca",
+              "emoji": "🌤️"
+            },
+            {
+              "ar": "بارِدٌ",
+              "id": "dingin",
+              "emoji": "🥶"
+            },
+            {
+              "ar": "حارٌّ",
+              "id": "panas",
+              "emoji": "🥵"
+            },
+            {
+              "ar": "جِدًّا",
+              "id": "sangat, sekali",
+              "emoji": "❗"
+            },
+            {
+              "ar": "ثَلْجٌ",
+              "id": "salju",
+              "emoji": "❄️"
+            },
+            {
+              "ar": "أَمْسِ",
+              "id": "kemarin",
+              "emoji": "⏪"
+            },
+            {
+              "ar": "نَزَلَ – يَنْزِلُ",
+              "id": "turun",
+              "emoji": "⬇️"
+            },
+            {
+              "ar": "مَطَرٌ · أَمْطارٌ",
+              "id": "hujan (tunggal · jamak)",
+              "emoji": "🌧️"
+            },
+            {
+              "ar": "مَوْسِمٌ",
+              "id": "musim",
+              "emoji": "🗓️",
+              "serapan": "musim"
+            },
+            {
+              "ar": "مَوْسِمُ الأَمْطارِ",
+              "id": "musim hujan",
+              "emoji": "☔"
+            },
+            {
+              "ar": "مَوْسِمُ الجَفافِ",
+              "id": "musim kemarau",
+              "emoji": "🏜️"
+            },
+            {
+              "ar": "هاتِفٌ",
+              "id": "telepon, HP",
+              "emoji": "📱"
+            },
+            {
+              "ar": "كَلَّمْتُ",
+              "id": "saya berbicara dengan (menelepon)",
+              "emoji": "📞"
+            },
+            {
+              "ar": "بَعْدَ شَهْرَيْنِ",
+              "id": "dua bulan lagi",
+              "emoji": "📆"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "kaifa-jaww-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "كَيْفَ الجَوُّ؟"
+          },
+          "answer": "Bagaimana cuacanya?",
+          "options": [
+            "Bagaimana cuacanya?",
+            "Bagaimana kabarmu?",
+            "Di mana cuacanya panas?"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "cuaca-istanbul",
+          "instruction": "Menurut dialog, bagaimana cuaca di Istanbul?",
+          "prompt": {
+            "ar": "الجَوُّ فِي إِسْطَنْبُول …",
+            "emoji": "🏙️"
+          },
+          "answer": "Dingin sekali",
+          "options": [
+            "Dingin sekali",
+            "Panas sekali",
+            "Hujan setiap hari"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-nazala-tsalj",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "نَزَلَ الثَّلْجُ أَمْسِ."
+          },
+          "answer": "Kemarin salju turun.",
+          "options": [
+            "Kemarin salju turun.",
+            "Besok salju turun.",
+            "Kemarin hujan turun."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "musim-sekarang",
+          "instruction": "Menurut dialog, musim apa sekarang di Indonesia?",
+          "prompt": {
+            "ar": "الآنَ مَوْسِمُ …"
+          },
+          "answer": "Musim hujan",
+          "options": [
+            "Musim hujan",
+            "Musim kemarau",
+            "Musim salju"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "barid-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "بارِدٌ"
+          },
+          "answer": "dingin",
+          "options": [
+            "dingin",
+            "panas",
+            "hujan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-kaifa-jaww",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "كَيْفَ الجَوُّ فِي إِسْطَنْبُول؟"
+          },
+          "answer": "بارِدٌ جِدًّا.",
+          "options": [
+            "بارِدٌ جِدًّا.",
+            "أَنا مِنْ إِسْطَنْبُول.",
+            "بِخَيْرٍ، الحَمْدُ لِلّٰهِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "jafaf-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "مَوْسِمُ الجَفافِ"
+          },
+          "answer": "musim kemarau",
+          "options": [
+            "musim kemarau",
+            "musim hujan",
+            "musim dingin"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-kaifa-jaww",
+          "prompt": {
+            "id": "Bagaimana cuaca di Istanbul?"
+          },
+          "answer": "كَيْفَ الجَوُّ فِي إِسْطَنْبُول",
+          "extra": [
+            "أَيْنَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-barid-jiddan",
+          "prompt": {
+            "id": "Cuacanya dingin sekali."
+          },
+          "answer": "الجَوُّ بارِدٌ جِدًّا",
+          "extra": [
+            "حارٌّ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-barid-jiddan",
+          "who": "yusuf",
+          "ar": "الجَوُّ بارِدٌ جِدًّا.",
+          "id": "Cuacanya dingin sekali."
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tsalj-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "ثَلْجٌ"
+          },
+          "answer": "salju",
+          "options": [
+            "salju",
+            "hujan",
+            "angin"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-yanzilu",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "يَنْزِلُ المَطَرُ كُلَّ يَوْمٍ."
+          },
+          "answer": "Hujan turun setiap hari.",
+          "options": [
+            "Hujan turun setiap hari.",
+            "Kemarin hujan turun.",
+            "Salju turun setiap hari."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kapan-kemarau",
+          "instruction": "Menurut Rizki, kapan musim kemarau?",
+          "prompt": {
+            "ar": "بَعْدَ شَهْرَيْنِ.",
+            "emoji": "🏜️"
+          },
+          "answer": "Dua bulan lagi",
+          "options": [
+            "Dua bulan lagi",
+            "Dua minggu lagi",
+            "Sekarang"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-mausim",
+          "prompt": {
+            "id": "Ini musim hujan."
+          },
+          "answer": "هٰذا مَوْسِمُ الأَمْطارِ",
+          "extra": [
+            "الجَفافِ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-harr-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "حارٌّ"
+          },
+          "answer": "panas",
+          "options": [
+            "panas",
+            "dingin",
+            "sangat"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 2,
+      "skill": "Hiwar",
+      "title_id": "Piknik batal",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 2",
+          "instruction_id": "Sabtu sore di asrama putri. Siti mengajak Aisyah ke pantai besok pagi, tetapi langit mulai gelap.",
+          "rows": [
+            {
+              "who": "siti",
+              "ar": "يا عائِشَةُ، غَدًا يَوْمُ الأَحَدِ. هَيّا إِلَى الشّاطِئِ!",
+              "id": "Aisyah, besok hari Ahad. Ayo ke pantai!"
+            },
+            {
+              "who": "aisyah",
+              "ar": "فِكْرَةٌ جَمِيلَةٌ! مَتَى نَذْهَبُ؟",
+              "id": "Ide bagus! Kapan kita berangkat?"
+            },
+            {
+              "who": "siti",
+              "ar": "فِي السّاعَةِ السّادِسَةِ صَباحًا، بِالحافِلَةِ.",
+              "id": "Jam enam pagi, naik bus."
+            },
+            {
+              "who": "aisyah",
+              "ar": "طَيِّبٌ. اُنْظُرِي! فِي السَّماءِ غَيْمٌ كَثِيرٌ.",
+              "id": "Baiklah. Lihat! Di langit banyak awan."
+            },
+            {
+              "who": "siti",
+              "ar": "وَالرِّيحُ قَوِيَّةٌ. هَلْ سَيَنْزِلُ المَطَرُ؟",
+              "id": "Anginnya juga kencang. Apakah hujan akan turun?"
+            },
+            {
+              "who": "aisyah",
+              "ar": "اِسْمَعِي! المَطَرُ يَنْزِلُ الآنَ.",
+              "id": "Dengar! Hujan turun sekarang."
+            },
+            {
+              "who": "siti",
+              "ar": "المَطَرُ كَثِيرٌ! لا نَذْهَبُ غَدًا إِذَنْ.",
+              "id": "Hujannya deras! Kalau begitu, besok kita tidak pergi."
+            },
+            {
+              "who": "aisyah",
+              "ar": "لا بَأْسَ. الشّاطِئُ جَمِيلٌ فِي مَوْسِمِ الجَفافِ.",
+              "id": "Tidak apa-apa. Pantai itu indah pada musim kemarau."
+            },
+            {
+              "who": "siti",
+              "ar": "نَعَمْ. وَغَدًا نَقْرَأُ فِي المَكْتَبَةِ.",
+              "id": "Iya. Besok kita membaca di perpustakaan saja."
+            }
+          ],
+          "img": "u10-piknik-batal",
+          "scene": "Siti and Aisyah stand at the window of their female dormitory room in Yogyakarta, looking out at dark clouds, strong wind bending palm trees and the first heavy raindrops; a straw beach bag and a folded picnic mat lie ready on the bed behind them."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "شاطِئٌ",
+              "id": "pantai",
+              "emoji": "🏖️"
+            },
+            {
+              "ar": "فِكْرَةٌ",
+              "id": "ide, gagasan",
+              "emoji": "💡"
+            },
+            {
+              "ar": "فِكْرَةٌ جَمِيلَةٌ!",
+              "id": "ide bagus!",
+              "emoji": "👍"
+            },
+            {
+              "ar": "سَماءٌ",
+              "id": "langit",
+              "emoji": "🌌"
+            },
+            {
+              "ar": "غَيْمٌ",
+              "id": "awan",
+              "emoji": "☁️"
+            },
+            {
+              "ar": "رِيحٌ",
+              "id": "angin (kata perempuan)",
+              "emoji": "💨"
+            },
+            {
+              "ar": "قَوِيٌّ · قَوِيَّةٌ",
+              "id": "kuat, kencang (lk · pr)",
+              "emoji": "💪"
+            },
+            {
+              "ar": "غَدًا",
+              "id": "besok",
+              "emoji": "⏩"
+            },
+            {
+              "ar": "إِذَنْ",
+              "id": "kalau begitu",
+              "emoji": "➡️"
+            },
+            {
+              "ar": "سَيَنْزِلُ",
+              "id": "akan turun (سَـ = akan)",
+              "emoji": "⏳"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "fikrah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "فِكْرَةٌ جَمِيلَةٌ!"
+          },
+          "answer": "Ide bagus!",
+          "options": [
+            "Ide bagus!",
+            "Cuaca bagus!",
+            "Pantai yang indah!"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "ajak-ke-mana",
+          "instruction": "Menurut dialog, Siti mengajak Aisyah ke mana?",
+          "prompt": {
+            "ar": "هَيّا إِلَى …",
+            "emoji": "🧭"
+          },
+          "answer": "Ke pantai",
+          "options": [
+            "Ke pantai",
+            "Ke pasar",
+            "Ke perpustakaan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "jam-berangkat",
+          "instruction": "Menurut rencana, jam berapa mereka berangkat?",
+          "prompt": {
+            "id": "Rencana Siti",
+            "emoji": "🕕"
+          },
+          "answer": "Jam 6 pagi",
+          "options": [
+            "Jam 6 pagi",
+            "Jam 7 pagi",
+            "Jam 6 sore"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-ghaim",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "فِي السَّماءِ غَيْمٌ كَثِيرٌ."
+          },
+          "answer": "Di langit banyak awan.",
+          "options": [
+            "Di langit banyak awan.",
+            "Di langit ada matahari.",
+            "Anginnya kencang."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "rih-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "رِيحٌ"
+          },
+          "answer": "angin",
+          "options": [
+            "angin",
+            "awan",
+            "langit"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "bs-pergi-pantai",
+          "instruction": "Benar atau salah? \"Besok Siti pergi ke pantai.\"",
+          "prompt": {
+            "ar": "سِيتِي تَذْهَبُ إِلَى الشّاطِئِ غَدًا."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-hayya",
+          "instruction": "Temanmu mengusulkan rencana. Pilih balasan yang tepat",
+          "prompt": {
+            "ar": "هَيّا إِلَى الشّاطِئِ غَدًا!"
+          },
+          "answer": "فِكْرَةٌ جَمِيلَةٌ!",
+          "options": [
+            "فِكْرَةٌ جَمِيلَةٌ!",
+            "وَعَلَيْكُمُ السَّلامُ.",
+            "بارِدٌ جِدًّا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-mathar-yanzilu",
+          "prompt": {
+            "id": "Hujannya deras!"
+          },
+          "answer": "المَطَرُ كَثِيرٌ",
+          "extra": [
+            "يَنْزِلُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-fis-sama",
+          "prompt": {
+            "id": "Di langit banyak awan."
+          },
+          "answer": "فِي السَّماءِ غَيْمٌ كَثِيرٌ",
+          "extra": [
+            "شَمْسٌ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-hayya-syathi",
+          "who": "siti",
+          "ar": "هَيّا إِلَى الشّاطِئِ!",
+          "id": "Ayo ke pantai!"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-ghaim-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "غَيْمٌ"
+          },
+          "answer": "awan",
+          "options": [
+            "awan",
+            "angin",
+            "salju"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-unzhuri",
+          "instruction": "Kamu meminta Aisyah melihat ke langit. Kamu berkata …",
+          "prompt": {
+            "id": "Lihat! (kepada pr)",
+            "emoji": "👀"
+          },
+          "answer": "اُنْظُرِي!",
+          "options": [
+            "اُنْظُرِي!",
+            "اُنْظُرْ!",
+            "اِسْمَعْ!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-besok-apa",
+          "instruction": "Menurut dialog, apa yang mereka lakukan besok?",
+          "prompt": {
+            "ar": "وَغَدًا …",
+            "emoji": "📚"
+          },
+          "answer": "Membaca di perpustakaan",
+          "options": [
+            "Membaca di perpustakaan",
+            "Pergi ke pantai naik bus",
+            "Pergi ke pasar"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-rih",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "الرِّيحُ قَوِيَّةٌ."
+          },
+          "answer": "Anginnya kencang.",
+          "options": [
+            "Anginnya kencang.",
+            "Hujannya deras.",
+            "Cuacanya dingin."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-jafaf",
+          "prompt": {
+            "id": "Pantai itu indah pada musim kemarau."
+          },
+          "answer": "الشّاطِئُ جَمِيلٌ فِي مَوْسِمِ الجَفافِ",
+          "extra": [
+            "الأَمْطارِ"
+          ]
+        }
+      ]
+    },
+    {
+      "dars": 3,
+      "skill": "Hiwar",
+      "title_id": "Nur lupa payung",
+      "steps": [
+        {
+          "card": "dialogue",
+          "section": "Dialog 3",
+          "instruction_id": "Siang hari di Bandung, hujan deras. Nur menelepon ayahnya dari telepon sekolah.",
+          "rows": [
+            {
+              "who": "nur",
+              "ar": "السَّلامُ عَلَيْكُمْ يا أَبِي. أَنا نُور.",
+              "id": "Assalamualaikum, Ayah. Ini Nur."
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "وَعَلَيْكُمُ السَّلامُ يا نُور. أَيْنَ أَنْتِ الآنَ؟",
+              "id": "Waalaikumussalam, Nur. Kamu di mana sekarang?"
+            },
+            {
+              "who": "nur",
+              "ar": "أَنا فِي المَدْرَسَةِ، وَالمَطَرُ يَنْزِلُ كَثِيرًا!",
+              "id": "Aku di sekolah, dan hujannya deras sekali!"
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "هَلْ أَخَذْتِ مِظَلَّتَكِ يا بِنْتِي؟",
+              "id": "Kamu bawa payungmu, Nak?"
+            },
+            {
+              "who": "nur",
+              "ar": "لا، تَرَكْتُها فِي البَيْتِ!",
+              "id": "Tidak, aku meninggalkannya di rumah!"
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "لا تَخْرُجِي فِي المَطَرِ. سَآخُذُكِ بِالسَّيّارَةِ.",
+              "id": "Jangan keluar saat hujan. Ayah akan menjemputmu dengan mobil."
+            },
+            {
+              "who": "nur",
+              "ar": "شُكْرًا يا أَبِي، بارَكَ اللّٰهُ فِيكَ!",
+              "id": "Terima kasih, Ayah. Barakallah fik!"
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "وَفِيكِ بارَكَ اللّٰهُ. وَغَدًا خُذِي المِظَلَّةَ!",
+              "id": "Wa fiki barakallah. Besok bawalah payung!"
+            },
+            {
+              "who": "nur",
+              "ar": "نَعَمْ يا أَبِي، إِنْ شاءَ اللّٰهُ!",
+              "id": "Ya, Ayah, insyaallah!"
+            }
+          ],
+          "img": "u10-nur-payung",
+          "scene": "Rainy afternoon at an Indonesian elementary school in Bandung: Nur, a nine-year-old girl in a red-and-white school uniform and white hijab, stands under the school veranda holding the school phone receiver; heavy rain pours on the schoolyard; a small inset shows Pak Ahmad at his office desk answering his phone."
+        },
+        {
+          "card": "vocab",
+          "section": "Kata baru",
+          "rows": [
+            {
+              "ar": "مِظَلَّةٌ",
+              "id": "payung",
+              "emoji": "☂️"
+            },
+            {
+              "ar": "مِظَلَّتُكِ · مِظَلَّتَكِ",
+              "id": "payungmu (pr)",
+              "emoji": "🌂"
+            },
+            {
+              "ar": "تَرَكَ – يَتْرُكُ",
+              "id": "meninggalkan",
+              "emoji": "🚪"
+            },
+            {
+              "ar": "تَرَكْتُها",
+              "id": "saya meninggalkannya (benda pr)",
+              "emoji": "🏠"
+            },
+            {
+              "ar": "لا تَخْرُجِي",
+              "id": "jangan keluar (pr)",
+              "emoji": "🚫"
+            },
+            {
+              "ar": "سَآخُذُكِ",
+              "id": "saya akan menjemputmu / membawamu (pr)",
+              "emoji": "🚗"
+            },
+            {
+              "ar": "خُذْ · خُذِي",
+              "id": "ambillah, bawalah (lk · pr); lampaunya أَخَذَ, أَخَذْتِ = kamu (pr) membawa",
+              "emoji": "🤲"
+            },
+            {
+              "ar": "بارَكَ اللّٰهُ فِيكَ · فِيكِ",
+              "id": "semoga Allah memberkahimu (lk · pr)",
+              "emoji": "🤲",
+              "serapan": "barakallah"
+            },
+            {
+              "ar": "وَفِيكَ بارَكَ اللّٰهُ · وَفِيكِ",
+              "id": "dan semoga Allah memberkahimu juga (balasan) (lk · pr)",
+              "emoji": "💚"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "aina-mizallah-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَيْنَ مِظَلَّتُكِ؟"
+          },
+          "answer": "Di mana payungmu? (pr)",
+          "options": [
+            "Di mana payungmu? (pr)",
+            "Di mana kamu sekarang? (pr)",
+            "Di mana sekolahmu? (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "nur-di-mana",
+          "instruction": "Menurut dialog, Nur sedang di mana?",
+          "prompt": {
+            "ar": "أَنا فِي …",
+            "emoji": "🏫"
+          },
+          "answer": "Di sekolah",
+          "options": [
+            "Di sekolah",
+            "Di rumah",
+            "Di masjid"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "payung-di-mana",
+          "instruction": "Menurut dialog, di mana payung Nur?",
+          "prompt": {
+            "emoji": "☂️",
+            "id": "Payung Nur …"
+          },
+          "answer": "Tertinggal di rumah",
+          "options": [
+            "Tertinggal di rumah",
+            "Ada di tas Nur",
+            "Ada di mobil Ayah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-taraktuha",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "تَرَكْتُها فِي البَيْتِ."
+          },
+          "answer": "Aku meninggalkannya di rumah.",
+          "options": [
+            "Aku meninggalkannya di rumah.",
+            "Aku mengambilnya dari rumah.",
+            "Dia (pr) ada di rumah."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "jemput-naik-apa",
+          "instruction": "Menurut dialog, Pak Ahmad akan menjemput Nur dengan apa?",
+          "prompt": {
+            "ar": "سَآخُذُكِ بِـ …",
+            "emoji": "🚦"
+          },
+          "answer": "Dengan mobil",
+          "options": [
+            "Dengan mobil",
+            "Dengan bus",
+            "Dengan sepeda motor"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "balas-barakallah",
+          "instruction": "Nur berkata kepada ayahnya: بارَكَ اللّٰهُ فِيكَ. Ayah menjawab …",
+          "prompt": {
+            "ar": "بارَكَ اللّٰهُ فِيكَ!"
+          },
+          "answer": "وَفِيكِ بارَكَ اللّٰهُ.",
+          "options": [
+            "وَفِيكِ بارَكَ اللّٰهُ.",
+            "وَعَلَيْكُمُ السَّلامُ.",
+            "أَنا فِي المَدْرَسَةِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "nasihat-ayah",
+          "instruction": "Apa nasihat Pak Ahmad untuk besok?",
+          "prompt": {
+            "ar": "وَغَدًا خُذِي المِظَلَّةَ!"
+          },
+          "answer": "Bawalah payung",
+          "options": [
+            "Bawalah payung",
+            "Pakailah jaket",
+            "Pulanglah naik bus"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-mizallah",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "☂️"
+          },
+          "answer": "مِظَلَّةٌ",
+          "options": [
+            "مِظَلَّةٌ",
+            "هاتِفٌ",
+            "سَيّارَةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-taraktuha",
+          "prompt": {
+            "id": "Aku meninggalkannya (payung) di rumah."
+          },
+          "answer": "تَرَكْتُها فِي البَيْتِ",
+          "extra": [
+            "تَرَكْتُهُ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-khudzi",
+          "prompt": {
+            "id": "Bawalah payung! (kepada pr)"
+          },
+          "answer": "خُذِي المِظَلَّةَ",
+          "extra": [
+            "خُذْ",
+            "مِظَلَّتُكِ"
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-barakallah",
+          "who": "nur",
+          "ar": "بارَكَ اللّٰهُ فِيكَ!",
+          "id": "Semoga Allah memberkahimu! (kepada lk)"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-la-takhruji",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "لا تَخْرُجِي فِي المَطَرِ."
+          },
+          "answer": "Jangan keluar saat hujan. (pr)",
+          "options": [
+            "Jangan keluar saat hujan. (pr)",
+            "Jangan tidur saat hujan. (pr)",
+            "Keluarlah saat hujan. (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-hatif-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هاتِفٌ"
+          },
+          "answer": "telepon, HP",
+          "options": [
+            "telepon, HP",
+            "payung",
+            "mobil"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-saakhudzuki",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "سَآخُذُكِ بِالسَّيّارَةِ."
+          },
+          "answer": "Saya akan menjemputmu (pr) dengan mobil.",
+          "options": [
+            "Saya akan menjemputmu (pr) dengan mobil.",
+            "Saya meninggalkanmu (pr) di mobil.",
+            "Ambillah mobil itu! (pr)"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-aina-mizallah",
+          "prompt": {
+            "id": "Di mana payungmu? (pr)"
+          },
+          "answer": "أَيْنَ مِظَلَّتُكِ",
+          "extra": [
+            "مِظَلَّتُكَ"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-bs-nur-payung",
+          "instruction": "Benar atau salah? \"Nur membawa payung ke sekolah.\"",
+          "prompt": {
+            "ar": "نُور أَخَذَتِ المِظَلَّةَ إِلَى المَدْرَسَةِ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-akhadzti-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "هَلْ أَخَذْتِ مِظَلَّتَكِ؟"
+          },
+          "answer": "Kamu bawa payungmu? (pr)",
+          "options": [
+            "Kamu bawa payungmu? (pr)",
+            "Di mana payungmu? (pr)",
+            "Bawalah payungmu! (pr)"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 4,
+      "skill": "Mufradat",
+      "title_id": "Kosakata cuaca dan musim",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Cuaca",
+          "note_id": "شَمْسٌ dan رِيحٌ adalah kata perempuan: الشَّمْسُ حارَّةٌ، الرِّيحُ قَوِيَّةٌ.",
+          "rows": [
+            {
+              "ar": "جَوٌّ",
+              "id": "cuaca",
+              "emoji": "🌤️"
+            },
+            {
+              "ar": "حارٌّ",
+              "id": "panas",
+              "emoji": "🥵"
+            },
+            {
+              "ar": "بارِدٌ",
+              "id": "dingin",
+              "emoji": "🥶"
+            },
+            {
+              "ar": "مَطَرٌ",
+              "id": "hujan",
+              "emoji": "🌧️"
+            },
+            {
+              "ar": "شَمْسٌ",
+              "id": "matahari",
+              "emoji": "☀️"
+            },
+            {
+              "ar": "غَيْمٌ",
+              "id": "awan",
+              "emoji": "☁️"
+            },
+            {
+              "ar": "رِيحٌ",
+              "id": "angin",
+              "emoji": "💨"
+            },
+            {
+              "ar": "ثَلْجٌ",
+              "id": "salju",
+              "emoji": "❄️"
+            },
+            {
+              "ar": "سَماءٌ",
+              "id": "langit",
+              "emoji": "🌌"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Musim dan suhu",
+          "note_id": "Indonesia punya dua musim. Negara seperti Turki punya empat musim; namanya cukup dikenali saja. Setelah عِشْرُونَ/ثَلاثُونَ, bendanya tunggal berakhiran -an: دَرَجَةً.",
+          "rows": [
+            {
+              "ar": "مَوْسِمٌ",
+              "id": "musim",
+              "emoji": "🗓️",
+              "serapan": "musim"
+            },
+            {
+              "ar": "مَوْسِمُ الأَمْطارِ",
+              "id": "musim hujan",
+              "emoji": "☔"
+            },
+            {
+              "ar": "مَوْسِمُ الجَفافِ",
+              "id": "musim kemarau",
+              "emoji": "🏜️"
+            },
+            {
+              "ar": "الشِّتاءُ · الصَّيْفُ",
+              "id": "musim dingin · musim panas",
+              "emoji": "⛄"
+            },
+            {
+              "ar": "الرَّبِيعُ · الخَرِيفُ",
+              "id": "musim semi · musim gugur",
+              "emoji": "🍂"
+            },
+            {
+              "ar": "حَرارَةٌ",
+              "id": "suhu, panas",
+              "emoji": "🌡️"
+            },
+            {
+              "ar": "دَرَجَةٌ",
+              "id": "derajat",
+              "emoji": "🌡️",
+              "serapan": "derajat"
+            },
+            {
+              "ar": "عِشْرُونَ دَرَجَةً",
+              "id": "dua puluh derajat",
+              "emoji": "2️⃣0️⃣"
+            },
+            {
+              "ar": "ثَلاثُونَ دَرَجَةً",
+              "id": "tiga puluh derajat",
+              "emoji": "3️⃣0️⃣"
+            }
+          ]
+        },
+        {
+          "card": "vocab",
+          "section": "Kata lain",
+          "rows": [
+            {
+              "ar": "مِظَلَّةٌ",
+              "id": "payung",
+              "emoji": "☂️"
+            },
+            {
+              "ar": "فَيَضانٌ",
+              "id": "banjir",
+              "emoji": "🌊"
+            },
+            {
+              "ar": "هاتِفٌ",
+              "id": "telepon, HP",
+              "emoji": "📱"
+            },
+            {
+              "ar": "مِعْطَفٌ",
+              "id": "jaket, mantel",
+              "emoji": "🧥"
+            },
+            {
+              "ar": "أَمْسِ",
+              "id": "kemarin",
+              "emoji": "⏪"
+            },
+            {
+              "ar": "اليَوْمَ",
+              "id": "hari ini",
+              "emoji": "📍"
+            },
+            {
+              "ar": "غَدًا",
+              "id": "besok",
+              "emoji": "⏩"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "gambar-syams",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "☀️"
+          },
+          "answer": "شَمْسٌ",
+          "options": [
+            "شَمْسٌ",
+            "غَيْمٌ",
+            "مَطَرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-tsalj",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "❄️"
+          },
+          "answer": "ثَلْجٌ",
+          "options": [
+            "ثَلْجٌ",
+            "رِيحٌ",
+            "مَطَرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "gambar-rih",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "💨"
+          },
+          "answer": "رِيحٌ",
+          "options": [
+            "رِيحٌ",
+            "شَمْسٌ",
+            "سَماءٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-mizallah",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "مِظَلَّةٌ"
+          },
+          "answer": "payung",
+          "options": [
+            "payung",
+            "jaket",
+            "telepon"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "ghadan-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "غَدًا"
+          },
+          "answer": "besok",
+          "options": [
+            "besok",
+            "kemarin",
+            "hari ini"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "amsi-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "أَمْسِ"
+          },
+          "answer": "kemarin",
+          "options": [
+            "kemarin",
+            "besok",
+            "sekarang"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lawan-harr",
+          "instruction": "Lawan kata حارٌّ adalah …",
+          "prompt": {
+            "ar": "حارٌّ",
+            "emoji": "🥵"
+          },
+          "answer": "بارِدٌ",
+          "options": [
+            "بارِدٌ",
+            "جَمِيلٌ",
+            "قَرِيبٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-musim-hujan",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "فِي مَوْسِمِ الأَمْطارِ يَنْزِلُ … كَثِيرًا.",
+            "id": "Pada musim hujan, … banyak turun."
+          },
+          "answer": "المَطَرُ",
+          "options": [
+            "المَطَرُ",
+            "الثَّلْجُ",
+            "الشَّمْسُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-isyrun",
+          "instruction": "Dengarkan. Berapa suhunya?",
+          "prompt": {
+            "listen": "الحَرارَةُ عِشْرُونَ دَرَجَةً."
+          },
+          "answer": "20 derajat",
+          "options": [
+            "20 derajat",
+            "30 derajat",
+            "2 derajat"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "fayadhan-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "فَيَضانٌ"
+          },
+          "answer": "banjir",
+          "options": [
+            "banjir",
+            "hujan",
+            "pantai"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-gambar-ghaim",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "☁️"
+          },
+          "answer": "غَيْمٌ",
+          "options": [
+            "غَيْمٌ",
+            "ثَلْجٌ",
+            "شَمْسٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-gambar-mithaf",
+          "instruction": "Pilih kata yang cocok",
+          "prompt": {
+            "emoji": "🧥"
+          },
+          "answer": "مِعْطَفٌ",
+          "options": [
+            "مِعْطَفٌ",
+            "مِظَلَّةٌ",
+            "هاتِفٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-tsalatsun",
+          "instruction": "Dengarkan. Berapa suhunya?",
+          "prompt": {
+            "listen": "الحَرارَةُ ثَلاثُونَ دَرَجَةً."
+          },
+          "answer": "30 derajat",
+          "options": [
+            "30 derajat",
+            "20 derajat",
+            "3 derajat"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-syita-arti",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "الشِّتاءُ"
+          },
+          "answer": "musim dingin",
+          "options": [
+            "musim dingin",
+            "musim panas",
+            "musim hujan"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-sama",
+          "instruction": "Dengarkan. Apa artinya?",
+          "prompt": {
+            "listen": "سَماءٌ"
+          },
+          "answer": "langit",
+          "options": [
+            "langit",
+            "matahari",
+            "awan"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 5,
+      "skill": "Tarakib",
+      "title_id": "Pola kalimat",
+      "steps": [
+        {
+          "card": "grammar",
+          "section": "Bertanya cuaca dan memberi nasihat",
+          "groups": [
+            {
+              "title_ar": "كَيْفَ الجَوُّ؟",
+              "note_id": "Jawab dengan sifat cuaca, atau dengan kata kerja يَنْزِلُ (turun).",
+              "rows": [
+                {
+                  "ar": "كَيْفَ الجَوُّ اليَوْمَ؟",
+                  "id": "Bagaimana cuaca hari ini?"
+                },
+                {
+                  "ar": "الجَوُّ حارٌّ، وَالشَّمْسُ حارَّةٌ.",
+                  "id": "Cuacanya panas, mataharinya terik."
+                },
+                {
+                  "ar": "الجَوُّ بارِدٌ، وَيَنْزِلُ المَطَرُ.",
+                  "id": "Cuacanya dingin, dan hujan turun."
+                }
+              ]
+            },
+            {
+              "title_ar": "خُذْ · خُذِي · اِلْبَسْ · اِلْبَسِي",
+              "note_id": "Perintah untuk lk tanpa akhiran; untuk pr berakhiran ـِي. Sebelum ال, خُذْ dibaca خُذِ.",
+              "rows": [
+                {
+                  "ar": "خُذِ المِظَلَّةَ يا بُودِي!",
+                  "id": "Bawalah payung, Budi!"
+                },
+                {
+                  "ar": "خُذِي المِظَلَّةَ يا سِيتِي!",
+                  "id": "Bawalah payung, Siti!"
+                },
+                {
+                  "ar": "اِلْبَسْ مِعْطَفًا، الجَوُّ بارِدٌ.",
+                  "id": "Pakailah jaket (lk), cuacanya dingin."
+                },
+                {
+                  "ar": "اِلْبَسِي مِعْطَفًا.",
+                  "id": "Pakailah jaket. (pr)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Kata kerja lampau dan akhiran objek",
+          "groups": [
+            {
+              "title_ar": "ذَهَبَ · ذَهَبَتْ · ذَهَبْتَ · ذَهَبْتِ · ذَهَبْتُ",
+              "note_id": "Kata kerja lampau (madhi). Dia (lk) tanpa akhiran, dia (pr) ـَتْ, kamu (lk) ـْتَ, kamu (pr) ـْتِ, saya ـْتُ.",
+              "rows": [
+                {
+                  "ar": "نَزَلَ المَطَرُ أَمْسِ.",
+                  "id": "Kemarin hujan turun."
+                },
+                {
+                  "ar": "ذَهَبَتْ عائِشَةُ إِلَى المَكْتَبَةِ.",
+                  "id": "Aisyah pergi ke perpustakaan."
+                },
+                {
+                  "ar": "هَلْ ذَهَبْتَ إِلَى الشّاطِئِ؟",
+                  "id": "Apakah kamu (lk) pergi ke pantai?"
+                },
+                {
+                  "ar": "رَجَعْتُ مِنَ المَدْرَسَةِ.",
+                  "id": "Saya pulang dari sekolah."
+                }
+              ]
+            },
+            {
+              "title_ar": "تَرَكْتُهُ · تَرَكْتُها",
+              "note_id": "Objek boleh berupa akhiran: ـهُ untuk benda lk (هاتِفٌ), ـها untuk benda pr (مِظَلَّةٌ), ـكَ/ـكِ untuk kamu.",
+              "rows": [
+                {
+                  "ar": "تَرَكْتُ الهاتِفَ فِي الغُرْفَةِ ← تَرَكْتُهُ فِي الغُرْفَةِ.",
+                  "id": "Saya meninggalkan HP di kamar → saya meninggalkannya di kamar."
+                },
+                {
+                  "ar": "تَرَكْتُ المِظَلَّةَ فِي البَيْتِ ← تَرَكْتُها فِي البَيْتِ.",
+                  "id": "Saya meninggalkan payung di rumah → saya meninggalkannya di rumah."
+                },
+                {
+                  "ar": "سَآخُذُكِ بِالسَّيّارَةِ.",
+                  "id": "Saya akan menjemputmu (pr) dengan mobil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "card": "grammar",
+          "section": "Kata keterangan tempat",
+          "groups": [
+            {
+              "title_ar": "فَوْقَ · تَحْتَ · أَمامَ · خَلْفَ",
+              "note_id": "Kata sesudahnya berakhiran -i: فَوْقَ المَكْتَبِ. Untuk kanan dan kiri pakai عَلَى اليَمِينِ / عَلَى اليَسارِ.",
+              "rows": [
+                {
+                  "ar": "الهاتِفُ فَوْقَ المَكْتَبِ.",
+                  "id": "HP di atas meja."
+                },
+                {
+                  "ar": "المِظَلَّةُ تَحْتَ السَّرِيرِ.",
+                  "id": "Payung di bawah tempat tidur."
+                },
+                {
+                  "ar": "الحافِلَةُ أَمامَ المَعْهَدِ.",
+                  "id": "Bus di depan ma'had."
+                },
+                {
+                  "ar": "المَطْبَخُ خَلْفَ البَيْتِ.",
+                  "id": "Dapur di belakang rumah."
+                },
+                {
+                  "ar": "المَكْتَبَةُ عَلَى اليَمِينِ، وَالمَسْجِدُ عَلَى اليَسارِ.",
+                  "id": "Perpustakaan di kanan, dan masjid di kiri."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "pilih-khudz-lk",
+          "instruction": "Kamu menasihati Budi. Pilih kalimatnya",
+          "prompt": {
+            "id": "Bawalah payung, Budi!",
+            "emoji": "☂️"
+          },
+          "answer": "خُذِ المِظَلَّةَ يا بُودِي!",
+          "options": [
+            "خُذِ المِظَلَّةَ يا بُودِي!",
+            "خُذِي المِظَلَّةَ يا بُودِي!",
+            "أَخَذْتُ المِظَلَّةَ يا بُودِي!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "pilih-ilbasi",
+          "instruction": "Kamu menasihati Aisyah. Pilih kalimatnya",
+          "prompt": {
+            "id": "Pakailah jaket! (kepada pr)",
+            "emoji": "🧥"
+          },
+          "answer": "اِلْبَسِي مِعْطَفًا!",
+          "options": [
+            "اِلْبَسِي مِعْطَفًا!",
+            "اِلْبَسْ مِعْطَفًا!",
+            "خُذْ مِعْطَفًا!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-dzahabat",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "… سِيتِي إِلَى السُّوقِ أَمْسِ.",
+            "id": "Kemarin Siti pergi ke pasar."
+          },
+          "answer": "ذَهَبَتْ",
+          "options": [
+            "ذَهَبَتْ",
+            "ذَهَبَ",
+            "ذَهَبْتُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-nazala",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "أَمْسِ … المَطَرُ.",
+            "id": "Kemarin hujan turun."
+          },
+          "answer": "نَزَلَ",
+          "options": [
+            "نَزَلَ",
+            "سَيَنْزِلُ",
+            "نَزَلَتْ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-taraktuhu",
+          "instruction": "Ganti bendanya dengan akhiran",
+          "prompt": {
+            "ar": "تَرَكْتُ الهاتِفَ فِي الغُرْفَةِ ← … فِي الغُرْفَةِ.",
+            "id": "Saya meninggalkan HP di kamar → Saya meninggalkannya di kamar."
+          },
+          "answer": "تَرَكْتُهُ",
+          "options": [
+            "تَرَكْتُهُ",
+            "تَرَكْتُها",
+            "تَرَكْتِ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-taraktuha",
+          "instruction": "Ganti bendanya dengan akhiran",
+          "prompt": {
+            "ar": "تَرَكْتُ المِظَلَّةَ فِي البَيْتِ ← … فِي البَيْتِ.",
+            "id": "Saya meninggalkan payung di rumah → Saya meninggalkannya di rumah."
+          },
+          "answer": "تَرَكْتُها",
+          "options": [
+            "تَرَكْتُها",
+            "تَرَكْتُهُ",
+            "تَرَكَتْ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "pilih-tahta",
+          "instruction": "Pilih kalimat yang benar",
+          "prompt": {
+            "id": "Payung di bawah tempat tidur.",
+            "emoji": "🛏️"
+          },
+          "answer": "المِظَلَّةُ تَحْتَ السَّرِيرِ.",
+          "options": [
+            "المِظَلَّةُ تَحْتَ السَّرِيرِ.",
+            "المِظَلَّةُ فَوْقَ السَّرِيرِ.",
+            "المِظَلَّةُ خَلْفَ السَّرِيرِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lengkapi-fauqa",
+          "instruction": "Lengkapi kalimatnya",
+          "prompt": {
+            "ar": "الهاتِفُ … المَكْتَبِ.",
+            "id": "HP di atas meja."
+          },
+          "answer": "فَوْقَ",
+          "options": [
+            "فَوْقَ",
+            "تَحْتَ",
+            "أَمامَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "susun-amama",
+          "prompt": {
+            "id": "Bus di depan ma'had."
+          },
+          "answer": "الحافِلَةُ أَمامَ المَعْهَدِ",
+          "extra": [
+            "خَلْفَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "susun-dzahabtu",
+          "prompt": {
+            "id": "Saya pergi ke pantai."
+          },
+          "answer": "ذَهَبْتُ إِلَى الشّاطِئِ",
+          "extra": [
+            "ذَهَبَتْ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-jawab-kaifa",
+          "instruction": "Lihat gambarnya. Jawab: كَيْفَ الجَوُّ اليَوْمَ؟",
+          "prompt": {
+            "ar": "كَيْفَ الجَوُّ اليَوْمَ؟",
+            "emoji": "🌧️"
+          },
+          "answer": "يَنْزِلُ المَطَرُ.",
+          "options": [
+            "يَنْزِلُ المَطَرُ.",
+            "الشَّمْسُ حارَّةٌ.",
+            "يَنْزِلُ الثَّلْجُ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-khalfa",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "المَطْبَخُ خَلْفَ البَيْتِ."
+          },
+          "answer": "Dapur di belakang rumah.",
+          "options": [
+            "Dapur di belakang rumah.",
+            "Dapur di depan rumah.",
+            "Dapur di samping rumah."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dzahabti",
+          "instruction": "Kamu bertanya kepada Siti. Pilih kalimatnya",
+          "prompt": {
+            "id": "Apakah kamu pergi ke pantai? (pr)",
+            "emoji": "🏖️"
+          },
+          "answer": "هَلْ ذَهَبْتِ إِلَى الشّاطِئِ؟",
+          "options": [
+            "هَلْ ذَهَبْتِ إِلَى الشّاطِئِ؟",
+            "هَلْ ذَهَبْتَ إِلَى الشّاطِئِ؟",
+            "هَلْ ذَهَبَتْ إِلَى الشّاطِئِ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-susun-taraktuhu",
+          "prompt": {
+            "id": "Saya meninggalkannya (HP) di kamar."
+          },
+          "answer": "تَرَكْتُهُ فِي الغُرْفَةِ",
+          "extra": [
+            "تَرَكْتُها"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-yamin",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "المَسْجِدُ عَلَى اليَسارِ."
+          },
+          "answer": "Masjid di sebelah kiri.",
+          "options": [
+            "Masjid di sebelah kiri.",
+            "Masjid di sebelah kanan.",
+            "Masjid di belakang."
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 6,
+      "skill": "Ashwat",
+      "title_id": "Bunyi ط dan ت, menyimak",
+      "steps": [
+        {
+          "card": "sounds",
+          "section": "Bunyi ط dan ت",
+          "note_id": "ت (ta) seperti \"t\" Indonesia, ringan. ط (tha) lebih tebal: pangkal lidah naik ke belakang, rongga mulut terasa penuh, dan vokal sesudahnya terdengar agak \"o\". Pasangan kata: طِينٌ lumpur / تِينٌ buah tin; طابَ menjadi baik / تابَ bertobat; طَلٌّ embun / تَلٌّ bukit; سَطْرٌ baris / سَتْرٌ penutup.",
+          "pairs": [
+            [
+              "طَ",
+              "تَ"
+            ],
+            [
+              "طُ",
+              "تُ"
+            ],
+            [
+              "طِ",
+              "تِ"
+            ],
+            [
+              "طِينٌ",
+              "تِينٌ"
+            ],
+            [
+              "طابَ",
+              "تابَ"
+            ],
+            [
+              "طَلٌّ",
+              "تَلٌّ"
+            ],
+            [
+              "سَطْرٌ",
+              "سَتْرٌ"
+            ]
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "dengar-tin",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "تِينٌ"
+          },
+          "answer": "تِينٌ",
+          "options": [
+            "تِينٌ",
+            "طِينٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-thaba",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "طابَ"
+          },
+          "answer": "طابَ",
+          "options": [
+            "طابَ",
+            "تابَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-tall",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "تَلٌّ"
+          },
+          "answer": "تَلٌّ",
+          "options": [
+            "تَلٌّ",
+            "طَلٌّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "dengar-sathr",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سَطْرٌ"
+          },
+          "answer": "سَطْرٌ",
+          "options": [
+            "سَطْرٌ",
+            "سَتْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "cari-tha",
+          "instruction": "Kata mana yang mengandung huruf ط?",
+          "prompt": {
+            "id": "Cari huruf tha (ط)"
+          },
+          "answer": "مَطَرٌ",
+          "options": [
+            "مَطَرٌ",
+            "تَحْتَ",
+            "بَيْتٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-yanzilu-mathar",
+          "ar": "يَنْزِلُ المَطَرُ.",
+          "id": "Hujan turun."
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-tahta-mizallah",
+          "ar": "تَحْتَ المِظَلَّةِ.",
+          "id": "Di bawah payung."
+        },
+        {
+          "q": "choice",
+          "k": "simak-bandung",
+          "instruction": "Dengarkan. Bagaimana cuaca di Bandung?",
+          "prompt": {
+            "listen": "الجَوُّ فِي بانْدُونْغ بارِدٌ، وَالمَطَرُ يَنْزِلُ."
+          },
+          "answer": "Dingin dan hujan",
+          "options": [
+            "Dingin dan hujan",
+            "Panas dan cerah",
+            "Berangin dan bersalju"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "simak-mizallah",
+          "instruction": "Dengarkan. Di mana payungnya?",
+          "prompt": {
+            "listen": "المِظَلَّةُ خَلْفَ البابِ."
+          },
+          "answer": "Di belakang pintu",
+          "options": [
+            "Di belakang pintu",
+            "Di bawah pintu",
+            "Di depan pintu"
+          ],
+          "lang": "id"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-dengar-thin",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "طِينٌ"
+          },
+          "answer": "طِينٌ",
+          "options": [
+            "طِينٌ",
+            "تِينٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-taba",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "تابَ"
+          },
+          "answer": "تابَ",
+          "options": [
+            "تابَ",
+            "طابَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-thall",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "طَلٌّ"
+          },
+          "answer": "طَلٌّ",
+          "options": [
+            "طَلٌّ",
+            "تَلٌّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-dengar-satr",
+          "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+          "prompt": {
+            "listen": "سَتْرٌ"
+          },
+          "answer": "سَتْرٌ",
+          "options": [
+            "سَتْرٌ",
+            "سَطْرٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-simak-yogya",
+          "instruction": "Dengarkan. Berapa suhu di Yogyakarta?",
+          "prompt": {
+            "listen": "الحَرارَةُ فِي يُوغْياكَرْتا ثَلاثُونَ دَرَجَةً."
+          },
+          "answer": "30 derajat",
+          "options": [
+            "30 derajat",
+            "20 derajat",
+            "13 derajat"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 7,
+      "skill": "Kalam",
+      "title_id": "Berbicara",
+      "steps": [
+        {
+          "card": "vocab",
+          "section": "Ungkapan berguna",
+          "rows": [
+            {
+              "ar": "كَيْفَ الجَوُّ عِنْدَكُمْ؟",
+              "id": "Bagaimana cuaca di tempat kalian?",
+              "emoji": "🌦️"
+            },
+            {
+              "ar": "الجَوُّ عِنْدَنا حارٌّ.",
+              "id": "Cuaca di tempat kami panas.",
+              "emoji": "🥵"
+            },
+            {
+              "ar": "خُذِ المِظَلَّةَ مَعَكَ.",
+              "id": "Bawalah payung bersamamu. (lk)",
+              "emoji": "☂️"
+            },
+            {
+              "ar": "هَيّا إِلَى …!",
+              "id": "Ayo ke …!",
+              "emoji": "👉"
+            },
+            {
+              "ar": "فِكْرَةٌ جَمِيلَةٌ!",
+              "id": "Ide bagus!",
+              "emoji": "👍"
+            },
+            {
+              "ar": "بارَكَ اللّٰهُ فِيكِ.",
+              "id": "Semoga Allah memberkahimu. (pr)",
+              "emoji": "🤲"
+            }
+          ]
+        },
+        {
+          "q": "speak",
+          "k": "cuaca-kotamu",
+          "instruction": "Bagaimana cuaca di kotamu hari ini?",
+          "prompt": {
+            "ar": "كَيْفَ الجَوُّ اليَوْمَ؟",
+            "id": "Sebut kotamu, cuacanya, dan suhunya bila tahu."
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "الجَوُّ فِي يُوغْياكَرْتا حارٌّ اليَوْمَ.",
+              "id": "Cuaca di Yogyakarta panas hari ini."
+            },
+            {
+              "who": "rizki",
+              "ar": "الحَرارَةُ ثَلاثُونَ دَرَجَةً.",
+              "id": "Suhunya tiga puluh derajat."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-kaifa-jaww-yaum",
+          "who": "rizki",
+          "ar": "كَيْفَ الجَوُّ اليَوْمَ؟",
+          "id": "Bagaimana cuaca hari ini?"
+        },
+        {
+          "q": "choice",
+          "k": "nasihat-budi",
+          "instruction": "Budi mau keluar, padahal hujan turun. Kamu berkata …",
+          "prompt": {
+            "id": "Hujan turun dan Budi mau keluar.",
+            "emoji": "🌧️"
+          },
+          "answer": "خُذِ المِظَلَّةَ يا بُودِي!",
+          "options": [
+            "خُذِ المِظَلَّةَ يا بُودِي!",
+            "اِلْبَسْ قَمِيصًا يا بُودِي!",
+            "هَيّا إِلَى الشّاطِئِ يا بُودِي!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-khudzi",
+          "who": "pak_ahmad",
+          "ar": "خُذِي المِظَلَّةَ!",
+          "id": "Bawalah payung! (kepada pr)"
+        },
+        {
+          "q": "choice",
+          "k": "setuju-usul",
+          "instruction": "Aisyah berkata هَيّا إِلَى المَكْتَبَةِ! Kamu setuju. Kamu menjawab …",
+          "prompt": {
+            "ar": "هَيّا إِلَى المَكْتَبَةِ!",
+            "emoji": "📚"
+          },
+          "answer": "فِكْرَةٌ جَمِيلَةٌ!",
+          "options": [
+            "فِكْرَةٌ جَمِيلَةٌ!",
+            "لا بَأْسَ، أَنا آسِفَةٌ.",
+            "الجَوُّ بارِدٌ جِدًّا."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "usul-rencana",
+          "instruction": "Usulkan rencana akhir pekan kepada temanmu, lalu tiru jawaban setujunya",
+          "prompt": {
+            "id": "Pakai هَيّا إِلَى … dan sebut waktunya."
+          },
+          "model": [
+            {
+              "who": "siti",
+              "ar": "هَيّا إِلَى السُّوقِ يَوْمَ السَّبْتِ!",
+              "id": "Ayo ke pasar hari Sabtu!"
+            },
+            {
+              "who": "aisyah",
+              "ar": "فِكْرَةٌ جَمِيلَةٌ! مَتَى نَذْهَبُ؟",
+              "id": "Ide bagus! Kapan kita berangkat?"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "doa-teman-pr",
+          "instruction": "Aisyah meminjamkan payungnya kepadamu. Kamu mendoakannya …",
+          "prompt": {
+            "id": "Semoga Allah memberkahimu. (pr)",
+            "emoji": "🤲"
+          },
+          "answer": "بارَكَ اللّٰهُ فِيكِ.",
+          "options": [
+            "بارَكَ اللّٰهُ فِيكِ.",
+            "بارَكَ اللّٰهُ فِيكَ.",
+            "إِلَى اللِّقاءِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "speak",
+          "k": "telepon-keluarga",
+          "instruction": "Telepon keluargamu dan tanyakan cuaca di sana",
+          "prompt": {
+            "id": "Mulai dengan salam, lalu tanya كَيْفَ الجَوُّ عِنْدَكُمْ؟"
+          },
+          "model": [
+            {
+              "who": "rizki",
+              "ar": "يا أَبِي، كَيْفَ الجَوُّ عِنْدَكُمْ فِي بانْدُونْغ؟",
+              "id": "Ayah, bagaimana cuaca di tempat kalian di Bandung?"
+            },
+            {
+              "who": "pak_ahmad",
+              "ar": "الجَوُّ بارِدٌ، وَنَزَلَ المَطَرُ أَمْسِ.",
+              "id": "Cuacanya dingin, dan kemarin hujan turun."
+            }
+          ]
+        },
+        {
+          "q": "repeat",
+          "k": "ucap-barakallah-fiki",
+          "who": "aisyah",
+          "ar": "بارَكَ اللّٰهُ فِيكِ.",
+          "id": "Semoga Allah memberkahimu. (pr)"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-tanya-cuaca",
+          "instruction": "Kamu ingin tahu cuaca di Istanbul. Kamu bertanya kepada Yusuf …",
+          "prompt": {
+            "id": "Bagaimana cuaca di tempat kalian?",
+            "emoji": "📞"
+          },
+          "answer": "كَيْفَ الجَوُّ عِنْدَكُمْ؟",
+          "options": [
+            "كَيْفَ الجَوُّ عِنْدَكُمْ؟",
+            "كَيْفَ حالُكَ؟",
+            "أَيْنَ أَنْتُمْ؟"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-nasihat-dingin",
+          "instruction": "Cuaca sangat dingin dan Siti mau keluar. Kamu berkata …",
+          "prompt": {
+            "id": "Pakailah jaket! (kepada pr)",
+            "emoji": "🧥"
+          },
+          "answer": "اِلْبَسِي مِعْطَفًا!",
+          "options": [
+            "اِلْبَسِي مِعْطَفًا!",
+            "اِلْبَسْ مِعْطَفًا!",
+            "خُذِي الهاتِفَ!"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-balas-barakallah-lk",
+          "instruction": "Budi berkata kepadamu: بارَكَ اللّٰهُ فِيكَ. Kamu menjawab …",
+          "prompt": {
+            "ar": "بارَكَ اللّٰهُ فِيكَ."
+          },
+          "answer": "وَفِيكَ بارَكَ اللّٰهُ.",
+          "options": [
+            "وَفِيكَ بارَكَ اللّٰهُ.",
+            "وَعَلَيْكُمُ السَّلامُ.",
+            "صَباحَ النُّورِ."
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-jawab-cuaca-panas",
+          "instruction": "Pilih jawaban yang tepat",
+          "prompt": {
+            "ar": "كَيْفَ الجَوُّ عِنْدَكُمْ؟",
+            "emoji": "☀️"
+          },
+          "answer": "الجَوُّ عِنْدَنا حارٌّ.",
+          "options": [
+            "الجَوُّ عِنْدَنا حارٌّ.",
+            "أَنا مِنْ سُورابايا.",
+            "فِكْرَةٌ جَمِيلَةٌ!"
+          ],
+          "lang": "ar"
+        }
+      ]
+    },
+    {
+      "dars": 8,
+      "skill": "Qira'ah",
+      "title_id": "Membaca",
+      "steps": [
+        {
+          "card": "reading",
+          "section": "Bacaan 1: Musim di Indonesia dan Turki",
+          "instruction_id": "Baca paragraf ini pelan-pelan. Kata baru: أَحْيانًا = kadang-kadang; يَكُونُ = ada, terjadi; تُرْكِيا = Turki; أَرْبَعَةُ مَواسِمَ = empat musim.",
+          "rows": [
+            {
+              "ar": "فِي إِنْدُونِيسِيا مَوْسِمُ الأَمْطارِ وَمَوْسِمُ الجَفافِ.",
+              "id": "Di Indonesia ada musim hujan dan musim kemarau.",
+              "emoji": "🇮🇩"
+            },
+            {
+              "ar": "فِي مَوْسِمِ الأَمْطارِ يَنْزِلُ المَطَرُ كَثِيرًا.",
+              "id": "Pada musim hujan, hujan banyak turun.",
+              "emoji": "🌧️"
+            },
+            {
+              "ar": "وَأَحْيانًا يَكُونُ فَيَضانٌ فِي جاكَرْتا.",
+              "id": "Kadang-kadang terjadi banjir di Jakarta."
+            },
+            {
+              "ar": "وَفِي مَوْسِمِ الجَفافِ الشَّمْسُ حارَّةٌ، وَلا يَنْزِلُ المَطَرُ.",
+              "id": "Pada musim kemarau, mataharinya terik dan hujan tidak turun.",
+              "emoji": "☀️"
+            },
+            {
+              "ar": "الحَرارَةُ فِي يُوغْياكَرْتا ثَلاثُونَ دَرَجَةً، وَفِي بانْدُونْغ عِشْرُونَ.",
+              "id": "Suhu di Yogyakarta tiga puluh derajat, dan di Bandung dua puluh.",
+              "emoji": "🌡️"
+            },
+            {
+              "ar": "وَفِي تُرْكِيا أَرْبَعَةُ مَواسِمَ.",
+              "id": "Di Turki ada empat musim."
+            },
+            {
+              "ar": "فِي الشِّتاءِ يَنْزِلُ الثَّلْجُ فِي إِسْطَنْبُول.",
+              "id": "Pada musim dingin, salju turun di Istanbul.",
+              "emoji": "❄️"
+            },
+            {
+              "ar": "يُوسُفُ مِنْ إِسْطَنْبُول، وَهُوَ يُحِبُّ الثَّلْجَ.",
+              "id": "Yusuf berasal dari Istanbul, dan dia suka salju."
+            }
+          ],
+          "img": "u10-baca-musim",
+          "scene": "A split illustration: on the left, heavy monsoon rain over rice fields and a flooded street in Java with people under umbrellas; on the right, a dry sunny day in Yogyakarta with a cracked dirt path; in a small corner panel, Yusuf in a winter coat smiles in a snowy Istanbul street."
+        },
+        {
+          "q": "choice",
+          "k": "baca-empat-musim",
+          "instruction": "Benar atau salah? \"Di Indonesia ada empat musim.\"",
+          "prompt": {
+            "ar": "فِي إِنْدُونِيسِيا أَرْبَعَةُ مَواسِمَ."
+          },
+          "answer": "Salah",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-banjir",
+          "instruction": "Menurut bacaan 1, apa yang kadang-kadang terjadi di Jakarta?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "🏙️"
+          },
+          "answer": "Banjir",
+          "options": [
+            "Banjir",
+            "Salju",
+            "Angin kencang"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-suhu-bandung",
+          "instruction": "Berapa suhu di Bandung?",
+          "prompt": {
+            "id": "Menurut bacaan 1",
+            "emoji": "🌡️"
+          },
+          "answer": "20 derajat",
+          "options": [
+            "20 derajat",
+            "30 derajat",
+            "40 derajat"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "baca-salju-istanbul",
+          "instruction": "Benar atau salah? \"Pada musim dingin, salju turun di Istanbul.\"",
+          "prompt": {
+            "ar": "فِي الشِّتاءِ يَنْزِلُ الثَّلْجُ فِي إِسْطَنْبُول."
+          },
+          "answer": "Benar",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "lang": "id"
+        },
+        {
+          "card": "reading",
+          "section": "Bacaan 2: Kartu prakiraan cuaca",
+          "title_ar": "الجَوُّ غَدًا",
+          "instruction_id": "Rizki membaca prakiraan cuaca untuk besok di aplikasi HP-nya.",
+          "rows": [
+            {
+              "ar": "جاكَرْتا: شَمْسٌ، ثَلاثُونَ دَرَجَةً.",
+              "id": "Jakarta: cerah, tiga puluh derajat."
+            },
+            {
+              "ar": "يُوغْياكَرْتا: غَيْمٌ وَرِيحٌ، ثَلاثُونَ دَرَجَةً.",
+              "id": "Yogyakarta: berawan dan berangin, tiga puluh derajat."
+            },
+            {
+              "ar": "بانْدُونْغ: مَطَرٌ، عِشْرُونَ دَرَجَةً.",
+              "id": "Bandung: hujan, dua puluh derajat."
+            },
+            {
+              "ar": "إِسْطَنْبُول: ثَلْجٌ، الجَوُّ بارِدٌ جِدًّا.",
+              "id": "Istanbul: salju, cuacanya dingin sekali."
+            }
+          ],
+          "img": "u10-baca-prakiraan",
+          "scene": "Rizki sitting on a dormitory bench in Yogyakarta, looking at a weather app on his smartphone; the screen shows only large weather icons (sun, cloud with wind, rain cloud, snowflake) without any text; Budi peeks over his shoulder."
+        },
+        {
+          "q": "choice",
+          "k": "kartu-hujan",
+          "instruction": "Menurut kartu, di kota mana besok hujan?",
+          "prompt": {
+            "emoji": "🌧️",
+            "id": "Menurut bacaan 2"
+          },
+          "answer": "Bandung",
+          "options": [
+            "Bandung",
+            "Jakarta",
+            "Yogyakarta"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-jakarta",
+          "instruction": "Bagaimana cuaca Jakarta besok?",
+          "prompt": {
+            "ar": "جاكَرْتا: …"
+          },
+          "answer": "Cerah, 30 derajat",
+          "options": [
+            "Cerah, 30 derajat",
+            "Hujan, 20 derajat",
+            "Berawan, 20 derajat"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-angin",
+          "instruction": "Menurut kartu, di kota mana besok berangin?",
+          "prompt": {
+            "emoji": "💨",
+            "id": "Menurut bacaan 2"
+          },
+          "answer": "Yogyakarta",
+          "options": [
+            "Yogyakarta",
+            "Bandung",
+            "Istanbul"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "kartu-nasihat-bandung",
+          "instruction": "Rizki besok ke Bandung. Nasihat yang paling tepat untuknya?",
+          "prompt": {
+            "ar": "بانْدُونْغ: مَطَرٌ.",
+            "emoji": "🎒"
+          },
+          "answer": "خُذِ المِظَلَّةَ!",
+          "options": [
+            "خُذِ المِظَلَّةَ!",
+            "هَيّا إِلَى الشّاطِئِ!",
+            "لا تَأْكُلْ!"
+          ],
+          "lang": "ar"
+        }
+      ],
+      "practice": [
+        {
+          "q": "choice",
+          "k": "lat-baca-yusuf-suka",
+          "instruction": "Menurut bacaan 1, Yusuf suka apa?",
+          "prompt": {
+            "ar": "يُوسُفُ يُحِبُّ …"
+          },
+          "answer": "Salju",
+          "options": [
+            "Salju",
+            "Hujan",
+            "Matahari"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-kemarau",
+          "instruction": "Apa artinya?",
+          "prompt": {
+            "ar": "فِي مَوْسِمِ الجَفافِ لا يَنْزِلُ المَطَرُ."
+          },
+          "answer": "Pada musim kemarau hujan tidak turun.",
+          "options": [
+            "Pada musim kemarau hujan tidak turun.",
+            "Pada musim hujan hujan banyak turun.",
+            "Pada musim kemarau salju turun."
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-kartu-istanbul",
+          "instruction": "Menurut kartu, bagaimana cuaca Istanbul besok?",
+          "prompt": {
+            "ar": "إِسْطَنْبُول: …"
+          },
+          "answer": "Salju, dingin sekali",
+          "options": [
+            "Salju, dingin sekali",
+            "Hujan, dua puluh derajat",
+            "Cerah, tiga puluh derajat"
+          ],
+          "lang": "id"
+        },
+        {
+          "q": "choice",
+          "k": "lat-baca-suhu-yogya",
+          "instruction": "Berapa suhu di Yogyakarta?",
+          "prompt": {
+            "id": "Menurut bacaan 1"
+          },
+          "answer": "30 derajat",
+          "options": [
+            "30 derajat",
+            "20 derajat",
+            "3 derajat"
+          ],
+          "lang": "id"
+        }
+      ]
+    },
+    {
+      "dars": 9,
+      "skill": "Kitabah",
+      "title_id": "Isian kata dan menyusun kalimat",
+      "steps": [
+        {
+          "card": "writing",
+          "section": "Kata cuaca",
+          "instruction_id": "Perhatikan huruf ط dan ت, ظ dan ض. Salin tiap kata dengan harakatnya.",
+          "rows": [
+            {
+              "ar": "مَطَرٌ",
+              "id": "م + ط + ر → hujan"
+            },
+            {
+              "ar": "شَمْسٌ",
+              "id": "ش + م + س → matahari"
+            },
+            {
+              "ar": "ثَلْجٌ",
+              "id": "ث + ل + ج → salju"
+            },
+            {
+              "ar": "مِظَلَّةٌ",
+              "id": "م + ظ + ل + ة → payung"
+            }
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tulis-mathar",
+          "instruction": "Mana tulisan \"hujan\" yang benar?",
+          "prompt": {
+            "id": "hujan",
+            "emoji": "🌧️"
+          },
+          "answer": "مَطَرٌ",
+          "options": [
+            "مَطَرٌ",
+            "مَتَرٌ",
+            "مَطَلٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "eja-mathar",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "مَطَرٌ (hujan)"
+          },
+          "answer": "م ط ر",
+          "extra": [
+            "ت"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "eja-syams",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "شَمْسٌ (matahari)"
+          },
+          "answer": "ش م س",
+          "extra": [
+            "ص"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "tulis-mizallah",
+          "instruction": "Mana tulisan \"payung\" yang benar?",
+          "prompt": {
+            "id": "payung",
+            "emoji": "☂️"
+          },
+          "answer": "مِظَلَّةٌ",
+          "options": [
+            "مِظَلَّةٌ",
+            "مِزَلَّةٌ",
+            "مِضَلَّةٌ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isian-mathar",
+          "instruction": "Isi bagian yang kosong",
+          "prompt": {
+            "ar": "يَنْزِلُ … ، خُذِ المِظَلَّةَ!",
+            "id": "Hujan turun, bawalah payung!"
+          },
+          "answer": "المَطَرُ",
+          "options": [
+            "المَطَرُ",
+            "الشَّمْسُ",
+            "الحَرارَةُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "isian-ilbas",
+          "instruction": "Isi bagian yang kosong",
+          "prompt": {
+            "ar": "الجَوُّ بارِدٌ، … مِعْطَفًا يا رِزْقِي!",
+            "id": "Cuacanya dingin, pakailah jaket, Rizki!"
+          },
+          "answer": "اِلْبَسْ",
+          "options": [
+            "اِلْبَسْ",
+            "اِلْبَسِي",
+            "يَلْبَسُ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "card": "writing",
+          "section": "Kalimat",
+          "instruction_id": "Salin kalimat ini lengkap dengan harakatnya.",
+          "rows": [
+            {
+              "ar": "يَنْزِلُ المَطَرُ اليَوْمَ.",
+              "id": "Hujan turun hari ini."
+            },
+            {
+              "ar": "خُذِ المِظَلَّةَ مَعَكَ.",
+              "id": "Bawalah payung bersamamu. (lk)"
+            }
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-harr-yogya",
+          "prompt": {
+            "id": "Cuaca di Yogyakarta panas."
+          },
+          "answer": "الجَوُّ حارٌّ فِي يُوغْياكَرْتا",
+          "extra": [
+            "بارِدٌ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-taraktu-hatif",
+          "prompt": {
+            "id": "Saya meninggalkan HP di kamar."
+          },
+          "answer": "تَرَكْتُ الهاتِفَ فِي الغُرْفَةِ",
+          "extra": [
+            "تَحْتَ"
+          ]
+        },
+        {
+          "q": "arrange",
+          "k": "kalimat-nazala-tsalj",
+          "prompt": {
+            "id": "Salju turun di Istanbul."
+          },
+          "answer": "نَزَلَ الثَّلْجُ فِي إِسْطَنْبُول",
+          "extra": [
+            "المَطَرُ"
+          ]
+        }
+      ],
+      "practice": [
+        {
+          "q": "arrange",
+          "k": "lat-eja-tsalj",
+          "instruction": "Susun hurufnya",
+          "prompt": {
+            "id": "ثَلْجٌ (salju)"
+          },
+          "answer": "ث ل ج",
+          "extra": [
+            "س"
+          ]
+        },
+        {
+          "q": "choice",
+          "k": "lat-tulis-harr",
+          "instruction": "Mana tulisan \"panas\" yang benar?",
+          "prompt": {
+            "id": "panas",
+            "emoji": "🥵"
+          },
+          "answer": "حارٌّ",
+          "options": [
+            "حارٌّ",
+            "هارٌّ",
+            "خارٌّ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "choice",
+          "k": "lat-isian-fauqa",
+          "instruction": "Isi bagian yang kosong",
+          "prompt": {
+            "ar": "الشَّمْسُ فِي السَّماءِ، … البَيْتِ.",
+            "id": "Matahari di langit, di atas rumah."
+          },
+          "answer": "فَوْقَ",
+          "options": [
+            "فَوْقَ",
+            "تَحْتَ",
+            "خَلْفَ"
+          ],
+          "lang": "ar"
+        },
+        {
+          "q": "arrange",
+          "k": "lat-kalimat-mathar-yaum",
+          "prompt": {
+            "id": "Hujan turun."
+          },
+          "answer": "يَنْزِلُ المَطَرُ",
+          "extra": [
+            "الشَّمْسُ"
+          ]
+        }
+      ]
+    }
+  ]
+}

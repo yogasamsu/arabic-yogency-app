@@ -1,0 +1,4481 @@
+{
+ "id": "j1u9",
+ "book": "1b",
+ "number": 9,
+ "title_ar": "التَّسَوُّقُ",
+ "title_id": "Berbelanja",
+ "lessons": [
+  {
+   "id": "j1u9-d1",
+   "dars": 1,
+   "title_id": "Di koperasi ma'had",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "أَهْلًا يا بُودِي، تَفَضَّلْ!",
+        "id": "Halo, Budi, silakan!",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/ac79f14695d35dbc.mp3"
+        }
+       },
+       {
+        "ar": "لَوْ سَمَحْتَ، هَلْ عِنْدَكُمْ مُعْجَمٌ؟",
+        "id": "Permisi, apakah ada kamus? (kepada lk)",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/e1c2d266f66890fd.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ، عِنْدَنا مُعْجَمٌ كَبِيرٌ وَمُعْجَمٌ صَغِيرٌ.",
+        "id": "Ada. Kami punya kamus besar dan kamus kecil.",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/9bb45668212f3599.mp3"
+        }
+       },
+       {
+        "ar": "بِكَمِ المُعْجَمُ الكَبِيرُ؟",
+        "id": "Kamus yang besar berapa?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/e6afc93e9e822e44.mp3"
+        }
+       },
+       {
+        "ar": "بِتِسْعِينَ، وَالصَّغِيرُ بِخَمْسِينَ.",
+        "id": "Sembilan puluh (ribu), yang kecil lima puluh.",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/40dd3b1ac79ec783.mp3"
+        }
+       },
+       {
+        "ar": "الكَبِيرُ غالٍ! أُرِيدُ الصَّغِيرَ وَدَفْتَرًا.",
+        "id": "Yang besar mahal! Saya mau yang kecil dan buku tulis.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/6e3de49fe376dfbc.mp3"
+        }
+       },
+       {
+        "ar": "أَيَّ دَفْتَرٍ تُرِيدُ؟ عِنْدَنا الأَحْمَرُ وَالأَزْرَقُ.",
+        "id": "Buku tulis yang mana? Ada yang merah dan yang biru.",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/52838c38c0d28555.mp3"
+        }
+       },
+       {
+        "ar": "الأَزْرَقَ، مِنْ فَضْلِكَ. بِكَمْ هُوَ؟",
+        "id": "Yang biru, tolong. Berapa harganya?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/224362ef9cc77340.mp3"
+        }
+       },
+       {
+        "ar": "بِعِشْرِينَ. الثَّمَنُ كُلُّهُ سَبْعُونَ.",
+        "id": "Dua puluh. Semuanya tujuh puluh (ribu).",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/592820af02680018.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u9-koperasi.webp"
+      ],
+      "instruction_id": "Koperasi pelajar di samping ma'had dijaga para pelajar secara bergiliran. Hari ini giliran Yusuf. Budi datang untuk membeli kamus dan buku tulis. Harga disebut tanpa kata \"ribu\", seperti kebiasaan di pasar."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "لَوْ سَمَحْتَ",
+        "id": "tolong / permisi (kepada lk)",
+        "emoji": "🙏",
+        "audio": {
+         "src": "/audio/o/f25f6fc2333b4c36.mp3"
+        }
+       },
+       {
+        "ar": "مُعْجَمٌ",
+        "id": "kamus",
+        "emoji": "📖",
+        "audio": {
+         "src": "/audio/o/5f1fc0f53ceeb14c.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ عِنْدَكُمْ …؟",
+        "id": "apakah ada …? (di toko)",
+        "emoji": "🔎",
+        "audio": {
+         "src": "/audio/o/82a881f7e4877fe2.mp3"
+        }
+       },
+       {
+        "ar": "أَيَّ …؟",
+        "id": "… yang mana?",
+        "emoji": "🤔",
+        "audio": {
+         "src": "/audio/o/ca74b3d35057e2c1.mp3"
+        }
+       },
+       {
+        "ar": "بِكَمْ؟",
+        "id": "berapa harganya?",
+        "emoji": "🏷️",
+        "audio": {
+         "src": "/audio/o/50502951b772ffa3.mp3"
+        }
+       },
+       {
+        "ar": "ثَمَنٌ",
+        "id": "harga",
+        "emoji": "💰",
+        "audio": {
+         "src": "/audio/o/6a7ccd1e3de45071.mp3"
+        }
+       },
+       {
+        "ar": "غالٍ",
+        "id": "mahal",
+        "emoji": "💸",
+        "audio": {
+         "src": "/audio/o/0cf3deb8cbcd180e.mp3"
+        }
+       },
+       {
+        "ar": "كَبِيرٌ",
+        "id": "besar",
+        "emoji": "🐘",
+        "audio": {
+         "src": "/audio/o/baa09bcf592f0c5a.mp3"
+        }
+       },
+       {
+        "ar": "صَغِيرٌ",
+        "id": "kecil",
+        "emoji": "🐭",
+        "audio": {
+         "src": "/audio/o/e0f490aaa8f1e871.mp3"
+        }
+       },
+       {
+        "ar": "أَحْمَرُ",
+        "id": "merah",
+        "emoji": "🔴",
+        "audio": {
+         "src": "/audio/o/9f53ced3fef70f35.mp3"
+        }
+       },
+       {
+        "ar": "أَزْرَقُ",
+        "id": "biru",
+        "emoji": "🔵",
+        "audio": {
+         "src": "/audio/o/68b5cceca206eab3.mp3"
+        }
+       },
+       {
+        "ar": "كُلُّهُ",
+        "id": "semuanya",
+        "emoji": "🧮",
+        "audio": {
+         "src": "/audio/o/30fd2e9f0ef6f25e.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d1-bikam-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "بِكَمْ هٰذا المُعْجَمُ؟",
+       "audio": {
+        "src": "/audio/o/921b01b91c134aed.mp3"
+       }
+      },
+      "answer": "Berapa harga kamus ini?",
+      "options": [
+       "Berapa harga kamus ini?",
+       "Kamus yang mana?",
+       "Di mana kamus ini?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d1-dengar-law-samahta",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "لَوْ سَمَحْتَ، أُرِيدُ دَفْتَرًا.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/17686f89de3b4ce3.mp3"
+       }
+      },
+      "answer": "Tolong, saya mau buku tulis.",
+      "options": [
+       "Tolong, saya mau buku tulis.",
+       "Tolong, saya mau kamus.",
+       "Buku tulis ini mahal."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d1-harga-mujam-kabir",
+      "instruction": "Menurut dialog, berapa harga kamus besar?",
+      "prompt": {
+       "ar": "المُعْجَمُ الكَبِيرُ بِـ …",
+       "audio": {
+        "src": "/audio/o/bc80248995a2331f.mp3"
+       },
+       "emoji": "📖"
+      },
+      "answer": "90 ribu",
+      "options": [
+       "90 ribu",
+       "50 ribu",
+       "20 ribu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d1-budi-pilih",
+      "instruction": "Menurut dialog, Budi membeli kamus yang mana?",
+      "prompt": {
+       "id": "Budi membeli kamus …"
+      },
+      "answer": "Yang kecil",
+      "options": [
+       "Yang kecil",
+       "Yang besar",
+       "Yang merah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d1-ghalin-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "غالٍ",
+       "audio": {
+        "src": "/audio/o/0cf3deb8cbcd180e.mp3"
+       }
+      },
+      "answer": "mahal",
+      "options": [
+       "mahal",
+       "murah",
+       "kecil"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d1-balas-madza-turid",
+      "instruction": "Penjual bertanya kepadamu. Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "ماذا تُرِيدُ؟",
+       "audio": {
+        "src": "/audio/o/3c024e31be060129.mp3"
+       }
+      },
+      "answer": "أُرِيدُ مُعْجَمًا، لَوْ سَمَحْتَ.",
+      "options": [
+       "أُرِيدُ مُعْجَمًا، لَوْ سَمَحْتَ.",
+       "بِتِسْعِينَ.",
+       "الكَبِيرُ غالٍ!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أُرِيدُ مُعْجَمًا، لَوْ سَمَحْتَ.": {
+        "src": "/audio/o/28c42832b1df6a87.mp3"
+       },
+       "بِتِسْعِينَ.": {
+        "src": "/audio/o/63c08bb97b8e0cc3.mp3"
+       },
+       "الكَبِيرُ غالٍ!": {
+        "src": "/audio/o/6443a4d4c37b32e7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d1-susun-urid-saghir",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya mau yang kecil."
+      },
+      "answer": "أُرِيدُ الصَّغِيرَ",
+      "tokens": [
+       "أُرِيدُ",
+       "الصَّغِيرَ",
+       "الكَبِيرُ"
+      ],
+      "audioMap": {
+       "أُرِيدُ": {
+        "src": "/audio/o/16c05b31f9c09253.mp3"
+       },
+       "الصَّغِيرَ": {
+        "src": "/audio/o/669cf34403c49fa5.mp3"
+       },
+       "الكَبِيرُ": {
+        "src": "/audio/o/5b09a4bd89cd9414.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d1-susun-bikam-daftar",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Berapa harga buku tulis ini?"
+      },
+      "answer": "بِكَمْ هٰذا الدَّفْتَرُ",
+      "tokens": [
+       "بِكَمْ",
+       "هٰذا",
+       "الدَّفْتَرُ",
+       "أَيَّ"
+      ],
+      "audioMap": {
+       "بِكَمْ": {
+        "src": "/audio/o/cd4d5683c223190c.mp3"
+       },
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "الدَّفْتَرُ": {
+        "src": "/audio/o/bea8d8f4fb8673b8.mp3"
+       },
+       "أَيَّ": {
+        "src": "/audio/o/390adc608ab48496.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u9-d1-ucap-bikam",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "بِكَمْ هٰذا؟",
+       "id": "Ini berapa harganya?",
+       "audio": {
+        "src": "/audio/o/d04e398a887c2cc6.mp3"
+       }
+      },
+      "target": "بِكَمْ هٰذا؟"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u9-d1-lat-saghir-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "صَغِيرٌ",
+      "audio": {
+       "src": "/audio/o/e0f490aaa8f1e871.mp3"
+      }
+     },
+     "answer": "kecil",
+     "options": [
+      "kecil",
+      "besar",
+      "mahal"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d1-lat-dengar-50",
+     "instruction": "Dengarkan. Berapa harganya?",
+     "prompt": {
+      "tts": "بِخَمْسِينَ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/0910538bcbc1fd0a.mp3"
+      }
+     },
+     "answer": "50",
+     "options": [
+      "50",
+      "5",
+      "70"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u9-d1-lat-susun-tsaman-70",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Harganya tujuh puluh (ribu)."
+     },
+     "answer": "الثَّمَنُ سَبْعُونَ",
+     "tokens": [
+      "الثَّمَنُ",
+      "سَبْعُونَ",
+      "سَبْعَةٌ"
+     ],
+     "audioMap": {
+      "الثَّمَنُ": {
+       "src": "/audio/o/86fc657aa91d1518.mp3"
+      },
+      "سَبْعُونَ": {
+       "src": "/audio/o/c1f5ed4257d63dc9.mp3"
+      },
+      "سَبْعَةٌ": {
+       "src": "/audio/o/40b45e621fd48008.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d1-lat-yusuf-jaga",
+     "instruction": "Menurut dialog, siapa yang menjaga koperasi hari ini?",
+     "prompt": {
+      "id": "Penjual di koperasi ma'had"
+     },
+     "answer": "Yusuf",
+     "options": [
+      "Yusuf",
+      "Budi",
+      "Rizki"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d1-lat-azraq-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أَزْرَقُ",
+      "audio": {
+       "src": "/audio/o/68b5cceca206eab3.mp3"
+      }
+     },
+     "answer": "biru",
+     "options": [
+      "biru",
+      "merah",
+      "hijau"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u9-d2",
+   "dars": 2,
+   "title_id": "Batik di Pasar Beringharjo",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "أَهْلًا وَسَهْلًا، تَفَضَّلِي!",
+        "id": "Selamat datang, silakan!",
+        "speaker_ar": "البائِعَةُ",
+        "audio": {
+         "src": "/audio/o/bf9b9decee7d10f6.mp3"
+        }
+       },
+       {
+        "ar": "ما أَجْمَلَ الباتِيكَ هُنا! أُرِيدُ قَمِيصَ باتِيكٍ لِأَبِي.",
+        "id": "Bagus sekali batik di sini! Saya mau kemeja batik untuk ayah saya.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/f6fe9279787d258e.mp3"
+        }
+       },
+       {
+        "ar": "أَيَّ لَوْنٍ يُحِبُّ أَبُوكِ؟",
+        "id": "Ayahmu suka warna apa? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/9174662fe7a3bdf7.mp3"
+        }
+       },
+       {
+        "ar": "يُحِبُّ الأَزْرَقَ وَالأَبْيَضَ.",
+        "id": "Dia suka biru dan putih.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/7dbd01f4cab6c18f.mp3"
+        }
+       },
+       {
+        "ar": "هٰذا قَمِيصٌ أَزْرَقُ وَأَبْيَضُ. ثَمَنُهُ تِسْعُونَ.",
+        "id": "Ini kemeja biru putih. Harganya sembilan puluh (ribu).",
+        "speaker_ar": "البائِعَةُ",
+        "audio": {
+         "src": "/audio/o/a72d11c80299f12b.mp3"
+        }
+       },
+       {
+        "ar": "هٰذا غالٍ! قُولِي: سَبْعُونَ.",
+        "id": "Itu mahal! Bilang: tujuh puluh.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/ec4f9fb904564632.mp3"
+        }
+       },
+       {
+        "ar": "لَوْ سَمَحْتِ، بِسَبْعِينَ؟",
+        "id": "Permisi, Bu, tujuh puluh boleh? (kepada pr)",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/e95e9a4571b83bac.mp3"
+        }
+       },
+       {
+        "ar": "لا، بِثَمانِينَ. تَفَضَّلِي!",
+        "id": "Tidak bisa, delapan puluh. Silakan!",
+        "speaker_ar": "البائِعَةُ",
+        "audio": {
+         "src": "/audio/o/e9ae5f880a24d20e.mp3"
+        }
+       },
+       {
+        "ar": "حَسَنًا، شُكْرًا!",
+        "id": "Baiklah, terima kasih!",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/2335ec7e2de154e6.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u9-beringharjo.webp"
+      ],
+      "instruction_id": "Hari Ahad, Siti mengajak Aisyah ke Pasar Beringharjo. Aisyah ingin membeli kemeja batik untuk ayahnya di Kuala Lumpur. Penjualnya seorang ibu."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "ما أَجْمَلَ …!",
+        "id": "bagus sekali …!",
+        "emoji": "😍",
+        "audio": {
+         "src": "/audio/o/8ce112ba64a42731.mp3"
+        }
+       },
+       {
+        "ar": "قَمِيصٌ",
+        "id": "kemeja · ★ gamis",
+        "emoji": "👔",
+        "audio": {
+         "src": "/audio/o/11513460442b6074.mp3"
+        }
+       },
+       {
+        "ar": "باتِيكٌ",
+        "id": "batik",
+        "emoji": "🖌️",
+        "audio": {
+         "src": "/audio/o/70b67dc7bfa06f5b.mp3"
+        }
+       },
+       {
+        "ar": "قَمِيصُ باتِيكٍ",
+        "id": "kemeja batik",
+        "emoji": "👔",
+        "audio": {
+         "src": "/audio/o/99cc258e1beece64.mp3"
+        }
+       },
+       {
+        "ar": "لَوْنٌ",
+        "id": "warna",
+        "emoji": "🎨",
+        "audio": {
+         "src": "/audio/o/8b3fc38a801a7de6.mp3"
+        }
+       },
+       {
+        "ar": "أَيَّ لَوْنٍ؟",
+        "id": "warna apa?",
+        "emoji": "🌈",
+        "audio": {
+         "src": "/audio/o/b5152223bc91144d.mp3"
+        }
+       },
+       {
+        "ar": "أَبْيَضُ",
+        "id": "putih",
+        "emoji": "⚪",
+        "audio": {
+         "src": "/audio/o/81446f5fe68a6c77.mp3"
+        }
+       },
+       {
+        "ar": "قُولِي",
+        "id": "katakanlah (pr)",
+        "emoji": "💬",
+        "audio": {
+         "src": "/audio/o/039ae8fc7a640817.mp3"
+        }
+       },
+       {
+        "ar": "لِأَبِي",
+        "id": "untuk ayah saya",
+        "emoji": "🎁",
+        "audio": {
+         "src": "/audio/o/7e164be97672a193.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d2-ayya-lawn-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "أَيَّ لَوْنٍ تُرِيدِينَ؟",
+       "audio": {
+        "src": "/audio/o/7cb2e4394a476c1f.mp3"
+       }
+      },
+      "answer": "Kamu mau warna apa? (pr)",
+      "options": [
+       "Kamu mau warna apa? (pr)",
+       "Kamu mau warna apa? (lk)",
+       "Berapa harganya?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d2-qamis-untuk",
+      "instruction": "Menurut dialog, kemeja batik itu untuk siapa?",
+      "prompt": {
+       "ar": "قَمِيصُ باتِيكٍ لِـ …",
+       "audio": {
+        "src": "/audio/o/566f364689454465.mp3"
+       },
+       "emoji": "👔"
+      },
+      "answer": "Ayah Aisyah",
+      "options": [
+       "Ayah Aisyah",
+       "Aisyah sendiri",
+       "Ayah Siti"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d2-dengar-azraq-abyad",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "يُحِبُّ الأَزْرَقَ وَالأَبْيَضَ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/a8c908e4d6d16546.mp3"
+       }
+      },
+      "answer": "Dia suka biru dan putih.",
+      "options": [
+       "Dia suka biru dan putih.",
+       "Dia suka merah dan putih.",
+       "Dia suka biru dan merah."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d2-harga-awal",
+      "instruction": "Menurut dialog, berapa harga kemeja itu sebelum ditawar?",
+      "prompt": {
+       "id": "Harga di label"
+      },
+      "answer": "90 ribu",
+      "options": [
+       "90 ribu",
+       "70 ribu",
+       "50 ribu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d2-tawar-pr",
+      "instruction": "Kamu menawar kepada penjual perempuan. Kamu berkata …",
+      "prompt": {
+       "id": "Tujuh puluh boleh, Bu?",
+       "emoji": "👩"
+      },
+      "answer": "لَوْ سَمَحْتِ، بِسَبْعِينَ؟",
+      "options": [
+       "لَوْ سَمَحْتِ، بِسَبْعِينَ؟",
+       "لَوْ سَمَحْتَ، بِسَبْعِينَ؟",
+       "هٰذا رَخِيصٌ، بِتِسْعِينَ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لَوْ سَمَحْتِ، بِسَبْعِينَ؟": {
+        "src": "/audio/o/67b2e00975045286.mp3"
+       },
+       "لَوْ سَمَحْتَ، بِسَبْعِينَ؟": {
+        "src": "/audio/o/77cd318fbc958fd2.mp3"
+       },
+       "هٰذا رَخِيصٌ، بِتِسْعِينَ؟": {
+        "src": "/audio/o/341b6912fc5236d9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d2-susun-qamis-abyad",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ini kemeja putih."
+      },
+      "answer": "هٰذا قَمِيصٌ أَبْيَضُ",
+      "tokens": [
+       "هٰذا",
+       "قَمِيصٌ",
+       "أَبْيَضُ",
+       "لَوْنٌ"
+      ],
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "قَمِيصٌ": {
+        "src": "/audio/o/11513460442b6074.mp3"
+       },
+       "أَبْيَضُ": {
+        "src": "/audio/o/81446f5fe68a6c77.mp3"
+       },
+       "لَوْنٌ": {
+        "src": "/audio/o/8b3fc38a801a7de6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d2-susun-urid-qamis-batik",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya mau kemeja batik."
+      },
+      "answer": "أُرِيدُ قَمِيصَ باتِيكٍ",
+      "tokens": [
+       "أُرِيدُ",
+       "قَمِيصَ",
+       "باتِيكٍ",
+       "أَيَّ"
+      ],
+      "audioMap": {
+       "أُرِيدُ": {
+        "src": "/audio/o/16c05b31f9c09253.mp3"
+       },
+       "قَمِيصَ": {
+        "src": "/audio/o/3c4493d087c57e29.mp3"
+       },
+       "باتِيكٍ": {
+        "src": "/audio/o/51441dfa18a67ef0.mp3"
+       },
+       "أَيَّ": {
+        "src": "/audio/o/390adc608ab48496.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d2-abyad-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "أَبْيَضُ",
+       "audio": {
+        "src": "/audio/o/81446f5fe68a6c77.mp3"
+       }
+      },
+      "answer": "putih",
+      "options": [
+       "putih",
+       "biru",
+       "hitam"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u9-d2-ucap-ayya-lawn",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَيَّ لَوْنٍ تُرِيدِينَ؟",
+       "id": "Kamu mau warna apa? (pr)",
+       "audio": {
+        "src": "/audio/o/c63b5430dce1fe07.mp3"
+       }
+      },
+      "target": "أَيَّ لَوْنٍ تُرِيدِينَ؟"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u9-d2-lat-gambar-qamis",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "👔"
+     },
+     "answer": "قَمِيصٌ",
+     "options": [
+      "قَمِيصٌ",
+      "مُعْجَمٌ",
+      "لَوْنٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "قَمِيصٌ": {
+       "src": "/audio/o/11513460442b6074.mp3"
+      },
+      "مُعْجَمٌ": {
+       "src": "/audio/o/5f1fc0f53ceeb14c.mp3"
+      },
+      "لَوْنٌ": {
+       "src": "/audio/o/8b3fc38a801a7de6.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d2-lat-ma-ajmala",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "ما أَجْمَلَ الباتِيكَ!",
+      "audio": {
+       "src": "/audio/o/018f2aa878091490.mp3"
+      }
+     },
+     "answer": "Bagus sekali batiknya!",
+     "options": [
+      "Bagus sekali batiknya!",
+      "Batiknya mahal!",
+      "Batik yang mana?"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u9-d2-lat-susun-tsamanuhu-90",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Harganya sembilan puluh (ribu)."
+     },
+     "answer": "ثَمَنُهُ تِسْعُونَ",
+     "tokens": [
+      "ثَمَنُهُ",
+      "تِسْعُونَ",
+      "تِسْعَةٌ"
+     ],
+     "audioMap": {
+      "ثَمَنُهُ": {
+       "src": "/audio/o/b3d4926424a24c6c.mp3"
+      },
+      "تِسْعُونَ": {
+       "src": "/audio/o/7b025004cfa283a2.mp3"
+      },
+      "تِسْعَةٌ": {
+       "src": "/audio/o/78778a4f89925321.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d2-lat-siapa-tawar",
+     "instruction": "Menurut dialog, siapa yang menyuruh Aisyah menawar?",
+     "prompt": {
+      "ar": "هٰذا غالٍ! قُولِي: سَبْعُونَ.",
+      "audio": {
+       "src": "/audio/o/08087bf2e056dc8d.mp3"
+      }
+     },
+     "answer": "Siti",
+     "options": [
+      "Siti",
+      "Penjual",
+      "Ayah Aisyah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d2-lat-harga-akhir-d2",
+     "instruction": "Menurut dialog, penjual akhirnya memberi harga berapa?",
+     "prompt": {
+      "ar": "لا، بِثَمانِينَ. تَفَضَّلِي!",
+      "audio": {
+       "src": "/audio/o/cb1ee34ec9909bbd.mp3"
+      }
+     },
+     "answer": "80 ribu",
+     "options": [
+      "80 ribu",
+      "70 ribu",
+      "90 ribu"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u9-d3",
+   "dars": 3,
+   "title_id": "Belanja di pasar tradisional",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "يا أُمِّي، ماذا نَشْتَرِي اليَوْمَ؟",
+        "id": "Bu, hari ini kita beli apa?",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/65875810b421e40b.mp3"
+        }
+       },
+       {
+        "ar": "نَشْتَرِي دَجاجًا وَفُلْفُلًا أَحْمَرَ.",
+        "id": "Kita beli ayam dan cabai merah.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/27be82627c2116e9.mp3"
+        }
+       },
+       {
+        "ar": "اُنْظُرِي! الدَّجاجُ بِأَرْبَعِينَ، وَالسَّمَكُ بِثَلاثِينَ.",
+        "id": "Lihat! Ayam empat puluh, ikan tiga puluh (ribu).",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/bce3c4bd73977632.mp3"
+        }
+       },
+       {
+        "ar": "السَّمَكُ رَخِيصٌ اليَوْمَ. نَشْتَرِي سَمَكًا.",
+        "id": "Ikan murah hari ini. Kita beli ikan saja.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/107a478f3db8ad31.mp3"
+        }
+       },
+       {
+        "ar": "تَفَضَّلِي. وَالفُلْفُلُ؟ الأَحْمَرُ أَوِ الأَخْضَرُ؟",
+        "id": "Silakan, Bu. Cabainya? Yang merah atau yang hijau?",
+        "speaker_ar": "البائِعُ",
+        "audio": {
+         "src": "/audio/o/3e877df39de4756c.mp3"
+        }
+       },
+       {
+        "ar": "الأَحْمَرُ، لَوْ سَمَحْتَ.",
+        "id": "Yang merah, Pak.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/4db4d607eb6bab27.mp3"
+        }
+       },
+       {
+        "ar": "تَفَضَّلِي، وَهٰذا كِيسٌ.",
+        "id": "Silakan, dan ini kantongnya.",
+        "speaker_ar": "البائِعُ",
+        "audio": {
+         "src": "/audio/o/e3a2144e32c5377b.mp3"
+        }
+       },
+       {
+        "ar": "لا نُرِيدُ كِيسًا، شُكْرًا. عِنْدَنا كِيسٌ.",
+        "id": "Tidak usah kantong plastik, terima kasih. Kami bawa kantong sendiri.",
+        "speaker_ar": "فاطِمَة",
+        "audio": {
+         "src": "/audio/o/4f97843339556f02.mp3"
+        }
+       },
+       {
+        "ar": "كِيسُكِ أَخْضَرُ وَجَمِيلٌ يا أُمِّي!",
+        "id": "Kantong Ibu hijau dan bagus!",
+        "speaker_ar": "نُور",
+        "audio": {
+         "src": "/audio/o/1ab109eb1298c122.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u9-pasar-bandung.webp"
+      ],
+      "instruction_id": "Ahad pagi di pasar tradisional dekat rumah di Bandung. Bu Fatimah berbelanja bahan masakan bersama Nur. Nur membaca papan harga di setiap lapak. Penjual ikannya seorang bapak."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "أَشْتَرِي · نَشْتَرِي",
+        "id": "saya membeli · kita membeli",
+        "emoji": "🛒",
+        "audio": {
+         "src": "/audio/o/ca3463c90fc1dcf1.mp3"
+        }
+       },
+       {
+        "ar": "اليَوْمَ",
+        "id": "hari ini",
+        "emoji": "📅",
+        "audio": {
+         "src": "/audio/o/f4558cc37c35356c.mp3"
+        }
+       },
+       {
+        "ar": "فُلْفُلٌ",
+        "id": "cabai",
+        "emoji": "🌶️",
+        "audio": {
+         "src": "/audio/o/5c329054090ed8c9.mp3"
+        }
+       },
+       {
+        "ar": "رَخِيصٌ",
+        "id": "murah",
+        "emoji": "👍",
+        "audio": {
+         "src": "/audio/o/e6c73a0ef5a0fe80.mp3"
+        }
+       },
+       {
+        "ar": "كِيسٌ",
+        "id": "kantong, tas belanja",
+        "emoji": "🛍️",
+        "audio": {
+         "src": "/audio/o/cb022109668b54a8.mp3"
+        }
+       },
+       {
+        "ar": "أَخْضَرُ",
+        "id": "hijau",
+        "emoji": "🟢",
+        "audio": {
+         "src": "/audio/o/b27d1549731a450f.mp3"
+        }
+       },
+       {
+        "ar": "بِأَرْبَعِينَ",
+        "id": "(seharga) empat puluh",
+        "emoji": "4️⃣",
+        "audio": {
+         "src": "/audio/o/affd0938e9205eef.mp3"
+        }
+       },
+       {
+        "ar": "بِثَلاثِينَ",
+        "id": "(seharga) tiga puluh",
+        "emoji": "3️⃣",
+        "audio": {
+         "src": "/audio/o/931b9e23e38f78ab.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d3-samak-rakhis-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "السَّمَكُ رَخِيصٌ اليَوْمَ.",
+       "audio": {
+        "src": "/audio/o/60f380bb33964ecd.mp3"
+       }
+      },
+      "answer": "Ikan murah hari ini.",
+      "options": [
+       "Ikan murah hari ini.",
+       "Ikan mahal hari ini.",
+       "Ayam murah hari ini."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d3-harga-dajaj",
+      "instruction": "Menurut dialog, berapa harga ayam?",
+      "prompt": {
+       "ar": "الدَّجاجُ بِـ …",
+       "audio": {
+        "src": "/audio/o/db1751bcff125c6e.mp3"
+       },
+       "emoji": "🍗"
+      },
+      "answer": "40 ribu",
+      "options": [
+       "40 ribu",
+       "30 ribu",
+       "70 ribu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d3-akhirnya-beli",
+      "instruction": "Menurut dialog, apa yang akhirnya dibeli Bu Fatimah?",
+      "prompt": {
+       "id": "Bu Fatimah membeli …",
+       "emoji": "🛒"
+      },
+      "answer": "Ikan dan cabai merah",
+      "options": [
+       "Ikan dan cabai merah",
+       "Ayam dan cabai merah",
+       "Ikan dan cabai hijau"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d3-kenapa-tanpa-kis",
+      "instruction": "Kenapa Bu Fatimah tidak mau kantong plastik?",
+      "prompt": {
+       "ar": "لا نُرِيدُ كِيسًا. عِنْدَنا كِيسٌ.",
+       "audio": {
+        "src": "/audio/o/ea10de0433dd765c.mp3"
+       }
+      },
+      "answer": "Dia sudah membawa kantong sendiri.",
+      "options": [
+       "Dia sudah membawa kantong sendiri.",
+       "Kantongnya mahal.",
+       "Kantongnya kecil."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d3-dengar-ahmar-akhdar",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "الأَحْمَرُ أَوِ الأَخْضَرُ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/10e2357e1422c727.mp3"
+       }
+      },
+      "answer": "Yang merah atau yang hijau?",
+      "options": [
+       "Yang merah atau yang hijau?",
+       "Yang merah atau yang biru?",
+       "Yang putih atau yang hijau?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d3-balas-madza-nasytari",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "ماذا نَشْتَرِي اليَوْمَ؟",
+       "audio": {
+        "src": "/audio/o/d656ad90c279c861.mp3"
+       }
+      },
+      "answer": "نَشْتَرِي سَمَكًا.",
+      "options": [
+       "نَشْتَرِي سَمَكًا.",
+       "بِثَلاثِينَ.",
+       "كِيسُكِ أَخْضَرُ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَشْتَرِي سَمَكًا.": {
+        "src": "/audio/o/19c56df4aad65019.mp3"
+       },
+       "بِثَلاثِينَ.": {
+        "src": "/audio/o/c1c305f79f114b5c.mp3"
+       },
+       "كِيسُكِ أَخْضَرُ.": {
+        "src": "/audio/o/e0e429cae78f191d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d3-susun-nasytari-samak",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kita membeli ikan."
+      },
+      "answer": "نَشْتَرِي سَمَكًا",
+      "tokens": [
+       "نَشْتَرِي",
+       "سَمَكًا",
+       "سَمَكٌ"
+      ],
+      "audioMap": {
+       "نَشْتَرِي": {
+        "src": "/audio/o/fda3bb495223a5d7.mp3"
+       },
+       "سَمَكًا": {
+        "src": "/audio/o/9402dde3bb92f603.mp3"
+       },
+       "سَمَكٌ": {
+        "src": "/audio/o/b43e6dd9a389ce26.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d3-susun-la-nurid-kis",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kami tidak mau kantong."
+      },
+      "answer": "لا نُرِيدُ كِيسًا",
+      "tokens": [
+       "لا",
+       "نُرِيدُ",
+       "كِيسًا",
+       "كِيسٌ"
+      ],
+      "audioMap": {
+       "لا": {
+        "src": "/audio/o/de6b0a90d4d0c2cb.mp3"
+       },
+       "نُرِيدُ": {
+        "src": "/audio/o/6277855997b9727b.mp3"
+       },
+       "كِيسًا": {
+        "src": "/audio/o/baf17b311584a565.mp3"
+       },
+       "كِيسٌ": {
+        "src": "/audio/o/cb022109668b54a8.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u9-d3-lat-fulful-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "فُلْفُلٌ",
+      "audio": {
+       "src": "/audio/o/5c329054090ed8c9.mp3"
+      }
+     },
+     "answer": "cabai",
+     "options": [
+      "cabai",
+      "ikan",
+      "pisang"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d3-lat-akhdar-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أَخْضَرُ",
+      "audio": {
+       "src": "/audio/o/b27d1549731a450f.mp3"
+      }
+     },
+     "answer": "hijau",
+     "options": [
+      "hijau",
+      "merah",
+      "kuning"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "arrange",
+     "key": "j1u9-d3-lat-susun-samak-30",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Ikan tiga puluh (ribu)."
+     },
+     "answer": "السَّمَكُ بِثَلاثِينَ",
+     "tokens": [
+      "السَّمَكُ",
+      "بِثَلاثِينَ",
+      "ثَلاثَةٌ"
+     ],
+     "audioMap": {
+      "السَّمَكُ": {
+       "src": "/audio/o/2e025f014782128d.mp3"
+      },
+      "بِثَلاثِينَ": {
+       "src": "/audio/o/931b9e23e38f78ab.mp3"
+      },
+      "ثَلاثَةٌ": {
+       "src": "/audio/o/cc6ff6c756a1e10e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d3-lat-siapa-baca-harga",
+     "instruction": "Menurut dialog, siapa yang membaca papan harga?",
+     "prompt": {
+      "ar": "اُنْظُرِي! الدَّجاجُ بِأَرْبَعِينَ.",
+      "audio": {
+       "src": "/audio/o/e40aef541d88aff9.mp3"
+      }
+     },
+     "answer": "Nur",
+     "options": [
+      "Nur",
+      "Bu Fatimah",
+      "Penjual"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u9-d4",
+   "dars": 4,
+   "title_id": "Kosakata & puluhan 20–90",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "سُوقٌ",
+        "id": "pasar",
+        "emoji": "🏬",
+        "audio": {
+         "src": "/audio/o/5bc8636d0b6ed92e.mp3"
+        }
+       },
+       {
+        "ar": "دُكّانٌ",
+        "id": "toko, lapak",
+        "emoji": "🏪",
+        "audio": {
+         "src": "/audio/o/7a9764d70d6ef194.mp3"
+        }
+       },
+       {
+        "ar": "ثَمَنٌ",
+        "id": "harga",
+        "emoji": "🏷️",
+        "audio": {
+         "src": "/audio/o/6a7ccd1e3de45071.mp3"
+        }
+       },
+       {
+        "ar": "رُوبِيَّةٌ",
+        "id": "rupiah",
+        "emoji": "💵",
+        "audio": {
+         "src": "/audio/o/e743932052d9e169.mp3"
+        }
+       },
+       {
+        "ar": "رَخِيصٌ",
+        "id": "murah",
+        "emoji": "👍",
+        "audio": {
+         "src": "/audio/o/e6c73a0ef5a0fe80.mp3"
+        }
+       },
+       {
+        "ar": "غالٍ",
+        "id": "mahal",
+        "emoji": "💸",
+        "audio": {
+         "src": "/audio/o/0cf3deb8cbcd180e.mp3"
+        }
+       },
+       {
+        "ar": "قَمِيصٌ",
+        "id": "kemeja · ★ gamis",
+        "emoji": "👔",
+        "audio": {
+         "src": "/audio/o/11513460442b6074.mp3"
+        }
+       },
+       {
+        "ar": "باتِيكٌ",
+        "id": "batik",
+        "emoji": "🖌️",
+        "audio": {
+         "src": "/audio/o/70b67dc7bfa06f5b.mp3"
+        }
+       },
+       {
+        "ar": "كِيسٌ",
+        "id": "kantong",
+        "emoji": "🛍️",
+        "audio": {
+         "src": "/audio/o/cb022109668b54a8.mp3"
+        }
+       },
+       {
+        "ar": "مُعْجَمٌ",
+        "id": "kamus",
+        "emoji": "📖",
+        "audio": {
+         "src": "/audio/o/5f1fc0f53ceeb14c.mp3"
+        }
+       },
+       {
+        "ar": "دَفْتَرٌ",
+        "id": "buku tulis · ★ daftar",
+        "emoji": "📒",
+        "audio": {
+         "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+        }
+       },
+       {
+        "ar": "قَلَمٌ",
+        "id": "pena · ★ kalam",
+        "emoji": "🖊️",
+        "audio": {
+         "src": "/audio/o/b32c56a7a03592e5.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Pasar, harga, dan barang"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "لَوْنٌ",
+        "id": "warna",
+        "emoji": "🎨",
+        "audio": {
+         "src": "/audio/o/8b3fc38a801a7de6.mp3"
+        }
+       },
+       {
+        "ar": "أَبْيَضُ",
+        "id": "putih",
+        "emoji": "⚪",
+        "audio": {
+         "src": "/audio/o/81446f5fe68a6c77.mp3"
+        }
+       },
+       {
+        "ar": "أَسْوَدُ",
+        "id": "hitam",
+        "emoji": "⚫",
+        "audio": {
+         "src": "/audio/o/5cd105a039fc2d19.mp3"
+        }
+       },
+       {
+        "ar": "أَحْمَرُ",
+        "id": "merah",
+        "emoji": "🔴",
+        "audio": {
+         "src": "/audio/o/9f53ced3fef70f35.mp3"
+        }
+       },
+       {
+        "ar": "أَخْضَرُ",
+        "id": "hijau",
+        "emoji": "🟢",
+        "audio": {
+         "src": "/audio/o/b27d1549731a450f.mp3"
+        }
+       },
+       {
+        "ar": "أَزْرَقُ",
+        "id": "biru",
+        "emoji": "🔵",
+        "audio": {
+         "src": "/audio/o/68b5cceca206eab3.mp3"
+        }
+       },
+       {
+        "ar": "أَصْفَرُ",
+        "id": "kuning",
+        "emoji": "🟡",
+        "audio": {
+         "src": "/audio/o/08f313deb3c67e87.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Warna"
+      },
+      "note_id": "Semua warna ini berpola أَفْعَلُ dan tidak bertanwin: قَمِيصٌ أَبْيَضُ (kemeja putih). Bentuk perempuannya dipelajari di Unit 11."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "عِشْرُونَ",
+        "id": "dua puluh (20)",
+        "audio": {
+         "src": "/audio/o/782cd0a8368d8643.mp3"
+        }
+       },
+       {
+        "ar": "ثَلاثُونَ",
+        "id": "tiga puluh (30)",
+        "audio": {
+         "src": "/audio/o/8e3bbe8ab3191e69.mp3"
+        }
+       },
+       {
+        "ar": "أَرْبَعُونَ",
+        "id": "empat puluh (40)",
+        "audio": {
+         "src": "/audio/o/2f7edf0be33131dd.mp3"
+        }
+       },
+       {
+        "ar": "خَمْسُونَ",
+        "id": "lima puluh (50)",
+        "audio": {
+         "src": "/audio/o/86f82553fb85642d.mp3"
+        }
+       },
+       {
+        "ar": "سِتُّونَ",
+        "id": "enam puluh (60)",
+        "audio": {
+         "src": "/audio/o/9a1a6342ea30304a.mp3"
+        }
+       },
+       {
+        "ar": "سَبْعُونَ",
+        "id": "tujuh puluh (70)",
+        "audio": {
+         "src": "/audio/o/c1f5ed4257d63dc9.mp3"
+        }
+       },
+       {
+        "ar": "ثَمانُونَ",
+        "id": "delapan puluh (80)",
+        "audio": {
+         "src": "/audio/o/cb5aa79564ae4e8d.mp3"
+        }
+       },
+       {
+        "ar": "تِسْعُونَ",
+        "id": "sembilan puluh (90)",
+        "audio": {
+         "src": "/audio/o/7b025004cfa283a2.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Puluhan 20–90"
+      },
+      "note_id": "Puluhan berakhiran ـُونَ (-ūna). Sesudah بِـ atau sebagai objek, akhirannya menjadi ـِينَ (-īna): بِعِشْرِينَ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d4-warna-merah",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🔴"
+      },
+      "answer": "أَحْمَرُ",
+      "options": [
+       "أَحْمَرُ",
+       "أَخْضَرُ",
+       "أَصْفَرُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَحْمَرُ": {
+        "src": "/audio/o/9f53ced3fef70f35.mp3"
+       },
+       "أَخْضَرُ": {
+        "src": "/audio/o/b27d1549731a450f.mp3"
+       },
+       "أَصْفَرُ": {
+        "src": "/audio/o/08f313deb3c67e87.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d4-dengar-30",
+      "instruction": "Dengarkan. Angka berapa?",
+      "prompt": {
+       "tts": "ثَلاثُونَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/8e3bbe8ab3191e69.mp3"
+       }
+      },
+      "answer": "30",
+      "options": [
+       "30",
+       "3",
+       "40"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d4-rakhis-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "رَخِيصٌ",
+       "audio": {
+        "src": "/audio/o/e6c73a0ef5a0fe80.mp3"
+       }
+      },
+      "answer": "murah",
+      "options": [
+       "murah",
+       "mahal",
+       "harga"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d4-hitung-20-20",
+      "instruction": "Berapa hasilnya?",
+      "prompt": {
+       "ar": "عِشْرُونَ + عِشْرُونَ = ؟",
+       "audio": {
+        "src": "/audio/o/531e90ecc1e8a951.mp3"
+       }
+      },
+      "answer": "أَرْبَعُونَ",
+      "options": [
+       "أَرْبَعُونَ",
+       "ثَلاثُونَ",
+       "أَرْبَعَةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَرْبَعُونَ": {
+        "src": "/audio/o/2f7edf0be33131dd.mp3"
+       },
+       "ثَلاثُونَ": {
+        "src": "/audio/o/8e3bbe8ab3191e69.mp3"
+       },
+       "أَرْبَعَةٌ": {
+        "src": "/audio/o/37d97f56c24d0648.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d4-mata-uang",
+      "instruction": "Mata uang Indonesia dalam bahasa Arab adalah …",
+      "prompt": {
+       "id": "mata uang Indonesia",
+       "emoji": "💵"
+      },
+      "answer": "رُوبِيَّةٌ",
+      "options": [
+       "رُوبِيَّةٌ",
+       "ثَمَنٌ",
+       "دُكّانٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "رُوبِيَّةٌ": {
+        "src": "/audio/o/e743932052d9e169.mp3"
+       },
+       "ثَمَنٌ": {
+        "src": "/audio/o/6a7ccd1e3de45071.mp3"
+       },
+       "دُكّانٌ": {
+        "src": "/audio/o/7a9764d70d6ef194.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d4-dengar-azraq",
+      "instruction": "Dengarkan. Warna apa?",
+      "prompt": {
+       "tts": "أَزْرَقُ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/68b5cceca206eab3.mp3"
+       }
+      },
+      "answer": "biru",
+      "options": [
+       "biru",
+       "hijau",
+       "kuning"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d4-gambar-kis",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "🛍️"
+      },
+      "answer": "كِيسٌ",
+      "options": [
+       "كِيسٌ",
+       "قَمِيصٌ",
+       "مُعْجَمٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "كِيسٌ": {
+        "src": "/audio/o/cb022109668b54a8.mp3"
+       },
+       "قَمِيصٌ": {
+        "src": "/audio/o/11513460442b6074.mp3"
+       },
+       "مُعْجَمٌ": {
+        "src": "/audio/o/5f1fc0f53ceeb14c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d4-angka-60",
+      "instruction": "Angka berapa ini dalam bahasa Arab?",
+      "prompt": {
+       "id": "60"
+      },
+      "answer": "سِتُّونَ",
+      "options": [
+       "سِتُّونَ",
+       "سِتَّةٌ",
+       "سَبْعُونَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سِتُّونَ": {
+        "src": "/audio/o/9a1a6342ea30304a.mp3"
+       },
+       "سِتَّةٌ": {
+        "src": "/audio/o/df8f5b1b0361e2ec.mp3"
+       },
+       "سَبْعُونَ": {
+        "src": "/audio/o/c1f5ed4257d63dc9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d4-lawan-ghalin",
+      "instruction": "Lawan kata غالٍ (mahal) adalah …",
+      "prompt": {
+       "ar": "غالٍ",
+       "audio": {
+        "src": "/audio/o/0cf3deb8cbcd180e.mp3"
+       }
+      },
+      "answer": "رَخِيصٌ",
+      "options": [
+       "رَخِيصٌ",
+       "كَبِيرٌ",
+       "جَمِيلٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "رَخِيصٌ": {
+        "src": "/audio/o/e6c73a0ef5a0fe80.mp3"
+       },
+       "كَبِيرٌ": {
+        "src": "/audio/o/baa09bcf592f0c5a.mp3"
+       },
+       "جَمِيلٌ": {
+        "src": "/audio/o/cb58a4b64b58bbeb.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u9-d4-lat-angka-80",
+     "instruction": "Angka berapa ini dalam bahasa Arab?",
+     "prompt": {
+      "id": "80"
+     },
+     "answer": "ثَمانُونَ",
+     "options": [
+      "ثَمانُونَ",
+      "ثَمانِيَةٌ",
+      "تِسْعُونَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ثَمانُونَ": {
+       "src": "/audio/o/cb5aa79564ae4e8d.mp3"
+      },
+      "ثَمانِيَةٌ": {
+       "src": "/audio/o/41a5bc7544d309a8.mp3"
+      },
+      "تِسْعُونَ": {
+       "src": "/audio/o/7b025004cfa283a2.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d4-lat-dengar-90",
+     "instruction": "Dengarkan. Angka berapa?",
+     "prompt": {
+      "tts": "تِسْعُونَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/7b025004cfa283a2.mp3"
+      }
+     },
+     "answer": "90",
+     "options": [
+      "90",
+      "9",
+      "70"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d4-lat-aswad-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أَسْوَدُ",
+      "audio": {
+       "src": "/audio/o/5cd105a039fc2d19.mp3"
+      }
+     },
+     "answer": "hitam",
+     "options": [
+      "hitam",
+      "putih",
+      "biru"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d4-lat-warna-kuning",
+     "instruction": "Pilih kata yang cocok",
+     "prompt": {
+      "emoji": "🟡"
+     },
+     "answer": "أَصْفَرُ",
+     "options": [
+      "أَصْفَرُ",
+      "أَبْيَضُ",
+      "أَحْمَرُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَصْفَرُ": {
+       "src": "/audio/o/08f313deb3c67e87.mp3"
+      },
+      "أَبْيَضُ": {
+       "src": "/audio/o/81446f5fe68a6c77.mp3"
+      },
+      "أَحْمَرُ": {
+       "src": "/audio/o/9f53ced3fef70f35.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d4-lat-hitung-50-10",
+     "instruction": "Berapa hasilnya?",
+     "prompt": {
+      "ar": "خَمْسُونَ + عَشَرَةٌ = ؟",
+      "audio": {
+       "src": "/audio/o/fea0ef99e1e09086.mp3"
+      }
+     },
+     "answer": "سِتُّونَ",
+     "options": [
+      "سِتُّونَ",
+      "خَمْسُونَ",
+      "سِتَّةٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سِتُّونَ": {
+       "src": "/audio/o/9a1a6342ea30304a.mp3"
+      },
+      "خَمْسُونَ": {
+       "src": "/audio/o/86f82553fb85642d.mp3"
+      },
+      "سِتَّةٌ": {
+       "src": "/audio/o/df8f5b1b0361e2ec.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u9-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Bertanya harga dan memilih"
+      },
+      "groups": [
+       {
+        "title_ar": "بِكَمْ …؟ ← بِـ + ـِينَ",
+        "note_id": "بِكَمْ = berapa harganya. Jawaban dengan بِـ memakai akhiran ـِينَ: بِخَمْسِينَ. Tanpa بِـ akhirannya ـُونَ: ثَمَنُهُ خَمْسُونَ. Di pasar Indonesia orang biasa menyebut \"lima puluh\" untuk lima puluh ribu; kata \"ribu\" (أَلْفٌ) dipelajari di Unit 15.",
+        "rows": [
+         {
+          "ar": "بِكَمْ هٰذا القَمِيصُ؟",
+          "id": "Berapa harga kemeja ini?",
+          "audio": {
+           "src": "/audio/o/886e13bcd42e35e1.mp3"
+          }
+         },
+         {
+          "ar": "بِخَمْسِينَ.",
+          "id": "Lima puluh (ribu).",
+          "audio": {
+           "src": "/audio/o/0910538bcbc1fd0a.mp3"
+          }
+         },
+         {
+          "ar": "ثَمَنُهُ خَمْسُونَ.",
+          "id": "Harganya lima puluh (ribu).",
+          "audio": {
+           "src": "/audio/o/5f93ef777539e077.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "أَيُّ · أَيَّ · أَيِّ + ـٍ",
+        "note_id": "Kata sesudah أَيّ (yang mana / apa) berbentuk tunggal, tanpa ال, berakhiran ـٍ. Akhiran أَيّ sendiri mengikuti posisinya: ـُ di awal kalimat, ـَ sebagai objek, ـِ sesudah kata depan.",
+        "rows": [
+         {
+          "ar": "أَيُّ كِتابٍ هٰذا؟",
+          "id": "Buku apa ini?",
+          "audio": {
+           "src": "/audio/o/0060af9c0e62a6a4.mp3"
+          }
+         },
+         {
+          "ar": "أَيَّ لَوْنٍ تُرِيدُ؟",
+          "id": "Kamu mau warna apa? (lk)",
+          "audio": {
+           "src": "/audio/o/5754712b959411f9.mp3"
+          }
+         },
+         {
+          "ar": "فِي أَيِّ دُكّانٍ؟",
+          "id": "Di toko yang mana?",
+          "audio": {
+           "src": "/audio/o/6509689dbb3f4cee.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "لَوْ سَمَحْتَ · لَوْ سَمَحْتِ",
+        "note_id": "Meminta dengan sopan, seperti \"permisi\" atau \"tolong\". ـتَ kepada laki-laki, ـتِ kepada perempuan.",
+        "rows": [
+         {
+          "ar": "لَوْ سَمَحْتَ، بِكَمْ هٰذا؟",
+          "id": "Permisi, ini berapa? (kepada lk)",
+          "audio": {
+           "src": "/audio/o/d7ba14801541b920.mp3"
+          }
+         },
+         {
+          "ar": "لَوْ سَمَحْتِ، أُرِيدُ كِيسًا.",
+          "id": "Tolong, saya mau kantong. (kepada pr)",
+          "audio": {
+           "src": "/audio/o/8519e33febc3334b.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Menjelaskan benda dan tempatnya"
+      },
+      "groups": [
+       {
+        "title_ar": "هٰذا + benda + sifat / pemilik",
+        "note_id": "Sifat mengikuti bendanya: tak tentu dengan tak tentu (قَمِيصٌ أَبْيَضُ), ber-ال dengan ber-ال (القَمِيصُ الأَبْيَضُ). Untuk pemilik, kata pertama tanpa ال dan tanpa tanwin: قَمِيصُ أَبِي.",
+        "rows": [
+         {
+          "ar": "هٰذا قَمِيصٌ أَبْيَضُ.",
+          "id": "Ini kemeja putih.",
+          "audio": {
+           "src": "/audio/o/26a3a63cdf8cadc4.mp3"
+          }
+         },
+         {
+          "ar": "هٰذا القَمِيصُ الأَبْيَضُ جَمِيلٌ.",
+          "id": "Kemeja putih ini bagus.",
+          "audio": {
+           "src": "/audio/o/b8d97ab7a7721b2d.mp3"
+          }
+         },
+         {
+          "ar": "هٰذا قَمِيصُ باتِيكٍ.",
+          "id": "Ini kemeja batik.",
+          "audio": {
+           "src": "/audio/o/e52175d2d62b2a43.mp3"
+          }
+         },
+         {
+          "ar": "هٰذا قَمِيصُ أَبِي.",
+          "id": "Ini kemeja ayah saya.",
+          "audio": {
+           "src": "/audio/o/e17eec9b7e51a8e6.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "المُبْتَدَأُ + فِي / هُنا / هُناكَ",
+        "note_id": "Untuk menyebut letak, cukup benda + keterangan tempat. Bila bendanya tak tentu (bertanwin), keterangan tempat didahulukan: فِي السُّوقِ باتِيكٌ.",
+        "rows": [
+         {
+          "ar": "الدَّفْتَرُ فِي الكِيسِ.",
+          "id": "Buku tulisnya di dalam kantong.",
+          "audio": {
+           "src": "/audio/o/44a1d89580d9f4a7.mp3"
+          }
+         },
+         {
+          "ar": "السَّمَكُ الرَّخِيصُ هُناكَ.",
+          "id": "Ikan yang murah ada di sana.",
+          "audio": {
+           "src": "/audio/o/117ae8233a49981a.mp3"
+          }
+         },
+         {
+          "ar": "فِي السُّوقِ باتِيكٌ كَثِيرٌ.",
+          "id": "Di pasar ada banyak batik.",
+          "audio": {
+           "src": "/audio/o/c9177e8008f4e5a6.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "عِشْرُونَ طالِبًا",
+        "note_id": "Sesudah puluhan, benda yang dihitung berbentuk tunggal dan berakhiran ـًا. Angkanya sama untuk laki-laki dan perempuan.",
+        "rows": [
+         {
+          "ar": "فِي الفَصْلِ عِشْرُونَ طالِبًا.",
+          "id": "Di kelas ada dua puluh pelajar (lk).",
+          "audio": {
+           "src": "/audio/o/c9c47d996592b5d0.mp3"
+          }
+         },
+         {
+          "ar": "فِي الدُّكّانِ ثَلاثُونَ قَمِيصًا.",
+          "id": "Di toko ada tiga puluh kemeja.",
+          "audio": {
+           "src": "/audio/o/d4a3edcb43a48e19.mp3"
+          }
+         },
+         {
+          "ar": "فِي المَعْهَدِ أَرْبَعُونَ طالِبَةً.",
+          "id": "Di ma'had ada empat puluh pelajar (pr).",
+          "audio": {
+           "src": "/audio/o/0d2922392a08c8f8.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d5-isi-azraq",
+      "instruction": "Lengkapi: Ini kemeja biru.",
+      "prompt": {
+       "ar": "هٰذا قَمِيصٌ …",
+       "audio": {
+        "src": "/audio/o/26d8fbe1a35a3a70.mp3"
+       },
+       "emoji": "🔵"
+      },
+      "answer": "أَزْرَقُ",
+      "options": [
+       "أَزْرَقُ",
+       "أَزْرَقٌ",
+       "الأَزْرَقُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَزْرَقُ": {
+        "src": "/audio/o/68b5cceca206eab3.mp3"
+       },
+       "أَزْرَقٌ": {
+        "src": "/audio/o/78eebbefe05b33f3.mp3"
+       },
+       "الأَزْرَقُ": {
+        "src": "/audio/o/576c426ba0ff5873.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d5-tanya-harga-pr",
+      "instruction": "Kamu bertanya harga kepada penjual perempuan. Pilih kalimatnya",
+      "prompt": {
+       "id": "Permisi, ini berapa?",
+       "emoji": "👩"
+      },
+      "answer": "لَوْ سَمَحْتِ، بِكَمْ هٰذا؟",
+      "options": [
+       "لَوْ سَمَحْتِ، بِكَمْ هٰذا؟",
+       "لَوْ سَمَحْتَ، بِكَمْ هٰذا؟",
+       "لَوْ سَمَحْتِ، أَيَّ لَوْنٍ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لَوْ سَمَحْتِ، بِكَمْ هٰذا؟": {
+        "src": "/audio/o/7f67a3ff5765b7b1.mp3"
+       },
+       "لَوْ سَمَحْتَ، بِكَمْ هٰذا؟": {
+        "src": "/audio/o/d7ba14801541b920.mp3"
+       },
+       "لَوْ سَمَحْتِ، أَيَّ لَوْنٍ؟": {
+        "src": "/audio/o/845a22c9f7762dc3.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d5-isi-biisyrina",
+      "instruction": "Jawab: kantong ini harganya dua puluh (ribu).",
+      "prompt": {
+       "ar": "بِكَمْ هٰذا الكِيسُ؟",
+       "audio": {
+        "src": "/audio/o/919c312366a8e49c.mp3"
+       }
+      },
+      "answer": "بِعِشْرِينَ.",
+      "options": [
+       "بِعِشْرِينَ.",
+       "بِعِشْرُونَ.",
+       "بِاثْنَيْنِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بِعِشْرِينَ.": {
+        "src": "/audio/o/4d96ed306974cba9.mp3"
+       },
+       "بِعِشْرُونَ.": {
+        "src": "/audio/o/11c16b9c97976899.mp3"
+       },
+       "بِاثْنَيْنِ.": {
+        "src": "/audio/o/4027803ec7480fbc.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d5-isi-ayya-lawn",
+      "instruction": "Lengkapi: Kamu mau warna apa?",
+      "prompt": {
+       "ar": "أَيَّ … تُرِيدُ؟",
+       "audio": {
+        "src": "/audio/o/4bae5b8e337b1c2c.mp3"
+       }
+      },
+      "answer": "لَوْنٍ",
+      "options": [
+       "لَوْنٍ",
+       "لَوْنٌ",
+       "اللَّوْنَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لَوْنٍ": {
+        "src": "/audio/o/ab998f8d2d431e49.mp3"
+       },
+       "لَوْنٌ": {
+        "src": "/audio/o/8b3fc38a801a7de6.mp3"
+       },
+       "اللَّوْنَ": {
+        "src": "/audio/o/1628050fb3ca24f7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d5-isi-tamyiz",
+      "instruction": "Lengkapi: Di kelas ada dua puluh pelajar.",
+      "prompt": {
+       "ar": "فِي الفَصْلِ عِشْرُونَ …",
+       "audio": {
+        "src": "/audio/o/ccf17d084301c5d7.mp3"
+       }
+      },
+      "answer": "طالِبًا",
+      "options": [
+       "طالِبًا",
+       "طالِبٌ",
+       "طالِبٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "طالِبًا": {
+        "src": "/audio/o/a3fed64dbe87adc7.mp3"
+       },
+       "طالِبٌ": {
+        "src": "/audio/o/b09e1763199cb75d.mp3"
+       },
+       "طالِبٍ": {
+        "src": "/audio/o/905a5bfbffe3efdb.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d5-pilih-kis-aswad",
+      "instruction": "Pilih kalimat yang benar: \"Kantong hitam ini murah.\"",
+      "prompt": {
+       "id": "Kantong hitam ini murah.",
+       "emoji": "🛍️"
+      },
+      "answer": "هٰذا الكِيسُ الأَسْوَدُ رَخِيصٌ.",
+      "options": [
+       "هٰذا الكِيسُ الأَسْوَدُ رَخِيصٌ.",
+       "هٰذا كِيسٌ الأَسْوَدُ رَخِيصٌ.",
+       "هٰذا الكِيسُ الأَسْوَدَ رَخِيصٌ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هٰذا الكِيسُ الأَسْوَدُ رَخِيصٌ.": {
+        "src": "/audio/o/1dc1d1456071abf0.mp3"
+       },
+       "هٰذا كِيسٌ الأَسْوَدُ رَخِيصٌ.": {
+        "src": "/audio/o/28dc283d85fe6e66.mp3"
+       },
+       "هٰذا الكِيسُ الأَسْوَدَ رَخِيصٌ.": {
+        "src": "/audio/o/913ad1344d2c0375.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d5-susun-qamis-abyad-jamil",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kemeja putih ini bagus."
+      },
+      "answer": "هٰذا القَمِيصُ الأَبْيَضُ جَمِيلٌ",
+      "tokens": [
+       "هٰذا",
+       "القَمِيصُ",
+       "الأَبْيَضُ",
+       "جَمِيلٌ",
+       "أَبْيَضُ"
+      ],
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "القَمِيصُ": {
+        "src": "/audio/o/8ec4919185ab46ed.mp3"
+       },
+       "الأَبْيَضُ": {
+        "src": "/audio/o/6b78a81f88302274.mp3"
+       },
+       "جَمِيلٌ": {
+        "src": "/audio/o/cb58a4b64b58bbeb.mp3"
+       },
+       "أَبْيَضُ": {
+        "src": "/audio/o/81446f5fe68a6c77.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d5-susun-fis-suq-batik",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Di pasar ada banyak batik."
+      },
+      "answer": "فِي السُّوقِ باتِيكٌ كَثِيرٌ",
+      "tokens": [
+       "فِي",
+       "السُّوقِ",
+       "باتِيكٌ",
+       "كَثِيرٌ",
+       "هٰذا"
+      ],
+      "audioMap": {
+       "فِي": {
+        "src": "/audio/o/795f40ec05f82a8d.mp3"
+       },
+       "السُّوقِ": {
+        "src": "/audio/o/cb22721819e461aa.mp3"
+       },
+       "باتِيكٌ": {
+        "src": "/audio/o/70b67dc7bfa06f5b.mp3"
+       },
+       "كَثِيرٌ": {
+        "src": "/audio/o/81d676f6f6805568.mp3"
+       },
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d5-susun-qamis-abi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ini kemeja ayah saya."
+      },
+      "answer": "هٰذا قَمِيصُ أَبِي",
+      "tokens": [
+       "هٰذا",
+       "قَمِيصُ",
+       "أَبِي",
+       "قَمِيصٌ"
+      ],
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "قَمِيصُ": {
+        "src": "/audio/o/d521114193be7546.mp3"
+       },
+       "أَبِي": {
+        "src": "/audio/o/21fd285adcc5f188.mp3"
+       },
+       "قَمِيصٌ": {
+        "src": "/audio/o/11513460442b6074.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u9-d5-lat-isi-asfar",
+     "instruction": "Lengkapi: Ini buku tulis kuning.",
+     "prompt": {
+      "ar": "هٰذا دَفْتَرٌ …",
+      "audio": {
+       "src": "/audio/o/642ce7e8c5e4821e.mp3"
+      },
+      "emoji": "🟡"
+     },
+     "answer": "أَصْفَرُ",
+     "options": [
+      "أَصْفَرُ",
+      "أَصْفَرٌ",
+      "الأَصْفَرُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَصْفَرُ": {
+       "src": "/audio/o/08f313deb3c67e87.mp3"
+      },
+      "أَصْفَرٌ": {
+       "src": "/audio/o/a0e355e955034f6f.mp3"
+      },
+      "الأَصْفَرُ": {
+       "src": "/audio/o/d887c6db411783b3.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d5-lat-tanya-harga-lk",
+     "instruction": "Kamu bertanya harga kepada penjual laki-laki. Pilih kalimatnya",
+     "prompt": {
+      "id": "Permisi, kemeja ini berapa?",
+      "emoji": "🧔"
+     },
+     "answer": "لَوْ سَمَحْتَ، بِكَمْ هٰذا القَمِيصُ؟",
+     "options": [
+      "لَوْ سَمَحْتَ، بِكَمْ هٰذا القَمِيصُ؟",
+      "لَوْ سَمَحْتِ، بِكَمْ هٰذا القَمِيصُ؟",
+      "لَوْ سَمَحْتَ، أَيُّ قَمِيصٍ هٰذا؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "لَوْ سَمَحْتَ، بِكَمْ هٰذا القَمِيصُ؟": {
+       "src": "/audio/o/4369b288d6c2aa2a.mp3"
+      },
+      "لَوْ سَمَحْتِ، بِكَمْ هٰذا القَمِيصُ؟": {
+       "src": "/audio/o/4fb1b395fc69289b.mp3"
+      },
+      "لَوْ سَمَحْتَ، أَيُّ قَمِيصٍ هٰذا؟": {
+       "src": "/audio/o/766efb4a3623536a.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u9-d5-lat-susun-bikam-mujam",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Berapa harga kamus ini?"
+     },
+     "answer": "بِكَمْ هٰذا المُعْجَمُ",
+     "tokens": [
+      "بِكَمْ",
+      "هٰذا",
+      "المُعْجَمُ",
+      "أَيُّ"
+     ],
+     "audioMap": {
+      "بِكَمْ": {
+       "src": "/audio/o/cd4d5683c223190c.mp3"
+      },
+      "هٰذا": {
+       "src": "/audio/o/03ff197b20546c39.mp3"
+      },
+      "المُعْجَمُ": {
+       "src": "/audio/o/839740355085363a.mp3"
+      },
+      "أَيُّ": {
+       "src": "/audio/o/8b2e91b693d703c7.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u9-d5-lat-susun-daftar-fil-kis",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Buku tulisnya di dalam kantong."
+     },
+     "answer": "الدَّفْتَرُ فِي الكِيسِ",
+     "tokens": [
+      "الدَّفْتَرُ",
+      "فِي",
+      "الكِيسِ",
+      "دَفْتَرٌ"
+     ],
+     "audioMap": {
+      "الدَّفْتَرُ": {
+       "src": "/audio/o/bea8d8f4fb8673b8.mp3"
+      },
+      "فِي": {
+       "src": "/audio/o/795f40ec05f82a8d.mp3"
+      },
+      "الكِيسِ": {
+       "src": "/audio/o/c552900b9c1012f1.mp3"
+      },
+      "دَفْتَرٌ": {
+       "src": "/audio/o/2d14cbd6b7ee3d31.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d5-lat-isi-tamyiz-qamis",
+     "instruction": "Lengkapi: Di toko ada lima puluh kemeja.",
+     "prompt": {
+      "ar": "فِي الدُّكّانِ خَمْسُونَ …",
+      "audio": {
+       "src": "/audio/o/e627a67020a2debe.mp3"
+      }
+     },
+     "answer": "قَمِيصًا",
+     "options": [
+      "قَمِيصًا",
+      "قَمِيصٌ",
+      "قَمِيصٍ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "قَمِيصًا": {
+       "src": "/audio/o/0a747360af10ef96.mp3"
+      },
+      "قَمِيصٌ": {
+       "src": "/audio/o/11513460442b6074.mp3"
+      },
+      "قَمِيصٍ": {
+       "src": "/audio/o/9f3e54cc6a436292.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u9-d6",
+   "dars": 6,
+   "title_id": "Bunyi ظ, ز, dan ذ, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "ظَهْرٌ",
+        "audio": {
+         "src": "/audio/o/e2986e190a785c40.mp3"
+        },
+        "pair_ar": "زَهْرٌ"
+       },
+       {
+        "ar": "زَهْرٌ",
+        "audio": {
+         "src": "/audio/o/7ef799de0d30bf70.mp3"
+        },
+        "pair_ar": "ظَهْرٌ"
+       },
+       {
+        "ar": "نَظَرَ",
+        "audio": {
+         "src": "/audio/o/31ed90bc844bde5f.mp3"
+        },
+        "pair_ar": "نَذَرَ"
+       },
+       {
+        "ar": "نَذَرَ",
+        "audio": {
+         "src": "/audio/o/e3e5141dc3bf2dac.mp3"
+        },
+        "pair_ar": "نَظَرَ"
+       },
+       {
+        "ar": "نَظِيفٌ",
+        "audio": {
+         "src": "/audio/o/222051acdae5511e.mp3"
+        },
+        "pair_ar": "نَزِيفٌ"
+       },
+       {
+        "ar": "نَزِيفٌ",
+        "audio": {
+         "src": "/audio/o/a3b35334d6293011.mp3"
+        },
+        "pair_ar": "نَظِيفٌ"
+       },
+       {
+        "ar": "ظِلٌّ",
+        "audio": {
+         "src": "/audio/o/9fc240a1304513f7.mp3"
+        },
+        "pair_ar": "ذِلٌّ"
+       },
+       {
+        "ar": "ذِلٌّ",
+        "audio": {
+         "src": "/audio/o/462323b0c22b0632.mp3"
+        },
+        "pair_ar": "ظِلٌّ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi ظ, ز, dan ذ"
+      },
+      "note_id": "ذ (dzal): ujung lidah di antara gigi atas dan bawah, seperti \"th\" pada kata Inggris \"this\". ظ (zha): posisi lidahnya sama dengan ذ, tetapi suaranya tebal dan berat karena pangkal lidah terangkat. ز (zai): seperti \"z\" biasa, lidah di belakang gigi. Pelajar Indonesia sering mengucapkan ketiganya sebagai \"z\", padahal artinya berubah: ظَهْرٌ = punggung, زَهْرٌ = bunga; نَظَرَ = melihat, نَذَرَ = bernazar; نَظِيفٌ = bersih, نَزِيفٌ = pendarahan; ظِلٌّ = naungan, ذِلٌّ = kehinaan. Kata yang sudah kamu kenal: الظُّهْرُ (zuhur), اُنْظُرِي (lihatlah)."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d6-dengar-zhahr",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "ظَهْرٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/e2986e190a785c40.mp3"
+       }
+      },
+      "answer": "ظَهْرٌ",
+      "options": [
+       "ظَهْرٌ",
+       "زَهْرٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ظَهْرٌ": {
+        "src": "/audio/o/e2986e190a785c40.mp3"
+       },
+       "زَهْرٌ": {
+        "src": "/audio/o/7ef799de0d30bf70.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d6-dengar-nadzara",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "نَذَرَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/e3e5141dc3bf2dac.mp3"
+       }
+      },
+      "answer": "نَذَرَ",
+      "options": [
+       "نَذَرَ",
+       "نَظَرَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَذَرَ": {
+        "src": "/audio/o/e3e5141dc3bf2dac.mp3"
+       },
+       "نَظَرَ": {
+        "src": "/audio/o/31ed90bc844bde5f.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d6-dengar-nazif",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "نَظِيفٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/222051acdae5511e.mp3"
+       }
+      },
+      "answer": "نَظِيفٌ",
+      "options": [
+       "نَظِيفٌ",
+       "نَزِيفٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "نَظِيفٌ": {
+        "src": "/audio/o/222051acdae5511e.mp3"
+       },
+       "نَزِيفٌ": {
+        "src": "/audio/o/a3b35334d6293011.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d6-dengar-dzill",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "ذِلٌّ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/462323b0c22b0632.mp3"
+       }
+      },
+      "answer": "ذِلٌّ",
+      "options": [
+       "ذِلٌّ",
+       "ظِلٌّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ذِلٌّ": {
+        "src": "/audio/o/462323b0c22b0632.mp3"
+       },
+       "ظِلٌّ": {
+        "src": "/audio/o/9fc240a1304513f7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d6-cari-zha",
+      "instruction": "Kata mana yang memuat huruf ظ?",
+      "prompt": {
+       "id": "Cari huruf zha (ظ)"
+      },
+      "answer": "اُنْظُرِي",
+      "options": [
+       "اُنْظُرِي",
+       "أَزْرَقُ",
+       "هٰذا"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "اُنْظُرِي": {
+        "src": "/audio/o/96f72ecd0c79c110.mp3"
+       },
+       "أَزْرَقُ": {
+        "src": "/audio/o/68b5cceca206eab3.mp3"
+       },
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u9-d6-ucap-zhahr",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "ظَهْرٌ",
+       "id": "punggung",
+       "audio": {
+        "src": "/audio/o/e2986e190a785c40.mp3"
+       }
+      },
+      "target": "ظَهْرٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u9-d6-ucap-nazhara",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "نَظَرَ",
+       "id": "dia (lk) melihat",
+       "audio": {
+        "src": "/audio/o/31ed90bc844bde5f.mp3"
+       }
+      },
+      "target": "نَظَرَ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d6-simak-qamis-asfar",
+      "instruction": "Dengarkan. Berapa harga kemeja kuning?",
+      "prompt": {
+       "tts": "بِكَمْ هٰذا القَمِيصُ الأَصْفَرُ؟ بِسِتِّينَ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/f9bb84455622e5e5.mp3"
+       }
+      },
+      "answer": "60 ribu",
+      "options": [
+       "60 ribu",
+       "70 ribu",
+       "90 ribu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d6-simak-kis-abyad",
+      "instruction": "Dengarkan. Apa yang dia minta?",
+      "prompt": {
+       "tts": "أُرِيدُ كِيسًا أَبْيَضَ، لَوْ سَمَحْتِ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/88a9e32199e6b031.mp3"
+       }
+      },
+      "answer": "Kantong putih",
+      "options": [
+       "Kantong putih",
+       "Kantong hitam",
+       "Kemeja putih"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u9-d6-lat-dengar-zahr",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "زَهْرٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/7ef799de0d30bf70.mp3"
+      }
+     },
+     "answer": "زَهْرٌ",
+     "options": [
+      "زَهْرٌ",
+      "ظَهْرٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "زَهْرٌ": {
+       "src": "/audio/o/7ef799de0d30bf70.mp3"
+      },
+      "ظَهْرٌ": {
+       "src": "/audio/o/e2986e190a785c40.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d6-lat-dengar-nazhara",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "نَظَرَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/31ed90bc844bde5f.mp3"
+      }
+     },
+     "answer": "نَظَرَ",
+     "options": [
+      "نَظَرَ",
+      "نَذَرَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "نَظَرَ": {
+       "src": "/audio/o/31ed90bc844bde5f.mp3"
+      },
+      "نَذَرَ": {
+       "src": "/audio/o/e3e5141dc3bf2dac.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d6-lat-dengar-zhill",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "ظِلٌّ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/9fc240a1304513f7.mp3"
+      }
+     },
+     "answer": "ظِلٌّ",
+     "options": [
+      "ظِلٌّ",
+      "ذِلٌّ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ظِلٌّ": {
+       "src": "/audio/o/9fc240a1304513f7.mp3"
+      },
+      "ذِلٌّ": {
+       "src": "/audio/o/462323b0c22b0632.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d6-lat-simak-daftar-ahmar",
+     "instruction": "Dengarkan. Apa yang harganya tiga puluh (ribu)?",
+     "prompt": {
+      "tts": "الدَّفْتَرُ الأَحْمَرُ بِثَلاثِينَ.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/a276835b6e1db41e.mp3"
+      }
+     },
+     "answer": "Buku tulis merah",
+     "options": [
+      "Buku tulis merah",
+      "Buku tulis biru",
+      "Kamus merah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d6-lat-dengar-naziif",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "نَزِيفٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/a3b35334d6293011.mp3"
+      }
+     },
+     "answer": "نَزِيفٌ",
+     "options": [
+      "نَزِيفٌ",
+      "نَظِيفٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "نَزِيفٌ": {
+       "src": "/audio/o/a3b35334d6293011.mp3"
+      },
+      "نَظِيفٌ": {
+       "src": "/audio/o/222051acdae5511e.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u9-d7",
+   "dars": 7,
+   "title_id": "Berbicara: menjual dan membeli",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "أَهْلًا وَسَهْلًا، تَفَضَّلْ!",
+        "id": "Selamat datang, silakan! (kepada pembeli lk)",
+        "emoji": "🤝",
+        "audio": {
+         "src": "/audio/o/e064dac6f773a866.mp3"
+        }
+       },
+       {
+        "ar": "تَفَضَّلِي!",
+        "id": "Silakan! (kepada pembeli pr)",
+        "emoji": "🙌",
+        "audio": {
+         "src": "/audio/o/0310d4d8bd3868a9.mp3"
+        }
+       },
+       {
+        "ar": "بِكَمْ هٰذا؟",
+        "id": "Ini berapa harganya?",
+        "emoji": "🏷️",
+        "audio": {
+         "src": "/audio/o/aaa516f02e6a8570.mp3"
+        }
+       },
+       {
+        "ar": "هٰذا غالٍ!",
+        "id": "Ini mahal!",
+        "emoji": "💸",
+        "audio": {
+         "src": "/audio/o/6847b9204c930c72.mp3"
+        }
+       },
+       {
+        "ar": "هٰذا رَخِيصٌ.",
+        "id": "Ini murah.",
+        "emoji": "👍",
+        "audio": {
+         "src": "/audio/o/b4b77c7b7971ead6.mp3"
+        }
+       },
+       {
+        "ar": "أُرِيدُ هٰذا.",
+        "id": "Saya mau yang ini.",
+        "emoji": "👉",
+        "audio": {
+         "src": "/audio/o/72a8a8fd7e5f7e87.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Ungkapan di toko"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u9-d7-minta-daftar",
+      "instruction": "Kamu pembeli di koperasi. Minta buku tulis dengan sopan, lalu tanyakan harganya",
+      "prompt": {
+       "id": "Penjualnya laki-laki: pakai لَوْ سَمَحْتَ."
+      },
+      "model": [
+       {
+        "ar": "لَوْ سَمَحْتَ، أُرِيدُ دَفْتَرًا.",
+        "id": "Tolong, saya mau buku tulis.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/09ccec65a9674dd8.mp3"
+        }
+       },
+       {
+        "ar": "بِكَمْ هٰذا الدَّفْتَرُ؟",
+        "id": "Berapa harga buku tulis ini?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/d528cc30ce029434.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u9-d7-ucap-law-samahti",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "لَوْ سَمَحْتِ.",
+       "id": "Permisi / tolong. (kepada pr)",
+       "audio": {
+        "src": "/audio/o/d556fd3c518da230.mp3"
+       }
+      },
+      "target": "لَوْ سَمَحْتِ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d7-sambut-pembeli",
+      "instruction": "Seorang pembeli laki-laki masuk ke tokomu. Kamu mengucapkan …",
+      "prompt": {
+       "id": "Menyambut pembeli",
+       "emoji": "🏪"
+      },
+      "answer": "أَهْلًا وَسَهْلًا، تَفَضَّلْ!",
+      "options": [
+       "أَهْلًا وَسَهْلًا، تَفَضَّلْ!",
+       "مَعَ السَّلامَةِ!",
+       "هٰذا غالٍ!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَهْلًا وَسَهْلًا، تَفَضَّلْ!": {
+        "src": "/audio/o/e064dac6f773a866.mp3"
+       },
+       "مَعَ السَّلامَةِ!": {
+        "src": "/audio/o/bf0fd1812b0e8df9.mp3"
+       },
+       "هٰذا غالٍ!": {
+        "src": "/audio/o/6847b9204c930c72.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u9-d7-jadi-penjual",
+      "instruction": "Kamu penjual. Sambut pembeli perempuan dan tanyakan warna yang dia mau",
+      "prompt": {
+       "id": "Pembelinya perempuan: pakai تَفَضَّلِي dan تُرِيدِينَ."
+      },
+      "model": [
+       {
+        "ar": "أَهْلًا وَسَهْلًا، تَفَضَّلِي!",
+        "id": "Selamat datang, silakan! (pr)",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/bbebb3183ed2403a.mp3"
+        }
+       },
+       {
+        "ar": "أَيَّ لَوْنٍ تُرِيدِينَ؟",
+        "id": "Mau warna apa? (pr)",
+        "speaker_ar": "يُوسُف",
+        "audio": {
+         "src": "/audio/o/dde996a2500e0829.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u9-d7-ucap-hadza-ghalin",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "هٰذا غالٍ!",
+       "id": "Ini mahal!",
+       "audio": {
+        "src": "/audio/o/0eba187f4e8a36c6.mp3"
+       }
+      },
+      "target": "هٰذا غالٍ!"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d7-menawar",
+      "instruction": "Harganya sembilan puluh, menurutmu terlalu mahal. Kamu berkata kepada penjual (lk) …",
+      "prompt": {
+       "id": "Menawar harga",
+       "emoji": "🤝"
+      },
+      "answer": "هٰذا غالٍ! بِسَبْعِينَ؟",
+      "options": [
+       "هٰذا غالٍ! بِسَبْعِينَ؟",
+       "هٰذا رَخِيصٌ! بِتِسْعِينَ؟",
+       "أَيَّ لَوْنٍ تُرِيدُ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هٰذا غالٍ! بِسَبْعِينَ؟": {
+        "src": "/audio/o/237688bc1724ec25.mp3"
+       },
+       "هٰذا رَخِيصٌ! بِتِسْعِينَ؟": {
+        "src": "/audio/o/1034bd04f0aeb6b0.mp3"
+       },
+       "أَيَّ لَوْنٍ تُرِيدُ؟": {
+        "src": "/audio/o/5754712b959411f9.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d7-jawab-warna",
+      "instruction": "Penjual bertanya kepadamu. Jawaban yang tepat?",
+      "prompt": {
+       "ar": "أَيَّ لَوْنٍ تُرِيدُ؟",
+       "audio": {
+        "src": "/audio/o/5754712b959411f9.mp3"
+       }
+      },
+      "answer": "أُرِيدُ الأَسْوَدَ.",
+      "options": [
+       "أُرِيدُ الأَسْوَدَ.",
+       "بِعِشْرِينَ.",
+       "أُرِيدُ دَفْتَرًا."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أُرِيدُ الأَسْوَدَ.": {
+        "src": "/audio/o/06a1d7911e8cf503.mp3"
+       },
+       "بِعِشْرِينَ.": {
+        "src": "/audio/o/4d96ed306974cba9.mp3"
+       },
+       "أُرِيدُ دَفْتَرًا.": {
+        "src": "/audio/o/17160c744d052261.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u9-d7-cerita-gambar-toko",
+      "instruction": "Lihat gambar. Ceritakan: ada apa di toko itu, apa warnanya, dan berapa harganya",
+      "prompt": {
+       "id": "Pakai: فِي الدُّكّانِ …، هٰذا قَمِيصٌ …، بِـ …",
+       "img": "/img/o/u9-kalam-toko.webp"
+      },
+      "model": [
+       {
+        "ar": "هٰذا دُكّانٌ فِي السُّوقِ.",
+        "id": "Ini sebuah toko di pasar.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/5b3c4dedff64bf92.mp3"
+        }
+       },
+       {
+        "ar": "فِي الدُّكّانِ قَمِيصٌ أَحْمَرُ وَقَمِيصٌ أَبْيَضُ.",
+        "id": "Di toko itu ada kemeja merah dan kemeja putih.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/82a63211c2cd73d0.mp3"
+        }
+       },
+       {
+        "ar": "القَمِيصُ الأَحْمَرُ بِخَمْسِينَ.",
+        "id": "Kemeja merah itu lima puluh (ribu).",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/a19feddbdddb3cc2.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u9-d7-ucap-uridu-hadza",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أُرِيدُ هٰذا.",
+       "id": "Saya mau yang ini.",
+       "audio": {
+        "src": "/audio/o/73b3d51da6fadc95.mp3"
+       }
+      },
+      "target": "أُرِيدُ هٰذا."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u9-d7-lat-tafaddali",
+     "instruction": "Pembelinya perempuan. Kamu mempersilakan dia dengan …",
+     "prompt": {
+      "id": "Silakan! (pr)",
+      "emoji": "👩"
+     },
+     "answer": "تَفَضَّلِي!",
+     "options": [
+      "تَفَضَّلِي!",
+      "تَفَضَّلْ!",
+      "قُولِي!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "تَفَضَّلِي!": {
+       "src": "/audio/o/0310d4d8bd3868a9.mp3"
+      },
+      "تَفَضَّلْ!": {
+       "src": "/audio/o/23299c3f80eeca69.mp3"
+      },
+      "قُولِي!": {
+       "src": "/audio/o/af0ccd32cb09344e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d7-lat-hadza-rakhis",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هٰذا رَخِيصٌ.",
+      "audio": {
+       "src": "/audio/o/b4b77c7b7971ead6.mp3"
+      }
+     },
+     "answer": "Ini murah.",
+     "options": [
+      "Ini murah.",
+      "Ini mahal.",
+      "Saya mau yang ini."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d7-lat-jawab-bikam",
+     "instruction": "Pembeli bertanya kepadamu. Jawaban yang tepat?",
+     "prompt": {
+      "ar": "بِكَمْ هٰذا الكِيسُ؟",
+      "audio": {
+       "src": "/audio/o/919c312366a8e49c.mp3"
+      }
+     },
+     "answer": "بِعَشَرَةٍ.",
+     "options": [
+      "بِعَشَرَةٍ.",
+      "أُرِيدُ هٰذا.",
+      "الكِيسُ أَسْوَدُ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "بِعَشَرَةٍ.": {
+       "src": "/audio/o/15287b983d5a4cf5.mp3"
+      },
+      "أُرِيدُ هٰذا.": {
+       "src": "/audio/o/72a8a8fd7e5f7e87.mp3"
+      },
+      "الكِيسُ أَسْوَدُ.": {
+       "src": "/audio/o/537a0138b2ada12a.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u9-d7-lat-susun-ahlan-tafaddal",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Selamat datang, silakan! (lk)"
+     },
+     "answer": "أَهْلًا وَسَهْلًا تَفَضَّلْ",
+     "tokens": [
+      "أَهْلًا",
+      "وَسَهْلًا",
+      "تَفَضَّلْ",
+      "تَفَضَّلِي"
+     ],
+     "audioMap": {
+      "أَهْلًا": {
+       "src": "/audio/o/757583947503638a.mp3"
+      },
+      "وَسَهْلًا": {
+       "src": "/audio/o/ae3115f482d99f6e.mp3"
+      },
+      "تَفَضَّلْ": {
+       "src": "/audio/o/f28f31ae53309b58.mp3"
+      },
+      "تَفَضَّلِي": {
+       "src": "/audio/o/71603159949fd890.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u9-d8",
+   "dars": 8,
+   "title_id": "Membaca: batik dan struk belanja",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "يَوْمَ الأَحَدِ، سِيتِي وَعائِشَةُ فِي سُوقِ بِيرِينْغْهارْجُو.",
+        "id": "Hari Ahad, Siti dan Aisyah ada di Pasar Beringharjo.",
+        "audio": {
+         "src": "/audio/o/4571ae77b428dbfa.mp3"
+        }
+       },
+       {
+        "ar": "عائِشَةُ تُرِيدُ قَمِيصَ باتِيكٍ لِأَبِيها.",
+        "id": "Aisyah ingin kemeja batik untuk ayahnya.",
+        "audio": {
+         "src": "/audio/o/c7b17b830849be5f.mp3"
+        }
+       },
+       {
+        "ar": "أَبُوها يُحِبُّ اللَّوْنَ الأَزْرَقَ.",
+        "id": "Ayahnya suka warna biru.",
+        "audio": {
+         "src": "/audio/o/30f2c982a28bc337.mp3"
+        }
+       },
+       {
+        "ar": "ثَمَنُ القَمِيصِ الأَزْرَقِ تِسْعُونَ، وَهٰذا غالٍ.",
+        "id": "Harga kemeja biru itu sembilan puluh (ribu), dan itu mahal.",
+        "audio": {
+         "src": "/audio/o/20fd8de49957eab7.mp3"
+        }
+       },
+       {
+        "ar": "أُمُّ سِيتِي تاجِرَةُ قُماشٍ فِي مِيدان.",
+        "id": "Ibu Siti pedagang kain di Medan.",
+        "audio": {
+         "src": "/audio/o/10631f1e0690a25a.mp3"
+        }
+       },
+       {
+        "ar": "عائِشَةُ تَقُولُ لِلتّاجِرَةِ: بِسَبْعِينَ، لَوْ سَمَحْتِ؟",
+        "id": "Aisyah berkata kepada penjual: Tujuh puluh, boleh?",
+        "audio": {
+         "src": "/audio/o/8cd156b63c4333f1.mp3"
+        }
+       },
+       {
+        "ar": "التّاجِرَةُ تَقُولُ: لا، بِثَمانِينَ.",
+        "id": "Penjual berkata: Tidak bisa, delapan puluh.",
+        "audio": {
+         "src": "/audio/o/82c39851fc43e269.mp3"
+        }
+       },
+       {
+        "ar": "عائِشَةُ تَشْتَرِي القَمِيصَ بِثَمانِينَ.",
+        "id": "Aisyah membeli kemeja itu seharga delapan puluh (ribu).",
+        "audio": {
+         "src": "/audio/o/068d526b2f7b4188.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Batik untuk ayah Aisyah"
+      },
+      "imgs": [
+       "/img/o/u9-baca-batik.webp"
+      ],
+      "instruction_id": "Baca pelan-pelan. Kata baru: تَقُولُ / يَقُولُ = dia (pr/lk) berkata; تَشْتَرِي = dia (pr) membeli."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d8-baca-untuk-ayah",
+      "instruction": "Benar atau salah? \"Aisyah ingin kemeja untuk ayahnya.\"",
+      "prompt": {
+       "ar": "عائِشَةُ تُرِيدُ قَمِيصًا لِأَبِيها.",
+       "audio": {
+        "src": "/audio/o/206f66a03bfd0fea.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d8-baca-warna-ayah",
+      "instruction": "Menurut bacaan 1, ayah Aisyah suka warna apa?",
+      "prompt": {
+       "id": "أَبُوها يُحِبُّ اللَّوْنَ …"
+      },
+      "answer": "Biru",
+      "options": [
+       "Biru",
+       "Hijau",
+       "Hitam"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d8-baca-harga-akhir",
+      "instruction": "Menurut bacaan 1, Aisyah membeli kemeja itu seharga …",
+      "prompt": {
+       "id": "Harga setelah menawar"
+      },
+      "answer": "80 ribu",
+      "options": [
+       "80 ribu",
+       "90 ribu",
+       "70 ribu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d8-baca-qamis-rakhis",
+      "instruction": "Benar atau salah? \"Harga awal kemeja biru itu murah.\"",
+      "prompt": {
+       "ar": "ثَمَنُ القَمِيصِ الأَزْرَقِ رَخِيصٌ.",
+       "audio": {
+        "src": "/audio/o/b12aaaca8a5a9334.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "دُكّانُ مَعْهَدِ الهُدَى",
+        "id": "Koperasi Ma'had al-Huda",
+        "audio": {
+         "src": "/audio/o/74752167bf2bf065.mp3"
+        }
+       },
+       {
+        "ar": "اليَوْمُ: يَوْمُ الثُّلاثاءِ",
+        "id": "Hari: Selasa",
+        "audio": {
+         "src": "/audio/o/c4edc231bf4a01bf.mp3"
+        }
+       },
+       {
+        "ar": "البائِعُ: يُوسُفُ",
+        "id": "Penjual: Yusuf",
+        "audio": {
+         "src": "/audio/o/c5230a3d9edc2bdd.mp3"
+        }
+       },
+       {
+        "ar": "المُشْتَرِي: بُودِي",
+        "id": "Pembeli: Budi",
+        "audio": {
+         "src": "/audio/o/ed1e2160d6394ad4.mp3"
+        }
+       },
+       {
+        "ar": "دَفْتَرٌ أَزْرَقُ: عِشْرُونَ",
+        "id": "Buku tulis biru: 20",
+        "audio": {
+         "src": "/audio/o/4d5d18c9972539df.mp3"
+        }
+       },
+       {
+        "ar": "مُعْجَمٌ صَغِيرٌ: خَمْسُونَ",
+        "id": "Kamus kecil: 50",
+        "audio": {
+         "src": "/audio/o/f8f9beb9a18ac351.mp3"
+        }
+       },
+       {
+        "ar": "المَجْمُوعُ: سَبْعُونَ",
+        "id": "Jumlah: 70",
+        "audio": {
+         "src": "/audio/o/f30992eb52dda8b1.mp3"
+        }
+       },
+       {
+        "ar": "شُكْرًا، مَعَ السَّلامَةِ!",
+        "id": "Terima kasih, sampai jumpa!",
+        "audio": {
+         "src": "/audio/o/08234972f2fde812.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Struk koperasi"
+      },
+      "imgs": [
+       "/img/o/u9-struk.webp"
+      ],
+      "instruction_id": "Ini struk belanja Budi dari koperasi ma'had. Harga dalam ribu rupiah. Kata baru: البائِعُ = penjual; المُشْتَرِي = pembeli; المَجْمُوعُ = jumlah."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d8-struk-pembeli",
+      "instruction": "Menurut struk, siapa pembelinya?",
+      "prompt": {
+       "ar": "المُشْتَرِي: …",
+       "audio": {
+        "src": "/audio/o/efc69db1c8976588.mp3"
+       }
+      },
+      "answer": "Budi",
+      "options": [
+       "Budi",
+       "Yusuf",
+       "Rizki"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d8-struk-harga-mujam",
+      "instruction": "Menurut struk, berapa harga kamus kecil?",
+      "prompt": {
+       "ar": "مُعْجَمٌ صَغِيرٌ: …",
+       "audio": {
+        "src": "/audio/o/905c45e28b195079.mp3"
+       },
+       "emoji": "📖"
+      },
+      "answer": "50 ribu",
+      "options": [
+       "50 ribu",
+       "20 ribu",
+       "70 ribu"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d8-struk-warna-daftar",
+      "instruction": "Menurut struk, apa warna buku tulisnya?",
+      "prompt": {
+       "id": "دَفْتَرٌ …",
+       "emoji": "📒"
+      },
+      "answer": "أَزْرَقُ",
+      "options": [
+       "أَزْرَقُ",
+       "أَحْمَرُ",
+       "أَصْفَرُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَزْرَقُ": {
+        "src": "/audio/o/68b5cceca206eab3.mp3"
+       },
+       "أَحْمَرُ": {
+        "src": "/audio/o/9f53ced3fef70f35.mp3"
+       },
+       "أَصْفَرُ": {
+        "src": "/audio/o/08f313deb3c67e87.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d8-struk-majmu",
+      "instruction": "Menurut struk, berapa jumlah belanja Budi?",
+      "prompt": {
+       "ar": "المَجْمُوعُ: …",
+       "audio": {
+        "src": "/audio/o/b4d71527543d34bf.mp3"
+       }
+      },
+      "answer": "سَبْعُونَ",
+      "options": [
+       "سَبْعُونَ",
+       "سَبْعَةٌ",
+       "تِسْعُونَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سَبْعُونَ": {
+        "src": "/audio/o/c1f5ed4257d63dc9.mp3"
+       },
+       "سَبْعَةٌ": {
+        "src": "/audio/o/40b45e621fd48008.mp3"
+       },
+       "تِسْعُونَ": {
+        "src": "/audio/o/7b025004cfa283a2.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u9-d8-lat-baca-pasar",
+     "instruction": "Menurut bacaan 1, di mana Siti dan Aisyah pada hari Ahad?",
+     "prompt": {
+      "id": "يَوْمَ الأَحَدِ …"
+     },
+     "answer": "Di Pasar Beringharjo",
+     "options": [
+      "Di Pasar Beringharjo",
+      "Di koperasi ma'had",
+      "Di Medan"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d8-lat-baca-ibu-siti",
+     "instruction": "Benar atau salah? \"Ibu Siti pedagang kain.\"",
+     "prompt": {
+      "ar": "أُمُّ سِيتِي تاجِرَةُ قُماشٍ.",
+      "audio": {
+       "src": "/audio/o/ca045dbafbf6b4a3.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d8-lat-struk-penjual",
+     "instruction": "Menurut struk, siapa penjualnya?",
+     "prompt": {
+      "ar": "البائِعُ: …",
+      "audio": {
+       "src": "/audio/o/54922fdd4fc96248.mp3"
+      }
+     },
+     "answer": "Yusuf",
+     "options": [
+      "Yusuf",
+      "Budi",
+      "Siti"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d8-lat-struk-hari",
+     "instruction": "Menurut struk, Budi berbelanja pada hari apa?",
+     "prompt": {
+      "ar": "اليَوْمُ: يَوْمُ الثُّلاثاءِ",
+      "audio": {
+       "src": "/audio/o/c4edc231bf4a01bf.mp3"
+      }
+     },
+     "answer": "Selasa",
+     "options": [
+      "Selasa",
+      "Kamis",
+      "Ahad"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u9-d9",
+   "dars": 9,
+   "title_id": "Menulis: isian dan kalimat",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "أَبْيَضُ",
+        "id": "putih",
+        "audio": {
+         "src": "/audio/o/81446f5fe68a6c77.mp3"
+        }
+       },
+       {
+        "ar": "أَسْوَدُ",
+        "id": "hitam",
+        "audio": {
+         "src": "/audio/o/5cd105a039fc2d19.mp3"
+        }
+       },
+       {
+        "ar": "أَحْمَرُ",
+        "id": "merah",
+        "audio": {
+         "src": "/audio/o/9f53ced3fef70f35.mp3"
+        }
+       },
+       {
+        "ar": "أَخْضَرُ",
+        "id": "hijau",
+        "audio": {
+         "src": "/audio/o/b27d1549731a450f.mp3"
+        }
+       },
+       {
+        "ar": "أَزْرَقُ",
+        "id": "biru",
+        "audio": {
+         "src": "/audio/o/68b5cceca206eab3.mp3"
+        }
+       },
+       {
+        "ar": "أَصْفَرُ",
+        "id": "kuning",
+        "audio": {
+         "src": "/audio/o/08f313deb3c67e87.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Warna berpola أَفْعَلُ"
+      },
+      "instruction_id": "Semua warna diawali أَ dan berpola أَفْعَلُ. Telusuri tulisannya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d9-isi-daftar-asfar",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "الدَّفْتَرُ …",
+       "audio": {
+        "src": "/audio/o/a836d39fc7b51c72.mp3"
+       },
+       "id": "Buku tulisnya kuning.",
+       "emoji": "🟡"
+      },
+      "answer": "أَصْفَرُ",
+      "options": [
+       "أَصْفَرُ",
+       "أَخْضَرُ",
+       "أَحْمَرُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَصْفَرُ": {
+        "src": "/audio/o/08f313deb3c67e87.mp3"
+       },
+       "أَخْضَرُ": {
+        "src": "/audio/o/b27d1549731a450f.mp3"
+       },
+       "أَحْمَرُ": {
+        "src": "/audio/o/9f53ced3fef70f35.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d9-eja-asfar",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "أَصْفَرُ (kuning)"
+      },
+      "answer": "أ ص ف ر",
+      "tokens": [
+       "أ",
+       "ص",
+       "ف",
+       "ر",
+       "س"
+      ],
+      "audioMap": {
+       "أ": {
+        "src": "/audio/o/16dfbde94d5f6724.mp3"
+       },
+       "ص": {
+        "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+       },
+       "ف": {
+        "src": "/audio/o/da15928288f0c438.mp3"
+       },
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d9-eja-rakhis",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "رَخِيصٌ (murah)"
+      },
+      "answer": "ر خ ي ص",
+      "tokens": [
+       "ر",
+       "خ",
+       "ي",
+       "ص",
+       "ح"
+      ],
+      "audioMap": {
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       },
+       "ي": {
+        "src": "/audio/o/51f9dfe25dac5366.mp3"
+       },
+       "ص": {
+        "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+       },
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d9-huruf-mujam",
+      "instruction": "Huruf apa yang hilang?",
+      "prompt": {
+       "id": "مُعْ…َمٌ (kamus)"
+      },
+      "answer": "ج",
+      "options": [
+       "ج",
+       "ح",
+       "خ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ج": {
+        "src": "/audio/o/019a195a0b3c1c91.mp3"
+       },
+       "ح": {
+        "src": "/audio/o/0b4f3f2b87369a81.mp3"
+       },
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d9-tulis-ghalin",
+      "instruction": "Mana tulisan \"mahal\" yang benar?",
+      "prompt": {
+       "id": "mahal"
+      },
+      "answer": "غالٍ",
+      "options": [
+       "غالٍ",
+       "قالٍ",
+       "عالٍ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "غالٍ": {
+        "src": "/audio/o/0cf3deb8cbcd180e.mp3"
+       },
+       "قالٍ": {
+        "src": "/audio/o/a3690cf6a2bc7384.mp3"
+       },
+       "عالٍ": {
+        "src": "/audio/o/fb5c0dcb6c2a7e05.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u9-d9-isi-bikam-hadza",
+      "instruction": "Lengkapi kalimatnya",
+      "prompt": {
+       "ar": "بِكَمْ … القَمِيصُ؟",
+       "audio": {
+        "src": "/audio/o/9c952e286c004549.mp3"
+       },
+       "id": "Berapa harga kemeja ini?"
+      },
+      "answer": "هٰذا",
+      "options": [
+       "هٰذا",
+       "هٰذِهِ",
+       "أَيُّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       },
+       "أَيُّ": {
+        "src": "/audio/o/8b2e91b693d703c7.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d9-susun-qamis-rakhis",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kemeja ini murah."
+      },
+      "answer": "هٰذا القَمِيصُ رَخِيصٌ",
+      "tokens": [
+       "هٰذا",
+       "القَمِيصُ",
+       "رَخِيصٌ",
+       "غالٍ"
+      ],
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "القَمِيصُ": {
+        "src": "/audio/o/8ec4919185ab46ed.mp3"
+       },
+       "رَخِيصٌ": {
+        "src": "/audio/o/e6c73a0ef5a0fe80.mp3"
+       },
+       "غالٍ": {
+        "src": "/audio/o/0cf3deb8cbcd180e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d9-susun-urid-kis-aswad",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya mau kantong hitam, tolong. (kepada lk)"
+      },
+      "answer": "أُرِيدُ كِيسًا أَسْوَدَ لَوْ سَمَحْتَ",
+      "tokens": [
+       "أُرِيدُ",
+       "كِيسًا",
+       "أَسْوَدَ",
+       "لَوْ",
+       "سَمَحْتَ",
+       "سَمَحْتِ"
+      ],
+      "audioMap": {
+       "أُرِيدُ": {
+        "src": "/audio/o/16c05b31f9c09253.mp3"
+       },
+       "كِيسًا": {
+        "src": "/audio/o/baf17b311584a565.mp3"
+       },
+       "أَسْوَدَ": {
+        "src": "/audio/o/64c08c25f3c8c561.mp3"
+       },
+       "لَوْ": {
+        "src": "/audio/o/7522905dc2ae6130.mp3"
+       },
+       "سَمَحْتَ": {
+        "src": "/audio/o/115887b6eabe03bb.mp3"
+       },
+       "سَمَحْتِ": {
+        "src": "/audio/o/edefbca87644b9e6.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u9-d9-eja-khamsun",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "خَمْسُونَ (lima puluh)"
+      },
+      "answer": "خ م س و ن",
+      "tokens": [
+       "خ",
+       "م",
+       "س",
+       "و",
+       "ن",
+       "ي"
+      ],
+      "audioMap": {
+       "خ": {
+        "src": "/audio/o/fc5d4f118da77e38.mp3"
+       },
+       "م": {
+        "src": "/audio/o/a6354d34017cd6cb.mp3"
+       },
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       },
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       },
+       "ن": {
+        "src": "/audio/o/ce5720365c20c36e.mp3"
+       },
+       "ي": {
+        "src": "/audio/o/51f9dfe25dac5366.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u9-d9-lat-huruf-tsaman",
+     "instruction": "Huruf apa yang hilang?",
+     "prompt": {
+      "id": "…َمَنٌ (harga)"
+     },
+     "answer": "ث",
+     "options": [
+      "ث",
+      "س",
+      "ت"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ث": {
+       "src": "/audio/o/72023a7517b88474.mp3"
+      },
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      },
+      "ت": {
+       "src": "/audio/o/0524363a6f53e9de.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u9-d9-lat-eja-kis",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "كِيسٌ (kantong)"
+     },
+     "answer": "ك ي س",
+     "tokens": [
+      "ك",
+      "ي",
+      "س",
+      "ص"
+     ],
+     "audioMap": {
+      "ك": {
+       "src": "/audio/o/58fba7de9c43a599.mp3"
+      },
+      "ي": {
+       "src": "/audio/o/51f9dfe25dac5366.mp3"
+      },
+      "س": {
+       "src": "/audio/o/36a5144d01eaf081.mp3"
+      },
+      "ص": {
+       "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u9-d9-lat-susun-mujam-saghir",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Ini kamus kecil."
+     },
+     "answer": "هٰذا مُعْجَمٌ صَغِيرٌ",
+     "tokens": [
+      "هٰذا",
+      "مُعْجَمٌ",
+      "صَغِيرٌ",
+      "كَبِيرٌ"
+     ],
+     "audioMap": {
+      "هٰذا": {
+       "src": "/audio/o/03ff197b20546c39.mp3"
+      },
+      "مُعْجَمٌ": {
+       "src": "/audio/o/5f1fc0f53ceeb14c.mp3"
+      },
+      "صَغِيرٌ": {
+       "src": "/audio/o/e0f490aaa8f1e871.mp3"
+      },
+      "كَبِيرٌ": {
+       "src": "/audio/o/baa09bcf592f0c5a.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u9-d9-lat-isi-kis-akhdar",
+     "instruction": "Lengkapi kalimatnya",
+     "prompt": {
+      "ar": "الكِيسُ …",
+      "audio": {
+       "src": "/audio/o/4b0fbf7259a2d9f8.mp3"
+      },
+      "id": "Kantongnya hijau.",
+      "emoji": "🟢"
+     },
+     "answer": "أَخْضَرُ",
+     "options": [
+      "أَخْضَرُ",
+      "أَزْرَقُ",
+      "أَسْوَدُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَخْضَرُ": {
+       "src": "/audio/o/b27d1549731a450f.mp3"
+      },
+      "أَزْرَقُ": {
+       "src": "/audio/o/68b5cceca206eab3.mp3"
+      },
+      "أَسْوَدُ": {
+       "src": "/audio/o/5cd105a039fc2d19.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

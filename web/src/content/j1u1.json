@@ -1,0 +1,4056 @@
+{
+ "id": "j1u1",
+ "book": "1a",
+ "number": 1,
+ "title_ar": "التَّحِيَّةُ وَالتَّعارُفُ",
+ "title_id": "Salam dan perkenalan",
+ "lessons": [
+  {
+   "id": "j1u1-d1",
+   "dars": 1,
+   "title_id": "Kenalan di asrama",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ.",
+        "id": "Assalamualaikum.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/e7d8432a84d0871c.mp3"
+        }
+       },
+       {
+        "ar": "وَعَلَيْكُمُ السَّلامُ وَرَحْمَةُ اللّٰهِ.",
+        "id": "Waalaikumussalam warahmatullah.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/b49848251bcdfdf1.mp3"
+        }
+       },
+       {
+        "ar": "أَنا رِزْقِي. ما اسْمُكَ؟",
+        "id": "Saya Rizki. Siapa namamu? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/726e4074f860709a.mp3"
+        }
+       },
+       {
+        "ar": "اِسْمِي بُودِي.",
+        "id": "Nama saya Budi.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/c234cdd5c5f2c4fe.mp3"
+        }
+       },
+       {
+        "ar": "أَهْلًا يا بُودِي. مِنْ أَيْنَ أَنْتَ؟",
+        "id": "Halo, Budi. Kamu dari mana? (lk)",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/9598e76aba3cd790.mp3"
+        }
+       },
+       {
+        "ar": "أَنا مِنْ سُورابايا. وَأَنْتَ؟",
+        "id": "Saya dari Surabaya. Kalau kamu?",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/0f017e9239698bd3.mp3"
+        }
+       },
+       {
+        "ar": "أَنا مِنْ بانْدُونْغ.",
+        "id": "Saya dari Bandung.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/e4580a1949b7d6da.mp3"
+        }
+       },
+       {
+        "ar": "أَهْلًا وَسَهْلًا!",
+        "id": "Selamat datang!",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/17b28ae87202e234.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 1"
+      },
+      "imgs": [
+       "/img/o/u1-asrama.webp"
+      ],
+      "instruction_id": "Hari pertama di asrama ma'had. Rizki bertemu teman sekamarnya."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "اِسْمٌ",
+        "id": "nama · ★ isim",
+        "emoji": "🏷️",
+        "audio": {
+         "src": "/audio/o/393e9d446501ac6d.mp3"
+        }
+       },
+       {
+        "ar": "أَنا",
+        "id": "saya",
+        "emoji": "🙋",
+        "audio": {
+         "src": "/audio/o/9eee807a139555c1.mp3"
+        }
+       },
+       {
+        "ar": "أَنْتَ",
+        "id": "kamu (lk)",
+        "emoji": "👉",
+        "audio": {
+         "src": "/audio/o/e9f3a0bd3c503fee.mp3"
+        }
+       },
+       {
+        "ar": "مِنْ أَيْنَ؟",
+        "id": "dari mana?",
+        "emoji": "🗺️",
+        "audio": {
+         "src": "/audio/o/6e8347baf119f28d.mp3"
+        }
+       },
+       {
+        "ar": "أَهْلًا وَسَهْلًا",
+        "id": "selamat datang",
+        "emoji": "🤝",
+        "audio": {
+         "src": "/audio/o/57f0defbea39bfef.mp3"
+        }
+       },
+       {
+        "ar": "يا",
+        "id": "wahai (memanggil nama)",
+        "emoji": "📣",
+        "audio": {
+         "src": "/audio/o/ff001925c3f4cb75.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d1-ma-ismuka-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "ما اسْمُكَ؟",
+       "audio": {
+        "src": "/audio/o/c893d21cad4adadb.mp3"
+       }
+      },
+      "answer": "Siapa namamu? (lk)",
+      "options": [
+       "Siapa namamu? (lk)",
+       "Kamu dari mana? (lk)",
+       "Selamat datang!"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d1-balas-salam",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "السَّلامُ عَلَيْكُمْ.",
+       "audio": {
+        "src": "/audio/o/d71d93ed1810592f.mp3"
+       }
+      },
+      "answer": "وَعَلَيْكُمُ السَّلامُ.",
+      "options": [
+       "وَعَلَيْكُمُ السَّلامُ.",
+       "أَنا مِنْ بانْدُونْغ.",
+       "اِسْمِي بُودِي."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "وَعَلَيْكُمُ السَّلامُ.": {
+        "src": "/audio/o/f43ab2bfd0d99792.mp3"
+       },
+       "أَنا مِنْ بانْدُونْغ.": {
+        "src": "/audio/o/2294a5799e9e7c3d.mp3"
+       },
+       "اِسْمِي بُودِي.": {
+        "src": "/audio/o/433296ff2f9ce2b8.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d1-dengar-min-aina",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "مِنْ أَيْنَ أَنْتَ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/fb14741da573e632.mp3"
+       }
+      },
+      "answer": "Kamu dari mana? (lk)",
+      "options": [
+       "Kamu dari mana? (lk)",
+       "Siapa namamu? (lk)",
+       "Saya dari Bandung."
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d1-budi-asal",
+      "instruction": "Menurut dialog, Budi dari mana?",
+      "prompt": {
+       "id": "بُودِي مِنْ …",
+       "emoji": "🏙️"
+      },
+      "answer": "Surabaya",
+      "options": [
+       "Surabaya",
+       "Bandung",
+       "Yogyakarta"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d1-susun-ismi-budi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Nama saya Budi."
+      },
+      "answer": "اِسْمِي بُودِي",
+      "tokens": [
+       "اِسْمِي",
+       "بُودِي",
+       "أَنْتَ"
+      ],
+      "audioMap": {
+       "اِسْمِي": {
+        "src": "/audio/o/c20c1541a98f10a8.mp3"
+       },
+       "بُودِي": {
+        "src": "/audio/o/3901a2ba60debb4a.mp3"
+       },
+       "أَنْتَ": {
+        "src": "/audio/o/e9f3a0bd3c503fee.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d1-susun-ana-min-bandung",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Saya dari Bandung."
+      },
+      "answer": "أَنا مِنْ بانْدُونْغ",
+      "tokens": [
+       "أَنا",
+       "مِنْ",
+       "بانْدُونْغ",
+       "أَيْنَ"
+      ],
+      "audioMap": {
+       "أَنا": {
+        "src": "/audio/o/9eee807a139555c1.mp3"
+       },
+       "مِنْ": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       },
+       "بانْدُونْغ": {
+        "src": "/audio/o/5bc0bb3e585abcc2.mp3"
+       },
+       "أَيْنَ": {
+        "src": "/audio/o/2c4225894606e007.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d1-anta-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "أَنْتَ",
+       "audio": {
+        "src": "/audio/o/e9f3a0bd3c503fee.mp3"
+       }
+      },
+      "answer": "kamu (lk)",
+      "options": [
+       "kamu (lk)",
+       "saya",
+       "nama"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u1-d1-ucap-salam",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "السَّلامُ عَلَيْكُمْ.",
+       "id": "Assalamualaikum.",
+       "audio": {
+        "src": "/audio/o/e7d8432a84d0871c.mp3"
+       }
+      },
+      "target": "السَّلامُ عَلَيْكُمْ."
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u1-d1-lat-ismi-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "اِسْمِي بُودِي.",
+      "audio": {
+       "src": "/audio/o/433296ff2f9ce2b8.mp3"
+      }
+     },
+     "answer": "Nama saya Budi.",
+     "options": [
+      "Nama saya Budi.",
+      "Saya dari Surabaya.",
+      "Siapa namamu? (lk)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d1-lat-ahlan-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أَهْلًا وَسَهْلًا!",
+      "audio": {
+       "src": "/audio/o/408f018ca65e3153.mp3"
+      }
+     },
+     "answer": "Selamat datang!",
+     "options": [
+      "Selamat datang!",
+      "Assalamualaikum.",
+      "Kalau kamu?"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d1-lat-dengar-ismi",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "ما اسْمُكَ؟",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/c893d21cad4adadb.mp3"
+      }
+     },
+     "answer": "ما اسْمُكَ؟",
+     "options": [
+      "ما اسْمُكَ؟",
+      "مِنْ أَيْنَ أَنْتَ؟",
+      "أَهْلًا وَسَهْلًا!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ما اسْمُكَ؟": {
+       "src": "/audio/o/c893d21cad4adadb.mp3"
+      },
+      "مِنْ أَيْنَ أَنْتَ؟": {
+       "src": "/audio/o/fb14741da573e632.mp3"
+      },
+      "أَهْلًا وَسَهْلًا!": {
+       "src": "/audio/o/408f018ca65e3153.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u1-d1-lat-susun-min-aina",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Kamu dari mana? (lk)"
+     },
+     "answer": "مِنْ أَيْنَ أَنْتَ",
+     "tokens": [
+      "مِنْ",
+      "أَيْنَ",
+      "أَنْتَ",
+      "أَنا"
+     ],
+     "audioMap": {
+      "مِنْ": {
+       "src": "/audio/o/b112ec2cecfd09bc.mp3"
+      },
+      "أَيْنَ": {
+       "src": "/audio/o/2c4225894606e007.mp3"
+      },
+      "أَنْتَ": {
+       "src": "/audio/o/e9f3a0bd3c503fee.mp3"
+      },
+      "أَنا": {
+       "src": "/audio/o/9eee807a139555c1.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d1-lat-rizki-asal",
+     "instruction": "Menurut dialog, Rizki dari mana?",
+     "prompt": {
+      "id": "رِزْقِي مِنْ …"
+     },
+     "answer": "Bandung",
+     "options": [
+      "Bandung",
+      "Surabaya",
+      "Medan"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u1-d2",
+   "dars": 2,
+   "title_id": "Teman dari Malaysia",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "صَباحَ الخَيْرِ!",
+        "id": "Selamat pagi!",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/c517000ee9f3ecae.mp3"
+        }
+       },
+       {
+        "ar": "صَباحَ النُّورِ!",
+        "id": "Selamat pagi juga!",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/8d87ae62a3a5a33f.mp3"
+        }
+       },
+       {
+        "ar": "أَنا سِيتِي. ما اسْمُكِ؟",
+        "id": "Saya Siti. Siapa namamu? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/75544731bdee4e4a.mp3"
+        }
+       },
+       {
+        "ar": "اِسْمِي عائِشَةُ.",
+        "id": "Nama saya Aisyah.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/3d4ede43e2847124.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ أَنْتِ إِنْدُونِيسِيَّةٌ؟",
+        "id": "Apakah kamu orang Indonesia? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/7cdd4fed9c9ba8b2.mp3"
+        }
+       },
+       {
+        "ar": "لا، أَنا مالِيزِيَّةٌ، مِنْ كُوالالُمْبُور.",
+        "id": "Bukan, saya orang Malaysia, dari Kuala Lumpur.",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/41a64fe7df59c36c.mp3"
+        }
+       },
+       {
+        "ar": "أَهْلًا وَسَهْلًا يا عائِشَةُ!",
+        "id": "Selamat datang, Aisyah!",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/aabe498c773f4a16.mp3"
+        }
+       },
+       {
+        "ar": "أَهْلًا بِكِ.",
+        "id": "Terima kasih, senang bertemu denganmu. (pr)",
+        "speaker_ar": "عائِشَة",
+        "audio": {
+         "src": "/audio/o/344c268883f67e31.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 2"
+      },
+      "imgs": [
+       "/img/o/u1-asrama-putri.webp"
+      ],
+      "instruction_id": "Pagi hari di asrama putri. Siti menyapa teman barunya."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "صَباحَ الخَيْرِ",
+        "id": "selamat pagi",
+        "emoji": "🌅",
+        "audio": {
+         "src": "/audio/o/e5160b0927c62c39.mp3"
+        }
+       },
+       {
+        "ar": "صَباحَ النُّورِ",
+        "id": "selamat pagi juga (balasan)",
+        "emoji": "☀️",
+        "audio": {
+         "src": "/audio/o/146fd06ddc09d16d.mp3"
+        }
+       },
+       {
+        "ar": "أَنْتِ",
+        "id": "kamu (pr)",
+        "emoji": "👉",
+        "audio": {
+         "src": "/audio/o/99f73814b1c1b566.mp3"
+        }
+       },
+       {
+        "ar": "هَلْ",
+        "id": "apakah",
+        "emoji": "❓",
+        "audio": {
+         "src": "/audio/o/88964434a18c7513.mp3"
+        }
+       },
+       {
+        "ar": "نَعَمْ",
+        "id": "ya",
+        "emoji": "✅",
+        "audio": {
+         "src": "/audio/o/8dab884864dbd808.mp3"
+        }
+       },
+       {
+        "ar": "لا",
+        "id": "tidak / bukan",
+        "emoji": "❌",
+        "audio": {
+         "src": "/audio/o/de6b0a90d4d0c2cb.mp3"
+        }
+       },
+       {
+        "ar": "إِنْدُونِيسِيَّةٌ",
+        "id": "orang Indonesia (pr)",
+        "emoji": "👩",
+        "audio": {
+         "src": "/audio/o/382fd2f51db035f5.mp3"
+        }
+       },
+       {
+        "ar": "مالِيزِيَّةٌ",
+        "id": "orang Malaysia (pr)",
+        "emoji": "👩",
+        "audio": {
+         "src": "/audio/o/d02eea7f2fe8e445.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d2-ma-ismuki-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "ما اسْمُكِ؟",
+       "audio": {
+        "src": "/audio/o/f646947550fc6e59.mp3"
+       }
+      },
+      "answer": "Siapa namamu? (pr)",
+      "options": [
+       "Siapa namamu? (pr)",
+       "Siapa namamu? (lk)",
+       "Kamu dari mana? (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d2-balas-sabah",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "صَباحَ الخَيْرِ!",
+       "audio": {
+        "src": "/audio/o/3266a81b74c98373.mp3"
+       }
+      },
+      "answer": "صَباحَ النُّورِ!",
+      "options": [
+       "صَباحَ النُّورِ!",
+       "وَعَلَيْكُمُ السَّلامُ.",
+       "أَهْلًا يا بُودِي."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صَباحَ النُّورِ!": {
+        "src": "/audio/o/edb4e46adf956c98.mp3"
+       },
+       "وَعَلَيْكُمُ السَّلامُ.": {
+        "src": "/audio/o/f43ab2bfd0d99792.mp3"
+       },
+       "أَهْلًا يا بُودِي.": {
+        "src": "/audio/o/c4b743a570fd0406.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d2-kamu-pr",
+      "instruction": "Kata \"kamu\" untuk perempuan adalah …",
+      "prompt": {
+       "id": "kamu (pr)"
+      },
+      "answer": "أَنْتِ",
+      "options": [
+       "أَنْتِ",
+       "أَنْتَ",
+       "أَنا"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَنْتِ": {
+        "src": "/audio/o/99f73814b1c1b566.mp3"
+       },
+       "أَنْتَ": {
+        "src": "/audio/o/e9f3a0bd3c503fee.mp3"
+       },
+       "أَنا": {
+        "src": "/audio/o/9eee807a139555c1.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d2-dengar-hal-anti",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "هَلْ أَنْتِ إِنْدُونِيسِيَّةٌ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/3d45282f00d5afe9.mp3"
+       }
+      },
+      "answer": "Apakah kamu orang Indonesia? (pr)",
+      "options": [
+       "Apakah kamu orang Indonesia? (pr)",
+       "Apakah kamu orang Malaysia? (pr)",
+       "Kamu dari mana? (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d2-aisyah-asal",
+      "instruction": "Menurut dialog, Aisyah orang mana?",
+      "prompt": {
+       "id": "عائِشَةُ …"
+      },
+      "answer": "Malaysia",
+      "options": [
+       "Malaysia",
+       "Indonesia",
+       "Mesir"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d2-susun-hal-anti",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Apakah kamu orang Indonesia? (pr)"
+      },
+      "answer": "هَلْ أَنْتِ إِنْدُونِيسِيَّةٌ",
+      "tokens": [
+       "هَلْ",
+       "أَنْتِ",
+       "إِنْدُونِيسِيَّةٌ",
+       "أَنْتَ"
+      ],
+      "audioMap": {
+       "هَلْ": {
+        "src": "/audio/o/88964434a18c7513.mp3"
+       },
+       "أَنْتِ": {
+        "src": "/audio/o/99f73814b1c1b566.mp3"
+       },
+       "إِنْدُونِيسِيَّةٌ": {
+        "src": "/audio/o/382fd2f51db035f5.mp3"
+       },
+       "أَنْتَ": {
+        "src": "/audio/o/e9f3a0bd3c503fee.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d2-naam-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "نَعَمْ",
+       "audio": {
+        "src": "/audio/o/8dab884864dbd808.mp3"
+       }
+      },
+      "answer": "ya",
+      "options": [
+       "ya",
+       "tidak",
+       "apakah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u1-d2-ucap-sabah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "صَباحَ الخَيْرِ!",
+       "id": "Selamat pagi!",
+       "audio": {
+        "src": "/audio/o/c517000ee9f3ecae.mp3"
+       }
+      },
+      "target": "صَباحَ الخَيْرِ!"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u1-d2-lat-la-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "لا",
+      "audio": {
+       "src": "/audio/o/de6b0a90d4d0c2cb.mp3"
+      }
+     },
+     "answer": "tidak / bukan",
+     "options": [
+      "tidak / bukan",
+      "ya",
+      "apakah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d2-lat-dengar-sabah",
+     "instruction": "Dengarkan, lalu pilih yang kamu dengar",
+     "prompt": {
+      "tts": "صَباحَ النُّورِ!",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/edb4e46adf956c98.mp3"
+      }
+     },
+     "answer": "صَباحَ النُّورِ!",
+     "options": [
+      "صَباحَ النُّورِ!",
+      "صَباحَ الخَيْرِ!",
+      "أَهْلًا بِكِ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "صَباحَ النُّورِ!": {
+       "src": "/audio/o/edb4e46adf956c98.mp3"
+      },
+      "صَباحَ الخَيْرِ!": {
+       "src": "/audio/o/3266a81b74c98373.mp3"
+      },
+      "أَهْلًا بِكِ.": {
+       "src": "/audio/o/55ca768bd4395efa.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u1-d2-lat-susun-malaysia",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya orang Malaysia. (pr)"
+     },
+     "answer": "أَنا مالِيزِيَّةٌ",
+     "tokens": [
+      "أَنا",
+      "مالِيزِيَّةٌ",
+      "أَنْتِ"
+     ],
+     "audioMap": {
+      "أَنا": {
+       "src": "/audio/o/9eee807a139555c1.mp3"
+      },
+      "مالِيزِيَّةٌ": {
+       "src": "/audio/o/d02eea7f2fe8e445.mp3"
+      },
+      "أَنْتِ": {
+       "src": "/audio/o/99f73814b1c1b566.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d2-lat-tanya-nama-pr",
+     "instruction": "Kamu ingin tahu nama Aisyah. Kamu bertanya …",
+     "prompt": {
+      "id": "Siapa namamu? (pr)"
+     },
+     "answer": "ما اسْمُكِ؟",
+     "options": [
+      "ما اسْمُكِ؟",
+      "ما اسْمُكَ؟",
+      "مِنْ أَيْنَ أَنْتِ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ما اسْمُكِ؟": {
+       "src": "/audio/o/f646947550fc6e59.mp3"
+      },
+      "ما اسْمُكَ؟": {
+       "src": "/audio/o/c893d21cad4adadb.mp3"
+      },
+      "مِنْ أَيْنَ أَنْتِ؟": {
+       "src": "/audio/o/8ce1be877c504719.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u1-d3",
+   "dars": 3,
+   "title_id": "Ustaz dari Mesir",
+   "skill": "Hiwar",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "dialogue",
+      "rows": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ، أَنا الأُسْتاذُ مَحْمُودٌ.",
+        "id": "Assalamualaikum, saya Ustaz Mahmud.",
+        "speaker_ar": "الأُسْتاذُ مَحْمُود",
+        "audio": {
+         "src": "/audio/o/f77d80588d6cf191.mp3"
+        }
+       },
+       {
+        "ar": "وَعَلَيْكُمُ السَّلامُ يا أُسْتاذُ.",
+        "id": "Waalaikumussalam, Ustaz.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/732a010cdddc8900.mp3"
+        }
+       },
+       {
+        "ar": "أَنا مِصْرِيٌّ، مِنَ القاهِرَةِ. مِنْ أَيْنَ أَنْتِ؟",
+        "id": "Saya orang Mesir, dari Kairo. Kamu dari mana? (pr)",
+        "speaker_ar": "الأُسْتاذُ مَحْمُود",
+        "audio": {
+         "src": "/audio/o/a319ec0688fb00a0.mp3"
+        }
+       },
+       {
+        "ar": "أَنا سِيتِي، إِنْدُونِيسِيَّةٌ مِنْ مِيدان.",
+        "id": "Saya Siti, orang Indonesia dari Medan.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/a78965879aa0cb62.mp3"
+        }
+       },
+       {
+        "ar": "هٰذِهِ صَدِيقَتِي عائِشَةُ، هِيَ مالِيزِيَّةٌ.",
+        "id": "Ini teman saya, Aisyah. Dia orang Malaysia.",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/2e76469508756ec8.mp3"
+        }
+       },
+       {
+        "ar": "أَهْلًا وَسَهْلًا. وَهٰذا؟",
+        "id": "Selamat datang. Kalau ini?",
+        "speaker_ar": "الأُسْتاذُ مَحْمُود",
+        "audio": {
+         "src": "/audio/o/c92f8e15010304c4.mp3"
+        }
+       },
+       {
+        "ar": "هٰذا صَدِيقِي رِزْقِي، هُوَ مِنْ بانْدُونْغ.",
+        "id": "Ini teman saya, Rizki. Dia dari Bandung.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/90a0c5d91e1a54b5.mp3"
+        }
+       },
+       {
+        "ar": "كَيْفَ الحالُ يا رِزْقِي؟",
+        "id": "Apa kabar, Rizki?",
+        "speaker_ar": "الأُسْتاذُ مَحْمُود",
+        "audio": {
+         "src": "/audio/o/c4cef77213235aa7.mp3"
+        }
+       },
+       {
+        "ar": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ.",
+        "id": "Baik, alhamdulillah.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/6665b6f81d7eeff4.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Dialog 3"
+      },
+      "imgs": [
+       "/img/o/u1-kelas.webp"
+      ],
+      "instruction_id": "Jam pertama di kelas. Ustaz Mahmud, pengajar tamu dari Mesir, berkenalan dengan murid-muridnya."
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "أُسْتاذٌ",
+        "id": "guru (lk) · ★ ustaz",
+        "emoji": "👨‍🏫",
+        "audio": {
+         "src": "/audio/o/32b3d3a3c25b97a8.mp3"
+        }
+       },
+       {
+        "ar": "مِصْرِيٌّ",
+        "id": "orang Mesir (lk)",
+        "emoji": "🧔",
+        "audio": {
+         "src": "/audio/o/1cdbb72c92b5f969.mp3"
+        }
+       },
+       {
+        "ar": "هٰذا",
+        "id": "ini (lk)",
+        "emoji": "👇",
+        "audio": {
+         "src": "/audio/o/03ff197b20546c39.mp3"
+        }
+       },
+       {
+        "ar": "هٰذِهِ",
+        "id": "ini (pr)",
+        "emoji": "👇",
+        "audio": {
+         "src": "/audio/o/9f0d8c22c49e755d.mp3"
+        }
+       },
+       {
+        "ar": "هُوَ",
+        "id": "dia (lk)",
+        "emoji": "👦",
+        "audio": {
+         "src": "/audio/o/692a1459dcefda08.mp3"
+        }
+       },
+       {
+        "ar": "هِيَ",
+        "id": "dia (pr)",
+        "emoji": "👧",
+        "audio": {
+         "src": "/audio/o/517ed049354d7a62.mp3"
+        }
+       },
+       {
+        "ar": "صَدِيقِي",
+        "id": "teman saya (lk)",
+        "emoji": "🧑‍🤝‍🧑",
+        "audio": {
+         "src": "/audio/o/a2b3a879730b9a69.mp3"
+        }
+       },
+       {
+        "ar": "صَدِيقَتِي",
+        "id": "teman saya (pr)",
+        "emoji": "👭",
+        "audio": {
+         "src": "/audio/o/b5217e0781343982.mp3"
+        }
+       },
+       {
+        "ar": "كَيْفَ الحالُ؟",
+        "id": "apa kabar?",
+        "emoji": "😊",
+        "audio": {
+         "src": "/audio/o/1c4628271dc646f9.mp3"
+        }
+       },
+       {
+        "ar": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ",
+        "id": "baik, alhamdulillah · ★ alhamdulillah",
+        "emoji": "👍",
+        "audio": {
+         "src": "/audio/o/46a8c5ae72ea810d.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Kata baru"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d3-hadzihi-sadiqati",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "هٰذِهِ صَدِيقَتِي.",
+       "audio": {
+        "src": "/audio/o/3ee3f0d1922a0fdb.mp3"
+       }
+      },
+      "answer": "Ini teman saya. (pr)",
+      "options": [
+       "Ini teman saya. (pr)",
+       "Ini teman saya. (lk)",
+       "Dia orang Malaysia. (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d3-ini-rizki",
+      "instruction": "Pilih kalimat yang benar",
+      "prompt": {
+       "id": "Ini Rizki.",
+       "emoji": "👦"
+      },
+      "answer": "هٰذا رِزْقِي.",
+      "options": [
+       "هٰذا رِزْقِي.",
+       "هٰذِهِ رِزْقِي.",
+       "أَنا رِزْقِي."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هٰذا رِزْقِي.": {
+        "src": "/audio/o/5b2c85b1523e72c7.mp3"
+       },
+       "هٰذِهِ رِزْقِي.": {
+        "src": "/audio/o/ecbb637819fd46e8.mp3"
+       },
+       "أَنا رِزْقِي.": {
+        "src": "/audio/o/a8eba1e1c8602561.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d3-ustaz-asal",
+      "instruction": "Menurut dialog, Ustaz Mahmud dari mana?",
+      "prompt": {
+       "id": "الأُسْتاذُ مَحْمُودٌ مِنْ …"
+      },
+      "answer": "Mesir (Kairo)",
+      "options": [
+       "Mesir (Kairo)",
+       "Malaysia (Kuala Lumpur)",
+       "Indonesia (Medan)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d3-dengar-kaifa",
+      "instruction": "Dengarkan. Apa artinya?",
+      "prompt": {
+       "tts": "كَيْفَ الحالُ؟",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/1c4628271dc646f9.mp3"
+       }
+      },
+      "answer": "Apa kabar?",
+      "options": [
+       "Apa kabar?",
+       "Siapa namamu?",
+       "Kamu dari mana?"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d3-balas-kaifa",
+      "instruction": "Pilih balasan yang tepat",
+      "prompt": {
+       "ar": "كَيْفَ الحالُ؟",
+       "audio": {
+        "src": "/audio/o/1c4628271dc646f9.mp3"
+       }
+      },
+      "answer": "بِخَيْرٍ، الحَمْدُ لِلّٰهِ.",
+      "options": [
+       "بِخَيْرٍ، الحَمْدُ لِلّٰهِ.",
+       "أَنا مِنْ مِصْرَ.",
+       "صَباحَ النُّورِ!"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بِخَيْرٍ، الحَمْدُ لِلّٰهِ.": {
+        "src": "/audio/o/1771610cafc90667.mp3"
+       },
+       "أَنا مِنْ مِصْرَ.": {
+        "src": "/audio/o/d1476942835e1b0f.mp3"
+       },
+       "صَباحَ النُّورِ!": {
+        "src": "/audio/o/edb4e46adf956c98.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d3-susun-hiya-malaysia",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Dia orang Malaysia. (pr)"
+      },
+      "answer": "هِيَ مالِيزِيَّةٌ",
+      "tokens": [
+       "هِيَ",
+       "مالِيزِيَّةٌ",
+       "هُوَ"
+      ],
+      "audioMap": {
+       "هِيَ": {
+        "src": "/audio/o/517ed049354d7a62.mp3"
+       },
+       "مالِيزِيَّةٌ": {
+        "src": "/audio/o/d02eea7f2fe8e445.mp3"
+       },
+       "هُوَ": {
+        "src": "/audio/o/692a1459dcefda08.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d3-susun-hadza-sadiqi",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ini teman saya."
+      },
+      "answer": "هٰذا صَدِيقِي",
+      "tokens": [
+       "هٰذا",
+       "صَدِيقِي",
+       "هٰذِهِ"
+      ],
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "صَدِيقِي": {
+        "src": "/audio/o/a2b3a879730b9a69.mp3"
+       },
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u1-d3-ucap-kaifa",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "كَيْفَ الحالُ؟",
+       "id": "Apa kabar?",
+       "audio": {
+        "src": "/audio/o/4236f523c46055b8.mp3"
+       }
+      },
+      "target": "كَيْفَ الحالُ؟"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u1-d3-lat-huwa-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هُوَ مِنْ بانْدُونْغ.",
+      "audio": {
+       "src": "/audio/o/6ec6544e4e8ddfbf.mp3"
+      }
+     },
+     "answer": "Dia (lk) dari Bandung.",
+     "options": [
+      "Dia (lk) dari Bandung.",
+      "Dia (pr) dari Bandung.",
+      "Saya dari Bandung."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d3-lat-ustaz-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "أُسْتاذٌ",
+      "audio": {
+       "src": "/audio/o/32b3d3a3c25b97a8.mp3"
+      }
+     },
+     "answer": "guru (lk)",
+     "options": [
+      "guru (lk)",
+      "teman (lk)",
+      "orang Mesir (lk)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d3-lat-ini-aisyah",
+     "instruction": "Pilih kalimat yang benar",
+     "prompt": {
+      "id": "Ini Aisyah.",
+      "emoji": "👧"
+     },
+     "answer": "هٰذِهِ عائِشَةُ.",
+     "options": [
+      "هٰذِهِ عائِشَةُ.",
+      "هٰذا عائِشَةُ.",
+      "هُوَ عائِشَةُ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "هٰذِهِ عائِشَةُ.": {
+       "src": "/audio/o/521c7e3e423fca6a.mp3"
+      },
+      "هٰذا عائِشَةُ.": {
+       "src": "/audio/o/26c178ceb7fa1c5f.mp3"
+      },
+      "هُوَ عائِشَةُ.": {
+       "src": "/audio/o/8d32e281126fe8ae.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u1-d3-lat-susun-bikhair",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Saya baik-baik saja."
+     },
+     "answer": "أَنا بِخَيْرٍ",
+     "tokens": [
+      "أَنا",
+      "بِخَيْرٍ",
+      "كَيْفَ"
+     ],
+     "audioMap": {
+      "أَنا": {
+       "src": "/audio/o/9eee807a139555c1.mp3"
+      },
+      "بِخَيْرٍ": {
+       "src": "/audio/o/ac2269c39b8da478.mp3"
+      },
+      "كَيْفَ": {
+       "src": "/audio/o/917bb58b886deaa6.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u1-d4",
+   "dars": 4,
+   "title_id": "Kosakata & angka 1–5",
+   "skill": "Mufradat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "طالِبٌ",
+        "id": "pelajar (lk)",
+        "emoji": "👨‍🎓",
+        "audio": {
+         "src": "/audio/o/b09e1763199cb75d.mp3"
+        }
+       },
+       {
+        "ar": "طالِبَةٌ",
+        "id": "pelajar (pr)",
+        "emoji": "👩‍🎓",
+        "audio": {
+         "src": "/audio/o/2fd52e09a9674f89.mp3"
+        }
+       },
+       {
+        "ar": "أُسْتاذٌ",
+        "id": "guru (lk) · ★ ustaz",
+        "emoji": "👨‍🏫",
+        "audio": {
+         "src": "/audio/o/32b3d3a3c25b97a8.mp3"
+        }
+       },
+       {
+        "ar": "أُسْتاذَةٌ",
+        "id": "guru (pr) · ★ ustazah",
+        "emoji": "👩‍🏫",
+        "audio": {
+         "src": "/audio/o/860486ad17c59583.mp3"
+        }
+       },
+       {
+        "ar": "إِنْدُونِيسِيا",
+        "id": "Indonesia",
+        "emoji": "🇮🇩",
+        "audio": {
+         "src": "/audio/o/3ba4a5080a27c1ec.mp3"
+        }
+       },
+       {
+        "ar": "مالِيزِيا",
+        "id": "Malaysia",
+        "emoji": "🇲🇾",
+        "audio": {
+         "src": "/audio/o/aee29ee8df420275.mp3"
+        }
+       },
+       {
+        "ar": "مِصْرُ",
+        "id": "Mesir",
+        "emoji": "🇪🇬",
+        "audio": {
+         "src": "/audio/o/317fc92eb4706c68.mp3"
+        }
+       },
+       {
+        "ar": "تُرْكِيا",
+        "id": "Turki",
+        "emoji": "🇹🇷",
+        "audio": {
+         "src": "/audio/o/706fa98109fecb44.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Orang dan negara"
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "واحِدٌ",
+        "id": "satu",
+        "emoji": "1️⃣",
+        "audio": {
+         "src": "/audio/o/fa47e478299fa1a1.mp3"
+        }
+       },
+       {
+        "ar": "اِثْنانِ",
+        "id": "dua",
+        "emoji": "2️⃣",
+        "audio": {
+         "src": "/audio/o/97e63a7fbd1c3916.mp3"
+        }
+       },
+       {
+        "ar": "ثَلاثَةٌ",
+        "id": "tiga",
+        "emoji": "3️⃣",
+        "audio": {
+         "src": "/audio/o/cc6ff6c756a1e10e.mp3"
+        }
+       },
+       {
+        "ar": "أَرْبَعَةٌ",
+        "id": "empat",
+        "emoji": "4️⃣",
+        "audio": {
+         "src": "/audio/o/37d97f56c24d0648.mp3"
+        }
+       },
+       {
+        "ar": "خَمْسَةٌ",
+        "id": "lima",
+        "emoji": "5️⃣",
+        "audio": {
+         "src": "/audio/o/16360bd4a1b3aaa3.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Angka 1–5"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d4-angka-3",
+      "instruction": "Angka berapa ini dalam bahasa Arab?",
+      "prompt": {
+       "id": "tiga",
+       "emoji": "3️⃣"
+      },
+      "answer": "ثَلاثَةٌ",
+      "options": [
+       "ثَلاثَةٌ",
+       "خَمْسَةٌ",
+       "واحِدٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ثَلاثَةٌ": {
+        "src": "/audio/o/cc6ff6c756a1e10e.mp3"
+       },
+       "خَمْسَةٌ": {
+        "src": "/audio/o/16360bd4a1b3aaa3.mp3"
+       },
+       "واحِدٌ": {
+        "src": "/audio/o/fa47e478299fa1a1.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d4-dengar-5",
+      "instruction": "Dengarkan. Angka berapa?",
+      "prompt": {
+       "tts": "خَمْسَةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/16360bd4a1b3aaa3.mp3"
+       }
+      },
+      "answer": "5",
+      "options": [
+       "5",
+       "2",
+       "4"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d4-talibah-arti",
+      "instruction": "Apa artinya?",
+      "prompt": {
+       "ar": "طالِبَةٌ",
+       "audio": {
+        "src": "/audio/o/2fd52e09a9674f89.mp3"
+       }
+      },
+      "answer": "pelajar (pr)",
+      "options": [
+       "pelajar (pr)",
+       "pelajar (lk)",
+       "guru (pr)"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d4-gambar-ustazah",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "👩‍🏫"
+      },
+      "answer": "أُسْتاذَةٌ",
+      "options": [
+       "أُسْتاذَةٌ",
+       "طالِبَةٌ",
+       "أُسْتاذٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أُسْتاذَةٌ": {
+        "src": "/audio/o/860486ad17c59583.mp3"
+       },
+       "طالِبَةٌ": {
+        "src": "/audio/o/2fd52e09a9674f89.mp3"
+       },
+       "أُسْتاذٌ": {
+        "src": "/audio/o/32b3d3a3c25b97a8.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d4-misr-arti",
+      "instruction": "Negara apa ini?",
+      "prompt": {
+       "ar": "مِصْرُ",
+       "audio": {
+        "src": "/audio/o/317fc92eb4706c68.mp3"
+       }
+      },
+      "answer": "Mesir",
+      "options": [
+       "Mesir",
+       "Turki",
+       "Malaysia"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d4-hitung-2-3",
+      "instruction": "Berapa hasilnya?",
+      "prompt": {
+       "ar": "اِثْنانِ + ثَلاثَةٌ = ؟",
+       "audio": {
+        "src": "/audio/o/f0058d098e154539.mp3"
+       }
+      },
+      "answer": "خَمْسَةٌ",
+      "options": [
+       "خَمْسَةٌ",
+       "أَرْبَعَةٌ",
+       "واحِدٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "خَمْسَةٌ": {
+        "src": "/audio/o/16360bd4a1b3aaa3.mp3"
+       },
+       "أَرْبَعَةٌ": {
+        "src": "/audio/o/37d97f56c24d0648.mp3"
+       },
+       "واحِدٌ": {
+        "src": "/audio/o/fa47e478299fa1a1.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d4-dengar-4",
+      "instruction": "Dengarkan. Angka berapa?",
+      "prompt": {
+       "tts": "أَرْبَعَةٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/37d97f56c24d0648.mp3"
+       }
+      },
+      "answer": "4",
+      "options": [
+       "4",
+       "3",
+       "1"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d4-turki-ar",
+      "instruction": "Bahasa Arabnya \"Turki\" adalah …",
+      "prompt": {
+       "id": "Turki",
+       "emoji": "🇹🇷"
+      },
+      "answer": "تُرْكِيا",
+      "options": [
+       "تُرْكِيا",
+       "مِصْرُ",
+       "إِنْدُونِيسِيا"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "تُرْكِيا": {
+        "src": "/audio/o/706fa98109fecb44.mp3"
+       },
+       "مِصْرُ": {
+        "src": "/audio/o/317fc92eb4706c68.mp3"
+       },
+       "إِنْدُونِيسِيا": {
+        "src": "/audio/o/3ba4a5080a27c1ec.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u1-d4-lat-angka-1",
+     "instruction": "Angka berapa ini dalam bahasa Arab?",
+     "prompt": {
+      "id": "satu",
+      "emoji": "1️⃣"
+     },
+     "answer": "واحِدٌ",
+     "options": [
+      "واحِدٌ",
+      "اِثْنانِ",
+      "ثَلاثَةٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "واحِدٌ": {
+       "src": "/audio/o/fa47e478299fa1a1.mp3"
+      },
+      "اِثْنانِ": {
+       "src": "/audio/o/97e63a7fbd1c3916.mp3"
+      },
+      "ثَلاثَةٌ": {
+       "src": "/audio/o/cc6ff6c756a1e10e.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d4-lat-dengar-2",
+     "instruction": "Dengarkan. Angka berapa?",
+     "prompt": {
+      "tts": "اِثْنانِ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/97e63a7fbd1c3916.mp3"
+      }
+     },
+     "answer": "2",
+     "options": [
+      "2",
+      "5",
+      "3"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d4-lat-talib-arti",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "طالِبٌ",
+      "audio": {
+       "src": "/audio/o/b09e1763199cb75d.mp3"
+      }
+     },
+     "answer": "pelajar (lk)",
+     "options": [
+      "pelajar (lk)",
+      "guru (lk)",
+      "teman (lk)"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d4-lat-hitung-1-3",
+     "instruction": "Berapa hasilnya?",
+     "prompt": {
+      "ar": "واحِدٌ + ثَلاثَةٌ = ؟",
+      "audio": {
+       "src": "/audio/o/caaf08775cdb9d0e.mp3"
+      }
+     },
+     "answer": "أَرْبَعَةٌ",
+     "options": [
+      "أَرْبَعَةٌ",
+      "خَمْسَةٌ",
+      "اِثْنانِ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَرْبَعَةٌ": {
+       "src": "/audio/o/37d97f56c24d0648.mp3"
+      },
+      "خَمْسَةٌ": {
+       "src": "/audio/o/16360bd4a1b3aaa3.mp3"
+      },
+      "اِثْنانِ": {
+       "src": "/audio/o/97e63a7fbd1c3916.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d4-lat-indonesia-ar",
+     "instruction": "Bahasa Arabnya \"Indonesia\" adalah …",
+     "prompt": {
+      "id": "Indonesia",
+      "emoji": "🇮🇩"
+     },
+     "answer": "إِنْدُونِيسِيا",
+     "options": [
+      "إِنْدُونِيسِيا",
+      "مالِيزِيا",
+      "تُرْكِيا"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "إِنْدُونِيسِيا": {
+       "src": "/audio/o/3ba4a5080a27c1ec.mp3"
+      },
+      "مالِيزِيا": {
+       "src": "/audio/o/aee29ee8df420275.mp3"
+      },
+      "تُرْكِيا": {
+       "src": "/audio/o/706fa98109fecb44.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u1-d5",
+   "dars": 5,
+   "title_id": "Pola kalimat",
+   "skill": "Tarakib",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Bertanya nama dan asal"
+      },
+      "groups": [
+       {
+        "title_ar": "ما اسْمُكَ؟ · ما اسْمُكِ؟",
+        "note_id": "Akhiran ـكَ (-ka) untuk lawan bicara laki-laki, ـكِ (-ki) untuk perempuan. Jawabannya: اِسْمِي … (nama saya …).",
+        "rows": [
+         {
+          "ar": "ما اسْمُكَ؟",
+          "id": "Siapa namamu? (lk)",
+          "audio": {
+           "src": "/audio/o/c893d21cad4adadb.mp3"
+          }
+         },
+         {
+          "ar": "ما اسْمُكِ؟",
+          "id": "Siapa namamu? (pr)",
+          "audio": {
+           "src": "/audio/o/f646947550fc6e59.mp3"
+          }
+         },
+         {
+          "ar": "اِسْمِي رِزْقِي.",
+          "id": "Nama saya Rizki.",
+          "audio": {
+           "src": "/audio/o/edee7842858ac835.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "مِنْ أَيْنَ أَنْتَ؟ · مِنْ أَيْنَ أَنْتِ؟",
+        "note_id": "أَنْتَ untuk laki-laki, أَنْتِ untuk perempuan. Jawabannya: أَنا مِنْ … (saya dari …).",
+        "rows": [
+         {
+          "ar": "مِنْ أَيْنَ أَنْتَ؟",
+          "id": "Kamu dari mana? (lk)",
+          "audio": {
+           "src": "/audio/o/fb14741da573e632.mp3"
+          }
+         },
+         {
+          "ar": "مِنْ أَيْنَ أَنْتِ؟",
+          "id": "Kamu dari mana? (pr)",
+          "audio": {
+           "src": "/audio/o/8ce1be877c504719.mp3"
+          }
+         },
+         {
+          "ar": "أَنا مِنْ جاكَرْتا.",
+          "id": "Saya dari Jakarta.",
+          "audio": {
+           "src": "/audio/o/0b853a3f4c7857af.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "grammar",
+      "rows": [],
+      "section": {
+       "id": "Ini, apakah, dan asal negara"
+      },
+      "groups": [
+       {
+        "title_ar": "هٰذا · هٰذِهِ",
+        "note_id": "هٰذا untuk laki-laki, هٰذِهِ untuk perempuan.",
+        "rows": [
+         {
+          "ar": "هٰذا طالِبٌ.",
+          "id": "Ini pelajar (lk).",
+          "audio": {
+           "src": "/audio/o/b5f0ff54e0fcb6c4.mp3"
+          }
+         },
+         {
+          "ar": "هٰذِهِ طالِبَةٌ.",
+          "id": "Ini pelajar (pr).",
+          "audio": {
+           "src": "/audio/o/3a7d52c1ea7ee819.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "إِنْدُونِيسِيا ← إِنْدُونِيسِيٌّ · إِنْدُونِيسِيَّةٌ",
+        "note_id": "Nama negara + ـِيٌّ = orang dari negara itu (lk); + ـِيَّةٌ untuk perempuan.",
+        "rows": [
+         {
+          "ar": "مِصْرُ ← مِصْرِيٌّ · مِصْرِيَّةٌ",
+          "id": "Mesir → orang Mesir (lk · pr)",
+          "audio": {
+           "src": "/audio/o/d711ec54290a1af3.mp3"
+          }
+         },
+         {
+          "ar": "تُرْكِيا ← تُرْكِيٌّ · تُرْكِيَّةٌ",
+          "id": "Turki → orang Turki (lk · pr)",
+          "audio": {
+           "src": "/audio/o/d68523294080ff1f.mp3"
+          }
+         }
+        ]
+       },
+       {
+        "title_ar": "هَلْ …؟ ← نَعَمْ · لا",
+        "note_id": "هَلْ membuat kalimat tanya ya/tidak.",
+        "rows": [
+         {
+          "ar": "هَلْ أَنْتَ مِصْرِيٌّ؟",
+          "id": "Apakah kamu orang Mesir? (lk)",
+          "audio": {
+           "src": "/audio/o/4c67bd879dfe5030.mp3"
+          }
+         },
+         {
+          "ar": "لا، أَنا إِنْدُونِيسِيٌّ.",
+          "id": "Bukan, saya orang Indonesia.",
+          "audio": {
+           "src": "/audio/o/1af1e2d459892be1.mp3"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d5-tanya-nama-siti",
+      "instruction": "Kamu bertanya nama kepada Siti. Pilih kalimatnya",
+      "prompt": {
+       "id": "Siapa namamu? (pr)",
+       "emoji": "👩"
+      },
+      "answer": "ما اسْمُكِ؟",
+      "options": [
+       "ما اسْمُكِ؟",
+       "ما اسْمُكَ؟",
+       "مِنْ أَيْنَ أَنْتِ؟"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ما اسْمُكِ؟": {
+        "src": "/audio/o/f646947550fc6e59.mp3"
+       },
+       "ما اسْمُكَ؟": {
+        "src": "/audio/o/c893d21cad4adadb.mp3"
+       },
+       "مِنْ أَيْنَ أَنْتِ؟": {
+        "src": "/audio/o/8ce1be877c504719.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d5-nisbah-siti",
+      "instruction": "Lengkapi: Siti orang Indonesia",
+      "prompt": {
+       "ar": "سِيتِي …",
+       "audio": {
+        "src": "/audio/o/84017c6c68d8fc56.mp3"
+       }
+      },
+      "answer": "إِنْدُونِيسِيَّةٌ",
+      "options": [
+       "إِنْدُونِيسِيَّةٌ",
+       "إِنْدُونِيسِيٌّ",
+       "إِنْدُونِيسِيا"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "إِنْدُونِيسِيَّةٌ": {
+        "src": "/audio/o/382fd2f51db035f5.mp3"
+       },
+       "إِنْدُونِيسِيٌّ": {
+        "src": "/audio/o/7cf57ea294f7b817.mp3"
+       },
+       "إِنْدُونِيسِيا": {
+        "src": "/audio/o/3ba4a5080a27c1ec.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d5-nisbah-budi",
+      "instruction": "Lengkapi: Budi orang Indonesia",
+      "prompt": {
+       "ar": "بُودِي …",
+       "audio": {
+        "src": "/audio/o/7d487df253fcd621.mp3"
+       }
+      },
+      "answer": "إِنْدُونِيسِيٌّ",
+      "options": [
+       "إِنْدُونِيسِيٌّ",
+       "إِنْدُونِيسِيَّةٌ",
+       "مِصْرِيَّةٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "إِنْدُونِيسِيٌّ": {
+        "src": "/audio/o/7cf57ea294f7b817.mp3"
+       },
+       "إِنْدُونِيسِيَّةٌ": {
+        "src": "/audio/o/382fd2f51db035f5.mp3"
+       },
+       "مِصْرِيَّةٌ": {
+        "src": "/audio/o/bdf021d0681cfc65.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d5-ini-talibah",
+      "instruction": "Pilih kalimat yang benar",
+      "prompt": {
+       "id": "Ini pelajar (pr).",
+       "emoji": "👩‍🎓"
+      },
+      "answer": "هٰذِهِ طالِبَةٌ.",
+      "options": [
+       "هٰذِهِ طالِبَةٌ.",
+       "هٰذا طالِبٌ.",
+       "هٰذِهِ طالِبٌ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هٰذِهِ طالِبَةٌ.": {
+        "src": "/audio/o/3a7d52c1ea7ee819.mp3"
+       },
+       "هٰذا طالِبٌ.": {
+        "src": "/audio/o/b5f0ff54e0fcb6c4.mp3"
+       },
+       "هٰذِهِ طالِبٌ.": {
+        "src": "/audio/o/db6f8aed49612b05.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d5-jawab-hal-misri",
+      "instruction": "Ustaz bertanya kepada Rizki. Jawaban yang benar?",
+      "prompt": {
+       "ar": "هَلْ أَنْتَ مِصْرِيٌّ؟",
+       "audio": {
+        "src": "/audio/o/4c67bd879dfe5030.mp3"
+       }
+      },
+      "answer": "لا، أَنا إِنْدُونِيسِيٌّ.",
+      "options": [
+       "لا، أَنا إِنْدُونِيسِيٌّ.",
+       "نَعَمْ، أَنا إِنْدُونِيسِيٌّ.",
+       "لا، أَنا مِصْرِيٌّ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا، أَنا إِنْدُونِيسِيٌّ.": {
+        "src": "/audio/o/1af1e2d459892be1.mp3"
+       },
+       "نَعَمْ، أَنا إِنْدُونِيسِيٌّ.": {
+        "src": "/audio/o/abb6d5266ccbe3f8.mp3"
+       },
+       "لا، أَنا مِصْرِيٌّ.": {
+        "src": "/audio/o/c2529db9695ec76c.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d5-susun-min-aina-anti",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Kamu dari mana? (pr)"
+      },
+      "answer": "مِنْ أَيْنَ أَنْتِ",
+      "tokens": [
+       "مِنْ",
+       "أَيْنَ",
+       "أَنْتِ",
+       "أَنْتَ"
+      ],
+      "audioMap": {
+       "مِنْ": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       },
+       "أَيْنَ": {
+        "src": "/audio/o/2c4225894606e007.mp3"
+       },
+       "أَنْتِ": {
+        "src": "/audio/o/99f73814b1c1b566.mp3"
+       },
+       "أَنْتَ": {
+        "src": "/audio/o/e9f3a0bd3c503fee.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d5-susun-talib-misri",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ini pelajar Mesir. (lk)"
+      },
+      "answer": "هٰذا طالِبٌ مِصْرِيٌّ",
+      "tokens": [
+       "هٰذا",
+       "طالِبٌ",
+       "مِصْرِيٌّ",
+       "هٰذِهِ"
+      ],
+      "audioMap": {
+       "هٰذا": {
+        "src": "/audio/o/03ff197b20546c39.mp3"
+       },
+       "طالِبٌ": {
+        "src": "/audio/o/b09e1763199cb75d.mp3"
+       },
+       "مِصْرِيٌّ": {
+        "src": "/audio/o/1cdbb72c92b5f969.mp3"
+       },
+       "هٰذِهِ": {
+        "src": "/audio/o/9f0d8c22c49e755d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d5-susun-hal-turki",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Apakah kamu orang Turki? (lk)"
+      },
+      "answer": "هَلْ أَنْتَ تُرْكِيٌّ",
+      "tokens": [
+       "هَلْ",
+       "أَنْتَ",
+       "تُرْكِيٌّ",
+       "أَنْتِ"
+      ],
+      "audioMap": {
+       "هَلْ": {
+        "src": "/audio/o/88964434a18c7513.mp3"
+       },
+       "أَنْتَ": {
+        "src": "/audio/o/e9f3a0bd3c503fee.mp3"
+       },
+       "تُرْكِيٌّ": {
+        "src": "/audio/o/80d5a67b416b8e57.mp3"
+       },
+       "أَنْتِ": {
+        "src": "/audio/o/99f73814b1c1b566.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d5-susun-naam-jogja",
+      "instruction": "Susun menjadi kalimat",
+      "prompt": {
+       "id": "Ya, saya dari Yogyakarta."
+      },
+      "answer": "نَعَمْ أَنا مِنْ يُوغْياكَرْتا",
+      "tokens": [
+       "نَعَمْ",
+       "أَنا",
+       "مِنْ",
+       "يُوغْياكَرْتا",
+       "لا"
+      ],
+      "audioMap": {
+       "نَعَمْ": {
+        "src": "/audio/o/8dab884864dbd808.mp3"
+       },
+       "أَنا": {
+        "src": "/audio/o/9eee807a139555c1.mp3"
+       },
+       "مِنْ": {
+        "src": "/audio/o/b112ec2cecfd09bc.mp3"
+       },
+       "يُوغْياكَرْتا": {
+        "src": "/audio/o/448eeea04d1cd7db.mp3"
+       },
+       "لا": {
+        "src": "/audio/o/de6b0a90d4d0c2cb.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u1-d5-lat-nisbah-aisyah",
+     "instruction": "Lengkapi: Aisyah orang Malaysia",
+     "prompt": {
+      "ar": "عائِشَةُ …",
+      "audio": {
+       "src": "/audio/o/69b8d66f63ce0cac.mp3"
+      }
+     },
+     "answer": "مالِيزِيَّةٌ",
+     "options": [
+      "مالِيزِيَّةٌ",
+      "مالِيزِيٌّ",
+      "مالِيزِيا"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "مالِيزِيَّةٌ": {
+       "src": "/audio/o/d02eea7f2fe8e445.mp3"
+      },
+      "مالِيزِيٌّ": {
+       "src": "/audio/o/35e0e5b3d49d4f72.mp3"
+      },
+      "مالِيزِيا": {
+       "src": "/audio/o/aee29ee8df420275.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d5-lat-tanya-asal-budi",
+     "instruction": "Kamu bertanya asal kepada Budi. Pilih kalimatnya",
+     "prompt": {
+      "id": "Kamu dari mana? (lk)",
+      "emoji": "👦"
+     },
+     "answer": "مِنْ أَيْنَ أَنْتَ؟",
+     "options": [
+      "مِنْ أَيْنَ أَنْتَ؟",
+      "مِنْ أَيْنَ أَنْتِ؟",
+      "ما اسْمُكَ؟"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "مِنْ أَيْنَ أَنْتَ؟": {
+       "src": "/audio/o/fb14741da573e632.mp3"
+      },
+      "مِنْ أَيْنَ أَنْتِ؟": {
+       "src": "/audio/o/8ce1be877c504719.mp3"
+      },
+      "ما اسْمُكَ؟": {
+       "src": "/audio/o/c893d21cad4adadb.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u1-d5-lat-susun-ismuki",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Siapa namamu? (pr)"
+     },
+     "answer": "ما اسْمُكِ",
+     "tokens": [
+      "ما",
+      "اسْمُكِ",
+      "اسْمُكَ"
+     ],
+     "audioMap": {
+      "ما": {
+       "src": "/audio/o/139f5e1cbdfbddfd.mp3"
+      },
+      "اسْمُكِ": {
+       "src": "/audio/o/b9f44bae401202c3.mp3"
+      },
+      "اسْمُكَ": {
+       "src": "/audio/o/7f2f0cc5eaedc8b6.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u1-d5-lat-susun-hadzihi-ustazah",
+     "instruction": "Susun menjadi kalimat",
+     "prompt": {
+      "id": "Ini guru (pr) Indonesia."
+     },
+     "answer": "هٰذِهِ أُسْتاذَةٌ إِنْدُونِيسِيَّةٌ",
+     "tokens": [
+      "هٰذِهِ",
+      "أُسْتاذَةٌ",
+      "إِنْدُونِيسِيَّةٌ",
+      "هٰذا"
+     ],
+     "audioMap": {
+      "هٰذِهِ": {
+       "src": "/audio/o/9f0d8c22c49e755d.mp3"
+      },
+      "أُسْتاذَةٌ": {
+       "src": "/audio/o/860486ad17c59583.mp3"
+      },
+      "إِنْدُونِيسِيَّةٌ": {
+       "src": "/audio/o/382fd2f51db035f5.mp3"
+      },
+      "هٰذا": {
+       "src": "/audio/o/03ff197b20546c39.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d5-lat-nisbah-misr-pr",
+     "instruction": "Orang Mesir (perempuan) dalam bahasa Arab adalah …",
+     "prompt": {
+      "id": "orang Mesir (pr)"
+     },
+     "answer": "مِصْرِيَّةٌ",
+     "options": [
+      "مِصْرِيَّةٌ",
+      "مِصْرِيٌّ",
+      "مِصْرُ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "مِصْرِيَّةٌ": {
+       "src": "/audio/o/bdf021d0681cfc65.mp3"
+      },
+      "مِصْرِيٌّ": {
+       "src": "/audio/o/1cdbb72c92b5f969.mp3"
+      },
+      "مِصْرُ": {
+       "src": "/audio/o/317fc92eb4706c68.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u1-d6",
+   "dars": 6,
+   "title_id": "Bunyi ع dan ء, menyimak",
+   "skill": "Ashwat",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "sounds",
+      "rows": [
+       {
+        "ar": "عَ",
+        "audio": {
+         "src": "/audio/o/74713c2aad5dcc2e.mp3"
+        },
+        "pair_ar": "أَ"
+       },
+       {
+        "ar": "أَ",
+        "audio": {
+         "src": "/audio/o/d218e2d3807fe682.mp3"
+        },
+        "pair_ar": "عَ"
+       },
+       {
+        "ar": "عِ",
+        "audio": {
+         "src": "/audio/o/0b8c97adca985353.mp3"
+        },
+        "pair_ar": "إِ"
+       },
+       {
+        "ar": "إِ",
+        "audio": {
+         "src": "/audio/o/102708a320b3171e.mp3"
+        },
+        "pair_ar": "عِ"
+       },
+       {
+        "ar": "عُ",
+        "audio": {
+         "src": "/audio/o/20f010938c0b8b8c.mp3"
+        },
+        "pair_ar": "أُ"
+       },
+       {
+        "ar": "أُ",
+        "audio": {
+         "src": "/audio/o/23e6ed0b03779ecb.mp3"
+        },
+        "pair_ar": "عُ"
+       },
+       {
+        "ar": "عَلِمَ",
+        "audio": {
+         "src": "/audio/o/55f94dc013a86584.mp3"
+        },
+        "pair_ar": "أَلِمَ"
+       },
+       {
+        "ar": "أَلِمَ",
+        "audio": {
+         "src": "/audio/o/338aee6d741dae4e.mp3"
+        },
+        "pair_ar": "عَلِمَ"
+       },
+       {
+        "ar": "عَمَلٌ",
+        "audio": {
+         "src": "/audio/o/ff477f6e5f83bc68.mp3"
+        },
+        "pair_ar": "أَمَلٌ"
+       },
+       {
+        "ar": "أَمَلٌ",
+        "audio": {
+         "src": "/audio/o/8964581341253fce.mp3"
+        },
+        "pair_ar": "عَمَلٌ"
+       },
+       {
+        "ar": "سَعَلَ",
+        "audio": {
+         "src": "/audio/o/3f7d7fb305ed7bf3.mp3"
+        },
+        "pair_ar": "سَأَلَ"
+       },
+       {
+        "ar": "سَأَلَ",
+        "audio": {
+         "src": "/audio/o/c85fbd65630df571.mp3"
+        },
+        "pair_ar": "سَعَلَ"
+       }
+      ],
+      "section": {
+       "id": "Bunyi ع dan ء"
+      },
+      "note_id": "ع ('ain) diucapkan dari tengah tenggorokan, seperti menekan suara \"a\" dari dalam. ء (hamzah, sering ditulis di atas alif: أ) hanya hentakan singkat, seperti awal kata \"apa\". Banyak pelajar Indonesia menyamakan keduanya, padahal artinya bisa berubah: عَلِمَ = tahu, أَلِمَ = merasa sakit; عَمَلٌ = pekerjaan, أَمَلٌ = harapan; سَعَلَ = batuk, سَأَلَ = bertanya. Ketuk tiap kotak dan bandingkan."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d6-dengar-alima",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "عَلِمَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/55f94dc013a86584.mp3"
+       }
+      },
+      "answer": "عَلِمَ",
+      "options": [
+       "عَلِمَ",
+       "أَلِمَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عَلِمَ": {
+        "src": "/audio/o/55f94dc013a86584.mp3"
+       },
+       "أَلِمَ": {
+        "src": "/audio/o/338aee6d741dae4e.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d6-dengar-amal",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "أَمَلٌ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/8964581341253fce.mp3"
+       }
+      },
+      "answer": "أَمَلٌ",
+      "options": [
+       "أَمَلٌ",
+       "عَمَلٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "أَمَلٌ": {
+        "src": "/audio/o/8964581341253fce.mp3"
+       },
+       "عَمَلٌ": {
+        "src": "/audio/o/ff477f6e5f83bc68.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d6-dengar-saala",
+      "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+      "prompt": {
+       "tts": "سَأَلَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/c85fbd65630df571.mp3"
+       }
+      },
+      "answer": "سَأَلَ",
+      "options": [
+       "سَأَلَ",
+       "سَعَلَ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "سَأَلَ": {
+        "src": "/audio/o/c85fbd65630df571.mp3"
+       },
+       "سَعَلَ": {
+        "src": "/audio/o/3f7d7fb305ed7bf3.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d6-dengar-u",
+      "instruction": "Dengarkan. Bunyi mana yang kamu dengar?",
+      "prompt": {
+       "tts": "عُ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/20f010938c0b8b8c.mp3"
+       }
+      },
+      "answer": "عُ",
+      "options": [
+       "عُ",
+       "أُ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عُ": {
+        "src": "/audio/o/20f010938c0b8b8c.mp3"
+       },
+       "أُ": {
+        "src": "/audio/o/23e6ed0b03779ecb.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d6-awal-ain",
+      "instruction": "Kata mana yang diawali huruf ع?",
+      "prompt": {
+       "id": "Cari huruf 'ain (ع) di awal kata"
+      },
+      "answer": "عائِشَةُ",
+      "options": [
+       "عائِشَةُ",
+       "أَحْمَدُ",
+       "أَنا"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "عائِشَةُ": {
+        "src": "/audio/o/c5d721ee211a8be9.mp3"
+       },
+       "أَحْمَدُ": {
+        "src": "/audio/o/1188870136e73014.mp3"
+       },
+       "أَنا": {
+        "src": "/audio/o/9eee807a139555c1.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u1-d6-ucap-alima",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "عَلِمَ",
+       "id": "dia (lk) tahu",
+       "audio": {
+        "src": "/audio/o/55f94dc013a86584.mp3"
+       }
+      },
+      "target": "عَلِمَ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u1-d6-ucap-amal",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "عَمَلٌ",
+       "id": "pekerjaan",
+       "audio": {
+        "src": "/audio/o/ff477f6e5f83bc68.mp3"
+       }
+      },
+      "target": "عَمَلٌ"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d6-simak-aisyah",
+      "instruction": "Dengarkan. Dari mana dia?",
+      "prompt": {
+       "tts": "أَنا عائِشَةُ، أَنا مِنْ مالِيزِيا.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/f600e4589f4d2f1a.mp3"
+       }
+      },
+      "answer": "Malaysia",
+      "options": [
+       "Malaysia",
+       "Mesir",
+       "Indonesia"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d6-simak-ustaz",
+      "instruction": "Dengarkan. Siapa dia?",
+      "prompt": {
+       "tts": "أَنا أُسْتاذٌ مِنْ مِصْرَ.",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/04205862997cca36.mp3"
+       }
+      },
+      "answer": "Guru dari Mesir",
+      "options": [
+       "Guru dari Mesir",
+       "Pelajar dari Mesir",
+       "Guru dari Turki"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u1-d6-lat-dengar-alima2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "أَلِمَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/338aee6d741dae4e.mp3"
+      }
+     },
+     "answer": "أَلِمَ",
+     "options": [
+      "أَلِمَ",
+      "عَلِمَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَلِمَ": {
+       "src": "/audio/o/338aee6d741dae4e.mp3"
+      },
+      "عَلِمَ": {
+       "src": "/audio/o/55f94dc013a86584.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d6-lat-dengar-amal2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "عَمَلٌ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/ff477f6e5f83bc68.mp3"
+      }
+     },
+     "answer": "عَمَلٌ",
+     "options": [
+      "عَمَلٌ",
+      "أَمَلٌ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "عَمَلٌ": {
+       "src": "/audio/o/ff477f6e5f83bc68.mp3"
+      },
+      "أَمَلٌ": {
+       "src": "/audio/o/8964581341253fce.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d6-lat-dengar-saala2",
+     "instruction": "Dengarkan. Kata mana yang kamu dengar?",
+     "prompt": {
+      "tts": "سَعَلَ",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/3f7d7fb305ed7bf3.mp3"
+      }
+     },
+     "answer": "سَعَلَ",
+     "options": [
+      "سَعَلَ",
+      "سَأَلَ"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "سَعَلَ": {
+       "src": "/audio/o/3f7d7fb305ed7bf3.mp3"
+      },
+      "سَأَلَ": {
+       "src": "/audio/o/c85fbd65630df571.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d6-lat-simak-budi",
+     "instruction": "Dengarkan. Dari mana dia?",
+     "prompt": {
+      "tts": "أَنا بُودِي، أَنا مِنْ سُورابايا.",
+      "autoplay": true,
+      "audio": {
+       "src": "/audio/o/38e674009865d8af.mp3"
+      }
+     },
+     "answer": "Surabaya",
+     "options": [
+      "Surabaya",
+      "Bandung",
+      "Medan"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u1-d7",
+   "dars": 7,
+   "title_id": "Berbicara",
+   "skill": "Kalam",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "vocab",
+      "rows": [
+       {
+        "ar": "مَعَ السَّلامَةِ",
+        "id": "selamat jalan / selamat tinggal · ★ selamat",
+        "emoji": "👋",
+        "audio": {
+         "src": "/audio/o/037e3b35b2fec42a.mp3"
+        }
+       },
+       {
+        "ar": "إِلَى اللِّقاءِ",
+        "id": "sampai jumpa",
+        "emoji": "🙌",
+        "audio": {
+         "src": "/audio/o/c92de183c0eb483f.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Berpamitan"
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u1-d7-kenalkan-diri",
+      "instruction": "Perkenalkan dirimu: salam, nama, dan kota asalmu",
+      "prompt": {
+       "id": "Pakai nama dan kotamu sendiri."
+      },
+      "model": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ.",
+        "id": "Assalamualaikum.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/e7d8432a84d0871c.mp3"
+        }
+       },
+       {
+        "ar": "اِسْمِي رِزْقِي.",
+        "id": "Nama saya Rizki.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/aa253bd79a8ffcdf.mp3"
+        }
+       },
+       {
+        "ar": "أَنا مِنْ بانْدُونْغ.",
+        "id": "Saya dari Bandung.",
+        "speaker_ar": "رِزْقِي",
+        "audio": {
+         "src": "/audio/o/e4580a1949b7d6da.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u1-d7-ucap-indonesi",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَنا إِنْدُونِيسِيٌّ.",
+       "id": "Saya orang Indonesia. (lk)",
+       "audio": {
+        "src": "/audio/o/d1278ea63a71af0e.mp3"
+       }
+      },
+      "target": "أَنا إِنْدُونِيسِيٌّ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u1-d7-ucap-indonesiyyah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "أَنا إِنْدُونِيسِيَّةٌ.",
+       "id": "Saya orang Indonesia. (pr)",
+       "audio": {
+        "src": "/audio/o/a71bb440f33f2b0a.mp3"
+       }
+      },
+      "target": "أَنا إِنْدُونِيسِيَّةٌ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d7-sapa-pagi-ustaz",
+      "instruction": "Pagi hari kamu bertemu Ustaz Mahmud. Kamu mengucapkan …",
+      "prompt": {
+       "id": "Menyapa di pagi hari",
+       "emoji": "🌅"
+      },
+      "answer": "صَباحَ الخَيْرِ يا أُسْتاذُ.",
+      "options": [
+       "صَباحَ الخَيْرِ يا أُسْتاذُ.",
+       "صَباحَ النُّورِ يا أُسْتاذُ.",
+       "مَعَ السَّلامَةِ يا أُسْتاذُ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "صَباحَ الخَيْرِ يا أُسْتاذُ.": {
+        "src": "/audio/o/54805e16b77ee3c9.mp3"
+       },
+       "صَباحَ النُّورِ يا أُسْتاذُ.": {
+        "src": "/audio/o/5173d7a758a37d95.mp3"
+       },
+       "مَعَ السَّلامَةِ يا أُسْتاذُ.": {
+        "src": "/audio/o/bc79414b7b746f12.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d7-pamit",
+      "instruction": "Kelas selesai dan kamu pulang. Kamu mengucapkan …",
+      "prompt": {
+       "id": "Berpamitan",
+       "emoji": "👋"
+      },
+      "answer": "مَعَ السَّلامَةِ.",
+      "options": [
+       "مَعَ السَّلامَةِ.",
+       "أَهْلًا وَسَهْلًا.",
+       "صَباحَ النُّورِ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مَعَ السَّلامَةِ.": {
+        "src": "/audio/o/b0b9f0c6eb9983e4.mp3"
+       },
+       "أَهْلًا وَسَهْلًا.": {
+        "src": "/audio/o/fc4254bdeef90f88.mp3"
+       },
+       "صَباحَ النُّورِ.": {
+        "src": "/audio/o/03020ddba8e85181.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u1-d7-tanya-teman-pr",
+      "instruction": "Tanyakan nama dan asal teman perempuanmu",
+      "prompt": {
+       "id": "Ingat: pakai bentuk perempuan (ـكِ, أَنْتِ)."
+      },
+      "model": [
+       {
+        "ar": "ما اسْمُكِ؟",
+        "id": "Siapa namamu? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/10d803c32fd60bac.mp3"
+        }
+       },
+       {
+        "ar": "مِنْ أَيْنَ أَنْتِ؟",
+        "id": "Kamu dari mana? (pr)",
+        "speaker_ar": "سِيتِي",
+        "audio": {
+         "src": "/audio/o/7b9cef8e47d8f22d.mp3"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d7-jawab-siti",
+      "instruction": "Kamu Siti dari Medan. Ustaz bertanya: هَلْ أَنْتِ مالِيزِيَّةٌ؟ Jawabanmu …",
+      "prompt": {
+       "ar": "هَلْ أَنْتِ مالِيزِيَّةٌ؟",
+       "audio": {
+        "src": "/audio/o/690bf6c80f874af3.mp3"
+       }
+      },
+      "answer": "لا، أَنا إِنْدُونِيسِيَّةٌ.",
+      "options": [
+       "لا، أَنا إِنْدُونِيسِيَّةٌ.",
+       "نَعَمْ، أَنا مالِيزِيَّةٌ.",
+       "لا، أَنا إِنْدُونِيسِيٌّ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "لا، أَنا إِنْدُونِيسِيَّةٌ.": {
+        "src": "/audio/o/3120e420f8bb8d89.mp3"
+       },
+       "نَعَمْ، أَنا مالِيزِيَّةٌ.": {
+        "src": "/audio/o/064a3ef8a46e7c6a.mp3"
+       },
+       "لا، أَنا إِنْدُونِيسِيٌّ.": {
+        "src": "/audio/o/1af1e2d459892be1.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "repeat",
+      "key": "r:j1u1-d7-ucap-maassalamah",
+      "instruction": "Dengarkan, lalu tirukan",
+      "prompt": {
+       "ar": "مَعَ السَّلامَةِ.",
+       "id": "Selamat jalan.",
+       "audio": {
+        "src": "/audio/o/f7d9b18302d4d1d7.mp3"
+       }
+      },
+      "target": "مَعَ السَّلامَةِ."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "speak",
+      "key": "j1u1-d7-kenalkan-teman",
+      "instruction": "Perkenalkan temanmu kepada ustaz",
+      "prompt": {
+       "id": "Sebut nama dan asal kotanya."
+      },
+      "model": [
+       {
+        "ar": "هٰذا صَدِيقِي رِزْقِي.",
+        "id": "Ini teman saya, Rizki.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/bae34e16e4997220.mp3"
+        }
+       },
+       {
+        "ar": "هُوَ مِنْ بانْدُونْغ.",
+        "id": "Dia dari Bandung.",
+        "speaker_ar": "بُودِي",
+        "audio": {
+         "src": "/audio/o/2696d15dbeaf8da8.mp3"
+        }
+       }
+      ]
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u1-d7-lat-ilal-liqa",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "إِلَى اللِّقاءِ",
+      "audio": {
+       "src": "/audio/o/c92de183c0eb483f.mp3"
+      }
+     },
+     "answer": "sampai jumpa",
+     "options": [
+      "sampai jumpa",
+      "selamat pagi",
+      "selamat datang"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d7-lat-maassalamah",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "مَعَ السَّلامَةِ",
+      "audio": {
+       "src": "/audio/o/037e3b35b2fec42a.mp3"
+      }
+     },
+     "answer": "selamat jalan / selamat tinggal",
+     "options": [
+      "selamat jalan / selamat tinggal",
+      "apa kabar?",
+      "selamat datang"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d7-lat-jawab-budi",
+     "instruction": "Kamu Budi dari Surabaya. Ustaz bertanya: هَلْ أَنْتَ مِنْ بانْدُونْغ؟ Jawabanmu …",
+     "prompt": {
+      "ar": "هَلْ أَنْتَ مِنْ بانْدُونْغ؟",
+      "audio": {
+       "src": "/audio/o/7593c3569b7f4768.mp3"
+      }
+     },
+     "answer": "لا، أَنا مِنْ سُورابايا.",
+     "options": [
+      "لا، أَنا مِنْ سُورابايا.",
+      "نَعَمْ، أَنا مِنْ بانْدُونْغ.",
+      "لا، أَنا مِنْ مِصْرَ."
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "لا، أَنا مِنْ سُورابايا.": {
+       "src": "/audio/o/d63148429dc2ac58.mp3"
+      },
+      "نَعَمْ، أَنا مِنْ بانْدُونْغ.": {
+       "src": "/audio/o/db418c7112cae0f0.mp3"
+      },
+      "لا، أَنا مِنْ مِصْرَ.": {
+       "src": "/audio/o/ea2f553a950bf8a2.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d7-lat-balas-ahlan",
+     "instruction": "Pilih balasan yang tepat",
+     "prompt": {
+      "ar": "أَهْلًا وَسَهْلًا يا عائِشَةُ!",
+      "audio": {
+       "src": "/audio/o/eb568ffd2664f032.mp3"
+      }
+     },
+     "answer": "أَهْلًا بِكِ.",
+     "options": [
+      "أَهْلًا بِكِ.",
+      "مَعَ السَّلامَةِ.",
+      "صَباحَ الخَيْرِ!"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "أَهْلًا بِكِ.": {
+       "src": "/audio/o/55ca768bd4395efa.mp3"
+      },
+      "مَعَ السَّلامَةِ.": {
+       "src": "/audio/o/b0b9f0c6eb9983e4.mp3"
+      },
+      "صَباحَ الخَيْرِ!": {
+       "src": "/audio/o/3266a81b74c98373.mp3"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "j1u1-d8",
+   "dars": 8,
+   "title_id": "Membaca",
+   "skill": "Qira'ah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "السَّلامُ عَلَيْكُمْ.",
+        "id": "Assalamualaikum.",
+        "audio": {
+         "src": "/audio/o/d71d93ed1810592f.mp3"
+        }
+       },
+       {
+        "ar": "اِسْمِي سِيتِي.",
+        "id": "Nama saya Siti.",
+        "audio": {
+         "src": "/audio/o/9772a3aa7b71ecda.mp3"
+        }
+       },
+       {
+        "ar": "أَنا طالِبَةٌ فِي مَعْهَدِ الهُدَى.",
+        "id": "Saya pelajar (pr) di Ma'had al-Huda.",
+        "audio": {
+         "src": "/audio/o/e1892545fa5b1e5e.mp3"
+        }
+       },
+       {
+        "ar": "أَنا إِنْدُونِيسِيَّةٌ مِنْ مِيدان.",
+        "id": "Saya orang Indonesia dari Medan.",
+        "audio": {
+         "src": "/audio/o/aa29d6e096dd3fdd.mp3"
+        }
+       },
+       {
+        "ar": "صَدِيقَتِي عائِشَةُ، هِيَ مالِيزِيَّةٌ.",
+        "id": "Teman saya Aisyah, dia orang Malaysia.",
+        "audio": {
+         "src": "/audio/o/edb2394642465ada.mp3"
+        }
+       },
+       {
+        "ar": "الأُسْتاذُ مَحْمُودٌ مِصْرِيٌّ.",
+        "id": "Ustaz Mahmud orang Mesir.",
+        "audio": {
+         "src": "/audio/o/53613eb4d0a47f48.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 1: Siti"
+      },
+      "imgs": [
+       "/img/o/u1-baca-siti.webp"
+      ],
+      "instruction_id": "Baca pelan-pelan. Ketuk tombol suara bila perlu."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d8-baca-siti-malaysia",
+      "instruction": "Benar atau salah? \"Siti orang Malaysia.\"",
+      "prompt": {
+       "ar": "سِيتِي مالِيزِيَّةٌ.",
+       "audio": {
+        "src": "/audio/o/3bac989550c97b36.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d8-baca-siti-mahad",
+      "instruction": "Benar atau salah? \"Siti pelajar di Ma'had al-Huda.\"",
+      "prompt": {
+       "ar": "سِيتِي طالِبَةٌ فِي مَعْهَدِ الهُدَى.",
+       "audio": {
+        "src": "/audio/o/33b137fa50ba0af0.mp3"
+       }
+      },
+      "answer": "Benar",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d8-baca-sadiqah",
+      "instruction": "Siapa teman Siti?",
+      "prompt": {
+       "id": "Menurut bacaan 1"
+      },
+      "answer": "Aisyah",
+      "options": [
+       "Aisyah",
+       "Budi",
+       "Ustaz Mahmud"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d8-baca-hiya-malaysia",
+      "instruction": "Pilih kalimat yang artinya \"Dia orang Malaysia (pr)\"",
+      "prompt": {
+       "id": "Dia orang Malaysia. (pr)"
+      },
+      "answer": "هِيَ مالِيزِيَّةٌ.",
+      "options": [
+       "هِيَ مالِيزِيَّةٌ.",
+       "هُوَ مالِيزِيٌّ.",
+       "هِيَ إِنْدُونِيسِيَّةٌ."
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "هِيَ مالِيزِيَّةٌ.": {
+        "src": "/audio/o/7f0526a9da518107.mp3"
+       },
+       "هُوَ مالِيزِيٌّ.": {
+        "src": "/audio/o/f9ae36d300c6019c.mp3"
+       },
+       "هِيَ إِنْدُونِيسِيَّةٌ.": {
+        "src": "/audio/o/03077ec653be82bf.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "reading",
+      "rows": [
+       {
+        "ar": "هٰذا بُودِي.",
+        "id": "Ini Budi.",
+        "emoji": "👦",
+        "audio": {
+         "src": "/audio/o/ebff3394d9252c93.mp3"
+        }
+       },
+       {
+        "ar": "هُوَ طالِبٌ إِنْدُونِيسِيٌّ.",
+        "id": "Dia pelajar (lk) Indonesia.",
+        "audio": {
+         "src": "/audio/o/a561591533784101.mp3"
+        }
+       },
+       {
+        "ar": "هُوَ مِنْ سُورابايا.",
+        "id": "Dia dari Surabaya.",
+        "audio": {
+         "src": "/audio/o/a93181155e4acd4f.mp3"
+        }
+       },
+       {
+        "ar": "صَدِيقُهُ رِزْقِي مِنْ بانْدُونْغ.",
+        "id": "Temannya, Rizki, dari Bandung.",
+        "audio": {
+         "src": "/audio/o/2022c19013d5e830.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Bacaan 2: Budi"
+      },
+      "imgs": [
+       "/img/o/u1-baca-budi.webp"
+      ]
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d8-baca-budi-asal",
+      "instruction": "Budi dari mana?",
+      "prompt": {
+       "id": "Menurut bacaan 2"
+      },
+      "answer": "Surabaya",
+      "options": [
+       "Surabaya",
+       "Bandung",
+       "Medan"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d8-baca-budi-talib",
+      "instruction": "Benar atau salah? \"Budi seorang guru.\"",
+      "prompt": {
+       "ar": "بُودِي أُسْتاذٌ.",
+       "audio": {
+        "src": "/audio/o/50cabcc0123a0c15.mp3"
+       }
+      },
+      "answer": "Salah",
+      "options": [
+       "Benar",
+       "Salah"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d8-baca-gambar-talibah",
+      "instruction": "Pilih kata yang cocok",
+      "prompt": {
+       "emoji": "👩‍🎓"
+      },
+      "answer": "طالِبَةٌ",
+      "options": [
+       "طالِبَةٌ",
+       "أُسْتاذَةٌ",
+       "صَدِيقٌ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "طالِبَةٌ": {
+        "src": "/audio/o/2fd52e09a9674f89.mp3"
+       },
+       "أُسْتاذَةٌ": {
+        "src": "/audio/o/860486ad17c59583.mp3"
+       },
+       "صَدِيقٌ": {
+        "src": "/audio/o/4622ef8bcba45a3d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d8-baca-ustaz-misri",
+      "instruction": "Ustaz Mahmud orang …",
+      "prompt": {
+       "ar": "الأُسْتاذُ مَحْمُودٌ …",
+       "audio": {
+        "src": "/audio/o/57bd7ed6d4fbb05d.mp3"
+       }
+      },
+      "answer": "مِصْرِيٌّ",
+      "options": [
+       "مِصْرِيٌّ",
+       "مِصْرِيَّةٌ",
+       "تُرْكِيٌّ"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "مِصْرِيٌّ": {
+        "src": "/audio/o/1cdbb72c92b5f969.mp3"
+       },
+       "مِصْرِيَّةٌ": {
+        "src": "/audio/o/bdf021d0681cfc65.mp3"
+       },
+       "تُرْكِيٌّ": {
+        "src": "/audio/o/80d5a67b416b8e57.mp3"
+       }
+      }
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u1-d8-lat-baca-rizki",
+     "instruction": "Benar atau salah? \"Rizki dari Bandung.\"",
+     "prompt": {
+      "ar": "رِزْقِي مِنْ بانْدُونْغ.",
+      "audio": {
+       "src": "/audio/o/a015a9c2782ac48a.mp3"
+      }
+     },
+     "answer": "Benar",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d8-lat-baca-siti-asal",
+     "instruction": "Siti dari kota mana?",
+     "prompt": {
+      "id": "Menurut bacaan 1"
+     },
+     "answer": "Medan",
+     "options": [
+      "Medan",
+      "Jakarta",
+      "Kuala Lumpur"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d8-lat-baca-huwa",
+     "instruction": "Apa artinya?",
+     "prompt": {
+      "ar": "هُوَ طالِبٌ إِنْدُونِيسِيٌّ.",
+      "audio": {
+       "src": "/audio/o/a561591533784101.mp3"
+      }
+     },
+     "answer": "Dia pelajar (lk) Indonesia.",
+     "options": [
+      "Dia pelajar (lk) Indonesia.",
+      "Saya pelajar (lk) Indonesia.",
+      "Dia guru (lk) Indonesia."
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d8-lat-baca-aisyah",
+     "instruction": "Benar atau salah? \"Aisyah orang Indonesia.\"",
+     "prompt": {
+      "ar": "عائِشَةُ إِنْدُونِيسِيَّةٌ.",
+      "audio": {
+       "src": "/audio/o/21ed8cbec1e692ae.mp3"
+      }
+     },
+     "answer": "Salah",
+     "options": [
+      "Benar",
+      "Salah"
+     ],
+     "lang": "id"
+    }
+   ]
+  },
+  {
+   "id": "j1u1-d9",
+   "dars": 9,
+   "title_id": "Menulis ا د ذ ر ز و",
+   "skill": "Kitabah",
+   "pages": [
+    0,
+    0
+   ],
+   "track": null,
+   "steps": [
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "ا",
+        "id": "alif",
+        "audio": {
+         "src": "/audio/o/4fc340bfb295d42f.mp3"
+        }
+       },
+       {
+        "ar": "د",
+        "id": "dal",
+        "audio": {
+         "src": "/audio/o/9ba327e9c6126f72.mp3"
+        }
+       },
+       {
+        "ar": "ذ",
+        "id": "dzal",
+        "audio": {
+         "src": "/audio/o/7de722a78c253663.mp3"
+        }
+       },
+       {
+        "ar": "ر",
+        "id": "ra",
+        "audio": {
+         "src": "/audio/o/097dcac864b3884d.mp3"
+        }
+       },
+       {
+        "ar": "ز",
+        "id": "zai",
+        "audio": {
+         "src": "/audio/o/10b1ff5b59354266.mp3"
+        }
+       },
+       {
+        "ar": "و",
+        "id": "wau",
+        "audio": {
+         "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf yang tidak menyambung ke kiri"
+      },
+      "instruction_id": "Enam huruf ini menyambung ke huruf sebelumnya, tetapi tidak ke huruf sesudahnya. Telusuri bentuknya."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d9-huruf-ra",
+      "instruction": "Huruf apa ini?",
+      "prompt": {
+       "ar": "ر",
+       "audio": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       }
+      },
+      "answer": "ra",
+      "options": [
+       "ra",
+       "zai",
+       "dal"
+      ],
+      "lang": "id"
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d9-huruf-zai",
+      "instruction": "Huruf mana yang bentuknya seperti ر tetapi bertitik satu di atas?",
+      "prompt": {
+       "id": "ra + titik = …"
+      },
+      "answer": "ز",
+      "options": [
+       "ز",
+       "ذ",
+       "د"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ز": {
+        "src": "/audio/o/10b1ff5b59354266.mp3"
+       },
+       "ذ": {
+        "src": "/audio/o/7de722a78c253663.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d9-tidak-sambung",
+      "instruction": "Huruf mana yang TIDAK menyambung ke huruf sesudahnya?",
+      "prompt": {
+       "id": "Pilih satu"
+      },
+      "answer": "د",
+      "options": [
+       "د",
+       "ب",
+       "س"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       },
+       "س": {
+        "src": "/audio/o/36a5144d01eaf081.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d9-dengar-za",
+      "instruction": "Dengarkan. Huruf apa yang kamu dengar?",
+      "prompt": {
+       "tts": "زَ",
+       "autoplay": true,
+       "audio": {
+        "src": "/audio/o/bcb9bd4ab2661995.mp3"
+       }
+      },
+      "answer": "ز",
+      "options": [
+       "ز",
+       "ذ",
+       "ر"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "ز": {
+        "src": "/audio/o/10b1ff5b59354266.mp3"
+       },
+       "ذ": {
+        "src": "/audio/o/7de722a78c253663.mp3"
+       },
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "card",
+     "card": {
+      "kind": "writing",
+      "rows": [
+       {
+        "ar": "رِزْقِي",
+        "id": "Rizki",
+        "audio": {
+         "src": "/audio/o/8f6ff47eec556a4a.mp3"
+        }
+       },
+       {
+        "ar": "بُودِي",
+        "id": "Budi",
+        "audio": {
+         "src": "/audio/o/3901a2ba60debb4a.mp3"
+        }
+       },
+       {
+        "ar": "أَنا",
+        "id": "saya",
+        "audio": {
+         "src": "/audio/o/9eee807a139555c1.mp3"
+        }
+       },
+       {
+        "ar": "مِصْرُ",
+        "id": "Mesir",
+        "audio": {
+         "src": "/audio/o/317fc92eb4706c68.mp3"
+        }
+       }
+      ],
+      "section": {
+       "id": "Huruf itu dalam nama"
+      },
+      "instruction_id": "Perhatikan: setelah ا، د، ر، ز، و, huruf berikutnya ditulis terpisah."
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d9-eja-rizki",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "رِزْقِي (Rizki)"
+      },
+      "answer": "ر ز ق ي",
+      "tokens": [
+       "ر",
+       "ز",
+       "ق",
+       "ي",
+       "د"
+      ],
+      "audioMap": {
+       "ر": {
+        "src": "/audio/o/097dcac864b3884d.mp3"
+       },
+       "ز": {
+        "src": "/audio/o/10b1ff5b59354266.mp3"
+       },
+       "ق": {
+        "src": "/audio/o/f9b42c3c2a464bde.mp3"
+       },
+       "ي": {
+        "src": "/audio/o/51f9dfe25dac5366.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "arrange",
+      "key": "j1u1-d9-eja-budi",
+      "instruction": "Susun hurufnya",
+      "prompt": {
+       "id": "بُودِي (Budi)"
+      },
+      "answer": "ب و د ي",
+      "tokens": [
+       "ب",
+       "و",
+       "د",
+       "ي",
+       "ذ"
+      ],
+      "audioMap": {
+       "ب": {
+        "src": "/audio/o/c554598df79c3302.mp3"
+       },
+       "و": {
+        "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+       },
+       "د": {
+        "src": "/audio/o/9ba327e9c6126f72.mp3"
+       },
+       "ي": {
+        "src": "/audio/o/51f9dfe25dac5366.mp3"
+       },
+       "ذ": {
+        "src": "/audio/o/7de722a78c253663.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d9-tulis-budi",
+      "instruction": "Mana tulisan \"Budi\" yang benar?",
+      "prompt": {
+       "id": "Budi"
+      },
+      "answer": "بُودِي",
+      "options": [
+       "بُودِي",
+       "بُوذِي",
+       "بُورِي"
+      ],
+      "lang": "ar",
+      "audioMap": {
+       "بُودِي": {
+        "src": "/audio/o/3901a2ba60debb4a.mp3"
+       },
+       "بُوذِي": {
+        "src": "/audio/o/6973bf4a26434681.mp3"
+       },
+       "بُورِي": {
+        "src": "/audio/o/7df13ab99c417215.mp3"
+       }
+      }
+     }
+    },
+    {
+     "t": "q",
+     "q": {
+      "type": "choice",
+      "key": "j1u1-d9-dzal-bunyi",
+      "instruction": "Huruf ذ dibaca …",
+      "prompt": {
+       "ar": "ذ",
+       "audio": {
+        "src": "/audio/o/7de722a78c253663.mp3"
+       }
+      },
+      "answer": "dz, seperti \"th\" pada kata Inggris \"this\"",
+      "options": [
+       "dz, seperti \"th\" pada kata Inggris \"this\"",
+       "d biasa",
+       "z biasa"
+      ],
+      "lang": "id"
+     }
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "key": "j1u1-d9-lat-huruf-wau",
+     "instruction": "Huruf apa ini?",
+     "prompt": {
+      "ar": "و",
+      "audio": {
+       "src": "/audio/o/f0f5ad6acc2676cf.mp3"
+      }
+     },
+     "answer": "wau",
+     "options": [
+      "wau",
+      "ra",
+      "alif"
+     ],
+     "lang": "id"
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d9-lat-huruf-dzal",
+     "instruction": "Huruf mana yang bentuknya seperti د tetapi bertitik satu di atas?",
+     "prompt": {
+      "id": "dal + titik = …"
+     },
+     "answer": "ذ",
+     "options": [
+      "ذ",
+      "ز",
+      "ر"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ذ": {
+       "src": "/audio/o/7de722a78c253663.mp3"
+      },
+      "ز": {
+       "src": "/audio/o/10b1ff5b59354266.mp3"
+      },
+      "ر": {
+       "src": "/audio/o/097dcac864b3884d.mp3"
+      }
+     }
+    },
+    {
+     "type": "choice",
+     "key": "j1u1-d9-lat-awal-rizki",
+     "instruction": "Huruf pertama nama رِزْقِي adalah …",
+     "prompt": {
+      "ar": "رِزْقِي",
+      "audio": {
+       "src": "/audio/o/8f6ff47eec556a4a.mp3"
+      }
+     },
+     "answer": "ر",
+     "options": [
+      "ر",
+      "ز",
+      "د"
+     ],
+     "lang": "ar",
+     "audioMap": {
+      "ر": {
+       "src": "/audio/o/097dcac864b3884d.mp3"
+      },
+      "ز": {
+       "src": "/audio/o/10b1ff5b59354266.mp3"
+      },
+      "د": {
+       "src": "/audio/o/9ba327e9c6126f72.mp3"
+      }
+     }
+    },
+    {
+     "type": "arrange",
+     "key": "j1u1-d9-lat-eja-misr",
+     "instruction": "Susun hurufnya",
+     "prompt": {
+      "id": "مِصْرُ (Mesir)"
+     },
+     "answer": "م ص ر",
+     "tokens": [
+      "م",
+      "ص",
+      "ر",
+      "ز"
+     ],
+     "audioMap": {
+      "م": {
+       "src": "/audio/o/a6354d34017cd6cb.mp3"
+      },
+      "ص": {
+       "src": "/audio/o/26c8f9c0bbf65d7d.mp3"
+      },
+      "ر": {
+       "src": "/audio/o/097dcac864b3884d.mp3"
+      },
+      "ز": {
+       "src": "/audio/o/10b1ff5b59354266.mp3"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}
